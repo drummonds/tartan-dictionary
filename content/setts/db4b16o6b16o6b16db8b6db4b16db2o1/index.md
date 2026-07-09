@@ -1,5 +1,12 @@
 ---
 title: "Thomas Blake Glover"
-redirect: "/variants/s12/db4b16o6b16o6b16db8b6db4b16db2o1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Thomas Blake Glover](/variants/s12/db4b16o6b16o6b16db8b6db4b16db2o1~x2/).
+This is the **Thomas Blake Glover** sett — one scale-free proportion (`db4b16o6b16o6b16db8b6db4b16db2o1`), colour order pattern
+[BBRBRBBBBBBR](/stripes/bbrbrbbbbbbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Thomas Blake Glover](/variants/s12/db4b16o6b16o6b16db8b6db4b16db2o1~x2/) ★ | ~2016 | ![Thomas Blake Glover sett](/variants/s12/db4b16o6b16o6b16db8b6db4b16db2o1~x2/sett.png) |

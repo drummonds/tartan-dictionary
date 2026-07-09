@@ -1,5 +1,12 @@
 ---
 title: "MacColl Hunting"
-redirect: "/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacColl Hunting](/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/).
+This is the **MacColl Hunting** sett — one scale-free proportion (`ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2`), colour order pattern
+[RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/). It is recorded as a single **variant**, below.
+First attested **1950**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacColl Hunting](/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/) ★ | 1950 | ![MacColl Hunting sett](/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/sett.png) |

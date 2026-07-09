@@ -1,5 +1,12 @@
 ---
 title: "Scottish Borders Tourist Board (Corp"
-redirect: "/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scottish Borders Tourist Board (Corp](/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/).
+This is the **Scottish Borders Tourist Board (Corp** sett — one scale-free proportion (`db3g4db24g6w3g4r3g8ly3`), colour order pattern
+[BGBGWGRGY](/stripes/bgbgwgrgy/). It is recorded as a single **variant**, below.
+First attested **~2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scottish Borders Tourist Board (Corp](/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/) ★ | ~2000 | ![Scottish Borders Tourist Board (Corp sett](/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/sett.png) |

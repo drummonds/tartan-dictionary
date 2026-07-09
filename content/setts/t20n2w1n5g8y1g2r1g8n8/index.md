@@ -1,5 +1,12 @@
 ---
 title: "Connecticut, State of (District)"
-redirect: "/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Connecticut, State of (District)](/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/).
+This is the **Connecticut, State of (District)** sett — one scale-free proportion (`t20n2w1n5g8y1g2r1g8n8`), colour order pattern
+[BBWBGGGRGB](/stripes/bbwbgggrgb/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Connecticut, State of (District)](/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/) ★ | 1994 | ![Connecticut, State of (District) sett](/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/sett.png) |

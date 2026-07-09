@@ -1,14 +1,16 @@
 ---
 title: "Passion of Scotland, Pewter (Fashion"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Passion of Scotland, Pewter (Fashion"
-  url: ""
+  url: "/setts/n8dr3dt34k34dp3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n8dr3dt34k34dp3/)
-(the same proportion at any scale), whose colour order is pattern [BBBKB](/stripes/bbbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n8dr3dt34k34dp3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBKB](/stripes/bbbkb/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8lo2n30dr30lb3~x2/"><circle cx="251.4" cy="185.5" r="4" fill="#3465a4"><title>Douglas Ancient Red</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.3" cy="169.1" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><circle cx="197.9" cy="126.7" r="4" fill="#3465a4"><title>Milne-Murtagh (2009)</title></circle></a><a href="/variants/s6/r1n12k6ly1do10r1~x4/"><circle cx="195.9" cy="180.9" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="256.1" cy="204.7" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="192.2" cy="199.1" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="217.6" cy="193.2" r="4" fill="#3465a4"><title>Leahy, Thomas Francis &amp; Mary (Australia)</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.2" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><circle cx="177.0" cy="204.4" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><circle cx="234.5" cy="192.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8lo2n30dr30lb3~x2/"><circle cx="251.4" cy="185.4" r="4" fill="#3465a4"><title>Douglas Ancient Red</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.4" cy="169.0" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><circle cx="197.9" cy="126.6" r="4" fill="#3465a4"><title>Milne-Murtagh (2009)</title></circle></a><a href="/variants/s6/r1n12k6ly1do10r1~x4/"><circle cx="195.9" cy="180.8" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.2" cy="182.2" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="256.1" cy="204.7" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="192.3" cy="199.1" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="217.6" cy="193.1" r="4" fill="#3465a4"><title>Leahy, Thomas Francis &amp; Mary (Australia)</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.3" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><circle cx="177.0" cy="204.3" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><circle cx="234.6" cy="191.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/

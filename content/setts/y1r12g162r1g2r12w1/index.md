@@ -1,5 +1,12 @@
 ---
 title: "MacFie"
-redirect: "/variants/s7/y1r12g162r1g2r12w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacFie](/variants/s7/y1r12g162r1g2r12w1~x2/).
+This is the **MacFie** sett — one scale-free proportion (`y1r12g162r1g2r12w1`), colour order pattern
+[GRGRGRW](/stripes/grgrgrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacFie](/variants/s7/y1r12g162r1g2r12w1~x2/) ★ | ~2016 | ![MacFie sett](/variants/s7/y1r12g162r1g2r12w1~x2/sett.png) |

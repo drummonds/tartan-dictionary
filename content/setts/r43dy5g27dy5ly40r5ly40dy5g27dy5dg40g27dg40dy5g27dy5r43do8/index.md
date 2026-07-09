@@ -1,5 +1,12 @@
 ---
 title: "Cuillins of Skye (Fashion)"
-redirect: "/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cuillins of Skye (Fashion)](/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/).
+This is the **Cuillins of Skye (Fashion)** sett — one scale-free proportion (`r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8`), colour order pattern
+[BRGGGGGGGGGYRYGGGR](/stripes/brgggggggggyrygggr/). It is recorded as a single **variant**, below.
+First attested **~2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Cuillins of Skye (Fashion)](/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/) ★ | ~2011 | ![Cuillins of Skye (Fashion) sett](/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/sett.png) |

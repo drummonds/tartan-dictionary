@@ -1,14 +1,16 @@
 ---
 title: "Sir Billi (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sir Billi (Corporate)"
-  url: ""
+  url: "/setts/r8dg12lr5k11dg42k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8dg12lr5k11dg42k3/)
-(the same proportion at any scale), whose colour order is pattern [KGKYGR](/stripes/kgkygr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r8dg12lr5k11dg42k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGKYGR](/stripes/kgkygr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.0" cy="133.1" r="4" fill="#3465a4"><title>Sevlon Bruce Personal Tartan</title></circle></a><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.4" cy="125.5" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="169.1" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.9" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.9" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="253.9" cy="177.5" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="265.9" cy="128.9" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s7/k2r1ly1y8k15y2dp1~x4~ly3307090-y2602166/"><circle cx="262.0" cy="124.7" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="341.4" cy="158.9" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><circle cx="356.1" cy="170.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.1" cy="133.0" r="4" fill="#3465a4"><title>Sevlon Bruce Personal Tartan</title></circle></a><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.4" cy="125.4" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="169.0" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="254.0" cy="177.4" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="266.0" cy="128.8" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s7/k2r1ly1y8k15y2dp1~x4~ly3307090-y2602166/"><circle cx="262.0" cy="124.5" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="341.5" cy="158.8" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><circle cx="356.1" cy="170.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r8dg12lr5k11dg42k3~x2/

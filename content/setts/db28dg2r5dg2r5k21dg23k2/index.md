@@ -1,5 +1,12 @@
 ---
 title: "Bentley"
-redirect: "/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bentley](/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/).
+This is the **Bentley** sett — one scale-free proportion (`db28dg2r5dg2r5k21dg23k2`), colour order pattern
+[BGRGRKGK](/stripes/bgrgrkgk/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bentley](/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/) ★ | 2000 | ![Bentley sett](/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/sett.png) |

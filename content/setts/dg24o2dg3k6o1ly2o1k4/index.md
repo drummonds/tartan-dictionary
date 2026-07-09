@@ -1,5 +1,12 @@
 ---
 title: "Green Ridge"
-redirect: "/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Green Ridge](/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/).
+This is the **Green Ridge** sett — one scale-free proportion (`dg24o2dg3k6o1ly2o1k4`), colour order pattern
+[GRGKRYRK](/stripes/grgkryrk/). It is recorded as a single **variant**, below.
+First attested **1995**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Green Ridge](/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/) ★ | 1995 | ![Green Ridge sett](/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Callum Scotch House Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Callum Scotch House Trade Tartan"
-  url: ""
+  url: "/setts/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3/)
-(the same proportion at any scale), whose colour order is pattern [GWGWGBWBWBWR](/stripes/gwgwgbwbwbwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGWGBWBWBWR](/stripes/gwgwgbwbwbwr/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menz
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><circle cx="187.2" cy="152.3" r="4" fill="#3465a4"><title>Hawaiian</title></circle></a><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/"><circle cx="162.0" cy="156.4" r="4" fill="#3465a4"><title>Glenfalloch Corporate Tartan</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.3" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/"><circle cx="160.0" cy="139.4" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="160.3" cy="139.3" r="4" fill="#3465a4"><title>Walker, Dress (Name)</title></circle></a><a href="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/"><circle cx="173.5" cy="153.6" r="4" fill="#3465a4"><title>Belfast Tattoo</title></circle></a><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41w4~x2/"><circle cx="208.1" cy="144.0" r="4" fill="#3465a4"><title>Philadelphia Police and Fire Pipes and Drums</title></circle></a><a href="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/"><circle cx="176.0" cy="154.0" r="4" fill="#3465a4"><title>Belfast Tattoo</title></circle></a><a href="/variants/s16/dt4lr4db7lr4dt3lr22dbi8dt8dbi8dt8dbi8dt8dbi8dt8lr34r4~x2~db1404245-dbi1406275/"><circle cx="189.4" cy="153.2" r="4" fill="#3465a4"><title>Perry Golf</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.4" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><circle cx="174.0" cy="150.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><circle cx="187.2" cy="152.2" r="4" fill="#3465a4"><title>Hawaiian</title></circle></a><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/"><circle cx="162.0" cy="156.2" r="4" fill="#3465a4"><title>Glenfalloch Corporate Tartan</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.2" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/"><circle cx="160.0" cy="139.3" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="160.3" cy="139.2" r="4" fill="#3465a4"><title>Walker, Dress (Name)</title></circle></a><a href="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/"><circle cx="173.5" cy="153.5" r="4" fill="#3465a4"><title>Belfast Tattoo</title></circle></a><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41w4~x2/"><circle cx="208.1" cy="143.8" r="4" fill="#3465a4"><title>Philadelphia Police and Fire Pipes and Drums</title></circle></a><a href="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/"><circle cx="176.1" cy="153.9" r="4" fill="#3465a4"><title>Belfast Tattoo</title></circle></a><a href="/variants/s16/dt4lr4db7lr4dt3lr22dbi8dt8dbi8dt8dbi8dt8dbi8dt8lr34r4~x2~db1404245-dbi1406275/"><circle cx="189.4" cy="153.1" r="4" fill="#3465a4"><title>Perry Golf</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.3" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><circle cx="174.1" cy="150.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/

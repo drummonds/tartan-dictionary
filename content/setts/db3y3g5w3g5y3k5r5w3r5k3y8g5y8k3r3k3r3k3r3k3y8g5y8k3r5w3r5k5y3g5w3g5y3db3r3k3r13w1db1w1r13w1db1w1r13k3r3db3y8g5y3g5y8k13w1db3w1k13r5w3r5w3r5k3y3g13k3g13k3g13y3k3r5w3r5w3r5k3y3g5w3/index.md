@@ -1,5 +1,12 @@
 ---
 title: "Drummond of Strathallan or Ogilvy"
-redirect: "/variants/s82/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Drummond of Strathallan or Ogilvy](/variants/s82/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/).
+This is the **Drummond of Strathallan or Ogilvy** sett — one scale-free proportion (`db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3`), colour order pattern
+[BGGWGGKRWRKGGGKRKRKRKGGGKRWRKGGWGGBRKRWBWRWBWRKRBGGGGGKWBWKRWRWRKGGKGKGGKRWRWRKGGW](/stripes/bggwggkrwrkgggkrkrkrkgggkrwrkggwggbrkrwbwrwbwrkrbgggggkwbwkrwrwrkggkgkggkrwrwrkggw/). It is recorded as a single **variant**, below.
+First attested **1812**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Drummond of Strathallan or Ogilvy](/variants/s82/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/) ★ | 1812 | ![Drummond of Strathallan or Ogilvy sett](/variants/s82/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/sett.png) |

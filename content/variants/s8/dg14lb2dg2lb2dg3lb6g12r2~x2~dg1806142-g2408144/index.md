@@ -1,14 +1,16 @@
 ---
 title: "Cranston"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cranston"
-  url: ""
+  url: "/setts/dg14lb2dg2lb2dg3lb6g12r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg14lb2dg2lb2dg3lb6g12r2/)
-(the same proportion at any scale), whose colour order is pattern [GWGWGWGR](/stripes/gwgwgwgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg14lb2dg2lb2dg3lb6g12r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGWGWGR](/stripes/gwgwgwgr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3o7g2r2g14o2g2db3~x2/"><circle cx="297.5" cy="227.9" r="4" fill="#3465a4"><title>Daks, Tartan-Loden</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.4" cy="202.5" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.6" cy="228.2" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.2" cy="217.0" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.2" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.3" cy="230.3" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.6" cy="226.5" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/"><circle cx="200.4" cy="217.8" r="4" fill="#3465a4"><title>New Mexico (Fashion)</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.5" cy="210.1" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><circle cx="259.6" cy="239.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3o7g2r2g14o2g2db3~x2/"><circle cx="297.5" cy="227.8" r="4" fill="#3465a4"><title>Daks, Tartan-Loden</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.4" cy="202.4" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.7" cy="228.1" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.3" cy="217.0" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.1" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.4" cy="230.2" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.6" cy="226.4" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/"><circle cx="200.4" cy="217.8" r="4" fill="#3465a4"><title>New Mexico (Fashion)</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.2" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.5" cy="210.0" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><circle cx="259.7" cy="239.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144/

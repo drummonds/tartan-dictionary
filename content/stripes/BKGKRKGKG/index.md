@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/">Vosko</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><img src="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/sett.png" alt="Vosko sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/">Vosko Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><img src="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/sett.png" alt="Vosko Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

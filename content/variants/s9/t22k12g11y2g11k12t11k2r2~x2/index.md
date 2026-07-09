@@ -1,14 +1,16 @@
 ---
 title: "Huntly Gordon Fancy Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Huntly Gordon Fancy Tartan"
-  url: ""
+  url: "/setts/t22k12g11y2g11k12t11k2r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t22k12g11y2g11k12t11k2r2/)
-(the same proportion at any scale), whose colour order is pattern [BKGGGKBKR](/stripes/bkgggkbkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t22k12g11y2g11k12t11k2r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGGGKBKR](/stripes/bkgggkbkr/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2001 Unknown until House of Edgar published their own Old a
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2001 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="182.0" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><circle cx="106.6" cy="169.2" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="162.6" cy="192.5" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s10/g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090/"><circle cx="130.1" cy="178.8" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.0" cy="166.4" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/"><circle cx="100.4" cy="167.8" r="4" fill="#3465a4"><title>Doon Valley Crafters (Corporate)</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x4/"><circle cx="151.1" cy="170.5" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x2/"><circle cx="151.1" cy="170.5" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><circle cx="156.0" cy="172.0" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><circle cx="126.1" cy="182.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="181.9" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><circle cx="106.6" cy="169.1" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="162.6" cy="192.4" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s10/g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090/"><circle cx="130.1" cy="178.7" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.1" cy="166.3" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/"><circle cx="100.4" cy="167.7" r="4" fill="#3465a4"><title>Doon Valley Crafters (Corporate)</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x4/"><circle cx="151.1" cy="170.4" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x2/"><circle cx="151.1" cy="170.4" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><circle cx="156.0" cy="171.9" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><circle cx="126.1" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/t22k12g11y2g11k12t11k2r2~x2/

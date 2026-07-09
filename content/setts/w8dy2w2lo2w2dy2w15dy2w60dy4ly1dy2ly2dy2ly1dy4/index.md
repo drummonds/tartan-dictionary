@@ -1,5 +1,12 @@
 ---
 title: "UPS No. 2 (Corporate)"
-redirect: "/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [UPS No. 2 (Corporate)](/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/).
+This is the **UPS No. 2 (Corporate)** sett — one scale-free proportion (`w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4`), colour order pattern
+[GYGYGYGWGWGWYWGW](/stripes/gygygygwgwgwywgw/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [UPS No. 2 (Corporate)](/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/) ★ | 2009 | ![UPS No. 2 (Corporate) sett](/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/sett.png) |

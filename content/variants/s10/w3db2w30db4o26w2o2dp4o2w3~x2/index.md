@@ -1,14 +1,16 @@
 ---
 title: "Harris Lilac"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Harris Lilac"
-  url: ""
+  url: "/setts/w3db2w30db4o26w2o2dp4o2w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3db2w30db4o26w2o2dp4o2w3/)
-(the same proportion at any scale), whose colour order is pattern [WBWBRWRBRW](/stripes/wbwbrwrbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3db2w30db4o26w2o2dp4o2w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWBRWRBRW](/stripes/wbwbrwrbrw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="265.5" cy="123.9" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="236.9" cy="128.1" r="4" fill="#3465a4"><title>Largs Dress (1983)</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.1" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="225.0" cy="125.4" r="4" fill="#3465a4"><title>Largs Dress District Tartan</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.3" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="260.5" cy="128.1" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.3" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.2" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.6" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="291.1" cy="156.0" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><circle cx="279.9" cy="140.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="265.5" cy="123.7" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="236.9" cy="127.9" r="4" fill="#3465a4"><title>Largs Dress (1983)</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.0" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="225.0" cy="125.3" r="4" fill="#3465a4"><title>Largs Dress District Tartan</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.2" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="260.5" cy="128.0" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.0" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.5" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="291.1" cy="155.9" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><circle cx="279.9" cy="140.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/

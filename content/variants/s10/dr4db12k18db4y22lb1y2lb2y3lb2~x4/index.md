@@ -1,14 +1,16 @@
 ---
 title: "Windsor"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Windsor"
-  url: ""
+  url: "/setts/dr4db12k18db4y22lb1y2lb2y3lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4db12k18db4y22lb1y2lb2y3lb2/)
-(the same proportion at any scale), whose colour order is pattern [BBKBGWGWGW](/stripes/bbkbgwgwgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr4db12k18db4y22lb1y2lb2y3lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBKBGWGWGW](/stripes/bbkbgwgwgw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.5" cy="129.8" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.3" cy="127.3" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s8/k3g2k21w11g1dy21dg2dy3~x2/"><circle cx="160.8" cy="122.6" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><circle cx="161.7" cy="119.7" r="4" fill="#3465a4"><title>Moffat (1994)</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="136.2" cy="126.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="127.7" cy="127.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.4" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.2" cy="126.3" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.5" cy="115.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/variants/s10/k26n2k2n2k2n10w10n6db10lo5~x2/"><circle cx="131.1" cy="137.5" r="4" fill="#3465a4"><title>Collister (Personal)</title></circle></a><circle cx="171.4" cy="119.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.6" cy="129.7" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.3" cy="127.2" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s8/k3g2k21w11g1dy21dg2dy3~x2/"><circle cx="160.9" cy="122.5" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><circle cx="161.7" cy="119.6" r="4" fill="#3465a4"><title>Moffat (1994)</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="136.2" cy="126.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="127.7" cy="127.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.3" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.2" cy="126.2" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.6" cy="115.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/variants/s10/k26n2k2n2k2n10w10n6db10lo5~x2/"><circle cx="131.1" cy="137.3" r="4" fill="#3465a4"><title>Collister (Personal)</title></circle></a><circle cx="171.4" cy="118.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/

@@ -1,14 +1,16 @@
 ---
 title: "Unidentified #58"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified #58"
-  url: ""
+  url: "/setts/dr4k12w1dg6dr3k1dr3w1dr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4k12w1dg6dr3k1dr3w1dr3/)
-(the same proportion at any scale), whose colour order is pattern [BKWGBKBWB](/stripes/bkwgbkbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr4k12w1dg6dr3k1dr3w1dr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWGBKBWB](/stripes/bkwgbkbwb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"><circle cx="198.5" cy="166.7" r="4" fill="#3465a4"><title>Johnnie Walker (2003) (Corporate)</title></circle></a><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/"><circle cx="209.0" cy="167.1" r="4" fill="#3465a4"><title>Lunar</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="213.4" cy="162.0" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s9/k12r1k1r1k1r4dg12y1dg2~x4/"><circle cx="216.9" cy="148.8" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="166.9" cy="153.0" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.6" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="201.2" cy="149.8" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="156.1" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.5" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="148.2" cy="161.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><circle cx="196.5" cy="173.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"><circle cx="198.5" cy="166.6" r="4" fill="#3465a4"><title>Johnnie Walker (2003) (Corporate)</title></circle></a><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/"><circle cx="209.0" cy="167.0" r="4" fill="#3465a4"><title>Lunar</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="213.5" cy="161.9" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s9/k12r1k1r1k1r4dg12y1dg2~x4/"><circle cx="216.9" cy="148.7" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="166.9" cy="152.9" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.5" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="201.2" cy="149.7" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="156.0" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.4" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="148.2" cy="161.8" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><circle cx="196.5" cy="173.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/

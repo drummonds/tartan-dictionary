@@ -1,5 +1,12 @@
 ---
 title: "Chisholm Hunting #2"
-redirect: "/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Chisholm Hunting #2](/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/).
+This is the **Chisholm Hunting #2** sett — one scale-free proportion (`dy5w3dy30db6g3db3g3db3g15r3`), colour order pattern
+[GWGBGBGBGR](/stripes/gwgbgbgbgr/). It is recorded as a single **variant**, below.
+First attested **1906**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Chisholm Hunting #2](/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/) ★ | 1906 | ![Chisholm Hunting #2 sett](/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/sett.png) |

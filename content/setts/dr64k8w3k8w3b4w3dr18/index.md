@@ -1,5 +1,12 @@
 ---
 title: "Inverness - 2000 (Fashion)"
-redirect: "/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Inverness - 2000 (Fashion)](/variants/s8/dr64k8w3k8w3b4w3dr18~x2/).
+This is the **Inverness - 2000 (Fashion)** sett — one scale-free proportion (`dr64k8w3k8w3b4w3dr18`), colour order pattern
+[BKWKWBWB](/stripes/bkwkwbwb/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Inverness - 2000 (Fashion)](/variants/s8/dr64k8w3k8w3b4w3dr18~x2/) ★ | ~2002 | ![Inverness - 2000 (Fashion) sett](/variants/s8/dr64k8w3k8w3b4w3dr18~x2/sett.png) |

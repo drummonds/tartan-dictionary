@@ -1,5 +1,12 @@
 ---
 title: "MacCall/McCall"
-redirect: "/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacCall/McCall](/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/).
+This is the **MacCall/McCall** sett — one scale-free proportion (`dr3k2dr3g12dr3w1dr1g1`), colour order pattern
+[BKBGBWBG](/stripes/bkbgbwbg/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacCall/McCall](/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/) ★ | 1997 | ![MacCall/McCall sett](/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/sett.png) |

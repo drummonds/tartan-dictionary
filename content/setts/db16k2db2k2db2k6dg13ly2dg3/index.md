@@ -1,5 +1,12 @@
 ---
 title: "Christian Dewar (Personal)"
-redirect: "/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Christian Dewar (Personal)](/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/).
+This is the **Christian Dewar (Personal)** sett — one scale-free proportion (`db16k2db2k2db2k6dg13ly2dg3`), colour order pattern
+[BKBKBKGYG](/stripes/bkbkbkgyg/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Christian Dewar (Personal)](/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/) ★ | 1996 | ![Christian Dewar (Personal) sett](/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/sett.png) |

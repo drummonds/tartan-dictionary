@@ -1,5 +1,12 @@
 ---
 title: "Robieson (Personal)"
-redirect: "/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Robieson (Personal)](/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/).
+This is the **Robieson (Personal)** sett — one scale-free proportion (`w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1`), colour order pattern
+[WRBWKWKYWYBWY](/stripes/wrbwkwkywybwy/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Robieson (Personal)](/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/) ★ | 2005 | ![Robieson (Personal) sett](/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Diaspora"
-redirect: "/variants/s6/b3dg1r24b16db28w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Diaspora](/variants/s6/b3dg1r24b16db28w3~x2/).
+This is the **Diaspora** sett — one scale-free proportion (`b3dg1r24b16db28w3`), colour order pattern
+[BGRBBW](/stripes/bgrbbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Diaspora](/variants/s6/b3dg1r24b16db28w3~x2/) ★ | ~2016 | ![Diaspora sett](/variants/s6/b3dg1r24b16db28w3~x2/sett.png) |

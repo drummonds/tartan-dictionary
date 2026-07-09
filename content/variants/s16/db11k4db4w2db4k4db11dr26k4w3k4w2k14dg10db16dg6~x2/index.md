@@ -1,14 +1,16 @@
 ---
 title: "Stuart-Houghton Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stuart-Houghton Family Tartan"
-  url: ""
+  url: "/setts/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6/)
-(the same proportion at any scale), whose colour order is pattern [BKBWBKBBKWKWKGBG](/stripes/bkbwbkbbkwkwkgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBWBKBBKWKWKGBG](/stripes/bkbwbkbbkwkwkgbg/).
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2001 Andrew Stuart-Houghton wrote, I have included a design
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2001 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/"><circle cx="128.0" cy="163.3" r="4" fill="#3465a4"><title>Glengoyne, Distillery</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2/"><circle cx="135.5" cy="165.8" r="4" fill="#3465a4"><title>Glengoyne Distillery Corporate Tartan</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/"><circle cx="162.3" cy="145.8" r="4" fill="#3465a4"><title>MacKenzie - 1780 (Clan) as 78th</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/"><circle cx="126.3" cy="159.4" r="4" fill="#3465a4"><title>Glengoyne Distillery</title></circle></a><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.1" cy="137.4" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="114.6" cy="160.6" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/variants/s15/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3~x4/"><circle cx="136.5" cy="163.5" r="4" fill="#3465a4"><title>Dryer (Personal)</title></circle></a><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/"><circle cx="143.3" cy="154.5" r="4" fill="#3465a4"><title>Stephenson Htg (Name)</title></circle></a><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="166.5" cy="131.3" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="155.1" cy="134.9" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><circle cx="137.9" cy="142.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/"><circle cx="128.0" cy="163.1" r="4" fill="#3465a4"><title>Glengoyne, Distillery</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2/"><circle cx="135.5" cy="165.7" r="4" fill="#3465a4"><title>Glengoyne Distillery Corporate Tartan</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/"><circle cx="162.3" cy="145.7" r="4" fill="#3465a4"><title>MacKenzie - 1780 (Clan) as 78th</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/"><circle cx="126.3" cy="159.3" r="4" fill="#3465a4"><title>Glengoyne Distillery</title></circle></a><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.1" cy="137.2" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="114.6" cy="160.4" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/variants/s15/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3~x4/"><circle cx="136.5" cy="163.4" r="4" fill="#3465a4"><title>Dryer (Personal)</title></circle></a><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/"><circle cx="143.4" cy="154.4" r="4" fill="#3465a4"><title>Stephenson Htg (Name)</title></circle></a><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="166.5" cy="131.2" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="155.2" cy="134.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><circle cx="137.9" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/

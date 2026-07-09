@@ -1,14 +1,16 @@
 ---
 title: "Aberuchill District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Aberuchill District Tartan"
-  url: ""
+  url: "/setts/oi8k2g10dp30g30dg55k4o6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/oi8k2g10dp30g30dg55k4o6/)
-(the same proportion at any scale), whose colour order is pattern [RKGBGGKR](/stripes/rkgbggkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/oi8k2g10dp30g30dg55k4o6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGBGGKR](/stripes/rkgbggkr/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2005 Aberuchill lends it name to the area south of Comrie w
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.4" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><circle cx="266.1" cy="156.1" r="4" fill="#3465a4"><title>Batten of Argyll (Baddenach)</title></circle></a><a href="/variants/s8/dpi5k1g5dp15dg15dgi28k2r4~x2~dpi1607327-g1903114-dp1105325-dgi1806142/"><circle cx="194.6" cy="123.6" r="4" fill="#3465a4"><title>Batten of Argyll Clan Tartan</title></circle></a><a href="/variants/s9/r3k1g8ly1dyi7ly1g19dy25k1~x2~dyi1603076-dy1503076/"><circle cx="266.4" cy="125.6" r="4" fill="#3465a4"><title>The Broons (Corporate)</title></circle></a><a href="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/"><circle cx="276.2" cy="130.4" r="4" fill="#3465a4"><title>Broons, The (DC Thomson)</title></circle></a><a href="/variants/s13/n38y8db3n20y44k2g6k2y5w2db10y2k6~n1800000-y2101120/"><circle cx="278.9" cy="122.9" r="4" fill="#3465a4"><title>Giants Causeway, The</title></circle></a><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="235.7" cy="153.7" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan</title></circle></a><a href="/variants/s10/k3n3k1dg26k10y1k3dp5n4ly2~x2~k0603284-n1802249/"><circle cx="290.4" cy="116.6" r="4" fill="#3465a4"><title>Rikaco Heirloom</title></circle></a><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"><circle cx="236.6" cy="181.8" r="4" fill="#3465a4"><title>Lunting Papi (Personal)</title></circle></a><a href="/variants/s13/n19o4t2n10o22k1g3k1o3w1t5o1k3~x2~n1900000-o2500000/"><circle cx="258.7" cy="117.3" r="4" fill="#3465a4"><title>Giants Causeway (District)</title></circle></a><circle cx="244.1" cy="142.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.3" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><circle cx="266.2" cy="156.0" r="4" fill="#3465a4"><title>Batten of Argyll (Baddenach)</title></circle></a><a href="/variants/s8/dpi5k1g5dp15dg15dgi28k2r4~x2~dpi1607327-g1903114-dp1105325-dgi1806142/"><circle cx="194.6" cy="123.5" r="4" fill="#3465a4"><title>Batten of Argyll Clan Tartan</title></circle></a><a href="/variants/s9/r3k1g8ly1dyi7ly1g19dy25k1~x2~dyi1603076-dy1503076/"><circle cx="266.4" cy="125.5" r="4" fill="#3465a4"><title>The Broons (Corporate)</title></circle></a><a href="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/"><circle cx="276.2" cy="130.3" r="4" fill="#3465a4"><title>Broons, The (DC Thomson)</title></circle></a><a href="/variants/s13/n38y8db3n20y44k2g6k2y5w2db10y2k6~n1800000-y2101120/"><circle cx="278.9" cy="122.8" r="4" fill="#3465a4"><title>Giants Causeway, The</title></circle></a><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="235.7" cy="153.6" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan</title></circle></a><a href="/variants/s10/k3n3k1dg26k10y1k3dp5n4ly2~x2~k0603284-n1802249/"><circle cx="290.4" cy="116.5" r="4" fill="#3465a4"><title>Rikaco Heirloom</title></circle></a><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"><circle cx="236.7" cy="181.7" r="4" fill="#3465a4"><title>Lunting Papi (Personal)</title></circle></a><a href="/variants/s13/n19o4t2n10o22k1g3k1o3w1t5o1k3~x2~n1900000-o2500000/"><circle cx="258.7" cy="117.1" r="4" fill="#3465a4"><title>Giants Causeway (District)</title></circle></a><circle cx="244.2" cy="141.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/oi8k2g10dp30g30dg55k4o6~oi2404317-g1803114-dg1806142-o2206047/

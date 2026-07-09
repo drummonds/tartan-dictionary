@@ -1,5 +1,12 @@
 ---
 title: "Kentucky, State of"
-redirect: "/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kentucky, State of](/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/).
+This is the **Kentucky, State of** sett — one scale-free proportion (`dg13db11w2lb4r3ly3r3lb4w2db11dg13k2`), colour order pattern
+[GBWWRYRWWBGK](/stripes/gbwwryrwwbgk/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kentucky, State of](/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/) ★ | 1999 | ![Kentucky, State of sett](/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/sett.png) |

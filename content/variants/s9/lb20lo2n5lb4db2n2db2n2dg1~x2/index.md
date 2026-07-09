@@ -1,16 +1,18 @@
 ---
 title: "Boucherville Dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Boucherville Dress"
   url: "/tartans/boucherville-dress/"
 - name: "Boucherville Dress"
-  url: ""
+  url: "/setts/lb20lo2n5lb4db2n2db2n2dg1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb20lo2n5lb4db2n2db2n2dg1/)
-(the same proportion at any scale), whose colour order is pattern [GBBBBWBYW](/stripes/gbbbbwbyw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb20lo2n5lb4db2n2db2n2dg1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBBWBYW](/stripes/gbbbbwbyw/).
 
 Part of the [Boucherville Dress](/tartans/boucherville-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><circle cx="317.6" cy="176.0" r="4" fill="#3465a4"><title>Torridon, Royal Blue (Dance)</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.5" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s8/t20dr1w3db1w2db8g3w1~x4/"><circle cx="305.6" cy="156.2" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.6" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="335.1" cy="137.1" r="4" fill="#3465a4"><title>Boucherville Dress (District)</title></circle></a><a href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="339.5" cy="106.8" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.6" cy="177.4" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><circle cx="403.0" cy="147.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.8" cy="163.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="318.8" cy="176.5" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><circle cx="378.5" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><circle cx="317.6" cy="176.0" r="4" fill="#3465a4"><title>Torridon, Royal Blue (Dance)</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.4" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s8/t20dr1w3db1w2db8g3w1~x4/"><circle cx="305.6" cy="156.1" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.5" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="335.1" cy="136.9" r="4" fill="#3465a4"><title>Boucherville Dress (District)</title></circle></a><a href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="339.5" cy="106.7" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.5" cy="177.3" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><circle cx="403.0" cy="146.9" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.9" cy="163.5" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="318.8" cy="176.5" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><circle cx="378.5" cy="149.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/

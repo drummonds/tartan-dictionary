@@ -1,5 +1,12 @@
 ---
 title: "Howell of Wales"
-redirect: "/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Howell of Wales](/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/).
+This is the **Howell of Wales** sett — one scale-free proportion (`n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3`), colour order pattern
+[BRGBRBGBGBGBGGR](/stripes/brgbrbgbgbgbggr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Howell of Wales](/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/) ★ | 2002 | ![Howell of Wales sett](/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/sett.png) |

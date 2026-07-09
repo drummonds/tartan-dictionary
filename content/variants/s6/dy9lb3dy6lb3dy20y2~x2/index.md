@@ -1,14 +1,16 @@
 ---
 title: "Oman Sultanate of.. Regimental Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Oman Sultanate of.. Regimental Tartan"
-  url: ""
+  url: "/setts/dy9lb3dy6lb3dy20y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy9lb3dy6lb3dy20y2/)
-(the same proportion at any scale), whose colour order is pattern [GGWGWG](/stripes/ggwgwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy9lb3dy6lb3dy20y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGWGWG](/stripes/ggwgwg/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2003 Air Force (Juniors) Pipe Band regimental tartan.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6dy14db10dy58g3dy8w2/"><circle cx="587.3" cy="156.0" r="4" fill="#3465a4"><title>Kozmyk (Corporate)</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.2" cy="197.0" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.7" cy="135.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s5/dr1ly9db2ly9db1~x4/"><circle cx="529.3" cy="257.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Camel (Fashio</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.5" cy="258.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s8/y20w2y20k4w3y3k3w2/"><circle cx="408.1" cy="174.4" r="4" fill="#3465a4"><title>Guzzo Check (Personal)</title></circle></a><a href="/variants/s4/dy10w1dy30y3~x4/"><circle cx="626.0" cy="212.5" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/"><circle cx="341.8" cy="277.1" r="4" fill="#3465a4"><title>Amber Rose (Fashion)</title></circle></a><a href="/variants/s4/dy12ly6dy2y1~x4/"><circle cx="414.7" cy="242.0" r="4" fill="#3465a4"><title>Loch Garth Tartan</title></circle></a><a href="/variants/s6/db4dy9w4db9dy18w1~x2/"><circle cx="378.4" cy="227.3" r="4" fill="#3465a4"><title>WVU Mountaineer Tartan</title></circle></a><circle cx="529.5" cy="233.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6dy14db10dy58g3dy8w2/"><circle cx="587.3" cy="155.9" r="4" fill="#3465a4"><title>Kozmyk (Corporate)</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.2" cy="196.9" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.8" cy="135.4" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s5/dr1ly9db2ly9db1~x4/"><circle cx="529.3" cy="257.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Camel (Fashio</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.5" cy="258.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s8/y20w2y20k4w3y3k3w2/"><circle cx="408.1" cy="174.3" r="4" fill="#3465a4"><title>Guzzo Check (Personal)</title></circle></a><a href="/variants/s4/dy10w1dy30y3~x4/"><circle cx="626.0" cy="212.5" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/"><circle cx="341.8" cy="277.1" r="4" fill="#3465a4"><title>Amber Rose (Fashion)</title></circle></a><a href="/variants/s4/dy12ly6dy2y1~x4/"><circle cx="414.7" cy="241.9" r="4" fill="#3465a4"><title>Loch Garth Tartan</title></circle></a><a href="/variants/s6/db4dy9w4db9dy18w1~x2/"><circle cx="378.4" cy="227.3" r="4" fill="#3465a4"><title>WVU Mountaineer Tartan</title></circle></a><circle cx="529.5" cy="233.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy9lb3dy6lb3dy20y2~x2/

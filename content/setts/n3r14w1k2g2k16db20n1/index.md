@@ -1,5 +1,12 @@
 ---
 title: "Vinther, Niels Christian (Personal)"
-redirect: "/variants/s8/n3r14w1k2g2k16db20n1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Vinther, Niels Christian (Personal)](/variants/s8/n3r14w1k2g2k16db20n1~x2/).
+This is the **Vinther, Niels Christian (Personal)** sett — one scale-free proportion (`n3r14w1k2g2k16db20n1`), colour order pattern
+[BBKGKWRB](/stripes/bbkgkwrb/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Vinther, Niels Christian (Personal)](/variants/s8/n3r14w1k2g2k16db20n1~x2/) ★ | 2016 | ![Vinther, Niels Christian (Personal) sett](/variants/s8/n3r14w1k2g2k16db20n1~x2/sett.png) |

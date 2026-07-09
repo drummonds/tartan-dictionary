@@ -1,5 +1,12 @@
 ---
 title: "Blackie"
-redirect: "/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Blackie](/variants/s8/g9y2g9w5r9lb2r9lb2~x2/).
+This is the **Blackie** sett — one scale-free proportion (`g9y2g9w5r9lb2r9lb2`), colour order pattern
+[GGGWRWRW](/stripes/gggwrwrw/). It is recorded as a single **variant**, below.
+First attested **1880**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Blackie](/variants/s8/g9y2g9w5r9lb2r9lb2~x2/) ★ | 1880 | ![Blackie sett](/variants/s8/g9y2g9w5r9lb2r9lb2~x2/sett.png) |

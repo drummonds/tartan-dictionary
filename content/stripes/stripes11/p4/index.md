@@ -3,8 +3,15 @@ title: 11 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 11
 ---
-1,029 setts across 998 tartans with 11 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,030 setts across 999 tartans with 11 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes11/p3/">‹ prev</a> <a href="/stripes/stripes11/">1</a> <a href="/stripes/stripes11/p2/">2</a> <a href="/stripes/stripes11/p3/">3</a> <strong>4</strong> </nav>
+
+### RKBKBKBKBYW
+<a class="pat" href="/stripes/rkbkbkbkbyw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKBKBKBKBYW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.15 | [Bute Heather, Grey (Fashion)](/variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/) | tartans-authority |
 
 ### RKBKBKBKRKW
 <a class="pat" href="/stripes/rkbkbkbkrkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKBKBKBKRKW</span></a>
@@ -228,7 +235,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Royal Stuart / Stewart](/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/) | weddslist |
+| 0.04 | [Royal Stuart Royal Family Tartan](/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/) | house-of-tartan |
 
 ### RWRGWRGRWBW
 <a class="pat" href="/stripes/rwrgwrgrwbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWRGWRGRWBW</span></a>

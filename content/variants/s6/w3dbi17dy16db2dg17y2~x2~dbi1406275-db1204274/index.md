@@ -1,14 +1,16 @@
 ---
 title: "Atlantic Ancient Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Atlantic Ancient Trade Tartan"
-  url: ""
+  url: "/setts/w3dbi17dy16db2dg17y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3dbi17dy16db2dg17y2/)
-(the same proportion at any scale), whose colour order is pattern [GGBGBW](/stripes/ggbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3dbi17dy16db2dg17y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGBW](/stripes/ggbgbw/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1968 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb3db17do16dt2dg17lo2~x2/"><circle cx="219.9" cy="246.0" r="4" fill="#3465a4"><title>Ancient Atlantic (Fashion)</title></circle></a><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><circle cx="160.0" cy="216.7" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.9" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.3" cy="255.1" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s7/db1y7w1b7g7dr7w1~x2/"><circle cx="112.8" cy="240.4" r="4" fill="#3465a4"><title>Kipp</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="206.9" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><circle cx="242.2" cy="219.7" r="4" fill="#3465a4"><title>Deeside District Tartan</title></circle></a><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.9" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.3" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.8" cy="200.3" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><circle cx="209.6" cy="241.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb3db17do16dt2dg17lo2~x2/"><circle cx="219.9" cy="245.9" r="4" fill="#3465a4"><title>Ancient Atlantic (Fashion)</title></circle></a><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><circle cx="160.0" cy="216.6" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.8" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.4" cy="255.0" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s7/db1y7w1b7g7dr7w1~x2/"><circle cx="112.8" cy="240.3" r="4" fill="#3465a4"><title>Kipp</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="206.8" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><circle cx="242.2" cy="219.7" r="4" fill="#3465a4"><title>Deeside District Tartan</title></circle></a><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.8" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.2" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.9" cy="200.2" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><circle cx="209.6" cy="241.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w3dbi17dy16db2dg17y2~x2~dbi1406275-db1204274/

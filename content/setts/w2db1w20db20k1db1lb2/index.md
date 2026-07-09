@@ -1,5 +1,14 @@
 ---
 title: "Cunningham, Dress Blue (Dance) Fashion Tartan"
-redirect: "/variants/s7/w2db1w20db20k1db1lb2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cunningham, Dress Blue (Dance) Fashion Tartan](/variants/s7/w2db1w20db20k1db1lb2~x4/).
+This is the **Cunningham, Dress Blue (Dance) Fashion Tartan** sett — one scale-free proportion (`w2db1w20db20k1db1lb2`), colour order pattern
+[WBKBWBW](/stripes/wbkbwbw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+Part of the [Cunningham Dress](/tartans/cunningham-dress-2/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Cunningham, Dress Blue (Dance) Fashion Tartan](/variants/s7/w2db1w20db20k1db1lb2~x4/) ★ | 2002 | ![Cunningham, Dress Blue (Dance) Fashion Tartan sett](/variants/s7/w2db1w20db20k1db1lb2~x4/sett.png) |

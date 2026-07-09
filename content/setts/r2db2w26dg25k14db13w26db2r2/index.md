@@ -1,5 +1,14 @@
 ---
 title: "MacNaughton Dress"
-redirect: "/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacNaughton Dress](/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/).
+This is the **MacNaughton Dress** sett — one scale-free proportion (`r2db2w26dg25k14db13w26db2r2`), colour order pattern
+[RBWBKGWBR](/stripes/rbwbkgwbr/). It is recorded as a single **variant**, below.
+First attested **1987**.
+
+Part of the [MacNaughton Dress](/tartans/macnaughton-dress/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacNaughton Dress](/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/) ★ | 1987 | ![MacNaughton Dress sett](/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/sett.png) |

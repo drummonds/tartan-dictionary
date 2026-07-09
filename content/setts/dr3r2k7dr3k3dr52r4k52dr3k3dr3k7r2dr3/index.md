@@ -1,5 +1,12 @@
 ---
 title: "Old Aberdeen Diamond Jubilee"
-redirect: "/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Old Aberdeen Diamond Jubilee](/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/).
+This is the **Old Aberdeen Diamond Jubilee** sett — one scale-free proportion (`dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3`), colour order pattern
+[BRKBKBKRBKBKRB](/stripes/brkbkbkrbkbkrb/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Old Aberdeen Diamond Jubilee](/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/) ★ | 2012 | ![Old Aberdeen Diamond Jubilee sett](/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png) |

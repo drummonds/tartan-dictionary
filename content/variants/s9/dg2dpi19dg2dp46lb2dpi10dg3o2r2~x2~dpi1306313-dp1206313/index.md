@@ -1,16 +1,18 @@
 ---
 title: "Spirit of Hoxa"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Hoxa"
   url: "/tartans/spirit-of-hoxa/"
 - name: "Spirit of Hoxa"
-  url: ""
+  url: "/setts/dg2dpi19dg2dp46lb2dpi10dg3o2r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2dpi19dg2dp46lb2dpi10dg3o2r2/)
-(the same proportion at any scale), whose colour order is pattern [GBGBWBGRR](/stripes/gbgbwbgrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg2dpi19dg2dp46lb2dpi10dg3o2r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBWBGRR](/stripes/gbgbwbgrr/).
 
 Part of the [Spirit of Hoxa](/tartans/spirit-of-hoxa/) tartan — the named design grouping this sett with its other cloths.
 

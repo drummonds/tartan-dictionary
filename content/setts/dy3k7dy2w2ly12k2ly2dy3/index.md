@@ -1,5 +1,12 @@
 ---
 title: "Daks (Brown)"
-redirect: "/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Daks (Brown)](/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/).
+This is the **Daks (Brown)** sett — one scale-free proportion (`dy3k7dy2w2ly12k2ly2dy3`), colour order pattern
+[GKGWYKYG](/stripes/gkgwykyg/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Daks (Brown)](/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/) ★ | 1980 | ![Daks (Brown) sett](/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/sett.png) |

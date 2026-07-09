@@ -1,5 +1,12 @@
 ---
 title: "Wilson's, No 113"
-redirect: "/variants/s4/r1g3dp3w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's, No 113](/variants/s4/r1g3dp3w1~x4/).
+This is the **Wilson's, No 113** sett — one scale-free proportion (`r1g3dp3w1`), colour order pattern
+[RGBW](/stripes/rgbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wilson's, No 113](/variants/s4/r1g3dp3w1~x4/) ★ | ~2016 | ![Wilson's, No 113 sett](/variants/s4/r1g3dp3w1~x4/sett.png) |

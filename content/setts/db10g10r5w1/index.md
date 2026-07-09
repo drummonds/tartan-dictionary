@@ -1,5 +1,12 @@
 ---
-title: "Thorntons Law (Corporate)"
-redirect: "/variants/s4/db10g10r5w1~x2/"
+title: "Thorntons Law Corporate Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Thorntons Law (Corporate)](/variants/s4/db10g10r5w1~x2/).
+This is the **Thorntons Law Corporate Tartan** sett — one scale-free proportion (`db10g10r5w1`), colour order pattern
+[BGRW](/stripes/bgrw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Thorntons Law Corporate Tartan](/variants/s4/db10g10r5w1~x2/) ★ | 2005 | ![Thorntons Law Corporate Tartan sett](/variants/s4/db10g10r5w1~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Chisholm, The"
-redirect: "/variants/s8/r12t2w1t2r3g8r3t1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Chisholm, The](/variants/s8/r12t2w1t2r3g8r3t1~x4/).
+This is the **Chisholm, The** sett — one scale-free proportion (`r12t2w1t2r3g8r3t1`), colour order pattern
+[BRGRBWBR](/stripes/brgrbwbr/). It is recorded as a single **variant**, below.
+First attested **1800**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Chisholm, The](/variants/s8/r12t2w1t2r3g8r3t1~x4/) ★ | 1800 | ![Chisholm, The sett](/variants/s8/r12t2w1t2r3g8r3t1~x4/sett.png) |

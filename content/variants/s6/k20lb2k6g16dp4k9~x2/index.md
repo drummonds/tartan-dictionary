@@ -1,14 +1,16 @@
 ---
 title: "Wilson's, No 167"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.167"
   url: "/setts/k20lb2k6g16dp4k9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k20lb2k6g16dp4k9/)
-(the same proportion at any scale), whose colour order is pattern [KBGKWK](/stripes/kbgkwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k20lb2k6g16dp4k9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGKWK](/stripes/kbgkwk/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="193.3" cy="181.6" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="195.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="198.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><circle cx="292.8" cy="176.0" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="338.0" cy="147.2" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.4" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="342.7" cy="149.6" r="4" fill="#3465a4"><title>Childers Regimental Tartan</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="350.8" cy="148.5" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><a href="/variants/s6/k5g23k18db21k33db3~x2/"><circle cx="253.7" cy="225.5" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="183.7" cy="197.4" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><circle cx="264.8" cy="197.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="193.4" cy="181.5" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="195.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.4" cy="198.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><circle cx="292.8" cy="175.9" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="338.1" cy="147.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.3" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="342.7" cy="149.5" r="4" fill="#3465a4"><title>Childers Regimental Tartan</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="350.8" cy="148.4" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><a href="/variants/s6/k5g23k18db21k33db3~x2/"><circle cx="253.7" cy="225.5" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="183.7" cy="197.3" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><circle cx="264.8" cy="197.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k20lb2k6g16dp4k9~x2/

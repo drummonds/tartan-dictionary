@@ -1,14 +1,16 @@
 ---
 title: "Matheson Hunting (Crowe 1974) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Matheson Hunting (Crowe 1974) (Personal)"
-  url: ""
+  url: "/setts/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBWGBGBGBGBGBWGBG](/stripes/gbgbgbwgbgbgbgbgbwgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBWGBGBGBGBGBWGBG](/stripes/gbgbgbwgbgbgbgbgbwgbg/).
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2~x4/"><circle cx="270.1" cy="113.3" r="4" fill="#3465a4"><title>Matheson Htg (Clan)</title></circle></a><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><circle cx="373.7" cy="161.1" r="4" fill="#3465a4"><title>Wiregrass (District)</title></circle></a><circle cx="352.8" cy="156.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2~x4/"><circle cx="270.1" cy="113.1" r="4" fill="#3465a4"><title>Matheson Htg (Clan)</title></circle></a><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><circle cx="373.7" cy="161.0" r="4" fill="#3465a4"><title>Wiregrass (District)</title></circle></a><circle cx="352.8" cy="156.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s21/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2~x4/

@@ -1,14 +1,16 @@
 ---
 title: "Fullerton, Terrance (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fullerton, Terrance (Personal)"
-  url: ""
+  url: "/setts/r12g6k4g2k4g1k12r24ri4g3w3k10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12g6k4g2k4g1k12r24ri4g3w3k10/)
-(the same proportion at any scale), whose colour order is pattern [KWGRRKGKGKGR](/stripes/kwgrrkgkgkgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r12g6k4g2k4g1k12r24ri4g3w3k10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWGRRKGKGKGR](/stripes/kwgrrkgkgkgr/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/"><circle cx="191.9" cy="113.8" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="107.0" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.8" cy="88.0" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><circle cx="123.1" cy="135.2" r="4" fill="#3465a4"><title>Malawi</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="211.7" cy="86.1" r="4" fill="#3465a4"><title>Brooks Brothers (WCWM)</title></circle></a><a href="/variants/s10/y4k1r16k16w3r1k16g16k1y4~x2/"><circle cx="149.7" cy="129.3" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="161.9" cy="121.5" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="221.9" cy="110.2" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="212.9" cy="116.3" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.6" cy="111.2" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><circle cx="181.1" cy="105.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/"><circle cx="191.9" cy="113.7" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="106.9" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.8" cy="87.9" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><circle cx="123.1" cy="135.1" r="4" fill="#3465a4"><title>Malawi</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="211.7" cy="86.0" r="4" fill="#3465a4"><title>Brooks Brothers (WCWM)</title></circle></a><a href="/variants/s10/y4k1r16k16w3r1k16g16k1y4~x2/"><circle cx="149.7" cy="129.2" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="161.9" cy="121.4" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="221.9" cy="110.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="212.9" cy="116.2" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.6" cy="111.1" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><circle cx="181.1" cy="105.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/

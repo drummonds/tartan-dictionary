@@ -1,5 +1,12 @@
 ---
 title: "Grey Spirit"
-redirect: "/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Grey Spirit](/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/).
+This is the **Grey Spirit** sett — one scale-free proportion (`n45k17n6k17n6k17n6k17n45k4`), colour order pattern
+[BKBKBKBKBK](/stripes/bkbkbkbkbk/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Grey Spirit](/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/) ★ | 2005 | ![Grey Spirit sett](/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png) |

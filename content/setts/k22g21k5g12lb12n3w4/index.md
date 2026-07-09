@@ -1,5 +1,12 @@
 ---
 title: "Disciples of Christ Motorcycle Ministry (Switzerland)"
-redirect: "/variants/s7/k22g21k5g12lb12n3w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Disciples of Christ Motorcycle Ministry (Switzerland)](/variants/s7/k22g21k5g12lb12n3w4~x2/).
+This is the **Disciples of Christ Motorcycle Ministry (Switzerland)** sett — one scale-free proportion (`k22g21k5g12lb12n3w4`), colour order pattern
+[KGKGWBW](/stripes/kgkgwbw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Disciples of Christ Motorcycle Ministry (Switzerland)](/variants/s7/k22g21k5g12lb12n3w4~x2/) ★ | 2014 | ![Disciples of Christ Motorcycle Ministry (Switzerland) sett](/variants/s7/k22g21k5g12lb12n3w4~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Wild Geese (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wild Geese"
   url: "/tartans/wild-geese/"
 - name: "Wild Geese (Corporate)"
-  url: ""
+  url: "/setts/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5/)
-(the same proportion at any scale), whose colour order is pattern [BKWKRGKGKGGYG](/stripes/bkwkrgkgkggyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWKRGKGKGGYG](/stripes/bkwkrgkgkggyg/).
 
 Part of the [Wild Geese](/tartans/wild-geese/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/"><circle cx="144.3" cy="108.3" r="4" fill="#3465a4"><title>Wild Geese</title></circle></a><a href="/variants/s13/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3~x2~db1406275-w3600000/"><circle cx="170.8" cy="80.5" r="4" fill="#3465a4"><title>Teviotdale District Tartan</title></circle></a><a href="/variants/s12/k14r2k2r2k2g18r2g18w1db12lb1r8~x2/"><circle cx="145.5" cy="105.5" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="101.4" cy="130.6" r="4" fill="#3465a4"><title>Down County, Crest Range</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="149.5" cy="99.4" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.8" cy="97.8" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><a href="/variants/s9/g32lb3dp3lb3g2k20b17dr3lo4~x2~lb3300000-b2603265/"><circle cx="113.0" cy="108.0" r="4" fill="#3465a4"><title>Colorado</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.8" cy="124.3" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="91.9" cy="128.2" r="4" fill="#3465a4"><title>Down County Crest (Fashion)</title></circle></a><a href="/variants/s17/w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/"><circle cx="81.2" cy="100.0" r="4" fill="#3465a4"><title>Kumikyoku - Tone of Forest</title></circle></a><circle cx="126.5" cy="102.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/"><circle cx="144.3" cy="108.1" r="4" fill="#3465a4"><title>Wild Geese</title></circle></a><a href="/variants/s13/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3~x2~db1406275-w3600000/"><circle cx="170.8" cy="80.3" r="4" fill="#3465a4"><title>Teviotdale District Tartan</title></circle></a><a href="/variants/s12/k14r2k2r2k2g18r2g18w1db12lb1r8~x2/"><circle cx="145.5" cy="105.4" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="101.5" cy="130.4" r="4" fill="#3465a4"><title>Down County, Crest Range</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="149.5" cy="99.2" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.8" cy="97.7" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><a href="/variants/s9/g32lb3dp3lb3g2k20b17dr3lo4~x2~lb3300000-b2603265/"><circle cx="113.0" cy="107.8" r="4" fill="#3465a4"><title>Colorado</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.8" cy="124.1" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="91.9" cy="128.1" r="4" fill="#3465a4"><title>Down County Crest (Fashion)</title></circle></a><a href="/variants/s17/w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/"><circle cx="81.2" cy="99.8" r="4" fill="#3465a4"><title>Kumikyoku - Tone of Forest</title></circle></a><circle cx="126.5" cy="102.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Erskine, Green (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Erskine, Green (Dance)"
-  url: ""
+  url: "/setts/g6w2g29w29g2w6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6w2g29w29g2w6/)
-(the same proportion at any scale), whose colour order is pattern [GWGWGW](/stripes/gwgwgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6w2g29w29g2w6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGWGW](/stripes/gwgwgw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -22,9 +24,9 @@ Earliest known date: pre 2003 A sample of this tartan was recorded by the Scotti
 <summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>1980 — Erskine, Green (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=941">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Almost certainly from Hugh MacPherson. Now woven by D C Dalgliesh.</em></li>
+<li>pre 2003 — Erskine Green Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=941">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 <li>undated — Erskine Green (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1126">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990.</em></li>
 <li>undated — Erskine, Green (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
-<li>undated — Erskine Green Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=941">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
 </details>
 
@@ -76,6 +78,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w12g12w1g12w12ly1~x4/"><circle cx="330.1" cy="267.6" r="4" fill="#3465a4"><title>Wallace Green Dress Fashion Tartan</title></circle></a><a href="/variants/s7/w5r3w26g21w3g8y3~x2/"><circle cx="276.8" cy="217.8" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.1" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/"><circle cx="285.1" cy="224.4" r="4" fill="#3465a4"><title>MacPherson Dress, Green (Dance)</title></circle></a><a href="/variants/s7/w5r3w26g20w3g8y3~x2/"><circle cx="278.8" cy="217.9" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/variants/s4/dg4w35g31w4~x2/"><circle cx="333.6" cy="274.1" r="4" fill="#3465a4"><title>Lewis, Green (Dance)</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><circle cx="381.9" cy="242.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w12g12w1g12w12ly1~x4/"><circle cx="330.1" cy="267.6" r="4" fill="#3465a4"><title>Wallace Green Dress Fashion Tartan</title></circle></a><a href="/variants/s7/w5r3w26g21w3g8y3~x2/"><circle cx="276.8" cy="217.7" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.1" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/"><circle cx="285.1" cy="224.4" r="4" fill="#3465a4"><title>MacPherson Dress, Green (Dance)</title></circle></a><a href="/variants/s7/w5r3w26g20w3g8y3~x2/"><circle cx="278.8" cy="217.8" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/variants/s4/dg4w35g31w4~x2/"><circle cx="333.6" cy="274.1" r="4" fill="#3465a4"><title>Lewis, Green (Dance)</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><circle cx="382.0" cy="242.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g6w2g29w29g2w6~x2/

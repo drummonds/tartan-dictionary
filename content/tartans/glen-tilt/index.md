@@ -22,7 +22,7 @@ The **Glen Tilt** tartan groups 4 setts — the same named design recorded as di
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/w1dg1dr1dg14dr1db6dr11dg1dr1lb1/"><img src="w1dg1dr1dg14dr1db6dr11dg1dr1lb1-rev.png" alt="#1 (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/w1dr1g1dr11lb6dr1g14dr1g1w1/">#2</a></td><td><code>W/4 DR4 G4 DR44 LB24 DR4 G56 DR4 G4 W/4</code></td><td>296</td><td>1800</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/w1dr1g1dr11lb6dr1g14dr1g1w1/"><img src="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w1r1g1r11db6r1g14r1g1w1/">Unidentified Specimen #2</a></td><td><code>W/4 R4 G4 R44 DB24 R4 G56 R4 G4 W/4</code></td><td>296</td><td>—</td></tr>
+<tr><td><a href="/setts/w1r1g1r11db6r1g14r1g1w1/">Unidentified Specimen #2</a></td><td><code>W/4 R4 G4 R44 DB24 R4 G56 R4 G4 W/4</code></td><td>296</td><td>~1923</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/w1r1g1r11db6r1g14r1g1w1/"><img src="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/sett.png" alt="Unidentified Specimen #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

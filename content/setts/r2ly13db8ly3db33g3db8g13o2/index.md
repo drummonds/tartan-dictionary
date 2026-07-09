@@ -1,5 +1,12 @@
 ---
 title: "Burt #1 (Name)"
-redirect: "/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Burt #1 (Name)](/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/).
+This is the **Burt #1 (Name)** sett — one scale-free proportion (`r2ly13db8ly3db33g3db8g13o2`), colour order pattern
+[RGBGBYBYR](/stripes/rgbgbybyr/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Burt #1 (Name)](/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/) ★ | ~2008 | ![Burt #1 (Name) sett](/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/sett.png) |

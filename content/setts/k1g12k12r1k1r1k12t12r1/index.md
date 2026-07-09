@@ -1,5 +1,14 @@
 ---
 title: "Guthrie (Name)"
-redirect: "/variants/s9/k1g12k12r1k1r1k12t12r1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Guthrie (Name)](/variants/s9/k1g12k12r1k1r1k12t12r1~x4/).
+This is the **Guthrie (Name)** sett — one scale-free proportion (`k1g12k12r1k1r1k12t12r1`), colour order pattern
+[KGKRKRKBR](/stripes/kgkrkrkbr/). It is recorded as a single **variant**, below.
+First attested **~1996**.
+
+Part of the [Guthrie](/tartans/guthrie/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Guthrie (Name)](/variants/s9/k1g12k12r1k1r1k12t12r1~x4/) ★ | ~1996 | ![Guthrie (Name) sett](/variants/s9/k1g12k12r1k1r1k12t12r1~x4/sett.png) |

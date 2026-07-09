@@ -1,5 +1,12 @@
 ---
 title: "Graham, Red Dress"
-redirect: "/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Graham, Red Dress](/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/).
+This is the **Graham, Red Dress** sett — one scale-free proportion (`y1k1r8y4k6dg8w8k1y1`), colour order pattern
+[GKRGKGWKG](/stripes/gkrgkgwkg/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Graham, Red Dress](/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/) ★ | 1997 | ![Graham, Red Dress sett](/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/sett.png) |

@@ -1,5 +1,14 @@
 ---
 title: "Strathyre Dress District Tartan"
-redirect: "/variants/s11/w36g6dr2g3w2g3dy6p4g2p2w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Strathyre Dress District Tartan](/variants/s11/w36g6dr2g3w2g3dy6p4g2p2w2~x2/).
+This is the **Strathyre Dress District Tartan** sett — one scale-free proportion (`w36g6dr2g3w2g3dy6p4g2p2w2`), colour order pattern
+[GBGWGGBGBWBGBGGWGBGW](/stripes/gbgwggbgbwbgbggwgbgw/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+Part of the [Strathyre Dress](/tartans/strathyre-dress-2/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Strathyre Dress District Tartan](/variants/s11/w36g6dr2g3w2g3dy6p4g2p2w2~x2/) ★ | 1996 | ![Strathyre Dress District Tartan sett](/variants/s11/w36g6dr2g3w2g3dy6p4g2p2w2~x2/sett.png) |

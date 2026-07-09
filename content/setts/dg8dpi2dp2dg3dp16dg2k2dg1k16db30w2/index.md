@@ -1,5 +1,12 @@
 ---
 title: "Pride of Scotland General Tartan"
-redirect: "/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pride of Scotland General Tartan](/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/).
+This is the **Pride of Scotland General Tartan** sett — one scale-free proportion (`dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2`), colour order pattern
+[GBBGBGKGKBW](/stripes/gbbgbgkgkbw/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Pride of Scotland General Tartan](/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/) ★ | 1997 | ![Pride of Scotland General Tartan sett](/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/sett.png) |

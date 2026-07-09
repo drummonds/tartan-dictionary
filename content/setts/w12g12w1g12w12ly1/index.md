@@ -1,5 +1,12 @@
 ---
 title: "Wallace Green Dress Fashion Tartan"
-redirect: "/variants/s6/w12g12w1g12w12ly1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wallace Green Dress Fashion Tartan](/variants/s6/w12g12w1g12w12ly1~x4/).
+This is the **Wallace Green Dress Fashion Tartan** sett — one scale-free proportion (`w12g12w1g12w12ly1`), colour order pattern
+[WGWGWY](/stripes/wgwgwy/). It is recorded as a single **variant**, below.
+First attested **~2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wallace Green Dress Fashion Tartan](/variants/s6/w12g12w1g12w12ly1~x4/) ★ | ~2004 | ![Wallace Green Dress Fashion Tartan sett](/variants/s6/w12g12w1g12w12ly1~x4/sett.png) |

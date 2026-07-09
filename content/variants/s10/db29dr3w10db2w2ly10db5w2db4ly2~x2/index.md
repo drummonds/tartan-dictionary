@@ -1,14 +1,16 @@
 ---
 title: "Stewart Navy Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stewart Navy Clan Tartan"
-  url: ""
+  url: "/setts/db29dr3w10db2w2ly10db5w2db4ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db29dr3w10db2w2ly10db5w2db4ly2/)
-(the same proportion at any scale), whose colour order is pattern [BBWBWYBWBY](/stripes/bbwbwybwby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db29dr3w10db2w2ly10db5w2db4ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBWYBWBY](/stripes/bbwbwybwby/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1971 Stewart Navy
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1971 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/"><circle cx="335.2" cy="123.3" r="4" fill="#3465a4"><title>Stuart/Stewart navy</title></circle></a><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/"><circle cx="310.9" cy="168.8" r="4" fill="#3465a4"><title>Eildon (1980)</title></circle></a><a href="/variants/s10/lyi6ly3lyi3ly15db7lyi7db5lyi17db46w4~lyi2503076-db0705267/"><circle cx="306.8" cy="179.0" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><circle cx="342.0" cy="177.0" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/"><circle cx="290.6" cy="191.1" r="4" fill="#3465a4"><title>Eildon/Longniddry Blue Dress Fashion Tartan</title></circle></a><a href="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/"><circle cx="317.6" cy="173.5" r="4" fill="#3465a4"><title>Harmony, Eildon</title></circle></a><a href="/variants/s12/w4db2lo8db2n2db2n2db23lo10db2lo7db2~x2/"><circle cx="299.5" cy="181.2" r="4" fill="#3465a4"><title>Auld Lang Syne Brown Tartan</title></circle></a><a href="/variants/s8/lo12db2lo2db30dt2db2dt13lb4~x2/"><circle cx="321.3" cy="192.8" r="4" fill="#3465a4"><title>Highlands School (North Carolina)</title></circle></a><a href="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/"><circle cx="338.4" cy="178.9" r="4" fill="#3465a4"><title>Longniddry Blue (Dance)</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.7" cy="166.8" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><circle cx="331.9" cy="174.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/"><circle cx="335.2" cy="123.1" r="4" fill="#3465a4"><title>Stuart/Stewart navy</title></circle></a><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/"><circle cx="310.9" cy="168.7" r="4" fill="#3465a4"><title>Eildon (1980)</title></circle></a><a href="/variants/s10/lyi6ly3lyi3ly15db7lyi7db5lyi17db46w4~lyi2503076-db0705267/"><circle cx="306.8" cy="178.9" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><circle cx="342.0" cy="176.9" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/"><circle cx="290.6" cy="191.0" r="4" fill="#3465a4"><title>Eildon/Longniddry Blue Dress Fashion Tartan</title></circle></a><a href="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/"><circle cx="317.6" cy="173.4" r="4" fill="#3465a4"><title>Harmony, Eildon</title></circle></a><a href="/variants/s12/w4db2lo8db2n2db2n2db23lo10db2lo7db2~x2/"><circle cx="299.5" cy="181.1" r="4" fill="#3465a4"><title>Auld Lang Syne Brown Tartan</title></circle></a><a href="/variants/s8/lo12db2lo2db30dt2db2dt13lb4~x2/"><circle cx="321.3" cy="192.7" r="4" fill="#3465a4"><title>Highlands School (North Carolina)</title></circle></a><a href="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/"><circle cx="338.4" cy="178.8" r="4" fill="#3465a4"><title>Longniddry Blue (Dance)</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.7" cy="166.7" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><circle cx="332.0" cy="173.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/

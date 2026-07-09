@@ -1,16 +1,18 @@
 ---
 title: "Buncle (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Buncle"
   url: "/tartans/buncle/"
 - name: "Buncle (Name)"
-  url: ""
+  url: "/setts/ly9r31g12dy2lb9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly9r31g12dy2lb9/)
-(the same proportion at any scale), whose colour order is pattern [WGGRY](/stripes/wggry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly9r31g12dy2lb9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGGRY](/stripes/wggry/).
 
 Part of the [Buncle](/tartans/buncle/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="292.6" cy="203.8" r="4" fill="#3465a4"><title>Buncle (Duns)</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="190.0" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.9" cy="247.9" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="249.8" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.5" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.5" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="237.9" cy="137.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.6" cy="235.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><circle cx="273.0" cy="197.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="292.7" cy="203.8" r="4" fill="#3465a4"><title>Buncle (Duns)</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="189.9" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.9" cy="247.8" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="249.8" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.4" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.4" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.8" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.6" cy="235.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.7" r="4" fill="#3465a4"><title>Menzies</title></circle></a><circle cx="273.1" cy="197.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/ly9r31g12dy2lb9~x2/

@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s5/r4k8r12k1y1~x2/">MacKeane</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r4k8r12k1y1~x2/"><img src="/variants/s5/r4k8r12k1y1~x2/sett.png" alt="MacKeane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/g40k10r7k10r7/">Romsdal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g40k10r7k10r7/"><img src="/variants/s5/g40k10r7k10r7/sett.png" alt="Romsdal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g40k10r7k10r7/">Romsdal District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g40k10r7k10r7/"><img src="/variants/s5/g40k10r7k10r7/sett.png" alt="Romsdal District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,14 +1,16 @@
 ---
 title: "Long Way Down, The (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Long Way Down, The (Corporate)"
-  url: ""
+  url: "/setts/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3/)
-(the same proportion at any scale), whose colour order is pattern [GYGGGWGWGGR](/stripes/gygggwgwggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGGGWGWGGR](/stripes/gygggwgwggr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

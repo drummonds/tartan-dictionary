@@ -1,5 +1,12 @@
 ---
 title: "Monarch of the Glen"
-redirect: "/variants/s22/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2~x2~dbi1404245-db1204274/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Monarch of the Glen](/variants/s22/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2~x2~dbi1404245-db1204274/).
+This is the **Monarch of the Glen** sett — one scale-free proportion (`dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2`), colour order pattern
+[BBGBRBBBBRBGBRBBGBGYGB](/stripes/bbgbrbbbbrbgbrbbgbgygb/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Monarch of the Glen](/variants/s22/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2~x2~dbi1404245-db1204274/) ★ | 2002 | ![Monarch of the Glen sett](/variants/s22/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2~x2~dbi1404245-db1204274/sett.png) |

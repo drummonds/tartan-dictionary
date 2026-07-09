@@ -1,16 +1,18 @@
 ---
 title: "Carlisle"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Carlisle"
   url: "/tartans/carlisle/"
 - name: "Carlisle"
-  url: ""
+  url: "/setts/lb11y5k1y2r1y2lb11/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb11y5k1y2r1y2lb11/)
-(the same proportion at any scale), whose colour order is pattern [WGKGRGW](/stripes/wgkgrgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb11y5k1y2r1y2lb11/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGKGRGW](/stripes/wgkgrgw/).
 
 Part of the [Carlisle](/tartans/carlisle/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><circle cx="332.9" cy="175.8" r="4" fill="#3465a4"><title>Carlisle Family Tartan</title></circle></a><a href="/variants/s5/lb11y2r1y2r1~x4/"><circle cx="452.0" cy="222.9" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="146.1" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s5/k2lb28g7w3r2~x2/"><circle cx="352.4" cy="154.0" r="4" fill="#3465a4"><title>Cleland Corporate Tartan</title></circle></a><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/"><circle cx="312.2" cy="204.8" r="4" fill="#3465a4"><title>Grange School</title></circle></a><a href="/variants/s7/t6k3t37y41w3y6w3~x2/"><circle cx="331.7" cy="186.3" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/variants/s5/k2lb36g12w3r2~x2/"><circle cx="363.2" cy="148.4" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="133.0" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/"><circle cx="378.7" cy="193.3" r="4" fill="#3465a4"><title>London Fog Blue 2 (Fashion)</title></circle></a><a href="/variants/s5/t26lp11t3lp4k2~x4/"><circle cx="398.2" cy="211.3" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><circle cx="375.7" cy="190.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><circle cx="332.9" cy="175.7" r="4" fill="#3465a4"><title>Carlisle Family Tartan</title></circle></a><a href="/variants/s5/lb11y2r1y2r1~x4/"><circle cx="452.0" cy="222.8" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="145.9" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s5/k2lb28g7w3r2~x2/"><circle cx="352.4" cy="153.9" r="4" fill="#3465a4"><title>Cleland Corporate Tartan</title></circle></a><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/"><circle cx="312.2" cy="204.7" r="4" fill="#3465a4"><title>Grange School</title></circle></a><a href="/variants/s7/t6k3t37y41w3y6w3~x2/"><circle cx="331.7" cy="186.2" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/variants/s5/k2lb36g12w3r2~x2/"><circle cx="363.2" cy="148.3" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.9" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/"><circle cx="378.7" cy="193.2" r="4" fill="#3465a4"><title>London Fog Blue 2 (Fashion)</title></circle></a><a href="/variants/s5/t26lp11t3lp4k2~x4/"><circle cx="398.2" cy="211.2" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><circle cx="375.7" cy="190.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb11y5k1y2r1y2lb11~x12/

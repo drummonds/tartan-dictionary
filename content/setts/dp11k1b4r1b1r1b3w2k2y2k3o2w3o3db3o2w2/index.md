@@ -1,5 +1,12 @@
 ---
 title: "York Puppet"
-redirect: "/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [York Puppet](/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/).
+This is the **York Puppet** sett — one scale-free proportion (`dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2`), colour order pattern
+[BKBRBRBWKGKRWRBRW](/stripes/bkbrbrbwkgkrwrbrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [York Puppet](/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/) ★ | ~2016 | ![York Puppet sett](/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Fitzgerald Red"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fitzgerald Red"
-  url: ""
+  url: "/setts/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4/)
-(the same proportion at any scale), whose colour order is pattern [KRWRBRBRGRBRWRK](/stripes/krwrbrbrgrbrwrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRWRBRBRGRBRWRK](/stripes/krwrbrbrgrbrwrk/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/"><circle cx="207.0" cy="123.3" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="181.3" cy="142.9" r="4" fill="#3465a4"><title>MacDougall #6</title></circle></a><a href="/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/"><circle cx="214.7" cy="107.8" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #3</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.1" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><circle cx="222.4" cy="123.2" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.5" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3~x2/"><circle cx="209.4" cy="150.2" r="4" fill="#3465a4"><title>Drummond C</title></circle></a><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/"><circle cx="209.4" cy="150.2" r="4" fill="#3465a4"><title>Drummond C</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="163.4" cy="125.6" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.6" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><circle cx="195.5" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/"><circle cx="206.9" cy="123.1" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="181.3" cy="142.7" r="4" fill="#3465a4"><title>MacDougall #6</title></circle></a><a href="/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/"><circle cx="214.7" cy="107.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #3</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><circle cx="222.4" cy="123.1" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.4" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3~x2/"><circle cx="209.4" cy="150.1" r="4" fill="#3465a4"><title>Drummond C</title></circle></a><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/"><circle cx="209.4" cy="150.1" r="4" fill="#3465a4"><title>Drummond C</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="163.4" cy="125.4" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.5" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><circle cx="195.5" cy="139.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/

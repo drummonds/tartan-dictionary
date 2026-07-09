@@ -1,5 +1,12 @@
 ---
 title: "Australian District Tartan"
-redirect: "/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Australian District Tartan](/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/).
+This is the **Australian District Tartan** sett — one scale-free proportion (`db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2`), colour order pattern
+[BGYGYKYGYGYKYGYGW](/stripes/bgygykygygykygygw/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Australian District Tartan](/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/) ★ | 1984 | ![Australian District Tartan sett](/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/sett.png) |

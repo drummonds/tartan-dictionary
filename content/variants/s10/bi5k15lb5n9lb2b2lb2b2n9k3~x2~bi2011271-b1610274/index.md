@@ -1,14 +1,16 @@
 ---
 title: "Ryukoku University Heian Senior High School"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ryukoku University Heian Senior High School"
-  url: ""
+  url: "/setts/bi5k15lb5n9lb2b2lb2b2n9k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/bi5k15lb5n9lb2b2lb2b2n9k3/)
-(the same proportion at any scale), whose colour order is pattern [BKWBWBWBBK](/stripes/bkwbwbwbbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/bi5k15lb5n9lb2b2lb2b2n9k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBWBWBBK](/stripes/bkwbwbwbbk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/"><circle cx="98.8" cy="171.7" r="4" fill="#3465a4"><title>Naysmith, William A (Personal)</title></circle></a><a href="/variants/s10/n10k3w3k3w3k3n10k7db20r3~x2/"><circle cx="87.6" cy="179.3" r="4" fill="#3465a4"><title>Meeting Professionals International</title></circle></a><a href="/variants/s9/w4n20k13db2k2db2k2db16lb4~x2/"><circle cx="112.1" cy="160.4" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh, The</title></circle></a><a href="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"><circle cx="46.9" cy="182.2" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/variants/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="101.7" cy="179.2" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/"><circle cx="105.6" cy="160.7" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.4" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><a href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><circle cx="126.5" cy="146.7" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.4" cy="147.1" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/"><circle cx="110.5" cy="148.9" r="4" fill="#3465a4"><title>Auchinachie (Name)</title></circle></a><circle cx="90.5" cy="177.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/"><circle cx="98.8" cy="171.6" r="4" fill="#3465a4"><title>Naysmith, William A (Personal)</title></circle></a><a href="/variants/s10/n10k3w3k3w3k3n10k7db20r3~x2/"><circle cx="87.7" cy="179.2" r="4" fill="#3465a4"><title>Meeting Professionals International</title></circle></a><a href="/variants/s9/w4n20k13db2k2db2k2db16lb4~x2/"><circle cx="112.1" cy="160.3" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh, The</title></circle></a><a href="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"><circle cx="46.9" cy="182.1" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/variants/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="101.7" cy="179.1" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/"><circle cx="105.6" cy="160.5" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.3" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><a href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><circle cx="126.5" cy="146.6" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.4" cy="147.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/"><circle cx="110.5" cy="148.8" r="4" fill="#3465a4"><title>Auchinachie (Name)</title></circle></a><circle cx="90.5" cy="177.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/

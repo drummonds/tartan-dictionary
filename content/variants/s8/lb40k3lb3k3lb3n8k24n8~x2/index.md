@@ -1,14 +1,16 @@
 ---
 title: "O'Sullivan-Beare (Family)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Sullivan-Beare (Family)"
-  url: ""
+  url: "/setts/lb40k3lb3k3lb3n8k24n8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb40k3lb3k3lb3n8k24n8/)
-(the same proportion at any scale), whose colour order is pattern [BKBWKWKW](/stripes/bkbwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb40k3lb3k3lb3n8k24n8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBWKWKW](/stripes/bkbwkwkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="275.9" cy="176.1" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="324.7" cy="124.1" r="4" fill="#3465a4"><title>Doune (District)</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="177.0" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/variants/s6/k4ly18db44k3ly10k4/"><circle cx="270.3" cy="167.4" r="4" fill="#3465a4"><title>Stutterheim (Corporate)</title></circle></a><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="132.4" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.2" cy="182.2" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s10/k14w2k3w2b10w32b10k10w2k3~x2/"><circle cx="196.2" cy="146.5" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/"><circle cx="230.5" cy="136.2" r="4" fill="#3465a4"><title>Hannay Blue (Fashion?)</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.4" cy="177.1" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="226.6" cy="133.4" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><circle cx="250.7" cy="160.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="276.0" cy="176.1" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="324.7" cy="124.0" r="4" fill="#3465a4"><title>Doune (District)</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="177.0" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/variants/s6/k4ly18db44k3ly10k4/"><circle cx="270.4" cy="167.3" r="4" fill="#3465a4"><title>Stutterheim (Corporate)</title></circle></a><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="132.3" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.2" cy="182.1" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s10/k14w2k3w2b10w32b10k10w2k3~x2/"><circle cx="196.2" cy="146.4" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/"><circle cx="230.5" cy="136.1" r="4" fill="#3465a4"><title>Hannay Blue (Fashion?)</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.4" cy="177.0" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="226.6" cy="133.3" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><circle cx="250.7" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb40k3lb3k3lb3n8k24n8~x2/

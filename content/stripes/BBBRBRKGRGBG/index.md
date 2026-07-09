@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/">Denovan, The Lairdship of (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><img src="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/sett.png" alt="Denovan, The Lairdship of (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/">MacDonald of Dunyveg Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><img src="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/sett.png" alt="MacDonald of Dunyveg Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

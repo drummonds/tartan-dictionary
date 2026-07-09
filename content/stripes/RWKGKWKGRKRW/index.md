@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/">Royal Stewart - 1819</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/"><img src="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/sett.png" alt="Royal Stewart - 1819 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/">Stewart, Prince Charles Edward</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><img src="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/sett.png" alt="Stewart, Prince Charles Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/">Stewart Prince Charles Edward Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><img src="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/sett.png" alt="Stewart Prince Charles Edward Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/">Stuart/Stewart #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><img src="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/sett.png" alt="Stuart/Stewart #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

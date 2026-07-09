@@ -1,14 +1,16 @@
 ---
 title: "Unidentified Silk Plaid #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Silk Plaid #2"
-  url: ""
+  url: "/setts/dy7ly12g30lo12o14r11ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy7ly12g30lo12o14r11ly2/)
-(the same proportion at any scale), whose colour order is pattern [GYGYRRY](/stripes/gygyrry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy7ly12g30lo12o14r11ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGYRRY](/stripes/gygyrry/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y7ly12g30db12r14ri11ly2~x2~ly3608101-ri2308029/"><circle cx="121.1" cy="186.6" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><a href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/"><circle cx="197.7" cy="177.2" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/variants/s7/ly4r2ly21dt11w2o21lyi4~x2~ly3106095-lyi3407090/"><circle cx="196.8" cy="190.1" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.6" cy="131.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/"><circle cx="135.9" cy="198.1" r="4" fill="#3465a4"><title>Auld Scotland</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.8" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.2" cy="206.2" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/"><circle cx="95.1" cy="206.0" r="4" fill="#3465a4"><title>Kipp (Personal)</title></circle></a><a href="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/"><circle cx="124.3" cy="157.9" r="4" fill="#3465a4"><title>Unidentified Silk scarf</title></circle></a><a href="/variants/s6/g1r9lo9y9g6w1~x4/"><circle cx="176.2" cy="249.2" r="4" fill="#3465a4"><title>Max Reger, The</title></circle></a><circle cx="162.6" cy="201.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y7ly12g30db12r14ri11ly2~x2~ly3608101-ri2308029/"><circle cx="121.1" cy="186.5" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><a href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/"><circle cx="197.7" cy="177.2" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/variants/s7/ly4r2ly21dt11w2o21lyi4~x2~ly3106095-lyi3407090/"><circle cx="196.8" cy="190.0" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.7" cy="131.6" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/"><circle cx="135.9" cy="198.0" r="4" fill="#3465a4"><title>Auld Scotland</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.2" cy="206.1" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/"><circle cx="95.1" cy="205.9" r="4" fill="#3465a4"><title>Kipp (Personal)</title></circle></a><a href="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/"><circle cx="124.3" cy="157.8" r="4" fill="#3465a4"><title>Unidentified Silk scarf</title></circle></a><a href="/variants/s6/g1r9lo9y9g6w1~x4/"><circle cx="176.2" cy="249.2" r="4" fill="#3465a4"><title>Max Reger, The</title></circle></a><circle cx="162.7" cy="201.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dy7ly12g30lo12o14r11ly2~x2/

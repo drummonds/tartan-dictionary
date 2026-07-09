@@ -1,5 +1,12 @@
 ---
 title: "Inches, of Perth"
-redirect: "/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Inches, of Perth](/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/).
+This is the **Inches, of Perth** sett — one scale-free proportion (`o44y2k4dp2o15r6k3lb3y2`), colour order pattern
+[GWKRRBKGR](/stripes/gwkrrbkgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Inches, of Perth](/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/) ★ | ~2016 | ![Inches, of Perth sett](/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/sett.png) |

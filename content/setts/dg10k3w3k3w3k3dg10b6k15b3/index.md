@@ -1,5 +1,12 @@
 ---
 title: "City of Edinburgh"
-redirect: "/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [City of Edinburgh](/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/).
+This is the **City of Edinburgh** sett — one scale-free proportion (`dg10k3w3k3w3k3dg10b6k15b3`), colour order pattern
+[BKBGKWKWKG](/stripes/bkbgkwkwkg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [City of Edinburgh](/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/) ★ | ~2016 | ![City of Edinburgh sett](/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/sett.png) |

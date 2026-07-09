@@ -1,5 +1,12 @@
 ---
 title: "Gigha, Green (Dance)"
-redirect: "/variants/s8/db4w2db1w18dg18g18y3g4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gigha, Green (Dance)](/variants/s8/db4w2db1w18dg18g18y3g4~x2/).
+This is the **Gigha, Green (Dance)** sett — one scale-free proportion (`db4w2db1w18dg18g18y3g4`), colour order pattern
+[BWBWGGGG](/stripes/bwbwgggg/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gigha, Green (Dance)](/variants/s8/db4w2db1w18dg18g18y3g4~x2/) ★ | 2008 | ![Gigha, Green (Dance) sett](/variants/s8/db4w2db1w18dg18g18y3g4~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Dark Island"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dark Island"
-  url: ""
+  url: "/setts/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -22,7 +24,7 @@ Earliest known date: May 2003 A Solid Sett* tartan and an innovative departure f
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/05/2003 — Dark Island (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=889">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#282828;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #282828"></span><br><em>A Solid Sett* tartan and an innovative departure from conventional tartan design. An ecru (white) yarn has been woven on a Jacquard loom with the sett being formed by stitches other than 2/2 twill and then the finished fabric has been piece-dyed black. The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey so as to be discernible. *This new category of tartan has been given the description of Solid Sett - a solid colour but with a sett still showing.</em></li>
-<li>undated — Dark Island Black Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5832">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span></li>
+<li>May 2003 — Dark Island Black Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5832">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span></li>
 </ul>
 </details>
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/"><circle cx="491.6" cy="161.4" r="4" fill="#3465a4"><title>Dark Island Black (Fashion)</title></circle></a><circle cx="490.3" cy="141.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/"><circle cx="491.6" cy="161.3" r="4" fill="#3465a4"><title>Dark Island Black (Fashion)</title></circle></a><circle cx="490.4" cy="141.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2~x2/

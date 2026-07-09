@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s4/w2dg13o13w2~x6/">Dunoon Irish</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/w2dg13o13w2~x6/"><img src="/variants/s4/w2dg13o13w2~x6/sett.png" alt="Dunoon Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/w9r23g23w9~x2/">Quaboos Pipers Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w9r23g23w9~x2/"><img src="/variants/s4/w9r23g23w9~x2/sett.png" alt="Quaboos Pipers Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/w9r23g23w9~x2/">Quaboos Pipers Plaid Regimental Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/w9r23g23w9~x2/"><img src="/variants/s4/w9r23g23w9~x2/sett.png" alt="Quaboos Pipers Plaid Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

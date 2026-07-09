@@ -1,16 +1,18 @@
 ---
 title: "Angotta"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Angotta"
   url: "/tartans/angotta/"
 - name: "Angotta"
-  url: ""
+  url: "/setts/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/).
 
 Part of the [Angotta](/tartans/angotta/) tartan — the named design grouping this sett with its other cloths.
 
@@ -26,7 +28,7 @@ Earliest known date: 2009 Designed by Scottish Tartans Authority for the armiger
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>28/03/2009 — Angotta (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10038">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#CDAD00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #CDAD00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#380474;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #380474"></span><span style="display:inline-block;width:.85em;height:.85em;background:#EE0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #EE0000"></span><br><em>This tartan is for the use of all of the name of Angotta. Designed in March 2009 by Brian Wilton of the Scottish Tartans Authority for the armigerous Donald Paul Angotta of the USA and based on an unidentified 19th century sett. The yellow and blue are the major colours of the Angotta arms granted in South Africa in 2001 and the red highlights are from the helm in that coat of arms.</em></li>
-<li>undated — Angotta Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10038">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
+<li>2009 — Angotta Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10038">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 </ul>
 </details>
 

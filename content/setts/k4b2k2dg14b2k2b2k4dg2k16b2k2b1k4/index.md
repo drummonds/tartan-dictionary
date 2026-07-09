@@ -1,5 +1,12 @@
 ---
 title: "Drummond, (Grey)"
-redirect: "/variants/s14/k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Drummond, (Grey)](/variants/s14/k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4~x2/).
+This is the **Drummond, (Grey)** sett — one scale-free proportion (`k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4`), colour order pattern
+[KBKBKGKBKBGKBK](/stripes/kbkbkgkbkbgkbk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Drummond, (Grey)](/variants/s14/k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4~x2/) ★ | ~2016 | ![Drummond, (Grey) sett](/variants/s14/k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4~x2/sett.png) |

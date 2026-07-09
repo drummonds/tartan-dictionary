@@ -1,5 +1,12 @@
 ---
 title: "Metropolitan Atlanta Police (Corp)"
-redirect: "/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Metropolitan Atlanta Police (Corp)](/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/).
+This is the **Metropolitan Atlanta Police (Corp)** sett — one scale-free proportion (`dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2`), colour order pattern
+[BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Metropolitan Atlanta Police (Corp)](/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/) ★ | 1998 | ![Metropolitan Atlanta Police (Corp) sett](/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/sett.png) |

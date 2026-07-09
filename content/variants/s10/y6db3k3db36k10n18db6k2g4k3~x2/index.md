@@ -1,16 +1,18 @@
 ---
 title: "Dinwiddie Hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dinwiddie Hunting"
   url: "/tartans/dinwiddie-hunting/"
 - name: "Dinwiddie Hunting"
-  url: ""
+  url: "/setts/y6db3k3db36k10n18db6k2g4k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6db3k3db36k10n18db6k2g4k3/)
-(the same proportion at any scale), whose colour order is pattern [GBKBKBBKGK](/stripes/gbkbkbbkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y6db3k3db36k10n18db6k2g4k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBKBBKGK](/stripes/gbkbkbbkgk/).
 
 Part of the [Dinwiddie Hunting](/tartans/dinwiddie-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y6db3k3db36k10lb18db6k2g4k3~x2/"><circle cx="210.5" cy="115.8" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="258.1" cy="155.2" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="141.0" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/"><circle cx="282.8" cy="110.8" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="209.1" cy="123.5" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><circle cx="247.4" cy="112.5" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="254.9" cy="128.3" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/variants/s11/ri2k3db30k2db4k2db30k36r30k2lb2~ri2109032-r1706009/"><circle cx="233.2" cy="118.9" r="4" fill="#3465a4"><title>Evans Welsh Name Tartan</title></circle></a><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/"><circle cx="283.2" cy="137.9" r="4" fill="#3465a4"><title>Dawson-Nunes (Personal)</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="269.1" cy="99.0" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><circle cx="250.7" cy="128.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y6db3k3db36k10lb18db6k2g4k3~x2/"><circle cx="210.5" cy="115.6" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="258.1" cy="155.1" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="140.9" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/"><circle cx="282.8" cy="110.6" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="209.1" cy="123.4" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><circle cx="247.4" cy="112.3" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="254.9" cy="128.2" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/variants/s11/ri2k3db30k2db4k2db30k36r30k2lb2~ri2109032-r1706009/"><circle cx="233.2" cy="118.7" r="4" fill="#3465a4"><title>Evans Welsh Name Tartan</title></circle></a><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/"><circle cx="283.2" cy="137.8" r="4" fill="#3465a4"><title>Dawson-Nunes (Personal)</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="269.1" cy="98.9" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><circle cx="250.8" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/

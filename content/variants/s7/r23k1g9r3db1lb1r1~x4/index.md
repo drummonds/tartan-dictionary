@@ -1,14 +1,16 @@
 ---
 title: "Perthshire Clayquhat District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Perthshire Clayquhat District Tartan"
-  url: ""
+  url: "/setts/r23k1g9r3db1lb1r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r23k1g9r3db1lb1r1/)
-(the same proportion at any scale), whose colour order is pattern [RKGRBWR](/stripes/rkgrbwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r23k1g9r3db1lb1r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGRBWR](/stripes/rkgrbwr/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -23,7 +25,7 @@ Earliest known date: c.1739 Early historic plaid woven for (or by) Janet Craigie
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>c.1739 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="151.1" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/"><circle cx="383.7" cy="94.4" r="4" fill="#3465a4"><title>Drummond of Fingask</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="494.0" cy="100.2" r="4" fill="#3465a4"><title>MacAndrew Dress (Name)</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="416.9" cy="87.8" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1~x2/"><circle cx="443.0" cy="70.9" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1/"><circle cx="443.0" cy="70.9" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.5" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.7" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.5" cy="146.4" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="91.0" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><circle cx="421.9" cy="103.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="151.0" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/"><circle cx="383.8" cy="94.3" r="4" fill="#3465a4"><title>Drummond of Fingask</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="494.0" cy="100.1" r="4" fill="#3465a4"><title>MacAndrew Dress (Name)</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="416.9" cy="87.7" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1~x2/"><circle cx="443.0" cy="70.7" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1/"><circle cx="443.0" cy="70.7" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.3" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.6" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.5" cy="146.3" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><circle cx="421.9" cy="103.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r23k1g9r3db1lb1r1~x4/

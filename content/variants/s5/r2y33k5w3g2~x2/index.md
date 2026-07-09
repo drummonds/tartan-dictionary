@@ -1,14 +1,16 @@
 ---
 title: "Port Moresby City Pipes and Drums"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Port Moresby City Pipes and Drums"
-  url: ""
+  url: "/setts/r2y33k5w3g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2y33k5w3g2/)
-(the same proportion at any scale), whose colour order is pattern [GWKGR](/stripes/gwkgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2y33k5w3g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWKGR](/stripes/gwkgr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="334.4" cy="133.5" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/variants/s4/r1ly13k8g1~x6/"><circle cx="266.5" cy="185.5" r="4" fill="#3465a4"><title>Billy Apple - Yellow</title></circle></a><a href="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/"><circle cx="307.7" cy="103.3" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s4/g10w7y41k7~x2/"><circle cx="299.8" cy="228.4" r="4" fill="#3465a4"><title>Hogan (2014)</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.3" cy="94.9" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="420.0" cy="160.1" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.3" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.3" cy="160.3" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.1" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.7" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><circle cx="408.1" cy="132.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="334.4" cy="133.4" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/variants/s4/r1ly13k8g1~x6/"><circle cx="266.6" cy="185.4" r="4" fill="#3465a4"><title>Billy Apple - Yellow</title></circle></a><a href="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/"><circle cx="307.7" cy="103.2" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s4/g10w7y41k7~x2/"><circle cx="299.9" cy="228.4" r="4" fill="#3465a4"><title>Hogan (2014)</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.3" cy="94.8" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="420.0" cy="160.0" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.3" cy="160.2" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.0" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.6" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><circle cx="408.1" cy="132.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r2y33k5w3g2~x2/

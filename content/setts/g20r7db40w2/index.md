@@ -1,5 +1,12 @@
 ---
 title: "McNiff, Kevin (Personal)"
-redirect: "/variants/s4/g20r7db40w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McNiff, Kevin (Personal)](/variants/s4/g20r7db40w2~x2/).
+This is the **McNiff, Kevin (Personal)** sett — one scale-free proportion (`g20r7db40w2`), colour order pattern
+[GRBW](/stripes/grbw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McNiff, Kevin (Personal)](/variants/s4/g20r7db40w2~x2/) ★ | 2014 | ![McNiff, Kevin (Personal) sett](/variants/s4/g20r7db40w2~x2/sett.png) |

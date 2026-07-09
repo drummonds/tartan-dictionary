@@ -1,5 +1,12 @@
 ---
-title: "Unidentified #23"
-redirect: "/variants/s7/db35r2k16y2lb25w2lb6~x2/"
+title: "US Forces (Thurso) Regimental Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified #23](/variants/s7/db35r2k16y2lb25w2lb6~x2/).
+This is the **US Forces (Thurso) Regimental Tartan** sett — one scale-free proportion (`db35r2k16y2lb25w2lb6`), colour order pattern
+[BRKGWWW](/stripes/brkgwww/). It is recorded as a single **variant**, below.
+First attested **1986**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [US Forces (Thurso) Regimental Tartan](/variants/s7/db35r2k16y2lb25w2lb6~x2/) ★ | 1986 | ![US Forces (Thurso) Regimental Tartan sett](/variants/s7/db35r2k16y2lb25w2lb6~x2/sett.png) |

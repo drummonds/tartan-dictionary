@@ -1,14 +1,16 @@
 ---
 title: "Fueglistal (Aargau) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fueglistal (Aargau) (Personal)"
-  url: ""
+  url: "/setts/k3y6n13r2n2r32n1r2n2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3y6n13r2n2r32n1r2n2/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBRBGK](/stripes/brbrbrbgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3y6n13r2n2r32n1r2n2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBRBGK](/stripes/brbrbrbgk/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/"><circle cx="417.6" cy="141.9" r="4" fill="#3465a4"><title>Wcwm 9275-1626</title></circle></a><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4~x2/"><circle cx="358.8" cy="110.7" r="4" fill="#3465a4"><title>Brian Boru 1014 (Commemorative)</title></circle></a><a href="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/"><circle cx="439.7" cy="160.7" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s6/r40w2db2w2r1y20~x2/"><circle cx="474.1" cy="136.9" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2~x2/"><circle cx="366.8" cy="109.9" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2/"><circle cx="366.8" cy="109.9" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1~x2/"><circle cx="365.3" cy="129.0" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/"><circle cx="365.3" cy="129.0" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/"><circle cx="334.8" cy="120.1" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/"><circle cx="375.2" cy="115.9" r="4" fill="#3465a4"><title>Connaught Irish District Tartan</title></circle></a><circle cx="412.1" cy="115.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/"><circle cx="417.6" cy="141.8" r="4" fill="#3465a4"><title>Wcwm 9275-1626</title></circle></a><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4~x2/"><circle cx="358.8" cy="110.5" r="4" fill="#3465a4"><title>Brian Boru 1014 (Commemorative)</title></circle></a><a href="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/"><circle cx="439.7" cy="160.6" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s6/r40w2db2w2r1y20~x2/"><circle cx="474.1" cy="136.8" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2~x2/"><circle cx="366.8" cy="109.7" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2/"><circle cx="366.8" cy="109.7" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1~x2/"><circle cx="365.3" cy="128.8" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/"><circle cx="365.3" cy="128.8" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/"><circle cx="334.8" cy="120.0" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/"><circle cx="375.2" cy="115.7" r="4" fill="#3465a4"><title>Connaught Irish District Tartan</title></circle></a><circle cx="412.1" cy="115.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k3y6n13r2n2r32n1r2n2~x2/

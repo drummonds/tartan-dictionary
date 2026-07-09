@@ -1,5 +1,12 @@
 ---
 title: "Afternoon Tea / Assam"
-redirect: "/variants/s6/r15dr98db72lb25db8w15/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Afternoon Tea / Assam](/variants/s6/r15dr98db72lb25db8w15/).
+This is the **Afternoon Tea / Assam** sett — one scale-free proportion (`r15dr98db72lb25db8w15`), colour order pattern
+[RBBWBW](/stripes/rbbwbw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Afternoon Tea / Assam](/variants/s6/r15dr98db72lb25db8w15/) ★ | 2015 | ![Afternoon Tea / Assam sett](/variants/s6/r15dr98db72lb25db8w15/sett.png) |

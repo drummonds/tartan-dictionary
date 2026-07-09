@@ -1,5 +1,12 @@
 ---
 title: "Carsaig"
-redirect: "/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Carsaig](/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/).
+This is the **Carsaig** sett — one scale-free proportion (`lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4`), colour order pattern
+[YBYBYYYYYYBY](/stripes/ybybyyyyyyby/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Carsaig](/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/) ★ | 1984 | ![Carsaig sett](/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/sett.png) |

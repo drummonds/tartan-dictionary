@@ -1,16 +1,18 @@
 ---
 title: "Langdons (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Langdons"
   url: "/tartans/langdons/"
 - name: "Langdons (Corporate)"
-  url: ""
+  url: "/setts/t2lb4w1lb4t6lb2t2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t2lb4w1lb4t6lb2t2/)
-(the same proportion at any scale), whose colour order is pattern [BWBWWWB](/stripes/bwbwwwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t2lb4w1lb4t6lb2t2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWWWB](/stripes/bwbwwwb/).
 
 Part of the [Langdons](/tartans/langdons/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2lb4w1lb4db6lb2db2~x4/"><circle cx="287.3" cy="295.9" r="4" fill="#3465a4"><title>Langdons</title></circle></a><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><circle cx="297.7" cy="314.5" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><circle cx="310.2" cy="224.7" r="4" fill="#3465a4"><title>Westwood MacSky (Fashion)</title></circle></a><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><circle cx="378.0" cy="231.2" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.6" cy="265.5" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.5" cy="289.4" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><circle cx="241.6" cy="277.0" r="4" fill="#3465a4"><title>Laval Dress, Tartan de</title></circle></a><a href="/variants/s7/g25b4db24b21g25b3db4~x2/"><circle cx="306.2" cy="279.8" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.5" cy="235.6" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.9" cy="243.9" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><circle cx="345.4" cy="320.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2lb4w1lb4db6lb2db2~x4/"><circle cx="287.3" cy="295.8" r="4" fill="#3465a4"><title>Langdons</title></circle></a><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><circle cx="297.7" cy="314.5" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><circle cx="310.2" cy="224.6" r="4" fill="#3465a4"><title>Westwood MacSky (Fashion)</title></circle></a><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><circle cx="378.0" cy="231.1" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.6" cy="265.4" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.6" cy="289.3" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><circle cx="241.7" cy="277.0" r="4" fill="#3465a4"><title>Laval Dress, Tartan de</title></circle></a><a href="/variants/s7/g25b4db24b21g25b3db4~x2/"><circle cx="306.3" cy="279.8" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.6" cy="235.5" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.9" cy="243.8" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><circle cx="345.4" cy="320.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/t2lb4w1lb4t6lb2t2~x4~t2004245-lb3203246/

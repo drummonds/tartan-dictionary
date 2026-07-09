@@ -1,5 +1,12 @@
 ---
 title: "Highfield Dress"
-redirect: "/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highfield Dress](/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/).
+This is the **Highfield Dress** sett — one scale-free proportion (`db10k2g2r2g2k2w2k2w4k1w2`), colour order pattern
+[BKGRGKWKWKWKWKWKGRGK](/stripes/bkgrgkwkwkwkwkwkgrgk/). It is recorded as a single **variant**, below.
+First attested **1982**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Highfield Dress](/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/) ★ | 1982 | ![Highfield Dress sett](/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/sett.png) |

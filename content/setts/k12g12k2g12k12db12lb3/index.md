@@ -1,5 +1,12 @@
 ---
-title: "MacIntyre"
-redirect: "/variants/s7/k12g12k2g12k12db12lb3~x2/"
+title: "MacIntyre Hunting Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacIntyre](/variants/s7/k12g12k2g12k12db12lb3~x2/).
+This is the **MacIntyre Hunting Clan Tartan** sett — one scale-free proportion (`k12g12k2g12k12db12lb3`), colour order pattern
+[KGKGKBW](/stripes/kgkgkbw/). It is recorded as a single **variant**, below.
+First attested **1930**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacIntyre Hunting Clan Tartan](/variants/s7/k12g12k2g12k12db12lb3~x2/) ★ | 1930 | ![MacIntyre Hunting Clan Tartan sett](/variants/s7/k12g12k2g12k12db12lb3~x2/sett.png) |

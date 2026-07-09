@@ -1,14 +1,16 @@
 ---
 title: "Strathtummel"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathtummel"
-  url: ""
+  url: "/setts/db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13/)
-(the same proportion at any scale), whose colour order is pattern [BKBKKKWKGKGKGK](/stripes/bkbkkkwkgkgkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKKKWKGKGKGK](/stripes/bkbkkkwkgkgkgk/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13~x2/"><circle cx="253.2" cy="92.1" r="4" fill="#3465a4"><title>Strathtummel (District?)</title></circle></a><a href="/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2~db1204274-dp1607327/"><circle cx="375.1" cy="124.7" r="4" fill="#3465a4"><title>Spirit of Wales</title></circle></a><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/"><circle cx="264.7" cy="168.2" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/"><circle cx="312.0" cy="123.2" r="4" fill="#3465a4"><title>Royal Highland Yacht Club</title></circle></a><a href="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1~x2~dbi1406275-db1204274/"><circle cx="422.6" cy="113.0" r="4" fill="#3465a4"><title>Payne (Name)</title></circle></a><circle cx="320.2" cy="113.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13~x2/"><circle cx="253.2" cy="92.0" r="4" fill="#3465a4"><title>Strathtummel (District?)</title></circle></a><a href="/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2~db1204274-dp1607327/"><circle cx="375.2" cy="124.5" r="4" fill="#3465a4"><title>Spirit of Wales</title></circle></a><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/"><circle cx="264.7" cy="168.1" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/"><circle cx="312.0" cy="123.1" r="4" fill="#3465a4"><title>Royal Highland Yacht Club</title></circle></a><a href="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1~x2~dbi1406275-db1204274/"><circle cx="422.6" cy="112.9" r="4" fill="#3465a4"><title>Payne (Name)</title></circle></a><circle cx="320.2" cy="113.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13~x2~ki0703341-k0700000/

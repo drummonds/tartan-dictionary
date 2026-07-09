@@ -1,16 +1,18 @@
 ---
 title: "Thompson's Fancy Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Thompson's Fancy"
   url: "/tartans/thompson-s-fancy/"
 - name: "Thompson's Fancy Personal Tartan"
-  url: ""
+  url: "/setts/r2dy8db2lb4k4lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2dy8db2lb4k4lb1/)
-(the same proportion at any scale), whose colour order is pattern [RGBWKW](/stripes/rgbwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2dy8db2lb4k4lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGBWKW](/stripes/rgbwkw/).
 
 Part of the [Thompson's Fancy](/tartans/thompson-s-fancy/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: pre 2003 Designed for his own use.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr1dy6db2lb4k4lb1~x6/"><circle cx="91.0" cy="227.3" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><circle cx="122.2" cy="207.6" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.7" cy="181.2" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="204.1" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.7" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="198.4" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.8" cy="206.2" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.3" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><circle cx="115.3" cy="187.2" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><circle cx="121.1" cy="209.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr1dy6db2lb4k4lb1~x6/"><circle cx="91.1" cy="227.2" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><circle cx="122.2" cy="207.6" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.8" cy="181.2" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.7" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.4" cy="204.0" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.6" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="198.3" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.9" cy="206.1" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.2" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><circle cx="115.3" cy="187.1" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><circle cx="121.1" cy="208.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r2dy8db2lb4k4lb1~x6/

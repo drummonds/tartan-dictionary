@@ -1,5 +1,12 @@
 ---
 title: "Midpac Tissue (non woven)"
-redirect: "/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Midpac Tissue (non woven)](/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/).
+This is the **Midpac Tissue (non woven)** sett — one scale-free proportion (`r5k2dg1k2r5k2dg18ly3`), colour order pattern
+[RKGKRKGY](/stripes/rkgkrkgy/). It is recorded as a single **variant**, below.
+First attested **~2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Midpac Tissue (non woven)](/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/) ★ | ~2006 | ![Midpac Tissue (non woven) sett](/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/sett.png) |

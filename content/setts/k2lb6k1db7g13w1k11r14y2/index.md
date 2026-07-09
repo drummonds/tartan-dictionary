@@ -1,5 +1,12 @@
 ---
-title: "Teall of Teallach (Personal)"
-redirect: "/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/"
+title: "Teall of Teallach Family Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Teall of Teallach (Personal)](/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/).
+This is the **Teall of Teallach Family Tartan** sett — one scale-free proportion (`k2lb6k1db7g13w1k11r14y2`), colour order pattern
+[GRKWGBKWK](/stripes/grkwgbkwk/). It is recorded as a single **variant**, below.
+First attested **1966**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Teall of Teallach Family Tartan](/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/) ★ | 1966 | ![Teall of Teallach Family Tartan sett](/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/sett.png) |

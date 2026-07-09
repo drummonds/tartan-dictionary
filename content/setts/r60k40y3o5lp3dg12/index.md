@@ -1,5 +1,14 @@
 ---
 title: "Rei Okamoto (Personal)"
-redirect: "/variants/s6/r60k40y3o5lp3dg12~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rei Okamoto (Personal)](/variants/s6/r60k40y3o5lp3dg12~x2/).
+This is the **Rei Okamoto (Personal)** sett — one scale-free proportion (`r60k40y3o5lp3dg12`), colour order pattern
+[GWRGKR](/stripes/gwrgkr/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+Part of the [Rei Okamoto](/tartans/rei-okamoto/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Rei Okamoto (Personal)](/variants/s6/r60k40y3o5lp3dg12~x2/) ★ | 2007 | ![Rei Okamoto (Personal) sett](/variants/s6/r60k40y3o5lp3dg12~x2/sett.png) |

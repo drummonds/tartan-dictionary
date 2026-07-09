@@ -1,14 +1,16 @@
 ---
 title: "Australian, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Australian, The"
-  url: ""
+  url: "/setts/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2/)
-(the same proportion at any scale), whose colour order is pattern [WRBRBKBRBRBKBRBRW](/stripes/wrbrbkbrbrbkbrbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WRBRBKBRBRBKBRBRW](/stripes/wrbrbkbrbrbkbrbrw/).
 
 Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="371.8" cy="67.0" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s13/k1y1k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="356.0" cy="53.0" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s14/b28k1r7k1b6k1n4k1b6y2r3y2b4w6~x2/"><circle cx="298.0" cy="64.7" r="4" fill="#3465a4"><title>Rabbinical (Corporate)</title></circle></a><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><circle cx="334.3" cy="105.6" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><circle cx="388.5" cy="83.7" r="4" fill="#3465a4"><title>Wcwm 1445</title></circle></a><a href="/variants/s11/b30r2b2k5b3o2b3o22b3k2b3~x2/"><circle cx="332.3" cy="132.2" r="4" fill="#3465a4"><title>Dunbarton, Weft</title></circle></a><circle cx="376.5" cy="84.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="371.8" cy="66.9" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s13/k1y1k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="356.0" cy="52.8" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s14/b28k1r7k1b6k1n4k1b6y2r3y2b4w6~x2/"><circle cx="298.0" cy="64.5" r="4" fill="#3465a4"><title>Rabbinical (Corporate)</title></circle></a><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><circle cx="334.3" cy="105.4" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><circle cx="388.5" cy="83.6" r="4" fill="#3465a4"><title>Wcwm 1445</title></circle></a><a href="/variants/s11/b30r2b2k5b3o2b3o22b3k2b3~x2/"><circle cx="332.3" cy="132.0" r="4" fill="#3465a4"><title>Dunbarton, Weft</title></circle></a><circle cx="376.5" cy="84.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2~x2/

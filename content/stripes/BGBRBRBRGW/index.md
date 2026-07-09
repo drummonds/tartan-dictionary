@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/">Roxburgh Red</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><img src="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/sett.png" alt="Roxburgh Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/">Roxburgh, Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/"><img src="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/sett.png" alt="Roxburgh, Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/">Roxburgh Red District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/"><img src="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/sett.png" alt="Roxburgh Red District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

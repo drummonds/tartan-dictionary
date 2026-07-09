@@ -1,5 +1,14 @@
 ---
 title: "Albannach (Corporate)"
-redirect: "/variants/s8/k4dp2dr7dp60g15db60t5w3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Albannach (Corporate)](/variants/s8/k4dp2dr7dp60g15db60t5w3/).
+This is the **Albannach (Corporate)** sett — one scale-free proportion (`k4dp2dr7dp60g15db60t5w3`), colour order pattern
+[KBBBGBBW](/stripes/kbbbgbbw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+Part of the [Albannach](/tartans/albannach/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Albannach (Corporate)](/variants/s8/k4dp2dr7dp60g15db60t5w3/) ★ | 2008 | ![Albannach (Corporate) sett](/variants/s8/k4dp2dr7dp60g15db60t5w3/sett.png) |

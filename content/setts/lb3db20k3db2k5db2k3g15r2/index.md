@@ -1,5 +1,12 @@
 ---
 title: "Scottish Chamber Orchestra, The"
-redirect: "/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scottish Chamber Orchestra, The](/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/).
+This is the **Scottish Chamber Orchestra, The** sett — one scale-free proportion (`lb3db20k3db2k5db2k3g15r2`), colour order pattern
+[RGKBKBKBW](/stripes/rgkbkbkbw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scottish Chamber Orchestra, The](/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/) ★ | 2014 | ![Scottish Chamber Orchestra, The sett](/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/sett.png) |

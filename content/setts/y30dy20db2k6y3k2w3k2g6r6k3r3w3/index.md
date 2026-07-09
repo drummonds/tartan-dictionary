@@ -1,5 +1,12 @@
 ---
 title: "Cree"
-redirect: "/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cree](/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/).
+This is the **Cree** sett — one scale-free proportion (`y30dy20db2k6y3k2w3k2g6r6k3r3w3`), colour order pattern
+[GGBKGKWKGRKRW](/stripes/ggbkgkwkgrkrw/). It is recorded as a single **variant**, below.
+First attested **1979**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cree](/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/) ★ | 1979 | ![Cree sett](/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/sett.png) |

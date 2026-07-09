@@ -1,5 +1,12 @@
 ---
 title: "Dick (Personal)"
-redirect: "/variants/s7/k5g30y3t15k15t7w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dick (Personal)](/variants/s7/k5g30y3t15k15t7w3~x2/).
+This is the **Dick (Personal)** sett — one scale-free proportion (`k5g30y3t15k15t7w3`), colour order pattern
+[KGGBKBW](/stripes/kggbkbw/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dick (Personal)](/variants/s7/k5g30y3t15k15t7w3~x2/) ★ | 2007 | ![Dick (Personal) sett](/variants/s7/k5g30y3t15k15t7w3~x2/sett.png) |

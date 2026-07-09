@@ -1,5 +1,12 @@
 ---
 title: "Fyvie"
-redirect: "/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fyvie](/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/).
+This is the **Fyvie** sett — one scale-free proportion (`y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4`), colour order pattern
+[GGGGKBKBKBGBKBKBKGKW](/stripes/ggggkbkbkbgbkbkbkgkw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fyvie](/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/) ★ | 2008 | ![Fyvie sett](/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Huntly #3"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Huntly #3"
-  url: ""
+  url: "/setts/dy2lr1dy5k4do5o1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy2lr1dy5k4do5o1/)
-(the same proportion at any scale), whose colour order is pattern [GYGKBRBKGY](/stripes/gygkbrbkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy2lr1dy5k4do5o1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGKBRBKGY](/stripes/gygkbrbkgy/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><circle cx="142.9" cy="265.6" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><a href="/variants/s11/r5dt5r5dt5r5dt14k16dti14r3k3dy3~x2~dt0900000-dti1102249/"><circle cx="99.6" cy="203.6" r="4" fill="#3465a4"><title>MacDougall - 1970 (William) (Comm)</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.6" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/"><circle cx="140.4" cy="228.7" r="4" fill="#3465a4"><title>Longford, County</title></circle></a><a href="/variants/s7/r1do7db7k7g7do7r1~x4/"><circle cx="124.0" cy="232.7" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/"><circle cx="138.0" cy="236.0" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.2" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="123.1" cy="233.2" r="4" fill="#3465a4"><title>Tennant Family Tartan</title></circle></a><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><circle cx="132.4" cy="188.9" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><a href="/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="170.3" cy="232.8" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan</title></circle></a><circle cx="137.5" cy="235.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><circle cx="142.9" cy="265.6" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><a href="/variants/s11/r5dt5r5dt5r5dt14k16dti14r3k3dy3~x2~dt0900000-dti1102249/"><circle cx="99.6" cy="203.5" r="4" fill="#3465a4"><title>MacDougall - 1970 (William) (Comm)</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.6" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/"><circle cx="140.4" cy="228.6" r="4" fill="#3465a4"><title>Longford, County</title></circle></a><a href="/variants/s7/r1do7db7k7g7do7r1~x4/"><circle cx="124.0" cy="232.7" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/"><circle cx="138.1" cy="235.9" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.1" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="123.2" cy="233.1" r="4" fill="#3465a4"><title>Tennant Family Tartan</title></circle></a><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><circle cx="132.4" cy="188.8" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><a href="/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="170.3" cy="232.8" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan</title></circle></a><circle cx="137.5" cy="235.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy2lr1dy5k4do5o1~x4~do1402055/

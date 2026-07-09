@@ -1,14 +1,16 @@
 ---
 title: "Smith Hunting (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Smith Hunting (Name)"
-  url: ""
+  url: "/setts/ly60w1o15w1ly9o15w1g9w1o15/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly60w1o15w1ly9o15w1g9w1o15/)
-(the same proportion at any scale), whose colour order is pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly60w1o15w1ly9o15w1g9w1o15/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

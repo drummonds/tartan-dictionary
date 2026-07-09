@@ -37,8 +37,8 @@ second parent, beside its family or clan).
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/y15db8r25db72dg98w15/">Afternoon Tea / Darjeeling</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/y15db8r25db72dg98w15/"><img src="/variants/s6/y15db8r25db72dg98w15/sett.png" alt="Afternoon Tea / Darjeeling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w4g28db18r4db18y3~x2/">MacIntyre, Inglis</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w4g28db18r4db18y3~x2/"><img src="/variants/s6/w4g28db18r4db18y3~x2/sett.png" alt="MacIntyre, Inglis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w4g28db18r4db18y3~x2/">Inglis Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w4g28db18r4db18y3~x2/"><img src="/variants/s6/w4g28db18r4db18y3~x2/sett.png" alt="Inglis Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/dy34db27r3db27dy34w3~x2/">London Regiment</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><img src="/variants/s6/dy34db27r3db27dy34w3~x2/sett.png" alt="London Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

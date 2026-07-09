@@ -1,6 +1,7 @@
 ---
 title: "Yukon (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Yukon"
   url: "/setts/lb20dp4r4w4g4y4lb4y1lb2y1lb20/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb20dp4r4w4g4y4lb4y1lb2y1lb20/)
-(the same proportion at any scale), whose colour order is pattern [WBRWGGWGWGW](/stripes/wbrwggwgwgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb20dp4r4w4g4y4lb4y1lb2y1lb20/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBRWGGWGWGW](/stripes/wbrwggwgwgw/).
 
 Part of the [Yukon](/tartans/yukon/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/"><circle cx="383.5" cy="129.9" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s11/b27w2b15y1b1y1b15k2w2g16r1~x2/"><circle cx="398.1" cy="102.5" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/variants/s8/lb40db4lb4b5g5lb3ly6o3~x2/"><circle cx="401.8" cy="148.1" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="146.1" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><circle cx="368.8" cy="115.8" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/variants/s12/o38db4o8ly2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/"><circle cx="355.6" cy="118.8" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/"><circle cx="319.0" cy="115.0" r="4" fill="#3465a4"><title>Gray, Thomas (Personal)</title></circle></a><a href="/variants/s12/o38lp4o8dy2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/"><circle cx="359.0" cy="118.6" r="4" fill="#3465a4"><title>Portree Check (District) Tartan</title></circle></a><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/"><circle cx="351.3" cy="91.1" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><a href="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/"><circle cx="322.8" cy="161.7" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><circle cx="383.6" cy="129.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/"><circle cx="383.5" cy="129.8" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s11/b27w2b15y1b1y1b15k2w2g16r1~x2/"><circle cx="398.1" cy="102.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/variants/s8/lb40db4lb4b5g5lb3ly6o3~x2/"><circle cx="401.8" cy="148.0" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="145.9" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><circle cx="368.8" cy="115.7" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/variants/s12/o38db4o8ly2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/"><circle cx="355.6" cy="118.7" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/"><circle cx="319.0" cy="114.9" r="4" fill="#3465a4"><title>Gray, Thomas (Personal)</title></circle></a><a href="/variants/s12/o38lp4o8dy2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/"><circle cx="359.0" cy="118.4" r="4" fill="#3465a4"><title>Portree Check (District) Tartan</title></circle></a><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/"><circle cx="351.3" cy="90.9" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><a href="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/"><circle cx="322.8" cy="161.6" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><circle cx="383.6" cy="129.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4/

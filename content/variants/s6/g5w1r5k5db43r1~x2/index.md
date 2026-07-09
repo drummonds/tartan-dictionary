@@ -1,14 +1,16 @@
 ---
 title: "Michael (John) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Michael (John) (Personal)"
-  url: ""
+  url: "/setts/g5w1r5k5db43r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5w1r5k5db43r1/)
-(the same proportion at any scale), whose colour order is pattern [GWRKBR](/stripes/gwrkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g5w1r5k5db43r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWRKBR](/stripes/gwrkbr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.1" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.9" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s6/r2db61k13w2n20ly2~x2/"><circle cx="341.5" cy="104.8" r="4" fill="#3465a4"><title>Lloyd of Astargus</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s6/y2r5y2r5db49w2~x2/"><circle cx="497.9" cy="128.1" r="4" fill="#3465a4"><title>Balmer (Personal)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="387.9" cy="66.7" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.3" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/"><circle cx="395.0" cy="116.0" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><circle cx="411.6" cy="119.3" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><circle cx="437.7" cy="85.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.0" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.8" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s6/r2db61k13w2n20ly2~x2/"><circle cx="341.5" cy="104.6" r="4" fill="#3465a4"><title>Lloyd of Astargus</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.2" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s6/y2r5y2r5db49w2~x2/"><circle cx="497.9" cy="128.0" r="4" fill="#3465a4"><title>Balmer (Personal)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="387.9" cy="66.6" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/"><circle cx="395.0" cy="115.9" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><circle cx="411.7" cy="119.1" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><circle cx="437.7" cy="85.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g5w1r5k5db43r1~x2/

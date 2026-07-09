@@ -1,16 +1,18 @@
 ---
 title: "Glover, Thomas Blake"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glover, Thomas Blake"
   url: "/tartans/glover-thomas-blake/"
 - name: "Glover, Thomas Blake"
-  url: ""
+  url: "/setts/db5dr10y4dr10y4dr10db5w4db3w10db1y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5dr10y4dr10y4dr10db5w4db3w10db1y1/)
-(the same proportion at any scale), whose colour order is pattern [BBGBGBBWBWBG](/stripes/bbgbgbbwbwbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db5dr10y4dr10y4dr10db5w4db3w10db1y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBGBBWBWBG](/stripes/bbgbgbbwbwbg/).
 
 Part of the [Glover, Thomas Blake](/tartans/glover-thomas-blake/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db5dr10ly4dr10ly4dr10db5w4db3w10db1ly1~x2/"><circle cx="210.1" cy="226.6" r="4" fill="#3465a4"><title>Glover, Thomas Blake (Corporate)</title></circle></a><a href="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/"><circle cx="221.3" cy="256.3" r="4" fill="#3465a4"><title>Tamer of Wolves</title></circle></a><a href="/variants/s9/r3w2r9dt15w2dt15lb9r2lb3~x2~dt0900000-lb3200000/"><circle cx="220.5" cy="202.8" r="4" fill="#3465a4"><title>Dogrobes</title></circle></a><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/"><circle cx="249.2" cy="207.0" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="190.9" cy="208.0" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/"><circle cx="203.9" cy="209.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s7/g4y7lo9y9db20w2db2~x2/"><circle cx="204.8" cy="213.5" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/"><circle cx="223.8" cy="252.1" r="4" fill="#3465a4"><title>Mariverain</title></circle></a><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/"><circle cx="158.2" cy="161.6" r="4" fill="#3465a4"><title>Stuart-Houghton Dress (Personal)</title></circle></a><circle cx="195.8" cy="214.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db5dr10ly4dr10ly4dr10db5w4db3w10db1ly1~x2/"><circle cx="210.1" cy="226.6" r="4" fill="#3465a4"><title>Glover, Thomas Blake (Corporate)</title></circle></a><a href="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/"><circle cx="221.3" cy="256.3" r="4" fill="#3465a4"><title>Tamer of Wolves</title></circle></a><a href="/variants/s9/r3w2r9dt15w2dt15lb9r2lb3~x2~dt0900000-lb3200000/"><circle cx="220.5" cy="202.8" r="4" fill="#3465a4"><title>Dogrobes</title></circle></a><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/"><circle cx="249.2" cy="206.9" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="191.0" cy="207.9" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/"><circle cx="203.9" cy="209.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.3" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s7/g4y7lo9y9db20w2db2~x2/"><circle cx="204.8" cy="213.5" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/"><circle cx="223.8" cy="252.1" r="4" fill="#3465a4"><title>Mariverain</title></circle></a><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/"><circle cx="158.2" cy="161.5" r="4" fill="#3465a4"><title>Stuart-Houghton Dress (Personal)</title></circle></a><circle cx="195.8" cy="214.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db5dr10y4dr10y4dr10db5w4db3w10db1y1~x2/

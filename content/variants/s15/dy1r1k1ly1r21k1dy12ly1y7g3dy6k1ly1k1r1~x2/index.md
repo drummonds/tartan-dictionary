@@ -1,16 +1,18 @@
 ---
 title: "Purdy, R Scott (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Purdy, R Scott"
   url: "/tartans/purdy-r-scott/"
 - name: "Purdy, R Scott (Personal)"
-  url: ""
+  url: "/setts/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1/)
-(the same proportion at any scale), whose colour order is pattern [GRKYRKGYGGGKYKR](/stripes/grkyrkgygggkykr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRKYRKGYGGGKYKR](/stripes/grkyrkgygggkykr/).
 
 Part of the [Purdy, R Scott](/tartans/purdy-r-scott/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/"><circle cx="204.6" cy="73.3" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/"><circle cx="164.4" cy="65.7" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.6" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="80.0" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/"><circle cx="209.5" cy="52.3" r="4" fill="#3465a4"><title>Dundas, (Red)</title></circle></a><a href="/variants/s12/db8g2k2ly2k2y2k2g18r2g2r29k3~x2/"><circle cx="169.1" cy="88.0" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="81.0" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.3" cy="76.7" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="193.6" cy="68.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/"><circle cx="204.6" cy="73.1" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/"><circle cx="164.4" cy="65.5" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.4" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="79.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/"><circle cx="209.5" cy="52.1" r="4" fill="#3465a4"><title>Dundas, (Red)</title></circle></a><a href="/variants/s12/db8g2k2ly2k2y2k2g18r2g2r29k3~x2/"><circle cx="169.1" cy="87.9" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="80.8" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.3" cy="76.5" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="193.6" cy="68.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/

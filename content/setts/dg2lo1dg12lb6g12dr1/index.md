@@ -1,5 +1,12 @@
 ---
 title: "City of Vancouver (Commemorative)"
-redirect: "/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [City of Vancouver (Commemorative)](/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/).
+This is the **City of Vancouver (Commemorative)** sett — one scale-free proportion (`dg2lo1dg12lb6g12dr1`), colour order pattern
+[BGWGYG](/stripes/bgwgyg/). It is recorded as a single **variant**, below.
+First attested **1991**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [City of Vancouver (Commemorative)](/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/) ★ | 1991 | ![City of Vancouver (Commemorative) sett](/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Strathisla (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathisla"
   url: "/tartans/strathisla/"
 - name: "Strathisla (District)"
-  url: ""
+  url: "/setts/dbi8g8db12r3dp20g3db20dbi3db20lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi8g8db12r3dp20g3db20dbi3db20lb2/)
-(the same proportion at any scale), whose colour order is pattern [BGBRBGBBBW](/stripes/bgbrbgbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi8g8db12r3dp20g3db20dbi3db20lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBRBGBBBW](/stripes/bgbrbgbbbw/).
 
 Part of the [Strathisla](/tartans/strathisla/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp30db30n4db4n4db5r6~x2/"><circle cx="380.7" cy="246.8" r="4" fill="#3465a4"><title>Komissarov, Dmitry (Personal)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi1406275-db1404245/"><circle cx="310.1" cy="217.3" r="4" fill="#3465a4"><title>Great Scot</title></circle></a><a href="/variants/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi1406275-db1305255-dp1607327/"><circle cx="294.3" cy="180.7" r="4" fill="#3465a4"><title>Strathisla</title></circle></a><a href="/variants/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2~x4~db1204274-dbi1406275/"><circle cx="303.9" cy="195.2" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><circle cx="330.5" cy="216.5" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2~dr1305012-r1606028/"><circle cx="249.7" cy="190.0" r="4" fill="#3465a4"><title>Scottish Lion (Corporate)</title></circle></a><a href="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/"><circle cx="289.0" cy="189.1" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/"><circle cx="244.7" cy="245.1" r="4" fill="#3465a4"><title>Glen Erin Canadian Tartan</title></circle></a><a href="/variants/s7/db30b10n10db5r3y3g3~x2/"><circle cx="310.2" cy="188.1" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><circle cx="307.7" cy="209.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp30db30n4db4n4db5r6~x2/"><circle cx="380.8" cy="246.8" r="4" fill="#3465a4"><title>Komissarov, Dmitry (Personal)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi1406275-db1404245/"><circle cx="310.1" cy="217.2" r="4" fill="#3465a4"><title>Great Scot</title></circle></a><a href="/variants/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi1406275-db1305255-dp1607327/"><circle cx="294.3" cy="180.6" r="4" fill="#3465a4"><title>Strathisla</title></circle></a><a href="/variants/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2~x4~db1204274-dbi1406275/"><circle cx="303.9" cy="195.1" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><circle cx="330.6" cy="216.4" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2~dr1305012-r1606028/"><circle cx="249.7" cy="189.9" r="4" fill="#3465a4"><title>Scottish Lion (Corporate)</title></circle></a><a href="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/"><circle cx="289.0" cy="189.0" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/"><circle cx="244.8" cy="245.0" r="4" fill="#3465a4"><title>Glen Erin Canadian Tartan</title></circle></a><a href="/variants/s7/db30b10n10db5r3y3g3~x2/"><circle cx="310.2" cy="188.0" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><circle cx="307.8" cy="209.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/

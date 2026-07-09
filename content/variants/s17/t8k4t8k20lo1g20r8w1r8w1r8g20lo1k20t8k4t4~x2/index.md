@@ -1,14 +1,16 @@
 ---
 title: "Cumming"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cumming"
-  url: ""
+  url: "/setts/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4/)
-(the same proportion at any scale), whose colour order is pattern [BKBKYGRWRWRGYKBKB](/stripes/bkbkygrwrwrgykbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKYGRWRWRGYKBKB](/stripes/bkbkygrwrwrgykbkb/).
 
 Sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **Cumming** name adjusted Logan's counts: [Cumming](/setts/s22/g10r3b12ba1r10g12r3b20r3b3ba1r3b20r3g12r12ba1b12r3g20r3b3~b2c4084-ba3c82af-g005020-rdc0000~x2/); [Cumming #2](/setts/s8/r3g9w1g9r3g6r18k2~g006818-k101010-rc80000-wfcfcfc~x2/); [Cumming and Glenorchy](/setts/s22/r3b20r3g12r8ba1b12r3g22r3b3g33r3b12ba1r8g12r3b20r3b3ba1~b2c4084-ba3c82af-g005020-rdc0000~x2/); [Cumming Hunting](/setts/s23/k1r1g8r1k6b1r6g6r1k8r1b1k1r1k8r1g6r6b1k6r1g8r1~b2888c4-g006818-k101010-rc80000~x4/). Compare their thread counts with Logan's above.
+Later records of the **Cumming** name adjusted Logan's counts: [Cumming](/variants/s22/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3~x2/); [Cumming #2](/variants/s8/r3g9w1g9r3g6r18k2~x2/); [Cumming and Glenorchy](/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/); [Cumming Hunting](/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/"><circle cx="60.3" cy="105.2" r="4" fill="#3465a4"><title>Melnyk-Jones (Personal)</title></circle></a><a href="/variants/s18/g24k2lb6k2dr12w1dr12k2lb6k2dy12k2dy12k2lb6k2g12lb6~x2/"><circle cx="81.6" cy="95.6" r="4" fill="#3465a4"><title>Buchanan Hunting (Mackinlay strip)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.3" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s15/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2~x2/"><circle cx="89.8" cy="125.2" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.6" cy="124.2" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/"><circle cx="99.0" cy="129.7" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.6" cy="97.5" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2~o2500000-n1900000/"><circle cx="80.1" cy="132.6" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/"><circle cx="54.0" cy="109.0" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/"><circle cx="94.6" cy="117.7" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><circle cx="89.3" cy="104.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/"><circle cx="60.3" cy="105.1" r="4" fill="#3465a4"><title>Melnyk-Jones (Personal)</title></circle></a><a href="/variants/s18/g24k2lb6k2dr12w1dr12k2lb6k2dy12k2dy12k2lb6k2g12lb6~x2/"><circle cx="81.6" cy="95.5" r="4" fill="#3465a4"><title>Buchanan Hunting (Mackinlay strip)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.2" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s15/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2~x2/"><circle cx="89.8" cy="125.0" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.6" cy="124.0" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/"><circle cx="99.0" cy="129.5" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.6" cy="97.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2~o2500000-n1900000/"><circle cx="80.1" cy="132.5" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/"><circle cx="54.0" cy="108.8" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/"><circle cx="94.6" cy="117.6" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><circle cx="89.3" cy="103.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/

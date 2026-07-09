@@ -34,8 +34,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s7/k9g9w2g9k9db9k3~x2/"><img src="/variants/s7/k9g9w2g9k9db9k3~x2/sett.png" alt="Graham of Montrose - 1850 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/k13g12lb2g12k13dp12k2~x2/">MacLaggan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/k13g12lb2g12k13dp12k2~x2/"><img src="/variants/s7/k13g12lb2g12k13dp12k2~x2/sett.png" alt="MacLaggan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k7g6w1g6k7db7k1~x4/">MacLaggan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k7g6w1g6k7db7k1~x4/"><img src="/variants/s7/k7g6w1g6k7db7k1~x4/sett.png" alt="MacLaggan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k7g6w1g6k7db7k1~x4/">MacLaggan Artifact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k7g6w1g6k7db7k1~x4/"><img src="/variants/s7/k7g6w1g6k7db7k1~x4/sett.png" alt="MacLaggan Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/">Wilson's, No 64 or Abercrombie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><img src="/variants/s7/k6g6w1g6k6dp6k1~x4/sett.png" alt="Wilson's, No 64 or Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

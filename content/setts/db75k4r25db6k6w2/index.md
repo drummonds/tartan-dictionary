@@ -1,5 +1,12 @@
 ---
 title: "Hong Kong St Andrew's Society"
-redirect: "/variants/s6/db75k4r25db6k6w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hong Kong St Andrew's Society](/variants/s6/db75k4r25db6k6w2~x2/).
+This is the **Hong Kong St Andrew's Society** sett — one scale-free proportion (`db75k4r25db6k6w2`), colour order pattern
+[BKRBKW](/stripes/bkrbkw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hong Kong St Andrew's Society](/variants/s6/db75k4r25db6k6w2~x2/) ★ | 2016 | ![Hong Kong St Andrew's Society sett](/variants/s6/db75k4r25db6k6w2~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Crook"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Crook"
   url: "/tartans/crook/"
 - name: "Crook"
-  url: ""
+  url: "/setts/k4r14t2dg16r3k3r3t12dg4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4r14t2dg16r3k3r3t12dg4/)
-(the same proportion at any scale), whose colour order is pattern [GBRKRGBRK](/stripes/gbrkrgbrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4r14t2dg16r3k3r3t12dg4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBRKRGBRK](/stripes/gbrkrgbrk/).
 
 Part of the [Crook](/tartans/crook/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="135.0" cy="197.6" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><circle cx="153.5" cy="187.7" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.7" cy="202.5" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.3" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.8" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s8/r33g17db50g17r11g17r9k7/"><circle cx="138.3" cy="213.9" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/variants/s8/o3k7o2w2oi12k2oi2o3~x2~o2102055-oi2104058/"><circle cx="161.0" cy="198.4" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><circle cx="116.0" cy="182.0" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><circle cx="138.7" cy="194.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="135.0" cy="197.6" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><circle cx="153.5" cy="187.7" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.7" cy="202.4" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.2" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.7" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s8/r33g17db50g17r11g17r9k7/"><circle cx="138.3" cy="213.9" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/variants/s8/o3k7o2w2oi12k2oi2o3~x2~o2102055-oi2104058/"><circle cx="161.0" cy="198.4" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><circle cx="116.0" cy="181.9" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><circle cx="138.7" cy="194.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db48w2k20g22r3g4~x2/">MacFadzean</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db48w2k20g22r3g4~x2/"><img src="/variants/s6/db48w2k20g22r3g4~x2/sett.png" alt="MacFadzean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db48w2k20g22r3g4~x2/">MacFadzean Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db48w2k20g22r3g4~x2/"><img src="/variants/s6/db48w2k20g22r3g4~x2/sett.png" alt="MacFadzean Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db22w2k10g11r3g4~x2/">Paterson Blue (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db22w2k10g11r3g4~x2/"><img src="/variants/s6/db22w2k10g11r3g4~x2/sett.png" alt="Paterson Blue (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

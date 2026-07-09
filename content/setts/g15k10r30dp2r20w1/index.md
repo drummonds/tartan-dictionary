@@ -1,5 +1,12 @@
 ---
 title: "Kinnaird (Name)"
-redirect: "/variants/s6/g15k10r30dp2r20w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kinnaird (Name)](/variants/s6/g15k10r30dp2r20w1~x2/).
+This is the **Kinnaird (Name)** sett — one scale-free proportion (`g15k10r30dp2r20w1`), colour order pattern
+[GKRBRW](/stripes/gkrbrw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kinnaird (Name)](/variants/s6/g15k10r30dp2r20w1~x2/) ★ | 2008 | ![Kinnaird (Name) sett](/variants/s6/g15k10r30dp2r20w1~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Stenhousemuir F.C."
-redirect: "/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stenhousemuir F.C.](/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/).
+This is the **Stenhousemuir F.C.** sett — one scale-free proportion (`dr6k2dr4y3dr60db14dr3db3w1`), colour order pattern
+[BKBGBBBBW](/stripes/bkbgbbbbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Stenhousemuir F.C.](/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/) ★ | ~2016 | ![Stenhousemuir F.C. sett](/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/sett.png) |

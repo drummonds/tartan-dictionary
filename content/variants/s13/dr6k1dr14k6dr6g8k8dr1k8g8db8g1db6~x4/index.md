@@ -1,14 +1,16 @@
 ---
 title: "Forbes (Pendleton-1)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Forbes (Pendleton-1)"
-  url: ""
+  url: "/setts/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6/)
-(the same proportion at any scale), whose colour order is pattern [BGBGKBKGBKBKB](/stripes/bgbgkbkgbkbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGKBKGBKBKB](/stripes/bgbgkbkgbkbkb/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/"><circle cx="149.0" cy="178.7" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="128.3" cy="168.2" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/"><circle cx="128.3" cy="168.2" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/"><circle cx="169.6" cy="144.8" r="4" fill="#3465a4"><title>MacIsaac (Name?)</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.5" cy="189.8" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/"><circle cx="96.0" cy="198.7" r="4" fill="#3465a4"><title>Stewart of Achnacone Clan Tartan</title></circle></a><a href="/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2~r2109032-db1406275/"><circle cx="100.4" cy="172.1" r="4" fill="#3465a4"><title>Young Presidents Organisation</title></circle></a><a href="/variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/"><circle cx="92.9" cy="181.4" r="4" fill="#3465a4"><title>Stewart Ancient (Fashion)</title></circle></a><a href="/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/"><circle cx="96.5" cy="171.3" r="4" fill="#3465a4"><title>Young Presidents Org. (Corporate)</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.2" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><circle cx="133.7" cy="188.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/"><circle cx="149.0" cy="178.6" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="128.3" cy="168.1" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/"><circle cx="128.3" cy="168.1" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/"><circle cx="169.6" cy="144.7" r="4" fill="#3465a4"><title>MacIsaac (Name?)</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.6" cy="189.7" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/"><circle cx="96.0" cy="198.6" r="4" fill="#3465a4"><title>Stewart of Achnacone Clan Tartan</title></circle></a><a href="/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2~r2109032-db1406275/"><circle cx="100.4" cy="171.9" r="4" fill="#3465a4"><title>Young Presidents Organisation</title></circle></a><a href="/variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/"><circle cx="92.9" cy="181.3" r="4" fill="#3465a4"><title>Stewart Ancient (Fashion)</title></circle></a><a href="/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/"><circle cx="96.6" cy="171.2" r="4" fill="#3465a4"><title>Young Presidents Org. (Corporate)</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.1" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><circle cx="133.7" cy="187.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6~x4/

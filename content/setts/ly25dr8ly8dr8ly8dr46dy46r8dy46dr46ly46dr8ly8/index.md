@@ -1,5 +1,12 @@
 ---
 title: "Poulter SG 101 (Fashion)"
-redirect: "/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Poulter SG 101 (Fashion)](/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/).
+This is the **Poulter SG 101 (Fashion)** sett — one scale-free proportion (`ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8`), colour order pattern
+[YBYBGRGBYBYBY](/stripes/ybybgrgbybyby/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Poulter SG 101 (Fashion)](/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/) ★ | ~2008 | ![Poulter SG 101 (Fashion) sett](/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/sett.png) |

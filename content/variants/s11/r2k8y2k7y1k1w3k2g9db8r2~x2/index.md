@@ -1,14 +1,16 @@
 ---
 title: "Hislop Hunting (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hislop Hunting (Name)"
-  url: ""
+  url: "/setts/r2k8y2k7y1k1w3k2g9db8r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k8y2k7y1k1w3k2g9db8r2/)
-(the same proportion at any scale), whose colour order is pattern [RBGKWKGKGKR](/stripes/rbgkwkgkgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2k8y2k7y1k1w3k2g9db8r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBGKWKGKGKR](/stripes/rbgkwkgkgkr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -71,6 +73,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4k8db2lb2db4g16y2k15db6lb2k3lb4~x2/"><circle cx="73.3" cy="145.8" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="163.0" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="75.6" cy="153.3" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="65.9" cy="162.6" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/"><circle cx="59.3" cy="151.8" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.0" cy="138.1" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.5" cy="157.9" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/"><circle cx="83.7" cy="133.7" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/variants/s13/w6k1w1k1w1k8g8y2g8k8db8k1dr2~x2/"><circle cx="52.2" cy="149.8" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.2" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><circle cx="77.8" cy="149.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4k8db2lb2db4g16y2k15db6lb2k3lb4~x2/"><circle cx="73.3" cy="145.7" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="162.9" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="75.7" cy="153.2" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="65.9" cy="162.5" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/"><circle cx="59.3" cy="151.7" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.0" cy="138.0" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.6" cy="157.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/"><circle cx="83.7" cy="133.6" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/variants/s13/w6k1w1k1w1k8g8y2g8k8db8k1dr2~x2/"><circle cx="52.2" cy="149.7" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.1" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><circle cx="77.9" cy="148.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r2k8y2k7y1k1w3k2g9db8r2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Menzies Hunting"
-redirect: "/variants/s8/k48r4k2r4k6r2k3r9~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Menzies Hunting](/variants/s8/k48r4k2r4k6r2k3r9~x2/).
+This is the **Menzies Hunting** sett — one scale-free proportion (`k48r4k2r4k6r2k3r9`), colour order pattern
+[KRKRKRKR](/stripes/krkrkrkr/). It is recorded as a single **variant**, below.
+First attested **1906**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Menzies Hunting](/variants/s8/k48r4k2r4k6r2k3r9~x2/) ★ | 1906 | ![Menzies Hunting sett](/variants/s8/k48r4k2r4k6r2k3r9~x2/sett.png) |

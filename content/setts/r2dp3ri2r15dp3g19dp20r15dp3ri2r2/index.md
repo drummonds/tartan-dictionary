@@ -1,5 +1,12 @@
 ---
 title: "Drumlithie Rock and Wheel Tartan"
-redirect: "/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Drumlithie Rock and Wheel Tartan](/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/).
+This is the **Drumlithie Rock and Wheel Tartan** sett — one scale-free proportion (`r2dp3ri2r15dp3g19dp20r15dp3ri2r2`), colour order pattern
+[RBRRBGBRBRR](/stripes/rbrrbgbrbrr/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Drumlithie Rock and Wheel Tartan](/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/) ★ | ~2003 | ![Drumlithie Rock and Wheel Tartan sett](/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png) |

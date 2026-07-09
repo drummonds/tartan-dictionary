@@ -1,16 +1,18 @@
 ---
 title: "McGill University"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McGill University"
   url: "/tartans/mcgill-university/"
 - name: "McGill University"
-  url: ""
+  url: "/setts/dy3dg8db12r24w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy3dg8db12r24w3/)
-(the same proportion at any scale), whose colour order is pattern [GGBRW](/stripes/ggbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy3dg8db12r24w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBRW](/stripes/ggbrw/).
 
 Part of the [McGill University](/tartans/mcgill-university/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.8" cy="191.2" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s4/r31db33g12w2~x2/"><circle cx="257.7" cy="223.6" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s4/r31db33dg12w2~x2/"><circle cx="266.1" cy="224.7" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.9" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.6" cy="257.8" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s5/r30db20w15lb3ly3/"><circle cx="188.1" cy="206.4" r="4" fill="#3465a4"><title>Siddle, New (Corporate)</title></circle></a><circle cx="227.8" cy="213.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.8" cy="191.2" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s4/r31db33g12w2~x2/"><circle cx="257.7" cy="223.6" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s4/r31db33dg12w2~x2/"><circle cx="266.1" cy="224.7" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.9" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.7" cy="257.8" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s5/r30db20w15lb3ly3/"><circle cx="188.1" cy="206.4" r="4" fill="#3465a4"><title>Siddle, New (Corporate)</title></circle></a><circle cx="227.8" cy="212.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dy3dg8db12r24w3~x2/

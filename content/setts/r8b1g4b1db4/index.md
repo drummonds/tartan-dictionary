@@ -1,5 +1,12 @@
 ---
 title: "Moray of Abercairney"
-redirect: "/variants/s5/r8b1g4b1db4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Moray of Abercairney](/variants/s5/r8b1g4b1db4~x2/).
+This is the **Moray of Abercairney** sett — one scale-free proportion (`r8b1g4b1db4`), colour order pattern
+[BBGBR](/stripes/bbgbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Moray of Abercairney](/variants/s5/r8b1g4b1db4~x2/) ★ | ~2016 | ![Moray of Abercairney sett](/variants/s5/r8b1g4b1db4~x2/sett.png) |

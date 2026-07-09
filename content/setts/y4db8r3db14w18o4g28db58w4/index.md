@@ -1,5 +1,12 @@
 ---
 title: "Scotia"
-redirect: "/variants/s9/y4db8r3db14w18o4g28db58w4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scotia](/variants/s9/y4db8r3db14w18o4g28db58w4/).
+This is the **Scotia** sett — one scale-free proportion (`y4db8r3db14w18o4g28db58w4`), colour order pattern
+[GBRBWRGBW](/stripes/gbrbwrgbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Scotia](/variants/s9/y4db8r3db14w18o4g28db58w4/) ★ | ~2016 | ![Scotia sett](/variants/s9/y4db8r3db14w18o4g28db58w4/sett.png) |

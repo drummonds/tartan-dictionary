@@ -1,5 +1,12 @@
 ---
 title: "Tiger of Sweden"
-redirect: "/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tiger of Sweden](/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/).
+This is the **Tiger of Sweden** sett — one scale-free proportion (`db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3`), colour order pattern
+[BGKBWBKGKBWBKG](/stripes/bgkbwbkgkbwbkg/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tiger of Sweden](/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/) ★ | 2013 | ![Tiger of Sweden sett](/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png) |

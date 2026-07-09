@@ -1,6 +1,7 @@
 ---
 title: "Burns Heritage Check (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Burns Heritage Check"
   url: "/setts/k6w6k6w6g7w4dy3g2dy3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6w6k6w6g7w4dy3g2dy3/)
-(the same proportion at any scale), whose colour order is pattern [GGGWGWKWK](/stripes/gggwgwkwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k6w6k6w6g7w4dy3g2dy3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGWGWKWK](/stripes/gggwgwkwk/).
 
 Part of the [Burns Heritage Check](/tartans/burns-heritage-check/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2~g2203152/"><circle cx="43.2" cy="268.5" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><a href="/variants/s9/k12w12k12w12g13w8do6g4do5/"><circle cx="48.1" cy="272.6" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><a href="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/"><circle cx="106.3" cy="271.5" r="4" fill="#3465a4"><title>Burns Check (District)</title></circle></a><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/"><circle cx="60.8" cy="241.5" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/"><circle cx="68.9" cy="295.5" r="4" fill="#3465a4"><title>Burns Check Trade Tartan</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x8~w4000000-g2203152/"><circle cx="69.0" cy="295.2" r="4" fill="#3465a4"><title>Burns Check</title></circle></a><a href="/variants/s10/g12k14lb11r3lb3r3lb11k14g12lb3~x2/"><circle cx="69.6" cy="231.5" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="74.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/"><circle cx="69.6" cy="295.2" r="4" fill="#3465a4"><title>Robert, Burns check</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="71.8" cy="245.9" r="4" fill="#3465a4"><title>Arrol</title></circle></a><circle cx="41.5" cy="269.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2~g2203152/"><circle cx="43.2" cy="268.5" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><a href="/variants/s9/k12w12k12w12g13w8do6g4do5/"><circle cx="48.1" cy="272.6" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><a href="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/"><circle cx="106.3" cy="271.5" r="4" fill="#3465a4"><title>Burns Check (District)</title></circle></a><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/"><circle cx="60.8" cy="241.5" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/"><circle cx="68.9" cy="295.5" r="4" fill="#3465a4"><title>Burns Check Trade Tartan</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x8~w4000000-g2203152/"><circle cx="69.0" cy="295.2" r="4" fill="#3465a4"><title>Burns Check</title></circle></a><a href="/variants/s10/g12k14lb11r3lb3r3lb11k14g12lb3~x2/"><circle cx="69.6" cy="231.5" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="74.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/"><circle cx="69.6" cy="295.2" r="4" fill="#3465a4"><title>Robert, Burns check</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="71.8" cy="245.8" r="4" fill="#3465a4"><title>Arrol</title></circle></a><circle cx="41.5" cy="269.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k6w6k6w6g7w4dy3g2dy3~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Caithness Glass (Corporate)"
-redirect: "/variants/s6/r1lr10y2lr16db40lr1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Caithness Glass (Corporate)](/variants/s6/r1lr10y2lr16db40lr1~x2/).
+This is the **Caithness Glass (Corporate)** sett — one scale-free proportion (`r1lr10y2lr16db40lr1`), colour order pattern
+[RYGYBY](/stripes/rygyby/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Caithness Glass (Corporate)](/variants/s6/r1lr10y2lr16db40lr1~x2/) ★ | 2009 | ![Caithness Glass (Corporate) sett](/variants/s6/r1lr10y2lr16db40lr1~x2/sett.png) |

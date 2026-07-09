@@ -1,16 +1,18 @@
 ---
 title: "Glaz"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glaz"
   url: "/tartans/glaz/"
 - name: "Glaz"
-  url: ""
+  url: "/setts/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBGBGBGBGGR](/stripes/bbbbbbbbbgbgbgbggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBGBGBGBGGR](/stripes/bbbbbbbbbgbgbgbggr/).
 
 Part of the [Glaz](/tartans/glaz/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2~x2~db1404245-dbi1406275/"><circle cx="269.1" cy="150.0" r="4" fill="#3465a4"><title>Glaz (Fashion)</title></circle></a><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/"><circle cx="312.8" cy="195.6" r="4" fill="#3465a4"><title>Pitcairn Hunting Corporate Tartan</title></circle></a><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><circle cx="340.8" cy="154.6" r="4" fill="#3465a4"><title>Hand (Personal)</title></circle></a><a href="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/"><circle cx="317.4" cy="200.0" r="4" fill="#3465a4"><title>Pitcairn Heritage Htg (Name)</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="290.6" cy="144.8" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/"><circle cx="312.2" cy="114.2" r="4" fill="#3465a4"><title>Heriot Watt University</title></circle></a><a href="/variants/s17/dt5o4dt4o38n34dt4n4lb2n2y2n4dt4n34o38dt4o4dt2~o2500000-n1900000/"><circle cx="408.3" cy="163.3" r="4" fill="#3465a4"><title>Great Glen (Fashion)</title></circle></a><circle cx="302.8" cy="164.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2~x2~db1404245-dbi1406275/"><circle cx="269.1" cy="149.8" r="4" fill="#3465a4"><title>Glaz (Fashion)</title></circle></a><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/"><circle cx="312.8" cy="195.5" r="4" fill="#3465a4"><title>Pitcairn Hunting Corporate Tartan</title></circle></a><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><circle cx="340.8" cy="154.5" r="4" fill="#3465a4"><title>Hand (Personal)</title></circle></a><a href="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/"><circle cx="317.4" cy="199.9" r="4" fill="#3465a4"><title>Pitcairn Heritage Htg (Name)</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="290.6" cy="144.7" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/"><circle cx="312.2" cy="114.0" r="4" fill="#3465a4"><title>Heriot Watt University</title></circle></a><a href="/variants/s17/dt5o4dt4o38n34dt4n4lb2n2y2n4dt4n34o38dt4o4dt2~o2500000-n1900000/"><circle cx="408.3" cy="163.2" r="4" fill="#3465a4"><title>Great Glen (Fashion)</title></circle></a><circle cx="302.8" cy="164.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2~x2~dt1303265-t2202222/

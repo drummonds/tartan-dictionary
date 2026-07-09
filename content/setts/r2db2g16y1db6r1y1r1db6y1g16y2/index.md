@@ -1,5 +1,12 @@
 ---
 title: "Monroig, Eric (Personal)"
-redirect: "/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Monroig, Eric (Personal)](/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/).
+This is the **Monroig, Eric (Personal)** sett — one scale-free proportion (`r2db2g16y1db6r1y1r1db6y1g16y2`), colour order pattern
+[GGGBRGRBGGBR](/stripes/gggbrgrbggbr/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Monroig, Eric (Personal)](/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/) ★ | 2016 | ![Monroig, Eric (Personal) sett](/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/sett.png) |

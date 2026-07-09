@@ -1,16 +1,18 @@
 ---
 title: "Martin"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Martin"
   url: "/tartans/martin/"
 - name: "Martin"
-  url: ""
+  url: "/setts/lo4g10k3g3k3g3k9dr11k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo4g10k3g3k3g3k9dr11k3/)
-(the same proportion at any scale), whose colour order is pattern [KBKGKGKGY](/stripes/kbkgkgkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lo4g10k3g3k3g3k9dr11k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKGKGKGY](/stripes/kbkgkgkgy/).
 
 Part of the [Martin](/tartans/martin/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y8g16k6g6k6g6k16dr21k5/"><circle cx="103.4" cy="239.9" r="4" fill="#3465a4"><title>Martin Family Tartan</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s10/dg12k14y11dr3y3dr3y11k14dg12y3~x2~dg1605139/"><circle cx="103.1" cy="239.8" r="4" fill="#3465a4"><title>Wilson's No.112 (Light Blue)</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.8" cy="255.3" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.6" cy="221.3" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="84.9" cy="224.3" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="127.5" cy="201.3" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="73.2" cy="207.1" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="76.0" cy="260.2" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.4" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><circle cx="94.3" cy="237.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y8g16k6g6k6g6k16dr21k5/"><circle cx="103.4" cy="239.8" r="4" fill="#3465a4"><title>Martin Family Tartan</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s10/dg12k14y11dr3y3dr3y11k14dg12y3~x2~dg1605139/"><circle cx="103.1" cy="239.7" r="4" fill="#3465a4"><title>Wilson's No.112 (Light Blue)</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.8" cy="255.3" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.6" cy="221.2" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="84.9" cy="224.2" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="127.6" cy="201.2" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="73.2" cy="207.1" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="76.0" cy="260.2" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.3" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><circle cx="94.3" cy="237.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lo4g10k3g3k3g3k9dr11k3~x4/

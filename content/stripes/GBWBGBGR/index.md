@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s8/g10db1w1db1y1db6g8r1~x8/">Marshall Field</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/g10db1w1db1y1db6g8r1~x8/"><img src="/variants/s8/g10db1w1db1y1db6g8r1~x8/sett.png" alt="Marshall Field sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/">Marshall, Fields</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><img src="/variants/s8/g40db2w2db2y2db23g32r2~x2/sett.png" alt="Marshall, Fields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/">Marshall Fields Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><img src="/variants/s8/g40db2w2db2y2db23g32r2~x2/sett.png" alt="Marshall Fields Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

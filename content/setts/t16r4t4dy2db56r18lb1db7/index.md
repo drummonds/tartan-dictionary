@@ -1,5 +1,12 @@
 ---
 title: "Union Memorial Tartan"
-redirect: "/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Union Memorial Tartan](/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/).
+This is the **Union Memorial Tartan** sett — one scale-free proportion (`t16r4t4dy2db56r18lb1db7`), colour order pattern
+[BRBGBRWB](/stripes/brbgbrwb/). It is recorded as a single **variant**, below.
+First attested **1995**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Union Memorial Tartan](/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/) ★ | 1995 | ![Union Memorial Tartan sett](/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/sett.png) |

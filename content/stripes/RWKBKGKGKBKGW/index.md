@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/">Buchanan Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/"><img src="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/sett.png" alt="Buchanan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/">Buchanan Dress Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/"><img src="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/sett.png" alt="Buchanan Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

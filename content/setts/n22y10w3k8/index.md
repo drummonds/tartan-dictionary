@@ -1,5 +1,12 @@
 ---
 title: "Louisburg Canadian District Tartan"
-redirect: "/variants/s4/n22y10w3k8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Louisburg Canadian District Tartan](/variants/s4/n22y10w3k8~x2/).
+This is the **Louisburg Canadian District Tartan** sett — one scale-free proportion (`n22y10w3k8`), colour order pattern
+[BGWK](/stripes/bgwk/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Louisburg Canadian District Tartan](/variants/s4/n22y10w3k8~x2/) ★ | 1994 | ![Louisburg Canadian District Tartan sett](/variants/s4/n22y10w3k8~x2/sett.png) |

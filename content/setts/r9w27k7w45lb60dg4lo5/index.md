@@ -1,5 +1,12 @@
 ---
 title: "Ch. Supt. Everett and Mrs Julene Sum"
-redirect: "/variants/s7/r9w27k7w45lb60dg4lo5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ch. Supt. Everett and Mrs Julene Sum](/variants/s7/r9w27k7w45lb60dg4lo5/).
+This is the **Ch. Supt. Everett and Mrs Julene Sum** sett — one scale-free proportion (`r9w27k7w45lb60dg4lo5`), colour order pattern
+[RWKWWGY](/stripes/rwkwwgy/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Ch. Supt. Everett and Mrs Julene Sum](/variants/s7/r9w27k7w45lb60dg4lo5/) ★ | 2013 | ![Ch. Supt. Everett and Mrs Julene Sum sett](/variants/s7/r9w27k7w45lb60dg4lo5/sett.png) |

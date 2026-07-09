@@ -1,5 +1,12 @@
 ---
 title: "Yorkshire, The Spirit of"
-redirect: "/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Yorkshire, The Spirit of](/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/).
+This is the **Yorkshire, The Spirit of** sett — one scale-free proportion (`db19ly2db3w7db3w7db9w3db2w19`), colour order pattern
+[BYBWBWBWBW](/stripes/bybwbwbwbw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Yorkshire, The Spirit of](/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/) ★ | 2005 | ![Yorkshire, The Spirit of sett](/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/sett.png) |

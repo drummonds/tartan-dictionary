@@ -1,14 +1,16 @@
 ---
 title: "Coca Cola (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Coca Cola (Corporate)"
-  url: ""
+  url: "/setts/lb15do15lb15do80r6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb15do15lb15do80r6/)
-(the same proportion at any scale), whose colour order is pattern [RBWBW](/stripes/rbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb15do15lb15do80r6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBWBW](/stripes/rbwbw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.5" cy="194.2" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s6/db1o5db1o5db2w1~x4/"><circle cx="370.8" cy="258.9" r="4" fill="#3465a4"><title>Tokharian</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="431.3" cy="189.4" r="4" fill="#3465a4"><title>Coca Cola US Corporate Tartan</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.2" cy="197.0" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.2" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.7" cy="201.6" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.4" cy="153.3" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s6/db3o3db24o30db3o2~x2/"><circle cx="415.5" cy="212.8" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="206.0" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.6" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><circle cx="454.7" cy="200.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.6" cy="194.1" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s6/db1o5db1o5db2w1~x4/"><circle cx="370.8" cy="258.9" r="4" fill="#3465a4"><title>Tokharian</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="431.3" cy="189.4" r="4" fill="#3465a4"><title>Coca Cola US Corporate Tartan</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.2" cy="196.9" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.1" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.7" cy="201.5" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.5" cy="153.2" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s6/db3o3db24o30db3o2~x2/"><circle cx="415.5" cy="212.7" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="205.9" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.5" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><circle cx="454.8" cy="200.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lb15do15lb15do80r6/

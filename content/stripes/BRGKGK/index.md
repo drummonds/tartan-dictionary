@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k1g6k1g6r16db1~x2/">Denny, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k1g6k1g6r16db1~x2/"><img src="/variants/s6/k1g6k1g6r16db1~x2/sett.png" alt="Denny, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k1g6k1g6r16db1~x2/">Denny Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k1g6k1g6r16db1~x2/"><img src="/variants/s6/k1g6k1g6r16db1~x2/sett.png" alt="Denny Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

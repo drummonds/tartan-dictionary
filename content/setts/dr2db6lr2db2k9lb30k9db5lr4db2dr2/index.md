@@ -1,5 +1,12 @@
 ---
 title: "Rangers Dress (Sports)"
-redirect: "/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rangers Dress (Sports)](/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/).
+This is the **Rangers Dress (Sports)** sett — one scale-free proportion (`dr2db6lr2db2k9lb30k9db5lr4db2dr2`), colour order pattern
+[BBYBKWKBYBB](/stripes/bbybkwkbybb/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Rangers Dress (Sports)](/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/) ★ | 1994 | ![Rangers Dress (Sports) sett](/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/sett.png) |

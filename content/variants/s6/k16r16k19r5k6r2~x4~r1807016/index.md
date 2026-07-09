@@ -1,14 +1,16 @@
 ---
 title: "Henry, W. A. (Commemorative)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Henry, W. A. (Commemorative)"
-  url: ""
+  url: "/setts/k16r16k19r5k6r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k16r16k19r5k6r2/)
-(the same proportion at any scale), whose colour order is pattern [KRKRKR](/stripes/krkrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k16r16k19r5k6r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKRKR](/stripes/krkrkr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k37r20k2r4~x2/"><circle cx="151.3" cy="183.2" r="4" fill="#3465a4"><title>Aitken (Fashion)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s5/o4k29dr30db29o4~x2/"><circle cx="170.1" cy="241.3" r="4" fill="#3465a4"><title>Glen Shee #3 (Fashion)</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.8" cy="244.1" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s4/k3r29k40lb3~x2/"><circle cx="170.3" cy="190.1" r="4" fill="#3465a4"><title>Wallace Red Dress Tartan</title></circle></a><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.0" cy="195.3" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><circle cx="192.9" cy="179.7" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><circle cx="197.7" cy="192.3" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><circle cx="196.5" cy="173.2" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/variants/s7/k14r6k2r6dg25r6k2~x2/"><circle cx="218.1" cy="183.9" r="4" fill="#3465a4"><title>Logan - 1810 (Cockburn Collection)</title></circle></a><circle cx="166.9" cy="219.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k37r20k2r4~x2/"><circle cx="151.3" cy="183.1" r="4" fill="#3465a4"><title>Aitken (Fashion)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.1" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s5/o4k29dr30db29o4~x2/"><circle cx="170.1" cy="241.3" r="4" fill="#3465a4"><title>Glen Shee #3 (Fashion)</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.8" cy="244.0" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s4/k3r29k40lb3~x2/"><circle cx="170.3" cy="190.0" r="4" fill="#3465a4"><title>Wallace Red Dress Tartan</title></circle></a><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.1" cy="195.3" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><circle cx="192.9" cy="179.7" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><circle cx="197.7" cy="192.2" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><circle cx="196.5" cy="173.1" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/variants/s7/k14r6k2r6dg25r6k2~x2/"><circle cx="218.2" cy="183.8" r="4" fill="#3465a4"><title>Logan - 1810 (Cockburn Collection)</title></circle></a><circle cx="166.9" cy="219.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k16r16k19r5k6r2~x4~r1807016/

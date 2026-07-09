@@ -18,13 +18,13 @@ This is a list of the kilts and proposals:
 - [2023 Kilt][]  As the 2022 proposal This reverts to the thread count of the 1849 kilt rather than 1997 with the colours of the 1997.
 
 
-[1820 Plaid]:http://tartandictionary.org/variants/r/26/db2/r6/db6/r126/lb6/r6/db38/r6/g6/r6/g130/r19/db6/r/r/26/db2/r6/db6/r126/lb6/r6/db38/r6/g6/r6/g130/r19/db6/r/18-db000064-g004c00-lb98c8e8-rc80000/
-[1820 post]:https://tartandictionary.org/posts/drummondsofmeggincholdplaid/
-[1849 Kilt]:https://tartandictionary.org/variants/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12-db000064-g004c00-lb98c8e8-rc80000/
-[1849 post]:https://tartandictionary.org/posts/drummondsofmeggincholdkilt/
-[1997 Kilt]:https://tartandictionary.org/variants/r/12/db2/r4/db4/r62/lb4/r4/db20/r4/g4/r4/g64/r6/db4/r/r/12/db2/r4/db4/r62/lb4/r4/db20/r4/g4/r4/g64/r6/db4/r/14-db282c39-g304f45-lb98c8e8-r983029/
-[2022 Proposal]:https://tartandictionary.org/variants/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12-db003a70-g4a7729-lba4c8e1-rbe3a34/
-[2023 Kilt]:https://tartandictionary.org/variants/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12-db282c39-g304f45-lb98c8e8-r983029/
+[1820 Plaid]:/variants/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18~r2109032-db0906265-lb3203246-dg1405139/
+[1820 post]:/posts/drummondsofmeggincholdplaid/
+[1849 Kilt]:/variants/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2~r2109032-db0906265-lb3203246-dg1405139/
+[1849 post]:/posts/drummondsofmeggincholdkilt/
+[1997 Kilt]:/variants/s15/r7dt2r3dg32r2dg2r2dt10r2lb2r31dt2r2dt1r6~x2~r1906028-dt1201300-dg1602166-lb3203246/
+[2022 Proposal]:/setts/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6/
+[2023 Kilt]:/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/
 
 
 The following is a picture of the proposed new tartan sample.

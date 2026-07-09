@@ -1,5 +1,12 @@
 ---
 title: "Waugh"
-redirect: "/variants/s5/db100lb10k5lb10r8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Waugh](/variants/s5/db100lb10k5lb10r8/).
+This is the **Waugh** sett — one scale-free proportion (`db100lb10k5lb10r8`), colour order pattern
+[BWKWR](/stripes/bwkwr/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Waugh](/variants/s5/db100lb10k5lb10r8/) ★ | 2009 | ![Waugh sett](/variants/s5/db100lb10k5lb10r8/sett.png) |

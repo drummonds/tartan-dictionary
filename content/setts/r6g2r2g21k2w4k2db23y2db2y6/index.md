@@ -1,5 +1,12 @@
 ---
 title: "Glasgow, City of Culture"
-redirect: "/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glasgow, City of Culture](/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/).
+This is the **Glasgow, City of Culture** sett — one scale-free proportion (`r6g2r2g21k2w4k2db23y2db2y6`), colour order pattern
+[GBGBKWKGRGR](/stripes/gbgbkwkgrgr/). It is recorded as a single **variant**, below.
+First attested **1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glasgow, City of Culture](/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/) ★ | 1989 | ![Glasgow, City of Culture sett](/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/sett.png) |

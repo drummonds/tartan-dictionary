@@ -1,5 +1,12 @@
 ---
 title: "St. George's (Edinburgh) (School)"
-redirect: "/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. George's (Edinburgh) (School)](/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/).
+This is the **St. George's (Edinburgh) (School)** sett — one scale-free proportion (`r7k3r4k5r25k7y2db22k3db4`), colour order pattern
+[BKBGKRKRKR](/stripes/bkbgkrkrkr/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [St. George's (Edinburgh) (School)](/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/) ★ | ~2003 | ![St. George's (Edinburgh) (School) sett](/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/sett.png) |

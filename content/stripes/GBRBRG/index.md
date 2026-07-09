@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/dg2r1db16r16db1y2~x2/">Galloway Dress (Yellow Line)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><img src="/variants/s6/dg2r1db16r16db1y2~x2/sett.png" alt="Galloway Dress (Yellow Line) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y2db1r16db16r1g2~x2/">Galloway dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y2db1r16db16r1g2~x2/"><img src="/variants/s6/y2db1r16db16r1g2~x2/sett.png" alt="Galloway dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y2db1r16db16r1g2~x2/">Galloway Dress District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/y2db1r16db16r1g2~x2/"><img src="/variants/s6/y2db1r16db16r1g2~x2/sett.png" alt="Galloway Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

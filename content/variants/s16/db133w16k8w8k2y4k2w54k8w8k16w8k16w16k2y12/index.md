@@ -1,14 +1,16 @@
 ---
 title: "Livingston, dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Livingston, dress"
-  url: ""
+  url: "/setts/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/)
-(the same proportion at any scale), whose colour order is pattern [BWKWKGKWKWKWKWKG](/stripes/bwkwkgkwkwkwkwkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWKGKWKWKWKWKG](/stripes/bwkwkgkwkwkwkwkg/).
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/"><circle cx="229.3" cy="59.5" r="4" fill="#3465a4"><title>Livingstone Dress</title></circle></a><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="213.2" cy="102.0" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/variants/s11/t45k10n2k2lo2k2n10t4k1t5lo1~x2/"><circle cx="287.6" cy="52.4" r="4" fill="#3465a4"><title>Skye, Isle of</title></circle></a><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="203.4" cy="33.2" r="4" fill="#3465a4"><title>Taggart (Name)</title></circle></a><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="192.6" cy="27.4" r="4" fill="#3465a4"><title>Taggart Name Tartan</title></circle></a><a href="/variants/s15/db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="205.2" cy="85.5" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><a href="/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"><circle cx="231.3" cy="73.2" r="4" fill="#3465a4"><title>Angus Dress 1992 (Dance)</title></circle></a><a href="/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="148.7" cy="71.8" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><a href="/variants/s11/k3lb6k4dr6lb18db53lb18k8lb6k3lo2~x2/"><circle cx="207.3" cy="94.0" r="4" fill="#3465a4"><title>Australia 2000 (Fashion)</title></circle></a><a href="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="204.8" cy="35.1" r="4" fill="#3465a4"><title>Taggart</title></circle></a><circle cx="230.5" cy="42.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/"><circle cx="229.3" cy="59.3" r="4" fill="#3465a4"><title>Livingstone Dress</title></circle></a><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="213.2" cy="101.8" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/variants/s11/t45k10n2k2lo2k2n10t4k1t5lo1~x2/"><circle cx="287.6" cy="52.2" r="4" fill="#3465a4"><title>Skye, Isle of</title></circle></a><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="203.4" cy="33.0" r="4" fill="#3465a4"><title>Taggart (Name)</title></circle></a><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="192.6" cy="27.2" r="4" fill="#3465a4"><title>Taggart Name Tartan</title></circle></a><a href="/variants/s15/db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="205.2" cy="85.4" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><a href="/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"><circle cx="231.3" cy="73.1" r="4" fill="#3465a4"><title>Angus Dress 1992 (Dance)</title></circle></a><a href="/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="148.7" cy="71.7" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><a href="/variants/s11/k3lb6k4dr6lb18db53lb18k8lb6k3lo2~x2/"><circle cx="207.3" cy="93.9" r="4" fill="#3465a4"><title>Australia 2000 (Fashion)</title></circle></a><a href="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="204.8" cy="34.9" r="4" fill="#3465a4"><title>Taggart</title></circle></a><circle cx="230.5" cy="42.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/

@@ -1,5 +1,12 @@
 ---
-title: "Denovan, The Lairdship of (Personal)"
-redirect: "/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"
+title: "MacDonald of Dunyveg Family Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Denovan, The Lairdship of (Personal)](/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/).
+This is the **MacDonald of Dunyveg Family Tartan** sett — one scale-free proportion (`db10dp2db3r4db14r2k14g14r4g3dp2g10`), colour order pattern
+[BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/). It is recorded as a single **variant**, below.
+First attested **1992**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDonald of Dunyveg Family Tartan](/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/) ★ | 1992 | ![MacDonald of Dunyveg Family Tartan sett](/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/sett.png) |

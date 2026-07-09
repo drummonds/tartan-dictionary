@@ -1,14 +1,16 @@
 ---
 title: "Michie Dress, Andrew"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Michie Dress, Andrew"
-  url: ""
+  url: "/setts/dp62g5dg20db5k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp62g5dg20db5k1/)
-(the same proportion at any scale), whose colour order is pattern [BGGBK](/stripes/bggbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp62g5dg20db5k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGBK](/stripes/bggbk/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/"><circle cx="431.8" cy="108.5" r="4" fill="#3465a4"><title>Michie, Andrew (Personal)</title></circle></a><a href="/variants/s5/dy1k2dp27k2dg1~x2/"><circle cx="626.0" cy="143.9" r="4" fill="#3465a4"><title>Carolina University, Western</title></circle></a><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><circle cx="560.5" cy="128.0" r="4" fill="#3465a4"><title>Venters (Edinburgh)</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="462.0" cy="185.7" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><circle cx="387.7" cy="140.5" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="580.7" cy="195.1" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><circle cx="477.3" cy="148.7" r="4" fill="#3465a4"><title>British Energy</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.1" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="478.5" cy="120.7" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s4/k80dp30db9r3~x2/"><circle cx="425.1" cy="166.6" r="4" fill="#3465a4"><title>Doyle Blue</title></circle></a><circle cx="505.4" cy="132.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/"><circle cx="431.8" cy="108.4" r="4" fill="#3465a4"><title>Michie, Andrew (Personal)</title></circle></a><a href="/variants/s5/dy1k2dp27k2dg1~x2/"><circle cx="626.0" cy="143.8" r="4" fill="#3465a4"><title>Carolina University, Western</title></circle></a><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><circle cx="560.5" cy="127.8" r="4" fill="#3465a4"><title>Venters (Edinburgh)</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="462.0" cy="185.6" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><circle cx="387.8" cy="140.4" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="580.7" cy="195.0" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><circle cx="477.3" cy="148.6" r="4" fill="#3465a4"><title>British Energy</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.0" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="478.5" cy="120.5" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s4/k80dp30db9r3~x2/"><circle cx="425.2" cy="166.5" r="4" fill="#3465a4"><title>Doyle Blue</title></circle></a><circle cx="505.4" cy="132.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/

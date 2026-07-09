@@ -1,5 +1,12 @@
 ---
 title: "Torridon, Royal Blue (Dance)"
-redirect: "/variants/s7/db3t2w2t30w30r2w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Torridon, Royal Blue (Dance)](/variants/s7/db3t2w2t30w30r2w3~x2/).
+This is the **Torridon, Royal Blue (Dance)** sett — one scale-free proportion (`db3t2w2t30w30r2w3`), colour order pattern
+[BBWBWRW](/stripes/bbwbwrw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Torridon, Royal Blue (Dance)](/variants/s7/db3t2w2t30w30r2w3~x2/) ★ | 2008 | ![Torridon, Royal Blue (Dance) sett](/variants/s7/db3t2w2t30w30r2w3~x2/sett.png) |

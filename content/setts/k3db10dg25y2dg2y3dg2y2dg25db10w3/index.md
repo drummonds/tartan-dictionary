@@ -1,5 +1,12 @@
 ---
 title: "William and Mary GALA, Inc, The"
-redirect: "/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [William and Mary GALA, Inc, The](/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/).
+This is the **William and Mary GALA, Inc, The** sett — one scale-free proportion (`k3db10dg25y2dg2y3dg2y2dg25db10w3`), colour order pattern
+[KBGGGGGGGBW](/stripes/kbgggggggbw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [William and Mary GALA, Inc, The](/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/) ★ | 2004 | ![William and Mary GALA, Inc, The sett](/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/sett.png) |

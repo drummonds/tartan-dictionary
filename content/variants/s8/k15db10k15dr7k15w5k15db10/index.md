@@ -1,14 +1,16 @@
 ---
 title: "Millarkie, Will (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Millarkie, Will (Personal)"
-  url: ""
+  url: "/setts/k15db10k15dr7k15w5k15db10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k15db10k15dr7k15w5k15db10/)
-(the same proportion at any scale), whose colour order is pattern [BKWKBKBK](/stripes/bkwkbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k15db10k15dr7k15w5k15db10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWKBKBK](/stripes/bkwkbkbk/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k19r2k20db6k8db6ly2~x2/"><circle cx="330.7" cy="168.2" r="4" fill="#3465a4"><title>Wyse (2016)</title></circle></a><a href="/variants/s7/db1k4dr1k1lo1k4db1~x12/"><circle cx="309.1" cy="225.7" r="4" fill="#3465a4"><title>Justus (Personal)</title></circle></a><a href="/variants/s7/db1k4r1k1y1k4db1~x6/"><circle cx="306.7" cy="222.1" r="4" fill="#3465a4"><title>Justus Family Tartan</title></circle></a><a href="/variants/s7/t1k4r1k1ly1k4t1~x12/"><circle cx="277.8" cy="215.2" r="4" fill="#3465a4"><title>Justus #1 (Personal)</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.2" cy="249.8" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s6/k5n5k9db5k5db5~x2/"><circle cx="203.5" cy="348.6" r="4" fill="#3465a4"><title>Macintosh, Charles Rennie (Commem)</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="243.9" cy="191.1" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/variants/s7/k16w15k4db12k22r2k6~x2/"><circle cx="242.3" cy="187.1" r="4" fill="#3465a4"><title>Sanley-Cantamessa (Personal)</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.6" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k5g23k18db21k33db3~x2/"><circle cx="253.7" cy="225.5" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><circle cx="229.1" cy="282.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k19r2k20db6k8db6ly2~x2/"><circle cx="330.8" cy="168.1" r="4" fill="#3465a4"><title>Wyse (2016)</title></circle></a><a href="/variants/s7/db1k4dr1k1lo1k4db1~x12/"><circle cx="309.1" cy="225.6" r="4" fill="#3465a4"><title>Justus (Personal)</title></circle></a><a href="/variants/s7/db1k4r1k1y1k4db1~x6/"><circle cx="306.8" cy="222.0" r="4" fill="#3465a4"><title>Justus Family Tartan</title></circle></a><a href="/variants/s7/t1k4r1k1ly1k4t1~x12/"><circle cx="277.8" cy="215.1" r="4" fill="#3465a4"><title>Justus #1 (Personal)</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.3" cy="249.7" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s6/k5n5k9db5k5db5~x2/"><circle cx="203.6" cy="348.6" r="4" fill="#3465a4"><title>Macintosh, Charles Rennie (Commem)</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="243.9" cy="191.0" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/variants/s7/k16w15k4db12k22r2k6~x2/"><circle cx="242.4" cy="187.0" r="4" fill="#3465a4"><title>Sanley-Cantamessa (Personal)</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.5" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k5g23k18db21k33db3~x2/"><circle cx="253.7" cy="225.5" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><circle cx="229.2" cy="282.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k15db10k15dr7k15w5k15db10/

@@ -2,13 +2,13 @@
 title: "MacQuarie"
 date: 2023-03-18
 ---
-The **MacQuarie** tartan is one sett proportion (`r16g1r1g1r4g12`) recorded at 3 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GRGRGR](/stripes/grgrgr/); each scale below is its own sett page. First attested **1886**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacQuarie** sett — one scale-free proportion (`r16g1r1g1r4g12`), colour order pattern
+[GRGRGR](/stripes/grgrgr/). It is recorded as **3 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1886**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [MacQuarrie #5](/variants/s6/r16g1r1g1r4g12~x4/) ★ | 1886 | ![MacQuarrie #5 sett](/variants/s6/r16g1r1g1r4g12~x4/sett.png) |
 | ×1 | [MacQuarrie](/variants/s6/r16g1r1g1r4g12/) | ~2016 | ![MacQuarrie sett](/variants/s6/r16g1r1g1r4g12/sett.png) |

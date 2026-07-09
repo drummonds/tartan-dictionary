@@ -1,5 +1,12 @@
 ---
 title: "Wilson's, No 33"
-redirect: "/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's, No 33](/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/).
+This is the **Wilson's, No 33** sett — one scale-free proportion (`db4g17lb3r3lb3k19y2g17r4`), colour order pattern
+[BGWRWKGGR](/stripes/bgwrwkggr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's, No 33](/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/) ★ | ~2016 | ![Wilson's, No 33 sett](/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/sett.png) |

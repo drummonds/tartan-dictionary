@@ -1,14 +1,16 @@
 ---
 title: "Breacan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Breacan"
-  url: ""
+  url: "/setts/o3w1o1w3dg1w1dg10g2dg1g10y2dr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o3w1o1w3dg1w1dg10g2dg1g10y2dr2/)
-(the same proportion at any scale), whose colour order is pattern [BGGGGGWGWRWR](/stripes/bgggggwgwrwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o3w1o1w3dg1w1dg10g2dg1g10y2dr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGGGWGWRWR](/stripes/bgggggwgwrwr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/"><circle cx="120.3" cy="148.8" r="4" fill="#3465a4"><title>Dixon, Clyde (Personal)</title></circle></a><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/"><circle cx="176.2" cy="153.6" r="4" fill="#3465a4"><title>Shrek</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="157.6" cy="164.0" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/"><circle cx="241.3" cy="164.7" r="4" fill="#3465a4"><title>Harmony, 2</title></circle></a><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~y2204115-lgi3205128/"><circle cx="170.3" cy="151.0" r="4" fill="#3465a4"><title>Shrek (Fashion)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/"><circle cx="204.5" cy="201.0" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/"><circle cx="197.6" cy="167.5" r="4" fill="#3465a4"><title>Glens of Corbie</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/"><circle cx="168.4" cy="180.9" r="4" fill="#3465a4"><title>Allen - Northumbrian (Personal)</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/"><circle cx="286.4" cy="148.9" r="4" fill="#3465a4"><title>Fitzgibbon (Name)</title></circle></a><circle cx="159.3" cy="168.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/"><circle cx="120.3" cy="148.7" r="4" fill="#3465a4"><title>Dixon, Clyde (Personal)</title></circle></a><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/"><circle cx="176.2" cy="153.5" r="4" fill="#3465a4"><title>Shrek</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.2" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="157.6" cy="163.9" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/"><circle cx="241.3" cy="164.6" r="4" fill="#3465a4"><title>Harmony, 2</title></circle></a><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~y2204115-lgi3205128/"><circle cx="170.3" cy="150.9" r="4" fill="#3465a4"><title>Shrek (Fashion)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/"><circle cx="204.5" cy="200.9" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/"><circle cx="197.6" cy="167.4" r="4" fill="#3465a4"><title>Glens of Corbie</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/"><circle cx="168.4" cy="180.8" r="4" fill="#3465a4"><title>Allen - Northumbrian (Personal)</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/"><circle cx="286.5" cy="148.8" r="4" fill="#3465a4"><title>Fitzgibbon (Name)</title></circle></a><circle cx="159.3" cy="167.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/o3w1o1w3dg1w1dg10g2dg1g10y2dr2~x2~dg1806142-g2408144/

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/">Hynde</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><img src="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/sett.png" alt="Hynde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/">Hynde Artifact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><img src="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/sett.png" alt="Hynde Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

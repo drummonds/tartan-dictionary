@@ -1,5 +1,12 @@
 ---
 title: "Clyde"
-redirect: "/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Clyde](/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/).
+This is the **Clyde** sett — one scale-free proportion (`b4dg2b18r2dg5n16r2n2r2n2`), colour order pattern
+[BGBRGBRBRB](/stripes/bgbrgbrbrb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Clyde](/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/) ★ | ~2016 | ![Clyde sett](/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/sett.png) |

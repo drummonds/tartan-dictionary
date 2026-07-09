@@ -1,14 +1,16 @@
 ---
 title: "Weaving for Life"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Weaving for Life"
-  url: ""
+  url: "/setts/lr24n2lr6m3lr6w6lr6w6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr24n2lr6m3lr6w6lr6w6/)
-(the same proportion at any scale), whose colour order is pattern [WYWYRYBY](/stripes/wywyryby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lr24n2lr6m3lr6w6lr6w6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WYWYRYBY](/stripes/wywyryby/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

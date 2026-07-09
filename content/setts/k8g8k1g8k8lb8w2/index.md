@@ -1,5 +1,12 @@
 ---
 title: "Unidentified No 31"
-redirect: "/variants/s7/k8g8k1g8k8lb8w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified No 31](/variants/s7/k8g8k1g8k8lb8w2~x2/).
+This is the **Unidentified No 31** sett — one scale-free proportion (`k8g8k1g8k8lb8w2`), colour order pattern
+[KGKGKWW](/stripes/kgkgkww/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified No 31](/variants/s7/k8g8k1g8k8lb8w2~x2/) ★ | ~2016 | ![Unidentified No 31 sett](/variants/s7/k8g8k1g8k8lb8w2~x2/sett.png) |

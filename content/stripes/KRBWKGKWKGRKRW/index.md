@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/">Stewart - (Galloway ?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/"><img src="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/sett.png" alt="Stewart - (Galloway ?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/">Brown Castlehaven Artifact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/"><img src="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/sett.png" alt="Brown Castlehaven Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

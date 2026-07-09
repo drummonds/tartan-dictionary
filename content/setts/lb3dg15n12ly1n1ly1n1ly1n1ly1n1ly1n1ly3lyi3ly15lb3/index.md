@@ -1,5 +1,12 @@
 ---
 title: "Green Thistle"
-redirect: "/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Green Thistle](/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/).
+This is the **Green Thistle** sett — one scale-free proportion (`lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3`), colour order pattern
+[WGBYBYBYBYBYBYYYW](/stripes/wgbybybybybybyyyw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Green Thistle](/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/) ★ | 2013 | ![Green Thistle sett](/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/sett.png) |

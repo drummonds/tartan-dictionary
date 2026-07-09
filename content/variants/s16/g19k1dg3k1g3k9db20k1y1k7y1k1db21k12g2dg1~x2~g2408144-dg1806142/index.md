@@ -1,14 +1,16 @@
 ---
 title: "Hope Vere Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hope Vere Family Tartan"
-  url: ""
+  url: "/setts/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1/)
-(the same proportion at any scale), whose colour order is pattern [GGKBKGKGKBKGKGKG](/stripes/ggkbkgkgkbkgkgkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKBKGKGKBKGKGKG](/stripes/ggkbkgkgkbkgkgkg/).
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -23,7 +25,7 @@ Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marqu
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>c.1815 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="156.5" cy="100.6" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/variants/s17/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3~x2/"><circle cx="152.2" cy="103.3" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="152.7" cy="101.6" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><circle cx="172.4" cy="117.1" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"><circle cx="164.5" cy="78.6" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/"><circle cx="170.9" cy="87.7" r="4" fill="#3465a4"><title>Sandilands-Watson (Personal)</title></circle></a><a href="/variants/s19/dp4db5dp3db50k15g3k5g32w2g3w2g32k5g5k15db50dp3k5dp3/"><circle cx="202.9" cy="80.4" r="4" fill="#3465a4"><title>Spirit of Morningside</title></circle></a><a href="/variants/s16/db36g10dr2g10lb2g10dr2g10k14dr2db12dr3db2dr2db4lb2~x2/"><circle cx="200.9" cy="110.4" r="4" fill="#3465a4"><title>Rankin (1998) (Name)</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><circle cx="186.2" cy="92.9" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s8/db28y1db2k26g24k1g2r3~x2/"><circle cx="180.2" cy="90.9" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (V.S.)</title></circle></a><circle cx="174.9" cy="97.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="156.5" cy="100.5" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/variants/s17/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3~x2/"><circle cx="152.2" cy="103.1" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="152.7" cy="101.4" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><circle cx="172.4" cy="117.0" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"><circle cx="164.5" cy="78.5" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/"><circle cx="170.9" cy="87.5" r="4" fill="#3465a4"><title>Sandilands-Watson (Personal)</title></circle></a><a href="/variants/s19/dp4db5dp3db50k15g3k5g32w2g3w2g32k5g5k15db50dp3k5dp3/"><circle cx="202.9" cy="80.2" r="4" fill="#3465a4"><title>Spirit of Morningside</title></circle></a><a href="/variants/s16/db36g10dr2g10lb2g10dr2g10k14dr2db12dr3db2dr2db4lb2~x2/"><circle cx="200.9" cy="110.3" r="4" fill="#3465a4"><title>Rankin (1998) (Name)</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><circle cx="186.2" cy="92.8" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s8/db28y1db2k26g24k1g2r3~x2/"><circle cx="180.2" cy="90.7" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (V.S.)</title></circle></a><circle cx="174.9" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/

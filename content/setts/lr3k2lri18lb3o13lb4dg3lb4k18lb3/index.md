@@ -1,5 +1,12 @@
 ---
 title: "Leitrim Irish County Tartan"
-redirect: "/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Leitrim Irish County Tartan](/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/).
+This is the **Leitrim Irish County Tartan** sett — one scale-free proportion (`lr3k2lri18lb3o13lb4dg3lb4k18lb3`), colour order pattern
+[WKWGWRWYKY](/stripes/wkwgwrwyky/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Leitrim Irish County Tartan](/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/) ★ | 1996 | ![Leitrim Irish County Tartan sett](/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/sett.png) |

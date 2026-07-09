@@ -1,5 +1,12 @@
 ---
 title: "Raibert, Check"
-redirect: "/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Raibert, Check](/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/).
+This is the **Raibert, Check** sett — one scale-free proportion (`db3o14g2o2g2o3g6w18db3o2db2o2`), colour order pattern
+[BRGRGRGWBRBR](/stripes/brgrgrgwbrbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Raibert, Check](/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/) ★ | ~2016 | ![Raibert, Check sett](/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/sett.png) |

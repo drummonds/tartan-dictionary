@@ -1,5 +1,12 @@
 ---
 title: "Oliver Dress, Pink (Dance?)"
-redirect: "/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Oliver Dress, Pink (Dance?)](/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/).
+This is the **Oliver Dress, Pink (Dance?)** sett — one scale-free proportion (`w5g3r3g3r3lb20r16w21k3`), colour order pattern
+[KWRWRGRGW](/stripes/kwrwrgrgw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Oliver Dress, Pink (Dance?)](/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/) ★ | ~2016 | ![Oliver Dress, Pink (Dance?) sett](/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/sett.png) |

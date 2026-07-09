@@ -1,5 +1,12 @@
 ---
 title: "Graeme Brodie Tartan"
-redirect: "/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Graeme Brodie Tartan](/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/).
+This is the **Graeme Brodie Tartan** sett — one scale-free proportion (`ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1`), colour order pattern
+[RKBRRBRBKBBBKBRBRRBKR](/stripes/rkbrrbrbkbbbkbrbrrbkr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Graeme Brodie Tartan](/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/) ★ | 2002 | ![Graeme Brodie Tartan sett](/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/sett.png) |

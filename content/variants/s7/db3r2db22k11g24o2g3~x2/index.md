@@ -1,16 +1,18 @@
 ---
 title: "MacThomas Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacThomas"
   url: "/tartans/macthomas/"
 - name: "MacThomas Clan Tartan"
-  url: ""
+  url: "/setts/db3r2db22k11g24o2g3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3r2db22k11g24o2g3/)
-(the same proportion at any scale), whose colour order is pattern [BRBKGRG](/stripes/brbkgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3r2db22k11g24o2g3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKGRG](/stripes/brbkgrg/).
 
 Part of the [MacThomas](/tartans/macthomas/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1975 Designed by David Thomas - former director of the Stra
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1975 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="172.3" cy="176.5" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g24b2g3~x2/"><circle cx="183.0" cy="168.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.5" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.9" cy="187.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.9" cy="187.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.5" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="172.4" cy="176.5" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><circle cx="182.4" cy="182.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="131.2" cy="198.3" r="4" fill="#3465a4"><title>MacLean, Donald (Personal)</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="130.1" cy="185.2" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><circle cx="181.7" cy="167.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="172.3" cy="176.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g24b2g3~x2/"><circle cx="183.0" cy="168.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.4" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.9" cy="187.3" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.9" cy="187.3" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.4" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="172.4" cy="176.4" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><circle cx="182.4" cy="182.8" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="131.3" cy="198.2" r="4" fill="#3465a4"><title>MacLean, Donald (Personal)</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="130.1" cy="185.1" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><circle cx="181.8" cy="167.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db3r2db22k11g24o2g3~x2/

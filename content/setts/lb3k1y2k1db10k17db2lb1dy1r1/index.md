@@ -1,5 +1,12 @@
 ---
 title: "Six Frigates (US)"
-redirect: "/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Six Frigates (US)](/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/).
+This is the **Six Frigates (US)** sett — one scale-free proportion (`lb3k1y2k1db10k17db2lb1dy1r1`), colour order pattern
+[RGWBKBKGKW](/stripes/rgwbkbkgkw/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Six Frigates (US)](/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/) ★ | 2012 | ![Six Frigates (US) sett](/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/sett.png) |

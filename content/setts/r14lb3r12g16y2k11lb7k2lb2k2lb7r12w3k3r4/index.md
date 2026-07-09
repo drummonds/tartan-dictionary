@@ -1,5 +1,12 @@
 ---
 title: "Kidd"
-redirect: "/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kidd](/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/).
+This is the **Kidd** sett — one scale-free proportion (`r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4`), colour order pattern
+[RKWRWKWKWKGGRWR](/stripes/rkwrwkwkwkggrwr/). It is recorded as a single **variant**, below.
+First attested **1790**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kidd](/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/) ★ | 1790 | ![Kidd sett](/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/sett.png) |

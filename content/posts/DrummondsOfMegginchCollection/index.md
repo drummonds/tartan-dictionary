@@ -23,14 +23,14 @@ Each piece has its own post with the detective work; this is the catalogue.
 
 | Date | Artefact | Thread count | Woven on demand |
 | ---- | -------- | ------------ | --------------- |
-| c. 1820 | [Plaid](/posts/drummondsofmeggincholdplaid/) | `R/26 DB2 R6 DB6 R126 LB6 R6 DB38 R6 G6 R6 G130 R19 DB6 R/18` | [variant page](/setts/s15/r26b2r6b6r126w6r6b38r6g6r6g130r19b6r18-b000064-g004c00-rc80000-w98c8e8/) |
-| 1849 | [Kilt](/posts/drummondsofmeggincholdkilt/) | `R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12` | [variant page](/setts/s15/r14b2r4b4r70w4r4b20r4g4r4g74r6b4r12-b000064-g004c00-rc80000-w98c8e8/) |
-| 1849 | Kilt, faded outer face | same sett, lightened dyes | [variant page](/setts/s15/r14b2r4b4r70w4r4b20r4g4r4g74r6b4r12-b0f2b5b-g3a7728-rc13828-w93b7d1/) |
-| c. 1890 | Child's kilt | `R12 DB2 R4 DB4 R28 LB4 R4 DB8 R4 G4 R4 G24 R6 DB4 R12` | [variant page](/setts/s15/r12b4r6g24r4g4r4b8r4w4r28b4r4b2r12-b000064-g004c00-rc80000-w98c8e8/) |
+| c. 1820 | [Plaid](/posts/drummondsofmeggincholdplaid/) | `R/26 DB2 R6 DB6 R126 LB6 R6 DB38 R6 G6 R6 G130 R19 DB6 R/18` | [variant page](/variants/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18~r2109032-db0906265-lb3203246-dg1405139/) |
+| 1849 | [Kilt](/posts/drummondsofmeggincholdkilt/) | `R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12` | [variant page](/variants/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2~r2109032-db0906265-lb3203246-dg1405139/) |
+| 1849 | Kilt, faded outer face | same sett, lightened dyes | [variant page](/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/) |
+| c. 1890 | Child's kilt | `R12 DB2 R4 DB4 R28 LB4 R4 DB8 R4 G4 R4 G24 R6 DB4 R12` | [variant page](/variants/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2~r2109032-db0906265-dg1405139-lb3203246/) |
 | 1967 | Carpet | not yet recorded | — |
-| 1997 | [Kilt](/posts/drummondsofmegginch1997kilt/) | `DR/12 DN2 DR4 DN4 DR62 LB4 DR4 DN20 DR4 N4 DR4 N64 DR6 DN4 DR/14` | [variant page](/setts/s15/r14b4r6g64r4g4r4b20r4w4r62b4r4b2r12-b282c39-g304f45-r983029-w98c8e8/) |
-| 2022 | [Proposal](/posts/drummondsofmegginchproposal/) | 1849 sett, new shades | [variant page](/setts/s15/r14b2r4b4r70w4r4b20r4g4r4g74r6b4r12-b003a70-g4a7729-rbe3a34-wa4c8e1/) |
-| 2023 | Kilt | 1849 sett, shades as woven | [variant page](/setts/s15/r14b2r4b4r70w4r4b20r4g4r4g74r6b4r12-b003a70-g49762a-rc23c33-wa4c7e2/) |
+| 1997 | [Kilt](/posts/drummondsofmegginch1997kilt/) | `DR/12 DN2 DR4 DN4 DR62 LB4 DR4 DN20 DR4 N4 DR4 N64 DR6 DN4 DR/14` | [variant page](/variants/s15/r7dt2r3dg32r2dg2r2dt10r2lb2r31dt2r2dt1r6~x2~r1906028-dt1201300-dg1602166-lb3203246/) |
+| 2022 | [Proposal](/posts/drummondsofmegginchproposal/) | 1849 sett, new shades | [1849 sett](/setts/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6/) <small>(not yet in the corpus as its own variant)</small> |
+| 2023 | Kilt | 1849 sett, shades as woven | [variant page](/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/) |
 
 The family's tartans are also listed on the
 [Drummond of Megginch family page](/families/drummond_of_megginch/) and under

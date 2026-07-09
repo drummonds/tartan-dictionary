@@ -1,16 +1,18 @@
 ---
 title: "Auld Lang Syne Blue Fashion Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Auld Lang Syne"
   url: "/tartans/auld-lang-syne/"
 - name: "Auld Lang Syne Blue Fashion Tartan"
-  url: ""
+  url: "/setts/w4k2db9k3b3k3b3k25g10k2b6w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k2db9k3b3k3b3k25g10k2b6w2/)
-(the same proportion at any scale), whose colour order is pattern [WBKGKBKBKBKW](/stripes/wbkgkbkbkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4k2db9k3b3k3b3k25g10k2b6w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBKGKBKBKBKW](/stripes/wbkgkbkbkbkw/).
 
 Part of the [Auld Lang Syne](/tartans/auld-lang-syne/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 01/01/2007 No further information. Also called Auld Lang Sy
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/01/2007 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><circle cx="155.3" cy="128.5" r="4" fill="#3465a4"><title>Auld Lang Syne, Blue (Fashion)</title></circle></a><a href="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/"><circle cx="156.8" cy="126.3" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s12/db8r8db42k4db4k4db4k20g4k10g25w8/"><circle cx="140.1" cy="141.0" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/variants/s11/db3k2db22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="163.7" cy="132.0" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><circle cx="180.6" cy="134.7" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s12/y2db17k4w2k2y2k2db4g6k2g2w2~x2/"><circle cx="147.8" cy="141.3" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/"><circle cx="184.0" cy="135.6" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/"><circle cx="188.1" cy="121.4" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.8" cy="120.5" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/"><circle cx="145.2" cy="155.3" r="4" fill="#3465a4"><title>Wilson's No.060</title></circle></a><circle cx="167.3" cy="122.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><circle cx="155.3" cy="128.4" r="4" fill="#3465a4"><title>Auld Lang Syne, Blue (Fashion)</title></circle></a><a href="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/"><circle cx="156.8" cy="126.1" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s12/db8r8db42k4db4k4db4k20g4k10g25w8/"><circle cx="140.1" cy="140.9" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/variants/s11/db3k2db22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="163.8" cy="131.9" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><circle cx="180.7" cy="134.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s12/y2db17k4w2k2y2k2db4g6k2g2w2~x2/"><circle cx="147.8" cy="141.2" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/"><circle cx="184.0" cy="135.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/"><circle cx="188.2" cy="121.3" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.8" cy="120.4" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/"><circle cx="145.2" cy="155.2" r="4" fill="#3465a4"><title>Wilson's No.060</title></circle></a><circle cx="167.3" cy="121.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/

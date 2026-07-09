@@ -1,16 +1,18 @@
 ---
 title: "Gammell (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gammell"
   url: "/tartans/gammell/"
 - name: "Gammell (Personal)"
-  url: ""
+  url: "/setts/lb32o3lb3o3lb3o10g24dr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb32o3lb3o3lb3o10g24dr3/)
-(the same proportion at any scale), whose colour order is pattern [BGRWRWRW](/stripes/bgrwrwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb32o3lb3o3lb3o10g24dr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRWRWRW](/stripes/bgrwrwrw/).
 
 Part of the [Gammell](/tartans/gammell/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2o28g13o2db13o2~x4/"><circle cx="359.0" cy="217.1" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="286.8" cy="190.9" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/"><circle cx="296.2" cy="178.2" r="4" fill="#3465a4"><title>Manitoba District Tartan</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="279.0" cy="218.9" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.2" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><circle cx="310.0" cy="169.6" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/"><circle cx="349.9" cy="210.5" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2008029/"><circle cx="296.6" cy="178.8" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s10/g6lb8r2lb2y2lb16g18lb4g4lb3~x4/"><circle cx="332.7" cy="223.1" r="4" fill="#3465a4"><title>Blue Ridge (District)</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.8" cy="178.7" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><circle cx="296.4" cy="199.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2o28g13o2db13o2~x4/"><circle cx="359.1" cy="217.0" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="286.8" cy="190.8" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/"><circle cx="296.3" cy="178.1" r="4" fill="#3465a4"><title>Manitoba District Tartan</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="279.0" cy="218.9" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.1" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><circle cx="310.0" cy="169.5" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/"><circle cx="350.0" cy="210.4" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2008029/"><circle cx="296.6" cy="178.7" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s10/g6lb8r2lb2y2lb16g18lb4g4lb3~x4/"><circle cx="332.8" cy="223.0" r="4" fill="#3465a4"><title>Blue Ridge (District)</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.9" cy="178.6" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><circle cx="296.4" cy="199.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/

@@ -1,14 +1,16 @@
 ---
 title: "McWilliams Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McWilliams Personal Tartan"
-  url: ""
+  url: "/setts/k3db15k42db13k2db3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3db15k42db13k2db3/)
-(the same proportion at any scale), whose colour order is pattern [BKBKKKKKKKBK](/stripes/bkbkkkkkkkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3db15k42db13k2db3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKKKKKKKBK](/stripes/bkbkkkkkkkbk/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2014 Designed for Aaron McWilliams and family
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2014 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/"><circle cx="183.9" cy="152.6" r="4" fill="#3465a4"><title>Fowler</title></circle></a><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="199.9" cy="210.2" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/"><circle cx="199.9" cy="210.2" r="4" fill="#3465a4"><title>Cargill</title></circle></a><a href="/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/"><circle cx="227.5" cy="186.2" r="4" fill="#3465a4"><title>Clergy (WCWM)</title></circle></a><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><circle cx="208.2" cy="199.9" r="4" fill="#3465a4"><title>Clergy #2</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/"><circle cx="183.1" cy="181.8" r="4" fill="#3465a4"><title>77th Regiment</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/"><circle cx="187.3" cy="188.1" r="4" fill="#3465a4"><title>Rogers Family (Kilkeel) (Personal)</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="189.9" cy="219.9" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><a href="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/"><circle cx="195.2" cy="203.6" r="4" fill="#3465a4"><title>Westwood Gordon Pink (Fashion)</title></circle></a><a href="/variants/s12/k3db15k9dy3k2dy14k2dy3k9db13k2db3~x2/"><circle cx="245.1" cy="220.5" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><circle cx="198.9" cy="204.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/"><circle cx="183.9" cy="152.4" r="4" fill="#3465a4"><title>Fowler</title></circle></a><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="199.9" cy="210.1" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/"><circle cx="199.9" cy="210.1" r="4" fill="#3465a4"><title>Cargill</title></circle></a><a href="/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/"><circle cx="227.5" cy="186.1" r="4" fill="#3465a4"><title>Clergy (WCWM)</title></circle></a><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><circle cx="208.2" cy="199.8" r="4" fill="#3465a4"><title>Clergy #2</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/"><circle cx="183.1" cy="181.7" r="4" fill="#3465a4"><title>77th Regiment</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/"><circle cx="187.3" cy="187.9" r="4" fill="#3465a4"><title>Rogers Family (Kilkeel) (Personal)</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="190.0" cy="219.8" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><a href="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/"><circle cx="195.2" cy="203.5" r="4" fill="#3465a4"><title>Westwood Gordon Pink (Fashion)</title></circle></a><a href="/variants/s12/k3db15k9dy3k2dy14k2dy3k9db13k2db3~x2/"><circle cx="245.2" cy="220.4" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><circle cx="199.0" cy="204.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3db15k42db13k2db3~x2~db1704245/

@@ -1,16 +1,18 @@
 ---
 title: "Brandon, Manitoba"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brandon Manitoba"
   url: "/tartans/brandon-manitoba/"
 - name: "Brandon, Manitoba"
-  url: ""
+  url: "/setts/y83k35w3g35k3ly10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y83k35w3g35k3ly10/)
-(the same proportion at any scale), whose colour order is pattern [GKWGKY](/stripes/gkwgky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y83k35w3g35k3ly10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWGKY](/stripes/gkwgky/).
 
 Part of the [Brandon Manitoba](/tartans/brandon-manitoba/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.0" cy="137.2" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="154.2" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="154.0" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="270.7" cy="154.3" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/"><circle cx="242.8" cy="127.8" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="166.9" cy="157.3" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s6/k4dy3k30lg33r1lg4~x2/"><circle cx="272.3" cy="126.0" r="4" fill="#3465a4"><title>Intergen (Corporate)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.0" cy="132.6" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="155.0" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s6/g55k17r9k11y2db4~x2/"><circle cx="272.9" cy="120.1" r="4" fill="#3465a4"><title>Moran Family Tartan</title></circle></a><circle cx="233.2" cy="132.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.1" cy="137.1" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="154.1" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="153.9" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="270.7" cy="154.2" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/"><circle cx="242.8" cy="127.7" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="166.9" cy="157.2" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s6/k4dy3k30lg33r1lg4~x2/"><circle cx="272.3" cy="125.9" r="4" fill="#3465a4"><title>Intergen (Corporate)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.0" cy="132.5" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="154.9" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s6/g55k17r9k11y2db4~x2/"><circle cx="272.9" cy="120.0" r="4" fill="#3465a4"><title>Moran Family Tartan</title></circle></a><circle cx="233.2" cy="132.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/

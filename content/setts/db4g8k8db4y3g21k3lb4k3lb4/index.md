@@ -1,5 +1,12 @@
 ---
 title: "Wellecomme, Bernard (Personal)"
-redirect: "/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wellecomme, Bernard (Personal)](/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/).
+This is the **Wellecomme, Bernard (Personal)** sett — one scale-free proportion (`db4g8k8db4y3g21k3lb4k3lb4`), colour order pattern
+[BGKBGGKWKW](/stripes/bgkbggkwkw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wellecomme, Bernard (Personal)](/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/) ★ | 2015 | ![Wellecomme, Bernard (Personal) sett](/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/sett.png) |

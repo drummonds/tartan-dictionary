@@ -1,5 +1,12 @@
 ---
 title: "Loch Rannoch Trade Tartan"
-redirect: "/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Loch Rannoch Trade Tartan](/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/).
+This is the **Loch Rannoch Trade Tartan** sett — one scale-free proportion (`do24g2do5ly14g2ly5dy17do2`), colour order pattern
+[BGBYGYGB](/stripes/bgbygygb/). It is recorded as a single **variant**, below.
+First attested **1975**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Loch Rannoch Trade Tartan](/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/) ★ | 1975 | ![Loch Rannoch Trade Tartan sett](/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/sett.png) |

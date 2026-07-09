@@ -1,14 +1,16 @@
 ---
 title: "Wilson's No.229"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.229"
-  url: ""
+  url: "/setts/dg14dp11lb3k5lb3dp11dg14w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg14dp11lb3k5lb3dp11dg14w2/)
-(the same proportion at any scale), whose colour order is pattern [GBWKWBGW](/stripes/gbwkwbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg14dp11lb3k5lb3dp11dg14w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBWKWBGW](/stripes/gbwkwbgw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/"><circle cx="238.0" cy="183.0" r="4" fill="#3465a4"><title>Wellington (Wilson 122)</title></circle></a><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><circle cx="165.1" cy="211.5" r="4" fill="#3465a4"><title>Wilson's No.124</title></circle></a><a href="/variants/s10/r1g6dp6lb1k2lb1dp6g6r1g1~x4/"><circle cx="166.4" cy="197.2" r="4" fill="#3465a4"><title>Wilson's No.183</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.4" cy="205.0" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.9" cy="220.7" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.4" cy="224.5" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.9" cy="197.1" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="210.8" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><circle cx="108.2" cy="201.6" r="4" fill="#3465a4"><title>Sustainability (Fashion)</title></circle></a><a href="/variants/s6/r2dy8db2lb4k4lb1~x6/"><circle cx="121.1" cy="209.0" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan</title></circle></a><circle cx="172.9" cy="214.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/"><circle cx="238.0" cy="182.9" r="4" fill="#3465a4"><title>Wellington (Wilson 122)</title></circle></a><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><circle cx="165.1" cy="211.5" r="4" fill="#3465a4"><title>Wilson's No.124</title></circle></a><a href="/variants/s10/r1g6dp6lb1k2lb1dp6g6r1g1~x4/"><circle cx="166.4" cy="197.1" r="4" fill="#3465a4"><title>Wilson's No.183</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.4" cy="204.9" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.9" cy="220.6" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.4" cy="224.5" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.9" cy="197.0" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="210.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><circle cx="108.3" cy="201.5" r="4" fill="#3465a4"><title>Sustainability (Fashion)</title></circle></a><a href="/variants/s6/r2dy8db2lb4k4lb1~x6/"><circle cx="121.1" cy="208.9" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan</title></circle></a><circle cx="173.0" cy="214.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg14dp11lb3k5lb3dp11dg14w2~x2~dg1605139-dp1607327/

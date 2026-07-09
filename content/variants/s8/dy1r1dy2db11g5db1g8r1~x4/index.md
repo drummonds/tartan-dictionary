@@ -1,14 +1,16 @@
 ---
 title: "New Mexico, State of (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "New Mexico, State of"
   url: "/setts/dy1r1dy2db11g5db1g8r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy1r1dy2db11g5db1g8r1/)
-(the same proportion at any scale), whose colour order is pattern [GRGBGBGR](/stripes/grgbgbgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy1r1dy2db11g5db1g8r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGBGBGR](/stripes/grgbgbgr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="194.2" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><circle cx="300.2" cy="170.0" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.8" cy="200.2" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="201.0" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.1" cy="189.2" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.3" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.6" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="198.0" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><circle cx="264.1" cy="199.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.8" cy="194.1" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><circle cx="300.2" cy="169.9" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.8" cy="200.1" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="200.9" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.1" cy="189.1" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.2" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.1" cy="189.3" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.5" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="197.9" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><circle cx="264.1" cy="199.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dy1r1dy2db11g5db1g8r1~x4/

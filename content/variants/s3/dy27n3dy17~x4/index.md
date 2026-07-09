@@ -1,16 +1,18 @@
 ---
 title: "Outlander #4"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Outlander"
   url: "/tartans/outlander/"
 - name: "Outlander #4"
-  url: ""
+  url: "/setts/dy27n3dy17/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy27n3dy17/)
-(the same proportion at any scale), whose colour order is pattern [GBG](/stripes/gbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy27n3dy17/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBG](/stripes/gbg/).
 
 Part of the [Outlander](/tartans/outlander/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dy10w1dy30y3~x4/"><circle cx="626.0" cy="212.5" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/variants/s2/dy9n1~x12/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Outlander #4</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s3/n13dy15n2~x4/"><circle cx="513.1" cy="366.0" r="4" fill="#3465a4"><title>Outlander #5</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.3" cy="340.1" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><a href="/variants/s3/r1y60t1~x2/"><circle cx="626.0" cy="245.1" r="4" fill="#3465a4"><title>Nutwood</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.7" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><a href="/variants/s2/db12k1~x10/"><circle cx="626.0" cy="291.9" r="4" fill="#3465a4"><title>Staines</title></circle></a><circle cx="626.0" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dy10w1dy30y3~x4/"><circle cx="626.0" cy="212.5" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/variants/s2/dy9n1~x12/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Outlander #4</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s3/n13dy15n2~x4/"><circle cx="513.2" cy="366.0" r="4" fill="#3465a4"><title>Outlander #5</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.3" cy="340.2" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><a href="/variants/s3/r1y60t1~x2/"><circle cx="626.0" cy="245.0" r="4" fill="#3465a4"><title>Nutwood</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.7" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><a href="/variants/s2/db12k1~x10/"><circle cx="626.0" cy="291.9" r="4" fill="#3465a4"><title>Staines</title></circle></a><circle cx="626.0" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/dy27n3dy17~x4/

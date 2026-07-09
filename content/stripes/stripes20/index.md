@@ -243,7 +243,7 @@ weight: 20
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [MacIntosh, Ancient](/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/) | weddslist |
+| 0.11 | [MacIntosh Old Ancient Artifact Tartan](/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/) | house-of-tartan |
 | 0.11 | [MacIntosh Ancient](/variants/s20/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/) | register-of-tartans |
 
 ### KBKBKBKGKGKWBWBWBWBW
@@ -268,7 +268,7 @@ weight: 20
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.07 | [Anderson](/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/) | weddslist |
-| 0.09 | [Anderson 5](/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/) | weddslist |
+| 0.09 | [Anderson Family Tartan](/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/) | house-of-tartan |
 
 ### RGRGRBRKGKGKWKYRKRYR
 <a class="pat" href="/stripes/rgrgrbrkgkgkwkyrkryr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGRGRBRKGKGKWKYRKRYR</span></a>
@@ -474,7 +474,7 @@ weight: 20
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Scottish Motor Trade Association](/variants/s11/g5t2g16t10k2w3db6t14w2db4w2~x2~t2405244-db1106275/) | register-of-tartans |
+| 0.10 | [Scottish Motor Trade Association Trade Tartan](/variants/s11/g5t2g16t10k2w3db6t14w2db4w2~x2~t2405244-db1106275/) | house-of-tartan |
 
 ### BGBKWBWKYKBGBKYKWBWK
 <a class="pat" href="/stripes/bgbkwbwkykbgbkykwbwk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">BGBKWBWKYKBGBKYKWBWK</span></a>
@@ -635,7 +635,7 @@ weight: 20
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [MacKenzie Dress #4](/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/) | register-of-tartans |
+| 0.05 | [MacKenzie Dress Clan Tartan](/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/) | house-of-tartan |
 
 ### BKGRGKRKRKGKRKRKGRGK
 <a class="pat" href="/stripes/bkgrgkrkrkgkrkrkgrgk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">BKGRGKRKRKGKRKRKGRGK</span></a>
@@ -754,7 +754,7 @@ weight: 20
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Lions](/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/) | weddslist |
+| 0.10 | [Lions Canadian Tartan](/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/) | house-of-tartan |
 
 ### BWYWGWBWYWWWYWBWGWYW
 <a class="pat" href="/stripes/bwywgwbwywwwywbwgwyw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BWYWGWBWYWWWYWBWGWYW</span></a>
@@ -950,14 +950,14 @@ weight: 20
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [MacRae of Conchra](/variants/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/) | register-of-tartans |
+| 0.07 | [MacRae Red Clan Tartan](/variants/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/) | house-of-tartan |
 
 ### GRGRGRGRGRGKGKBKRWRW
 <a class="pat" href="/stripes/grgrgrgrgrgkgkbkrwrw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRGRGRGRGRGKGKBKRWRW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Moray Plaid](/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/) | register-of-tartans |
+| 0.07 | [Moray Plaid Artifact Tartan](/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/) | house-of-tartan |
 
 ### GRGWBRBGBGBGBRBWGRGY
 <a class="pat" href="/stripes/grgwbrbgbgbgbrbwgrgy/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GRGWBRBGBGBGBRBWGRGY</span></a>

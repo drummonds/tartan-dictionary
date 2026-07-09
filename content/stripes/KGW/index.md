@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s3/k5g4lb3~x2/">Glen Lyon (District)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/k5g4lb3~x2/"><img src="/variants/s3/k5g4lb3~x2/sett.png" alt="Glen Lyon (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k5g3lb2~x2/">Glen Lyon, or Mull (No.53)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k5g3lb2~x2/"><img src="/variants/s3/k5g3lb2~x2/sett.png" alt="Glen Lyon, or Mull (No.53) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k5g4lb2~x2/">Mull</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k5g4lb2~x2/"><img src="/variants/s3/k5g4lb2~x2/sett.png" alt="Mull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k5g3lb2~x2/">Glen Lyon or Mull (No.53) District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k5g3lb2~x2/"><img src="/variants/s3/k5g3lb2~x2/sett.png" alt="Glen Lyon or Mull (No.53) District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k5g4lb2~x2/">Mull or Glenlyon District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k5g4lb2~x2/"><img src="/variants/s3/k5g4lb2~x2/sett.png" alt="Mull or Glenlyon District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s3/k5g6lb1~x4/">Wilson's No.050</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/k5g6lb1~x4/"><img src="/variants/s3/k5g6lb1~x4/sett.png" alt="Wilson's No.050 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

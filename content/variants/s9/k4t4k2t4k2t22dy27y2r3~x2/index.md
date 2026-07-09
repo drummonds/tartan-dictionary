@@ -1,16 +1,18 @@
 ---
 title: "Falkirk District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Falkirk"
   url: "/tartans/falkirk/"
 - name: "Falkirk District Tartan"
-  url: ""
+  url: "/setts/k4t4k2t4k2t22dy27y2r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4t4k2t4k2t22dy27y2r3/)
-(the same proportion at any scale), whose colour order is pattern [GGBKBKBKBKBKBGGR](/stripes/ggbkbkbkbkbkbggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4t4k2t4k2t22dy27y2r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBKBKBKBKBKBGGR](/stripes/ggbkbkbkbkbkbggr/).
 
 Part of the [Falkirk](/tartans/falkirk/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1989 The original Falkirk "Tartan" , now in the National Mu
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1989 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="201.7" cy="124.2" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><a href="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><circle cx="226.2" cy="125.8" r="4" fill="#3465a4"><title>Princess Beatrice Hunting</title></circle></a><a href="/variants/s15/g3db2ri1db17r2g8r4lb1db8r2g17r2ri1db3lb1~x2~ri2806019-r2109032/"><circle cx="227.3" cy="128.6" r="4" fill="#3465a4"><title>Glenorchy - National Archives</title></circle></a><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="208.8" cy="157.1" r="4" fill="#3465a4"><title>Scottish Power Corporate Tartan</title></circle></a><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/"><circle cx="180.5" cy="131.6" r="4" fill="#3465a4"><title>Cameron Boyle, The (Personal)</title></circle></a><a href="/variants/s16/db36g10dr2g10lb2g10dr2g10k14dr2db12dr3db2dr2db4lb2~x2/"><circle cx="200.9" cy="110.4" r="4" fill="#3465a4"><title>Rankin (1998) (Name)</title></circle></a><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/"><circle cx="219.7" cy="130.1" r="4" fill="#3465a4"><title>Beatrice, Princess.. (hunting)</title></circle></a><a href="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/"><circle cx="177.6" cy="119.0" r="4" fill="#3465a4"><title>Pennsylvania American District Tartan</title></circle></a><a href="/variants/s14/db10r5g5r5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><circle cx="196.8" cy="105.6" r="4" fill="#3465a4"><title>Beatrice Princess.. (Hunting) Royal Family Tartan</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.5" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><circle cx="240.1" cy="125.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="201.7" cy="124.0" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><a href="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><circle cx="226.2" cy="125.7" r="4" fill="#3465a4"><title>Princess Beatrice Hunting</title></circle></a><a href="/variants/s15/g3db2ri1db17r2g8r4lb1db8r2g17r2ri1db3lb1~x2~ri2806019-r2109032/"><circle cx="227.3" cy="128.5" r="4" fill="#3465a4"><title>Glenorchy - National Archives</title></circle></a><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="208.8" cy="157.0" r="4" fill="#3465a4"><title>Scottish Power Corporate Tartan</title></circle></a><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/"><circle cx="180.5" cy="131.5" r="4" fill="#3465a4"><title>Cameron Boyle, The (Personal)</title></circle></a><a href="/variants/s16/db36g10dr2g10lb2g10dr2g10k14dr2db12dr3db2dr2db4lb2~x2/"><circle cx="200.9" cy="110.3" r="4" fill="#3465a4"><title>Rankin (1998) (Name)</title></circle></a><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/"><circle cx="219.7" cy="130.0" r="4" fill="#3465a4"><title>Beatrice, Princess.. (hunting)</title></circle></a><a href="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/"><circle cx="177.6" cy="118.9" r="4" fill="#3465a4"><title>Pennsylvania American District Tartan</title></circle></a><a href="/variants/s14/db10r5g5r5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><circle cx="196.9" cy="105.5" r="4" fill="#3465a4"><title>Beatrice Princess.. (Hunting) Royal Family Tartan</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.4" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><circle cx="240.1" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k4t4k2t4k2t22dy27y2r3~x2/

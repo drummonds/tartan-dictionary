@@ -1,5 +1,12 @@
 ---
 title: "Kyle Blue (Clan)"
-redirect: "/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kyle Blue (Clan)](/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/).
+This is the **Kyle Blue (Clan)** sett — one scale-free proportion (`r54dp6r5dp6r10dp3r2dp18`), colour order pattern
+[BRBRBRBR](/stripes/brbrbrbr/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kyle Blue (Clan)](/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/) ★ | 1984 | ![Kyle Blue (Clan) sett](/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/sett.png) |

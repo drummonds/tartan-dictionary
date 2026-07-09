@@ -1,5 +1,12 @@
 ---
 title: "Cowal Highland Gathering"
-redirect: "/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cowal Highland Gathering](/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/).
+This is the **Cowal Highland Gathering** sett — one scale-free proportion (`dg2g8dt1g1dt1g1dt8db9n1`), colour order pattern
+[BBBGBGBGG](/stripes/bbbgbgbgg/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Cowal Highland Gathering](/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/) ★ | 1994 | ![Cowal Highland Gathering sett](/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/sett.png) |

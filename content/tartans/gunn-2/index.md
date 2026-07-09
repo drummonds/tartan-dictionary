@@ -17,7 +17,7 @@ The **Gunn** tartan groups 4 setts — the same named design recorded as differe
 <tbody>
 <tr><td><a href="/setts/dg2db12dg1k12dg12r2/">Gunn</a> ★</td><td><code>R/4 DG24 K24 DG2 DB24 DG/4</code></td><td>156</td><td>1831</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/dg2db12dg1k12dg12r2/"><img src="/variants/s6/dg2db12dg1k12dg12r2~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r2g12k12g1db12g1/">Gunn</a></td><td><code>R/4 G24 K24 G2 DB24 G/2</code></td><td>154</td><td>—</td></tr>
+<tr><td><a href="/setts/r2g12k12g1db12g1/">Gunn</a></td><td><code>R/4 G24 K24 G2 DB24 G/2</code></td><td>154</td><td>~1810</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r2g12k12g1db12g1/"><img src="r2g12k12g1db12g1-rev.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r2g12k12g1db12g2/">Gunn</a></td><td><code>R/2 G12 K12 G1 DB12 G/2</code></td><td>78</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r2g12k12g1db12g2/"><img src="r2g12k12g1db12g2-rev.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

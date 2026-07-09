@@ -1,16 +1,18 @@
 ---
 title: "MacNab (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNab"
   url: "/tartans/macnab-2/"
 - name: "MacNab (Clan)"
-  url: ""
+  url: "/setts/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2/)
-(the same proportion at any scale), whose colour order is pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
 
 Part of the [MacNab](/tartans/macnab-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><circle cx="234.6" cy="180.4" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.0" cy="183.0" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="181.0" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><circle cx="222.0" cy="210.4" r="4" fill="#3465a4"><title>Black Watch (Band Plaid)</title></circle></a><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><circle cx="217.3" cy="231.4" r="4" fill="#3465a4"><title>Unidentified Scarlett #12</title></circle></a><a href="/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/"><circle cx="235.3" cy="200.4" r="4" fill="#3465a4"><title>Fraser Stewart of Athol</title></circle></a><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><circle cx="285.6" cy="200.0" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary</title></circle></a><a href="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><circle cx="270.6" cy="176.5" r="4" fill="#3465a4"><title>Stewart of Urrard (Clan?)</title></circle></a><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"><circle cx="164.5" cy="176.3" r="4" fill="#3465a4"><title>St. Andrews (Queens University)</title></circle></a><a href="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri2806019-r2109032/"><circle cx="253.5" cy="249.3" r="4" fill="#3465a4"><title>Kozlosky (Personal)</title></circle></a><circle cx="220.2" cy="201.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><circle cx="234.6" cy="180.3" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.1" cy="182.9" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="180.9" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><circle cx="222.0" cy="210.4" r="4" fill="#3465a4"><title>Black Watch (Band Plaid)</title></circle></a><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><circle cx="217.3" cy="231.4" r="4" fill="#3465a4"><title>Unidentified Scarlett #12</title></circle></a><a href="/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/"><circle cx="235.3" cy="200.3" r="4" fill="#3465a4"><title>Fraser Stewart of Athol</title></circle></a><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><circle cx="285.6" cy="199.9" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary</title></circle></a><a href="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><circle cx="270.6" cy="176.4" r="4" fill="#3465a4"><title>Stewart of Urrard (Clan?)</title></circle></a><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"><circle cx="164.5" cy="176.2" r="4" fill="#3465a4"><title>St. Andrews (Queens University)</title></circle></a><a href="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri2806019-r2109032/"><circle cx="253.5" cy="249.2" r="4" fill="#3465a4"><title>Kozlosky (Personal)</title></circle></a><circle cx="220.2" cy="201.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2~m2808007-r2109032/

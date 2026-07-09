@@ -1,14 +1,16 @@
 ---
 title: "Glenmorangie #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenmorangie #2"
-  url: ""
+  url: "/setts/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBYBYBY](/stripes/gbgbgbybyby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBYBYBY](/stripes/gbgbgbybyby/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lo3dg2dr14dgi17dg14lo8dr14dg2lo3~x2~dg1001060-dgi1403171/"><circle cx="218.0" cy="241.3" r="4" fill="#3465a4"><title>Monaghan Irish County Tartan</title></circle></a><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="175.1" cy="238.5" r="4" fill="#3465a4"><title>Tinkler, Andrew (Stobart Group)</title></circle></a><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/"><circle cx="178.3" cy="236.7" r="4" fill="#3465a4"><title>Tinkler (Corporate)</title></circle></a><a href="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/"><circle cx="170.0" cy="216.3" r="4" fill="#3465a4"><title>Lochaber (Scrapbook)</title></circle></a><a href="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/"><circle cx="157.5" cy="231.9" r="4" fill="#3465a4"><title>Toorak Chapler (Fashion)</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="201.5" cy="231.0" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/"><circle cx="171.2" cy="209.5" r="4" fill="#3465a4"><title>Poulter SG 101 (Fashion)</title></circle></a><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="237.5" cy="230.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/"><circle cx="156.7" cy="235.6" r="4" fill="#3465a4"><title>Stevenson (Name)</title></circle></a><a href="/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/"><circle cx="264.0" cy="210.1" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan</title></circle></a><circle cx="168.7" cy="234.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lo3dg2dr14dgi17dg14lo8dr14dg2lo3~x2~dg1001060-dgi1403171/"><circle cx="218.0" cy="241.2" r="4" fill="#3465a4"><title>Monaghan Irish County Tartan</title></circle></a><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="175.2" cy="238.5" r="4" fill="#3465a4"><title>Tinkler, Andrew (Stobart Group)</title></circle></a><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/"><circle cx="178.3" cy="236.6" r="4" fill="#3465a4"><title>Tinkler (Corporate)</title></circle></a><a href="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/"><circle cx="170.0" cy="216.2" r="4" fill="#3465a4"><title>Lochaber (Scrapbook)</title></circle></a><a href="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/"><circle cx="157.5" cy="231.8" r="4" fill="#3465a4"><title>Toorak Chapler (Fashion)</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="201.6" cy="230.9" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/"><circle cx="171.2" cy="209.4" r="4" fill="#3465a4"><title>Poulter SG 101 (Fashion)</title></circle></a><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="237.5" cy="230.2" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/"><circle cx="156.7" cy="235.6" r="4" fill="#3465a4"><title>Stevenson (Name)</title></circle></a><a href="/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/"><circle cx="264.1" cy="210.0" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan</title></circle></a><circle cx="168.7" cy="234.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/

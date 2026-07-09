@@ -1,5 +1,12 @@
 ---
 title: "Atlin (Fashion)"
-redirect: "/variants/s6/k14db14k14db40k3db2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Atlin (Fashion)](/variants/s6/k14db14k14db40k3db2~x2/).
+This is the **Atlin (Fashion)** sett — one scale-free proportion (`k14db14k14db40k3db2`), colour order pattern
+[BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
+First attested **~1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Atlin (Fashion)](/variants/s6/k14db14k14db40k3db2~x2/) ★ | ~1989 | ![Atlin (Fashion) sett](/variants/s6/k14db14k14db40k3db2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Turnbull, Dress Bruce (Personal)"
-redirect: "/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Turnbull, Dress Bruce (Personal)](/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/).
+This is the **Turnbull, Dress Bruce (Personal)** sett — one scale-free proportion (`o11k66n32dg11n10db6n10r4`), colour order pattern
+[RBBBGBKR](/stripes/rbbbgbkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Turnbull, Dress Bruce (Personal)](/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/) ★ | ~2016 | ![Turnbull, Dress Bruce (Personal) sett](/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/sett.png) |

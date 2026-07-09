@@ -1,5 +1,12 @@
 ---
 title: "Arundel County (Dalgleish)"
-redirect: "/variants/s8/r2lb5k4y1k4db16k3g2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Arundel County (Dalgleish)](/variants/s8/r2lb5k4y1k4db16k3g2~x4/).
+This is the **Arundel County (Dalgleish)** sett — one scale-free proportion (`r2lb5k4y1k4db16k3g2`), colour order pattern
+[GKBKGKWR](/stripes/gkbkgkwr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Arundel County (Dalgleish)](/variants/s8/r2lb5k4y1k4db16k3g2~x4/) ★ | 2002 | ![Arundel County (Dalgleish) sett](/variants/s8/r2lb5k4y1k4db16k3g2~x4/sett.png) |

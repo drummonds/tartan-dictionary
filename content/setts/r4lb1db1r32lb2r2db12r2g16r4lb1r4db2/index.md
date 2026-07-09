@@ -2,15 +2,15 @@
 title: "MacGillivray"
 date: 2023-03-18
 ---
-The **MacGillivray** tartan is one sett proportion (`r4lb1db1r32lb2r2db12r2g16r4lb1r4db2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRWRGRBRWRBWR](/stripes/brwrgrbrwrbwr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacGillivray** sett — one scale-free proportion (`r4lb1db1r32lb2r2db12r2g16r4lb1r4db2`), colour order pattern
+[BRWRGRBRWRBWR](/stripes/brwrgrbrwrbwr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1831**.
 
-Part of the [MacGillivray](/tartans/macgillivray/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacGillivray](/tartans/macgillivray/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [MacGillivray](/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/) ★ | ~2016 | ![MacGillivray sett](/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/sett.png) |
-| ×2 | [MacGillivray](/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/) | ~2016 | ![MacGillivray sett](/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/sett.png) |
+| ×2 | [MacGillivray Clan Tartan](/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/) ★ | 1831 | ![MacGillivray Clan Tartan sett](/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/sett.png) |
+| ×1 | [MacGillivray](/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/) | ~2016 | ![MacGillivray sett](/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/sett.png) |

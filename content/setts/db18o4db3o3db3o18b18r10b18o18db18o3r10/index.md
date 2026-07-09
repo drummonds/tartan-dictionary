@@ -1,5 +1,12 @@
 ---
 title: "Murray of Atholl"
-redirect: "/variants/s13/db18o4db3o3db3o18b18r10b18o18db18o3r10~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Murray of Atholl](/variants/s13/db18o4db3o3db3o18b18r10b18o18db18o3r10~x2/).
+This is the **Murray of Atholl** sett — one scale-free proportion (`db18o4db3o3db3o18b18r10b18o18db18o3r10`), colour order pattern
+[BRBRBRBRBRBRR](/stripes/brbrbrbrbrbrr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Murray of Atholl](/variants/s13/db18o4db3o3db3o18b18r10b18o18db18o3r10~x2/) ★ | ~2016 | ![Murray of Atholl sett](/variants/s13/db18o4db3o3db3o18b18r10b18o18db18o3r10~x2/sett.png) |

@@ -1,6 +1,7 @@
 ---
 title: "MacLachlan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "MacLachlan"
   url: "/tartans/maclachlan/"
 - name: "MacLachlan"
-  url: ""
+  url: "/setts/r8k2r2k2r2k16db16g3db16k16r16k2r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8k2r2k2r2k16db16g3db16k16r16k2r2/)
-(the same proportion at any scale), whose colour order is pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r8k2r2k2r2k16db16g3db16k16r16k2r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
 
 Part of the [MacLachlan](/tartans/maclachlan/) tartan — the named design grouping this sett with its other cloths.
 
@@ -37,7 +39,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **MacLachlan** name adjusted Logan's counts: [MacLachlan](/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2~b202060-g006818-k101010-rc80000~x2/); [MacLachlan #2](/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2~b2c4084-g005020-k101010-rdc0000~x2/); [MacLachlan #3](/setts/s15/r12k2r2k2r2k10b10k1g3k1b12k10r12k2r2~b2c4084-g005020-k101010-rdc0000~x2/); [MacLachlan #4](/setts/s7/r24w2y3g16k16w2y3~g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/). Compare their thread counts with Logan's above.
+Later records of the **MacLachlan** name adjusted Logan's counts: [MacLachlan](/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2~x2/); [MacLachlan #3](/variants/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/); [MacLachlan #4](/variants/s7/r24w2y3g16k16w2y3~x2/); [MacLachlan (Chief's Dress)](/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -95,6 +97,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2~x2/"><circle cx="134.3" cy="165.6" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2/"><circle cx="134.3" cy="165.6" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><circle cx="135.7" cy="144.4" r="4" fill="#3465a4"><title>Clan Pipers Frankfurt and District Pipe Band</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><circle cx="99.1" cy="179.9" r="4" fill="#3465a4"><title>Bonnar (Name)</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/"><circle cx="100.5" cy="179.7" r="4" fill="#3465a4"><title>Bonner or Bonnar</title></circle></a><a href="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/"><circle cx="133.4" cy="174.5" r="4" fill="#3465a4"><title>Balmoral Hotel (Corporate)</title></circle></a><a href="/variants/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="147.8" cy="143.3" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><circle cx="172.7" cy="165.5" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><circle cx="144.3" cy="164.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2~x2/"><circle cx="134.3" cy="165.5" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2/"><circle cx="134.3" cy="165.5" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><circle cx="135.7" cy="144.2" r="4" fill="#3465a4"><title>Clan Pipers Frankfurt and District Pipe Band</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.7" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.7" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><circle cx="99.1" cy="179.8" r="4" fill="#3465a4"><title>Bonnar (Name)</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/"><circle cx="100.5" cy="179.6" r="4" fill="#3465a4"><title>Bonner or Bonnar</title></circle></a><a href="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/"><circle cx="133.4" cy="174.4" r="4" fill="#3465a4"><title>Balmoral Hotel (Corporate)</title></circle></a><a href="/variants/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="147.8" cy="143.2" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><circle cx="172.7" cy="165.4" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><circle cx="144.3" cy="164.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/

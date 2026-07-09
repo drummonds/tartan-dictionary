@@ -1,16 +1,18 @@
 ---
 title: "Logan - 1810 (Cockburn Collection)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Logan"
   url: "/tartans/logan/"
 - name: "Logan - 1810 (Cockburn Collection)"
-  url: ""
+  url: "/setts/k14r6k2r6dg25r6k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14r6k2r6dg25r6k2/)
-(the same proportion at any scale), whose colour order is pattern [KRGRKRK](/stripes/krgrkrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k14r6k2r6dg25r6k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRGRKRK](/stripes/krgrkrk/).
 
 Part of the [Logan](/tartans/logan/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k15r4k1r4dg15r4k1~x4/"><circle cx="214.5" cy="174.4" r="4" fill="#3465a4"><title>Logan (Dark)</title></circle></a><a href="/variants/s7/dg28r4k25r22dg27r4k2~x2/"><circle cx="252.5" cy="200.0" r="4" fill="#3465a4"><title>Glasgow, City of District Tartan</title></circle></a><a href="/variants/s7/k9lr4k1lr4dg15r4k1~x4~lr2805035-r2109032/"><circle cx="173.3" cy="164.6" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="210.5" cy="169.1" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="240.5" cy="164.9" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.5" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s5/o16k2o9k37o10~x2/"><circle cx="218.6" cy="142.9" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="171.7" cy="188.1" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="173.2" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.6" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><circle cx="218.1" cy="183.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k15r4k1r4dg15r4k1~x4/"><circle cx="214.5" cy="174.3" r="4" fill="#3465a4"><title>Logan (Dark)</title></circle></a><a href="/variants/s7/dg28r4k25r22dg27r4k2~x2/"><circle cx="252.5" cy="199.9" r="4" fill="#3465a4"><title>Glasgow, City of District Tartan</title></circle></a><a href="/variants/s7/k9lr4k1lr4dg15r4k1~x4~lr2805035-r2109032/"><circle cx="173.3" cy="164.6" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="210.5" cy="169.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="240.5" cy="164.8" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.4" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s5/o16k2o9k37o10~x2/"><circle cx="218.6" cy="142.8" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="171.7" cy="188.0" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="173.1" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.5" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><circle cx="218.2" cy="183.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k14r6k2r6dg25r6k2~x2/

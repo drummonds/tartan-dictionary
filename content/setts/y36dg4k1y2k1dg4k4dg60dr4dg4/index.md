@@ -1,5 +1,12 @@
 ---
 title: "Orvis Sports Company (Corporate)"
-redirect: "/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Orvis Sports Company (Corporate)](/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/).
+This is the **Orvis Sports Company (Corporate)** sett — one scale-free proportion (`y36dg4k1y2k1dg4k4dg60dr4dg4`), colour order pattern
+[GBGKGKGKGG](/stripes/gbgkgkgkgg/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Orvis Sports Company (Corporate)](/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/) ★ | 2000 | ![Orvis Sports Company (Corporate) sett](/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/sett.png) |

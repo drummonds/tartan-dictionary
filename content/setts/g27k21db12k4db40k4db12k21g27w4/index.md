@@ -1,5 +1,12 @@
 ---
 title: "Granger/Grainger (Personal)"
-redirect: "/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Granger/Grainger (Personal)](/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/).
+This is the **Granger/Grainger (Personal)** sett — one scale-free proportion (`g27k21db12k4db40k4db12k21g27w4`), colour order pattern
+[GKBKBKBKGW](/stripes/gkbkbkbkgw/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Granger/Grainger (Personal)](/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/) ★ | 1994 | ![Granger/Grainger (Personal) sett](/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/sett.png) |

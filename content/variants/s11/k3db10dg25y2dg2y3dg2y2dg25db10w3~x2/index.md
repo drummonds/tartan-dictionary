@@ -1,14 +1,16 @@
 ---
 title: "William and Mary GALA, Inc, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "William and Mary GALA, Inc, The"
-  url: ""
+  url: "/setts/k3db10dg25y2dg2y3dg2y2dg25db10w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3db10dg25y2dg2y3dg2y2dg25db10w3/)
-(the same proportion at any scale), whose colour order is pattern [KBGGGGGGGBW](/stripes/kbgggggggbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3db10dg25y2dg2y3dg2y2dg25db10w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGGGGGGGBW](/stripes/kbgggggggbw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><circle cx="343.4" cy="114.7" r="4" fill="#3465a4"><title>Proctor Name Tartan</title></circle></a><a href="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/"><circle cx="298.6" cy="99.7" r="4" fill="#3465a4"><title>Proctor (Name)</title></circle></a><a href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"><circle cx="341.0" cy="94.8" r="4" fill="#3465a4"><title>Proctor</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="131.1" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/"><circle cx="306.6" cy="132.9" r="4" fill="#3465a4"><title>Todd</title></circle></a><a href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><circle cx="391.0" cy="127.3" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s8/dg47y2dg5y2dg4k15db19r2~x2/"><circle cx="366.7" cy="136.1" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="151.0" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/"><circle cx="375.6" cy="141.2" r="4" fill="#3465a4"><title>College of William &amp; Mary Schools Tartan</title></circle></a><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="254.1" cy="134.6" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><circle cx="343.9" cy="152.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><circle cx="343.4" cy="114.6" r="4" fill="#3465a4"><title>Proctor Name Tartan</title></circle></a><a href="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/"><circle cx="298.6" cy="99.5" r="4" fill="#3465a4"><title>Proctor (Name)</title></circle></a><a href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"><circle cx="341.0" cy="94.6" r="4" fill="#3465a4"><title>Proctor</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="130.9" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/"><circle cx="306.6" cy="132.7" r="4" fill="#3465a4"><title>Todd</title></circle></a><a href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><circle cx="391.0" cy="127.2" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s8/dg47y2dg5y2dg4k15db19r2~x2/"><circle cx="366.7" cy="135.9" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.9" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/"><circle cx="375.7" cy="141.1" r="4" fill="#3465a4"><title>College of William &amp; Mary Schools Tartan</title></circle></a><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="254.1" cy="134.5" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><circle cx="343.9" cy="152.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/

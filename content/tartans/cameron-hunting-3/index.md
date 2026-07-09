@@ -21,7 +21,7 @@ The **Cameron Hunting** tartan groups 2 setts — the same named design recorded
 <tr><td><a href="/setts/r3g10r3g14db16g3y2/">Cameron Hunting</a> ★</td><td><code>R/6 G20 R6 G28 DB32 G6 Y/4</code></td><td>194</td><td>1940</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g10r3g14db16g3y2/"><img src="/variants/s7/r3g10r3g14db16g3y2~x2/sett.png" alt="Cameron Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r3g10r3g14db16g3y2/">Cameron Hunting</a> · <a href="/variants/s7/r3g10r3g14db16g3y2~x2/">Cameron of Lochiel (Hunting)</a></td></tr>
-<tr><td><a href="/setts/r3g10r3g14db16g3dy2/">Clan Tartan</a></td><td><code>R/6 G20 R6 G28 DB32 G6 DY/4</code></td><td>194</td><td>—</td></tr>
+<tr><td><a href="/setts/r3g10r3g14db16g3dy2/">Clan Tartan</a></td><td><code>R/6 G20 R6 G28 DB32 G6 DY/4</code></td><td>194</td><td>1956</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g10r3g14db16g3dy2/"><img src="/variants/s7/r3g10r3g14db16g3dy2~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

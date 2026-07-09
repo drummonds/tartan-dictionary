@@ -1,14 +1,16 @@
 ---
 title: "Clanedin (Commemorative)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clanedin (Commemorative)"
-  url: ""
+  url: "/setts/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3/)
-(the same proportion at any scale), whose colour order is pattern [BKWKWKWBWKWKWKWKW](/stripes/bkwkwkwbwkwkwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWKWKWBWKWKWKWKW](/stripes/bkwkwkwbwkwkwkwkw/).
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/"><circle cx="145.0" cy="155.0" r="4" fill="#3465a4"><title>Kinnison (Clan?)</title></circle></a><a href="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/"><circle cx="95.7" cy="180.9" r="4" fill="#3465a4"><title>Children In Need</title></circle></a><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><circle cx="105.7" cy="186.4" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/"><circle cx="102.5" cy="202.5" r="4" fill="#3465a4"><title>Stuart/Stewart Old</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.8" cy="191.2" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/"><circle cx="109.3" cy="204.1" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"><circle cx="155.2" cy="141.1" r="4" fill="#3465a4"><title>Hancock Personal Tartan</title></circle></a><a href="/variants/s7/w6dp4w32k32w5k12y4~x2/"><circle cx="192.8" cy="165.3" r="4" fill="#3465a4"><title>MacPherson Dress Clan Tartan</title></circle></a><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><circle cx="126.0" cy="178.3" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/"><circle cx="101.8" cy="169.8" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><circle cx="135.7" cy="177.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/"><circle cx="144.9" cy="154.9" r="4" fill="#3465a4"><title>Kinnison (Clan?)</title></circle></a><a href="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/"><circle cx="95.7" cy="180.8" r="4" fill="#3465a4"><title>Children In Need</title></circle></a><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><circle cx="105.7" cy="186.3" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/"><circle cx="102.5" cy="202.4" r="4" fill="#3465a4"><title>Stuart/Stewart Old</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.8" cy="191.1" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/"><circle cx="109.3" cy="204.0" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"><circle cx="155.2" cy="141.0" r="4" fill="#3465a4"><title>Hancock Personal Tartan</title></circle></a><a href="/variants/s7/w6dp4w32k32w5k12y4~x2/"><circle cx="192.8" cy="165.2" r="4" fill="#3465a4"><title>MacPherson Dress Clan Tartan</title></circle></a><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><circle cx="126.0" cy="178.2" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/"><circle cx="101.8" cy="169.7" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><circle cx="135.7" cy="177.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3~x2/

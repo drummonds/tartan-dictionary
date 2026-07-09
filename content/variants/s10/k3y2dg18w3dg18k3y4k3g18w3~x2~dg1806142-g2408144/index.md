@@ -1,16 +1,18 @@
 ---
 title: "Forrester Hunting Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Forrester Hunting"
   url: "/tartans/forrester-hunting/"
 - name: "Forrester Hunting Clan Tartan"
-  url: ""
+  url: "/setts/k3y2dg18w3dg18k3y4k3g18w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3y2dg18w3dg18k3y4k3g18w3/)
-(the same proportion at any scale), whose colour order is pattern [KGGWGKGKGW](/stripes/kggwgkgkgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3y2dg18w3dg18k3y4k3g18w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGGWGKGKGW](/stripes/kggwgkgkgw/).
 
 Part of the [Forrester Hunting](/tartans/forrester-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1997 A clan society that has been in existence since the 19
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1997 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2dg18w3dg13k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="159.4" cy="171.7" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.2" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="130.1" cy="167.3" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"><circle cx="163.4" cy="157.1" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/variants/s7/y17w7y6g43k5n6k13~x2/"><circle cx="162.2" cy="180.9" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><circle cx="213.2" cy="166.5" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/"><circle cx="169.1" cy="140.0" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="219.4" cy="166.3" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><circle cx="186.9" cy="175.5" r="4" fill="#3465a4"><title>Aceo</title></circle></a><a href="/variants/s12/dg12w2k5g24k4dg9k2g13k4dg13k2y3~x2/"><circle cx="163.8" cy="159.9" r="4" fill="#3465a4"><title>Handley (Personal)</title></circle></a><circle cx="183.2" cy="170.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2dg18w3dg13k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="159.4" cy="171.6" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.1" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="130.1" cy="167.2" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"><circle cx="163.4" cy="157.0" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/variants/s7/y17w7y6g43k5n6k13~x2/"><circle cx="162.2" cy="180.9" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><circle cx="213.2" cy="166.4" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/"><circle cx="169.1" cy="139.9" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="219.4" cy="166.2" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><circle cx="186.9" cy="175.4" r="4" fill="#3465a4"><title>Aceo</title></circle></a><a href="/variants/s12/dg12w2k5g24k4dg9k2g13k4dg13k2y3~x2/"><circle cx="163.8" cy="159.8" r="4" fill="#3465a4"><title>Handley (Personal)</title></circle></a><circle cx="183.2" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3y2dg18w3dg18k3y4k3g18w3~x2~dg1806142-g2408144/

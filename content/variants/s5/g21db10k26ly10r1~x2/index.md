@@ -1,16 +1,18 @@
 ---
 title: "Charles-Carberry (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Charles-Carberry"
   url: "/tartans/charles-carberry/"
 - name: "Charles-Carberry (Personal)"
-  url: ""
+  url: "/setts/g21db10k26ly10r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g21db10k26ly10r1/)
-(the same proportion at any scale), whose colour order is pattern [GBKYR](/stripes/gbkyr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g21db10k26ly10r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKYR](/stripes/gbkyr/).
 
 Part of the [Charles-Carberry](/tartans/charles-carberry/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.6" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s4/t20k20g20r1~x2/"><circle cx="156.1" cy="221.6" r="4" fill="#3465a4"><title>Gunn (2011) Personal Tartan</title></circle></a><a href="/variants/s4/db20k20g20r1~x2/"><circle cx="165.6" cy="220.9" r="4" fill="#3465a4"><title>Gunn 2011, Robert (Personal)</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="211.9" cy="176.9" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.6" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="184.0" cy="194.9" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="196.0" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s4/k11dp4lb1g9~x4/"><circle cx="190.4" cy="225.4" r="4" fill="#3465a4"><title>Wilson's, No 228</title></circle></a><circle cx="149.8" cy="171.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.5" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s4/t20k20g20r1~x2/"><circle cx="156.1" cy="221.6" r="4" fill="#3465a4"><title>Gunn (2011) Personal Tartan</title></circle></a><a href="/variants/s4/db20k20g20r1~x2/"><circle cx="165.6" cy="220.8" r="4" fill="#3465a4"><title>Gunn 2011, Robert (Personal)</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="212.0" cy="176.8" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.2" cy="182.2" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.5" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="184.0" cy="194.9" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="196.0" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s4/k11dp4lb1g9~x4/"><circle cx="190.4" cy="225.3" r="4" fill="#3465a4"><title>Wilson's, No 228</title></circle></a><circle cx="149.9" cy="171.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g21db10k26ly10r1~x2/

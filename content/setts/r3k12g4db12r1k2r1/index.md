@@ -1,5 +1,12 @@
 ---
 title: "Sandberg"
-redirect: "/variants/s7/r3k12g4db12r1k2r1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sandberg](/variants/s7/r3k12g4db12r1k2r1~x4/).
+This is the **Sandberg** sett — one scale-free proportion (`r3k12g4db12r1k2r1`), colour order pattern
+[RKGBRKR](/stripes/rkgbrkr/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Sandberg](/variants/s7/r3k12g4db12r1k2r1~x4/) ★ | 2006 | ![Sandberg sett](/variants/s7/r3k12g4db12r1k2r1~x4/sett.png) |

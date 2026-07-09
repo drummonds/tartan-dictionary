@@ -1,5 +1,14 @@
 ---
 title: "Groen (Personal)"
-redirect: "/variants/s11/lb12r2lb3r4lb15k24dg18y1k3dg3w3~x2~dg1504144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Groen (Personal)](/variants/s11/lb12r2lb3r4lb15k24dg18y1k3dg3w3~x2~dg1504144/).
+This is the **Groen (Personal)** sett — one scale-free proportion (`lb12r2lb3r4lb15k24dg18y1k3dg3w3`), colour order pattern
+[WGKGGKWRWRW](/stripes/wgkggkwrwrw/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+Part of the [Groen](/tartans/groen/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Groen (Personal)](/variants/s11/lb12r2lb3r4lb15k24dg18y1k3dg3w3~x2~dg1504144/) ★ | 2000 | ![Groen (Personal) sett](/variants/s11/lb12r2lb3r4lb15k24dg18y1k3dg3w3~x2~dg1504144/sett.png) |

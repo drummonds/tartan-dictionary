@@ -1,5 +1,12 @@
 ---
 title: "Aberdeen (Johnston and Smith)"
-redirect: "/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Aberdeen (Johnston and Smith)](/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/).
+This is the **Aberdeen (Johnston and Smith)** sett — one scale-free proportion (`k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1`), colour order pattern
+[KRWRKBWBKWKRBWBRKRWBR](/stripes/krwrkbwbkwkrbwbrkrwbr/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Aberdeen (Johnston and Smith)](/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/) ★ | 1999 | ![Aberdeen (Johnston and Smith) sett](/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/sett.png) |

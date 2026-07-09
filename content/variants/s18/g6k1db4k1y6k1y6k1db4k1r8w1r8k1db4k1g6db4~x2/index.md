@@ -1,6 +1,7 @@
 ---
 title: "Buchanan Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Buchanan (Wilson)"
   url: "/setts/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4/)
-(the same proportion at any scale), whose colour order is pattern [BGKBKRWRKBKGKGKBKG](/stripes/bgkbkrwrkbkgkgkbkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKBKRWRKBKGKGKBKG](/stripes/bgkbkrwrkbkgkgkbkg/).
 
 Part of the [Buchanan](/tartans/buchanan/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1843 There is some discussion in the archives of the Scotti
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1843 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="31.8" cy="148.2" r="4" fill="#3465a4"><title>Buchanan (Wilson)</title></circle></a><a href="/variants/s18/y6k1db4k1r8w1r8k1db4k1g6db4g6k1db4k1y6k1~x2/"><circle cx="31.8" cy="148.2" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="126.0" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s18/g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="32.7" cy="146.8" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3~x4/"><circle cx="14.0" cy="160.9" r="4" fill="#3465a4"><title>Buchanan Old Clan Tartan</title></circle></a><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="27.3" cy="146.5" r="4" fill="#3465a4"><title>Buchanan (1850 - Clan)</title></circle></a><a href="/variants/s16/db3g1k3db3k3g1db3g1r6w1r6db4y5db1y5g1~x4/"><circle cx="36.8" cy="172.4" r="4" fill="#3465a4"><title>Buchanan Incorrect</title></circle></a><a href="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/"><circle cx="14.0" cy="136.0" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><circle cx="35.7" cy="135.6" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.4" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><circle cx="31.8" cy="148.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="31.8" cy="148.0" r="4" fill="#3465a4"><title>Buchanan (Wilson)</title></circle></a><a href="/variants/s18/y6k1db4k1r8w1r8k1db4k1g6db4g6k1db4k1y6k1~x2/"><circle cx="31.8" cy="148.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="125.9" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s18/g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="32.7" cy="146.7" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3~x4/"><circle cx="14.0" cy="160.8" r="4" fill="#3465a4"><title>Buchanan Old Clan Tartan</title></circle></a><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="27.3" cy="146.4" r="4" fill="#3465a4"><title>Buchanan (1850 - Clan)</title></circle></a><a href="/variants/s16/db3g1k3db3k3g1db3g1r6w1r6db4y5db1y5g1~x4/"><circle cx="36.8" cy="172.3" r="4" fill="#3465a4"><title>Buchanan Incorrect</title></circle></a><a href="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/"><circle cx="14.0" cy="135.9" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><circle cx="35.8" cy="135.5" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><circle cx="31.8" cy="148.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/

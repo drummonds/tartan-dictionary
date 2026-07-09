@@ -1,14 +1,16 @@
 ---
 title: "Scottish Tourist Board (1981) (Corp)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Tourist Board (1981)"
   url: "/setts/db30k2db2k2db2k32g15r2g4r4g30/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db30k2db2k2db2k32g15r2g4r4g30/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGRG](/stripes/bkbkbkgrgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db30k2db2k2db2k32g15r2g4r4g30/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGRG](/stripes/bkbkbkgrgrg/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="188.7" cy="143.6" r="4" fill="#3465a4"><title>Sardar Chadha (Personal)</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.2" cy="127.1" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.6" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s12/k4db2g24r1g2r1g2k20db24k1db2k4~x2/"><circle cx="185.7" cy="107.9" r="4" fill="#3465a4"><title>Jedforest</title></circle></a><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/"><circle cx="189.3" cy="155.3" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.1" cy="140.0" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.7" cy="138.5" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4/"><circle cx="200.5" cy="127.2" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1~x2/"><circle cx="171.4" cy="142.9" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/"><circle cx="171.4" cy="142.9" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><circle cx="185.4" cy="137.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="188.7" cy="143.5" r="4" fill="#3465a4"><title>Sardar Chadha (Personal)</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.3" cy="127.0" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.5" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s12/k4db2g24r1g2r1g2k20db24k1db2k4~x2/"><circle cx="185.7" cy="107.7" r="4" fill="#3465a4"><title>Jedforest</title></circle></a><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/"><circle cx="189.3" cy="155.1" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.1" cy="139.8" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.8" cy="138.4" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4/"><circle cx="200.5" cy="127.1" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1~x2/"><circle cx="171.4" cy="142.8" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/"><circle cx="171.4" cy="142.8" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><circle cx="185.4" cy="137.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/

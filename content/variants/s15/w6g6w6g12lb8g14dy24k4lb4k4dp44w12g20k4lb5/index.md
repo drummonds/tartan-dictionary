@@ -1,14 +1,16 @@
 ---
 title: "Wexford County, Crest Range"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wexford County, Crest Range"
-  url: ""
+  url: "/setts/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/)
-(the same proportion at any scale), whose colour order is pattern [WGWGWGGKWKBWGKW](/stripes/wgwgwggkwkbwgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGWGWGGKWKBWGKW](/stripes/wgwgwggkwkbwgkw/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/"><circle cx="55.0" cy="125.4" r="4" fill="#3465a4"><title>Wexford County Crest (Fashion)</title></circle></a><a href="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/"><circle cx="61.8" cy="123.0" r="4" fill="#3465a4"><title>Kennedy Dress, (Pendleton)</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.3" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s15/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2~x2/"><circle cx="89.8" cy="125.2" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="92.9" cy="132.2" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/"><circle cx="89.2" cy="135.8" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="72.1" cy="143.0" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.3" cy="134.6" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.7" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><circle cx="56.5" cy="124.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/"><circle cx="55.0" cy="125.3" r="4" fill="#3465a4"><title>Wexford County Crest (Fashion)</title></circle></a><a href="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/"><circle cx="61.8" cy="122.9" r="4" fill="#3465a4"><title>Kennedy Dress, (Pendleton)</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.1" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.2" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s15/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2~x2/"><circle cx="89.8" cy="125.0" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="92.9" cy="132.1" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/"><circle cx="89.2" cy="135.7" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="72.1" cy="142.9" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.4" cy="134.5" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.5" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><circle cx="56.5" cy="124.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/

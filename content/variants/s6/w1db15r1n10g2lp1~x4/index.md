@@ -1,14 +1,16 @@
 ---
 title: "Peterson, Oren (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Peterson, Oren (Name)"
-  url: ""
+  url: "/setts/w1db15r1n10g2lp1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1db15r1n10g2lp1/)
-(the same proportion at any scale), whose colour order is pattern [WBRBGW](/stripes/wbrbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w1db15r1n10g2lp1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBRBGW](/stripes/wbrbgw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.8" cy="162.7" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.4" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="229.9" cy="140.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="277.5" cy="152.9" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><circle cx="276.6" cy="130.0" r="4" fill="#3465a4"><title>Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="256.0" cy="155.6" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><a href="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/"><circle cx="239.2" cy="149.9" r="4" fill="#3465a4"><title>Margach, William (Personal)</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="188.4" cy="183.5" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.2" cy="147.6" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.2" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><circle cx="292.8" cy="163.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.9" cy="162.6" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="277.6" cy="152.8" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><circle cx="276.7" cy="129.9" r="4" fill="#3465a4"><title>Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="256.0" cy="155.5" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><a href="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/"><circle cx="239.2" cy="149.8" r="4" fill="#3465a4"><title>Margach, William (Personal)</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="188.4" cy="183.5" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.5" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.1" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><circle cx="292.9" cy="162.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w1db15r1n10g2lp1~x4/

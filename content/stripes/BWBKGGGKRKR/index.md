@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/">Hunnisett, /Edinchip</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/"><img src="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/sett.png" alt="Hunnisett, /Edinchip sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/">Hunnisett /Edinchip Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/"><img src="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/sett.png" alt="Hunnisett /Edinchip Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

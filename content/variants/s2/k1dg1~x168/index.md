@@ -1,14 +1,16 @@
 ---
 title: "MacKillen Hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKillen Hunting"
   url: "/setts/k1dg1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1dg1/)
-(the same proportion at any scale), whose colour order is pattern [GK](/stripes/gk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k1dg1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GK](/stripes/gk/).
 
 Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 

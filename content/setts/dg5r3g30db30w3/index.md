@@ -1,5 +1,12 @@
 ---
 title: "Gamba Tuscany Fife"
-redirect: "/variants/s5/dg5r3g30db30w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gamba Tuscany Fife](/variants/s5/dg5r3g30db30w3~x2/).
+This is the **Gamba Tuscany Fife** sett — one scale-free proportion (`dg5r3g30db30w3`), colour order pattern
+[GRGBW](/stripes/grgbw/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gamba Tuscany Fife](/variants/s5/dg5r3g30db30w3~x2/) ★ | 2012 | ![Gamba Tuscany Fife sett](/variants/s5/dg5r3g30db30w3~x2/sett.png) |

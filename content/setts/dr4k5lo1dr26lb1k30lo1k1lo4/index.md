@@ -1,5 +1,12 @@
 ---
 title: "MacAlister of Skye (Clan?)"
-redirect: "/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacAlister of Skye (Clan?)](/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/).
+This is the **MacAlister of Skye (Clan?)** sett — one scale-free proportion (`dr4k5lo1dr26lb1k30lo1k1lo4`), colour order pattern
+[BKYBWKYKY](/stripes/bkybwkyky/). It is recorded as a single **variant**, below.
+First attested **~1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacAlister of Skye (Clan?)](/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/) ★ | ~1999 | ![MacAlister of Skye (Clan?) sett](/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/sett.png) |

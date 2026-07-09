@@ -1,5 +1,12 @@
 ---
 title: "Hawick Rugby Club"
-redirect: "/variants/s6/db2y1db7w1k7w2~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hawick Rugby Club](/variants/s6/db2y1db7w1k7w2~x6/).
+This is the **Hawick Rugby Club** sett — one scale-free proportion (`db2y1db7w1k7w2`), colour order pattern
+[BGBWKWKWBG](/stripes/bgbwkwkwbg/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Hawick Rugby Club](/variants/s6/db2y1db7w1k7w2~x6/) ★ | 2000 | ![Hawick Rugby Club sett](/variants/s6/db2y1db7w1k7w2~x6/sett.png) |

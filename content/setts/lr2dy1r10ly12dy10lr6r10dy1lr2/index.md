@@ -1,5 +1,12 @@
 ---
 title: "Unidentified Sett"
-redirect: "/variants/s9/lr2dy1r10ly12dy10lr6r10dy1lr2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified Sett](/variants/s9/lr2dy1r10ly12dy10lr6r10dy1lr2~x2/).
+This is the **Unidentified Sett** sett — one scale-free proportion (`lr2dy1r10ly12dy10lr6r10dy1lr2`), colour order pattern
+[YGRYGYRGY](/stripes/ygrygyrgy/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified Sett](/variants/s9/lr2dy1r10ly12dy10lr6r10dy1lr2~x2/) ★ | ~2016 | ![Unidentified Sett sett](/variants/s9/lr2dy1r10ly12dy10lr6r10dy1lr2~x2/sett.png) |

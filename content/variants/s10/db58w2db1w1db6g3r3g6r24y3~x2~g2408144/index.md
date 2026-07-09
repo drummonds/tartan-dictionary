@@ -1,14 +1,16 @@
 ---
 title: "Chinese Scottish District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Chinese Scottish (Corporate)"
   url: "/setts/db58w2db1w1db6g3r3g6r24y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db58w2db1w1db6g3r3g6r24y3/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBGRGRG](/stripes/bwbwbgrgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db58w2db1w1db6g3r3g6r24y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBGRGRG](/stripes/bwbwbgrgrg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2006 The Chinese Scottish tartan was originally created to 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2006 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.1" cy="67.4" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.4" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="345.7" cy="89.7" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.8" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/"><circle cx="366.0" cy="63.1" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.9" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.2" cy="55.8" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="396.1" cy="42.4" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><a href="/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"><circle cx="383.1" cy="102.8" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.2" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><circle cx="379.8" cy="66.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.1" cy="67.2" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.3" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="345.7" cy="89.6" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.6" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/"><circle cx="366.0" cy="62.9" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.7" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.2" cy="55.6" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="396.1" cy="42.2" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><a href="/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"><circle cx="383.1" cy="102.7" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.1" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><circle cx="379.8" cy="66.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/

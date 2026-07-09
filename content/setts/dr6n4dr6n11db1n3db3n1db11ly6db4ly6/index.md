@@ -1,5 +1,12 @@
 ---
 title: "Lysaght"
-redirect: "/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lysaght](/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/).
+This is the **Lysaght** sett — one scale-free proportion (`dr6n4dr6n11db1n3db3n1db11ly6db4ly6`), colour order pattern
+[BBBBBBBBBYBY](/stripes/bbbbbbbbbyby/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Lysaght](/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/) ★ | 2005 | ![Lysaght sett](/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/sett.png) |

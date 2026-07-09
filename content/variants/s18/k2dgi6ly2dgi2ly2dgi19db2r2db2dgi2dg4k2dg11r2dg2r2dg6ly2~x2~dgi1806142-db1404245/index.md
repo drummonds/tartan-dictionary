@@ -1,6 +1,7 @@
 ---
 title: "Harmon Hunting Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Harmon Hunting"
   url: "/tartans/harmon-hunting/"
 - name: "Harmon Hunting Personal Tartan"
-  url: ""
+  url: "/setts/k2dgi6ly2dgi2ly2dgi19db2r2db2dgi2dg4k2dg11r2dg2r2dg6ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2dgi6ly2dgi2ly2dgi19db2r2db2dgi2dg4k2dg11r2dg2r2dg6ly2/)
-(the same proportion at any scale), whose colour order is pattern [KGYGYGBRBGGKGRGRGY](/stripes/kgygygbrbggkgrgrgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2dgi6ly2dgi2ly2dgi19db2r2db2dgi2dg4k2dg11r2dg2r2dg6ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGYGYGBRBGGKGRGRGY](/stripes/kgygygbrbggkgrgrgy/).
 
 Part of the [Harmon Hunting](/tartans/harmon-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/k2g6ly2g2ly2g19db2r2db2g2dg4k2dg11r2dg2r2dg6ly2~x2/"><circle cx="142.0" cy="122.3" r="4" fill="#3465a4"><title>Harmon Hunting (Personal)</title></circle></a><a href="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/"><circle cx="181.1" cy="136.6" r="4" fill="#3465a4"><title>Harmon Hunting</title></circle></a><a href="/variants/s14/y3k3dg2k6g7dg2y3dg2ly3dg5y3b3y20k2~x2~ly2705081/"><circle cx="156.9" cy="129.8" r="4" fill="#3465a4"><title>Stewart Camel Fashion Tartan</title></circle></a><a href="/variants/s11/dg16k6dg16g32k2dy7y2dy7y2dy7t13/"><circle cx="145.1" cy="124.6" r="4" fill="#3465a4"><title>Wagga Wagga</title></circle></a><a href="/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12y2~x2/"><circle cx="140.7" cy="151.7" r="4" fill="#3465a4"><title>McHeadley Society</title></circle></a><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/"><circle cx="179.8" cy="104.7" r="4" fill="#3465a4"><title>Strathmore District Tartan</title></circle></a><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/"><circle cx="141.2" cy="116.0" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s17/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1y2~x2~dg1504144-g2007139/"><circle cx="143.0" cy="163.6" r="4" fill="#3465a4"><title>Redmond (2014)</title></circle></a><a href="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/"><circle cx="151.2" cy="139.2" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><a href="/variants/s11/dg19g5k2t3dg5g3t5k2db3g5w2~x2~t2304245-db1204274/"><circle cx="164.8" cy="153.1" r="4" fill="#3465a4"><title>MacLean, Kenneth, baron of Denboig (Personal)</title></circle></a><circle cx="166.0" cy="129.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/k2g6ly2g2ly2g19db2r2db2g2dg4k2dg11r2dg2r2dg6ly2~x2/"><circle cx="142.0" cy="122.1" r="4" fill="#3465a4"><title>Harmon Hunting (Personal)</title></circle></a><a href="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/"><circle cx="181.1" cy="136.4" r="4" fill="#3465a4"><title>Harmon Hunting</title></circle></a><a href="/variants/s14/y3k3dg2k6g7dg2y3dg2ly3dg5y3b3y20k2~x2~ly2705081/"><circle cx="156.9" cy="129.7" r="4" fill="#3465a4"><title>Stewart Camel Fashion Tartan</title></circle></a><a href="/variants/s11/dg16k6dg16g32k2dy7y2dy7y2dy7t13/"><circle cx="145.1" cy="124.4" r="4" fill="#3465a4"><title>Wagga Wagga</title></circle></a><a href="/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12y2~x2/"><circle cx="140.8" cy="151.6" r="4" fill="#3465a4"><title>McHeadley Society</title></circle></a><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/"><circle cx="179.8" cy="104.5" r="4" fill="#3465a4"><title>Strathmore District Tartan</title></circle></a><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/"><circle cx="141.3" cy="115.8" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s17/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1y2~x2~dg1504144-g2007139/"><circle cx="143.0" cy="163.5" r="4" fill="#3465a4"><title>Redmond (2014)</title></circle></a><a href="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/"><circle cx="151.2" cy="139.1" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><a href="/variants/s11/dg19g5k2t3dg5g3t5k2db3g5w2~x2~t2304245-db1204274/"><circle cx="164.8" cy="152.9" r="4" fill="#3465a4"><title>MacLean, Kenneth, baron of Denboig (Personal)</title></circle></a><circle cx="166.1" cy="129.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/k2dgi6ly2dgi2ly2dgi19db2r2db2dgi2dg4k2dg11r2dg2r2dg6ly2~x2~dgi1806142-db1404245/

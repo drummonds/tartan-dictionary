@@ -1,5 +1,12 @@
 ---
 title: "Renfrew #2"
-redirect: "/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Renfrew #2](/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/).
+This is the **Renfrew #2** sett — one scale-free proportion (`lb50db6lo2db3lb2db3y8dy8db2dy8lb2`), colour order pattern
+[WBYBWBGGBGW](/stripes/wbybwbggbgw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Renfrew #2](/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/) ★ | 2002 | ![Renfrew #2 sett](/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/sett.png) |

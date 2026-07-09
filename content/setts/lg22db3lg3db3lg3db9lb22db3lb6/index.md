@@ -1,5 +1,12 @@
 ---
 title: "Lochearn (Fashion)"
-redirect: "/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lochearn (Fashion)](/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/).
+This is the **Lochearn (Fashion)** sett — one scale-free proportion (`lg22db3lg3db3lg3db9lb22db3lb6`), colour order pattern
+[WBWBYBYBY](/stripes/wbwbybyby/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lochearn (Fashion)](/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/) ★ | 1980 | ![Lochearn (Fashion) sett](/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/sett.png) |

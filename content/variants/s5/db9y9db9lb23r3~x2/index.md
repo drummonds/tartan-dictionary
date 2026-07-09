@@ -1,14 +1,16 @@
 ---
 title: "Tilburg (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Tilburg (District)"
-  url: ""
+  url: "/setts/db9y9db9lb23r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9y9db9lb23r3/)
-(the same proportion at any scale), whose colour order is pattern [BGBWR](/stripes/bgbwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db9y9db9lb23r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWR](/stripes/bgbwr/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db7y1db7lb11r2~x6/"><circle cx="263.4" cy="230.4" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><a href="/variants/s6/r15lb98db72ly25db8w15/"><circle cx="208.0" cy="192.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.1" cy="279.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s5/r15w10db48lb32r6~x2/"><circle cx="193.8" cy="230.9" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.8" cy="242.6" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s5/r10w5db30lb20r3~x4/"><circle cx="210.4" cy="219.1" r="4" fill="#3465a4"><title>Lands of Liberty</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.2" cy="278.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s4/lb6db6g6r1~x2/"><circle cx="140.7" cy="295.3" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="201.2" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.9" cy="210.8" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><circle cx="210.1" cy="251.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db7y1db7lb11r2~x6/"><circle cx="263.4" cy="230.4" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><a href="/variants/s6/r15lb98db72ly25db8w15/"><circle cx="208.0" cy="191.9" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.2" cy="279.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s5/r15w10db48lb32r6~x2/"><circle cx="193.9" cy="230.8" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.9" cy="242.5" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s5/r10w5db30lb20r3~x4/"><circle cx="210.5" cy="219.0" r="4" fill="#3465a4"><title>Lands of Liberty</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.3" cy="277.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s4/lb6db6g6r1~x2/"><circle cx="140.8" cy="295.3" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.6" cy="201.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.9" cy="210.7" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><circle cx="210.1" cy="250.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db9y9db9lb23r3~x2/

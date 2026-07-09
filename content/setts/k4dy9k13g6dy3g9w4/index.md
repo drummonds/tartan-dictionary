@@ -1,5 +1,12 @@
 ---
 title: "Ramsay Hunting Family Tartan"
-redirect: "/variants/s7/k4dy9k13g6dy3g9w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ramsay Hunting Family Tartan](/variants/s7/k4dy9k13g6dy3g9w4~x2/).
+This is the **Ramsay Hunting Family Tartan** sett — one scale-free proportion (`k4dy9k13g6dy3g9w4`), colour order pattern
+[KGKGGGW](/stripes/kgkgggw/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ramsay Hunting Family Tartan](/variants/s7/k4dy9k13g6dy3g9w4~x2/) ★ | ~2003 | ![Ramsay Hunting Family Tartan sett](/variants/s7/k4dy9k13g6dy3g9w4~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "WCWM 3947"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "WCWM 3947"
-  url: ""
+  url: "/setts/n2b30y3b2n16r2g16w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2b30y3b2n16r2g16w2/)
-(the same proportion at any scale), whose colour order is pattern [BBGBBRGW](/stripes/bbgbbrgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n2b30y3b2n16r2g16w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBBRGW](/stripes/bbgbbrgw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg6r2db1r3db16n20w2~x2/"><circle cx="263.4" cy="170.4" r="4" fill="#3465a4"><title>MacCord (Personal)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.9" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><circle cx="267.3" cy="159.5" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><circle cx="340.8" cy="154.6" r="4" fill="#3465a4"><title>Hand (Personal)</title></circle></a><a href="/variants/s10/dg5lo1t4dt18dg2r2dg16db1t32dt3~x2/"><circle cx="308.5" cy="132.4" r="4" fill="#3465a4"><title>Heriot Watt University (Corporate)</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.3" cy="175.6" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/"><circle cx="318.9" cy="216.2" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.2" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.3" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.5" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><circle cx="302.9" cy="179.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg6r2db1r3db16n20w2~x2/"><circle cx="263.4" cy="170.3" r="4" fill="#3465a4"><title>MacCord (Personal)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.8" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><circle cx="267.3" cy="159.4" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><circle cx="340.8" cy="154.5" r="4" fill="#3465a4"><title>Hand (Personal)</title></circle></a><a href="/variants/s10/dg5lo1t4dt18dg2r2dg16db1t32dt3~x2/"><circle cx="308.5" cy="132.3" r="4" fill="#3465a4"><title>Heriot Watt University (Corporate)</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.4" cy="175.5" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/"><circle cx="318.9" cy="216.1" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.1" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.2" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.4" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><circle cx="303.0" cy="179.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n2b30y3b2n16r2g16w2~x2/

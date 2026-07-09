@@ -1,16 +1,18 @@
 ---
 title: "Rangers Football Club #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Rangers Football Club"
   url: "/tartans/rangers-football-club/"
 - name: "Rangers Football Club #2"
-  url: ""
+  url: "/setts/r3db14k12dbi40k12db2k2db2k2db7r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db14k12dbi40k12db2k2db2k2db7r3/)
-(the same proportion at any scale), whose colour order is pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3db14k12dbi40k12db2k2db2k2db7r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
 
 Part of the [Rangers Football Club](/tartans/rangers-football-club/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3db16k12dbi34k12db2k2db2k2db7r3~x2~db0906265-dbi1605267/"><circle cx="222.7" cy="147.5" r="4" fill="#3465a4"><title>Rangers Football Club</title></circle></a><a href="/variants/s11/r3db16k12t34k12db2k2db2k2db7r3~x2/"><circle cx="182.7" cy="138.0" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><a href="/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/"><circle cx="225.7" cy="125.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="206.8" cy="121.4" r="4" fill="#3465a4"><title>Edgar (2014)</title></circle></a><a href="/variants/s11/r3dbi12k12db32k12dbi2k2dbi2k2dbi4r3~dbi1204274-db1106275/"><circle cx="249.3" cy="152.7" r="4" fill="#3465a4"><title>Rangers F. C. Corporate Tartan</title></circle></a><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/"><circle cx="283.2" cy="137.9" r="4" fill="#3465a4"><title>Dawson-Nunes (Personal)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db0805267-dbi1604274/"><circle cx="204.0" cy="185.3" r="4" fill="#3465a4"><title>Merchiston, Castle School</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db1204274-dbi1406275/"><circle cx="216.6" cy="188.8" r="4" fill="#3465a4"><title>Merchiston Castle School Corporate Tartan</title></circle></a><a href="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/"><circle cx="193.9" cy="138.6" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s18/k3dp1n2dp1db6dp1n2dp1k16db16n1dp2n1k6n1dp2n1db3~x2/"><circle cx="237.0" cy="121.6" r="4" fill="#3465a4"><title>Asile</title></circle></a><circle cx="250.9" cy="133.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3db16k12dbi34k12db2k2db2k2db7r3~x2~db0906265-dbi1605267/"><circle cx="222.7" cy="147.4" r="4" fill="#3465a4"><title>Rangers Football Club</title></circle></a><a href="/variants/s11/r3db16k12t34k12db2k2db2k2db7r3~x2/"><circle cx="182.7" cy="137.8" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><a href="/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/"><circle cx="225.7" cy="125.3" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="206.8" cy="121.2" r="4" fill="#3465a4"><title>Edgar (2014)</title></circle></a><a href="/variants/s11/r3dbi12k12db32k12dbi2k2dbi2k2dbi4r3~dbi1204274-db1106275/"><circle cx="249.4" cy="152.6" r="4" fill="#3465a4"><title>Rangers F. C. Corporate Tartan</title></circle></a><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/"><circle cx="283.2" cy="137.8" r="4" fill="#3465a4"><title>Dawson-Nunes (Personal)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db0805267-dbi1604274/"><circle cx="204.1" cy="185.2" r="4" fill="#3465a4"><title>Merchiston, Castle School</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db1204274-dbi1406275/"><circle cx="216.6" cy="188.7" r="4" fill="#3465a4"><title>Merchiston Castle School Corporate Tartan</title></circle></a><a href="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/"><circle cx="193.9" cy="138.4" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s18/k3dp1n2dp1db6dp1n2dp1k16db16n1dp2n1k6n1dp2n1db3~x2/"><circle cx="237.0" cy="121.4" r="4" fill="#3465a4"><title>Asile</title></circle></a><circle cx="250.9" cy="133.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r3db14k12dbi40k12db2k2db2k2db7r3~x2~db0906265-dbi1605267/

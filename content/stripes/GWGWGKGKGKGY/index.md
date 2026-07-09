@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/">Dorcas Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><img src="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/sett.png" alt="Dorcas Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/">Dorcas Check Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><img src="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/sett.png" alt="Dorcas Check Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

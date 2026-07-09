@@ -1,6 +1,7 @@
 ---
 title: "North West Mounted Police (Commemo)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "North West Mounted Police"
   url: "/tartans/north-west-mounted-police/"
 - name: "North West Mounted Police (Commemo)"
-  url: ""
+  url: "/setts/dr44do3lb2g14lb2y4dr4do2dr4y4lb2db12do6dr6y7lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr44do3lb2g14lb2y4dr4do2dr4y4lb2db12do6dr6y7lb2/)
-(the same proportion at any scale), whose colour order is pattern [BBWGWGBBBGWBBBGW](/stripes/bbwgwgbbbgwbbbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr44do3lb2g14lb2y4dr4do2dr4y4lb2db12do6dr6y7lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWGWGBBBGWBBBGW](/stripes/bbwgwgbbbgwbbbgw/).
 
 Part of the [North West Mounted Police](/tartans/north-west-mounted-police/) tartan — the named design grouping this sett with its other cloths.
 
@@ -81,6 +83,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dr44do3w2g14w2y4dr4do2dr4y4w2db12do6dr6y7w2~x2/"><circle cx="277.5" cy="102.2" r="4" fill="#3465a4"><title>North West Mounted Police</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.7" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/"><circle cx="322.4" cy="140.9" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/"><circle cx="292.7" cy="163.6" r="4" fill="#3465a4"><title>Robbie (Stirling) (Personal)</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.2" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><circle cx="271.2" cy="101.4" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/variants/s13/w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2/"><circle cx="270.0" cy="156.1" r="4" fill="#3465a4"><title>Robbie (Commemorative)</title></circle></a><a href="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/"><circle cx="314.6" cy="104.3" r="4" fill="#3465a4"><title>Holyoke St. Patrick's</title></circle></a><a href="/variants/s18/db16dr1db2dr3db1dr9db1dr3db2dr1db6dg3lb3dg5dr28w3dr3w3~x2/"><circle cx="327.9" cy="105.5" r="4" fill="#3465a4"><title>Royal Bahrain (Royal)</title></circle></a><a href="/variants/s16/db1g2db1g3dg6db1g6db2lo5r13dy23lo1dy1lo1dy2lo1~x2~g1903114-dg1806142/"><circle cx="211.4" cy="94.1" r="4" fill="#3465a4"><title>Langermann (Name)</title></circle></a><circle cx="301.2" cy="110.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dr44do3w2g14w2y4dr4do2dr4y4w2db12do6dr6y7w2~x2/"><circle cx="277.5" cy="102.0" r="4" fill="#3465a4"><title>North West Mounted Police</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.6" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/"><circle cx="322.4" cy="140.8" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/"><circle cx="292.7" cy="163.5" r="4" fill="#3465a4"><title>Robbie (Stirling) (Personal)</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.0" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><circle cx="271.3" cy="101.2" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/variants/s13/w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2/"><circle cx="270.1" cy="156.0" r="4" fill="#3465a4"><title>Robbie (Commemorative)</title></circle></a><a href="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/"><circle cx="314.6" cy="104.1" r="4" fill="#3465a4"><title>Holyoke St. Patrick's</title></circle></a><a href="/variants/s18/db16dr1db2dr3db1dr9db1dr3db2dr1db6dg3lb3dg5dr28w3dr3w3~x2/"><circle cx="327.9" cy="105.4" r="4" fill="#3465a4"><title>Royal Bahrain (Royal)</title></circle></a><a href="/variants/s16/db1g2db1g3dg6db1g6db2lo5r13dy23lo1dy1lo1dy2lo1~x2~g1903114-dg1806142/"><circle cx="211.4" cy="93.9" r="4" fill="#3465a4"><title>Langermann (Name)</title></circle></a><circle cx="301.2" cy="109.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/dr44do3lb2g14lb2y4dr4do2dr4y4lb2db12do6dr6y7lb2~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Arbroath Smokie Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Arbroath Smokie Corporate Tartan"
-  url: ""
+  url: "/setts/ly1k45dt23w1dt6r2ly1r2ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly1k45dt23w1dt6r2ly1r2ly1/)
-(the same proportion at any scale), whose colour order is pattern [YKBWBRYRY](/stripes/ykbwbryry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly1k45dt23w1dt6r2ly1r2ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YKBWBRYRY](/stripes/ykbwbryry/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -23,7 +25,7 @@ Earliest known date: 01/01/2005 Designed by Heather Yellowly of the Strathmore W
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/01/2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db10y2dg2w1dg18r1k45r2~x2/"><circle cx="310.6" cy="64.9" r="4" fill="#3465a4"><title>Downs</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="314.9" cy="75.8" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/"><circle cx="336.5" cy="47.5" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/"><circle cx="324.8" cy="27.6" r="4" fill="#3465a4"><title>Gettelman (2016)</title></circle></a><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/"><circle cx="340.9" cy="40.0" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.7" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.7" cy="97.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.3" cy="84.1" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><circle cx="277.1" cy="83.8" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/variants/s9/r4k2w6k2db40k80g10w6r3/"><circle cx="278.5" cy="62.2" r="4" fill="#3465a4"><title>Italian American</title></circle></a><circle cx="337.2" cy="67.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db10y2dg2w1dg18r1k45r2~x2/"><circle cx="310.6" cy="64.7" r="4" fill="#3465a4"><title>Downs</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="314.9" cy="75.6" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/"><circle cx="336.5" cy="47.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/"><circle cx="324.8" cy="27.4" r="4" fill="#3465a4"><title>Gettelman (2016)</title></circle></a><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/"><circle cx="340.9" cy="39.8" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.5" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.7" cy="97.5" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.3" cy="84.0" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><circle cx="277.1" cy="83.6" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/variants/s9/r4k2w6k2db40k80g10w6r3/"><circle cx="278.5" cy="62.1" r="4" fill="#3465a4"><title>Italian American</title></circle></a><circle cx="337.2" cy="66.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/

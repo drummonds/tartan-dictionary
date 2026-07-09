@@ -1,16 +1,18 @@
 ---
 title: "Cultoquhey Hotel Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cultoquhey Hotel"
   url: "/tartans/cultoquhey-hotel/"
 - name: "Cultoquhey Hotel Corporate Tartan"
-  url: ""
+  url: "/setts/r3db22k11dg32ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db22k11dg32ly3/)
-(the same proportion at any scale), whose colour order is pattern [RBKGY](/stripes/rbkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3db22k11dg32ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKGY](/stripes/rbkgy/).
 
 Part of the [Cultoquhey Hotel](/tartans/cultoquhey-hotel/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: circa1990 Designed by Peter MacDonald as a Cook tartan for 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>circa1990 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="196.0" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.3" cy="169.5" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.4" cy="203.8" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.1" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="198.1" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="172.9" cy="217.9" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lb2~x4/"><circle cx="145.6" cy="157.9" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="148.0" cy="158.0" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.7" cy="154.4" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><circle cx="229.2" cy="205.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="196.0" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.4" cy="169.4" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.4" cy="203.7" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.0" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.8" cy="198.1" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="173.0" cy="217.8" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lb2~x4/"><circle cx="145.6" cy="157.8" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="148.1" cy="157.9" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><circle cx="229.3" cy="205.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r3db22k11dg32ly3~x2/

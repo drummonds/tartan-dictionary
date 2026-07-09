@@ -1,5 +1,12 @@
 ---
 title: "Uitwaaien Papi (Personal)"
-redirect: "/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Uitwaaien Papi (Personal)](/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/).
+This is the **Uitwaaien Papi (Personal)** sett — one scale-free proportion (`dr5do8dp13db21dg34dgi55dr3`), colour order pattern
+[BBBBGGB](/stripes/bbbbggb/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Uitwaaien Papi (Personal)](/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/) ★ | 2006 | ![Uitwaaien Papi (Personal) sett](/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/sett.png) |

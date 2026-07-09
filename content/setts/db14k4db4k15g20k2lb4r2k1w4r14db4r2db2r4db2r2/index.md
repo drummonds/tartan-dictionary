@@ -1,5 +1,12 @@
 ---
 title: "Caledonian Society of Prince Edward Island"
-redirect: "/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Caledonian Society of Prince Edward Island](/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/).
+This is the **Caledonian Society of Prince Edward Island** sett — one scale-free proportion (`db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2`), colour order pattern
+[BKBKGKWRKWRBRBRBR](/stripes/bkbkgkwrkwrbrbrbr/). It is recorded as a single **variant**, below.
+First attested **1835**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Caledonian Society of Prince Edward Island](/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/) ★ | 1835 | ![Caledonian Society of Prince Edward Island sett](/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/sett.png) |

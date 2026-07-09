@@ -1,5 +1,12 @@
 ---
 title: "Knox #2"
-redirect: "/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Knox #2](/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/).
+This is the **Knox #2** sett — one scale-free proportion (`dg4r1dg1y1db6y1dbi9y1dbi9w1lb3`), colour order pattern
+[WBGBGBGGRGRGGBGBGBWW](/stripes/wbgbgbggrgrggbgbgbww/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Knox #2](/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/) ★ | 1998 | ![Knox #2 sett](/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Dickson (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dickson (Personal)"
-  url: ""
+  url: "/setts/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/)
-(the same proportion at any scale), whose colour order is pattern [BWBGBKBKGBGRGBW](/stripes/bwbgbkbkgbgrgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBGBKBKGBGRGBW](/stripes/bwbgbkbkgbgrgbw/).
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s17/db15k1g1k1g1k1db5k1w1k1db5k1y1k1g5k1r1~x2/"><circle cx="253.5" cy="76.0" r="4" fill="#3465a4"><title>Cockburn Blue</title></circle></a><a href="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/"><circle cx="286.7" cy="109.0" r="4" fill="#3465a4"><title>World Peace</title></circle></a><a href="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><circle cx="329.7" cy="87.2" r="4" fill="#3465a4"><title>Wupper Pipes &amp; Drums (Corporate)</title></circle></a><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.1" cy="92.9" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><circle cx="325.1" cy="90.4" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><circle cx="240.9" cy="101.9" r="4" fill="#3465a4"><title>Me to You</title></circle></a><a href="/variants/s18/k3b2k14b2k2b20y2b2w2b2r2b20k2b2k14b2k3db3~x2/"><circle cx="206.4" cy="97.4" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/variants/s11/db18k2lb2db9k4g9r4db9lb2k2y1~x4/"><circle cx="240.1" cy="119.6" r="4" fill="#3465a4"><title>Amarillo District Tartan</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/"><circle cx="260.4" cy="112.9" r="4" fill="#3465a4"><title>University of Edinburgh Business Sch</title></circle></a><circle cx="260.0" cy="78.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.6" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s17/db15k1g1k1g1k1db5k1w1k1db5k1y1k1g5k1r1~x2/"><circle cx="253.5" cy="75.9" r="4" fill="#3465a4"><title>Cockburn Blue</title></circle></a><a href="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/"><circle cx="286.8" cy="108.9" r="4" fill="#3465a4"><title>World Peace</title></circle></a><a href="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><circle cx="329.7" cy="87.0" r="4" fill="#3465a4"><title>Wupper Pipes &amp; Drums (Corporate)</title></circle></a><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.1" cy="92.8" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><circle cx="325.1" cy="90.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><circle cx="241.0" cy="101.8" r="4" fill="#3465a4"><title>Me to You</title></circle></a><a href="/variants/s18/k3b2k14b2k2b20y2b2w2b2r2b20k2b2k14b2k3db3~x2/"><circle cx="206.4" cy="97.2" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/variants/s11/db18k2lb2db9k4g9r4db9lb2k2y1~x4/"><circle cx="240.1" cy="119.4" r="4" fill="#3465a4"><title>Amarillo District Tartan</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/"><circle cx="260.4" cy="112.7" r="4" fill="#3465a4"><title>University of Edinburgh Business Sch</title></circle></a><circle cx="260.0" cy="78.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/

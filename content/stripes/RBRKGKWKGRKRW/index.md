@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r3db9r2k7y2k2w2k2g6r5k2r2w2/">Prince Albert #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r3db9r2k7y2k2w2k2g6r5k2r2w2/"><img src="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/sett.png" alt="Prince Albert #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r3db9r2k7y2k2w2k2g6r5k2r2w2/">Prince Albert #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r3db9r2k7y2k2w2k2g6r5k2r2w2/"><img src="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/sett.png" alt="Prince Albert #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

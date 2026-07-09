@@ -340,7 +340,7 @@ weight: 15
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Gayre, dress](/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/) | weddslist |
+| 0.07 | [Gayre Dress Clan Tartan](/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/) | house-of-tartan |
 
 ### KWKWKWKWKWKWBWR
 <a class="pat" href="/stripes/kwkwkwkwkwkwbwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KWKWKWKWKWKWBWR</span></a>
@@ -354,7 +354,7 @@ weight: 15
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.01 | [Blackcraig](/variants/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/) | weddslist |
+| 0.01 | [Blackcraig Family Tartan](/variants/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/) | house-of-tartan |
 
 ### KWRKWKRKGKWKRKW
 <a class="pat" href="/stripes/kwrkwkrkgkwkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KWRKWKRKGKWKRKW</span></a>
@@ -655,7 +655,7 @@ weight: 15
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [MacPherson Dress](/variants/s15/w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2~x2/) | register-of-tartans |
+| 0.07 | [MacPherson Dress Clan Tartan](/variants/s15/w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2~x2/) | house-of-tartan |
 
 ### RKWRWRWRWRWKBKW
 <a class="pat" href="/stripes/rkwrwrwrwrwkbkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKWRWRWRWRWKBKW</span></a>
@@ -802,7 +802,7 @@ weight: 15
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Stuart/Stewart Dress #2](/variants/s15/w16db3w8k3w3k6y2k2w2k2g7r4k2r2w2~x2/) | register-of-tartans |
+| 0.07 | [Stewart Dress Artifact Tartan](/variants/s15/w16db3w8k3w3k6y2k2w2k2g7r4k2r2w2~x2/) | house-of-tartan |
 
 ### WGBGBGGGGGBGGGW
 <a class="pat" href="/stripes/wgbgbgggggbgggw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WGBGBGGGGGBGGGW</span></a>

@@ -2,13 +2,13 @@
 title: "Shepherd"
 date: 2023-03-18
 ---
-The **Shepherd** tartan is one sett proportion (`k1w1`) recorded at 5 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[KW](/stripes/kw/); each scale below is its own sett page. First attested **~260**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Shepherd** sett — one scale-free proportion (`k1w1`), colour order pattern
+[KW](/stripes/kw/). It is recorded as **5 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~260**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×6 | [Shepherd Check (Universal)](/variants/s2/k1w1~x6/) ★ | ~260 | ![Shepherd Check (Universal) sett](/variants/s2/k1w1~x6/sett.png) |
 | ×1 | [Shepherd](/variants/s2/k1w1/) | ~2016 | ![Shepherd sett](/variants/s2/k1w1/sett.png) |

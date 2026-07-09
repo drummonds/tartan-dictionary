@@ -1,5 +1,12 @@
 ---
 title: "MacNab (Crimson)"
-redirect: "/variants/s7/g28r7dr7g14dr7r48k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacNab (Crimson)](/variants/s7/g28r7dr7g14dr7r48k4~x2/).
+This is the **MacNab (Crimson)** sett — one scale-free proportion (`g28r7dr7g14dr7r48k4`), colour order pattern
+[GRBGBRK](/stripes/grbgbrk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacNab (Crimson)](/variants/s7/g28r7dr7g14dr7r48k4~x2/) ★ | ~2016 | ![MacNab (Crimson) sett](/variants/s7/g28r7dr7g14dr7r48k4~x2/sett.png) |

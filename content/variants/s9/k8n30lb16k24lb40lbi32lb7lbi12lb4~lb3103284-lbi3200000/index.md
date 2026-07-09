@@ -1,14 +1,16 @@
 ---
 title: "Manderson #1 (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Manderson #1 (Personal)"
-  url: ""
+  url: "/setts/k8n30lb16k24lb40lbi32lb7lbi12lb4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8n30lb16k24lb40lbi32lb7lbi12lb4/)
-(the same proportion at any scale), whose colour order is pattern [KBWKWWWWW](/stripes/kbwkwwwww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k8n30lb16k24lb40lbi32lb7lbi12lb4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBWKWWWWW](/stripes/kbwkwwwww/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><circle cx="26.6" cy="205.1" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><circle cx="18.9" cy="206.3" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s8/r4dy2lb15y2k14w14k2w4~x2/"><circle cx="57.4" cy="165.7" r="4" fill="#3465a4"><title>Culloden - 2000 (Fashion)</title></circle></a><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="66.4" cy="211.4" r="4" fill="#3465a4"><title>Edinburgh, Military Tattoo dress</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.6" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/"><circle cx="44.4" cy="123.5" r="4" fill="#3465a4"><title>Arisaig NS Canada</title></circle></a><a href="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/"><circle cx="84.8" cy="161.5" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="72.1" cy="143.0" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><circle cx="27.1" cy="166.5" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><a href="/variants/s8/k6w11lb11r13db17w10k2w4~x2/"><circle cx="65.9" cy="211.2" r="4" fill="#3465a4"><title>Edinburgh Tatttoo Dress (Corporate)</title></circle></a><circle cx="47.1" cy="179.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><circle cx="26.6" cy="205.1" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><circle cx="18.9" cy="206.2" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s8/r4dy2lb15y2k14w14k2w4~x2/"><circle cx="57.4" cy="165.7" r="4" fill="#3465a4"><title>Culloden - 2000 (Fashion)</title></circle></a><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="66.4" cy="211.3" r="4" fill="#3465a4"><title>Edinburgh, Military Tattoo dress</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.5" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/"><circle cx="44.4" cy="123.4" r="4" fill="#3465a4"><title>Arisaig NS Canada</title></circle></a><a href="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/"><circle cx="84.8" cy="161.4" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="72.1" cy="142.9" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><circle cx="27.2" cy="166.4" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><a href="/variants/s8/k6w11lb11r13db17w10k2w4~x2/"><circle cx="65.9" cy="211.1" r="4" fill="#3465a4"><title>Edinburgh Tatttoo Dress (Corporate)</title></circle></a><circle cx="47.1" cy="179.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k8n30lb16k24lb40lbi32lb7lbi12lb4~lb3103284-lbi3200000/

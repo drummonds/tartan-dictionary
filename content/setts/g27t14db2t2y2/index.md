@@ -1,5 +1,12 @@
 ---
 title: "Irving of Bonshaw Clan/Family Tartan"
-redirect: "/variants/s5/g27t14db2t2y2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Irving of Bonshaw Clan/Family Tartan](/variants/s5/g27t14db2t2y2~x4/).
+This is the **Irving of Bonshaw Clan/Family Tartan** sett — one scale-free proportion (`g27t14db2t2y2`), colour order pattern
+[GBBBG](/stripes/gbbbg/). It is recorded as a single **variant**, below.
+First attested **~1992**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Irving of Bonshaw Clan/Family Tartan](/variants/s5/g27t14db2t2y2~x4/) ★ | ~1992 | ![Irving of Bonshaw Clan/Family Tartan sett](/variants/s5/g27t14db2t2y2~x4/sett.png) |

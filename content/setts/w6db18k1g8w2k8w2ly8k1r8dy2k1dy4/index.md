@@ -1,5 +1,12 @@
 ---
 title: "Mozambique"
-redirect: "/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mozambique](/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/).
+This is the **Mozambique** sett — one scale-free proportion (`w6db18k1g8w2k8w2ly8k1r8dy2k1dy4`), colour order pattern
+[GKGRKYWKWGKBW](/stripes/gkgrkywkwgkbw/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mozambique](/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/) ★ | 2007 | ![Mozambique sett](/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/sett.png) |

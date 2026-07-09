@@ -2,13 +2,13 @@
 title: "Hodgkinson"
 date: 2023-03-18
 ---
-The **Hodgkinson** tartan is one sett proportion (`lb5y5db12g1db1r1db1w2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[WBRBGBGW](/stripes/wbrbgbgw/); each scale below is its own sett page. First attested **2002**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Hodgkinson** sett — one scale-free proportion (`lb5y5db12g1db1r1db1w2`), colour order pattern
+[WBRBGBGW](/stripes/wbrbgbgw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1983**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×4 | [Hodgkinson](/variants/s8/lb5y5db12g1db1r1db1w2~x4/) ★ | 2002 | ![Hodgkinson sett](/variants/s8/lb5y5db12g1db1r1db1w2~x4/sett.png) |
-| ×2 | [Yorkshire, C.C.C.](/variants/s8/lb5y5db12g1db1r1db1w2~x2/) | ~2016 | ![Yorkshire, C.C.C. sett](/variants/s8/lb5y5db12g1db1r1db1w2~x2/sett.png) |
+| ×2 | [Yorkshire C.C.C. Corporate Tartan](/variants/s8/lb5y5db12g1db1r1db1w2~x2/) ★ | 1983 | ![Yorkshire C.C.C. Corporate Tartan sett](/variants/s8/lb5y5db12g1db1r1db1w2~x2/sett.png) |
+| ×4 | [Hodgkinson](/variants/s8/lb5y5db12g1db1r1db1w2~x4/) | 2002 | ![Hodgkinson sett](/variants/s8/lb5y5db12g1db1r1db1w2~x4/sett.png) |

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r2k1db8k8g8k1lb2/">Argyll</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r2k1db8k8g8k1lb2/"><img src="/variants/s7/r2k1db8k8g8k1lb2~x2/sett.png" alt="Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/r2k1db8k8g8k1w2/">Campbell Cawdor</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/r2k1db8k8g8k1w2/"><img src="/variants/s7/r2k1db8k8g8k1w2/sett.png" alt="Campbell Cawdor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r2k1db8k8g8k1lb2/">Campbell of Cawdor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r2k1db8k8g8k1lb2/"><img src="/variants/s7/r2k1db8k8g8k1lb2~x2/sett.png" alt="Campbell of Cawdor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

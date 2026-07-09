@@ -1,5 +1,14 @@
 ---
 title: "Cunningham"
-redirect: "/variants/s7/k3r1k30r28k1r1w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cunningham](/variants/s7/k3r1k30r28k1r1w3~x2/).
+This is the **Cunningham** sett — one scale-free proportion (`k3r1k30r28k1r1w3`), colour order pattern
+[KRKRKRW](/stripes/krkrkrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Cunningham](/tartans/cunningham/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cunningham](/variants/s7/k3r1k30r28k1r1w3~x2/) ★ | ~2016 | ![Cunningham sett](/variants/s7/k3r1k30r28k1r1w3~x2/sett.png) |

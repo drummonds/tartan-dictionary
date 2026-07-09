@@ -1,14 +1,16 @@
 ---
 title: "Unknown"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unknown"
-  url: ""
+  url: "/setts/n3w1n1w1n2w3n14db2n2db32r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n3w1n1w1n2w3n14db2n2db32r2/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n3w1n1w1n2w3n14db2n2db32r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/"><circle cx="320.7" cy="101.0" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.2" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/"><circle cx="405.8" cy="97.0" r="4" fill="#3465a4"><title>Fred Perry</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.9" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.4" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="299.6" cy="135.0" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/variants/s13/w2r5db4g8db40r5w2r5db4g8db4r5w2~x2/"><circle cx="310.2" cy="119.0" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/variants/s11/db6w2db2w2db4w6db28b4db4b45r4/"><circle cx="315.2" cy="133.3" r="4" fill="#3465a4"><title>Edinburgh, '86</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.8" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/"><circle cx="318.8" cy="89.3" r="4" fill="#3465a4"><title>St George</title></circle></a><circle cx="371.7" cy="107.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/"><circle cx="320.7" cy="100.9" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.0" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/"><circle cx="405.8" cy="96.8" r="4" fill="#3465a4"><title>Fred Perry</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.7" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.3" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="299.6" cy="134.8" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/variants/s13/w2r5db4g8db40r5w2r5db4g8db4r5w2~x2/"><circle cx="310.2" cy="118.9" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/variants/s11/db6w2db2w2db4w6db28b4db4b45r4/"><circle cx="315.2" cy="133.2" r="4" fill="#3465a4"><title>Edinburgh, '86</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.6" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/"><circle cx="318.8" cy="89.2" r="4" fill="#3465a4"><title>St George</title></circle></a><circle cx="371.7" cy="107.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n3w1n1w1n2w3n14db2n2db32r2~x2/

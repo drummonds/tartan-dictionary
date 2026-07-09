@@ -1,16 +1,18 @@
 ---
 title: "MacFarlane, hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacFarlane Hunting"
   url: "/tartans/macfarlane-hunting/"
 - name: "MacFarlane, hunting"
-  url: ""
+  url: "/setts/g64k3g20w2r3k2r3w2g2db18k2r4w2g3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g64k3g20w2r3k2r3w2g2db18k2r4w2g3/)
-(the same proportion at any scale), whose colour order is pattern [GKGWRKRWGBKRWG](/stripes/gkgwrkrwgbkrwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g64k3g20w2r3k2r3w2g2db18k2r4w2g3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGWRKRWGBKRWG](/stripes/gkgwrkrwgbkrwg/).
 
 Part of the [MacFarlane Hunting](/tartans/macfarlane-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.6" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/"><circle cx="343.5" cy="57.3" r="4" fill="#3465a4"><title>Sillars (Name)</title></circle></a><a href="/variants/s10/y1k1b1g30k1g2k2g1b10w1~x2/"><circle cx="385.4" cy="81.2" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.4" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><circle cx="345.6" cy="101.1" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><a href="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/"><circle cx="393.6" cy="70.6" r="4" fill="#3465a4"><title>Stirling Castle (Corporate)</title></circle></a><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/"><circle cx="382.2" cy="67.4" r="4" fill="#3465a4"><title>Murphy and his Gang (Phoenix Arizona) (Personal)</title></circle></a><a href="/variants/s12/g70db3k9w4k4dr4k3db12g9k4g4y4~x2/"><circle cx="307.6" cy="64.0" r="4" fill="#3465a4"><title>Canmore Highland Games</title></circle></a><a href="/variants/s12/g70db3k9w4k4dp4k3db12g9k4g4y4~x2/"><circle cx="307.1" cy="63.8" r="4" fill="#3465a4"><title>Canmore Highland Games (Corporate)</title></circle></a><a href="/variants/s12/g32lb2k7y1k1w1k2r7g5k1g3w1~x2/"><circle cx="305.5" cy="49.3" r="4" fill="#3465a4"><title>Stuart/Stewart (Variant)</title></circle></a><circle cx="375.0" cy="58.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.4" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/"><circle cx="343.5" cy="57.1" r="4" fill="#3465a4"><title>Sillars (Name)</title></circle></a><a href="/variants/s10/y1k1b1g30k1g2k2g1b10w1~x2/"><circle cx="385.4" cy="81.1" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.2" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><circle cx="345.6" cy="100.9" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><a href="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/"><circle cx="393.6" cy="70.4" r="4" fill="#3465a4"><title>Stirling Castle (Corporate)</title></circle></a><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/"><circle cx="382.2" cy="67.2" r="4" fill="#3465a4"><title>Murphy and his Gang (Phoenix Arizona) (Personal)</title></circle></a><a href="/variants/s12/g70db3k9w4k4dr4k3db12g9k4g4y4~x2/"><circle cx="307.6" cy="63.8" r="4" fill="#3465a4"><title>Canmore Highland Games</title></circle></a><a href="/variants/s12/g70db3k9w4k4dp4k3db12g9k4g4y4~x2/"><circle cx="307.1" cy="63.6" r="4" fill="#3465a4"><title>Canmore Highland Games (Corporate)</title></circle></a><a href="/variants/s12/g32lb2k7y1k1w1k2r7g5k1g3w1~x2/"><circle cx="305.5" cy="49.1" r="4" fill="#3465a4"><title>Stuart/Stewart (Variant)</title></circle></a><circle cx="375.0" cy="58.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/g64k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/

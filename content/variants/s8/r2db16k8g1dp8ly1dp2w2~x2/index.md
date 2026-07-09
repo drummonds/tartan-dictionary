@@ -1,14 +1,16 @@
 ---
 title: "Freemasons' Universal"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Freemasons' Universal"
-  url: ""
+  url: "/setts/r2db16k8g1dp8ly1dp2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2db16k8g1dp8ly1dp2w2/)
-(the same proportion at any scale), whose colour order is pattern [RBKGBYBW](/stripes/rbkgbybw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2db16k8g1dp8ly1dp2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKGBYBW](/stripes/rbkgbybw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/"><circle cx="163.3" cy="122.3" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/variants/s8/r4n10k9dg2k9db33ki7g4~x2~ki0604259/"><circle cx="166.2" cy="125.3" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.2" cy="125.2" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s9/db40r4k16w3dy8dr4dy3dr8k10~x2/"><circle cx="176.1" cy="129.7" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s9/db1w2t12k2db2k2dp15db2y1~x2/"><circle cx="167.6" cy="120.7" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="160.0" cy="124.7" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="180.1" cy="91.6" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/variants/s9/k3dp16g5dp3b2dp2k12db23w2~x2/"><circle cx="147.1" cy="148.4" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="193.3" cy="109.4" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/"><circle cx="141.5" cy="112.2" r="4" fill="#3465a4"><title>Colorado American District Tartan</title></circle></a><circle cx="145.8" cy="114.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/"><circle cx="163.4" cy="122.2" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/variants/s8/r4n10k9dg2k9db33ki7g4~x2~ki0604259/"><circle cx="166.2" cy="125.2" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.3" cy="125.1" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s9/db40r4k16w3dy8dr4dy3dr8k10~x2/"><circle cx="176.1" cy="129.6" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s9/db1w2t12k2db2k2dp15db2y1~x2/"><circle cx="167.6" cy="120.5" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="160.0" cy="124.6" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="180.2" cy="91.5" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/variants/s9/k3dp16g5dp3b2dp2k12db23w2~x2/"><circle cx="147.1" cy="148.3" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="193.3" cy="109.2" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/"><circle cx="141.5" cy="112.1" r="4" fill="#3465a4"><title>Colorado American District Tartan</title></circle></a><circle cx="145.8" cy="114.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r2db16k8g1dp8ly1dp2w2~x2/

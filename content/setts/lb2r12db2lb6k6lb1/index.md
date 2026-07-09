@@ -2,16 +2,16 @@
 title: "MacTavish"
 date: 2023-03-18
 ---
-The **MacTavish** tartan is one sett proportion (`lb2r12db2lb6k6lb1`) recorded at 3 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[WKWBRW](/stripes/wkwbrw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacTavish** sett — one scale-free proportion (`lb2r12db2lb6k6lb1`), colour order pattern
+[WKWBRW](/stripes/wkwbrw/). It is recorded as **3 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1906**.
 
-Part of the [MacTavish](/tartans/mactavish/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacTavish](/tartans/mactavish/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [MacTavish](/variants/s6/lb2r12db2lb6k6lb1/) ★ | ~2016 | ![MacTavish sett](/variants/s6/lb2r12db2lb6k6lb1/sett.png) |
-| ×2 | [MacTavish](/variants/s6/lb2r12db2lb6k6lb1~x2/) | ~2016 | ![MacTavish sett](/variants/s6/lb2r12db2lb6k6lb1~x2/sett.png) |
+| ×2 | [MacTavish Thomson Clan Tartan](/variants/s6/lb2r12db2lb6k6lb1~x2/) ★ | 1906 | ![MacTavish Thomson Clan Tartan sett](/variants/s6/lb2r12db2lb6k6lb1~x2/sett.png) |
+| ×1 | [MacTavish](/variants/s6/lb2r12db2lb6k6lb1/) | ~2016 | ![MacTavish sett](/variants/s6/lb2r12db2lb6k6lb1/sett.png) |
 | ×4 | [Thompson/Thomson/MacTavish](/variants/s6/lb2r12db2lb6k6lb1~x4/) | ~2016 | ![Thompson/Thomson/MacTavish sett](/variants/s6/lb2r12db2lb6k6lb1~x4/sett.png) |

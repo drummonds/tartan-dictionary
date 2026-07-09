@@ -1,5 +1,12 @@
 ---
 title: "Carmen Lau (Hong Kong) (Personal)"
-redirect: "/variants/s7/y8k3b2db1w6g12db2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Carmen Lau (Hong Kong) (Personal)](/variants/s7/y8k3b2db1w6g12db2~x2/).
+This is the **Carmen Lau (Hong Kong) (Personal)** sett — one scale-free proportion (`y8k3b2db1w6g12db2`), colour order pattern
+[BGWBBKG](/stripes/bgwbbkg/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Carmen Lau (Hong Kong) (Personal)](/variants/s7/y8k3b2db1w6g12db2~x2/) ★ | 2011 | ![Carmen Lau (Hong Kong) (Personal) sett](/variants/s7/y8k3b2db1w6g12db2~x2/sett.png) |

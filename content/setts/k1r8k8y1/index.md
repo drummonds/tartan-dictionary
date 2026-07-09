@@ -2,13 +2,13 @@
 title: "Wallace"
 date: 2023-03-18
 ---
-The **Wallace** tartan is one sett proportion (`k1r8k8y1`) recorded at 4 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GKRK](/stripes/gkrk/); each scale below is its own sett page. First attested **1800**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Wallace** sett — one scale-free proportion (`k1r8k8y1`), colour order pattern
+[GKRK](/stripes/gkrk/). It is recorded as **4 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1800**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×6 | [Wallace](/variants/s4/k1r8k8y1~x6/) ★ | 1800 | ![Wallace sett](/variants/s4/k1r8k8y1~x6/sett.png) |
 | ×1 | [Wallace](/variants/s4/k1r8k8y1/) | ~2016 | ![Wallace sett](/variants/s4/k1r8k8y1/sett.png) |

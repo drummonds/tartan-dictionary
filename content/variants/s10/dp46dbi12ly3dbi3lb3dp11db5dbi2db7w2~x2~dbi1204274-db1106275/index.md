@@ -1,14 +1,16 @@
 ---
 title: "Diamond Jubilee (Lochcarron) (Comm.)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Diamond Jubilee (Lochcarron) (Comm.)"
-  url: ""
+  url: "/setts/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2/)
-(the same proportion at any scale), whose colour order is pattern [BBYBWBBBBW](/stripes/bbybwbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBYBWBBBBW](/stripes/bbybwbbbbw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

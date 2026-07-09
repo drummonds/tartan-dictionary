@@ -1,5 +1,12 @@
 ---
 title: "Longniddry Burgundy (Dance)"
-redirect: "/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Longniddry Burgundy (Dance)](/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/).
+This is the **Longniddry Burgundy (Dance)** sett — one scale-free proportion (`dr42ri2w2ri2dr5r12w32dr4`), colour order pattern
+[BRWRBRWB](/stripes/brwrbrwb/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Longniddry Burgundy (Dance)](/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/) ★ | 2002 | ![Longniddry Burgundy (Dance) sett](/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/sett.png) |

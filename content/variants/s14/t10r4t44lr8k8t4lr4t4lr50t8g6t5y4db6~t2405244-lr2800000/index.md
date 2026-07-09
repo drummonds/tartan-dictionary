@@ -1,14 +1,16 @@
 ---
 title: "RAF Kinloss (Military)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "RAF Kinloss (Military)"
-  url: ""
+  url: "/setts/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBYBYBKYBRB](/stripes/bgbgbybybkybrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBYBYBKYBRB](/stripes/bgbgbybybkybrb/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6~dt1602194-b2501240/"><circle cx="204.4" cy="81.7" r="4" fill="#3465a4"><title>Causeway, The</title></circle></a><a href="/variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/"><circle cx="307.1" cy="139.2" r="4" fill="#3465a4"><title>Los Angeles District Tartan</title></circle></a><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/"><circle cx="270.2" cy="127.4" r="4" fill="#3465a4"><title>Frogaletto (Personal)</title></circle></a><a href="/variants/s14/t18k1r1w1r4db4t4g4r1g1r1g1r1g1~x4~t2502222-db1406275/"><circle cx="267.3" cy="91.6" r="4" fill="#3465a4"><title>Hill 70</title></circle></a><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/"><circle cx="152.5" cy="128.6" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="236.2" cy="114.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6~dt1602194-b2501240/"><circle cx="204.4" cy="81.6" r="4" fill="#3465a4"><title>Causeway, The</title></circle></a><a href="/variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/"><circle cx="307.1" cy="139.1" r="4" fill="#3465a4"><title>Los Angeles District Tartan</title></circle></a><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/"><circle cx="270.2" cy="127.2" r="4" fill="#3465a4"><title>Frogaletto (Personal)</title></circle></a><a href="/variants/s14/t18k1r1w1r4db4t4g4r1g1r1g1r1g1~x4~t2502222-db1406275/"><circle cx="267.3" cy="91.5" r="4" fill="#3465a4"><title>Hill 70</title></circle></a><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/"><circle cx="152.5" cy="128.5" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="236.2" cy="114.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6~t2405244-lr2800000/

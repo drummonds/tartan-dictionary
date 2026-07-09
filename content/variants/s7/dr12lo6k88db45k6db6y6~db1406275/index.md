@@ -1,14 +1,16 @@
 ---
 title: "City of Rome Pipe Band"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Rome Pipe Band"
   url: "/setts/dr12lo6k88db45k6db6y6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr12lo6k88db45k6db6y6/)
-(the same proportion at any scale), whose colour order is pattern [BYKBKBG](/stripes/bykbkbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr12lo6k88db45k6db6y6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYKBKBG](/stripes/bykbkbg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr12lo6k88db45k6db6y6/"><circle cx="295.7" cy="136.3" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.6" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1lo1~x4/"><circle cx="267.6" cy="117.0" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="309.8" cy="154.2" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="270.7" cy="188.1" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.8" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="265.9" cy="120.7" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.5" cy="151.4" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.6" cy="131.7" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><circle cx="290.8" cy="133.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr12lo6k88db45k6db6y6/"><circle cx="295.8" cy="136.1" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.0" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.4" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1lo1~x4/"><circle cx="267.6" cy="116.8" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="309.9" cy="154.1" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="270.8" cy="188.0" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="265.9" cy="120.5" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.6" cy="151.3" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.7" cy="131.6" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><circle cx="290.9" cy="133.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr12lo6k88db45k6db6y6~db1406275/

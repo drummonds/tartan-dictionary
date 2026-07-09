@@ -1,16 +1,18 @@
 ---
 title: "Drambuie Hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Drambuie Hunting"
   url: "/tartans/drambuie-hunting/"
 - name: "Drambuie Hunting"
-  url: ""
+  url: "/setts/ly6do36k48r4k5lyi6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly6do36k48r4k5lyi6/)
-(the same proportion at any scale), whose colour order is pattern [YBKRKY](/stripes/ybkrky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly6do36k48r4k5lyi6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YBKRKY](/stripes/ybkrky/).
 
 Part of the [Drambuie Hunting](/tartans/drambuie-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o6do36k48r4k5y6/"><circle cx="257.7" cy="159.7" r="4" fill="#3465a4"><title>Drambuie hunting</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="216.2" cy="147.9" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.6" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="241.3" cy="149.6" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="154.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="227.3" cy="154.7" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/"><circle cx="325.8" cy="158.1" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><a href="/variants/s7/k62db15t15dy20ly5db5k15~x2/"><circle cx="242.6" cy="154.0" r="4" fill="#3465a4"><title>Black Raven (Fashion)</title></circle></a><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><circle cx="232.7" cy="155.9" r="4" fill="#3465a4"><title>de Meuron (Neuchâtel) Dress, The</title></circle></a><circle cx="244.6" cy="155.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o6do36k48r4k5y6/"><circle cx="257.8" cy="159.6" r="4" fill="#3465a4"><title>Drambuie hunting</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="216.3" cy="147.8" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.5" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="241.4" cy="149.4" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="154.0" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="227.3" cy="154.6" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/"><circle cx="325.8" cy="158.0" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><a href="/variants/s7/k62db15t15dy20ly5db5k15~x2/"><circle cx="242.7" cy="153.9" r="4" fill="#3465a4"><title>Black Raven (Fashion)</title></circle></a><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><circle cx="232.7" cy="155.8" r="4" fill="#3465a4"><title>de Meuron (Neuchâtel) Dress, The</title></circle></a><circle cx="244.7" cy="155.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/

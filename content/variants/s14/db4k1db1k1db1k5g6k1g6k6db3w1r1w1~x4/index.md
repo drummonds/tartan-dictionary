@@ -1,14 +1,16 @@
 ---
 title: "Gemmell Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gemmell Clan Tartan"
-  url: ""
+  url: "/setts/db4k1db1k1db1k5g6k1g6k6db3w1r1w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k1db1k1db1k5g6k1g6k6db3w1r1w1/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKBWRW](/stripes/bkbkbkgkgkbwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4k1db1k1db1k5g6k1g6k6db3w1r1w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKBWRW](/stripes/bkbkbkgkgkbwrw/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell a
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2001 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="104.9" cy="178.0" r="4" fill="#3465a4"><title>MacEwen/MacEwan</title></circle></a><a href="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/"><circle cx="69.4" cy="163.4" r="4" fill="#3465a4"><title>MacLeods Highlanders</title></circle></a><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/"><circle cx="101.8" cy="169.8" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/variants/s13/db12k2r2k2r2k12g11y2g11k12db11k2r2~x2/"><circle cx="91.8" cy="176.8" r="4" fill="#3465a4"><title>Black Watch, Plaid of Pipers...</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="107.9" cy="149.4" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><circle cx="107.9" cy="149.4" r="4" fill="#3465a4"><title>Stephenson Hunting Tartan</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="154.1" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><circle cx="85.0" cy="183.0" r="4" fill="#3465a4"><title>Terre D'Ecosse</title></circle></a><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><circle cx="107.5" cy="179.6" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="122.4" cy="165.9" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><circle cx="89.8" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="105.0" cy="177.9" r="4" fill="#3465a4"><title>MacEwen/MacEwan</title></circle></a><a href="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/"><circle cx="69.4" cy="163.3" r="4" fill="#3465a4"><title>MacLeods Highlanders</title></circle></a><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/"><circle cx="101.8" cy="169.7" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/variants/s13/db12k2r2k2r2k12g11y2g11k12db11k2r2~x2/"><circle cx="91.8" cy="176.7" r="4" fill="#3465a4"><title>Black Watch, Plaid of Pipers...</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="107.9" cy="149.3" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><circle cx="107.9" cy="149.3" r="4" fill="#3465a4"><title>Stephenson Hunting Tartan</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="153.9" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><circle cx="85.0" cy="182.9" r="4" fill="#3465a4"><title>Terre D'Ecosse</title></circle></a><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><circle cx="107.5" cy="179.5" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="122.4" cy="165.8" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><circle cx="89.8" cy="170.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/

@@ -1,5 +1,12 @@
 ---
 title: "McGlynn"
-redirect: "/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McGlynn](/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/).
+This is the **McGlynn** sett — one scale-free proportion (`g18db3g3db3g2db8r23db2r4g2`), colour order pattern
+[GBGBGBRBRG](/stripes/gbgbgbrbrg/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McGlynn](/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/) ★ | 2003 | ![McGlynn sett](/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/sett.png) |

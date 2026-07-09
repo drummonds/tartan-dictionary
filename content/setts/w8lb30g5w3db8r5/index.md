@@ -1,5 +1,12 @@
 ---
 title: "Roseberry"
-redirect: "/variants/s6/w8lb30g5w3db8r5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Roseberry](/variants/s6/w8lb30g5w3db8r5/).
+This is the **Roseberry** sett — one scale-free proportion (`w8lb30g5w3db8r5`), colour order pattern
+[RBWGWW](/stripes/rbwgww/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Roseberry](/variants/s6/w8lb30g5w3db8r5/) ★ | 2009 | ![Roseberry sett](/variants/s6/w8lb30g5w3db8r5/sett.png) |

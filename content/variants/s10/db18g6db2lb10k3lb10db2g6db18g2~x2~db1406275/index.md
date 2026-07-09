@@ -1,14 +1,16 @@
 ---
 title: "Crombie House Check Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Crombie House Check Corporate Tartan"
-  url: ""
+  url: "/setts/db18g6db2lb10k3lb10db2g6db18g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18g6db2lb10k3lb10db2g6db18g2/)
-(the same proportion at any scale), whose colour order is pattern [BGBWKWBGBG](/stripes/bgbwkwbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db18g6db2lb10k3lb10db2g6db18g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWKWBGBG](/stripes/bgbwkwbgbg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 1997 A Corporate tartan for a general merchandising com
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1997 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n16k4w2k4n6b11n2b16~x2/"><circle cx="224.4" cy="216.5" r="4" fill="#3465a4"><title>Sidney, (Nova Scotia)</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.9" cy="208.5" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s8/db20w3db3w3db3w3k5y10~x2/"><circle cx="200.2" cy="186.9" r="4" fill="#3465a4"><title>Kile</title></circle></a><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/"><circle cx="268.0" cy="159.8" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4/"><circle cx="219.3" cy="147.7" r="4" fill="#3465a4"><title>Roberts (Welsh Name)</title></circle></a><a href="/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2~lb3203246-t2405244/"><circle cx="245.2" cy="200.3" r="4" fill="#3465a4"><title>Thorburn (1992)</title></circle></a><a href="/variants/s6/k3lb10db2g6db18g2~x2/"><circle cx="208.9" cy="200.2" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="187.2" cy="178.5" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.6" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><circle cx="234.6" cy="195.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n16k4w2k4n6b11n2b16~x2/"><circle cx="224.5" cy="216.5" r="4" fill="#3465a4"><title>Sidney, (Nova Scotia)</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.1" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.9" cy="208.5" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s8/db20w3db3w3db3w3k5y10~x2/"><circle cx="200.2" cy="186.9" r="4" fill="#3465a4"><title>Kile</title></circle></a><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/"><circle cx="268.0" cy="159.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4/"><circle cx="219.3" cy="147.5" r="4" fill="#3465a4"><title>Roberts (Welsh Name)</title></circle></a><a href="/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2~lb3203246-t2405244/"><circle cx="245.2" cy="200.2" r="4" fill="#3465a4"><title>Thorburn (1992)</title></circle></a><a href="/variants/s6/k3lb10db2g6db18g2~x2/"><circle cx="208.9" cy="200.1" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="187.3" cy="178.4" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.6" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><circle cx="234.6" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db18g6db2lb10k3lb10db2g6db18g2~x2~db1406275/

@@ -1,14 +1,16 @@
 ---
 title: "Forbes (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Forbes (Fashion)"
-  url: ""
+  url: "/setts/k46dr8lr1dr8k8lr6lo6lr14lo1lr6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k46dr8lr1dr8k8lr6lo6lr14lo1lr6/)
-(the same proportion at any scale), whose colour order is pattern [KBYBKYYYYY](/stripes/kbybkyyyyy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k46dr8lr1dr8k8lr6lo6lr14lo1lr6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBYBKYYYYY](/stripes/kbybkyyyyy/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.9" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/"><circle cx="259.2" cy="114.2" r="4" fill="#3465a4"><title>Lebrun</title></circle></a><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><circle cx="249.9" cy="80.4" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><circle cx="248.6" cy="80.7" r="4" fill="#3465a4"><title>Sens (Corporate)</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="278.3" cy="69.7" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="305.9" cy="96.7" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/"><circle cx="238.2" cy="61.2" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/"><circle cx="278.1" cy="79.3" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s13/dp36o8dp2o8dp1k2dp4k2dp4k18w2k1w4~x2/"><circle cx="284.0" cy="76.2" r="4" fill="#3465a4"><title>Diamond Jubilee</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.7" cy="91.8" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><circle cx="272.9" cy="80.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.8" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/"><circle cx="259.2" cy="114.1" r="4" fill="#3465a4"><title>Lebrun</title></circle></a><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><circle cx="249.9" cy="80.3" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><circle cx="248.6" cy="80.5" r="4" fill="#3465a4"><title>Sens (Corporate)</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="278.3" cy="69.5" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="305.9" cy="96.6" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/"><circle cx="238.2" cy="61.0" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/"><circle cx="278.1" cy="79.1" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s13/dp36o8dp2o8dp1k2dp4k2dp4k18w2k1w4~x2/"><circle cx="284.0" cy="76.0" r="4" fill="#3465a4"><title>Diamond Jubilee</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.8" cy="91.7" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><circle cx="272.9" cy="80.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k46dr8lr1dr8k8lr6lo6lr14lo1lr6~x4/

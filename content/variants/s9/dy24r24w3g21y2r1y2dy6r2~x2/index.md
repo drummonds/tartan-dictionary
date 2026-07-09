@@ -1,14 +1,16 @@
 ---
 title: "Henry W.A. Canadian Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Henry W.A. Canadian Tartan"
-  url: ""
+  url: "/setts/dy24r24w3g21y2r1y2dy6r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy24r24w3g21y2r1y2dy6r2/)
-(the same proportion at any scale), whose colour order is pattern [GRWGGRGGR](/stripes/grwggrggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy24r24w3g21y2r1y2dy6r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRWGGRGGR](/stripes/grwggrggr/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1983
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1983 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="172.0" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="308.2" cy="162.6" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/variants/s11/r3y1dp1r20dr2dp9dr2g20dp1y1g3~x2/"><circle cx="243.8" cy="128.6" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/variants/s11/ri3y1dp1ri20r2dp9r2g20dp1y1g3~x2~ri2108022-r1807033/"><circle cx="250.4" cy="129.8" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3y2~x2/"><circle cx="217.5" cy="124.8" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3ly2~x2/"><circle cx="213.2" cy="123.4" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><a href="/variants/s7/y1db14r28dg14r1g14y1~x2/"><circle cx="233.3" cy="152.8" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><circle cx="177.7" cy="147.5" r="4" fill="#3465a4"><title>Stuart / Stewart, Riding Cloak</title></circle></a><a href="/variants/s12/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1~x2~r2109032-lr3303019/"><circle cx="269.0" cy="106.7" r="4" fill="#3465a4"><title>Scobie (Name)</title></circle></a><a href="/variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/"><circle cx="203.1" cy="143.6" r="4" fill="#3465a4"><title>Prince Edward Island (District)</title></circle></a><circle cx="228.5" cy="142.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="171.9" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="308.2" cy="162.5" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/variants/s11/r3y1dp1r20dr2dp9dr2g20dp1y1g3~x2/"><circle cx="243.8" cy="128.5" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/variants/s11/ri3y1dp1ri20r2dp9r2g20dp1y1g3~x2~ri2108022-r1807033/"><circle cx="250.5" cy="129.7" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3y2~x2/"><circle cx="217.5" cy="124.7" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3ly2~x2/"><circle cx="213.2" cy="123.3" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><a href="/variants/s7/y1db14r28dg14r1g14y1~x2/"><circle cx="233.3" cy="152.7" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><circle cx="177.7" cy="147.4" r="4" fill="#3465a4"><title>Stuart / Stewart, Riding Cloak</title></circle></a><a href="/variants/s12/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1~x2~r2109032-lr3303019/"><circle cx="269.0" cy="106.6" r="4" fill="#3465a4"><title>Scobie (Name)</title></circle></a><a href="/variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/"><circle cx="203.1" cy="143.4" r="4" fill="#3465a4"><title>Prince Edward Island (District)</title></circle></a><circle cx="228.5" cy="142.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dy24r24w3g21y2r1y2dy6r2~x2/

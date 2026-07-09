@@ -1,5 +1,12 @@
 ---
 title: "Macallan (1980s) (Corporate)"
-redirect: "/variants/s12/g16dg3g4dg6g24lo2k27t24k6t4k3t16~x2~g2408144-dg1806142/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Macallan (1980s) (Corporate)](/variants/s12/g16dg3g4dg6g24lo2k27t24k6t4k3t16~x2~g2408144-dg1806142/).
+This is the **Macallan (1980s) (Corporate)** sett — one scale-free proportion (`g16dg3g4dg6g24lo2k27t24k6t4k3t16`), colour order pattern
+[BKBKBKYGGGGG](/stripes/bkbkbkyggggg/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Macallan (1980s) (Corporate)](/variants/s12/g16dg3g4dg6g24lo2k27t24k6t4k3t16~x2~g2408144-dg1806142/) ★ | ~2002 | ![Macallan (1980s) (Corporate) sett](/variants/s12/g16dg3g4dg6g24lo2k27t24k6t4k3t16~x2~g2408144-dg1806142/sett.png) |

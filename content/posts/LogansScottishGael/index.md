@@ -121,7 +121,7 @@ counts.
 | [Cameron]({{< logan cameron >}}) | 402 | `Y/4 B32 R12 B64 R4 K64 G64 R12 G4 R4 G32 R4 G4 R12 G64 K64 R4 B64 R12 B32 Y/8` | *no counterpart found* |
 | [Campbell]({{< logan campbell >}}) | 402 | `B/32 K8 B8 K8 B8 K64 G64 K8 W16 K8 G64 K64 B64 K8 B8 K8 B64 K64 G64 K8 Y16 K8 G64 K64 B8 K8 B8 K8 B/32` | [exact match]({{< logan campbell match >}}) |
 | [Campbell of Breadalbane]({{< logan campbell-of-breadalbane >}}) | 402 | `B/16 K8 B8 K8 B8 K56 Y4 G88 Y4 K56 B48 K8 B/8` | [close (90%)]({{< logan campbell-of-breadalbane match >}}) |
-| [Chisholm]({{< logan chisholm >}}) | 402 | `R/20 G64 R20 B16 W8 B16 W8 B16 R88 B16 W8 B16 R20 G64 R20 B/8` | [corpus cites Logan, sett differs]({{< logan chisholm match >}}) |
+| [Chisholm]({{< logan chisholm >}}) | 402 | `R/20 G64 R20 B16 W8 B16 R88 B16 W8 B16 R20 G64 R20 B/8` | [corpus cites Logan, sett differs]({{< logan chisholm match >}}) |
 | [Colquhoun]({{< logan colquhoun >}}) | 402 | `B/4 K8 B48 K72 W12 G56 R8 G56 W4 K72 B48 K8 B/8` | [close (91%)]({{< logan colquhoun match >}}) |
 | [Cumming]({{< logan cumming >}}) | 403 | `A/8 K8 A16 K40 O2 G40 R16 W2 R16 W2 R16 G40 O2 K40 A16 K8 A/16` | [corpus cites Logan, sett differs]({{< logan cumming match >}}) |
 | [Dalzell]({{< logan dalzell >}}) | 403 | `R/48 W2 B4 R16 G104 R16 B4 W2 R16 B24 R16 W2 B4 R104 G8 C12 G/12` | [close (90%)]({{< logan dalzell match >}}) |
@@ -147,8 +147,8 @@ counts.
 | [MacGillivray]({{< logan macgillivray >}}) | 405 | `B/4 R16 A2 R16 G72 R8 B56 R4 A2 R144 B2 A2 R16 A2 R16 A2 B4 R144 A4 R4 B56 R8 G72 R16 A2 R16 B/4` | *no counterpart found* |
 | [MacGregor]({{< logan macgregor >}}) | 405 | `R/96 G48 R20 G24 K2 W8 K2 G24 R20 G48 R/192` | [corpus cites Logan, sett differs]({{< logan macgregor match >}}) |
 | [MacIntosh]({{< logan macintosh >}}) | 405 | `R/96 B48 R20 G84 R32 B4 R32 G84 R20 B48 R/192` | [corpus cites Logan, sett differs]({{< logan macintosh match >}}) |
-| [MacKay]({{< logan mackay >}}) | 405 | `G/2 AK56 G8 K56 G56 K12 G56 K12 G56 K56 G8 AK56 G/12` | [corpus cites Logan, sett differs]({{< logan mackay match >}}) |
-| [MacKenzie]({{< logan mackenzie >}}) | 405 | `B/28 K12 B12 K12 B12 K56 G56 K12 W12 K12 G56 K56 B56 K12 R12 K12 B56 K56 R12 K12 B56 K56 G56 K12 W12 K12 G56 K56 B12 K12 B12 K12 B/56` | [corpus cites Logan, sett differs]({{< logan mackenzie match >}}) |
+| [MacKay]({{< logan mackay >}}) | 405 | `G/2 DG56 G8 K56 G56 K12 G56 K56 G8 DG56 G/12` | [corpus cites Logan, sett differs]({{< logan mackay match >}}) |
+| [MacKenzie]({{< logan mackenzie >}}) | 405 | `B/28 K12 B12 K12 B12 K56 G56 K12 W12 K12 G56 K56 B56 K12 R12 K12 B56 K56 G56 K12 W12 K12 G56 K56 B12 K12 B12 K12 B/56` | [corpus cites Logan, sett differs]({{< logan mackenzie match >}}) |
 | [MacKinnon]({{< logan mackinnon >}}) | 406 | `W/2 R12 G8 B8 R24 G64 R8 B16 G8 R64 G32 W8 R16 W8 R16 W8 G32 R64 G8 B16 R8 G64 R24 B8 G8 R12 W/8` | [corpus cites Logan, sett differs]({{< logan mackinnon match >}}) |
 | [MacLachlan]({{< logan maclachlan >}}) | 406 | `R/32 K8 R8 K8 R8 K64 B64 G12 B64 K64 R64 K8 R/8` | [exact match]({{< logan maclachlan match >}}) |
 | [MacLean]({{< logan maclean >}}) | 406 | `K/2 R12 A8 R88 G40 K8 W12 K8 Y4 K16 A28 K16 Y4 K8 W12 K8 G40 R88 A8 R12 K/8` | [corpus cites Logan, sett differs]({{< logan maclean match >}}) |

@@ -1,14 +1,16 @@
 ---
 title: "Royal Scottish Agricultural Benevolent Institution"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Scottish Agricultural Benevolent Institution"
-  url: ""
+  url: "/setts/o5do5o5do5o5g24do1db12g6do3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o5do5o5do5o5g24do1db12g6do3/)
-(the same proportion at any scale), whose colour order is pattern [BGBBGRBRBR](/stripes/bgbbgrbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o5do5o5do5o5g24do1db12g6do3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBGRBRBR](/stripes/bgbbgrbrbr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/"><circle cx="304.9" cy="183.7" r="4" fill="#3465a4"><title>MacNaughton Htg</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.7" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.7" cy="207.5" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2~g1906142/"><circle cx="303.8" cy="154.1" r="4" fill="#3465a4"><title>Fitzgibbon</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.4" cy="202.5" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="176.1" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/"><circle cx="286.8" cy="150.2" r="4" fill="#3465a4"><title>Wellmont Golf Tournament</title></circle></a><a href="/variants/s11/dr16dg1g2dg1dr4dg5lb1dg5g14dg1lb2~x2/"><circle cx="282.4" cy="184.5" r="4" fill="#3465a4"><title>Markson (Personal)</title></circle></a><circle cx="275.7" cy="178.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/"><circle cx="304.9" cy="183.6" r="4" fill="#3465a4"><title>MacNaughton Htg</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.6" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.8" cy="207.4" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.4" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.2" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2~g1906142/"><circle cx="303.8" cy="154.0" r="4" fill="#3465a4"><title>Fitzgibbon</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.4" cy="202.4" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="176.0" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/"><circle cx="286.8" cy="150.1" r="4" fill="#3465a4"><title>Wellmont Golf Tournament</title></circle></a><a href="/variants/s11/dr16dg1g2dg1dr4dg5lb1dg5g14dg1lb2~x2/"><circle cx="282.5" cy="184.4" r="4" fill="#3465a4"><title>Markson (Personal)</title></circle></a><circle cx="275.7" cy="178.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/o5do5o5do5o5g24do1db12g6do3~x2/

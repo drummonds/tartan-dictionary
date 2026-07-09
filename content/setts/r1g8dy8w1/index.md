@@ -1,5 +1,12 @@
 ---
-title: "MacKinnon Hunting #2"
-redirect: "/variants/s4/r1g8dy8w1~x2/"
+title: "MacKinnon Hunting (Var) Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKinnon Hunting #2](/variants/s4/r1g8dy8w1~x2/).
+This is the **MacKinnon Hunting (Var) Clan Tartan** sett — one scale-free proportion (`r1g8dy8w1`), colour order pattern
+[RGGW](/stripes/rggw/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacKinnon Hunting (Var) Clan Tartan](/variants/s4/r1g8dy8w1~x2/) ★ | ~2003 | ![MacKinnon Hunting (Var) Clan Tartan sett](/variants/s4/r1g8dy8w1~x2/sett.png) |

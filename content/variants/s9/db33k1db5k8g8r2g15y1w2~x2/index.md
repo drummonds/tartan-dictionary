@@ -1,14 +1,16 @@
 ---
 title: "Mulcahy (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mulcahy (Name)"
-  url: ""
+  url: "/setts/db33k1db5k8g8r2g15y1w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db33k1db5k8g8r2g15y1w2/)
-(the same proportion at any scale), whose colour order is pattern [BKBKGRGGW](/stripes/bkbkgrggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db33k1db5k8g8r2g15y1w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGRGGW](/stripes/bkbkgrggw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="221.3" cy="80.6" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="76.1" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="213.9" cy="74.7" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="268.4" cy="85.3" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2g16k2r1~x2/"><circle cx="198.0" cy="89.9" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="198.1" cy="89.9" r="4" fill="#3465a4"><title>Sidey Family (Dundee) (Personal)</title></circle></a><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/"><circle cx="177.0" cy="110.8" r="4" fill="#3465a4"><title>Army Ranger</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="276.0" cy="103.0" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.7" cy="86.1" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><circle cx="247.0" cy="87.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="221.3" cy="80.4" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.6" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="75.9" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="213.9" cy="74.5" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="268.4" cy="85.2" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2g16k2r1~x2/"><circle cx="198.0" cy="89.8" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="198.1" cy="89.7" r="4" fill="#3465a4"><title>Sidey Family (Dundee) (Personal)</title></circle></a><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/"><circle cx="177.0" cy="110.6" r="4" fill="#3465a4"><title>Army Ranger</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="276.1" cy="102.8" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.7" cy="86.0" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><circle cx="247.0" cy="87.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db33k1db5k8g8r2g15y1w2~x2/

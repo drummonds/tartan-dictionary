@@ -1,5 +1,12 @@
 ---
 title: "Torridon Dress Tartan"
-redirect: "/variants/s7/k39dp16db3dp2g2dp3db1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Torridon Dress Tartan](/variants/s7/k39dp16db3dp2g2dp3db1~x2/).
+This is the **Torridon Dress Tartan** sett — one scale-free proportion (`k39dp16db3dp2g2dp3db1`), colour order pattern
+[BBGBBBKKKKK](/stripes/bbgbbbkkkkk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Torridon Dress Tartan](/variants/s7/k39dp16db3dp2g2dp3db1~x2/) ★ | ~2016 | ![Torridon Dress Tartan sett](/variants/s7/k39dp16db3dp2g2dp3db1~x2/sett.png) |

@@ -14,4 +14,4 @@ weight: 65
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Drummond of Strathallan](/variants/s65/r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/) | weddslist |
+| 0.07 | [Drummond of Strathallan Clan Tartan](/variants/s65/r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/) | house-of-tartan |

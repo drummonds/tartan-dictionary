@@ -1,6 +1,7 @@
 ---
 title: "Gretna Gold (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Gretna Gold"
   url: "/setts/w3dp2ly2dp38db28o2db2r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3dp2ly2dp38db28o2db2r2/)
-(the same proportion at any scale), whose colour order is pattern [RBRBBYBW](/stripes/rbrbbybw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3dp2ly2dp38db28o2db2r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBBYBW](/stripes/rbrbbybw/).
 
 Part of the [Gretna Gold](/tartans/gretna-gold/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2~db1204274/"><circle cx="398.3" cy="130.2" r="4" fill="#3465a4"><title>Gretna Gold</title></circle></a><a href="/variants/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/"><circle cx="347.5" cy="129.2" r="4" fill="#3465a4"><title>Pride of Fife</title></circle></a><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/"><circle cx="326.6" cy="98.0" r="4" fill="#3465a4"><title>Gill, Anil (Personal)</title></circle></a><a href="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi1406275-db1004274/"><circle cx="374.0" cy="160.1" r="4" fill="#3465a4"><title>Royal Scottish Corporation</title></circle></a><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/"><circle cx="293.6" cy="126.0" r="4" fill="#3465a4"><title>Yarns to Yearn For</title></circle></a><a href="/variants/s8/w4db19r4dp2r4dp23y4dp2~x2/"><circle cx="241.7" cy="172.2" r="4" fill="#3465a4"><title>Brigadoon</title></circle></a><a href="/variants/s11/dp4dg2dp24dg8db2r2db2y2db10dp2w3~x2/"><circle cx="277.5" cy="145.6" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi1604274-db0805267/"><circle cx="351.9" cy="110.4" r="4" fill="#3465a4"><title>Plymouth/Armada 400, Armada</title></circle></a><a href="/variants/s8/g5y2dp40w1db15w1db1w1~x2/"><circle cx="438.2" cy="111.9" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.3" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><circle cx="345.2" cy="128.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2~db1204274/"><circle cx="398.3" cy="130.0" r="4" fill="#3465a4"><title>Gretna Gold</title></circle></a><a href="/variants/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/"><circle cx="347.6" cy="129.1" r="4" fill="#3465a4"><title>Pride of Fife</title></circle></a><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/"><circle cx="326.6" cy="97.8" r="4" fill="#3465a4"><title>Gill, Anil (Personal)</title></circle></a><a href="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi1406275-db1004274/"><circle cx="374.0" cy="160.0" r="4" fill="#3465a4"><title>Royal Scottish Corporation</title></circle></a><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/"><circle cx="293.6" cy="125.8" r="4" fill="#3465a4"><title>Yarns to Yearn For</title></circle></a><a href="/variants/s8/w4db19r4dp2r4dp23y4dp2~x2/"><circle cx="241.7" cy="172.1" r="4" fill="#3465a4"><title>Brigadoon</title></circle></a><a href="/variants/s11/dp4dg2dp24dg8db2r2db2y2db10dp2w3~x2/"><circle cx="277.5" cy="145.5" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi1604274-db0805267/"><circle cx="351.9" cy="110.3" r="4" fill="#3465a4"><title>Plymouth/Armada 400, Armada</title></circle></a><a href="/variants/s8/g5y2dp40w1db15w1db1w1~x2/"><circle cx="438.2" cy="111.7" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.2" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><circle cx="345.2" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w3dp2ly2dp38db28o2db2r2~x2/

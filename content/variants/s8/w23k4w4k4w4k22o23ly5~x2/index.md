@@ -1,14 +1,16 @@
 ---
 title: "Aberlour (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Aberlour"
   url: "/setts/w23k4w4k4w4k22o23ly5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w23k4w4k4w4k22o23ly5/)
-(the same proportion at any scale), whose colour order is pattern [WKWKWKRY](/stripes/wkwkwkry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w23k4w4k4w4k22o23ly5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWKWKRY](/stripes/wkwkwkry/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.5" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15ly18r3~x2/"><circle cx="111.3" cy="202.5" r="4" fill="#3465a4"><title>Holden Beige (Corporate)</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.7" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s6/r6k14r6g14w27k4/"><circle cx="103.0" cy="215.1" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="141.7" cy="199.7" r="4" fill="#3465a4"><title>Merrilees Dress (Dance)</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.4" cy="198.7" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="84.0" cy="198.9" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="86.3" cy="203.6" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi (Personal)</title></circle></a><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"><circle cx="138.8" cy="196.3" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><circle cx="105.1" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.4" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15ly18r3~x2/"><circle cx="111.3" cy="202.4" r="4" fill="#3465a4"><title>Holden Beige (Corporate)</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.6" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s6/r6k14r6g14w27k4/"><circle cx="103.0" cy="215.0" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="141.7" cy="199.6" r="4" fill="#3465a4"><title>Merrilees Dress (Dance)</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.4" cy="198.7" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="84.1" cy="198.8" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="86.3" cy="203.6" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi (Personal)</title></circle></a><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"><circle cx="138.8" cy="196.2" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><circle cx="105.1" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w23k4w4k4w4k22o23ly5~x2/

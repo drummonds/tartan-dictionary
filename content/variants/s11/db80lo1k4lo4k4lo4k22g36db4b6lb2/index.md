@@ -1,14 +1,16 @@
 ---
 title: "Swedish District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Swedish District Tartan"
-  url: ""
+  url: "/setts/db80lo1k4lo4k4lo4k22g36db4b6lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db80lo1k4lo4k4lo4k22g36db4b6lb2/)
-(the same proportion at any scale), whose colour order is pattern [BYKYKYKGBBW](/stripes/bykykykgbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db80lo1k4lo4k4lo4k22g36db4b6lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYKYKYKGBBW](/stripes/bykykykgbbw/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2002 Designed and woven by Peter McDonald for a member 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.0" cy="45.5" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s10/g24w2k4w2k8r2db51k2lb8w1~x2/"><circle cx="233.9" cy="47.2" r="4" fill="#3465a4"><title>Victoria (Australia)</title></circle></a><a href="/variants/s10/g24w2k4w2k8r2db51k2lb8w1~x2~r2806019/"><circle cx="233.4" cy="47.3" r="4" fill="#3465a4"><title>Victoria State (Australia)</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s11/db60k15g10dr2g10dr2g10dr2g10k1lo4~x2/"><circle cx="272.1" cy="68.5" r="4" fill="#3465a4"><title>Muir (Clan)</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.1" cy="67.8" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"><circle cx="289.5" cy="52.6" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan</title></circle></a><a href="/variants/s10/db5w1db44dp1g12k12dp5k2o2k3~x2/"><circle cx="302.4" cy="57.9" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/variants/s10/db5w1db44dp1g12k12dp5k2o2k3~x2~db1204274/"><circle cx="291.5" cy="36.5" r="4" fill="#3465a4"><title>Heart of Scotland (Lochcarron)</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.7" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><circle cx="257.3" cy="45.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.0" cy="45.3" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s10/g24w2k4w2k8r2db51k2lb8w1~x2/"><circle cx="233.9" cy="47.1" r="4" fill="#3465a4"><title>Victoria (Australia)</title></circle></a><a href="/variants/s10/g24w2k4w2k8r2db51k2lb8w1~x2~r2806019/"><circle cx="233.4" cy="47.1" r="4" fill="#3465a4"><title>Victoria State (Australia)</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.6" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s11/db60k15g10dr2g10dr2g10dr2g10k1lo4~x2/"><circle cx="272.1" cy="68.3" r="4" fill="#3465a4"><title>Muir (Clan)</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.1" cy="67.6" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"><circle cx="289.6" cy="52.4" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan</title></circle></a><a href="/variants/s10/db5w1db44dp1g12k12dp5k2o2k3~x2/"><circle cx="302.4" cy="57.7" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/variants/s10/db5w1db44dp1g12k12dp5k2o2k3~x2~db1204274/"><circle cx="291.5" cy="36.3" r="4" fill="#3465a4"><title>Heart of Scotland (Lochcarron)</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.6" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><circle cx="257.3" cy="45.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/

@@ -1,16 +1,18 @@
 ---
 title: "MacGillivray Htg (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacGillivray Hunting"
   url: "/tartans/macgillivray-hunting/"
 - name: "MacGillivray Htg (Clan)"
-  url: ""
+  url: "/setts/g8o5g5o5g5o6db1o2g8o2db1o24db4o6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8o5g5o5g5o6db1o2g8o2db1o24db4o6/)
-(the same proportion at any scale), whose colour order is pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g8o5g5o5g5o6db1o2g8o2db1o24db4o6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
 
 Part of the [MacGillivray Hunting](/tartans/macgillivray-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg8o5dg5o5dg5o6db1o2dg8o2db1o24db4o6~x2~dg1806142-o2005046/"><circle cx="483.7" cy="187.6" r="4" fill="#3465a4"><title>MacGillivray Hunting</title></circle></a><a href="/variants/s14/g4o2g2o2g2o3db1o1g4o1db1o12db2o3~x2/"><circle cx="418.8" cy="202.5" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.6" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/"><circle cx="430.6" cy="176.5" r="4" fill="#3465a4"><title>Morgan Welsh Name Tartan</title></circle></a><circle cx="462.1" cy="183.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg8o5dg5o5dg5o6db1o2dg8o2db1o24db4o6~x2~dg1806142-o2005046/"><circle cx="483.7" cy="187.5" r="4" fill="#3465a4"><title>MacGillivray Hunting</title></circle></a><a href="/variants/s14/g4o2g2o2g2o3db1o1g4o1db1o12db2o3~x2/"><circle cx="418.8" cy="202.4" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.5" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/"><circle cx="430.6" cy="176.4" r="4" fill="#3465a4"><title>Morgan Welsh Name Tartan</title></circle></a><circle cx="462.1" cy="183.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/g8o5g5o5g5o6db1o2g8o2db1o24db4o6~x2/

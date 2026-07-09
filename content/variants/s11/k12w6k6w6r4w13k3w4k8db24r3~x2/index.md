@@ -1,16 +1,18 @@
 ---
 title: "Merchiston Castle School Pipe Band"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Merchiston Castle School"
   url: "/tartans/merchiston-castle-school/"
 - name: "Merchiston Castle School Pipe Band"
-  url: ""
+  url: "/setts/k12w6k6w6r4w13k3w4k8db24r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k12w6k6w6r4w13k3w4k8db24r3/)
-(the same proportion at any scale), whose colour order is pattern [KWKWRWKWKBR](/stripes/kwkwrwkwkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k12w6k6w6r4w13k3w4k8db24r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWRWKWKBR](/stripes/kwkwrwkwkbr/).
 
 Part of the [Merchiston Castle School](/tartans/merchiston-castle-school/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><circle cx="92.9" cy="175.8" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><circle cx="91.1" cy="170.0" r="4" fill="#3465a4"><title>MacDonald Pattern of Plaids</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="115.0" cy="143.8" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/"><circle cx="58.4" cy="165.1" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.9" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="107.5" cy="186.2" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/"><circle cx="46.1" cy="194.4" r="4" fill="#3465a4"><title>Black Watch Dress (Fashion)</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.4" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><circle cx="90.8" cy="178.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.0" cy="175.7" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><circle cx="91.1" cy="169.9" r="4" fill="#3465a4"><title>MacDonald Pattern of Plaids</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="115.0" cy="143.7" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/"><circle cx="58.4" cy="165.0" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.8" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="107.5" cy="186.1" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/"><circle cx="46.1" cy="194.3" r="4" fill="#3465a4"><title>Black Watch Dress (Fashion)</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.3" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><circle cx="90.8" cy="178.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/

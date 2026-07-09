@@ -1,14 +1,16 @@
 ---
 title: "All Breeds Dairy Goats #2 (Corp)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "All Breeds Dairy Goats #2 (Corp)"
-  url: ""
+  url: "/setts/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10/)
-(the same proportion at any scale), whose colour order is pattern [BRKWKYWYWYWYWYWYWYWYWYWYKYKYKYKYWYWYWYWYWYWYWYWYWYWGG](/stripes/brkwkywywywywywywywywywykykykykywywywywywywywywywywgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRKWKYWYWYWYWYWYWYWYWYWYKYKYKYKYWYWYWYWYWYWYWYWYWYWGG](/stripes/brkwkywywywywywywywywywykykykykywywywywywywywywywywgg/).
 
 Sourced from tartans-authority.  It is a [53 stripe tartan](/stripes/stripes53/).
 

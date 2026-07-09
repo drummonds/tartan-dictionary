@@ -1,14 +1,16 @@
 ---
 title: "Mounth,The Rejected"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mounth,The Rejected"
-  url: ""
+  url: "/setts/g36dg5db17w2g14n3dp2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g36dg5db17w2g14n3dp2/)
-(the same proportion at any scale), whose colour order is pattern [BBGWBGG](/stripes/bbgwbgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g36dg5db17w2g14n3dp2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGWBGG](/stripes/bbgwbgg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g2dg7db3w2g14b2~x4/"><circle cx="277.5" cy="235.6" r="4" fill="#3465a4"><title>Manx, Ellan Vannin</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="404.5" cy="183.8" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.7" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.1" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/"><circle cx="379.0" cy="157.3" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="263.4" cy="166.5" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><circle cx="266.1" cy="167.5" r="4" fill="#3465a4"><title>Glencross, Tynron (Name)</title></circle></a><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="443.5" cy="138.4" r="4" fill="#3465a4"><title>Greenup (2015)</title></circle></a><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><circle cx="339.6" cy="164.1" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.4" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><circle cx="369.1" cy="171.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g2dg7db3w2g14b2~x4/"><circle cx="277.5" cy="235.6" r="4" fill="#3465a4"><title>Manx, Ellan Vannin</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="404.5" cy="183.7" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.6" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.0" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/"><circle cx="379.0" cy="157.2" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="263.4" cy="166.4" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><circle cx="266.1" cy="167.4" r="4" fill="#3465a4"><title>Glencross, Tynron (Name)</title></circle></a><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="443.5" cy="138.3" r="4" fill="#3465a4"><title>Greenup (2015)</title></circle></a><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><circle cx="339.6" cy="164.0" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.3" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><circle cx="369.2" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g36dg5db17w2g14n3dp2~x2/

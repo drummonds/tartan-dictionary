@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2db23k14g16k2w2~x2/">MacPhail Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2db23k14g16k2w2~x2/"><img src="/variants/s6/r2db23k14g16k2w2~x2/sett.png" alt="MacPhail Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r4db24k12g14k4lb3~x2/">MacPhail Hunting #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><img src="/variants/s6/r4db24k12g14k4lb3~x2/sett.png" alt="MacPhail Hunting #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2db23k14g16k2w2~x2/">MacPhail Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r2db23k14g16k2w2~x2/"><img src="/variants/s6/r2db23k14g16k2w2~x2/sett.png" alt="MacPhail Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r6db32k18g28k1lb2~x2/">Naysmith (Name)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r6db32k18g28k1lb2~x2/"><img src="/variants/s6/r6db32k18g28k1lb2~x2/sett.png" alt="Naysmith (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -1,5 +1,12 @@
 ---
 title: "Braveheart - ( Warrior)"
-redirect: "/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Braveheart - ( Warrior)](/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/).
+This is the **Braveheart - ( Warrior)** sett — one scale-free proportion (`k43b3k7dg3k2dg3k2g11r6k2r3w3`), colour order pattern
+[KBKGKGKGRKRW](/stripes/kbkgkgkgrkrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Braveheart - ( Warrior)](/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/) ★ | ~2016 | ![Braveheart - ( Warrior) sett](/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/sett.png) |

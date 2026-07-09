@@ -1,5 +1,12 @@
 ---
 title: "Greater Victoria Police PB"
-redirect: "/variants/s7/dr7dt1dr26dt31w1dt1w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Greater Victoria Police PB](/variants/s7/dr7dt1dr26dt31w1dt1w2~x2/).
+This is the **Greater Victoria Police PB** sett — one scale-free proportion (`dr7dt1dr26dt31w1dt1w2`), colour order pattern
+[BBBBWBWBWBBB](/stripes/bbbbwbwbwbbb/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Greater Victoria Police PB](/variants/s7/dr7dt1dr26dt31w1dt1w2~x2/) ★ | 2000 | ![Greater Victoria Police PB sett](/variants/s7/dr7dt1dr26dt31w1dt1w2~x2/sett.png) |

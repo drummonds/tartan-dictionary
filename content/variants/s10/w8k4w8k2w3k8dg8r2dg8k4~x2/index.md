@@ -1,14 +1,16 @@
 ---
 title: "Ferguson Dress variation"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ferguson Dress variation"
-  url: ""
+  url: "/setts/w8k4w8k2w3k8dg8r2dg8k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w8k4w8k2w3k8dg8r2dg8k4/)
-(the same proportion at any scale), whose colour order is pattern [KGRGKWKWKW](/stripes/kgrgkwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w8k4w8k2w3k8dg8r2dg8k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGRGKWKWKW](/stripes/kgrgkwkwkw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

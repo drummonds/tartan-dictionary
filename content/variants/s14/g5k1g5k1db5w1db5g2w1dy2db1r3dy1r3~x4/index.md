@@ -1,14 +1,16 @@
 ---
 title: "Festival Celtique de Québec"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Festival Celtique de Québec"
-  url: ""
+  url: "/setts/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3/)
-(the same proportion at any scale), whose colour order is pattern [GKGKBWBGWGBRGR](/stripes/gkgkbwbgwgbrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKBWBGWGBRGR](/stripes/gkgkbwbgwgbrgr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="42.6" cy="180.5" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/"><circle cx="14.2" cy="169.2" r="4" fill="#3465a4"><title>St. Margaret's School Edinburgh</title></circle></a><a href="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/"><circle cx="15.0" cy="175.6" r="4" fill="#3465a4"><title>Watt (Dunfermline) (Personal)</title></circle></a><a href="/variants/s13/db9k2w4db4ly2k10g12k3g12k8r11k2ly4~x2/"><circle cx="14.0" cy="174.4" r="4" fill="#3465a4"><title>Watt (Personal)</title></circle></a><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/"><circle cx="82.9" cy="178.9" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/"><circle cx="48.9" cy="148.4" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/variants/s13/w2k1dg4g4dg4k1dg1k1db4lb5db4k1w1~x4/"><circle cx="14.0" cy="188.7" r="4" fill="#3465a4"><title>Dyer</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2/"><circle cx="91.0" cy="188.1" r="4" fill="#3465a4"><title>Bowie (Name)</title></circle></a><a href="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="68.1" cy="197.0" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><circle cx="73.9" cy="154.7" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><circle cx="49.7" cy="182.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="42.6" cy="180.4" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/"><circle cx="14.2" cy="169.1" r="4" fill="#3465a4"><title>St. Margaret's School Edinburgh</title></circle></a><a href="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/"><circle cx="15.0" cy="175.5" r="4" fill="#3465a4"><title>Watt (Dunfermline) (Personal)</title></circle></a><a href="/variants/s13/db9k2w4db4ly2k10g12k3g12k8r11k2ly4~x2/"><circle cx="14.0" cy="174.3" r="4" fill="#3465a4"><title>Watt (Personal)</title></circle></a><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/"><circle cx="83.0" cy="178.8" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/"><circle cx="48.9" cy="148.3" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/variants/s13/w2k1dg4g4dg4k1dg1k1db4lb5db4k1w1~x4/"><circle cx="14.0" cy="188.6" r="4" fill="#3465a4"><title>Dyer</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2/"><circle cx="91.0" cy="188.0" r="4" fill="#3465a4"><title>Bowie (Name)</title></circle></a><a href="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="68.1" cy="196.9" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><circle cx="73.9" cy="154.5" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><circle cx="49.7" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3~x4/

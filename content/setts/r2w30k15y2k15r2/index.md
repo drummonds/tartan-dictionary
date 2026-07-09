@@ -1,5 +1,12 @@
 ---
 title: "Brodie (WCWM)"
-redirect: "/variants/s6/r2w30k15y2k15r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Brodie (WCWM)](/variants/s6/r2w30k15y2k15r2~x2/).
+This is the **Brodie (WCWM)** sett — one scale-free proportion (`r2w30k15y2k15r2`), colour order pattern
+[RKGKWR](/stripes/rkgkwr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Brodie (WCWM)](/variants/s6/r2w30k15y2k15r2~x2/) ★ | ~2016 | ![Brodie (WCWM) sett](/variants/s6/r2w30k15y2k15r2~x2/sett.png) |

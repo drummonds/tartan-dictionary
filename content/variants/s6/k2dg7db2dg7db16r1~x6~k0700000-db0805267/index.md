@@ -1,14 +1,16 @@
 ---
 title: "Hutton (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hutton"
   url: "/setts/k2dg7db2dg7db16r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2dg7db2dg7db16r1/)
-(the same proportion at any scale), whose colour order is pattern [KGBGBR](/stripes/kgbgbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2dg7db2dg7db16r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGBGBR](/stripes/kgbgbr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-dg1504158-db0805267/"><circle cx="364.9" cy="204.8" r="4" fill="#3465a4"><title>Hutton</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.2" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s7/dg30db4dg2k20db18r1db4~x2/"><circle cx="300.1" cy="168.1" r="4" fill="#3465a4"><title>MacTaggart</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.1" cy="268.4" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.6" cy="171.2" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="460.9" cy="181.5" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="330.2" cy="147.0" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.7" cy="226.1" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><circle cx="408.5" cy="219.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-dg1504158-db0805267/"><circle cx="364.9" cy="204.7" r="4" fill="#3465a4"><title>Hutton</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.1" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s7/dg30db4dg2k20db18r1db4~x2/"><circle cx="300.1" cy="168.0" r="4" fill="#3465a4"><title>MacTaggart</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.2" cy="268.3" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.1" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="461.0" cy="181.4" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="330.3" cy="146.9" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.8" cy="226.0" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><circle cx="408.5" cy="219.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k2dg7db2dg7db16r1~x6~k0700000-db0805267/

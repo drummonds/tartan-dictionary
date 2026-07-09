@@ -1,5 +1,12 @@
 ---
 title: "L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy"
-redirect: "/variants/s8/lb2dr2lb30g20lb3g7k2y1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy](/variants/s8/lb2dr2lb30g20lb3g7k2y1~x2/).
+This is the **L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy** sett — one scale-free proportion (`lb2dr2lb30g20lb3g7k2y1`), colour order pattern
+[GKGWGWBW](/stripes/gkgwgwbw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy](/variants/s8/lb2dr2lb30g20lb3g7k2y1~x2/) ★ | 2016 | ![L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy sett](/variants/s8/lb2dr2lb30g20lb3g7k2y1~x2/sett.png) |

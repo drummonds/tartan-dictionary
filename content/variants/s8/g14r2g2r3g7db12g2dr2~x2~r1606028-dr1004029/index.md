@@ -1,6 +1,7 @@
 ---
 title: "Glen Nevis #3"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Glen Nevis"
   url: "/tartans/glen-nevis/"
 - name: "Glen Nevis #3"
-  url: ""
+  url: "/setts/g14r2g2r3g7db12g2dr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14r2g2r3g7db12g2dr2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGRGRG](/stripes/bgbgrgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g14r2g2r3g7db12g2dr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGRGRG](/stripes/bgbgrgrg/).
 
 Part of the [Glen Nevis](/tartans/glen-nevis/) tartan — the named design grouping this sett with its other cloths.
 
@@ -90,6 +92,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="244.9" cy="186.0" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="324.9" cy="200.9" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/g8k2g13b4g12db22g5y3~x2/"><circle cx="260.4" cy="192.8" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.8" cy="249.5" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="216.0" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="316.9" cy="199.3" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="321.8" cy="177.6" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="182.2" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="286.0" cy="236.5" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><circle cx="302.0" cy="224.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="245.0" cy="185.9" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.0" cy="200.8" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/g8k2g13b4g12db22g5y3~x2/"><circle cx="260.5" cy="192.7" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.9" cy="249.4" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="216.0" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="316.9" cy="199.2" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="321.9" cy="177.5" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="182.2" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="286.0" cy="236.4" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><circle cx="302.0" cy="224.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029/

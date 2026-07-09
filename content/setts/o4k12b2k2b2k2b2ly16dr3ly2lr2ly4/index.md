@@ -1,5 +1,12 @@
 ---
 title: "Cailean #2 (Fashion)"
-redirect: "/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cailean #2 (Fashion)](/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/).
+This is the **Cailean #2 (Fashion)** sett — one scale-free proportion (`o4k12b2k2b2k2b2ly16dr3ly2lr2ly4`), colour order pattern
+[RKBKBKBYBYYY](/stripes/rkbkbkbybyyy/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cailean #2 (Fashion)](/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/) ★ | ~2002 | ![Cailean #2 (Fashion) sett](/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Wilson's No.128"
-redirect: "/variants/s11/lb4r3ly2r9lb3g24lb3r9k3r3w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's No.128](/variants/s11/lb4r3ly2r9lb3g24lb3r9k3r3w2~x2/).
+This is the **Wilson's No.128** sett — one scale-free proportion (`lb4r3ly2r9lb3g24lb3r9k3r3w2`), colour order pattern
+[RYRWGWRKRWRKRWGWRYRW](/stripes/ryrwgwrkrwrkrwgwryrw/). It is recorded as a single **variant**, below.
+First attested **1819**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's No.128](/variants/s11/lb4r3ly2r9lb3g24lb3r9k3r3w2~x2/) ★ | 1819 | ![Wilson's No.128 sett](/variants/s11/lb4r3ly2r9lb3g24lb3r9k3r3w2~x2/sett.png) |

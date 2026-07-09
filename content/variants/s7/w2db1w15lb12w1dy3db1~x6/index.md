@@ -1,14 +1,16 @@
 ---
 title: "St John's"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "St John's"
-  url: ""
+  url: "/setts/w2db1w15lb12w1dy3db1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2db1w15lb12w1dy3db1/)
-(the same proportion at any scale), whose colour order is pattern [BWWWGBGWWWBW](/stripes/bwwwgbgwwwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2db1w15lb12w1dy3db1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWWWGBGWWWBW](/stripes/bwwwgbgwwwbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><circle cx="317.6" cy="176.0" r="4" fill="#3465a4"><title>Torridon, Royal Blue (Dance)</title></circle></a><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/"><circle cx="441.2" cy="173.0" r="4" fill="#3465a4"><title>Madras 1 (Fashion)</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="378.5" cy="149.8" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="212.9" cy="197.2" r="4" fill="#3465a4"><title>Ferguson Dress Clan Tartan</title></circle></a><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><circle cx="194.8" cy="184.1" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="252.6" cy="183.6" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="263.4" cy="194.4" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.5" cy="198.2" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.1" cy="198.5" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><circle cx="313.6" cy="177.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><circle cx="317.6" cy="176.0" r="4" fill="#3465a4"><title>Torridon, Royal Blue (Dance)</title></circle></a><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/"><circle cx="441.2" cy="172.9" r="4" fill="#3465a4"><title>Madras 1 (Fashion)</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.4" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="378.5" cy="149.7" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="212.9" cy="197.2" r="4" fill="#3465a4"><title>Ferguson Dress Clan Tartan</title></circle></a><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><circle cx="194.8" cy="184.0" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="252.6" cy="183.5" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="263.4" cy="194.4" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.5" cy="198.1" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.1" cy="198.5" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><circle cx="313.5" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w2db1w15lb12w1dy3db1~x6/

@@ -1,5 +1,12 @@
 ---
 title: "Black Spirit Fashion Tartan"
-redirect: "/variants/s7/k17n4k13n4k3n45k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Black Spirit Fashion Tartan](/variants/s7/k17n4k13n4k3n45k3~x2/).
+This is the **Black Spirit Fashion Tartan** sett — one scale-free proportion (`k17n4k13n4k3n45k3`), colour order pattern
+[KBKBKBK](/stripes/kbkbkbk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Black Spirit Fashion Tartan](/variants/s7/k17n4k13n4k3n45k3~x2/) ★ | ~2016 | ![Black Spirit Fashion Tartan sett](/variants/s7/k17n4k13n4k3n45k3~x2/sett.png) |

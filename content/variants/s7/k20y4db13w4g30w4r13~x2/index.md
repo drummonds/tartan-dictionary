@@ -1,14 +1,16 @@
 ---
 title: "South Africa 1994 (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "South Africa 1994 (Fashion)"
-  url: ""
+  url: "/setts/k20y4db13w4g30w4r13/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k20y4db13w4g30w4r13/)
-(the same proportion at any scale), whose colour order is pattern [KGBWGWR](/stripes/kgbwgwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k20y4db13w4g30w4r13/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGBWGWR](/stripes/kgbwgwr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="73.0" cy="203.1" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="138.3" cy="196.6" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.2" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.8" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s9/g2dp2g10k6r2k6lb10k1w2~x2/"><circle cx="55.5" cy="155.4" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/variants/s7/y8k3b2db1w6g12db2~x2/"><circle cx="93.9" cy="168.5" r="4" fill="#3465a4"><title>Carmen Lau (Hong Kong) (Personal)</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="159.3" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.7" cy="169.6" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="81.9" cy="169.3" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><circle cx="57.8" cy="179.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="73.0" cy="203.1" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.5" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="138.3" cy="196.6" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.1" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.2" cy="168.7" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s9/g2dp2g10k6r2k6lb10k1w2~x2/"><circle cx="55.5" cy="155.3" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/variants/s7/y8k3b2db1w6g12db2~x2/"><circle cx="94.0" cy="168.4" r="4" fill="#3465a4"><title>Carmen Lau (Hong Kong) (Personal)</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="159.2" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.8" cy="169.5" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="81.9" cy="169.2" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><circle cx="57.8" cy="179.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k20y4db13w4g30w4r13~x2/

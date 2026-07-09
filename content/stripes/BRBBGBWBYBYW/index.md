@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/">Lady Diana Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><img src="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/sett.png" alt="Lady Diana Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/">Lady Diana Plaid Trade or Fancy Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><img src="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/sett.png" alt="Lady Diana Plaid Trade or Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "Tartan Tangerine"
-redirect: "/variants/s7/r1w1dp4w1r4k1w1~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tartan Tangerine](/variants/s7/r1w1dp4w1r4k1w1~x8/).
+This is the **Tartan Tangerine** sett — one scale-free proportion (`r1w1dp4w1r4k1w1`), colour order pattern
+[RWBWRKW](/stripes/rwbwrkw/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Tartan Tangerine](/variants/s7/r1w1dp4w1r4k1w1~x8/) ★ | 2000 | ![Tartan Tangerine sett](/variants/s7/r1w1dp4w1r4k1w1~x8/sett.png) |

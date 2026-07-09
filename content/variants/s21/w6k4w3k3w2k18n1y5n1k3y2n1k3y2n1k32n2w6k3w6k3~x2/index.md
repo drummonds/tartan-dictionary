@@ -1,14 +1,16 @@
 ---
 title: "Clutha"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clutha"
-  url: ""
+  url: "/setts/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3/)
-(the same proportion at any scale), whose colour order is pattern [KWKWBKBGKBGKBGBKWKWKW](/stripes/kwkwbkbgkbgkbgbkwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWBKBGKBGKBGBKWKWKW](/stripes/kwkwbkbgkbgkbgbkwkwkw/).
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.5" cy="72.2" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><circle cx="349.5" cy="35.4" r="4" fill="#3465a4"><title>Largs Dress (1972)</title></circle></a><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/"><circle cx="370.7" cy="88.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><circle cx="230.0" cy="66.1" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2~r2109032/"><circle cx="230.0" cy="66.1" r="4" fill="#3465a4"><title>Mizzou American Corporate Tartan</title></circle></a><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.2" cy="60.2" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/"><circle cx="377.1" cy="92.0" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><circle cx="377.1" cy="92.0" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="90.0" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s22/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="352.4" cy="63.1" r="4" fill="#3465a4"><title>Knights Templar Dress</title></circle></a><circle cx="313.6" cy="52.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.4" cy="72.0" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><circle cx="349.5" cy="35.2" r="4" fill="#3465a4"><title>Largs Dress (1972)</title></circle></a><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/"><circle cx="370.6" cy="88.6" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><circle cx="230.0" cy="65.9" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2~r2109032/"><circle cx="230.0" cy="65.9" r="4" fill="#3465a4"><title>Mizzou American Corporate Tartan</title></circle></a><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.2" cy="60.0" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="89.8" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s22/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="352.4" cy="62.9" r="4" fill="#3465a4"><title>Knights Templar Dress</title></circle></a><circle cx="313.6" cy="51.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/

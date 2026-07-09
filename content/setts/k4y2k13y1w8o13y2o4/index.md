@@ -1,5 +1,12 @@
 ---
 title: "Bannockbane, Light Tan"
-redirect: "/variants/s8/k4y2k13y1w8o13y2o4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bannockbane, Light Tan](/variants/s8/k4y2k13y1w8o13y2o4~x2/).
+This is the **Bannockbane, Light Tan** sett — one scale-free proportion (`k4y2k13y1w8o13y2o4`), colour order pattern
+[KGKGWRGR](/stripes/kgkgwrgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bannockbane, Light Tan](/variants/s8/k4y2k13y1w8o13y2o4~x2/) ★ | ~2016 | ![Bannockbane, Light Tan sett](/variants/s8/k4y2k13y1w8o13y2o4~x2/sett.png) |

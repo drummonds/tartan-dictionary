@@ -1,5 +1,12 @@
 ---
 title: "Mauchline"
-redirect: "/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mauchline](/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/).
+This is the **Mauchline** sett — one scale-free proportion (`dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17`), colour order pattern
+[GKWGYBGKGRGWGK](/stripes/gkwgybgkgrgwgk/). It is recorded as a single **variant**, below.
+First attested **~2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Mauchline](/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/) ★ | ~2011 | ![Mauchline sett](/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/sett.png) |

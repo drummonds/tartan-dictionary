@@ -1,5 +1,12 @@
 ---
 title: "United States Trade sett Tartan"
-redirect: "/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [United States Trade sett Tartan](/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/).
+This is the **United States Trade sett Tartan** sett — one scale-free proportion (`dbi7db5lr6db5r7db2dbi2db70lr2`), colour order pattern
+[BBYBRBBBY](/stripes/bbybrbbby/). It is recorded as a single **variant**, below.
+First attested **1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [United States Trade sett Tartan](/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/) ★ | 1989 | ![United States Trade sett Tartan sett](/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/sett.png) |

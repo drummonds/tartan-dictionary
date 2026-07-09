@@ -1,14 +1,16 @@
 ---
 title: "Unidentified Plaid #14"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Plaid #14"
-  url: ""
+  url: "/setts/w4dg10dy9dg4dy1lb3dy1dg69dy10dg2dy1lb4dy1dg2dy18dg2dy1lb3dy1db2dy99dg4dy5db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4dg10dy9dg4dy1lb3dy1dg69dy10dg2dy1lb4dy1dg2dy18dg2dy1lb3dy1db2dy99dg4dy5db2/)
-(the same proportion at any scale), whose colour order is pattern [BGGGBGWGGGGGWGGGGGWGGGGW](/stripes/bgggbgwgggggwgggggwggggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4dg10dy9dg4dy1lb3dy1dg69dy10dg2dy1lb4dy1dg2dy18dg2dy1lb3dy1db2dy99dg4dy5db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGBGWGGGGGWGGGGGWGGGGW](/stripes/bgggbgwgggggwgggggwggggw/).
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

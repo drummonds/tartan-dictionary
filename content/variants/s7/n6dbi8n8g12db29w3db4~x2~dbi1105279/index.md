@@ -1,14 +1,16 @@
 ---
 title: "Dickson Name Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dickson Name Tartan"
-  url: ""
+  url: "/setts/n6dbi8n8g12db29w3db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n6dbi8n8g12db29w3db4/)
-(the same proportion at any scale), whose colour order is pattern [BWBGBBBBBGBW](/stripes/bwbgbbbbbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n6dbi8n8g12db29w3db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBGBBBBBGBW](/stripes/bwbgbbbbbgbw/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: July 2009 A tartan designed by Matthew Newsome for George N
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>July 2009 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.7" cy="191.6" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/"><circle cx="227.2" cy="237.5" r="4" fill="#3465a4"><title>American Express Corporate Tartan</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.9" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.3" cy="203.3" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.7" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.3" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.1" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.5" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/"><circle cx="311.2" cy="197.2" r="4" fill="#3465a4"><title>Law of Atholl (Personal)</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.1" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><circle cx="250.4" cy="206.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.8" cy="191.5" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/"><circle cx="227.2" cy="237.5" r="4" fill="#3465a4"><title>American Express Corporate Tartan</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.8" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.4" cy="203.2" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.8" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.2" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.0" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.4" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/"><circle cx="311.3" cy="197.1" r="4" fill="#3465a4"><title>Law of Atholl (Personal)</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.0" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><circle cx="250.4" cy="206.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/

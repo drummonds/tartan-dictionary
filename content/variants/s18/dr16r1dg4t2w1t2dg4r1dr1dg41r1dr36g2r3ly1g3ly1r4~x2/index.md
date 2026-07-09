@@ -1,14 +1,16 @@
 ---
 title: "Belk Festive (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Belk Festive (Fashion)"
-  url: ""
+  url: "/setts/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4/)
-(the same proportion at any scale), whose colour order is pattern [BRGBWBGRBGRBGRYGYR](/stripes/brgbwbgrbgrbgrygyr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGBWBGRBGRBGRYGYR](/stripes/brgbwbgrbgrbgrygyr/).
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

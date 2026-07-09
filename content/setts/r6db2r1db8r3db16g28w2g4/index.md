@@ -1,5 +1,14 @@
 ---
 title: "George (Personal)"
-redirect: "/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [George (Personal)](/variants/s9/r6db2r1db8r3db16g28w2g4~x2/).
+This is the **George (Personal)** sett — one scale-free proportion (`r6db2r1db8r3db16g28w2g4`), colour order pattern
+[GWGBRBRBR](/stripes/gwgbrbrbr/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+Part of the [George](/tartans/george/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [George (Personal)](/variants/s9/r6db2r1db8r3db16g28w2g4~x2/) ★ | ~2007 | ![George (Personal) sett](/variants/s9/r6db2r1db8r3db16g28w2g4~x2/sett.png) |

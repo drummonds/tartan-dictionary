@@ -1,14 +1,16 @@
 ---
 title: "World Fed. of Bldg Contractors (Corp"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "World Fed. of Bldg Contractors (Corp"
-  url: ""
+  url: "/setts/o2db19t6b44w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o2db19t6b44w2/)
-(the same proportion at any scale), whose colour order is pattern [RBBBW](/stripes/rbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o2db19t6b44w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBBBW](/stripes/rbbbw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.1" cy="238.6" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><circle cx="241.9" cy="157.7" r="4" fill="#3465a4"><title>MacFarland-Collins (Name)</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="281.3" cy="210.7" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.1" cy="183.1" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.3" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s7/w3t38db38w1ti3w1r2~x2~t2405244-ti2503227/"><circle cx="333.0" cy="129.1" r="4" fill="#3465a4"><title>Bousie (Personal)</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.6" cy="233.5" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="415.9" cy="217.4" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.3" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><circle cx="429.5" cy="187.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.1" cy="238.6" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><circle cx="241.9" cy="157.6" r="4" fill="#3465a4"><title>MacFarland-Collins (Name)</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="281.4" cy="210.6" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.2" cy="183.1" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.2" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s7/w3t38db38w1ti3w1r2~x2~t2405244-ti2503227/"><circle cx="333.0" cy="129.0" r="4" fill="#3465a4"><title>Bousie (Personal)</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.7" cy="233.4" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="416.0" cy="217.3" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><circle cx="429.6" cy="186.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/o2db19t6b44w2~x2/

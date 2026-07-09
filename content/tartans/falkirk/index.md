@@ -15,7 +15,7 @@ The **Falkirk** tartan groups 2 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/setts/k4db4k2db4k2db22dy27y2r3/">Falkirk</a> ★</td><td><code>K/8 DB8 K4 DB8 K4 DB44 DY54 Y4 R/6</code></td><td>266</td><td>1989</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k4db4k2db4k2db22dy27y2r3/"><img src="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/sett.png" alt="Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4t4k2t4k2t22dy27y2r3/">District Tartan</a></td><td><code>R/6 Y4 DY54 T44 K4 T8 K4 T8 K8 T8 K4 T8 K4 T44 DY54 Y/4</code></td><td>266</td><td>—</td></tr>
+<tr><td><a href="/setts/k4t4k2t4k2t22dy27y2r3/">District Tartan</a></td><td><code>R/6 Y4 DY54 T44 K4 T8 K4 T8 K8 T8 K4 T8 K4 T44 DY54 Y/4</code></td><td>266</td><td>1989</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k4t4k2t4k2t22dy27y2r3/"><img src="/variants/s9/k4t4k2t4k2t22dy27y2r3~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

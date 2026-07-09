@@ -1,14 +1,16 @@
 ---
 title: "(1) Trithart"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "(1) Trithart"
-  url: ""
+  url: "/setts/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4/)
-(the same proportion at any scale), whose colour order is pattern [BBGGYYBYRBBBKKBBBGGYYBYRWK](/stripes/bbggyybyrbbbkkbbbggyybyrwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGGYYBYRBBBKKBBBGGYYBYRWK](/stripes/bbggyybyrbbbkkbbbggyybyrwk/).
 
 Sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
 

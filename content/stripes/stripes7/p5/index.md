@@ -186,7 +186,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [MacDuff Dress #5](/variants/s7/w39db9k10g11r7k3r7~x2/) | register-of-tartans |
+| 0.05 | [MacDuff Dress Clan Tartan](/variants/s7/w39db9k10g11r7k3r7~x2/) | house-of-tartan |
 
 ### RKRGKWR
 <a class="pat" href="/stripes/rkrgkwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RKRGKWR</span></a>
@@ -620,14 +620,14 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Aberdeen Football Club (1990)](/variants/s7/w2k1dr28k3r28k1w2~x2/) | register-of-tartans |
+| 0.06 | [Aberdeen F.C. Corporate Tartan](/variants/s7/w2k1dr28k3r28k1w2~x2/) | house-of-tartan |
 
 ### WKGKRKW
 <a class="pat" href="/stripes/wkgkrkw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WKGKRKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Prince Edward Island #2](/variants/s7/w2k1g16k12r12k1w2~x2/) | register-of-tartans |
+| 0.04 | [Prince Edward Island District Tartan](/variants/s7/w2k1g16k12r12k1w2~x2/) | house-of-tartan |
 
 ### WKRBKGY
 <a class="pat" href="/stripes/wkrbkgy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WKRBKGY</span></a>

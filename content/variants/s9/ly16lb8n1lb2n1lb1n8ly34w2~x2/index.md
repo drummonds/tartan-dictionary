@@ -1,14 +1,16 @@
 ---
 title: "Stuart of Bute St Colmac"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stuart of Bute St Colmac"
-  url: ""
+  url: "/setts/ly16lb8n1lb2n1lb1n8ly34w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly16lb8n1lb2n1lb1n8ly34w2/)
-(the same proportion at any scale), whose colour order is pattern [WYBWBWBWY](/stripes/wybwbwbwy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly16lb8n1lb2n1lb1n8ly34w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WYBWBWBWY](/stripes/wybwbwbwy/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

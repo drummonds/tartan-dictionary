@@ -1,14 +1,16 @@
 ---
 title: "Loch Lomond (1999)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Lomond (1999)"
-  url: ""
+  url: "/setts/dr28y3dr3db3dr4dp8g10dpi15dp4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr28y3dr3db3dr4dp8g10dpi15dp4/)
-(the same proportion at any scale), whose colour order is pattern [BBGBBBBGB](/stripes/bbgbbbbgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr28y3dr3db3dr4dp8g10dpi15dp4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBBBBGB](/stripes/bbgbbbbgb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr3dy15g4db6w2dr30db6y3~x2/"><circle cx="320.6" cy="179.9" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/"><circle cx="286.8" cy="192.0" r="4" fill="#3465a4"><title>Portree</title></circle></a><a href="/variants/s7/g3dg12dpi6gi3dp15ly2dp2~x2~g2203152-dpi1607327-gi2405139-dp1105325/"><circle cx="217.4" cy="220.9" r="4" fill="#3465a4"><title>Myres Castle (Corporate)</title></circle></a><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/"><circle cx="315.9" cy="198.4" r="4" fill="#3465a4"><title>Telfer, Jamie (Name)</title></circle></a><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/"><circle cx="345.4" cy="181.5" r="4" fill="#3465a4"><title>Michael from Appin (Personal)</title></circle></a><a href="/variants/s6/dy11db2r4y1dp2n2~x4/"><circle cx="301.3" cy="195.0" r="4" fill="#3465a4"><title>Windy Meadows</title></circle></a><circle cx="293.4" cy="205.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr3dy15g4db6w2dr30db6y3~x2/"><circle cx="320.6" cy="179.8" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/"><circle cx="286.8" cy="191.9" r="4" fill="#3465a4"><title>Portree</title></circle></a><a href="/variants/s7/g3dg12dpi6gi3dp15ly2dp2~x2~g2203152-dpi1607327-gi2405139-dp1105325/"><circle cx="217.5" cy="220.9" r="4" fill="#3465a4"><title>Myres Castle (Corporate)</title></circle></a><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/"><circle cx="316.0" cy="198.3" r="4" fill="#3465a4"><title>Telfer, Jamie (Name)</title></circle></a><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/"><circle cx="345.4" cy="181.4" r="4" fill="#3465a4"><title>Michael from Appin (Personal)</title></circle></a><a href="/variants/s6/dy11db2r4y1dp2n2~x4/"><circle cx="301.4" cy="194.9" r="4" fill="#3465a4"><title>Windy Meadows</title></circle></a><circle cx="293.5" cy="205.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dr28y3dr3db3dr4dp8g10dpi15dp4~x2~dp1105325-dpi1607327/

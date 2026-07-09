@@ -1,5 +1,12 @@
 ---
-title: "Murray of Elibank"
-redirect: "/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/"
+title: "Murray of Elibank Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Murray of Elibank](/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/).
+This is the **Murray of Elibank Clan Tartan** sett — one scale-free proportion (`db56k6g24k6db8k21y6k21db8k6g24k6db56`), colour order pattern
+[BKGKBKGKBKGKB](/stripes/bkgkbkgkbkgkb/). It is recorded as a single **variant**, below.
+First attested **1930**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Murray of Elibank Clan Tartan](/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/) ★ | 1930 | ![Murray of Elibank Clan Tartan sett](/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/sett.png) |

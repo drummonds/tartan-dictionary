@@ -1,5 +1,12 @@
 ---
 title: "Historic Scotland Corporate Tartan"
-redirect: "/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Historic Scotland Corporate Tartan](/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/).
+This is the **Historic Scotland Corporate Tartan** sett — one scale-free proportion (`k2g7k1g9dy21n2dy1n1dy2`), colour order pattern
+[GBGBGGKGK](/stripes/gbgbggkgk/). It is recorded as a single **variant**, below.
+First attested **1988**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Historic Scotland Corporate Tartan](/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/) ★ | 1988 | ![Historic Scotland Corporate Tartan sett](/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/sett.png) |

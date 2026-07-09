@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/">Scoepaig, fragment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/"><img src="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/sett.png" alt="Scoepaig, fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/">Scoepaig fragment Artifact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/"><img src="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/sett.png" alt="Scoepaig fragment Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

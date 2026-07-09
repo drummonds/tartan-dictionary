@@ -1,5 +1,12 @@
 ---
 title: "Baileville (Personal)"
-redirect: "/variants/s7/y1k4y1k4y11dr1y1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Baileville (Personal)](/variants/s7/y1k4y1k4y11dr1y1~x4/).
+This is the **Baileville (Personal)** sett — one scale-free proportion (`y1k4y1k4y11dr1y1`), colour order pattern
+[GBGKGKG](/stripes/gbgkgkg/). It is recorded as a single **variant**, below.
+First attested **1882**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Baileville (Personal)](/variants/s7/y1k4y1k4y11dr1y1~x4/) ★ | 1882 | ![Baileville (Personal) sett](/variants/s7/y1k4y1k4y11dr1y1~x4/sett.png) |

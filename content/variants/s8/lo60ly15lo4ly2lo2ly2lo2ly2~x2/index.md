@@ -1,14 +1,16 @@
 ---
 title: "Masai Shuka 09 (Artefact)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Masai Shuka 09 (Artefact)"
-  url: ""
+  url: "/setts/lo60ly15lo4ly2lo2ly2lo2ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo60ly15lo4ly2lo2ly2lo2ly2/)
-(the same proportion at any scale), whose colour order is pattern [YYYYYYYY](/stripes/yyyyyyyy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lo60ly15lo4ly2lo2ly2lo2ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YYYYYYYY](/stripes/yyyyyyyy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

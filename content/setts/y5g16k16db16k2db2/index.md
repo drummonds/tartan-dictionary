@@ -1,5 +1,12 @@
 ---
 title: "Hudson Valley Reg. Police P & D (Cor"
-redirect: "/variants/s6/y5g16k16db16k2db2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hudson Valley Reg. Police P & D (Cor](/variants/s6/y5g16k16db16k2db2~x2/).
+This is the **Hudson Valley Reg. Police P & D (Cor** sett — one scale-free proportion (`y5g16k16db16k2db2`), colour order pattern
+[BKBKGG](/stripes/bkbkgg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hudson Valley Reg. Police P & D (Cor](/variants/s6/y5g16k16db16k2db2~x2/) ★ | ~2016 | ![Hudson Valley Reg. Police P & D (Cor sett](/variants/s6/y5g16k16db16k2db2~x2/sett.png) |

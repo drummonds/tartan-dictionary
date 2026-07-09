@@ -1,5 +1,12 @@
 ---
 title: "Ryukoku University Heian Senior High School"
-redirect: "/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ryukoku University Heian Senior High School](/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/).
+This is the **Ryukoku University Heian Senior High School** sett — one scale-free proportion (`bi5k15lb5n9lb2b2lb2b2n9k3`), colour order pattern
+[BKWBWBWBBK](/stripes/bkwbwbwbbk/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ryukoku University Heian Senior High School](/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/) ★ | 2012 | ![Ryukoku University Heian Senior High School sett](/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/sett.png) |

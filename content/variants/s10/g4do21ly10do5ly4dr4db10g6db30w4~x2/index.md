@@ -1,14 +1,16 @@
 ---
 title: "State Seal of Arizona (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "State Seal of Arizona (Fashion)"
-  url: ""
+  url: "/setts/g4do21ly10do5ly4dr4db10g6db30w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4do21ly10do5ly4dr4db10g6db30w4/)
-(the same proportion at any scale), whose colour order is pattern [GBYBYBBGBW](/stripes/gbybybbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g4do21ly10do5ly4dr4db10g6db30w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBYBYBBGBW](/stripes/gbybybbgbw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.1" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.4" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/"><circle cx="127.7" cy="172.7" r="4" fill="#3465a4"><title>Scottish Bear (Mathan Albannach)</title></circle></a><a href="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/"><circle cx="182.7" cy="217.6" r="4" fill="#3465a4"><title>McLion</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="190.9" cy="208.0" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.5" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.6" cy="190.2" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><circle cx="140.9" cy="192.1" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/variants/s7/g4y7lo9y9db20w2db2~x2/"><circle cx="204.8" cy="213.5" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.8" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><circle cx="169.0" cy="191.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.0" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.3" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/"><circle cx="127.8" cy="172.6" r="4" fill="#3465a4"><title>Scottish Bear (Mathan Albannach)</title></circle></a><a href="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/"><circle cx="182.7" cy="217.5" r="4" fill="#3465a4"><title>McLion</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="191.0" cy="207.9" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.4" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.7" cy="190.1" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><circle cx="140.9" cy="192.1" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/variants/s7/g4y7lo9y9db20w2db2~x2/"><circle cx="204.8" cy="213.5" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.7" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><circle cx="169.1" cy="191.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/

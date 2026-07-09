@@ -1,16 +1,18 @@
 ---
 title: "Exabyte"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Exabyte"
   url: "/tartans/exabyte/"
 - name: "Exabyte"
-  url: ""
+  url: "/setts/dr3b35db4g47w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3b35db4g47w3/)
-(the same proportion at any scale), whose colour order is pattern [BBBGW](/stripes/bbbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr3b35db4g47w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBGW](/stripes/bbbgw/).
 
 Part of the [Exabyte](/tartans/exabyte/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.9" cy="187.7" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.0" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="272.5" cy="245.1" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.8" cy="163.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.1" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.7" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="259.7" cy="179.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.4" cy="215.2" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.9" cy="242.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><circle cx="357.4" cy="212.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.9" cy="187.6" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.1" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="272.5" cy="245.0" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.9" cy="163.5" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.0" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.6" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="259.7" cy="179.5" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.4" cy="215.1" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.9" cy="242.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><circle cx="357.4" cy="212.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr3b35db4g47w3~x2/

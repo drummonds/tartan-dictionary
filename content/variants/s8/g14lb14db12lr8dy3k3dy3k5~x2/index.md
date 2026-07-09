@@ -1,14 +1,16 @@
 ---
 title: "Somerset #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Somerset #2"
-  url: ""
+  url: "/setts/g14lb14db12lr8dy3k3dy3k5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14lb14db12lr8dy3k3dy3k5/)
-(the same proportion at any scale), whose colour order is pattern [GWBYGKGK](/stripes/gwbygkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g14lb14db12lr8dy3k3dy3k5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWBYGKGK](/stripes/gwbygkgk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r11db3dbi8w3y3g5k5~x4~db1004274-dbi1406275/"><circle cx="14.0" cy="213.9" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/variants/s9/g8n8lb7b5o2k2o2k2o2~x2/"><circle cx="14.0" cy="219.8" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="211.6" r="4" fill="#3465a4"><title>Kilkenny County, Crest Range</title></circle></a><a href="/variants/s6/r2db3t12k11g11y2~x2/"><circle cx="55.1" cy="210.4" r="4" fill="#3465a4"><title>Huntly Gordon 2000 (Commem)</title></circle></a><a href="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/"><circle cx="14.0" cy="215.4" r="4" fill="#3465a4"><title>Somerset District Tartan</title></circle></a><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="212.2" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.3" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><circle cx="52.3" cy="241.0" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.6" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.9" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><circle cx="14.0" cy="211.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r11db3dbi8w3y3g5k5~x4~db1004274-dbi1406275/"><circle cx="14.0" cy="213.8" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/variants/s9/g8n8lb7b5o2k2o2k2o2~x2/"><circle cx="14.0" cy="219.7" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="211.5" r="4" fill="#3465a4"><title>Kilkenny County, Crest Range</title></circle></a><a href="/variants/s6/r2db3t12k11g11y2~x2/"><circle cx="55.2" cy="210.4" r="4" fill="#3465a4"><title>Huntly Gordon 2000 (Commem)</title></circle></a><a href="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/"><circle cx="14.0" cy="215.4" r="4" fill="#3465a4"><title>Somerset District Tartan</title></circle></a><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="212.2" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.2" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><circle cx="52.3" cy="240.9" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.5" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.8" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><circle cx="14.0" cy="211.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/

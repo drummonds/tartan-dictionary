@@ -1,5 +1,12 @@
 ---
 title: "Scottish Qualifications Auth. (Corp)"
-redirect: "/variants/s7/db36lo5db8lb3db8lb10db3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scottish Qualifications Auth. (Corp)](/variants/s7/db36lo5db8lb3db8lb10db3~x2/).
+This is the **Scottish Qualifications Auth. (Corp)** sett — one scale-free proportion (`db36lo5db8lb3db8lb10db3`), colour order pattern
+[BWBWBYB](/stripes/bwbwbyb/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scottish Qualifications Auth. (Corp)](/variants/s7/db36lo5db8lb3db8lb10db3~x2/) ★ | 1996 | ![Scottish Qualifications Auth. (Corp) sett](/variants/s7/db36lo5db8lb3db8lb10db3~x2/sett.png) |

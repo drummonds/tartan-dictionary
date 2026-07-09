@@ -1,5 +1,12 @@
 ---
 title: "Campbell Brown Personal Tartan"
-redirect: "/variants/s13/y9k1dr31g30db36g3db3g3db36g30dr31k1w9~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Campbell Brown Personal Tartan](/variants/s13/y9k1dr31g30db36g3db3g3db36g30dr31k1w9~x2/).
+This is the **Campbell Brown Personal Tartan** sett — one scale-free proportion (`y9k1dr31g30db36g3db3g3db36g30dr31k1w9`), colour order pattern
+[GKBGBGBGBGBKW](/stripes/gkbgbgbgbgbkw/). It is recorded as a single **variant**, below.
+First attested **~1992**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Campbell Brown Personal Tartan](/variants/s13/y9k1dr31g30db36g3db3g3db36g30dr31k1w9~x2/) ★ | ~1992 | ![Campbell Brown Personal Tartan sett](/variants/s13/y9k1dr31g30db36g3db3g3db36g30dr31k1w9~x2/sett.png) |

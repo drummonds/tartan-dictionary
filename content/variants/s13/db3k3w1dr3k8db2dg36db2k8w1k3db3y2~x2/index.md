@@ -1,16 +1,18 @@
 ---
 title: "U.S. Special Forces"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S. Special Forces"
   url: "/tartans/u-s-special-forces/"
 - name: "U.S. Special Forces"
-  url: ""
+  url: "/setts/db3k3w1dr3k8db2dg36db2k8w1k3db3y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3k3w1dr3k8db2dg36db2k8w1k3db3y2/)
-(the same proportion at any scale), whose colour order is pattern [BKWBKBGBKWKBG](/stripes/bkwbkbgbkwkbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3k3w1dr3k8db2dg36db2k8w1k3db3y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBKBGBKWKBG](/stripes/bkwbkbgbkwkbg/).
 
 Part of the [U.S. Special Forces](/tartans/u-s-special-forces/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.7" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="269.8" cy="49.3" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald Society</title></circle></a><a href="/variants/s15/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="263.9" cy="47.8" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald So Corporate Tartan</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="265.8" cy="59.3" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1~x2/"><circle cx="251.2" cy="43.2" r="4" fill="#3465a4"><title>Eastern Shore Police (Corporate)</title></circle></a><a href="/variants/s12/k4dt6k4n4dt29n6k68db10k4t6db4w2~dt0900000-n1700000-db1208266-t2205244/"><circle cx="303.7" cy="64.1" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.8" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/"><circle cx="246.2" cy="97.3" r="4" fill="#3465a4"><title>Zorra Caledonian Society (Corporate</title></circle></a><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.1" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><circle cx="273.0" cy="60.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.5" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="269.8" cy="49.1" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald Society</title></circle></a><a href="/variants/s15/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="263.9" cy="47.6" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald So Corporate Tartan</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="265.8" cy="59.2" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1~x2/"><circle cx="251.2" cy="43.1" r="4" fill="#3465a4"><title>Eastern Shore Police (Corporate)</title></circle></a><a href="/variants/s12/k4dt6k4n4dt29n6k68db10k4t6db4w2~dt0900000-n1700000-db1208266-t2205244/"><circle cx="303.7" cy="63.9" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.3" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.6" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/"><circle cx="246.2" cy="97.2" r="4" fill="#3465a4"><title>Zorra Caledonian Society (Corporate</title></circle></a><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><circle cx="273.0" cy="60.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/

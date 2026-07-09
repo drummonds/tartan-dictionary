@@ -1,14 +1,16 @@
 ---
 title: "Delmarva (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Delmarva (District)"
-  url: ""
+  url: "/setts/n8r2n2lb1n1lb1n1lb1n2r2n6o1n12o1n6lb1n1ly4n1lb1n2r3n3lb1n1ly2n1lb1n8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n8r2n2lb1n1lb1n1lb1n2r2n6o1n12o1n6lb1n1ly4n1lb1n2r3n3lb1n1ly2n1lb1n8/)
-(the same proportion at any scale), whose colour order is pattern [BRBWBWBWBRBRBRBWBYBWBRBWBYBWB](/stripes/brbwbwbwbrbrbrbwbybwbrbwbybwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n8r2n2lb1n1lb1n1lb1n2r2n6o1n12o1n6lb1n1ly4n1lb1n2r3n3lb1n1ly2n1lb1n8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBWBWBWBRBRBRBWBYBWBRBWBYBWB](/stripes/brbwbwbwbrbrbrbwbybwbrbwbybwb/).
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 

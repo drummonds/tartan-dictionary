@@ -1,14 +1,16 @@
 ---
 title: "Toronto Fire Services (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Toronto Fire Services (Corporate)"
-  url: ""
+  url: "/setts/k4dr2lr2dr28db27dr2k2lo2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dr2lr2dr28db27dr2k2lo2/)
-(the same proportion at any scale), whose colour order is pattern [KBYBBBKY](/stripes/kbybbbky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4dr2lr2dr28db27dr2k2lo2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBYBBBKY](/stripes/kbybbbky/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.1" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s6/n9k16dg10k22dp67y4/"><circle cx="303.4" cy="157.8" r="4" fill="#3465a4"><title>Widows Sons Scotland (MRA)</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.3" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.2" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="250.4" cy="118.5" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="266.6" cy="133.2" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.3" r="4" fill="#3465a4"><title>By Storm</title></circle></a><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="254.9" cy="128.3" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/"><circle cx="259.0" cy="109.7" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.5" cy="132.6" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><circle cx="293.9" cy="142.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.0" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s6/n9k16dg10k22dp67y4/"><circle cx="303.4" cy="157.7" r="4" fill="#3465a4"><title>Widows Sons Scotland (MRA)</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.2" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.1" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="250.4" cy="118.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="266.6" cy="133.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.2" r="4" fill="#3465a4"><title>By Storm</title></circle></a><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="254.9" cy="128.2" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/"><circle cx="259.0" cy="109.6" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.6" cy="132.4" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><circle cx="293.9" cy="142.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/

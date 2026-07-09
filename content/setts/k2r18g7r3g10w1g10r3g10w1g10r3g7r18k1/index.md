@@ -1,5 +1,12 @@
 ---
 title: "MacAulay"
-redirect: "/variants/s15/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacAulay](/variants/s15/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1~x4/).
+This is the **MacAulay** sett — one scale-free proportion (`k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1`), colour order pattern
+[KRGRGWGRGWGRGRK](/stripes/krgrgwgrgwgrgrk/). It is recorded as a single **variant**, below.
+First attested **1831**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacAulay](/variants/s15/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1~x4/) ★ | 1831 | ![MacAulay sett](/variants/s15/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1~x4/sett.png) |

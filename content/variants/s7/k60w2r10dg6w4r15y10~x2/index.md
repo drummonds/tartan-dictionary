@@ -1,14 +1,16 @@
 ---
 title: "Iberia Dress, Black (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Iberia Dress, Black (Fashion)"
-  url: ""
+  url: "/setts/k60w2r10dg6w4r15y10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k60w2r10dg6w4r15y10/)
-(the same proportion at any scale), whose colour order is pattern [GRWGRWK](/stripes/grwgrwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k60w2r10dg6w4r15y10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRWGRWK](/stripes/grwgrwk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.3" cy="95.6" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.7" cy="136.9" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.6" cy="77.4" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.2" cy="148.2" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s8/k3r1k30w1o28g1o1w3~x2/"><circle cx="262.5" cy="78.4" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="126.1" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="273.4" cy="135.6" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.9" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.6" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><circle cx="272.7" cy="91.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.5" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.3" cy="95.5" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.8" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.6" cy="77.3" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.3" cy="148.1" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s8/k3r1k30w1o28g1o1w3~x2/"><circle cx="262.5" cy="78.3" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="125.9" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="273.5" cy="135.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.8" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.5" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><circle cx="272.8" cy="91.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k60w2r10dg6w4r15y10~x2/

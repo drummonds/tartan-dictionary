@@ -1,5 +1,12 @@
 ---
 title: "Mighty Men (Corporate)"
-redirect: "/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mighty Men (Corporate)](/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/).
+This is the **Mighty Men (Corporate)** sett — one scale-free proportion (`g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2`), colour order pattern
+[GWRWRBRBRBRBRW](/stripes/gwrwrbrbrbrbrw/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Mighty Men (Corporate)](/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/) ★ | 2010 | ![Mighty Men (Corporate) sett](/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/sett.png) |

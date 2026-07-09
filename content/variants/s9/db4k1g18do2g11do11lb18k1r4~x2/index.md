@@ -1,14 +1,16 @@
 ---
 title: "Morgan in Maryland (USA)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Morgan in Maryland (USA)"
-  url: ""
+  url: "/setts/db4k1g18do2g11do11lb18k1r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k1g18do2g11do11lb18k1r4/)
-(the same proportion at any scale), whose colour order is pattern [BKGBGBWKR](/stripes/bkgbgbwkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4k1g18do2g11do11lb18k1r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGBGBWKR](/stripes/bkgbgbwkr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><circle cx="155.9" cy="138.3" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.3" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.8" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi1406275-db1204274/"><circle cx="138.8" cy="137.3" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><circle cx="129.3" cy="123.9" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.1" cy="154.0" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="119.8" cy="153.9" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="128.3" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="207.7" cy="110.5" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.8" cy="97.8" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><circle cx="155.8" cy="137.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><circle cx="155.9" cy="138.2" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.7" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi1406275-db1204274/"><circle cx="138.8" cy="137.2" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><circle cx="129.3" cy="123.8" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.2" cy="153.9" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="119.8" cy="153.8" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="128.2" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="207.7" cy="110.4" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.8" cy="97.7" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><circle cx="155.8" cy="137.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db4k1g18do2g11do11lb18k1r4~x2/

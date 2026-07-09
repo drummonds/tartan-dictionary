@@ -1,5 +1,12 @@
 ---
 title: "Jensen, Sven (Personal)"
-redirect: "/variants/s9/g12k8n6k22n3k8n3k40g6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Jensen, Sven (Personal)](/variants/s9/g12k8n6k22n3k8n3k40g6/).
+This is the **Jensen, Sven (Personal)** sett — one scale-free proportion (`g12k8n6k22n3k8n3k40g6`), colour order pattern
+[GKBKBKBKG](/stripes/gkbkbkbkg/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Jensen, Sven (Personal)](/variants/s9/g12k8n6k22n3k8n3k40g6/) ★ | 2011 | ![Jensen, Sven (Personal) sett](/variants/s9/g12k8n6k22n3k8n3k40g6/sett.png) |

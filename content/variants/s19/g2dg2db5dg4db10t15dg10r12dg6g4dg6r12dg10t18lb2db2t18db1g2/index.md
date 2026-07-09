@@ -1,6 +1,7 @@
 ---
 title: "Watkins Welsh Name Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Watkins"
   url: "/tartans/watkins/"
 - name: "Watkins Welsh Name Tartan"
-  url: ""
+  url: "/setts/g2dg2db5dg4db10t15dg10r12dg6g4dg6r12dg10t18lb2db2t18db1g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2dg2db5dg4db10t15dg10r12dg6g4dg6r12dg10t18lb2db2t18db1g2/)
-(the same proportion at any scale), whose colour order is pattern [GBBBWBGRGGGRGBBGBGG](/stripes/gbbbwbgrgggrgbbgbgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g2dg2db5dg4db10t15dg10r12dg6g4dg6r12dg10t18lb2db2t18db1g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBWBGRGGGRGBBGBGG](/stripes/gbbbwbgrgggrgbbgbgg/).
 
 Part of the [Watkins](/tartans/watkins/) tartan — the named design grouping this sett with its other cloths.
 
@@ -29,7 +31,7 @@ Earliest known date: pre 2004 The tartan for this Welsh surname and its variatio
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2004 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/"><circle cx="205.8" cy="167.4" r="4" fill="#3465a4"><title>Watkins (Welsh Name)</title></circle></a><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><circle cx="157.2" cy="162.3" r="4" fill="#3465a4"><title>Otago Peninsula Corporate Tartan</title></circle></a><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><circle cx="150.8" cy="161.1" r="4" fill="#3465a4"><title>Allen Northumbrian Family Tartan</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/"><circle cx="209.7" cy="148.7" r="4" fill="#3465a4"><title>Hart of Scotland (Corporate)</title></circle></a><a href="/variants/s11/r6g22dg8g4dg12g2dg18db8lb12db35ly4/"><circle cx="146.1" cy="157.3" r="4" fill="#3465a4"><title>Bruntsfield Links Golfing Society</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><circle cx="201.2" cy="125.5" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s17/b30dp3r3g12r12g12b8r3b8dp12r5g3r5g25r4b6lb1~x2/"><circle cx="214.5" cy="130.0" r="4" fill="#3465a4"><title>MacDougall 2</title></circle></a><a href="/variants/s16/db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1~x2/"><circle cx="79.5" cy="145.9" r="4" fill="#3465a4"><title>Gordon #3</title></circle></a><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><circle cx="155.4" cy="178.8" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/variants/s16/dt18w1o8w1db16dp8w1dt18w1dt20dp8dt6g8db10g10db1~x4/"><circle cx="244.7" cy="156.5" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #2)</title></circle></a><circle cx="164.0" cy="144.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/"><circle cx="205.8" cy="167.3" r="4" fill="#3465a4"><title>Watkins (Welsh Name)</title></circle></a><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><circle cx="157.2" cy="162.2" r="4" fill="#3465a4"><title>Otago Peninsula Corporate Tartan</title></circle></a><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><circle cx="150.8" cy="160.9" r="4" fill="#3465a4"><title>Allen Northumbrian Family Tartan</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/"><circle cx="209.7" cy="148.6" r="4" fill="#3465a4"><title>Hart of Scotland (Corporate)</title></circle></a><a href="/variants/s11/r6g22dg8g4dg12g2dg18db8lb12db35ly4/"><circle cx="146.1" cy="157.2" r="4" fill="#3465a4"><title>Bruntsfield Links Golfing Society</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><circle cx="201.2" cy="125.3" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s17/b30dp3r3g12r12g12b8r3b8dp12r5g3r5g25r4b6lb1~x2/"><circle cx="214.5" cy="129.8" r="4" fill="#3465a4"><title>MacDougall 2</title></circle></a><a href="/variants/s16/db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1~x2/"><circle cx="79.5" cy="145.8" r="4" fill="#3465a4"><title>Gordon #3</title></circle></a><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><circle cx="155.4" cy="178.7" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/variants/s16/dt18w1o8w1db16dp8w1dt18w1dt20dp8dt6g8db10g10db1~x4/"><circle cx="244.7" cy="156.4" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #2)</title></circle></a><circle cx="164.0" cy="144.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s19/g2dg2db5dg4db10t15dg10r12dg6g4dg6r12dg10t18lb2db2t18db1g2/

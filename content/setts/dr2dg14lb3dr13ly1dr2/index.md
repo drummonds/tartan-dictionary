@@ -1,5 +1,12 @@
 ---
 title: "Swedish Para Whisky Club (Corporate"
-redirect: "/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Swedish Para Whisky Club (Corporate](/variants/s6/dr2dg14lb3dr13ly1dr2~x4/).
+This is the **Swedish Para Whisky Club (Corporate** sett — one scale-free proportion (`dr2dg14lb3dr13ly1dr2`), colour order pattern
+[BGWBYB](/stripes/bgwbyb/). It is recorded as a single **variant**, below.
+First attested **~2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Swedish Para Whisky Club (Corporate](/variants/s6/dr2dg14lb3dr13ly1dr2~x4/) ★ | ~2012 | ![Swedish Para Whisky Club (Corporate sett](/variants/s6/dr2dg14lb3dr13ly1dr2~x4/sett.png) |

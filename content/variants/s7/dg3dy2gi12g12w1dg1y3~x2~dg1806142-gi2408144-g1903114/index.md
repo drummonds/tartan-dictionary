@@ -1,14 +1,16 @@
 ---
 title: "Braemar House Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Braemar House Corporate Tartan"
-  url: ""
+  url: "/setts/dg3dy2gi12g12w1dg1y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg3dy2gi12g12w1dg1y3/)
-(the same proportion at any scale), whose colour order is pattern [GGGGWGG](/stripes/ggggwgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg3dy2gi12g12w1dg1y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGWGG](/stripes/ggggwgg/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1987 The Lords Kilmarnock are descended from both the Hays 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1987 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"><circle cx="236.6" cy="181.8" r="4" fill="#3465a4"><title>Lunting Papi (Personal)</title></circle></a><a href="/variants/s7/y3g1w1gi12gii12o2g3~x2~gi2104115-gii2508144/"><circle cx="347.3" cy="245.1" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/"><circle cx="257.8" cy="214.8" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/"><circle cx="255.8" cy="322.1" r="4" fill="#3465a4"><title>Devon, Green (District)</title></circle></a><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><circle cx="310.3" cy="244.0" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="418.3" cy="295.6" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.5" cy="214.8" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/"><circle cx="415.9" cy="215.1" r="4" fill="#3465a4"><title>McAlbourne (Corporate)</title></circle></a><circle cx="310.9" cy="236.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"><circle cx="236.7" cy="181.7" r="4" fill="#3465a4"><title>Lunting Papi (Personal)</title></circle></a><a href="/variants/s7/y3g1w1gi12gii12o2g3~x2~gi2104115-gii2508144/"><circle cx="347.3" cy="245.1" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/"><circle cx="257.8" cy="214.7" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/"><circle cx="255.9" cy="322.0" r="4" fill="#3465a4"><title>Devon, Green (District)</title></circle></a><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><circle cx="310.4" cy="244.0" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="418.4" cy="295.6" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.5" cy="214.8" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/"><circle cx="416.0" cy="215.0" r="4" fill="#3465a4"><title>McAlbourne (Corporate)</title></circle></a><circle cx="310.9" cy="236.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg3dy2gi12g12w1dg1y3~x2~dg1806142-gi2408144-g1903114/

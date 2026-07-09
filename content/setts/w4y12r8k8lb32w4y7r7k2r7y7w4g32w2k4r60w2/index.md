@@ -2,15 +2,15 @@
 title: "Chattan, Chief of Clan"
 date: 2023-03-18
 ---
-The **Chattan, Chief of Clan** tartan is one sett proportion (`w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[WGRKWWGRKRGWGWKRW](/stripes/wgrkwwgrkrgwgwkrw/); each scale below is its own sett page. First attested **1819**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Chattan, Chief of Clan** sett — one scale-free proportion (`w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2`), colour order pattern
+[WGRKWWGRKRGWGWKRW](/stripes/wgrkwwgrkrgwgwkrw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1816**.
 
-Part of the [Chattan Chief](/tartans/chattan-chief/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Chattan Chief](/tartans/chattan-chief/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×2 | [Chattan, Chief of Clan](/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/) ★ | 1819 | ![Chattan, Chief of Clan sett](/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/sett.png) |
-| ×1 | [Chattan Chief Clan Tartan](/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/) | ~2016 | ![Chattan Chief Clan Tartan sett](/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/sett.png) |
+| ×1 | [Chattan Chief Clan Tartan](/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/) ★ | 1816 | ![Chattan Chief Clan Tartan sett](/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/sett.png) |
+| ×2 | [Chattan, Chief of Clan](/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/) | 1819 | ![Chattan, Chief of Clan sett](/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/sett.png) |

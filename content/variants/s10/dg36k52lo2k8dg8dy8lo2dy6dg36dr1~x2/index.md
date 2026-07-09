@@ -1,14 +1,16 @@
 ---
 title: "Grenauld"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Grenauld"
-  url: ""
+  url: "/setts/dg36k52lo2k8dg8dy8lo2dy6dg36dr1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg36k52lo2k8dg8dy8lo2dy6dg36dr1/)
-(the same proportion at any scale), whose colour order is pattern [BGGYGGKYKG](/stripes/bggyggkykg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg36k52lo2k8dg8dy8lo2dy6dg36dr1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGYGGKYKG](/stripes/bggyggkykg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.0" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="260.8" cy="124.4" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s7/g8dg60w1k33g9y4g4~x2/"><circle cx="299.0" cy="101.2" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.3" cy="84.1" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.6" cy="92.0" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.8" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s13/k20dg4k4db4dg28ly1dg28db4k20dg8k4dg4k4~x2/"><circle cx="344.5" cy="134.0" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/variants/s11/dg9y5dg57r1dg8k40o7k4dg4k2w4~x2/"><circle cx="299.0" cy="32.5" r="4" fill="#3465a4"><title>Unidentified Cant #10</title></circle></a><a href="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/"><circle cx="339.1" cy="82.9" r="4" fill="#3465a4"><title>Schwarzen Keiler, Die</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/"><circle cx="271.2" cy="105.6" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><circle cx="334.3" cy="101.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.0" cy="96.1" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="260.9" cy="124.2" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s7/g8dg60w1k33g9y4g4~x2/"><circle cx="299.1" cy="101.1" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.3" cy="84.0" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.6" cy="91.8" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.6" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s13/k20dg4k4db4dg28ly1dg28db4k20dg8k4dg4k4~x2/"><circle cx="344.6" cy="133.8" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/variants/s11/dg9y5dg57r1dg8k40o7k4dg4k2w4~x2/"><circle cx="299.0" cy="32.3" r="4" fill="#3465a4"><title>Unidentified Cant #10</title></circle></a><a href="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/"><circle cx="339.2" cy="82.7" r="4" fill="#3465a4"><title>Schwarzen Keiler, Die</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/"><circle cx="271.2" cy="105.5" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><circle cx="334.3" cy="101.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg36k52lo2k8dg8dy8lo2dy6dg36dr1~x2/

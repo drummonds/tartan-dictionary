@@ -1,5 +1,14 @@
 ---
 title: "Letter Dress (2014)"
-redirect: "/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Letter Dress (2014)](/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/).
+This is the **Letter Dress (2014)** sett — one scale-free proportion (`n29k23lo1g9lo2r4k14w2k4`), colour order pattern
+[BKYGYRKWK](/stripes/bkygyrkwk/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+Part of the [Letter Dress](/tartans/letter-dress/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Letter Dress (2014)](/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/) ★ | 2014 | ![Letter Dress (2014) sett](/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/sett.png) |

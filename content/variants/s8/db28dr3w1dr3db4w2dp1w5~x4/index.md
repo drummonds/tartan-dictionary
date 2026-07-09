@@ -1,16 +1,18 @@
 ---
 title: "Baker Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Baker"
   url: "/tartans/baker/"
 - name: "Baker Family Tartan"
-  url: ""
+  url: "/setts/db28dr3w1dr3db4w2dp1w5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db28dr3w1dr3db4w2dp1w5/)
-(the same proportion at any scale), whose colour order is pattern [BBWBBWBW](/stripes/bbwbbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db28dr3w1dr3db4w2dp1w5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBBWBW](/stripes/bbwbbwbw/).
 
 Part of the [Baker](/tartans/baker/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.'
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="406.9" cy="115.8" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><circle cx="411.1" cy="119.8" r="4" fill="#3465a4"><title>Baker Dress Family Tartan</title></circle></a><a href="/variants/s8/db28ly3lb1ly3db4lb2dp1lb5~x4/"><circle cx="457.8" cy="148.1" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/variants/s6/db128dr8lb41dt4lb4dt4/"><circle cx="480.9" cy="156.1" r="4" fill="#3465a4"><title>French Freemasons' Pride</title></circle></a><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/"><circle cx="497.7" cy="135.5" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/"><circle cx="449.0" cy="177.1" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="495.9" cy="110.6" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.9" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/"><circle cx="327.3" cy="142.5" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><circle cx="449.9" cy="142.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="406.9" cy="115.7" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><circle cx="411.1" cy="119.7" r="4" fill="#3465a4"><title>Baker Dress Family Tartan</title></circle></a><a href="/variants/s8/db28ly3lb1ly3db4lb2dp1lb5~x4/"><circle cx="457.8" cy="148.0" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/variants/s6/db128dr8lb41dt4lb4dt4/"><circle cx="481.0" cy="156.0" r="4" fill="#3465a4"><title>French Freemasons' Pride</title></circle></a><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/"><circle cx="497.7" cy="135.4" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.2" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/"><circle cx="449.0" cy="177.1" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="495.9" cy="110.5" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="440.0" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/"><circle cx="327.3" cy="142.4" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><circle cx="449.9" cy="142.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db28dr3w1dr3db4w2dp1w5~x4/

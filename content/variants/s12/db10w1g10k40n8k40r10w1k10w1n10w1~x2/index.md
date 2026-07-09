@@ -1,14 +1,16 @@
 ---
 title: "EthosEnergy"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "EthosEnergy"
-  url: ""
+  url: "/setts/db10w1g10k40n8k40r10w1k10w1n10w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10w1g10k40n8k40r10w1k10w1n10w1/)
-(the same proportion at any scale), whose colour order is pattern [BWGKBKRWKWBW](/stripes/bwgkbkrwkwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db10w1g10k40n8k40r10w1k10w1n10w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGKBKRWKWBW](/stripes/bwgkbkrwkwbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.2" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.6" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.6" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s13/w2db2k32g9r2w2r2g4k20y1k9db2w2~x2/"><circle cx="319.1" cy="49.4" r="4" fill="#3465a4"><title>Nova Scotia Medical Examiner Service</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.6" cy="77.4" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.9" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="314.9" cy="75.8" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="301.9" cy="49.9" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s8/k40g21w3r1y2k12db12k10~x2/"><circle cx="277.6" cy="84.0" r="4" fill="#3465a4"><title>MacNeill, Royce (Personal)</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.7" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><circle cx="291.1" cy="57.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.0" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.4" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s13/w2db2k32g9r2w2r2g4k20y1k9db2w2~x2/"><circle cx="319.1" cy="49.2" r="4" fill="#3465a4"><title>Nova Scotia Medical Examiner Service</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.6" cy="77.3" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.7" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="314.9" cy="75.6" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="301.9" cy="49.7" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s8/k40g21w3r1y2k12db12k10~x2/"><circle cx="277.7" cy="83.8" r="4" fill="#3465a4"><title>MacNeill, Royce (Personal)</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.5" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><circle cx="291.1" cy="57.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db10w1g10k40n8k40r10w1k10w1n10w1~x2/

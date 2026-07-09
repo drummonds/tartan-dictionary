@@ -1,14 +1,16 @@
 ---
 title: "Maple Leaf (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Maple Leaf (District)"
-  url: ""
+  url: "/setts/dr15dg3dr3dg19dyi6dy6o6dg19dr3dg3dr15dy13/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr15dg3dr3dg19dyi6dy6o6dg19dr3dg3dr15dy13/)
-(the same proportion at any scale), whose colour order is pattern [BGBGGGRGBGBG](/stripes/bgbgggrgbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr15dg3dr3dg19dyi6dy6o6dg19dr3dg3dr15dy13/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGGGRGBGBG](/stripes/bgbgggrgbgbg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

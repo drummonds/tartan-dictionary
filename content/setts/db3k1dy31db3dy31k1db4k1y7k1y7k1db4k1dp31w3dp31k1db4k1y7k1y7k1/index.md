@@ -1,5 +1,12 @@
 ---
 title: "Buchanan(Mtd)MacGregor Hastie V. Tartan"
-redirect: "/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Buchanan(Mtd)MacGregor Hastie V. Tartan](/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/).
+This is the **Buchanan(Mtd)MacGregor Hastie V. Tartan** sett — one scale-free proportion (`db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1`), colour order pattern
+[BKGBGKBKGKGKBKBWBKBKGKGK](/stripes/bkgbgkbkgkgkbkbwbkbkgkgk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Buchanan(Mtd)MacGregor Hastie V. Tartan](/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/) ★ | ~2016 | ![Buchanan(Mtd)MacGregor Hastie V. Tartan sett](/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/sett.png) |

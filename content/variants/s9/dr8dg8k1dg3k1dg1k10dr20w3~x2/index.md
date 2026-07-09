@@ -1,6 +1,7 @@
 ---
 title: "Hunter of Bute (Clan ?)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Hunter of Bute"
   url: "/tartans/hunter-of-bute/"
 - name: "Hunter of Bute (Clan ?)"
-  url: ""
+  url: "/setts/dr8dg8k1dg3k1dg1k10dr20w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr8dg8k1dg3k1dg1k10dr20w3/)
-(the same proportion at any scale), whose colour order is pattern [BGKGKGKBW](/stripes/bgkgkgkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr8dg8k1dg3k1dg1k10dr20w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKGKGKBW](/stripes/bgkgkgkbw/).
 
 Part of the [Hunter of Bute](/tartans/hunter-of-bute/) tartan — the named design grouping this sett with its other cloths.
 
@@ -83,6 +85,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.5" cy="103.2" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/"><circle cx="304.2" cy="136.4" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><circle cx="226.8" cy="141.7" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/"><circle cx="191.9" cy="113.8" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/"><circle cx="268.3" cy="124.8" r="4" fill="#3465a4"><title>Booth (Fashion)</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="213.4" cy="162.0" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/"><circle cx="277.2" cy="142.7" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.6" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/"><circle cx="260.6" cy="139.9" r="4" fill="#3465a4"><title>Gwyn (Welsh Name)</title></circle></a><circle cx="276.9" cy="145.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.5" cy="103.1" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/"><circle cx="304.2" cy="136.3" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><circle cx="226.8" cy="141.6" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/"><circle cx="191.9" cy="113.7" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/"><circle cx="268.3" cy="124.7" r="4" fill="#3465a4"><title>Booth (Fashion)</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="213.5" cy="161.9" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/"><circle cx="277.2" cy="142.6" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.5" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.6" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/"><circle cx="260.6" cy="139.7" r="4" fill="#3465a4"><title>Gwyn (Welsh Name)</title></circle></a><circle cx="276.9" cy="145.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/

@@ -1,16 +1,18 @@
 ---
 title: "Ladybird (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ladybird"
   url: "/tartans/ladybird/"
 - name: "Ladybird (Personal)"
-  url: ""
+  url: "/setts/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2/)
-(the same proportion at any scale), whose colour order is pattern [BRGBGBGBRBRBRBR](/stripes/brgbgbgbrbrbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGBGBGBRBRBRBR](/stripes/brgbgbgbrbrbrbr/).
 
 Part of the [Ladybird](/tartans/ladybird/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2~x2/"><circle cx="256.0" cy="120.5" r="4" fill="#3465a4"><title>Ladybird</title></circle></a><a href="/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/"><circle cx="281.1" cy="114.8" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/variants/s10/r18db2r2db2r3db14dg29y1dg2y4~x2~db1406275/"><circle cx="329.0" cy="118.1" r="4" fill="#3465a4"><title>Unidentified Lindley #2</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8r2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2209032-r1707016/"><circle cx="244.7" cy="109.9" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8b2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2008029-r1707016/"><circle cx="236.3" cy="100.6" r="4" fill="#3465a4"><title>MacColl, Ancient</title></circle></a><a href="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="306.6" cy="105.0" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/variants/s18/g14r6ri2db3r65db2lb2r6db34r6lb2db2r4g66r12ri2db2lb4~r2109032-ri2406019/"><circle cx="271.1" cy="69.4" r="4" fill="#3465a4"><title>Stewart of Ardshiel Clan Tartan</title></circle></a><a href="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/"><circle cx="241.7" cy="135.3" r="4" fill="#3465a4"><title>Unnamed C18/19th - Antigonish (A)</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.3" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/"><circle cx="321.4" cy="122.8" r="4" fill="#3465a4"><title>Crieff</title></circle></a><circle cx="294.7" cy="115.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2~x2/"><circle cx="256.0" cy="120.4" r="4" fill="#3465a4"><title>Ladybird</title></circle></a><a href="/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/"><circle cx="281.1" cy="114.7" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/variants/s10/r18db2r2db2r3db14dg29y1dg2y4~x2~db1406275/"><circle cx="329.0" cy="117.9" r="4" fill="#3465a4"><title>Unidentified Lindley #2</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8r2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2209032-r1707016/"><circle cx="244.7" cy="109.8" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8b2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2008029-r1707016/"><circle cx="236.3" cy="100.4" r="4" fill="#3465a4"><title>MacColl, Ancient</title></circle></a><a href="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="306.6" cy="104.9" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/variants/s18/g14r6ri2db3r65db2lb2r6db34r6lb2db2r4g66r12ri2db2lb4~r2109032-ri2406019/"><circle cx="271.1" cy="69.2" r="4" fill="#3465a4"><title>Stewart of Ardshiel Clan Tartan</title></circle></a><a href="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/"><circle cx="241.6" cy="135.1" r="4" fill="#3465a4"><title>Unnamed C18/19th - Antigonish (A)</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/"><circle cx="321.4" cy="122.6" r="4" fill="#3465a4"><title>Crieff</title></circle></a><circle cx="294.7" cy="114.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2~x2~r1606028-dr1004029/

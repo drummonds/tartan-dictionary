@@ -1,16 +1,18 @@
 ---
 title: "Paget Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Paget"
   url: "/tartans/paget/"
 - name: "Paget Family Tartan"
-  url: ""
+  url: "/setts/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3/)
-(the same proportion at any scale), whose colour order is pattern [RGGGKGBGBGKGWR](/stripes/rgggkgbgbgkgwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGGGKGBGBGKGWR](/stripes/rgggkgbgbgkgwr/).
 
 Part of the [Paget](/tartans/paget/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1992 Designed as a 'Family' tartan and woven by Peter MacDo
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1992 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/"><circle cx="109.6" cy="100.6" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/"><circle cx="89.8" cy="124.4" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/variants/s14/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12~x4~dbi1605267-db0804274/"><circle cx="128.0" cy="100.9" r="4" fill="#3465a4"><title>Gow Hunting #2</title></circle></a><a href="/variants/s14/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12~x4~dbi1604274-db0805267/"><circle cx="128.1" cy="100.9" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/"><circle cx="129.6" cy="117.0" r="4" fill="#3465a4"><title>Paget (Personal)</title></circle></a><a href="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/"><circle cx="94.6" cy="117.7" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db1204274-dbi1406275/"><circle cx="109.3" cy="115.8" r="4" fill="#3465a4"><title>Clack (Personal)</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.6" cy="124.2" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s13/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2~x2/"><circle cx="74.5" cy="137.9" r="4" fill="#3465a4"><title>MacKusick (Piper) #2 (Personal)</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.8" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><circle cx="119.3" cy="120.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/"><circle cx="109.6" cy="100.4" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/"><circle cx="89.9" cy="124.2" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/variants/s14/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12~x4~dbi1605267-db0804274/"><circle cx="128.0" cy="100.8" r="4" fill="#3465a4"><title>Gow Hunting #2</title></circle></a><a href="/variants/s14/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12~x4~dbi1604274-db0805267/"><circle cx="128.1" cy="100.8" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/"><circle cx="129.6" cy="116.9" r="4" fill="#3465a4"><title>Paget (Personal)</title></circle></a><a href="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/"><circle cx="94.6" cy="117.6" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db1204274-dbi1406275/"><circle cx="109.3" cy="115.7" r="4" fill="#3465a4"><title>Clack (Personal)</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.6" cy="124.0" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s13/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2~x2/"><circle cx="74.5" cy="137.7" r="4" fill="#3465a4"><title>MacKusick (Piper) #2 (Personal)</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.6" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><circle cx="119.4" cy="120.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/

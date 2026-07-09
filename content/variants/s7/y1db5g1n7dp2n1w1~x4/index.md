@@ -1,16 +1,18 @@
 ---
 title: "Deeside District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Deeside"
   url: "/tartans/deeside/"
 - name: "Deeside District Tartan"
-  url: ""
+  url: "/setts/y1db5g1n7dp2n1w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y1db5g1n7dp2n1w1/)
-(the same proportion at any scale), whose colour order is pattern [GBGBBBW](/stripes/gbgbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y1db5g1n7dp2n1w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBBBW](/stripes/gbgbbbw/).
 
 Part of the [Deeside](/tartans/deeside/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1963 The name Deas is described as an 'alias' for Davidson 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1963 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.9" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.3" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="195.0" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.5" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/"><circle cx="182.7" cy="217.6" r="4" fill="#3465a4"><title>McLion</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.6" cy="190.2" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s7/g3dg12dpi6gi3dp15ly2dp2~x2~g2203152-dpi1607327-gi2405139-dp1105325/"><circle cx="217.4" cy="220.9" r="4" fill="#3465a4"><title>Myres Castle (Corporate)</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.2" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s9/w1dbi6g1dbi1g1dbi1db4dr5lo1~x4~dbi1406275-db1106275/"><circle cx="175.0" cy="211.6" r="4" fill="#3465a4"><title>McLion (Corporate)</title></circle></a><a href="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/"><circle cx="229.7" cy="203.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><circle cx="242.2" cy="219.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.8" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.2" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="194.9" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.6" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/"><circle cx="182.7" cy="217.5" r="4" fill="#3465a4"><title>McLion</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.7" cy="190.1" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s7/g3dg12dpi6gi3dp15ly2dp2~x2~g2203152-dpi1607327-gi2405139-dp1105325/"><circle cx="217.5" cy="220.9" r="4" fill="#3465a4"><title>Myres Castle (Corporate)</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.1" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s9/w1dbi6g1dbi1g1dbi1db4dr5lo1~x4~dbi1406275-db1106275/"><circle cx="175.0" cy="211.5" r="4" fill="#3465a4"><title>McLion (Corporate)</title></circle></a><a href="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/"><circle cx="229.7" cy="202.9" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><circle cx="242.2" cy="219.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y1db5g1n7dp2n1w1~x4/

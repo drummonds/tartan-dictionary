@@ -1,14 +1,16 @@
 ---
 title: "MacNeill"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNeill"
-  url: ""
+  url: "/setts/db5r3db21b5db5b40k2b2w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5r3db21b5db5b40k2b2w1/)
-(the same proportion at any scale), whose colour order is pattern [BRBBBBKBW](/stripes/brbbbbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db5r3db21b5db5b40k2b2w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBBBBKBW](/stripes/brbbbbkbw/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4n21db8k4db4dy4db9n9db38k1w3~x2/"><circle cx="372.7" cy="108.1" r="4" fill="#3465a4"><title>Connaught Ancestry (Fashion)</title></circle></a><a href="/variants/s11/db4n21db8k4db4y4db9n9db38k1w3~x2/"><circle cx="366.4" cy="106.0" r="4" fill="#3465a4"><title>Connaught Ancestry</title></circle></a><a href="/variants/s8/b98db32k3w6db4w4db6b4/"><circle cx="434.8" cy="110.1" r="4" fill="#3465a4"><title>Irn Bru</title></circle></a><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><circle cx="388.5" cy="109.1" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="357.4" cy="155.5" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><circle cx="371.6" cy="94.0" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.2" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.3" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.7" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/variants/s9/db70w6db21g10t27g4t4g1r4~x2/"><circle cx="388.6" cy="100.2" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><circle cx="391.3" cy="106.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4n21db8k4db4dy4db9n9db38k1w3~x2/"><circle cx="372.7" cy="108.0" r="4" fill="#3465a4"><title>Connaught Ancestry (Fashion)</title></circle></a><a href="/variants/s11/db4n21db8k4db4y4db9n9db38k1w3~x2/"><circle cx="366.4" cy="105.9" r="4" fill="#3465a4"><title>Connaught Ancestry</title></circle></a><a href="/variants/s8/b98db32k3w6db4w4db6b4/"><circle cx="434.8" cy="110.0" r="4" fill="#3465a4"><title>Irn Bru</title></circle></a><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><circle cx="388.6" cy="108.9" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="357.4" cy="155.4" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><circle cx="371.6" cy="93.8" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.2" cy="81.6" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.2" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.6" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/variants/s9/db70w6db21g10t27g4t4g1r4~x2/"><circle cx="388.6" cy="100.0" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><circle cx="391.4" cy="106.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db5r3db21b5db5b40k2b2w1~x2/

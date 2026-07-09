@@ -1,14 +1,16 @@
 ---
 title: "Welsh National (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Welsh National #2"
   url: "/setts/k4dy2r2dy2k2dy15ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dy2r2dy2k2dy15ly2/)
-(the same proportion at any scale), whose colour order is pattern [KGRGKGY](/stripes/kgrgkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4dy2r2dy2k2dy15ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGRGKGY](/stripes/kgrgkgy/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/"><circle cx="399.5" cy="160.4" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.7" cy="135.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="326.9" cy="174.6" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/variants/s6/r8dg12lr5k11dg42k3~x2/"><circle cx="356.1" cy="170.5" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="305.4" cy="137.5" r="4" fill="#3465a4"><title>Muylle, Jelle (Personal)</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="341.4" cy="158.9" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><circle cx="414.6" cy="218.8" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.8" cy="193.9" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="280.3" cy="202.9" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><circle cx="330.0" cy="171.0" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><circle cx="341.6" cy="178.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/"><circle cx="399.5" cy="160.3" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.8" cy="135.4" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="326.9" cy="174.6" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/variants/s6/r8dg12lr5k11dg42k3~x2/"><circle cx="356.1" cy="170.4" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="305.4" cy="137.3" r="4" fill="#3465a4"><title>Muylle, Jelle (Personal)</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="341.5" cy="158.8" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><circle cx="414.6" cy="218.7" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.8" cy="193.8" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="280.3" cy="202.8" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><circle cx="330.0" cy="170.9" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><circle cx="341.6" cy="178.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4dy2r2dy2k2dy15ly2~x4/

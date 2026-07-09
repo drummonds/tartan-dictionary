@@ -1,5 +1,12 @@
 ---
 title: "Wilson's, No 183"
-redirect: "/variants/s6/k2lb1dp6g6r1g1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's, No 183](/variants/s6/k2lb1dp6g6r1g1~x4/).
+This is the **Wilson's, No 183** sett — one scale-free proportion (`k2lb1dp6g6r1g1`), colour order pattern
+[GRGBWK](/stripes/grgbwk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wilson's, No 183](/variants/s6/k2lb1dp6g6r1g1~x4/) ★ | ~2016 | ![Wilson's, No 183 sett](/variants/s6/k2lb1dp6g6r1g1~x4/sett.png) |

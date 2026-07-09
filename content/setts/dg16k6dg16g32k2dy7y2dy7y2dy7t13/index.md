@@ -1,5 +1,12 @@
 ---
 title: "Wagga Wagga"
-redirect: "/variants/s11/dg16k6dg16g32k2dy7y2dy7y2dy7t13/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wagga Wagga](/variants/s11/dg16k6dg16g32k2dy7y2dy7y2dy7t13/).
+This is the **Wagga Wagga** sett — one scale-free proportion (`dg16k6dg16g32k2dy7y2dy7y2dy7t13`), colour order pattern
+[GKGGKGGGGGBGGGGGKGGK](/stripes/gkggkgggggbgggggkggk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Wagga Wagga](/variants/s11/dg16k6dg16g32k2dy7y2dy7y2dy7t13/) ★ | 2002 | ![Wagga Wagga sett](/variants/s11/dg16k6dg16g32k2dy7y2dy7y2dy7t13/sett.png) |

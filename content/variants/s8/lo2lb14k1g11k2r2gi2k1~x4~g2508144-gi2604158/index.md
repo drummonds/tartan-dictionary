@@ -1,14 +1,16 @@
 ---
 title: "Mission (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mission (District)"
-  url: ""
+  url: "/setts/lo2lb14k1g11k2r2gi2k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo2lb14k1g11k2r2gi2k1/)
-(the same proportion at any scale), whose colour order is pattern [KGRKGKWY](/stripes/kgrkgkwy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lo2lb14k1g11k2r2gi2k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGRKGKWY](/stripes/kgrkgkwy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.3" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.8" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.8" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.9" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.9" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi1406275-db1204274/"><circle cx="138.8" cy="137.3" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="163.1" cy="165.2" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.8" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="198.0" cy="149.2" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.0" cy="128.7" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><circle cx="145.5" cy="128.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.2" cy="168.7" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.7" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.8" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.8" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi1406275-db1204274/"><circle cx="138.8" cy="137.2" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="163.1" cy="165.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.7" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="198.0" cy="149.1" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.0" cy="128.5" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><circle cx="145.5" cy="128.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/

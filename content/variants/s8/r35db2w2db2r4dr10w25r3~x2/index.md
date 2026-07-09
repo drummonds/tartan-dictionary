@@ -1,14 +1,16 @@
 ---
 title: "Longniddry Dress, Red (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Longniddry Dress, Red (Dance)"
-  url: ""
+  url: "/setts/r35db2w2db2r4dr10w25r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r35db2w2db2r4dr10w25r3/)
-(the same proportion at any scale), whose colour order is pattern [RBWBRBWR](/stripes/rbwbrbwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r35db2w2db2r4dr10w25r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBWBRBWR](/stripes/rbwbrbwr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.5" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="291.1" cy="156.0" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/variants/s7/dr3r2db2r30w30db2w3~x2/"><circle cx="286.8" cy="153.8" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="240.2" cy="145.4" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="283.0" cy="135.6" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/"><circle cx="272.6" cy="142.2" r="4" fill="#3465a4"><title>Manx Laxey Red District Tartan</title></circle></a><a href="/variants/s8/r40w40k5w2k6w2k5w6~x2~r2109032-w3602028/"><circle cx="275.6" cy="139.6" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><circle cx="239.3" cy="185.8" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="252.0" cy="185.0" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s7/w4r2w25ri21w3ri8y3~x2~r1506028-ri2008029/"><circle cx="283.1" cy="180.1" r="4" fill="#3465a4"><title>MacPherson, dress red</title></circle></a><circle cx="284.8" cy="140.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.3" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="291.1" cy="155.9" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/variants/s7/dr3r2db2r30w30db2w3~x2/"><circle cx="286.8" cy="153.7" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="240.2" cy="145.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="283.0" cy="135.5" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/"><circle cx="272.6" cy="142.1" r="4" fill="#3465a4"><title>Manx Laxey Red District Tartan</title></circle></a><a href="/variants/s8/r40w40k5w2k6w2k5w6~x2~r2109032-w3602028/"><circle cx="275.6" cy="139.5" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><circle cx="239.3" cy="185.7" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="252.0" cy="184.9" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s7/w4r2w25ri21w3ri8y3~x2~r1506028-ri2008029/"><circle cx="283.1" cy="180.0" r="4" fill="#3465a4"><title>MacPherson, dress red</title></circle></a><circle cx="284.8" cy="140.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r35db2w2db2r4dr10w25r3~x2/

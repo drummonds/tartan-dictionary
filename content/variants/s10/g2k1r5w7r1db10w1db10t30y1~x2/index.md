@@ -1,14 +1,16 @@
 ---
 title: "Festival Intercltico de Avils (Coror"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Festival Intercltico de Avils (Coror"
-  url: ""
+  url: "/setts/g2k1r5w7r1db10w1db10t30y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2k1r5w7r1db10w1db10t30y1/)
-(the same proportion at any scale), whose colour order is pattern [GBBWBRWRKG](/stripes/gbbwbrwrkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g2k1r5w7r1db10w1db10t30y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBWBRWRKG](/stripes/gbbwbrwrkg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/"><circle cx="197.1" cy="60.2" r="4" fill="#3465a4"><title>Lomond Mist</title></circle></a><a href="/variants/s11/lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="184.4" cy="86.5" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/"><circle cx="204.3" cy="83.1" r="4" fill="#3465a4"><title>Baudoux et amis picards</title></circle></a><a href="/variants/s12/dt30k4g5k2r2k2g5k4w10k5b8k1~x2~dt1503227-k0802249/"><circle cx="156.2" cy="81.6" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Personal)</title></circle></a><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="221.9" cy="64.5" r="4" fill="#3465a4"><title>Ambulance Victoria (Corporate)</title></circle></a><a href="/variants/s10/dr2db24lb6k6g6ly4g2ly2g2ly1~x2/"><circle cx="166.6" cy="92.3" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/"><circle cx="131.0" cy="72.0" r="4" fill="#3465a4"><title>Arctic</title></circle></a><a href="/variants/s10/r3db36w10k8g13y6g3y3g3y1~x2/"><circle cx="169.0" cy="78.9" r="4" fill="#3465a4"><title>Crookdake Cheng</title></circle></a><a href="/variants/s10/dr3db36w10k8g13y6g3y3g3y1~x2/"><circle cx="169.7" cy="79.6" r="4" fill="#3465a4"><title>Crookdake Cheng Family Tartan</title></circle></a><a href="/variants/s8/y2b1r2b26o11dg6k1w2~x2/"><circle cx="272.1" cy="90.9" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><circle cx="192.0" cy="71.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/"><circle cx="197.1" cy="60.0" r="4" fill="#3465a4"><title>Lomond Mist</title></circle></a><a href="/variants/s11/lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="184.4" cy="86.3" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/"><circle cx="204.3" cy="82.9" r="4" fill="#3465a4"><title>Baudoux et amis picards</title></circle></a><a href="/variants/s12/dt30k4g5k2r2k2g5k4w10k5b8k1~x2~dt1503227-k0802249/"><circle cx="156.2" cy="81.5" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Personal)</title></circle></a><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="221.9" cy="64.4" r="4" fill="#3465a4"><title>Ambulance Victoria (Corporate)</title></circle></a><a href="/variants/s10/dr2db24lb6k6g6ly4g2ly2g2ly1~x2/"><circle cx="166.6" cy="92.2" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/"><circle cx="131.0" cy="71.8" r="4" fill="#3465a4"><title>Arctic</title></circle></a><a href="/variants/s10/r3db36w10k8g13y6g3y3g3y1~x2/"><circle cx="169.0" cy="78.7" r="4" fill="#3465a4"><title>Crookdake Cheng</title></circle></a><a href="/variants/s10/dr3db36w10k8g13y6g3y3g3y1~x2/"><circle cx="169.7" cy="79.4" r="4" fill="#3465a4"><title>Crookdake Cheng Family Tartan</title></circle></a><a href="/variants/s8/y2b1r2b26o11dg6k1w2~x2/"><circle cx="272.1" cy="90.8" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><circle cx="192.0" cy="71.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g2k1r5w7r1db10w1db10t30y1~x2/

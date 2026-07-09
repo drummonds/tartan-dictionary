@@ -1,14 +1,16 @@
 ---
 title: "Morddyn (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Morddyn (Fashion)"
-  url: ""
+  url: "/setts/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2/)
-(the same proportion at any scale), whose colour order is pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/).
 
 Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 

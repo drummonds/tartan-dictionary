@@ -1,5 +1,12 @@
 ---
 title: "Latin"
-redirect: "/variants/s6/db3ly9db3ly9db20r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Latin](/variants/s6/db3ly9db3ly9db20r3~x2/).
+This is the **Latin** sett — one scale-free proportion (`db3ly9db3ly9db20r3`), colour order pattern
+[BYBYBR](/stripes/bybybr/). It is recorded as a single **variant**, below.
+First attested **1689**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Latin](/variants/s6/db3ly9db3ly9db20r3~x2/) ★ | 1689 | ![Latin sett](/variants/s6/db3ly9db3ly9db20r3~x2/sett.png) |

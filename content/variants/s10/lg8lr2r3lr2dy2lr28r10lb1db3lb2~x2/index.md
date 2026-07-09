@@ -1,14 +1,16 @@
 ---
 title: "Confederate Memorial Commemmorative Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Confederate Memorial Commemmorative Tartan"
-  url: ""
+  url: "/setts/lg8lr2r3lr2dy2lr28r10lb1db3lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lg8lr2r3lr2dy2lr28r10lb1db3lb2/)
-(the same proportion at any scale), whose colour order is pattern [WBWRYGYRYY](/stripes/wbwrygyryy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lg8lr2r3lr2dy2lr28r10lb1db3lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWRYGYRYY](/stripes/wbwrygyryy/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1995 Designed by Dr. Philip Smith in 1995. Grey is the colo
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1995 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.1" cy="148.9" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s10/do2ri3r3ri21y3ri2r6db6r4w2~x2~ri2906009-r2609025/"><circle cx="263.0" cy="146.3" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/variants/s11/r52y2r1y2lb8db4g18r11w2db5lb8~x2/"><circle cx="340.4" cy="62.4" r="4" fill="#3465a4"><title>Doig (Personal)</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.9" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/"><circle cx="275.2" cy="72.1" r="4" fill="#3465a4"><title>Holyrood, Chair</title></circle></a><a href="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/"><circle cx="309.0" cy="109.8" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.4" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/"><circle cx="306.7" cy="108.9" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.5" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.3" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><circle cx="317.1" cy="104.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.1" cy="148.8" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s10/do2ri3r3ri21y3ri2r6db6r4w2~x2~ri2906009-r2609025/"><circle cx="263.0" cy="146.1" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/variants/s11/r52y2r1y2lb8db4g18r11w2db5lb8~x2/"><circle cx="340.4" cy="62.3" r="4" fill="#3465a4"><title>Doig (Personal)</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.8" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/"><circle cx="275.2" cy="72.0" r="4" fill="#3465a4"><title>Holyrood, Chair</title></circle></a><a href="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/"><circle cx="309.0" cy="109.7" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.3" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/"><circle cx="306.7" cy="108.8" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.4" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.1" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><circle cx="317.1" cy="104.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/

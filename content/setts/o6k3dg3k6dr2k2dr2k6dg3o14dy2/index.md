@@ -1,5 +1,12 @@
 ---
 title: "Fountain of the Strong"
-redirect: "/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fountain of the Strong](/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/).
+This is the **Fountain of the Strong** sett — one scale-free proportion (`o6k3dg3k6dr2k2dr2k6dg3o14dy2`), colour order pattern
+[GRGKBKBKGKR](/stripes/grgkbkbkgkr/). It is recorded as a single **variant**, below.
+First attested **1972**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fountain of the Strong](/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/) ★ | 1972 | ![Fountain of the Strong sett](/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Thom(p)son, Navy"
-redirect: "/variants/s7/r3db15w13o6db2o2r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Thom(p)son, Navy](/variants/s7/r3db15w13o6db2o2r2~x2/).
+This is the **Thom(p)son, Navy** sett — one scale-free proportion (`r3db15w13o6db2o2r2`), colour order pattern
+[RBWRBRR](/stripes/rbwrbrr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Thom(p)son, Navy](/variants/s7/r3db15w13o6db2o2r2~x2/) ★ | ~2016 | ![Thom(p)son, Navy sett](/variants/s7/r3db15w13o6db2o2r2~x2/sett.png) |

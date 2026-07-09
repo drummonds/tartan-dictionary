@@ -1,5 +1,12 @@
 ---
 title: "Hose #2"
-redirect: "/variants/s8/dr3r3lb23r3dr3r23k2r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hose #2](/variants/s8/dr3r3lb23r3dr3r23k2r3~x2/).
+This is the **Hose #2** sett — one scale-free proportion (`dr3r3lb23r3dr3r23k2r3`), colour order pattern
+[BRWRBRKR](/stripes/brwrbrkr/). It is recorded as a single **variant**, below.
+First attested **1820**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hose #2](/variants/s8/dr3r3lb23r3dr3r23k2r3~x2/) ★ | 1820 | ![Hose #2 sett](/variants/s8/dr3r3lb23r3dr3r23k2r3~x2/sett.png) |

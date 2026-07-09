@@ -1,6 +1,7 @@
 ---
 title: "Edinburgh Crystal Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Edinburgh Crystal"
   url: "/setts/dt30lb2k6db3r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt30lb2k6db3r3/)
-(the same proportion at any scale), whose colour order is pattern [BWKBRBKW](/stripes/bwkbrbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dt30lb2k6db3r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKBRBKW](/stripes/bwkbrbkw/).
 
 Part of the [Edinburgh Crystal](/tartans/edinburgh-crystal/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: pre 1997 Designed by Sandra Campbell an employee of Edinbur
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1997 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="229.9" cy="140.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.3" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="242.7" cy="125.1" r="4" fill="#3465a4"><title>Woodward, R Glenn (Personal)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.8" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.5" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2~db1406275/"><circle cx="268.3" cy="101.1" r="4" fill="#3465a4"><title>Strachan Family Tartan</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="264.4" cy="101.3" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/variants/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2~dg1502166-g2304144/"><circle cx="258.3" cy="107.5" r="4" fill="#3465a4"><title>Zorra Caledonian Society</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4y2~x2/"><circle cx="241.8" cy="118.6" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4lo2~x2/"><circle cx="236.3" cy="116.6" r="4" fill="#3465a4"><title>Canadian Centennial (Commemorative)</title></circle></a><circle cx="281.8" cy="130.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.2" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="242.7" cy="125.0" r="4" fill="#3465a4"><title>Woodward, R Glenn (Personal)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.4" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2~db1406275/"><circle cx="268.3" cy="101.0" r="4" fill="#3465a4"><title>Strachan Family Tartan</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="264.4" cy="101.2" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/variants/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2~dg1502166-g2304144/"><circle cx="258.3" cy="107.3" r="4" fill="#3465a4"><title>Zorra Caledonian Society</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4y2~x2/"><circle cx="241.8" cy="118.5" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4lo2~x2/"><circle cx="236.3" cy="116.4" r="4" fill="#3465a4"><title>Canadian Centennial (Commemorative)</title></circle></a><circle cx="281.8" cy="130.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dt30lb2k6db3r3~x4~db1406275/

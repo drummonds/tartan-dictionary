@@ -1,5 +1,12 @@
 ---
 title: "Donachie of Brockloch Ancient Hunting"
-redirect: "/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Donachie of Brockloch Ancient Hunting](/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/).
+This is the **Donachie of Brockloch Ancient Hunting** sett — one scale-free proportion (`dy10g1k1g1k1g11dy18g1k1g10`), colour order pattern
+[GGKGKGGGKG](/stripes/ggkgkgggkg/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Donachie of Brockloch Ancient Hunting](/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/) ★ | 2007 | ![Donachie of Brockloch Ancient Hunting sett](/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/sett.png) |

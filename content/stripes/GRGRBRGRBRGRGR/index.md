@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/">Stewart of Urrard (Clan?)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><img src="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/sett.png" alt="Stewart of Urrard (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/">Stuart/Stewart of Urrard</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/"><img src="/variants/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/sett.png" alt="Stuart/Stewart of Urrard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/">Stewart of Urrard Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/"><img src="/variants/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/sett.png" alt="Stewart of Urrard Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "McKirgan (Name)"
-redirect: "/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McKirgan (Name)](/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/).
+This is the **McKirgan (Name)** sett — one scale-free proportion (`r2w1g18k12g1k3w1r2w1k2g2`), colour order pattern
+[GKWRWKGKGWR](/stripes/gkwrwkgkgwr/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McKirgan (Name)](/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/) ★ | 1999 | ![McKirgan (Name) sett](/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Ailsa, Gold (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ailsa, Gold (Dance)"
-  url: ""
+  url: "/setts/lo8w3lo28w32dp3w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo8w3lo28w32dp3w4/)
-(the same proportion at any scale), whose colour order is pattern [WBWYWY](/stripes/wbwywy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lo8w3lo28w32dp3w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWYWY](/stripes/wbwywy/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -22,8 +24,8 @@ Earliest known date: March 2008 One of a series of dancer's tartans for the Hous
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>March 2008 — Ailsa, Gold (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7605">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8B400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #F8B400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson.</em></li>
+<li>March 2008 — Ailsa Gold Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7605">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8B400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #F8B400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span></li>
 <li>undated — Ailsa Gold (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5629">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8B400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #F8B400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>One of a series of dancer's tartans by Kirsty Anderson, House of Edgar.</em></li>
-<li>undated — Ailsa Gold Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7605">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8B400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #F8B400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span></li>
 </ul>
 </details>
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o3w17o11w2o11w2~x4/"><circle cx="357.0" cy="257.1" r="4" fill="#3465a4"><title>Fallow Deer, The</title></circle></a><a href="/variants/s5/do2n10ly15do10n2~x4/"><circle cx="268.3" cy="295.3" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><circle cx="424.4" cy="264.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o3w17o11w2o11w2~x4/"><circle cx="357.0" cy="257.1" r="4" fill="#3465a4"><title>Fallow Deer, The</title></circle></a><a href="/variants/s5/do2n10ly15do10n2~x4/"><circle cx="268.3" cy="295.3" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><circle cx="424.5" cy="264.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lo8w3lo28w32dp3w4~x2/

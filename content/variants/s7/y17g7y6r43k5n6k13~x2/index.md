@@ -1,14 +1,16 @@
 ---
 title: "Keeling"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Keeling"
-  url: ""
+  url: "/setts/y17g7y6r43k5n6k13/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y17g7y6r43k5n6k13/)
-(the same proportion at any scale), whose colour order is pattern [GGGRKBK](/stripes/gggrkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y17g7y6r43k5n6k13/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGRKBK](/stripes/gggrkbk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1r7k2r1k2do1g3y1~x4/"><circle cx="152.6" cy="168.6" r="4" fill="#3465a4"><title>Craigmoor (Fashion)</title></circle></a><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/"><circle cx="152.7" cy="146.0" r="4" fill="#3465a4"><title>Carlow County Crest (Fashion)</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="187.0" cy="159.5" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/"><circle cx="145.5" cy="141.0" r="4" fill="#3465a4"><title>Scotland's People</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="173.1" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><circle cx="180.6" cy="149.6" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/"><circle cx="162.6" cy="188.0" r="4" fill="#3465a4"><title>Montrose (Graham)</title></circle></a><a href="/variants/s7/r20k5dg5r5w5n3dg3~x4/"><circle cx="204.3" cy="173.8" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/"><circle cx="168.5" cy="176.3" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.6" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><circle cx="179.9" cy="167.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1r7k2r1k2do1g3y1~x4/"><circle cx="152.6" cy="168.5" r="4" fill="#3465a4"><title>Craigmoor (Fashion)</title></circle></a><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/"><circle cx="152.7" cy="145.9" r="4" fill="#3465a4"><title>Carlow County Crest (Fashion)</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="187.0" cy="159.4" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/"><circle cx="145.5" cy="140.9" r="4" fill="#3465a4"><title>Scotland's People</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="173.1" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><circle cx="180.6" cy="149.5" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/"><circle cx="162.6" cy="187.9" r="4" fill="#3465a4"><title>Montrose (Graham)</title></circle></a><a href="/variants/s7/r20k5dg5r5w5n3dg3~x4/"><circle cx="204.3" cy="173.7" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/"><circle cx="168.5" cy="176.3" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.5" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><circle cx="179.9" cy="167.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y17g7y6r43k5n6k13~x2/

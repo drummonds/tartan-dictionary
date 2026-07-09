@@ -1,14 +1,16 @@
 ---
 title: "Newmill"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Newmill"
-  url: ""
+  url: "/setts/dr1n5dt3db11dt3n5lo1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr1n5dt3db11dt3n5lo1/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBY](/stripes/bbbbbby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr1n5dt3db11dt3n5lo1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBY](/stripes/bbbbbby/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb2db20n2dt15dr9lb2~x2/"><circle cx="308.3" cy="254.2" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.3" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.9" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><circle cx="242.2" cy="219.7" r="4" fill="#3465a4"><title>Deeside District Tartan</title></circle></a><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><circle cx="330.5" cy="216.5" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.7" cy="260.2" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.9" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><circle cx="422.4" cy="251.8" r="4" fill="#3465a4"><title>Edinburgh Monarchs</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><circle cx="320.7" cy="259.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb2db20n2dt15dr9lb2~x2/"><circle cx="308.3" cy="254.1" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.2" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.8" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><circle cx="242.2" cy="219.7" r="4" fill="#3465a4"><title>Deeside District Tartan</title></circle></a><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><circle cx="330.6" cy="216.4" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.8" cy="260.1" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.8" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><circle cx="422.4" cy="251.7" r="4" fill="#3465a4"><title>Edinburgh Monarchs</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><circle cx="320.8" cy="259.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr1n5dt3db11dt3n5lo1~x8/

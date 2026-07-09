@@ -1,5 +1,12 @@
 ---
 title: "MacPherson of Pitmain"
-redirect: "/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacPherson of Pitmain](/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/).
+This is the **MacPherson of Pitmain** sett — one scale-free proportion (`db1dr1k8dr1db1dr1w8dr1db1`), colour order pattern
+[BBKBBBWBB](/stripes/bbkbbbwbb/). It is recorded as a single **variant**, below.
+First attested **1850**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacPherson of Pitmain](/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/) ★ | 1850 | ![MacPherson of Pitmain sett](/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Kerry (WCWM)"
-redirect: "/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kerry (WCWM)](/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/).
+This is the **Kerry (WCWM)** sett — one scale-free proportion (`lr24p3lr8p5k3r3k3lr3k3o24r4`), colour order pattern
+[RRKYKRKBYBY](/stripes/rrkykrkbyby/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kerry (WCWM)](/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/) ★ | ~2016 | ![Kerry (WCWM) sett](/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/sett.png) |

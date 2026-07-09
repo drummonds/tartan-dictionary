@@ -1,5 +1,12 @@
 ---
 title: "Cameron Boyle, The (Personal)"
-redirect: "/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cameron Boyle, The (Personal)](/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/).
+This is the **Cameron Boyle, The (Personal)** sett — one scale-free proportion (`g5db20g2db2g2db2g25dr2g2dr17k8g2w2`), colour order pattern
+[GBGBGBGBGBKGW](/stripes/gbgbgbgbgbkgw/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cameron Boyle, The (Personal)](/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/) ★ | 2009 | ![Cameron Boyle, The (Personal) sett](/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/sett.png) |

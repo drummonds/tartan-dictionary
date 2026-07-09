@@ -1,5 +1,12 @@
 ---
 title: "Unidentified #17"
-redirect: "/variants/s4/db8k3r4y1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified #17](/variants/s4/db8k3r4y1~x2/).
+This is the **Unidentified #17** sett — one scale-free proportion (`db8k3r4y1`), colour order pattern
+[BKRG](/stripes/bkrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified #17](/variants/s4/db8k3r4y1~x2/) ★ | ~2016 | ![Unidentified #17 sett](/variants/s4/db8k3r4y1~x2/sett.png) |

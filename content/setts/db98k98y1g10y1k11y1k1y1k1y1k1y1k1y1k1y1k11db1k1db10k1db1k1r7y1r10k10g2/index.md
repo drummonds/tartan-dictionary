@@ -1,5 +1,12 @@
 ---
 title: "Westwood Metropolitan 1 (Fashion)"
-redirect: "/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Westwood Metropolitan 1 (Fashion)](/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/).
+This is the **Westwood Metropolitan 1 (Fashion)** sett — one scale-free proportion (`db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2`), colour order pattern
+[BKGGGKGKGKGKGKGKGKBKBKBKRGRKG](/stripes/bkgggkgkgkgkgkgkgkbkbkbkrgrkg/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Westwood Metropolitan 1 (Fashion)](/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/) ★ | 1994 | ![Westwood Metropolitan 1 (Fashion) sett](/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Women's Royal Army Corps Ass. (Corp."
-redirect: "/variants/s12/dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Women's Royal Army Corps Ass. (Corp.](/variants/s12/dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/).
+This is the **Women's Royal Army Corps Ass. (Corp.** sett — one scale-free proportion (`dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2`), colour order pattern
+[GGGGGGRGGGWG](/stripes/ggggggrgggwg/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Women's Royal Army Corps Ass. (Corp.](/variants/s12/dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/) ★ | 2003 | ![Women's Royal Army Corps Ass. (Corp. sett](/variants/s12/dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/sett.png) |

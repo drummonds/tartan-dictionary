@@ -1,5 +1,12 @@
 ---
 title: "Daks (House)"
-redirect: "/variants/s5/dy4g7k4g7db4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Daks (House)](/variants/s5/dy4g7k4g7db4~x2/).
+This is the **Daks (House)** sett — one scale-free proportion (`dy4g7k4g7db4`), colour order pattern
+[BGKGG](/stripes/bgkgg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Daks (House)](/variants/s5/dy4g7k4g7db4~x2/) ★ | 2002 | ![Daks (House) sett](/variants/s5/dy4g7k4g7db4~x2/sett.png) |

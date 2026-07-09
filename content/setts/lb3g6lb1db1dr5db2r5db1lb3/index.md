@@ -1,5 +1,12 @@
 ---
 title: "Wombles 7 (Corporate)"
-redirect: "/variants/s9/lb3g6lb1db1dr5db2r5db1lb3~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wombles 7 (Corporate)](/variants/s9/lb3g6lb1db1dr5db2r5db1lb3~x4/).
+This is the **Wombles 7 (Corporate)** sett — one scale-free proportion (`lb3g6lb1db1dr5db2r5db1lb3`), colour order pattern
+[WBRBBBWGW](/stripes/wbrbbbwgw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wombles 7 (Corporate)](/variants/s9/lb3g6lb1db1dr5db2r5db1lb3~x4/) ★ | ~2016 | ![Wombles 7 (Corporate) sett](/variants/s9/lb3g6lb1db1dr5db2r5db1lb3~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Amble"
-redirect: "/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Amble](/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/).
+This is the **Amble** sett — one scale-free proportion (`do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1`), colour order pattern
+[BKBKGBBKBKBKBKG](/stripes/bkbkgbbkbkbkbkg/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Amble](/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/) ★ | 2010 | ![Amble sett](/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/sett.png) |

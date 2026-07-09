@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/">Otago</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><img src="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/sett.png" alt="Otago sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/">Otago Corporate District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><img src="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/sett.png" alt="Otago Corporate District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

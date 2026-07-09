@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dy1lb3dp14w2db22w2g14dy3lb1/">Yule</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dy1lb3dp14w2db22w2g14dy3lb1/"><img src="/variants/s9/dy1lb3dp14w2db22w2g14dy3lb1~x2~db1406275/sett.png" alt="Yule sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dy1lb3dp14w2db22w2g14dy3lb1/">Yule (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dy1lb3dp14w2db22w2g14dy3lb1/"><img src="/variants/s9/dy1lb3dp14w2db22w2g14dy3lb1~x2~db1406275/sett.png" alt="Yule (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

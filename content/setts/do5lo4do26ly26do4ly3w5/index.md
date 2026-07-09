@@ -1,5 +1,12 @@
 ---
 title: "Elgin District Tartan"
-redirect: "/variants/s7/do5lo4do26ly26do4ly3w5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Elgin District Tartan](/variants/s7/do5lo4do26ly26do4ly3w5~x2/).
+This is the **Elgin District Tartan** sett — one scale-free proportion (`do5lo4do26ly26do4ly3w5`), colour order pattern
+[BYBYBYW](/stripes/bybybyw/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Elgin District Tartan](/variants/s7/do5lo4do26ly26do4ly3w5~x2/) ★ | 1998 | ![Elgin District Tartan sett](/variants/s7/do5lo4do26ly26do4ly3w5~x2/sett.png) |

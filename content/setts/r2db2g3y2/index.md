@@ -1,5 +1,12 @@
 ---
 title: "Sturch (Corporate)"
-redirect: "/variants/s4/r2db2g3y2~x5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sturch (Corporate)](/variants/s4/r2db2g3y2~x5/).
+This is the **Sturch (Corporate)** sett — one scale-free proportion (`r2db2g3y2`), colour order pattern
+[GGBR](/stripes/ggbr/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×5 | [Sturch (Corporate)](/variants/s4/r2db2g3y2~x5/) ★ | 2009 | ![Sturch (Corporate) sett](/variants/s4/r2db2g3y2~x5/sett.png) |

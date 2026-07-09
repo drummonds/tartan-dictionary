@@ -1,16 +1,18 @@
 ---
 title: "Heather (R.S.S.P.C.C.) Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Heather"
   url: "/tartans/heather/"
 - name: "Heather (R.S.S.P.C.C.) Corporate Tartan"
-  url: ""
+  url: "/setts/db4w3lb28w3dp16w4dp8lp46g4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4w3lb28w3dp16w4dp8lp46g4/)
-(the same proportion at any scale), whose colour order is pattern [BWWWBWBWG](/stripes/bwwwbwbwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4w3lb28w3dp16w4dp8lp46g4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWWWBWBWG](/stripes/bwwwbwbwg/).
 
 Part of the [Heather](/tartans/heather/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1990 The design 'Heather Tartan' has been produced at the r
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1990 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g4lp46dp8w4dp16w3lb28w3b4~lp3004302-lb3200000/"><circle cx="225.1" cy="156.6" r="4" fill="#3465a4"><title>Heather, (R.S.S.P.C.C.)</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.8" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><circle cx="203.4" cy="139.2" r="4" fill="#3465a4"><title>South Canterbury Centre P. &amp; D. Assoc., Jubilee</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.5" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/"><circle cx="240.2" cy="131.8" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><a href="/variants/s8/r4w2r1w18dp18lp18g3lp4~x2/"><circle cx="169.5" cy="163.2" r="4" fill="#3465a4"><title>Gigha, Lilac (Dance)</title></circle></a><circle cx="217.6" cy="152.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g4lp46dp8w4dp16w3lb28w3b4~lp3004302-lb3200000/"><circle cx="225.1" cy="156.5" r="4" fill="#3465a4"><title>Heather, (R.S.S.P.C.C.)</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.7" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><circle cx="203.4" cy="139.1" r="4" fill="#3465a4"><title>South Canterbury Centre P. &amp; D. Assoc., Jubilee</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.4" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/"><circle cx="240.2" cy="131.7" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><a href="/variants/s8/r4w2r1w18dp18lp18g3lp4~x2/"><circle cx="169.5" cy="163.1" r="4" fill="#3465a4"><title>Gigha, Lilac (Dance)</title></circle></a><circle cx="217.6" cy="152.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db4w3lb28w3dp16w4dp8lp46g4/

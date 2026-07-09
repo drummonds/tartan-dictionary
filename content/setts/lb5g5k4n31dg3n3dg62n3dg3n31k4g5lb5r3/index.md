@@ -1,5 +1,12 @@
 ---
 title: "Sheffield, City of"
-redirect: "/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sheffield, City of](/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/).
+This is the **Sheffield, City of** sett — one scale-free proportion (`lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3`), colour order pattern
+[RWGKBGBGBGBKGW](/stripes/rwgkbgbgbgbkgw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Sheffield, City of](/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/) ★ | ~2016 | ![Sheffield, City of sett](/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/sett.png) |

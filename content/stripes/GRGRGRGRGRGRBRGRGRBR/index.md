@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s20/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/">MacIntosh Ancient</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s20/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/"><img src="/variants/s20/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/sett.png" alt="MacIntosh Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/">MacIntosh, Ancient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><img src="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/sett.png" alt="MacIntosh, Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/">MacIntosh Old Ancient Artifact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><img src="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/sett.png" alt="MacIntosh Old Ancient Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

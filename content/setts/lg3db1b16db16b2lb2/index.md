@@ -1,5 +1,12 @@
 ---
 title: "U.S.S. John Paul Jones #1"
-redirect: "/variants/s6/lg3db1b16db16b2lb2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [U.S.S. John Paul Jones #1](/variants/s6/lg3db1b16db16b2lb2~x4/).
+This is the **U.S.S. John Paul Jones #1** sett — one scale-free proportion (`lg3db1b16db16b2lb2`), colour order pattern
+[WBBBBY](/stripes/wbbbby/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [U.S.S. John Paul Jones #1](/variants/s6/lg3db1b16db16b2lb2~x4/) ★ | 2002 | ![U.S.S. John Paul Jones #1 sett](/variants/s6/lg3db1b16db16b2lb2~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Ibrox"
-redirect: "/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ibrox](/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/).
+This is the **Ibrox** sett — one scale-free proportion (`db4r2db2r4k7db10w2k13db18k2db2`), colour order pattern
+[BKBKWBKRBRB](/stripes/bkbkwbkrbrb/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Ibrox](/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/) ★ | 2000 | ![Ibrox sett](/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Tupper, John Charles (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Tupper, John Charles (Personal)"
-  url: ""
+  url: "/setts/dr2w2dg8g2dg2db20lb8g2db15w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2w2dg8g2dg2db20lb8g2db15w2/)
-(the same proportion at any scale), whose colour order is pattern [BWGGGBWGBW](/stripes/bwgggbwgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr2w2dg8g2dg2db20lb8g2db15w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGGGBWGBW](/stripes/bwgggbwgbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.5" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.4" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s11/db4g2db24g8lb2r2lb2y2lb10db2w3~x2/"><circle cx="218.5" cy="136.1" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><circle cx="237.0" cy="148.6" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.5" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.9" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s11/db4g2db24g8b2r2b2y2b10db2w3~x2/"><circle cx="239.3" cy="141.0" r="4" fill="#3465a4"><title>McCartney (Night)</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.7" cy="191.6" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/"><circle cx="303.4" cy="176.5" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><circle cx="254.2" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.3" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s11/db4g2db24g8lb2r2lb2y2lb10db2w3~x2/"><circle cx="218.5" cy="136.0" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><circle cx="237.0" cy="148.4" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.4" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.8" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s11/db4g2db24g8b2r2b2y2b10db2w3~x2/"><circle cx="239.3" cy="140.9" r="4" fill="#3465a4"><title>McCartney (Night)</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.8" cy="191.5" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/"><circle cx="303.5" cy="176.4" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.2" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><circle cx="254.2" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr2w2dg8g2dg2db20lb8g2db15w2~x2/

@@ -1,16 +1,18 @@
 ---
 title: "Fitzpatrick"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fitzpatrick"
   url: "/tartans/fitzpatrick/"
 - name: "Fitzpatrick"
-  url: ""
+  url: "/setts/w6y2w2y3w11g11t2k12t3k6w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6y2w2y3w11g11t2k12t3k6w2/)
-(the same proportion at any scale), whose colour order is pattern [WGWGWGBKBKW](/stripes/wgwgwgbkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w6y2w2y3w11g11t2k12t3k6w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGWGWGBKBKW](/stripes/wgwgwgbkbkw/).
 
 Part of the [Fitzpatrick](/tartans/fitzpatrick/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.2" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.8" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="72.0" cy="182.4" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/"><circle cx="51.3" cy="174.3" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.7" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.5" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2~db1004274/"><circle cx="57.6" cy="169.9" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="99.3" cy="177.0" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/variants/s12/dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3~x2/"><circle cx="98.3" cy="166.0" r="4" fill="#3465a4"><title>MacRobart Family Tartan</title></circle></a><circle cx="61.3" cy="186.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.1" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.7" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="72.0" cy="182.3" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/"><circle cx="51.3" cy="174.2" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.6" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.4" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2~db1004274/"><circle cx="57.6" cy="169.8" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="99.3" cy="176.9" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/variants/s12/dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3~x2/"><circle cx="98.3" cy="165.9" r="4" fill="#3465a4"><title>MacRobart Family Tartan</title></circle></a><circle cx="61.3" cy="186.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/

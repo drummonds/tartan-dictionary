@@ -1,5 +1,12 @@
 ---
 title: "Mostyn"
-redirect: "/variants/s9/r20k2r2k2r2k8g24db2g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mostyn](/variants/s9/r20k2r2k2r2k8g24db2g3~x2/).
+This is the **Mostyn** sett — one scale-free proportion (`r20k2r2k2r2k8g24db2g3`), colour order pattern
+[GBGKRKRKR](/stripes/gbgkrkrkr/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mostyn](/variants/s9/r20k2r2k2r2k8g24db2g3~x2/) ★ | 2006 | ![Mostyn sett](/variants/s9/r20k2r2k2r2k8g24db2g3~x2/sett.png) |

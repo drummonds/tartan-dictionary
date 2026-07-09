@@ -1,5 +1,12 @@
 ---
 title: "Gallowater, New (District)"
-redirect: "/variants/s7/r11k33lb14dp32w2dg42y10/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gallowater, New (District)](/variants/s7/r11k33lb14dp32w2dg42y10/).
+This is the **Gallowater, New (District)** sett — one scale-free proportion (`r11k33lb14dp32w2dg42y10`), colour order pattern
+[GGWBWKR](/stripes/ggwbwkr/). It is recorded as a single **variant**, below.
+First attested **1819**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Gallowater, New (District)](/variants/s7/r11k33lb14dp32w2dg42y10/) ★ | 1819 | ![Gallowater, New (District) sett](/variants/s7/r11k33lb14dp32w2dg42y10/sett.png) |

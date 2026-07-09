@@ -1,14 +1,16 @@
 ---
 title: "Boyle (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Boyle (Personal)"
-  url: ""
+  url: "/setts/dbi4db3dr2db26k3dbi3g3dbi3g17ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi4db3dr2db26k3dbi3g3dbi3g17ly3/)
-(the same proportion at any scale), whose colour order is pattern [BBBBKBGBGY](/stripes/bbbbkbgbgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi4db3dr2db26k3dbi3g3dbi3g17ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBKBGBGY](/stripes/bbbbkbgbgy/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4do5g19dp5do5k5do5db36w3~x2/"><circle cx="199.8" cy="140.8" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/"><circle cx="192.9" cy="165.8" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="167.4" cy="115.8" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66lb11r6/"><circle cx="204.6" cy="122.8" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/"><circle cx="201.5" cy="143.4" r="4" fill="#3465a4"><title>Halcrow Howell (Name)</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="158.1" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s9/o3db24k16dt3g2dt2g2dt28lb3~x2/"><circle cx="199.6" cy="141.5" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><circle cx="188.1" cy="117.5" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/"><circle cx="220.5" cy="140.5" r="4" fill="#3465a4"><title>Canmore</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="176.5" cy="175.2" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><circle cx="203.0" cy="132.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4do5g19dp5do5k5do5db36w3~x2/"><circle cx="199.9" cy="140.7" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/"><circle cx="192.9" cy="165.7" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="167.4" cy="115.7" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66lb11r6/"><circle cx="204.6" cy="122.7" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/"><circle cx="201.5" cy="143.3" r="4" fill="#3465a4"><title>Halcrow Howell (Name)</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="158.0" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s9/o3db24k16dt3g2dt2g2dt28lb3~x2/"><circle cx="199.6" cy="141.4" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><circle cx="188.1" cy="117.4" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/"><circle cx="220.5" cy="140.3" r="4" fill="#3465a4"><title>Canmore</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="176.5" cy="175.1" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><circle cx="203.0" cy="132.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dbi4db3dr2db26k3dbi3g3dbi3g17ly3~x2~dbi1406275-db1204274/

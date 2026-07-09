@@ -1,5 +1,12 @@
 ---
 title: "Tyneside Blue, North Tyneside Pipe Band"
-redirect: "/variants/s7/db62k22w3k2w2k3r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tyneside Blue, North Tyneside Pipe Band](/variants/s7/db62k22w3k2w2k3r1~x2/).
+This is the **Tyneside Blue, North Tyneside Pipe Band** sett — one scale-free proportion (`db62k22w3k2w2k3r1`), colour order pattern
+[BKWKWKR](/stripes/bkwkwkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tyneside Blue, North Tyneside Pipe Band](/variants/s7/db62k22w3k2w2k3r1~x2/) ★ | ~2016 | ![Tyneside Blue, North Tyneside Pipe Band sett](/variants/s7/db62k22w3k2w2k3r1~x2/sett.png) |

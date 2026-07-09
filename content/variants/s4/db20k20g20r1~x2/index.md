@@ -1,16 +1,18 @@
 ---
 title: "Gunn 2011, Robert (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gunn"
   url: "/tartans/gunn/"
 - name: "Gunn 2011, Robert (Personal)"
-  url: ""
+  url: "/setts/db20k20g20r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20k20g20r1/)
-(the same proportion at any scale), whose colour order is pattern [BKGR](/stripes/bkgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db20k20g20r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGR](/stripes/bkgr/).
 
 Part of the [Gunn](/tartans/gunn/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/t20k20g20r1~x2/"><circle cx="156.1" cy="221.6" r="4" fill="#3465a4"><title>Gunn (2011) Personal Tartan</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.6" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.1" cy="212.1" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.3" cy="169.5" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s4/t12k4g6ly1~x8/"><circle cx="155.5" cy="220.5" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="211.9" cy="176.9" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.6" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s5/g21db10k26ly10r1~x2/"><circle cx="149.8" cy="171.2" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><circle cx="165.6" cy="220.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/t20k20g20r1~x2/"><circle cx="156.1" cy="221.6" r="4" fill="#3465a4"><title>Gunn (2011) Personal Tartan</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.4" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.5" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.1" cy="212.1" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.4" cy="169.4" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s4/t12k4g6ly1~x8/"><circle cx="155.5" cy="220.4" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="212.0" cy="176.8" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.5" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s5/g21db10k26ly10r1~x2/"><circle cx="149.9" cy="171.2" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><circle cx="165.6" cy="220.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db20k20g20r1~x2/

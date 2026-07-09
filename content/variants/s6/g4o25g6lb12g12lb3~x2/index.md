@@ -1,14 +1,16 @@
 ---
 title: "Canadian Fancy"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Canadian Fancy"
-  url: ""
+  url: "/setts/g4o25g6lb12g12lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4o25g6lb12g12lb3/)
-(the same proportion at any scale), whose colour order is pattern [GRGWGW](/stripes/grgwgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g4o25g6lb12g12lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGWGW](/stripes/grgwgw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><circle cx="298.3" cy="279.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.1" cy="296.5" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.7" cy="207.5" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><circle cx="187.8" cy="229.8" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="290.5" cy="290.2" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/"><circle cx="301.5" cy="264.7" r="4" fill="#3465a4"><title>Glen Esk (Fashion)</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.2" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s6/g3b3g19b18r19b3~x2/"><circle cx="250.1" cy="270.5" r="4" fill="#3465a4"><title>MacNab 1</title></circle></a><a href="/variants/s7/lb60g9r7ly12g33ly33lb26/"><circle cx="292.6" cy="255.2" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1504144-g1903114/"><circle cx="318.0" cy="270.6" r="4" fill="#3465a4"><title>Glen Esk (1993)</title></circle></a><circle cx="301.4" cy="273.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><circle cx="298.4" cy="279.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.1" cy="296.5" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.8" cy="207.4" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><circle cx="187.8" cy="229.8" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="290.5" cy="290.2" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/"><circle cx="301.5" cy="264.7" r="4" fill="#3465a4"><title>Glen Esk (Fashion)</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.1" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s6/g3b3g19b18r19b3~x2/"><circle cx="250.2" cy="270.4" r="4" fill="#3465a4"><title>MacNab 1</title></circle></a><a href="/variants/s7/lb60g9r7ly12g33ly33lb26/"><circle cx="292.6" cy="255.1" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1504144-g1903114/"><circle cx="318.0" cy="270.5" r="4" fill="#3465a4"><title>Glen Esk (1993)</title></circle></a><circle cx="301.4" cy="273.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g4o25g6lb12g12lb3~x2/

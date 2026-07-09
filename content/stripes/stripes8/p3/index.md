@@ -403,7 +403,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Maud, Mary](/variants/s8/db65k9db21y8db21w8db35r35/) | weddslist |
+| 0.06 | [Maud Mary Irish Family Tartan](/variants/s8/db65k9db21y8db21w8db35r35/) | house-of-tartan |
 
 ### BKBGKYBK
 <a class="pat" href="/stripes/bkbgkybk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBGKYBK</span></a>
@@ -473,7 +473,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Baird](/variants/s8/r7g3r2g33k31db31k3db3/) | register-of-tartans |
+| 0.06 | [Baird (Old) Clan Tartan](/variants/s8/r7g3r2g33k31db31k3db3/) | house-of-tartan |
 
 ### BKBKRKRK
 <a class="pat" href="/stripes/bkbkrkrk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBKRKRK</span></a>
@@ -802,7 +802,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Singh](/variants/s8/db3r3db36g17y2g21w2r3~x2/) | weddslist |
+| 0.09 | [Singh Name Tartan](/variants/s8/db3r3db36g17y2g21w2r3~x2/) | house-of-tartan |
 
 ### BRBGKBBR
 <a class="pat" href="/stripes/brbgkbbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRBGKBBR</span></a>
@@ -816,7 +816,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Craik, of Assington](/variants/s8/db4r11db1g8r2g4k1y2~x4/) | weddslist |
+| 0.09 | [Craik of Assington Personal Tartan](/variants/s8/db4r11db1g8r2g4k1y2~x4/) | house-of-tartan |
 
 ### BRBKBKGY
 <a class="pat" href="/stripes/brbkbkgy/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BRBKBKGY</span></a>
@@ -1061,7 +1061,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Common Kilt](/variants/s8/r3k2db25k28g25k2r1db2~x2/) | register-of-tartans |
+| 0.06 | [Common Kilt Tartan](/variants/s8/r3k2db25k28g25k2r1db2~x2/) | house-of-tartan |
 
 ### BRKRGRKG
 <a class="pat" href="/stripes/brkrgrkg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRKRGRKG</span></a>
@@ -1348,7 +1348,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Milne, dress](/variants/s8/w18db4w18r30w18db4w9dp4/) | weddslist |
+| 0.07 | [Milne Dress Family Tartan](/variants/s8/w18db4w18r30w18db4w9dp4/) | house-of-tartan |
 
 ### BWBWWWBW
 <a class="pat" href="/stripes/bwbwwwbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BWBWWWBW</span></a>
@@ -1880,7 +1880,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.17 | [Manitoba](/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/) | weddslist |
+| 0.17 | [Manitoba District Tartan](/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/) | house-of-tartan |
 
 ### GBGGRGBG
 <a class="pat" href="/stripes/gbggrgbg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GBGGRGBG</span></a>
@@ -2034,7 +2034,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Johnstone/Johnston](/variants/s8/k3db3k3db22g26k2db1y3~x2/) | register-of-tartans |
+| 0.10 | [Johnstone Clan Tartan](/variants/s8/k3db3k3db22g26k2db1y3~x2/) | house-of-tartan |
 
 ### GBKGBWBR
 <a class="pat" href="/stripes/gbkgbwbr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">GBKGBWBR</span></a>

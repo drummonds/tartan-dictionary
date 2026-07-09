@@ -1,5 +1,12 @@
 ---
 title: "Choinka Family (Personal)"
-redirect: "/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Choinka Family (Personal)](/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/).
+This is the **Choinka Family (Personal)** sett — one scale-free proportion (`dy4k2lo3k2dy7k9g20k2lb3k2g4`), colour order pattern
+[GKWKGKGKYKG](/stripes/gkwkgkgkykg/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Choinka Family (Personal)](/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/) ★ | 2012 | ![Choinka Family (Personal) sett](/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/sett.png) |

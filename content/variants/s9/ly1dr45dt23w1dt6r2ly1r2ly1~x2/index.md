@@ -1,14 +1,16 @@
 ---
 title: "Arbroath Smokie"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Arbroath Smokie"
-  url: ""
+  url: "/setts/ly1dr45dt23w1dt6r2ly1r2ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly1dr45dt23w1dt6r2ly1r2ly1/)
-(the same proportion at any scale), whose colour order is pattern [YBBWBRYRY](/stripes/ybbwbryry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly1dr45dt23w1dt6r2ly1r2ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YBBWBRYRY](/stripes/ybbwbryry/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2~dg1605139/"><circle cx="409.8" cy="135.9" r="4" fill="#3465a4"><title>Connemara</title></circle></a><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/"><circle cx="428.6" cy="141.9" r="4" fill="#3465a4"><title>Connemara (District)</title></circle></a><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/"><circle cx="445.7" cy="122.9" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/"><circle cx="391.6" cy="82.2" r="4" fill="#3465a4"><title>Wattenhofer (2016)</title></circle></a><a href="/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"><circle cx="409.3" cy="85.0" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/variants/s12/dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3~x2~dg1001060-dgi1603171/"><circle cx="475.9" cy="127.7" r="4" fill="#3465a4"><title>Tyrone Irish County Tartan</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.1" cy="148.6" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><a href="/variants/s8/w3dr11db4dr6dg48o2dg3o2~x2/"><circle cx="447.5" cy="135.2" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><a href="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/"><circle cx="363.8" cy="95.3" r="4" fill="#3465a4"><title>Down, County</title></circle></a><a href="/variants/s10/o64g4dy1g4dy1g4dy64do2dy2do8~x2/"><circle cx="420.5" cy="118.4" r="4" fill="#3465a4"><title>Connacht</title></circle></a><circle cx="448.2" cy="108.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2~dg1605139/"><circle cx="409.8" cy="135.8" r="4" fill="#3465a4"><title>Connemara</title></circle></a><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/"><circle cx="428.6" cy="141.8" r="4" fill="#3465a4"><title>Connemara (District)</title></circle></a><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/"><circle cx="445.7" cy="122.7" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/"><circle cx="391.6" cy="82.0" r="4" fill="#3465a4"><title>Wattenhofer (2016)</title></circle></a><a href="/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"><circle cx="409.4" cy="84.8" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/variants/s12/dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3~x2~dg1001060-dgi1603171/"><circle cx="476.0" cy="127.6" r="4" fill="#3465a4"><title>Tyrone Irish County Tartan</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.2" cy="148.5" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><a href="/variants/s8/w3dr11db4dr6dg48o2dg3o2~x2/"><circle cx="447.5" cy="135.1" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><a href="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/"><circle cx="363.9" cy="95.2" r="4" fill="#3465a4"><title>Down, County</title></circle></a><a href="/variants/s10/o64g4dy1g4dy1g4dy64do2dy2do8~x2/"><circle cx="420.5" cy="118.3" r="4" fill="#3465a4"><title>Connacht</title></circle></a><circle cx="448.2" cy="108.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/

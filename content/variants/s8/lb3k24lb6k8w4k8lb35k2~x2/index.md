@@ -1,14 +1,16 @@
 ---
 title: "Nowell/Noel 1951 (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Nowell/Noel 1951 (Name)"
-  url: ""
+  url: "/setts/lb3k24lb6k8w4k8lb35k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb3k24lb6k8w4k8lb35k2/)
-(the same proportion at any scale), whose colour order is pattern [KWKWKWKW](/stripes/kwkwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb3k24lb6k8w4k8lb35k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWKWKW](/stripes/kwkwkwkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2b2w11b5k5w2k1b2~x2/"><circle cx="186.6" cy="189.6" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.8" cy="136.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s10/k1t17k17t1r1t1k17t17k1w1~x4/"><circle cx="264.3" cy="136.2" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="275.9" cy="176.1" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><circle cx="279.1" cy="142.9" r="4" fill="#3465a4"><title>MacKnight (Name)</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.2" cy="182.2" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="287.7" cy="164.0" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="324.7" cy="124.1" r="4" fill="#3465a4"><title>Doune (District)</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.9" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="177.0" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><circle cx="274.0" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2b2w11b5k5w2k1b2~x2/"><circle cx="186.6" cy="189.5" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.9" cy="136.4" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s10/k1t17k17t1r1t1k17t17k1w1~x4/"><circle cx="264.3" cy="136.1" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="276.0" cy="176.1" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><circle cx="279.1" cy="142.8" r="4" fill="#3465a4"><title>MacKnight (Name)</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.2" cy="182.1" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="287.7" cy="163.9" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="324.7" cy="124.0" r="4" fill="#3465a4"><title>Doune (District)</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.8" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="177.0" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><circle cx="274.0" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb3k24lb6k8w4k8lb35k2~x2/

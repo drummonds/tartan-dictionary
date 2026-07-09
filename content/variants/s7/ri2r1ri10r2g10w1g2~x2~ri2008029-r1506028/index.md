@@ -1,16 +1,18 @@
 ---
 title: "Lennox"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lennox"
   url: "/tartans/lennox/"
 - name: "Lennox"
-  url: ""
+  url: "/setts/ri2r1ri10r2g10w1g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri2r1ri10r2g10w1g2/)
-(the same proportion at any scale), whose colour order is pattern [GWGRRRR](/stripes/gwgrrrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ri2r1ri10r2g10w1g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGRRRR](/stripes/gwgrrrr/).
 
 Part of the [Lennox](/tartans/lennox/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2dr1r10dr2g10w1g2~x2/"><circle cx="275.2" cy="202.3" r="4" fill="#3465a4"><title>Lennox District Tartan</title></circle></a><a href="/variants/s7/r2dr1r10dr2g10lr1g2~x4/"><circle cx="285.3" cy="204.9" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="300.1" cy="208.7" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.8" cy="206.0" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2008029/"><circle cx="221.1" cy="157.1" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2209032/"><circle cx="214.8" cy="154.2" r="4" fill="#3465a4"><title>Lindsay #3</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="180.0" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="311.6" cy="165.2" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/variants/s6/ri8r1g4r1g1lb2~x2~ri2209032-r2208029/"><circle cx="289.3" cy="222.6" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="193.3" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><circle cx="283.1" cy="203.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2dr1r10dr2g10w1g2~x2/"><circle cx="275.2" cy="202.2" r="4" fill="#3465a4"><title>Lennox District Tartan</title></circle></a><a href="/variants/s7/r2dr1r10dr2g10lr1g2~x4/"><circle cx="285.3" cy="204.8" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="300.1" cy="208.6" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.8" cy="206.0" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2008029/"><circle cx="221.1" cy="157.0" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2209032/"><circle cx="214.8" cy="154.1" r="4" fill="#3465a4"><title>Lindsay #3</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="179.9" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="311.7" cy="165.1" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/variants/s6/ri8r1g4r1g1lb2~x2~ri2209032-r2208029/"><circle cx="289.3" cy="222.5" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="193.2" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><circle cx="283.1" cy="203.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/

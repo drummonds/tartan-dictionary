@@ -1,5 +1,12 @@
 ---
 title: "Golfing Stewart (Fashion)"
-redirect: "/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Golfing Stewart (Fashion)](/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/).
+This is the **Golfing Stewart (Fashion)** sett — one scale-free proportion (`dy4r2k9r25k3r2k3r4db15w3`), colour order pattern
+[GRKRKRKRBW](/stripes/grkrkrkrbw/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Golfing Stewart (Fashion)](/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/) ★ | 1999 | ![Golfing Stewart (Fashion) sett](/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/sett.png) |

@@ -16,7 +16,7 @@ The **Ferguson Dress** tartan groups 2 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb34db24w18dr3w18dg2w3/">Ferguson Dress</a> ★</td><td><code>LB/68 DB48 W36 DR6 W36 DG4 W/6</code></td><td>334</td><td>—</td></tr>
+<tr><td><a href="/setts/lb34db24w18dr3w18dg2w3/">Ferguson Dress</a> ★</td><td><code>LB/68 DB48 W36 DR6 W36 DG4 W/6</code></td><td>334</td><td>1980</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/lb34db24w18dr3w18dg2w3/"><img src="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/sett.png" alt="Ferguson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/lb34db24w18r3w18g2w3/">Ferguson, dress</a></td><td><code>LB/68 DB48 W36 R6 W36 G4 W/6</code></td><td>334</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/lb34db24w18r3w18g2w3/"><img src="/variants/s7/lb34db24w18r3w18g2w3~x2/sett.png" alt="Ferguson, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

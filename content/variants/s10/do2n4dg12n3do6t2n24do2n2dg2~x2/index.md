@@ -1,14 +1,16 @@
 ---
 title: "Wicklow Irish County Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wicklow Irish County Tartan"
-  url: ""
+  url: "/setts/do2n4dg12n3do6t2n24do2n2dg2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do2n4dg12n3do6t2n24do2n2dg2/)
-(the same proportion at any scale), whose colour order is pattern [BBGBBBBBBG](/stripes/bbgbbbbbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/do2n4dg12n3do6t2n24do2n2dg2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBBBBBBG](/stripes/bbgbbbbbbg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1995 One of a series of Irish District tartans designed by 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1995 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="438.8" cy="218.6" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><a href="/variants/s10/b3n30g8b2g2b2g2b8n7b2~x2/"><circle cx="534.9" cy="241.2" r="4" fill="#3465a4"><title>Gray</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.2" cy="270.3" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><a href="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/"><circle cx="472.6" cy="269.7" r="4" fill="#3465a4"><title>Armagh, County</title></circle></a><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.4" cy="285.2" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/"><circle cx="451.0" cy="262.4" r="4" fill="#3465a4"><title>Hesco</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.4" cy="215.9" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/"><circle cx="504.0" cy="169.8" r="4" fill="#3465a4"><title>Scottish National (hunting)</title></circle></a><a href="/variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="436.4" cy="198.7" r="4" fill="#3465a4"><title>Wicklow, County</title></circle></a><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><circle cx="434.6" cy="238.6" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><circle cx="485.3" cy="233.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="438.8" cy="218.5" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><a href="/variants/s10/b3n30g8b2g2b2g2b8n7b2~x2/"><circle cx="534.9" cy="241.1" r="4" fill="#3465a4"><title>Gray</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.2" cy="270.2" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><a href="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/"><circle cx="472.7" cy="269.6" r="4" fill="#3465a4"><title>Armagh, County</title></circle></a><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.5" cy="285.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/"><circle cx="451.0" cy="262.3" r="4" fill="#3465a4"><title>Hesco</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.5" cy="215.8" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/"><circle cx="504.0" cy="169.7" r="4" fill="#3465a4"><title>Scottish National (hunting)</title></circle></a><a href="/variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="436.4" cy="198.6" r="4" fill="#3465a4"><title>Wicklow, County</title></circle></a><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><circle cx="434.7" cy="238.5" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><circle cx="485.3" cy="233.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/

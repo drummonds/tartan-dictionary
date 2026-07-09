@@ -1,5 +1,12 @@
 ---
 title: "Spice Apple"
-redirect: "/variants/s7/r4g4lo4g12r22lo1g4~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Spice Apple](/variants/s7/r4g4lo4g12r22lo1g4~x4/).
+This is the **Spice Apple** sett — one scale-free proportion (`r4g4lo4g12r22lo1g4`), colour order pattern
+[GYRGYGR](/stripes/gyrgygr/). It is recorded as a single **variant**, below.
+First attested **1972**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Spice Apple](/variants/s7/r4g4lo4g12r22lo1g4~x4/) ★ | 1972 | ![Spice Apple sett](/variants/s7/r4g4lo4g12r22lo1g4~x4/sett.png) |

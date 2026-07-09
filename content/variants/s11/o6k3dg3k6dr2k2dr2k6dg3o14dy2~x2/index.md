@@ -1,14 +1,16 @@
 ---
 title: "Fountain of the Strong"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fountain of the Strong"
-  url: ""
+  url: "/setts/o6k3dg3k6dr2k2dr2k6dg3o14dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o6k3dg3k6dr2k2dr2k6dg3o14dy2/)
-(the same proportion at any scale), whose colour order is pattern [GRGKBKBKGKR](/stripes/grgkbkbkgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o6k3dg3k6dr2k2dr2k6dg3o14dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGKBKBKGKR](/stripes/grgkbkbkgkr/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.6" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="90.4" cy="197.2" r="4" fill="#3465a4"><title>Murdoch (Dalgliesh)</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.2" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><circle cx="113.4" cy="162.3" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/variants/s10/k4r3k16g4dy4k3dy20k3dy4w3~x2/"><circle cx="173.0" cy="164.9" r="4" fill="#3465a4"><title>McCurrach (2014)</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.5" cy="159.2" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.8" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><a href="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/"><circle cx="133.4" cy="174.5" r="4" fill="#3465a4"><title>Balmoral Hotel (Corporate)</title></circle></a><a href="/variants/s11/dr16g16dr8k8y3k3db3k3y3dr14w3~x2/"><circle cx="134.9" cy="176.3" r="4" fill="#3465a4"><title>Mars (Personal)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><circle cx="141.0" cy="173.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.5" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="90.4" cy="197.2" r="4" fill="#3465a4"><title>Murdoch (Dalgliesh)</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.1" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><circle cx="113.4" cy="162.2" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/variants/s10/k4r3k16g4dy4k3dy20k3dy4w3~x2/"><circle cx="173.1" cy="164.8" r="4" fill="#3465a4"><title>McCurrach (2014)</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.6" cy="159.0" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.7" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><a href="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/"><circle cx="133.4" cy="174.4" r="4" fill="#3465a4"><title>Balmoral Hotel (Corporate)</title></circle></a><a href="/variants/s11/dr16g16dr8k8y3k3db3k3y3dr14w3~x2/"><circle cx="134.9" cy="176.2" r="4" fill="#3465a4"><title>Mars (Personal)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.1" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><circle cx="141.0" cy="173.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/

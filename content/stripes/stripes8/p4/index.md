@@ -67,7 +67,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Culloden, Blue Dress (Dance)](/variants/s8/y8db4lb23w3db22w25db3w6~x2/) | register-of-tartans |
+| 0.11 | [Culloden Blue Dress Fancy Tartan](/variants/s8/y8db4lb23w3db22w25db3w6~x2/) | house-of-tartan |
 
 ### GBYBGYGY
 <a class="pat" href="/stripes/gbybgygy/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GBYBGYGY</span></a>
@@ -354,14 +354,14 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Connelly, James (Personal)](/variants/s8/dg12dgi6r1dg6dgi4dp8dy2w2~x4~dg1403171-dgi1805151/) | register-of-tartans |
+| 0.08 | [Connelly Tartan](/variants/s8/dg12dgi6r1dg6dgi4dp8dy2w2~x4~dg1403171-dgi1805151/) | house-of-tartan |
 
 ### GGRGKBWG
 <a class="pat" href="/stripes/ggrgkbwg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGRGKBWG</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Tooth](/variants/s8/g5y1r2g25k14db19w4g2~x2/) | weddslist |
+| 0.07 | [Tooth Family Tartan](/variants/s8/g5y1r2g25k14db19w4g2~x2/) | house-of-tartan |
 
 ### GGRGKGWG
 <a class="pat" href="/stripes/ggrgkgwg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGRGKGWG</span></a>
@@ -746,7 +746,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Snodgrass](/variants/s8/k3r1y1db11g13db5r1y1~x2/) | weddslist |
+| 0.09 | [Snodgrass Family Tartan](/variants/s8/k3r1y1db11g13db5r1y1~x2/) | house-of-tartan |
 
 ### GRBGBWBW
 <a class="pat" href="/stripes/grbgbwbw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRBGBWBW</span></a>
@@ -900,7 +900,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Burnett, of Leys](/variants/s8/r60db5r5w2r5g2r5y2~x2/) | weddslist |
+| 0.09 | [Burnett of Leys Family Tartan](/variants/s8/r60db5r5w2r5g2r5y2~x2/) | house-of-tartan |
 
 ### GRGWGBGY
 <a class="pat" href="/stripes/grgwgbgy/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GRGWGBGY</span></a>
@@ -1103,7 +1103,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Sawyer](/variants/s8/r2lb1r8k4db1g10w1g2~x4/) | weddslist |
+| 0.07 | [Sawyer Family Tartan](/variants/s8/r2lb1r8k4db1g10w1g2~x4/) | house-of-tartan |
 
 ### GWGBKWRK
 <a class="pat" href="/stripes/gwgbkwrk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">GWGBKWRK</span></a>
@@ -1600,7 +1600,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Unidentified No 5](/variants/s8/k10y2g11r11w1r1w1k9~x2/) | register-of-tartans |
+| 0.07 | [Unnamed No 5 Tartan](/variants/s8/k10y2g11r11w1r1w1k9~x2/) | house-of-tartan |
 
 ### KGGWBGBR
 <a class="pat" href="/stripes/kggwbgbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGGWBGBR</span></a>
@@ -1628,7 +1628,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Hope-Weir/Weir](/variants/s8/k8y1k1db28k12g2k1lb2~x2/) | register-of-tartans |
+| 0.12 | [Weir Clan Tartan](/variants/s8/k8y1k1db28k12g2k1lb2~x2/) | house-of-tartan |
 
 ### KGKBKRGR
 <a class="pat" href="/stripes/kgkbkrgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGKBKRGR</span></a>
@@ -1698,7 +1698,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Bannockbane, Blue](/variants/s8/k4y2k13y1w8lb13y2lb4~x2/) | weddslist |
+| 0.09 | [Bannockbane Blue Trade Tartan](/variants/s8/k4y2k13y1w8lb13y2lb4~x2/) | house-of-tartan |
 
 ### KGKGWYGY
 <a class="pat" href="/stripes/kgkgwygy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KGKGWYGY</span></a>

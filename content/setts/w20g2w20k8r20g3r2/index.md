@@ -1,5 +1,12 @@
 ---
 title: "Bull-Dog Sauce"
-redirect: "/variants/s7/w20g2w20k8r20g3r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bull-Dog Sauce](/variants/s7/w20g2w20k8r20g3r2~x2/).
+This is the **Bull-Dog Sauce** sett — one scale-free proportion (`w20g2w20k8r20g3r2`), colour order pattern
+[RGRKWGW](/stripes/rgrkwgw/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bull-Dog Sauce](/variants/s7/w20g2w20k8r20g3r2~x2/) ★ | 2006 | ![Bull-Dog Sauce sett](/variants/s7/w20g2w20k8r20g3r2~x2/sett.png) |

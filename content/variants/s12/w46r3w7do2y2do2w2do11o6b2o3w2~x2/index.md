@@ -1,14 +1,16 @@
 ---
 title: "Diana, Plaid dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Diana, Plaid dress"
-  url: ""
+  url: "/setts/w46r3w7do2y2do2w2do11o6b2o3w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w46r3w7do2y2do2w2do11o6b2o3w2/)
-(the same proportion at any scale), whose colour order is pattern [WRBRBWBGBWRW](/stripes/wrbrbwbgbwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w46r3w7do2y2do2w2do11o6b2o3w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WRBRBWBGBWRW](/stripes/wrbrbwbgbwrw/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="293.9" cy="74.3" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.4" cy="49.9" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="140.4" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4o11r8lb2r4w5~x2/"><circle cx="300.3" cy="57.6" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.2" cy="86.9" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/"><circle cx="319.0" cy="115.0" r="4" fill="#3465a4"><title>Gray, Thomas (Personal)</title></circle></a><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/"><circle cx="265.2" cy="61.3" r="4" fill="#3465a4"><title>Pritchard</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.4" cy="59.4" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"><circle cx="349.9" cy="25.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><circle cx="334.3" cy="71.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="293.9" cy="74.1" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.4" cy="49.7" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="140.2" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4o11r8lb2r4w5~x2/"><circle cx="300.3" cy="57.4" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.2" cy="86.7" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.0" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/"><circle cx="319.0" cy="114.9" r="4" fill="#3465a4"><title>Gray, Thomas (Personal)</title></circle></a><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/"><circle cx="265.2" cy="61.1" r="4" fill="#3465a4"><title>Pritchard</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.4" cy="59.2" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"><circle cx="349.9" cy="24.8" r="4" fill="#3465a4"><title>Druid</title></circle></a><circle cx="334.2" cy="71.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/

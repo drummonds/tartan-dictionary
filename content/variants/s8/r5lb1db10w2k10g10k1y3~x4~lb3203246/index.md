@@ -1,14 +1,16 @@
 ---
 title: "Culloden 1746 Artefact Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Culloden 1746 - Original"
   url: "/setts/r5lb1db10w2k10g10k1y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5lb1db10w2k10g10k1y3/)
-(the same proportion at any scale), whose colour order is pattern [RWBWKGKGKGKWBW](/stripes/rwbwkgkgkgkwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r5lb1db10w2k10g10k1y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBWKGKGKGKWBW](/stripes/rwbwkgkgkgkwbw/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1746 Count from the original Culloden coat discovered and l
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1746 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4/"><circle cx="23.5" cy="151.9" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><circle cx="56.1" cy="136.7" r="4" fill="#3465a4"><title>Iowa American District Tartan</title></circle></a><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><circle cx="17.2" cy="142.9" r="4" fill="#3465a4"><title>Abel (2015)</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1b2~x2/"><circle cx="71.7" cy="122.7" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/"><circle cx="70.5" cy="122.7" r="4" fill="#3465a4"><title>Rust Personal Tartan</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="69.7" cy="121.8" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/"><circle cx="69.6" cy="123.4" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.7" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/"><circle cx="14.0" cy="127.3" r="4" fill="#3465a4"><title>Stuart/Stewart Black #3</title></circle></a><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/"><circle cx="59.3" cy="151.8" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><circle cx="26.6" cy="129.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4/"><circle cx="23.5" cy="151.8" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><circle cx="56.1" cy="136.5" r="4" fill="#3465a4"><title>Iowa American District Tartan</title></circle></a><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><circle cx="17.2" cy="142.8" r="4" fill="#3465a4"><title>Abel (2015)</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1b2~x2/"><circle cx="71.7" cy="122.6" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/"><circle cx="70.5" cy="122.5" r="4" fill="#3465a4"><title>Rust Personal Tartan</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="69.7" cy="121.6" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/"><circle cx="69.6" cy="123.3" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.6" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/"><circle cx="14.0" cy="127.2" r="4" fill="#3465a4"><title>Stuart/Stewart Black #3</title></circle></a><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/"><circle cx="59.3" cy="151.7" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><circle cx="26.7" cy="128.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/

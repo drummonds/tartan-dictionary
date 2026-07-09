@@ -2,15 +2,15 @@
 title: "Gordon"
 date: 2023-03-18
 ---
-The **Gordon** tartan is one sett proportion (`db12k2db2k2db2k12g12y2g12k12db11k2db2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Gordon** sett — one scale-free proportion (`db12k2db2k2db2k12g12y2g12k12db11k2db2`), colour order pattern
+[BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [Gordon](/tartans/gordon/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Gordon](/tartans/gordon/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [Gordon](/variants/s13/db12k2db2k2db2k12g12y2g12k12db11k2db2/) ★ | ~2016 | ![Gordon sett](/variants/s13/db12k2db2k2db2k12g12y2g12k12db11k2db2/sett.png) |
 | ×2 | [Gordon](/variants/s13/db12k2db2k2db2k12g12y2g12k12db11k2db2~x2/) | ~2016 | ![Gordon sett](/variants/s13/db12k2db2k2db2k12g12y2g12k12db11k2db2~x2/sett.png) |

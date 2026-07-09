@@ -1,5 +1,12 @@
 ---
 title: "Rafferty (Estimated threadcount)"
-redirect: "/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rafferty (Estimated threadcount)](/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/).
+This is the **Rafferty (Estimated threadcount)** sett — one scale-free proportion (`dr15t2ly1t10w1t2w1t2ly1`), colour order pattern
+[BBYBWBWBY](/stripes/bbybwbwby/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Rafferty (Estimated threadcount)](/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/) ★ | 2005 | ![Rafferty (Estimated threadcount) sett](/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/sett.png) |

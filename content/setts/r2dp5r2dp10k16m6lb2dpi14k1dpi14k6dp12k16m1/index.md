@@ -1,5 +1,12 @@
 ---
 title: "Katie Targett-Adams"
-redirect: "/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Katie Targett-Adams](/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/).
+This is the **Katie Targett-Adams** sett — one scale-free proportion (`r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1`), colour order pattern
+[RBRBKRWBKBKBKR](/stripes/rbrbkrwbkbkbkr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Katie Targett-Adams](/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/) ★ | 2008 | ![Katie Targett-Adams sett](/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/sett.png) |

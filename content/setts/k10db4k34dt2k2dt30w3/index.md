@@ -1,5 +1,12 @@
 ---
 title: "Patriot, The (Fashion)"
-redirect: "/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Patriot, The (Fashion)](/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/).
+This is the **Patriot, The (Fashion)** sett — one scale-free proportion (`k10db4k34dt2k2dt30w3`), colour order pattern
+[KBKBKBW](/stripes/kbkbkbw/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Patriot, The (Fashion)](/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/) ★ | 2007 | ![Patriot, The (Fashion) sett](/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/sett.png) |

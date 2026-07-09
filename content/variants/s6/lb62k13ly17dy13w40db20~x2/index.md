@@ -1,16 +1,18 @@
 ---
 title: "MacGregor-Ryan (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacGregor-Ryan"
   url: "/tartans/macgregor-ryan/"
 - name: "MacGregor-Ryan (Personal)"
-  url: ""
+  url: "/setts/lb62k13ly17dy13w40db20/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb62k13ly17dy13w40db20/)
-(the same proportion at any scale), whose colour order is pattern [BWGYKW](/stripes/bwgykw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb62k13ly17dy13w40db20/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGYKW](/stripes/bwgykw/).
 
 Part of the [MacGregor-Ryan](/tartans/macgregor-ryan/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp2w12t11lb12k1g2~x4/"><circle cx="116.1" cy="184.3" r="4" fill="#3465a4"><title>Isle of Barra (District)</title></circle></a><a href="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/"><circle cx="120.2" cy="185.4" r="4" fill="#3465a4"><title>Isle of Barra</title></circle></a><a href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><circle cx="26.6" cy="205.1" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><circle cx="18.9" cy="206.3" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><circle cx="87.2" cy="208.0" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><a href="/variants/s5/lb3w10db10g10k2~x4/"><circle cx="47.1" cy="250.0" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.7" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="201.2" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.4" cy="216.5" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x4~wi3600000-w3502055/"><circle cx="101.4" cy="216.5" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><circle cx="69.6" cy="216.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp2w12t11lb12k1g2~x4/"><circle cx="116.1" cy="184.2" r="4" fill="#3465a4"><title>Isle of Barra (District)</title></circle></a><a href="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/"><circle cx="120.2" cy="185.3" r="4" fill="#3465a4"><title>Isle of Barra</title></circle></a><a href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><circle cx="26.6" cy="205.1" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><circle cx="18.9" cy="206.2" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><circle cx="87.3" cy="207.9" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><a href="/variants/s5/lb3w10db10g10k2~x4/"><circle cx="47.1" cy="250.0" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.8" cy="199.7" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.6" cy="201.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.4" cy="216.4" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x4~wi3600000-w3502055/"><circle cx="101.4" cy="216.4" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><circle cx="69.6" cy="216.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb62k13ly17dy13w40db20~x2/

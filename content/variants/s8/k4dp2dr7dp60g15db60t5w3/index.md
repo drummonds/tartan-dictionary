@@ -1,16 +1,18 @@
 ---
 title: "Albannach (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Albannach"
   url: "/tartans/albannach/"
 - name: "Albannach (Corporate)"
-  url: ""
+  url: "/setts/k4dp2dr7dp60g15db60t5w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dp2dr7dp60g15db60t5w3/)
-(the same proportion at any scale), whose colour order is pattern [KBBBGBBW](/stripes/kbbbgbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4dp2dr7dp60g15db60t5w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBBBGBBW](/stripes/kbbbgbbw/).
 
 Part of the [Albannach](/tartans/albannach/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4dp2r7dp60g15db60t5w3/"><circle cx="245.9" cy="96.3" r="4" fill="#3465a4"><title>Albannach</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="272.7" cy="147.7" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><circle cx="231.4" cy="140.4" r="4" fill="#3465a4"><title>George Heriot's School</title></circle></a><a href="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="223.0" cy="103.3" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/variants/s8/r2db16k8g1dp8ly1dp2w2~x2/"><circle cx="145.8" cy="114.5" r="4" fill="#3465a4"><title>Freemasons' Universal</title></circle></a><a href="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/"><circle cx="272.6" cy="123.1" r="4" fill="#3465a4"><title>Custer (Personal)</title></circle></a><a href="/variants/s8/dbi2k2dp1db30lb1k12dg25ly1~x2~dbi1406275-db1004274/"><circle cx="266.7" cy="107.2" r="4" fill="#3465a4"><title>Castellari of Lochaber Lairds (Pers</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="264.2" cy="164.5" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2/"><circle cx="345.2" cy="128.6" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.3" cy="130.9" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><circle cx="260.7" cy="102.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4dp2r7dp60g15db60t5w3/"><circle cx="245.9" cy="96.2" r="4" fill="#3465a4"><title>Albannach</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="272.8" cy="147.6" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><circle cx="231.4" cy="140.3" r="4" fill="#3465a4"><title>George Heriot's School</title></circle></a><a href="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="223.0" cy="103.2" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/variants/s8/r2db16k8g1dp8ly1dp2w2~x2/"><circle cx="145.8" cy="114.4" r="4" fill="#3465a4"><title>Freemasons' Universal</title></circle></a><a href="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/"><circle cx="272.7" cy="122.9" r="4" fill="#3465a4"><title>Custer (Personal)</title></circle></a><a href="/variants/s8/dbi2k2dp1db30lb1k12dg25ly1~x2~dbi1406275-db1004274/"><circle cx="266.7" cy="107.1" r="4" fill="#3465a4"><title>Castellari of Lochaber Lairds (Pers</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="264.2" cy="164.4" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2/"><circle cx="345.2" cy="128.5" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.3" cy="130.7" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><circle cx="260.8" cy="102.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k4dp2dr7dp60g15db60t5w3/

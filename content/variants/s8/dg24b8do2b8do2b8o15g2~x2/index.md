@@ -1,14 +1,16 @@
 ---
 title: "Unidentified from Winnipeg"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified from Winnipeg"
-  url: ""
+  url: "/setts/dg24b8do2b8do2b8o15g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg24b8do2b8do2b8o15g2/)
-(the same proportion at any scale), whose colour order is pattern [GBBBBBRG](/stripes/gbbbbbrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg24b8do2b8do2b8o15g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBBBRG](/stripes/gbbbbbrg/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.8" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.4" cy="205.0" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.5" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.8" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.7" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.4" cy="230.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><circle cx="216.9" cy="210.0" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><circle cx="216.9" cy="207.7" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><circle cx="224.7" cy="190.0" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><circle cx="226.8" cy="204.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.7" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.4" cy="204.9" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.6" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.7" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.6" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.5" cy="230.1" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><circle cx="216.9" cy="209.9" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><circle cx="216.9" cy="207.6" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><circle cx="224.7" cy="189.9" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><circle cx="226.9" cy="204.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg24b8do2b8do2b8o15g2~x2/

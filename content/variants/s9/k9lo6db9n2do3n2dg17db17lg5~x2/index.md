@@ -1,16 +1,18 @@
 ---
 title: "Coats (New Zealand)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Coats"
   url: "/tartans/coats/"
 - name: "Coats (New Zealand)"
-  url: ""
+  url: "/setts/k9lo6db9n2do3n2dg17db17lg5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9lo6db9n2do3n2dg17db17lg5/)
-(the same proportion at any scale), whose colour order is pattern [KYBBBBGBY](/stripes/kybbbbgby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k9lo6db9n2do3n2dg17db17lg5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYBBBBGBY](/stripes/kybbbbgby/).
 
 Part of the [Coats](/tartans/coats/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k9ly6db9n2o3n2dg17db17lb5~x2~ly2806085-o2404072/"><circle cx="90.4" cy="168.6" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><circle cx="65.2" cy="148.8" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/"><circle cx="84.5" cy="153.6" r="4" fill="#3465a4"><title>Wisconsin (US State)</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.3" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.5" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="120.0" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="79.5" cy="165.2" r="4" fill="#3465a4"><title>Logan Rogers (Personal)</title></circle></a><a href="/variants/s11/db6k2t2db8k18lo2dg20db8t3k10lb6~x2~t1903246-dg1806142/"><circle cx="94.5" cy="155.6" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2~ly2705081/"><circle cx="91.9" cy="155.9" r="4" fill="#3465a4"><title>Wisconsin State American District Tartan</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/"><circle cx="90.6" cy="168.7" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><circle cx="86.4" cy="167.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k9ly6db9n2o3n2dg17db17lb5~x2~ly2806085-o2404072/"><circle cx="90.4" cy="168.5" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><circle cx="65.2" cy="148.7" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/"><circle cx="84.5" cy="153.5" r="4" fill="#3465a4"><title>Wisconsin (US State)</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.1" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.3" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="119.9" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="79.6" cy="165.1" r="4" fill="#3465a4"><title>Logan Rogers (Personal)</title></circle></a><a href="/variants/s11/db6k2t2db8k18lo2dg20db8t3k10lb6~x2~t1903246-dg1806142/"><circle cx="94.5" cy="155.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2~ly2705081/"><circle cx="92.0" cy="155.8" r="4" fill="#3465a4"><title>Wisconsin State American District Tartan</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/"><circle cx="90.7" cy="168.6" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><circle cx="86.5" cy="167.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k9lo6db9n2do3n2dg17db17lg5~x2/

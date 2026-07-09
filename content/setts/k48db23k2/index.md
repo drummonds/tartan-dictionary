@@ -1,5 +1,12 @@
 ---
 title: "McTear's Auctioneers"
-redirect: "/variants/s3/k48db23k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McTear's Auctioneers](/variants/s3/k48db23k2~x2/).
+This is the **McTear's Auctioneers** sett — one scale-free proportion (`k48db23k2`), colour order pattern
+[KBKKK](/stripes/kbkkk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McTear's Auctioneers](/variants/s3/k48db23k2~x2/) ★ | 2015 | ![McTear's Auctioneers sett](/variants/s3/k48db23k2~x2/sett.png) |

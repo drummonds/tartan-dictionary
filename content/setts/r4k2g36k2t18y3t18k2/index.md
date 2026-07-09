@@ -1,5 +1,12 @@
 ---
 title: "Fox Hunting"
-redirect: "/variants/s8/r4k2g36k2t18y3t18k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fox Hunting](/variants/s8/r4k2g36k2t18y3t18k2~x2/).
+This is the **Fox Hunting** sett — one scale-free proportion (`r4k2g36k2t18y3t18k2`), colour order pattern
+[KBGBKGKR](/stripes/kbgbkgkr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fox Hunting](/variants/s8/r4k2g36k2t18y3t18k2~x2/) ★ | 2003 | ![Fox Hunting sett](/variants/s8/r4k2g36k2t18y3t18k2~x2/sett.png) |

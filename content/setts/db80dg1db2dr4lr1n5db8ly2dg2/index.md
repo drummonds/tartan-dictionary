@@ -1,5 +1,12 @@
 ---
 title: "Crichton Clan Tartan"
-redirect: "/variants/s9/db80dg1db2dr4lr1n5db8ly2dg2~x2~db0705267-lr2800000-n1900000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Crichton Clan Tartan](/variants/s9/db80dg1db2dr4lr1n5db8ly2dg2~x2~db0705267-lr2800000-n1900000/).
+This is the **Crichton Clan Tartan** sett — one scale-free proportion (`db80dg1db2dr4lr1n5db8ly2dg2`), colour order pattern
+[BGBBYBBYG](/stripes/bgbbybbyg/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Crichton Clan Tartan](/variants/s9/db80dg1db2dr4lr1n5db8ly2dg2~x2~db0705267-lr2800000-n1900000/) ★ | 2008 | ![Crichton Clan Tartan sett](/variants/s9/db80dg1db2dr4lr1n5db8ly2dg2~x2~db0705267-lr2800000-n1900000/sett.png) |

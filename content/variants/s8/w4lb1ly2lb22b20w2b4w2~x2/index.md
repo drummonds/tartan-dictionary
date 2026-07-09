@@ -1,16 +1,18 @@
 ---
 title: "Gorman Blue (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gorman"
   url: "/tartans/gorman/"
 - name: "Gorman Blue (Personal)"
-  url: ""
+  url: "/setts/w4lb1ly2lb22b20w2b4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4lb1ly2lb22b20w2b4w2/)
-(the same proportion at any scale), whose colour order is pattern [WBWBWYWW](/stripes/wbwbwyww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4lb1ly2lb22b20w2b4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWBWYWW](/stripes/wbwbwyww/).
 
 Part of the [Gorman](/tartans/gorman/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/"><circle cx="282.1" cy="167.0" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="248.9" cy="199.5" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/"><circle cx="351.9" cy="187.2" r="4" fill="#3465a4"><title>Bannockbane Blue #3</title></circle></a><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="388.0" cy="181.3" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s6/t52db28w3db2w2db10~x2/"><circle cx="440.8" cy="211.4" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.7" cy="205.2" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="378.5" cy="149.8" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/"><circle cx="302.5" cy="227.7" r="4" fill="#3465a4"><title>Ailsa, Royal Blue (Dance)</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.6" cy="177.4" r="4" fill="#3465a4"><title>St John's</title></circle></a><circle cx="374.5" cy="206.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/"><circle cx="282.1" cy="166.9" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="249.0" cy="199.5" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/"><circle cx="351.9" cy="187.1" r="4" fill="#3465a4"><title>Bannockbane Blue #3</title></circle></a><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="388.0" cy="181.2" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s6/t52db28w3db2w2db10~x2/"><circle cx="440.8" cy="211.3" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.7" cy="205.1" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="378.5" cy="149.7" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/"><circle cx="302.6" cy="227.6" r="4" fill="#3465a4"><title>Ailsa, Royal Blue (Dance)</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.5" cy="177.3" r="4" fill="#3465a4"><title>St John's</title></circle></a><circle cx="374.6" cy="205.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w4lb1ly2lb22b20w2b4w2~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Clyde Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clyde Trade Tartan"
-  url: ""
+  url: "/setts/lb4n2lb18r2n5o16r2o2r2o2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4n2lb18r2n5o16r2o2r2o2/)
-(the same proportion at any scale), whose colour order is pattern [RRRRRBRWBW](/stripes/rrrrrbrwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb4n2lb18r2n5o16r2o2r2o2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRRRRBRWBW](/stripes/rrrrrbrwbw/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 1992 See Strathclyde District
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1992 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o24n3o3n3o3n20lb22n4~x2~o2500000-n1900000/"><circle cx="344.4" cy="266.5" r="4" fill="#3465a4"><title>Turnberry (MacArthur)</title></circle></a><a href="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/"><circle cx="318.9" cy="216.2" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><circle cx="326.9" cy="250.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/"><circle cx="216.6" cy="205.4" r="4" fill="#3465a4"><title>MacGlashan</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="279.0" cy="218.9" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s7/r3n20y2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="294.7" cy="239.3" r="4" fill="#3465a4"><title>Brodie Silver Clan Tartan</title></circle></a><a href="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/"><circle cx="250.2" cy="187.5" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><circle cx="314.8" cy="213.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o24n3o3n3o3n20lb22n4~x2~o2500000-n1900000/"><circle cx="344.4" cy="266.4" r="4" fill="#3465a4"><title>Turnberry (MacArthur)</title></circle></a><a href="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/"><circle cx="318.9" cy="216.1" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><circle cx="326.9" cy="250.7" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/"><circle cx="216.6" cy="205.3" r="4" fill="#3465a4"><title>MacGlashan</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="279.0" cy="218.9" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s7/r3n20y2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="294.7" cy="239.2" r="4" fill="#3465a4"><title>Brodie Silver Clan Tartan</title></circle></a><a href="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/"><circle cx="250.3" cy="187.4" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><circle cx="314.8" cy="213.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lb4n2lb18r2n5o16r2o2r2o2~x2~n1900000-o2500000/

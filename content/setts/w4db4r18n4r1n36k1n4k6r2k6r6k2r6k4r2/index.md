@@ -1,5 +1,14 @@
 ---
 title: "Mehrtens (Personal)"
-redirect: "/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mehrtens (Personal)](/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/).
+This is the **Mehrtens (Personal)** sett — one scale-free proportion (`w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2`), colour order pattern
+[RKRKRKRKBKBRBRBW](/stripes/rkrkrkrkbkbrbrbw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+Part of the [Mehrtens](/tartans/mehrtens/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mehrtens (Personal)](/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/) ★ | 2005 | ![Mehrtens (Personal) sett](/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "South Canterbury Centre P. & D. Assoc., Jubilee"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "South Canterbury Centre P. & D. Assoc., Jubilee"
-  url: ""
+  url: "/setts/b36db5g5w2r4w2dr9w22/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b36db5g5w2r4w2dr9w22/)
-(the same proportion at any scale), whose colour order is pattern [BBGWRWBW](/stripes/bbgwrwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b36db5g5w2r4w2dr9w22/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGWRWBW](/stripes/bbgwrwbw/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.8" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><circle cx="194.8" cy="184.1" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="212.9" cy="197.2" r="4" fill="#3465a4"><title>Ferguson Dress Clan Tartan</title></circle></a><a href="/variants/s10/lb3dy1lb23w20ly1w4db22lb4db4r1~x2/"><circle cx="180.2" cy="118.6" r="4" fill="#3465a4"><title>Forfar</title></circle></a><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><circle cx="161.6" cy="152.5" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/"><circle cx="134.5" cy="147.8" r="4" fill="#3465a4"><title>Fraser Gathering, dress</title></circle></a><a href="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/"><circle cx="231.7" cy="115.9" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s10/lb40db12ly2db2lb2db2g6w21r2lb2~x2/"><circle cx="250.3" cy="116.3" r="4" fill="#3465a4"><title>Corryvrechan Dress (Corporate)</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.4" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><circle cx="203.4" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.7" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><circle cx="194.8" cy="184.0" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="212.9" cy="197.2" r="4" fill="#3465a4"><title>Ferguson Dress Clan Tartan</title></circle></a><a href="/variants/s10/lb3dy1lb23w20ly1w4db22lb4db4r1~x2/"><circle cx="180.2" cy="118.5" r="4" fill="#3465a4"><title>Forfar</title></circle></a><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><circle cx="161.6" cy="152.4" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/"><circle cx="134.5" cy="147.6" r="4" fill="#3465a4"><title>Fraser Gathering, dress</title></circle></a><a href="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/"><circle cx="231.7" cy="115.8" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.4" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s10/lb40db12ly2db2lb2db2g6w21r2lb2~x2/"><circle cx="250.3" cy="116.1" r="4" fill="#3465a4"><title>Corryvrechan Dress (Corporate)</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.3" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><circle cx="203.4" cy="139.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/

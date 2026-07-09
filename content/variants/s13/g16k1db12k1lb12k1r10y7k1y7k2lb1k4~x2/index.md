@@ -1,14 +1,16 @@
 ---
 title: "Ville de Beauport District Canadian Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ville de Beauport District Canadian Tartan"
-  url: ""
+  url: "/setts/g16k1db12k1lb12k1r10y7k1y7k2lb1k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16k1db12k1lb12k1r10y7k1y7k2lb1k4/)
-(the same proportion at any scale), whose colour order is pattern [GKBKWKRGKGKWK](/stripes/gkbkwkrgkgkwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g16k1db12k1lb12k1r10y7k1y7k2lb1k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBKWKRGKGKWK](/stripes/gkbkwkrgkgkwk/).
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1991 District tartan for the town of Ville de Beauport - ea
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1991 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g16k1db12k1b12k1r10y7k1y7k2b1k4~x2/"><circle cx="49.1" cy="124.6" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/g16k1db12k1n12k1r10y7k1y7k2n1k4~x2/"><circle cx="59.0" cy="127.7" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="126.0" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"><circle cx="56.5" cy="124.4" r="4" fill="#3465a4"><title>Wexford County, Crest Range</title></circle></a><a href="/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/"><circle cx="16.0" cy="94.5" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/variants/s16/g3k2r12lb9k2lb9k16y3k3w5k3g25r13k4r5w3~x2/"><circle cx="34.2" cy="114.0" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><circle cx="45.2" cy="138.3" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.3" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><circle cx="78.8" cy="94.5" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><circle cx="36.0" cy="120.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g16k1db12k1b12k1r10y7k1y7k2b1k4~x2/"><circle cx="49.1" cy="124.4" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/g16k1db12k1n12k1r10y7k1y7k2n1k4~x2/"><circle cx="59.0" cy="127.6" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.1" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="125.9" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"><circle cx="56.5" cy="124.3" r="4" fill="#3465a4"><title>Wexford County, Crest Range</title></circle></a><a href="/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/"><circle cx="16.0" cy="94.3" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/variants/s16/g3k2r12lb9k2lb9k16y3k3w5k3g25r13k4r5w3~x2/"><circle cx="34.1" cy="113.9" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><circle cx="45.2" cy="138.2" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.2" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><circle cx="78.8" cy="94.3" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><circle cx="36.0" cy="119.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g16k1db12k1lb12k1r10y7k1y7k2lb1k4~x2/

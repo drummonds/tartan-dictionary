@@ -1,5 +1,12 @@
 ---
 title: "Lamont #2"
-redirect: "/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lamont #2](/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/).
+This is the **Lamont #2** sett — one scale-free proportion (`dp11dy2dp2dy2dp2dy11g14w2`), colour order pattern
+[BGBGBGGW](/stripes/bgbgbggw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lamont #2](/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/) ★ | ~2016 | ![Lamont #2 sett](/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/sett.png) |

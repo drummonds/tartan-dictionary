@@ -1,14 +1,16 @@
 ---
 title: "St Andrews Bay"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "St Andrews Bay"
   url: "/setts/ly30w4ly20g20k20lo3k6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly30w4ly20g20k20lo3k6/)
-(the same proportion at any scale), whose colour order is pattern [KYKGYWY](/stripes/kykgywy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly30w4ly20g20k20lo3k6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYKGYWY](/stripes/kykgywy/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2/"><circle cx="155.3" cy="188.6" r="4" fill="#3465a4"><title>St. Andrews Bay Hotel (Corporate)</title></circle></a><a href="/variants/s7/y17w7y6g43k5n6k13~x2/"><circle cx="162.2" cy="180.9" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.2" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><circle cx="165.1" cy="211.5" r="4" fill="#3465a4"><title>Wilson's No.124</title></circle></a><a href="/variants/s10/k3lb7ly26k26w5k26ly26lb7k3r3~x2/"><circle cx="138.9" cy="157.5" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="118.9" cy="189.9" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.8" cy="204.2" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><circle cx="139.3" cy="172.4" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><circle cx="168.1" cy="190.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2/"><circle cx="155.3" cy="188.5" r="4" fill="#3465a4"><title>St. Andrews Bay Hotel (Corporate)</title></circle></a><a href="/variants/s7/y17w7y6g43k5n6k13~x2/"><circle cx="162.2" cy="180.9" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.1" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><circle cx="165.1" cy="211.5" r="4" fill="#3465a4"><title>Wilson's No.124</title></circle></a><a href="/variants/s10/k3lb7ly26k26w5k26ly26lb7k3r3~x2/"><circle cx="139.0" cy="157.4" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="119.0" cy="189.8" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.8" cy="204.2" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><circle cx="139.3" cy="172.3" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><circle cx="168.1" cy="190.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ly30w4ly20g20k20lo3k6~x2~ly2503076/

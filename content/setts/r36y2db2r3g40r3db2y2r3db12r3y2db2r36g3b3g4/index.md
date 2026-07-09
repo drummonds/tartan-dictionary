@@ -1,5 +1,12 @@
 ---
 title: "Lochiel, (Cameron)"
-redirect: "/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lochiel, (Cameron)](/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/).
+This is the **Lochiel, (Cameron)** sett — one scale-free proportion (`r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4`), colour order pattern
+[GBGRBGRBRGBRGRBGR](/stripes/gbgrbgrbrgbrgrbgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lochiel, (Cameron)](/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/) ★ | ~2016 | ![Lochiel, (Cameron) sett](/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Unidentified Plaid #12"
-redirect: "/variants/s8/db3r64db3r3db62r3db3r3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified Plaid #12](/variants/s8/db3r64db3r3db62r3db3r3/).
+This is the **Unidentified Plaid #12** sett — one scale-free proportion (`db3r64db3r3db62r3db3r3`), colour order pattern
+[BRBRBRBR](/stripes/brbrbrbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Unidentified Plaid #12](/variants/s8/db3r64db3r3db62r3db3r3/) ★ | ~2016 | ![Unidentified Plaid #12 sett](/variants/s8/db3r64db3r3db62r3db3r3/sett.png) |

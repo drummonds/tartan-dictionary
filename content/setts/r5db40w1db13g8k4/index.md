@@ -1,5 +1,12 @@
 ---
 title: "London Scottish Rugby Club"
-redirect: "/variants/s6/r5db40w1db13g8k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [London Scottish Rugby Club](/variants/s6/r5db40w1db13g8k4~x2/).
+This is the **London Scottish Rugby Club** sett — one scale-free proportion (`r5db40w1db13g8k4`), colour order pattern
+[KGBWBR](/stripes/kgbwbr/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [London Scottish Rugby Club](/variants/s6/r5db40w1db13g8k4~x2/) ★ | 1997 | ![London Scottish Rugby Club sett](/variants/s6/r5db40w1db13g8k4~x2/sett.png) |

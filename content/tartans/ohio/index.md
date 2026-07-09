@@ -19,7 +19,7 @@ The **Ohio** tartan groups 3 setts — the same named design recorded as differe
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db16w6r8db3lo1g1lg3db1g10/"><img src="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/sett.png" alt="Ohio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/db16w6r8db3y1g1b3db1g9/">Ohio</a></td><td><code>DB/32 W12 R16 DB6 Y2 G2 B6 DB2 G/18</code></td><td>142</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db16w6r8db3y1g1b3db1g9/"><img src="/variants/s9/db16w6r8db3y1g1b3db1g9~x2/sett.png" alt="Ohio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db16w6r8db3y1g1lb3db1g9/">District Tartan</a></td><td><code>DB/32 W12 R16 DB6 Y2 G2 LB6 DB2 G/18</code></td><td>142</td><td>—</td></tr>
+<tr><td><a href="/setts/db16w6r8db3y1g1lb3db1g9/">District Tartan</a></td><td><code>DB/32 W12 R16 DB6 Y2 G2 LB6 DB2 G/18</code></td><td>142</td><td>1984</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db16w6r8db3y1g1lb3db1g9/"><img src="/variants/s9/db16w6r8db3y1g1lb3db1g9~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

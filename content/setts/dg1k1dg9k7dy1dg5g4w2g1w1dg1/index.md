@@ -1,5 +1,12 @@
 ---
 title: "Parkhead"
-redirect: "/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Parkhead](/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/).
+This is the **Parkhead** sett — one scale-free proportion (`dg1k1dg9k7dy1dg5g4w2g1w1dg1`), colour order pattern
+[GKGKGGGWGWG](/stripes/gkgkgggwgwg/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Parkhead](/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/) ★ | 2003 | ![Parkhead sett](/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/sett.png) |

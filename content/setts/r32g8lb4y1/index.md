@@ -2,15 +2,15 @@
 title: "MacLaine of Lochbuie"
 date: 2023-03-18
 ---
-The **MacLaine of Lochbuie** tartan is one sett proportion (`r32g8lb4y1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GWGR](/stripes/gwgr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacLaine of Lochbuie** sett — one scale-free proportion (`r32g8lb4y1`), colour order pattern
+[GWGR](/stripes/gwgr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1810**.
 
-Part of the [MacLaine of Lochbuie](/tartans/maclaine-of-lochbuie/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacLaine of Lochbuie](/tartans/maclaine-of-lochbuie/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [MacLaine of Lochbuie](/variants/s4/r32g8lb4y1/) ★ | ~2016 | ![MacLaine of Lochbuie sett](/variants/s4/r32g8lb4y1/sett.png) |
-| ×2 | [MacLaine of Lochbuie](/variants/s4/r32g8lb4y1~x2/) | ~2016 | ![MacLaine of Lochbuie sett](/variants/s4/r32g8lb4y1~x2/sett.png) |
+| ×2 | [MacLaine of Lochbuie Clan Tartan](/variants/s4/r32g8lb4y1~x2/) ★ | 1810 | ![MacLaine of Lochbuie Clan Tartan sett](/variants/s4/r32g8lb4y1~x2/sett.png) |
+| ×1 | [MacLaine of Lochbuie](/variants/s4/r32g8lb4y1/) | ~2016 | ![MacLaine of Lochbuie sett](/variants/s4/r32g8lb4y1/sett.png) |

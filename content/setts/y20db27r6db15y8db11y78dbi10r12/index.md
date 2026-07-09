@@ -2,15 +2,15 @@
 title: "Bracken"
 date: 2023-03-18
 ---
-The **Bracken** tartan is one sett proportion (`y20db27r6db15y8db11y78dbi10r12`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GBRBGBGBR](/stripes/gbrbgbgbr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Bracken** sett — one scale-free proportion (`y20db27r6db15y8db11y78dbi10r12`), colour order pattern
+[GBRBGBGBR](/stripes/gbrbgbgbr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~1992**.
 
-Part of the [Bracken](/tartans/bracken/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Bracken](/tartans/bracken/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [Bracken](/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/) ★ | ~2016 | ![Bracken sett](/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/sett.png) |
-| ×1 | [Braken Tartan](/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/) | ~2016 | ![Braken Tartan sett](/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/sett.png) |
+| ×1 | [Braken Tartan](/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/) ★ | ~1992 | ![Braken Tartan sett](/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/sett.png) |
+| ×1 | [Bracken](/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/) | ~2016 | ![Bracken sett](/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/sett.png) |

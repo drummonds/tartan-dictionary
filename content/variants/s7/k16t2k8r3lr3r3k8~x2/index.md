@@ -1,14 +1,16 @@
 ---
 title: "Benson (New England)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Benson (New England)"
-  url: ""
+  url: "/setts/k16t2k8r3lr3r3k8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k16t2k8r3lr3r3k8/)
-(the same proportion at any scale), whose colour order is pattern [KBKRYRK](/stripes/kbkryrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k16t2k8r3lr3r3k8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKRYRK](/stripes/kbkryrk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.2" cy="180.9" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17lo2~x2/"><circle cx="337.7" cy="193.9" r="4" fill="#3465a4"><title>Black Clan/Family Tartan</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="336.9" cy="194.1" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/"><circle cx="355.9" cy="223.9" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.4" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.7" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="305.4" cy="137.5" r="4" fill="#3465a4"><title>Muylle, Jelle (Personal)</title></circle></a><a href="/variants/s6/dr1k10n2lb5k5dr1~x4/"><circle cx="275.6" cy="187.4" r="4" fill="#3465a4"><title>Callaway (Corporate)</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.8" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><circle cx="342.9" cy="182.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.3" cy="180.8" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17lo2~x2/"><circle cx="337.7" cy="193.8" r="4" fill="#3465a4"><title>Black Clan/Family Tartan</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="337.0" cy="194.0" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/"><circle cx="355.9" cy="223.9" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.7" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.3" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.6" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="305.4" cy="137.3" r="4" fill="#3465a4"><title>Muylle, Jelle (Personal)</title></circle></a><a href="/variants/s6/dr1k10n2lb5k5dr1~x4/"><circle cx="275.6" cy="187.3" r="4" fill="#3465a4"><title>Callaway (Corporate)</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.7" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><circle cx="343.0" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k16t2k8r3lr3r3k8~x2/

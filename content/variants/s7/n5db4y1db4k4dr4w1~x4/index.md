@@ -1,16 +1,18 @@
 ---
 title: "Devon Companion District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Devon Companion"
   url: "/tartans/devon-companion/"
 - name: "Devon Companion District Tartan"
-  url: ""
+  url: "/setts/n5db4y1db4k4dr4w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n5db4y1db4k4dr4w1/)
-(the same proportion at any scale), whose colour order is pattern [BBGBKBW](/stripes/bbgbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n5db4y1db4k4dr4w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBKBW](/stripes/bbgbkbw/).
 
 Part of the [Devon Companion](/tartans/devon-companion/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1984 The Devon Original and Devon Companion owe their origi
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1984 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.4" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s7/n5db4y1db4k4dy4w1~x4/"><circle cx="68.9" cy="239.3" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.6" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/"><circle cx="135.0" cy="180.8" r="4" fill="#3465a4"><title>Galway County, Crest Range</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.3" cy="243.0" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.7" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.3" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.6" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/"><circle cx="118.7" cy="231.1" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><circle cx="69.7" cy="238.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.3" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s7/n5db4y1db4k4dy4w1~x4/"><circle cx="68.9" cy="239.3" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.5" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/"><circle cx="135.0" cy="180.7" r="4" fill="#3465a4"><title>Galway County, Crest Range</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.3" cy="243.0" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.6" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.3" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.7" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/"><circle cx="118.8" cy="231.0" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><circle cx="69.7" cy="238.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n5db4y1db4k4dr4w1~x4/

@@ -1,5 +1,12 @@
 ---
 title: "St Columba"
-redirect: "/variants/s8/db60lb5w4o12g42dp12lb5dp12/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St Columba](/variants/s8/db60lb5w4o12g42dp12lb5dp12/).
+This is the **St Columba** sett — one scale-free proportion (`db60lb5w4o12g42dp12lb5dp12`), colour order pattern
+[BWBGRWWB](/stripes/bwbgrwwb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [St Columba](/variants/s8/db60lb5w4o12g42dp12lb5dp12/) ★ | ~2016 | ![St Columba sett](/variants/s8/db60lb5w4o12g42dp12lb5dp12/sett.png) |

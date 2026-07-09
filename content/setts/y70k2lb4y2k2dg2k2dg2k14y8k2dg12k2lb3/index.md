@@ -1,5 +1,12 @@
 ---
 title: "Wcwm 9275-1415"
-redirect: "/variants/s14/y70k2lb4y2k2dg2k2dg2k14y8k2dg12k2lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wcwm 9275-1415](/variants/s14/y70k2lb4y2k2dg2k2dg2k14y8k2dg12k2lb3~x2/).
+This is the **Wcwm 9275-1415** sett — one scale-free proportion (`y70k2lb4y2k2dg2k2dg2k14y8k2dg12k2lb3`), colour order pattern
+[GKWGKGKGKGKGKW](/stripes/gkwgkgkgkgkgkw/). It is recorded as a single **variant**, below.
+First attested **1981**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wcwm 9275-1415](/variants/s14/y70k2lb4y2k2dg2k2dg2k14y8k2dg12k2lb3~x2/) ★ | 1981 | ![Wcwm 9275-1415 sett](/variants/s14/y70k2lb4y2k2dg2k2dg2k14y8k2dg12k2lb3~x2/sett.png) |

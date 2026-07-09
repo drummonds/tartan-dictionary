@@ -2,15 +2,15 @@
 title: "Arbuthnott"
 date: 2023-03-18
 ---
-The **Arbuthnott** tartan is one sett proportion (`db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/); each scale below is its own sett page. First attested **1962**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Arbuthnott** sett — one scale-free proportion (`db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1`), colour order pattern
+[BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1962**.
 
-Part of the [Arbuthnott](/tartans/arbuthnott/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Arbuthnott](/tartans/arbuthnott/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [Arbuthnott](/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/) ★ | 1962 | ![Arbuthnott sett](/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/sett.png) |
 | ×1 | [Arbuthnott](/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/) | ~2016 | ![Arbuthnott sett](/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/sett.png) |

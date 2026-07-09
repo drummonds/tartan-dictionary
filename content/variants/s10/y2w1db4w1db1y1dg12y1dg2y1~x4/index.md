@@ -1,14 +1,16 @@
 ---
 title: "Henry, David G (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Henry, David G (Personal)"
-  url: ""
+  url: "/setts/y2w1db4w1db1y1dg12y1dg2y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2w1db4w1db1y1dg12y1dg2y1/)
-(the same proportion at any scale), whose colour order is pattern [GGGGGBWBWG](/stripes/gggggbwbwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y2w1db4w1db1y1dg12y1dg2y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGGBWBWG](/stripes/gggggbwbwg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.5" cy="196.7" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><circle cx="292.5" cy="184.7" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="292.0" cy="178.2" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><circle cx="328.4" cy="180.9" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="196.4" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="308.0" cy="186.2" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/"><circle cx="287.3" cy="196.0" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/"><circle cx="318.1" cy="189.1" r="4" fill="#3465a4"><title>Aberlour Bicentenary</title></circle></a><a href="/variants/s9/db10y4db36g28w3g3w3g8y6/"><circle cx="277.7" cy="196.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s9/db5y2db17g14w1g1w1g4y2~x2/"><circle cx="308.0" cy="180.1" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><circle cx="323.4" cy="175.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.6" cy="196.6" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><circle cx="292.5" cy="184.6" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="292.0" cy="178.1" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><circle cx="328.5" cy="180.8" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="196.3" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="308.0" cy="186.0" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/"><circle cx="287.3" cy="195.9" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/"><circle cx="318.1" cy="189.0" r="4" fill="#3465a4"><title>Aberlour Bicentenary</title></circle></a><a href="/variants/s9/db10y4db36g28w3g3w3g8y6/"><circle cx="277.7" cy="195.9" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s9/db5y2db17g14w1g1w1g4y2~x2/"><circle cx="308.0" cy="180.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><circle cx="323.4" cy="175.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y2w1db4w1db1y1dg12y1dg2y1~x4/

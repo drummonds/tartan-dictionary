@@ -1,5 +1,12 @@
 ---
 title: "O'Farrell (Name)"
-redirect: "/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [O'Farrell (Name)](/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/).
+This is the **O'Farrell (Name)** sett — one scale-free proportion (`w2ly14y3k6w2k2w2k2g8ly6k2ly3w1`), colour order pattern
+[WYGKWKWKGYKYW](/stripes/wygkwkwkgykyw/). It is recorded as a single **variant**, below.
+First attested **~1978**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [O'Farrell (Name)](/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/) ★ | ~1978 | ![O'Farrell (Name) sett](/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/sett.png) |

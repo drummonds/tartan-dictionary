@@ -1,14 +1,16 @@
 ---
 title: "Menzies Dress Blue & White"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Menzies Dress Blue & White"
-  url: ""
+  url: "/setts/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2/)
-(the same proportion at any scale), whose colour order is pattern [WWBWBWBWWWWW](/stripes/wwbwbwbwwwww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WWBWBWBWWWWW](/stripes/wwbwbwbwwwww/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -63,12 +65,12 @@ One full sett is **248 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">248</div><div class="nn-name nn-base"><a href="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/">Menzies Dress Blue &amp; White</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w3db2w30db4lp26w2lp2dp4lp2w3~x2&amp;base=w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2" title="compare in the TTD">3.03</a></div><div class="nn-threads nn-far2">300</div><div class="nn-name nn-far2"><a href="/variants/s10/w3db2w30db4lp26w2lp2dp4lp2w3~x2/">Harris, Lilac (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w3db2w30db4lp26w2lp2dp4lp2w3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb45w4db4w2ly14db2w2db2~x4&amp;base=w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2" title="compare in the TTD">3.64</a></div><div class="nn-threads nn-far2">412</div><div class="nn-name nn-far2"><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/">Madras 1 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">248</div><div class="nn-name nn-base"><a href="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/">Menzies Dress Blue &amp; White</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w3db2w30db4lp26w2lp2dp4lp2w3~x2&amp;base=w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2" title="compare in the TTD">3.03</a></div><div class="nn-threads nn-far2">300</div><div class="nn-name nn-far2"><a href="/variants/s10/w3db2w30db4lp26w2lp2dp4lp2w3~x2/">Harris, Lilac (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w3db2w30db4lp26w2lp2dp4lp2w3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb45w4db4w2ly14db2w2db2~x4&amp;base=w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2" title="compare in the TTD">3.65</a></div><div class="nn-threads nn-far2">412</div><div class="nn-name nn-far2"><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/">Madras 1 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w3db2w30db4lp26w2lp2dp4lp2w3~x2/"><circle cx="355.7" cy="182.2" r="4" fill="#3465a4"><title>Harris, Lilac (Dance)</title></circle></a><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/"><circle cx="441.2" cy="173.0" r="4" fill="#3465a4"><title>Madras 1 (Fashion)</title></circle></a><circle cx="394.9" cy="180.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w3db2w30db4lp26w2lp2dp4lp2w3~x2/"><circle cx="355.7" cy="182.2" r="4" fill="#3465a4"><title>Harris, Lilac (Dance)</title></circle></a><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/"><circle cx="441.2" cy="172.9" r="4" fill="#3465a4"><title>Madras 1 (Fashion)</title></circle></a><circle cx="394.8" cy="180.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/

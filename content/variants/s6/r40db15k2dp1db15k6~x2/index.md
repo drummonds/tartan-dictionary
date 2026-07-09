@@ -1,16 +1,18 @@
 ---
 title: "Double Elvis Gallery (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Double Elvis Gallery"
   url: "/tartans/double-elvis-gallery/"
 - name: "Double Elvis Gallery (Corporate)"
-  url: ""
+  url: "/setts/r40db15k2dp1db15k6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r40db15k2dp1db15k6/)
-(the same proportion at any scale), whose colour order is pattern [KBBKBR](/stripes/kbbkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r40db15k2dp1db15k6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBBKBR](/stripes/kbbkbr/).
 
 Part of the [Double Elvis Gallery](/tartans/double-elvis-gallery/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="317.3" cy="119.3" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.1" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.2" cy="158.4" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="242.3" cy="148.0" r="4" fill="#3465a4"><title>Masai Shuka 17 (Artefact)</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.4" cy="102.5" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s5/db30w4y1w4r30~x4/"><circle cx="294.4" cy="160.5" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><a href="/variants/s5/db30w4ly1w4r30~x4/"><circle cx="293.5" cy="160.3" r="4" fill="#3465a4"><title>Philippine Heritage (Corporate)</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="163.0" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.6" cy="110.3" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="282.1" cy="158.5" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><circle cx="313.6" cy="120.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="317.3" cy="119.2" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.0" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.3" cy="158.3" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="242.3" cy="147.9" r="4" fill="#3465a4"><title>Masai Shuka 17 (Artefact)</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.4" cy="102.4" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s5/db30w4y1w4r30~x4/"><circle cx="294.4" cy="160.4" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><a href="/variants/s5/db30w4ly1w4r30~x4/"><circle cx="293.5" cy="160.2" r="4" fill="#3465a4"><title>Philippine Heritage (Corporate)</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="162.9" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.6" cy="110.2" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="282.1" cy="158.4" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><circle cx="313.6" cy="119.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r40db15k2dp1db15k6~x2/

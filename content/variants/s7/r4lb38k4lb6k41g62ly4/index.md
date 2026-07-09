@@ -1,14 +1,16 @@
 ---
 title: "Bennett, John Paul (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bennett, John Paul (Personal)"
-  url: ""
+  url: "/setts/r4lb38k4lb6k41g62ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4lb38k4lb6k41g62ly4/)
-(the same proportion at any scale), whose colour order is pattern [RWKWKGY](/stripes/rwkwkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4lb38k4lb6k41g62ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWKWKGY](/stripes/rwkwkgy/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k5g30y3t15k15t7w3~x2/"><circle cx="135.4" cy="183.8" r="4" fill="#3465a4"><title>Dick (Personal)</title></circle></a><a href="/variants/s7/r2g8w1k8t8k1t1~x6/"><circle cx="97.4" cy="190.5" r="4" fill="#3465a4"><title>Colquhoun #2</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4~x2/"><circle cx="191.2" cy="139.0" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4/"><circle cx="191.2" cy="139.0" r="4" fill="#3465a4"><title>Colquhoun VS</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g33y4~x2/"><circle cx="158.6" cy="142.4" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s7/k20w4r4dg20w5dg2g2~x2~dg1806142-g2408144/"><circle cx="132.6" cy="164.0" r="4" fill="#3465a4"><title>Hackett (Personal)</title></circle></a><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="196.7" cy="156.5" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.4" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s6/k2g11y1k8t9r2~x4/"><circle cx="113.7" cy="191.9" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/variants/s7/k9b4k1b4g15r4k1~x2/"><circle cx="162.1" cy="168.2" r="4" fill="#3465a4"><title>Logan, Dark</title></circle></a><circle cx="155.2" cy="147.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k5g30y3t15k15t7w3~x2/"><circle cx="135.5" cy="183.7" r="4" fill="#3465a4"><title>Dick (Personal)</title></circle></a><a href="/variants/s7/r2g8w1k8t8k1t1~x6/"><circle cx="97.4" cy="190.4" r="4" fill="#3465a4"><title>Colquhoun #2</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4~x2/"><circle cx="191.2" cy="138.9" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4/"><circle cx="191.2" cy="138.9" r="4" fill="#3465a4"><title>Colquhoun VS</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g33y4~x2/"><circle cx="158.7" cy="142.3" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s7/k20w4r4dg20w5dg2g2~x2~dg1806142-g2408144/"><circle cx="132.6" cy="163.9" r="4" fill="#3465a4"><title>Hackett (Personal)</title></circle></a><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="196.7" cy="156.4" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.3" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s6/k2g11y1k8t9r2~x4/"><circle cx="113.7" cy="191.9" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/variants/s7/k9b4k1b4g15r4k1~x2/"><circle cx="162.1" cy="168.1" r="4" fill="#3465a4"><title>Logan, Dark</title></circle></a><circle cx="155.3" cy="147.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r4lb38k4lb6k41g62ly4/

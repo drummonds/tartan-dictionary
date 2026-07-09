@@ -1,16 +1,18 @@
 ---
 title: "Lermontov Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lermontov"
   url: "/tartans/lermontov/"
 - name: "Lermontov Family Tartan"
-  url: ""
+  url: "/setts/k2dy1k2dy8r29n9db24w2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2dy1k2dy8r29n9db24w2db2/)
-(the same proportion at any scale), whose colour order is pattern [BWBBRGKGK](/stripes/bwbbrgkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2dy1k2dy8r29n9db24w2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBBRGKGK](/stripes/bwbbrgkgk/).
 
 Part of the [Lermontov](/tartans/lermontov/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2004 December For the Russian descendents of George Lermont
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2004 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.5" cy="91.9" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s11/g10n1k3dp22n1dp8k2r26ly1r6k3~x2/"><circle cx="194.7" cy="85.2" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/variants/s7/r64k30y30db18w4db2w3/"><circle cx="197.3" cy="111.5" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.8" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.5" cy="84.4" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="208.0" cy="123.3" r="4" fill="#3465a4"><title>Wishart Dress Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="193.3" cy="119.5" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/variants/s7/k7dbi4r31db3lo2db27lb4~x2~dbi1406275-db1204274/"><circle cx="190.6" cy="128.3" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/variants/s7/k7dbi4r31db3y2db27lb4~x2~dbi1406275-db1204274/"><circle cx="213.8" cy="112.8" r="4" fill="#3465a4"><title>Wishart Dress</title></circle></a><a href="/variants/s11/dp7o2ri2r2dp23r2k2r1k15ri29lp2~x2~ri2109032-r2109013/"><circle cx="187.5" cy="72.2" r="4" fill="#3465a4"><title>MacHatters of the Old Pueblo</title></circle></a><circle cx="195.8" cy="93.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.5" cy="91.8" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s11/g10n1k3dp22n1dp8k2r26ly1r6k3~x2/"><circle cx="194.7" cy="85.1" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/variants/s7/r64k30y30db18w4db2w3/"><circle cx="197.3" cy="111.3" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.7" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.5" cy="84.3" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="208.0" cy="123.2" r="4" fill="#3465a4"><title>Wishart Dress Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="193.4" cy="119.4" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/variants/s7/k7dbi4r31db3lo2db27lb4~x2~dbi1406275-db1204274/"><circle cx="190.6" cy="128.2" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/variants/s7/k7dbi4r31db3y2db27lb4~x2~dbi1406275-db1204274/"><circle cx="213.8" cy="112.7" r="4" fill="#3465a4"><title>Wishart Dress</title></circle></a><a href="/variants/s11/dp7o2ri2r2dp23r2k2r1k15ri29lp2~x2~ri2109032-r2109013/"><circle cx="187.5" cy="72.0" r="4" fill="#3465a4"><title>MacHatters of the Old Pueblo</title></circle></a><circle cx="195.8" cy="93.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/

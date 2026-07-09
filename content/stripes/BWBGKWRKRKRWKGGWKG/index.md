@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2dy15w22k2y2~x2/">Unidentified #39</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2dy15w22k2y2~x2/"><img src="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2dy15w22k2y2~x2/sett.png" alt="Unidentified #39 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2dy15w22k2y2~x2/">Lockwood Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2dy15w22k2y2~x2/"><img src="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2dy15w22k2y2~x2/sett.png" alt="Lockwood Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

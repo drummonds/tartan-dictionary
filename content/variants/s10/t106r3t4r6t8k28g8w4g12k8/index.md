@@ -1,16 +1,18 @@
 ---
 title: "Parr"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Parr"
   url: "/tartans/parr/"
 - name: "Parr"
-  url: ""
+  url: "/setts/t106r3t4r6t8k28g8w4g12k8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t106r3t4r6t8k28g8w4g12k8/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t106r3t4r6t8k28g8w4g12k8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
 
 Part of the [Parr](/tartans/parr/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/"><circle cx="349.5" cy="60.4" r="4" fill="#3465a4"><title>Laing (Clan)</title></circle></a><a href="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/"><circle cx="335.5" cy="68.0" r="4" fill="#3465a4"><title>Spirit of West Lothian</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="327.4" cy="96.5" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><a href="/variants/s7/t64k3g14k4t4k12lo4~x2/"><circle cx="355.9" cy="129.0" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/variants/s10/t81k6y1k2w2k2g12dy28w1dy4~x2/"><circle cx="338.5" cy="50.7" r="4" fill="#3465a4"><title>MacLean of Kingairloch (Personal)</title></circle></a><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><circle cx="415.1" cy="95.6" r="4" fill="#3465a4"><title>Caledonian Railway (Commemorative)</title></circle></a><a href="/variants/s9/k4y1g2y1g32lb1g3db32lb3~x2/"><circle cx="279.2" cy="96.4" r="4" fill="#3465a4"><title>McClurg</title></circle></a><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><circle cx="292.7" cy="61.8" r="4" fill="#3465a4"><title>City of Barrie</title></circle></a><a href="/variants/s8/db2g2k1g30db20r2db2r2~x2/"><circle cx="336.3" cy="121.2" r="4" fill="#3465a4"><title>Gretna Green Fashion Tartan</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.2" cy="70.7" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><circle cx="340.7" cy="71.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/"><circle cx="349.5" cy="60.2" r="4" fill="#3465a4"><title>Laing (Clan)</title></circle></a><a href="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/"><circle cx="335.5" cy="67.8" r="4" fill="#3465a4"><title>Spirit of West Lothian</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="327.4" cy="96.3" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><a href="/variants/s7/t64k3g14k4t4k12lo4~x2/"><circle cx="355.9" cy="128.9" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/variants/s10/t81k6y1k2w2k2g12dy28w1dy4~x2/"><circle cx="338.5" cy="50.5" r="4" fill="#3465a4"><title>MacLean of Kingairloch (Personal)</title></circle></a><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><circle cx="415.1" cy="95.4" r="4" fill="#3465a4"><title>Caledonian Railway (Commemorative)</title></circle></a><a href="/variants/s9/k4y1g2y1g32lb1g3db32lb3~x2/"><circle cx="279.2" cy="96.2" r="4" fill="#3465a4"><title>McClurg</title></circle></a><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><circle cx="292.7" cy="61.6" r="4" fill="#3465a4"><title>City of Barrie</title></circle></a><a href="/variants/s8/db2g2k1g30db20r2db2r2~x2/"><circle cx="336.3" cy="121.1" r="4" fill="#3465a4"><title>Gretna Green Fashion Tartan</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.2" cy="70.6" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><circle cx="340.7" cy="70.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/t106r3t4r6t8k28g8w4g12k8/

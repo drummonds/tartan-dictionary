@@ -1,5 +1,12 @@
 ---
 title: "Scottish Claymores"
-redirect: "/variants/s10/ki9w2ki24k8w5k8db15k3db15k2~x2~ki0604259/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scottish Claymores](/variants/s10/ki9w2ki24k8w5k8db15k3db15k2~x2~ki0604259/).
+This is the **Scottish Claymores** sett — one scale-free proportion (`ki9w2ki24k8w5k8db15k3db15k2`), colour order pattern
+[KBKBKWKKWK](/stripes/kbkbkwkkwk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scottish Claymores](/variants/s10/ki9w2ki24k8w5k8db15k3db15k2~x2~ki0604259/) ★ | ~2016 | ![Scottish Claymores sett](/variants/s10/ki9w2ki24k8w5k8db15k3db15k2~x2~ki0604259/sett.png) |

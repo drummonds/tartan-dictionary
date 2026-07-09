@@ -1,5 +1,12 @@
 ---
 title: "East Lothian (Fashion) Fashion Tartan"
-redirect: "/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [East Lothian (Fashion) Fashion Tartan](/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/).
+This is the **East Lothian (Fashion) Fashion Tartan** sett — one scale-free proportion (`db17dp4db2k11g33y4g33k11db2dp4db17lb6`), colour order pattern
+[BBBKGGGKBBBW](/stripes/bbbkgggkbbbw/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [East Lothian (Fashion) Fashion Tartan](/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/) ★ | 1999 | ![East Lothian (Fashion) Fashion Tartan sett](/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/sett.png) |

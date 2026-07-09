@@ -1,16 +1,18 @@
 ---
 title: "Kennedy"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kennedy"
   url: "/tartans/kennedy/"
 - name: "Kennedy"
-  url: ""
+  url: "/setts/k2b4k14dg3k6o2k2o2k10db6k2db3w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2b4k14dg3k6o2k2o2k10db6k2db3w1/)
-(the same proportion at any scale), whose colour order is pattern [KBKGKRKRKBKBW](/stripes/kbkgkrkrkbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2b4k14dg3k6o2k2o2k10db6k2db3w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKGKRKRKBKBW](/stripes/kbkgkrkrkbkbw/).
 
 Part of the [Kennedy](/tartans/kennedy/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2lb4k14r3k6dy2k2dy2k10db6k2db3w1~x2/"><circle cx="241.8" cy="112.6" r="4" fill="#3465a4"><title>Kennedy (Irish)</title></circle></a><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/"><circle cx="245.9" cy="96.8" r="4" fill="#3465a4"><title>Parker Black (2009)</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.4" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="266.8" cy="92.5" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/variants/s9/k10dp3db4dp3k7b3g8k17y2~x2/"><circle cx="213.1" cy="163.1" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/"><circle cx="146.2" cy="136.6" r="4" fill="#3465a4"><title>Dilanan (Musselburgh) (Personal)</title></circle></a><a href="/variants/s12/k15db7n3k13n3db7k23n3db7dy2dp4dy2~x2/"><circle cx="273.0" cy="156.1" r="4" fill="#3465a4"><title>Apache</title></circle></a><a href="/variants/s15/g2dr4g2k16g2k16g4k2g2k2g4k4db8k1lb2~x2/"><circle cx="241.9" cy="110.0" r="4" fill="#3465a4"><title>MacKean Hunting</title></circle></a><a href="/variants/s20/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2~x2/"><circle cx="269.5" cy="63.1" r="4" fill="#3465a4"><title>Binder (2013)</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.5" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><circle cx="252.6" cy="117.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2lb4k14r3k6dy2k2dy2k10db6k2db3w1~x2/"><circle cx="241.8" cy="112.5" r="4" fill="#3465a4"><title>Kennedy (Irish)</title></circle></a><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/"><circle cx="245.9" cy="96.7" r="4" fill="#3465a4"><title>Parker Black (2009)</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.3" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="266.8" cy="92.4" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/variants/s9/k10dp3db4dp3k7b3g8k17y2~x2/"><circle cx="213.1" cy="163.0" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/"><circle cx="146.2" cy="136.5" r="4" fill="#3465a4"><title>Dilanan (Musselburgh) (Personal)</title></circle></a><a href="/variants/s12/k15db7n3k13n3db7k23n3db7dy2dp4dy2~x2/"><circle cx="273.0" cy="155.9" r="4" fill="#3465a4"><title>Apache</title></circle></a><a href="/variants/s15/g2dr4g2k16g2k16g4k2g2k2g4k4db8k1lb2~x2/"><circle cx="241.9" cy="109.9" r="4" fill="#3465a4"><title>MacKean Hunting</title></circle></a><a href="/variants/s20/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2~x2/"><circle cx="269.5" cy="62.9" r="4" fill="#3465a4"><title>Binder (2013)</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.3" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><circle cx="252.6" cy="117.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k2b4k14dg3k6o2k2o2k10db6k2db3w1~x2/

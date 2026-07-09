@@ -1,14 +1,16 @@
 ---
 title: "Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge"
-  url: ""
+  url: "/setts/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4/)
-(the same proportion at any scale), whose colour order is pattern [WKWKWBWGWWWBWGWRWBWKWKW](/stripes/wkwkwbwgwwwbwgwrwbwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWKWBWGWWWBWGWRWBWKWKW](/stripes/wkwkwbwgwwwbwgwrwbwkwkw/).
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/r4g4w2lb12r5lb12w2k5ly2k5lb4w2dp5w4dp5w2lb4k5ly2k5w2lb12r5lb12w2g4r4g4~x2/"><circle cx="31.2" cy="129.9" r="4" fill="#3465a4"><title>Wilson's No.117</title></circle></a><a href="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/"><circle cx="66.8" cy="149.2" r="4" fill="#3465a4"><title>Morris of Balgonie Arisaid (Personal)</title></circle></a><a href="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/"><circle cx="104.0" cy="113.4" r="4" fill="#3465a4"><title>O'Sullivan, McCragh</title></circle></a><circle cx="39.7" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/r4g4w2lb12r5lb12w2k5ly2k5lb4w2dp5w4dp5w2lb4k5ly2k5w2lb12r5lb12w2g4r4g4~x2/"><circle cx="31.2" cy="129.7" r="4" fill="#3465a4"><title>Wilson's No.117</title></circle></a><a href="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/"><circle cx="66.8" cy="149.1" r="4" fill="#3465a4"><title>Morris of Balgonie Arisaid (Personal)</title></circle></a><a href="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/"><circle cx="104.0" cy="113.2" r="4" fill="#3465a4"><title>O'Sullivan, McCragh</title></circle></a><circle cx="39.7" cy="125.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/

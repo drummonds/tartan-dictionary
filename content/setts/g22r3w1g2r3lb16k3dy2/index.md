@@ -1,5 +1,12 @@
 ---
 title: "Stirling University #2"
-redirect: "/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stirling University #2](/variants/s8/g22r3w1g2r3lb16k3dy2~x4/).
+This is the **Stirling University #2** sett — one scale-free proportion (`g22r3w1g2r3lb16k3dy2`), colour order pattern
+[GRWGRWKGKWRGWR](/stripes/grwgrwkgkwrgwr/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Stirling University #2](/variants/s8/g22r3w1g2r3lb16k3dy2~x4/) ★ | 1994 | ![Stirling University #2 sett](/variants/s8/g22r3w1g2r3lb16k3dy2~x4/sett.png) |

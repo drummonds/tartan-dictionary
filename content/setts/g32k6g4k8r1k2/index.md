@@ -2,13 +2,13 @@
 title: "Fife, Duke Of"
 date: 2023-03-18
 ---
-The **Fife, Duke Of** tartan is one sett proportion (`g32k6g4k8r1k2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GKGKRK](/stripes/gkgkrk/); each scale below is its own sett page. First attested **1880**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Fife, Duke Of** sett — one scale-free proportion (`g32k6g4k8r1k2`), colour order pattern
+[GKGKRK](/stripes/gkgkrk/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1880**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Fife, Duke Of](/variants/s6/g32k6g4k8r1k2~x4/) ★ | 1880 | ![Fife, Duke Of sett](/variants/s6/g32k6g4k8r1k2~x4/sett.png) |
-| ×2 | [Fife, Duke of..](/variants/s6/g32k6g4k8r1k2~x2/) | ~2016 | ![Fife, Duke of.. sett](/variants/s6/g32k6g4k8r1k2~x2/sett.png) |
+| ×2 | [Fife Duke of.. District Tartan](/variants/s6/g32k6g4k8r1k2~x2/) | 1889 | ![Fife Duke of.. District Tartan sett](/variants/s6/g32k6g4k8r1k2~x2/sett.png) |

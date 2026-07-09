@@ -1,14 +1,16 @@
 ---
 title: "YMCA Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "YMCA Corporate Tartan"
-  url: ""
+  url: "/setts/k4w1k54w1k4w1k8w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w1k54w1k4w1k8w1/)
-(the same proportion at any scale), whose colour order is pattern [KWKKKKWKWKW](/stripes/kwkkkkwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4w1k54w1k4w1k8w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKKKKWKWKW](/stripes/kwkkkkwkwkw/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -23,7 +25,7 @@ Earliest known date: October 2013 This 21st century tartan is a variation of the
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>October 2013 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>

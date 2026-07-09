@@ -1,14 +1,16 @@
 ---
 title: "Walker, hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Walker, hunting"
-  url: ""
+  url: "/setts/r4ki2g7ki15g3ki3g3ki7g28k7g6k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4ki2g7ki15g3ki3g3ki7g28k7g6k2/)
-(the same proportion at any scale), whose colour order is pattern [KGKGKGKGKGKR](/stripes/kgkgkgkgkgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4ki2g7ki15g3ki3g3ki7g28k7g6k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGKGKGKGKGKR](/stripes/kgkgkgkgkgkr/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4db2g7db15g3db3g3db7g28k7g6k2~x2/"><circle cx="260.7" cy="129.6" r="4" fill="#3465a4"><title>Walker Hunting</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g2408144/"><circle cx="265.2" cy="129.6" r="4" fill="#3465a4"><title>Fort William District Tartan</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g1903114/"><circle cx="266.5" cy="129.7" r="4" fill="#3465a4"><title>Fort William (District?)</title></circle></a><a href="/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/"><circle cx="254.8" cy="128.2" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="235.7" cy="139.8" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="223.3" cy="160.5" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.3" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="203.1" cy="171.4" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="203.1" cy="171.4" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><a href="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/"><circle cx="236.0" cy="152.6" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><circle cx="244.5" cy="143.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4db2g7db15g3db3g3db7g28k7g6k2~x2/"><circle cx="260.7" cy="129.4" r="4" fill="#3465a4"><title>Walker Hunting</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g2408144/"><circle cx="265.2" cy="129.5" r="4" fill="#3465a4"><title>Fort William District Tartan</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g1903114/"><circle cx="266.5" cy="129.6" r="4" fill="#3465a4"><title>Fort William (District?)</title></circle></a><a href="/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/"><circle cx="254.8" cy="128.0" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="235.7" cy="139.6" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="223.4" cy="160.4" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.2" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="203.1" cy="171.3" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="203.1" cy="171.3" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><a href="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/"><circle cx="236.0" cy="152.5" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><circle cx="244.5" cy="143.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/

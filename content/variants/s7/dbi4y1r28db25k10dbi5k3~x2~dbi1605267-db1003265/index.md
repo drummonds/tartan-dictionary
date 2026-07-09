@@ -1,16 +1,18 @@
 ---
 title: "McKnight (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McKnight"
   url: "/tartans/mcknight/"
 - name: "McKnight (Personal)"
-  url: ""
+  url: "/setts/dbi4y1r28db25k10dbi5k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi4y1r28db25k10dbi5k3/)
-(the same proportion at any scale), whose colour order is pattern [BGRBKBK](/stripes/bgrbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi4y1r28db25k10dbi5k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRBKBK](/stripes/bgrbkbk/).
 
 Part of the [McKnight](/tartans/mcknight/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.8" cy="117.1" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s8/db4y1w10r28db25k10lb5k3~x4/"><circle cx="130.6" cy="107.6" r="4" fill="#3465a4"><title>McKnight Dress #2 (Personal)</title></circle></a><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="161.9" cy="121.5" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><circle cx="187.8" cy="85.0" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="139.0" cy="113.9" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.2" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/"><circle cx="196.1" cy="107.9" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan</title></circle></a><a href="/variants/s6/g3k24y1r18db18w1~x2/"><circle cx="155.8" cy="125.7" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s6/g3k24ly1r18db18w1~x2/"><circle cx="156.3" cy="126.6" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s7/k7dbi4r31db3lo2db27lb4~x2~dbi1406275-db1204274/"><circle cx="190.6" cy="128.3" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><circle cx="202.1" cy="128.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.8" cy="117.0" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s8/db4y1w10r28db25k10lb5k3~x4/"><circle cx="130.7" cy="107.5" r="4" fill="#3465a4"><title>McKnight Dress #2 (Personal)</title></circle></a><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="161.9" cy="121.4" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><circle cx="187.8" cy="84.9" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="139.1" cy="113.8" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.1" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/"><circle cx="196.2" cy="107.8" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan</title></circle></a><a href="/variants/s6/g3k24y1r18db18w1~x2/"><circle cx="155.9" cy="125.6" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s6/g3k24ly1r18db18w1~x2/"><circle cx="156.4" cy="126.5" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s7/k7dbi4r31db3lo2db27lb4~x2~dbi1406275-db1204274/"><circle cx="190.6" cy="128.2" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><circle cx="202.1" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/

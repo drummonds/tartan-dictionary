@@ -1,16 +1,18 @@
 ---
 title: "Blackwood (Loch Wood)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Blackwood"
   url: "/tartans/blackwood/"
 - name: "Blackwood (Loch Wood)"
-  url: ""
+  url: "/setts/dg5db1g5dp1dg5b1dg5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5db1g5dp1dg5b1dg5/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBG](/stripes/gbgbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg5db1g5dp1dg5b1dg5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBG](/stripes/gbgbgbg/).
 
 Part of the [Blackwood](/tartans/blackwood/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><circle cx="402.1" cy="289.2" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/"><circle cx="417.0" cy="283.5" r="4" fill="#3465a4"><title>Justus Hunting (Personal)</title></circle></a><a href="/variants/s6/dy21g28db24g72w16g20/"><circle cx="333.2" cy="282.6" r="4" fill="#3465a4"><title>Meath County, Crest Range</title></circle></a><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><circle cx="296.7" cy="203.4" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial (Com</title></circle></a><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="303.5" cy="270.1" r="4" fill="#3465a4"><title>Ralston Personal Tartan</title></circle></a><a href="/variants/s6/ly21g28db24g72w16g20/"><circle cx="336.5" cy="285.6" r="4" fill="#3465a4"><title>Meath County Crest (Fashion)</title></circle></a><a href="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/"><circle cx="364.4" cy="257.7" r="4" fill="#3465a4"><title>Justus Htg (Personal)</title></circle></a><a href="/variants/s7/db1g4r1g1y1g4db1~x12/"><circle cx="376.3" cy="268.9" r="4" fill="#3465a4"><title>Justus hunting</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.5" cy="204.0" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.9" cy="237.7" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><circle cx="378.7" cy="281.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><circle cx="402.1" cy="289.1" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/"><circle cx="417.0" cy="283.5" r="4" fill="#3465a4"><title>Justus Hunting (Personal)</title></circle></a><a href="/variants/s6/dy21g28db24g72w16g20/"><circle cx="333.3" cy="282.5" r="4" fill="#3465a4"><title>Meath County, Crest Range</title></circle></a><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><circle cx="296.8" cy="203.3" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial (Com</title></circle></a><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="303.6" cy="270.0" r="4" fill="#3465a4"><title>Ralston Personal Tartan</title></circle></a><a href="/variants/s6/ly21g28db24g72w16g20/"><circle cx="336.5" cy="285.6" r="4" fill="#3465a4"><title>Meath County Crest (Fashion)</title></circle></a><a href="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/"><circle cx="364.4" cy="257.6" r="4" fill="#3465a4"><title>Justus Htg (Personal)</title></circle></a><a href="/variants/s7/db1g4r1g1y1g4db1~x12/"><circle cx="376.3" cy="268.9" r="4" fill="#3465a4"><title>Justus hunting</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.5" cy="203.9" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.9" cy="237.6" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><circle cx="378.7" cy="281.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/

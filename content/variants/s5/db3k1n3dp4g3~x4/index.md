@@ -1,14 +1,16 @@
 ---
 title: "Crinnion (Middlesbrough) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Crinnion (Middlesbrough) (Personal)"
-  url: ""
+  url: "/setts/db3k1n3dp4g3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3k1n3dp4g3/)
-(the same proportion at any scale), whose colour order is pattern [BKBBG](/stripes/bkbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3k1n3dp4g3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBBG](/stripes/bkbbg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.4" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s5/dt4db4dp4k4w1~x10/"><circle cx="47.9" cy="293.7" r="4" fill="#3465a4"><title>Weston (Personal)</title></circle></a><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="82.6" cy="327.3" r="4" fill="#3465a4"><title>Currens (2016)</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.2" cy="236.4" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><circle cx="110.9" cy="257.2" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s5/g15dg18db23w4r8~x2/"><circle cx="119.5" cy="268.5" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="107.2" cy="280.6" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="125.4" cy="265.6" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/variants/s7/t2db3k1db3n3g4r1~x8/"><circle cx="78.6" cy="261.5" r="4" fill="#3465a4"><title>New York City</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.7" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><circle cx="83.8" cy="302.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.5" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s5/dt4db4dp4k4w1~x10/"><circle cx="48.0" cy="293.7" r="4" fill="#3465a4"><title>Weston (Personal)</title></circle></a><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="82.6" cy="327.3" r="4" fill="#3465a4"><title>Currens (2016)</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.2" cy="236.4" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><circle cx="110.9" cy="257.2" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s5/g15dg18db23w4r8~x2/"><circle cx="119.5" cy="268.4" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="107.2" cy="280.5" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="125.4" cy="265.6" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/variants/s7/t2db3k1db3n3g4r1~x8/"><circle cx="78.7" cy="261.5" r="4" fill="#3465a4"><title>New York City</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.6" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><circle cx="83.8" cy="302.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db3k1n3dp4g3~x4/

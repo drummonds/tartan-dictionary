@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/">Fitzpatrick Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/"><img src="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/sett.png" alt="Fitzpatrick Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/">Fitzpatrick Irish Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/"><img src="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/sett.png" alt="Fitzpatrick Irish Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

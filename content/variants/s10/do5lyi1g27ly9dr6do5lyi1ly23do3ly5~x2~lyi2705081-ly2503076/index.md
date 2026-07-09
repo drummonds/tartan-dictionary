@@ -1,14 +1,16 @@
 ---
 title: "Satisfashion Argyll"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Satisfashion Argyll"
-  url: ""
+  url: "/setts/do5lyi1g27ly9dr6do5lyi1ly23do3ly5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do5lyi1g27ly9dr6do5lyi1ly23do3ly5/)
-(the same proportion at any scale), whose colour order is pattern [BYYBBYGYBYGYBBYYBY](/stripes/byybbygybygybbyyby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/do5lyi1g27ly9dr6do5lyi1ly23do3ly5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYYBBYGYBYGYBBYYBY](/stripes/byybbygybygybbyyby/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"><circle cx="352.0" cy="137.7" r="4" fill="#3465a4"><title>All Irish Green Irish District Tartan</title></circle></a><a href="/variants/s16/y6lb2db2y30g2y2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~g2203152-gi2408144/"><circle cx="364.9" cy="121.1" r="4" fill="#3465a4"><title>All Ireland Blue (Fashion)</title></circle></a><a href="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/"><circle cx="244.4" cy="149.2" r="4" fill="#3465a4"><title>Green Thistle</title></circle></a><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/"><circle cx="402.6" cy="175.5" r="4" fill="#3465a4"><title>Prince David</title></circle></a><circle cx="332.1" cy="157.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"><circle cx="352.0" cy="137.6" r="4" fill="#3465a4"><title>All Irish Green Irish District Tartan</title></circle></a><a href="/variants/s16/y6lb2db2y30g2y2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~g2203152-gi2408144/"><circle cx="364.9" cy="121.0" r="4" fill="#3465a4"><title>All Ireland Blue (Fashion)</title></circle></a><a href="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/"><circle cx="244.4" cy="149.1" r="4" fill="#3465a4"><title>Green Thistle</title></circle></a><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/"><circle cx="402.6" cy="175.4" r="4" fill="#3465a4"><title>Prince David</title></circle></a><circle cx="332.1" cy="157.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/do5lyi1g27ly9dr6do5lyi1ly23do3ly5~x2~lyi2705081-ly2503076/

@@ -1,5 +1,12 @@
 ---
 title: "Pride of New Zealand"
-redirect: "/variants/s4/n62k30w1k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pride of New Zealand](/variants/s4/n62k30w1k1~x2/).
+This is the **Pride of New Zealand** sett — one scale-free proportion (`n62k30w1k1`), colour order pattern
+[BKWK](/stripes/bkwk/). It is recorded as a single **variant**, below.
+First attested **1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Pride of New Zealand](/variants/s4/n62k30w1k1~x2/) ★ | 1989 | ![Pride of New Zealand sett](/variants/s4/n62k30w1k1~x2/sett.png) |

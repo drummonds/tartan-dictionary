@@ -1,14 +1,16 @@
 ---
 title: "McEwan \"1856\", The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McEwan \"1856\", The"
-  url: ""
+  url: "/setts/ki3o6ki32k36dg36k4r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ki3o6ki32k36dg36k4r3/)
-(the same proportion at any scale), whose colour order is pattern [KRKKGKR](/stripes/krkkgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ki3o6ki32k36dg36k4r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKKGKR](/stripes/krkkgkr/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db7dp2db25k19w2dg23k2dy3~x2/"><circle cx="178.6" cy="154.3" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.5" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="156.0" cy="182.7" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.6" cy="172.6" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.2" cy="150.3" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2/"><circle cx="200.7" cy="181.6" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.5" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.5" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.4" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.5" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><circle cx="196.1" cy="182.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db7dp2db25k19w2dg23k2dy3~x2/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.4" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="156.0" cy="182.6" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.7" cy="172.5" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.3" cy="150.2" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2/"><circle cx="200.8" cy="181.5" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.6" cy="167.2" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.4" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.3" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><circle cx="196.1" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ki3o6ki32k36dg36k4r3~ki0604259/

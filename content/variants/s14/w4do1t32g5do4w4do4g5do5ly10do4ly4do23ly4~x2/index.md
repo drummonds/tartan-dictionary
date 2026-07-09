@@ -1,14 +1,16 @@
 ---
 title: "State Seal of Oklahoma (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "State Seal of Oklahoma (Fashion)"
-  url: ""
+  url: "/setts/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4/)
-(the same proportion at any scale), whose colour order is pattern [WBBGBWBGBYBYBY](/stripes/wbbgbwbgbybyby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBBGBWBGBYBYBY](/stripes/wbbgbwbgbybyby/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="293.3" cy="135.0" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s11/db2w5db5g11w5dg12lb1dg2lb26dg2db2~x2/"><circle cx="198.3" cy="140.8" r="4" fill="#3465a4"><title>Chalk (Personal)</title></circle></a><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/"><circle cx="236.2" cy="145.8" r="4" fill="#3465a4"><title>Bannockbane Green</title></circle></a><a href="/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/"><circle cx="265.2" cy="138.1" r="4" fill="#3465a4"><title>MacDonald Hunting</title></circle></a><a href="/variants/s12/lb13dg16r5w5r5dg34lb21g13r3w2r1g9~x2/"><circle cx="194.9" cy="126.8" r="4" fill="#3465a4"><title>SYHA Hostelling Scotland</title></circle></a><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/"><circle cx="191.9" cy="131.3" r="4" fill="#3465a4"><title>Chalk, Robert (Personal)</title></circle></a><a href="/variants/s17/g3dg15ly3dg3dp1dg1dp1dg1dp1dg1dp1dg1dp1dg1dp12w15g3~x2/"><circle cx="174.6" cy="120.9" r="4" fill="#3465a4"><title>Prickly Thistle</title></circle></a><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><circle cx="244.6" cy="151.0" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/"><circle cx="183.6" cy="90.7" r="4" fill="#3465a4"><title>Southwell (Personal)</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.6" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><circle cx="227.2" cy="126.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="293.3" cy="134.8" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s11/db2w5db5g11w5dg12lb1dg2lb26dg2db2~x2/"><circle cx="198.3" cy="140.7" r="4" fill="#3465a4"><title>Chalk (Personal)</title></circle></a><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/"><circle cx="236.2" cy="145.7" r="4" fill="#3465a4"><title>Bannockbane Green</title></circle></a><a href="/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/"><circle cx="265.2" cy="138.0" r="4" fill="#3465a4"><title>MacDonald Hunting</title></circle></a><a href="/variants/s12/lb13dg16r5w5r5dg34lb21g13r3w2r1g9~x2/"><circle cx="194.9" cy="126.7" r="4" fill="#3465a4"><title>SYHA Hostelling Scotland</title></circle></a><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/"><circle cx="191.9" cy="131.2" r="4" fill="#3465a4"><title>Chalk, Robert (Personal)</title></circle></a><a href="/variants/s17/g3dg15ly3dg3dp1dg1dp1dg1dp1dg1dp1dg1dp1dg1dp12w15g3~x2/"><circle cx="174.6" cy="120.7" r="4" fill="#3465a4"><title>Prickly Thistle</title></circle></a><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><circle cx="244.6" cy="150.9" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/"><circle cx="183.6" cy="90.6" r="4" fill="#3465a4"><title>Southwell (Personal)</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.5" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><circle cx="227.2" cy="125.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Isle of Jura"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Isle of Jura"
-  url: ""
+  url: "/setts/lb12lg12db7w1do5o5lo2ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb12lg12db7w1do5o5lo2ly2/)
-(the same proportion at any scale), whose colour order is pattern [WYBWBRYY](/stripes/wybwbryy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb12lg12db7w1do5o5lo2ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WYBWBRYY](/stripes/wybwbryy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.3" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s10/n2w11lb3g2y1g1r2g10db4ly2~x4/"><circle cx="83.7" cy="134.3" r="4" fill="#3465a4"><title>Lanark Highlands</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.7" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><a href="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/"><circle cx="86.5" cy="148.3" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><circle cx="65.2" cy="148.8" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/"><circle cx="92.4" cy="147.1" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/"><circle cx="73.9" cy="115.6" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.6" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.3" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><circle cx="52.1" cy="163.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.2" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s10/n2w11lb3g2y1g1r2g10db4ly2~x4/"><circle cx="83.7" cy="134.2" r="4" fill="#3465a4"><title>Lanark Highlands</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.8" cy="198.7" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><a href="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/"><circle cx="86.5" cy="148.2" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><circle cx="65.2" cy="148.7" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/"><circle cx="92.4" cy="147.0" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/"><circle cx="73.9" cy="115.4" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.8" cy="195.8" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.5" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.2" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><circle cx="52.1" cy="163.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/

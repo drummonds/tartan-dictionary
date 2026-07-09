@@ -1,5 +1,12 @@
 ---
 title: "Tyrone, County"
-redirect: "/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tyrone, County](/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/).
+This is the **Tyrone, County** sett — one scale-free proportion (`dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3`), colour order pattern
+[BGBGBWBGBGBG](/stripes/bgbgbwbgbgbg/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tyrone, County](/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/) ★ | 1996 | ![Tyrone, County sett](/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/sett.png) |

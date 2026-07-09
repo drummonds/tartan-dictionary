@@ -1,16 +1,18 @@
 ---
 title: "Smeaton"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Smeaton"
   url: "/tartans/smeaton/"
 - name: "Smeaton"
-  url: ""
+  url: "/setts/b12w2b7g15k2g4k2g15b2k7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b12w2b7g15k2g4k2g15b2k7/)
-(the same proportion at any scale), whose colour order is pattern [BWBGKGKGBK](/stripes/bwbgkgkgbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b12w2b7g15k2g4k2g15b2k7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBGKGKGBK](/stripes/bwbgkgkgbk/).
 
 Part of the [Smeaton](/tartans/smeaton/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db12w2db7g15k2g4k2g15db2k7~x2/"><circle cx="228.1" cy="169.2" r="4" fill="#3465a4"><title>Smeaton (Wedding) #2</title></circle></a><a href="/variants/s9/db21g5k5g15w3g5w3g5k3~x2/"><circle cx="173.7" cy="195.9" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.7" cy="179.9" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><circle cx="208.2" cy="204.6" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="189.0" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="189.7" cy="194.1" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/"><circle cx="229.0" cy="155.8" r="4" fill="#3465a4"><title>Borders Health Board (Corporate)</title></circle></a><a href="/variants/s10/db19g7db7lb2g20k9g6k4g10w3~x2/"><circle cx="173.7" cy="179.9" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="203.1" cy="171.4" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="203.1" cy="171.4" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><circle cx="197.8" cy="198.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db12w2db7g15k2g4k2g15db2k7~x2/"><circle cx="228.1" cy="169.0" r="4" fill="#3465a4"><title>Smeaton (Wedding) #2</title></circle></a><a href="/variants/s9/db21g5k5g15w3g5w3g5k3~x2/"><circle cx="173.7" cy="195.9" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.7" cy="179.8" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><circle cx="208.3" cy="204.5" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="188.9" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="189.7" cy="194.0" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/"><circle cx="229.0" cy="155.7" r="4" fill="#3465a4"><title>Borders Health Board (Corporate)</title></circle></a><a href="/variants/s10/db19g7db7lb2g20k9g6k4g10w3~x2/"><circle cx="173.8" cy="179.8" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="203.1" cy="171.3" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="203.1" cy="171.3" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><circle cx="197.8" cy="198.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/b12w2b7g15k2g4k2g15b2k7~x2/

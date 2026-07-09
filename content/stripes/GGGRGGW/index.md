@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g1dy8g8r1g8dy8w1/">MacKinnon Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g1dy8g8r1g8dy8w1/"><img src="/variants/s7/g1dy8g8r1g8dy8w1~x2/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g1dy8g8r1g8dy8w1/">MacKinnon Htg (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g1dy8g8r1g8dy8w1/"><img src="/variants/s7/g1dy8g8r1g8dy8w1~x2/sett.png" alt="MacKinnon Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

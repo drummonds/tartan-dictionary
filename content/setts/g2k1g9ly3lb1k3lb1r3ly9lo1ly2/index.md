@@ -1,5 +1,12 @@
 ---
 title: "Asman, Day Tan (Name)"
-redirect: "/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Asman, Day Tan (Name)](/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/).
+This is the **Asman, Day Tan (Name)** sett — one scale-free proportion (`g2k1g9ly3lb1k3lb1r3ly9lo1ly2`), colour order pattern
+[GKGYWKWRYYY](/stripes/gkgywkwryyy/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Asman, Day Tan (Name)](/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/) ★ | ~2002 | ![Asman, Day Tan (Name) sett](/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Arizona American District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Arizona American District Tartan"
-  url: ""
+  url: "/setts/dy3g2w2r2dy12k12g12r2g2t2g2y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy3g2w2r2dy12k12g12r2g2t2g2y2/)
-(the same proportion at any scale), whose colour order is pattern [GGWRGKGRGBGGGBGRGKGRWG](/stripes/ggwrgkgrgbgggbgrgkgrwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy3g2w2r2dy12k12g12r2g2t2g2y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGWRGKGRGBGGGBGRGKGRWG](/stripes/ggwrgkgrgbgggbgrgkgrwg/).
 
 Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1995 Designed by Phil Smith and proclaimed by Governor Symi
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1995 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/w3o3k3g15db3o3db8o3y3o18k3o3k4o3k18lb3~x2/"><circle cx="41.1" cy="124.0" r="4" fill="#3465a4"><title>Innes, hunting</title></circle></a><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18lb3~x2/"><circle cx="53.6" cy="129.0" r="4" fill="#3465a4"><title>Innes of Learney Htg (Personal)</title></circle></a><a href="/variants/s25/r8g8r2k14r2k2lb2r2k14r2g8r8lb2db8r2g14y2g2y3g2y2g14r2db8lb2~x2/"><circle cx="49.8" cy="122.5" r="4" fill="#3465a4"><title>Gordonstoun (1957)</title></circle></a><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/"><circle cx="56.2" cy="131.8" r="4" fill="#3465a4"><title>Innes Hunting Clan Tartan</title></circle></a><a href="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/"><circle cx="56.1" cy="108.2" r="4" fill="#3465a4"><title>Innes of Learney Hunting (Personal)</title></circle></a><a href="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/"><circle cx="49.5" cy="133.2" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s21/db6y1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2dbi1r5~x4~db0805267-dbi1604274/"><circle cx="74.4" cy="136.1" r="4" fill="#3465a4"><title>Recovery</title></circle></a><a href="/variants/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="86.2" cy="111.3" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/"><circle cx="58.5" cy="141.0" r="4" fill="#3465a4"><title>Shearer (Name)</title></circle></a><a href="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/"><circle cx="87.8" cy="139.9" r="4" fill="#3465a4"><title>Recovery (Corporate)</title></circle></a><circle cx="42.9" cy="117.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/w3o3k3g15db3o3db8o3y3o18k3o3k4o3k18lb3~x2/"><circle cx="41.2" cy="123.8" r="4" fill="#3465a4"><title>Innes, hunting</title></circle></a><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18lb3~x2/"><circle cx="53.6" cy="128.8" r="4" fill="#3465a4"><title>Innes of Learney Htg (Personal)</title></circle></a><a href="/variants/s25/r8g8r2k14r2k2lb2r2k14r2g8r8lb2db8r2g14y2g2y3g2y2g14r2db8lb2~x2/"><circle cx="49.7" cy="122.3" r="4" fill="#3465a4"><title>Gordonstoun (1957)</title></circle></a><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/"><circle cx="56.2" cy="131.7" r="4" fill="#3465a4"><title>Innes Hunting Clan Tartan</title></circle></a><a href="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/"><circle cx="56.2" cy="108.0" r="4" fill="#3465a4"><title>Innes of Learney Hunting (Personal)</title></circle></a><a href="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/"><circle cx="49.5" cy="133.0" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s21/db6y1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2dbi1r5~x4~db0805267-dbi1604274/"><circle cx="74.4" cy="136.0" r="4" fill="#3465a4"><title>Recovery</title></circle></a><a href="/variants/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="86.2" cy="111.2" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/"><circle cx="58.5" cy="140.8" r="4" fill="#3465a4"><title>Shearer (Name)</title></circle></a><a href="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/"><circle cx="87.8" cy="139.8" r="4" fill="#3465a4"><title>Recovery (Corporate)</title></circle></a><circle cx="42.9" cy="117.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dy3g2w2r2dy12k12g12r2g2t2g2y2~x2~w4000000-t2503227/

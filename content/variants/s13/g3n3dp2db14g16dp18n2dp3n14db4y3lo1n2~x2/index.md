@@ -1,16 +1,18 @@
 ---
 title: "ENABLE Scotland"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "ENABLE Scotland"
   url: "/tartans/enable-scotland/"
 - name: "ENABLE Scotland"
-  url: ""
+  url: "/setts/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2/)
-(the same proportion at any scale), whose colour order is pattern [BYGBBBBBGBBBG](/stripes/bygbbbbbgbbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYGBBBBBGBBBG](/stripes/bygbbbbbgbbbg/).
 
 Part of the [ENABLE Scotland](/tartans/enable-scotland/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g3dp3n2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="204.9" cy="166.6" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s10/dy2gi2dy16gi2dp17dg10g10gi15dg1w2~x2~gi2203152-g2004173/"><circle cx="191.6" cy="193.8" r="4" fill="#3465a4"><title>Grewar</title></circle></a><a href="/variants/s10/dy2g2dy16g2dp17dg10gi10g15dg1w2~x2~gi2004173/"><circle cx="171.6" cy="188.2" r="4" fill="#3465a4"><title>Grewar (Name)</title></circle></a><a href="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/"><circle cx="205.8" cy="167.4" r="4" fill="#3465a4"><title>Watkins (Welsh Name)</title></circle></a><a href="/variants/s9/b4dg30dbi12g3db2lb3db26dp4db2~dg1806142-dbi1406275-g2408144-db1204274/"><circle cx="236.2" cy="166.1" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/"><circle cx="162.7" cy="152.1" r="4" fill="#3465a4"><title>Enable (Corporate)</title></circle></a><a href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/"><circle cx="275.2" cy="146.5" r="4" fill="#3465a4"><title>Bowhunter</title></circle></a><a href="/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/"><circle cx="181.0" cy="161.4" r="4" fill="#3465a4"><title>State Seal of Illinois (Fashion)</title></circle></a><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/"><circle cx="260.2" cy="149.9" r="4" fill="#3465a4"><title>Pitlochry</title></circle></a><a href="/variants/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/"><circle cx="189.8" cy="209.6" r="4" fill="#3465a4"><title>Forbes of Druinnor (Artefact)</title></circle></a><circle cx="202.0" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g3dp3n2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="205.0" cy="166.5" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s10/dy2gi2dy16gi2dp17dg10g10gi15dg1w2~x2~gi2203152-g2004173/"><circle cx="191.6" cy="193.7" r="4" fill="#3465a4"><title>Grewar</title></circle></a><a href="/variants/s10/dy2g2dy16g2dp17dg10gi10g15dg1w2~x2~gi2004173/"><circle cx="171.6" cy="188.1" r="4" fill="#3465a4"><title>Grewar (Name)</title></circle></a><a href="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/"><circle cx="205.8" cy="167.3" r="4" fill="#3465a4"><title>Watkins (Welsh Name)</title></circle></a><a href="/variants/s9/b4dg30dbi12g3db2lb3db26dp4db2~dg1806142-dbi1406275-g2408144-db1204274/"><circle cx="236.2" cy="166.0" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/"><circle cx="162.7" cy="152.0" r="4" fill="#3465a4"><title>Enable (Corporate)</title></circle></a><a href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/"><circle cx="275.2" cy="146.4" r="4" fill="#3465a4"><title>Bowhunter</title></circle></a><a href="/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/"><circle cx="181.0" cy="161.3" r="4" fill="#3465a4"><title>State Seal of Illinois (Fashion)</title></circle></a><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/"><circle cx="260.2" cy="149.7" r="4" fill="#3465a4"><title>Pitlochry</title></circle></a><a href="/variants/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/"><circle cx="189.8" cy="209.5" r="4" fill="#3465a4"><title>Forbes of Druinnor (Artefact)</title></circle></a><circle cx="202.0" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/

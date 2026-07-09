@@ -1,16 +1,18 @@
 ---
 title: "Grandfather Mountain Games American Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Grandfather Mountain Games"
   url: "/tartans/grandfather-mountain-games/"
 - name: "Grandfather Mountain Games American Corporate Tartan"
-  url: ""
+  url: "/setts/r3g20k2n11k2db20lr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g20k2n11k2db20lr2/)
-(the same proportion at any scale), whose colour order is pattern [RGKBKBY](/stripes/rgkbkby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3g20k2n11k2db20lr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGKBKBY](/stripes/rgkbkby/).
 
 Part of the [Grandfather Mountain Games](/tartans/grandfather-mountain-games/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1993 Designed by Marjorie Warren, Lake Junaluska, NC, in 19
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1993 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="169.2" cy="178.3" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.8" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.1" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><circle cx="163.3" cy="162.4" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db1204274-dbi1406275/"><circle cx="146.3" cy="144.4" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.7" cy="169.6" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="149.5" cy="162.1" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2/"><circle cx="134.3" cy="129.5" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2~g2408144/"><circle cx="128.9" cy="128.1" r="4" fill="#3465a4"><title>Minnesota American District Tartan</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.1" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><circle cx="133.8" cy="169.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="169.2" cy="178.2" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.2" cy="168.7" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.0" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><circle cx="163.3" cy="162.3" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db1204274-dbi1406275/"><circle cx="146.3" cy="144.2" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.8" cy="169.5" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="149.5" cy="162.0" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2/"><circle cx="134.3" cy="129.4" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2~g2408144/"><circle cx="129.0" cy="128.0" r="4" fill="#3465a4"><title>Minnesota American District Tartan</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.0" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><circle cx="133.8" cy="169.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3g20k2n11k2db20lr2~x2/

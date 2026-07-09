@@ -1,14 +1,16 @@
 ---
 title: "Unidentified Fisherwife's Plaid"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Fisherwife's Plaid"
-  url: ""
+  url: "/setts/w80lb1r14lb9r24w2r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w80lb1r14lb9r24w2r4/)
-(the same proportion at any scale), whose colour order is pattern [RWRWRWW](/stripes/rwrwrww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w80lb1r14lb9r24w2r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWRWRWW](/stripes/rwrwrww/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w75dy1r18g9dy1r27w2r5~x2/"><circle cx="371.0" cy="97.5" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><a href="/variants/s8/w75o1r18g9o1r27w2r5~x2/"><circle cx="370.1" cy="96.0" r="4" fill="#3465a4"><title>Unidentified, Ross-shire</title></circle></a><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.5" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.6" cy="211.3" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s5/w45dr2g9w2dr30~x2/"><circle cx="340.8" cy="196.8" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="424.3" cy="157.8" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="291.1" cy="156.0" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/"><circle cx="349.7" cy="84.3" r="4" fill="#3465a4"><title>Aviemore Dress Tartan</title></circle></a><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/"><circle cx="366.4" cy="115.3" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><circle cx="462.5" cy="164.4" r="4" fill="#3465a4"><title>Walk the Walk (Corporate)</title></circle></a><circle cx="441.0" cy="126.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w75dy1r18g9dy1r27w2r5~x2/"><circle cx="371.0" cy="97.4" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><a href="/variants/s8/w75o1r18g9o1r27w2r5~x2/"><circle cx="370.1" cy="95.9" r="4" fill="#3465a4"><title>Unidentified, Ross-shire</title></circle></a><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.3" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.6" cy="211.2" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s5/w45dr2g9w2dr30~x2/"><circle cx="340.8" cy="196.8" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="424.3" cy="157.7" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="291.1" cy="155.9" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/"><circle cx="349.7" cy="84.2" r="4" fill="#3465a4"><title>Aviemore Dress Tartan</title></circle></a><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/"><circle cx="366.4" cy="115.2" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><circle cx="462.5" cy="164.3" r="4" fill="#3465a4"><title>Walk the Walk (Corporate)</title></circle></a><circle cx="441.0" cy="126.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w80lb1r14lb9r24w2r4~x2/

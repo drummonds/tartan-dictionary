@@ -1,5 +1,12 @@
 ---
 title: "Greenshields (Personal)"
-redirect: "/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Greenshields (Personal)](/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/).
+This is the **Greenshields (Personal)** sett — one scale-free proportion (`g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4`), colour order pattern
+[GGGKBKGGGGGKGGGGGKBKGGGK](/stripes/gggkbkgggggkgggggkbkgggk/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Greenshields (Personal)](/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/) ★ | 1997 | ![Greenshields (Personal) sett](/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/sett.png) |

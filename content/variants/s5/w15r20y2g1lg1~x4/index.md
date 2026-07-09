@@ -1,16 +1,18 @@
 ---
 title: "Tomomi"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Tomomi"
   url: "/tartans/tomomi/"
 - name: "Tomomi"
-  url: ""
+  url: "/setts/w15r20y2g1lg1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w15r20y2g1lg1/)
-(the same proportion at any scale), whose colour order is pattern [WRGGY](/stripes/wrggy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w15r20y2g1lg1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WRGGY](/stripes/wrggy/).
 
 Part of the [Tomomi](/tartans/tomomi/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly5w15r40y4g2lb2~x2/"><circle cx="328.9" cy="124.7" r="4" fill="#3465a4"><title>Tomomi</title></circle></a><a href="/variants/s4/r60w28y2lb3~x2/"><circle cx="430.6" cy="165.5" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s4/r60w28ly2lb3~x2/"><circle cx="431.6" cy="166.2" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s5/r32w4db7ly2lb2~x5/"><circle cx="410.6" cy="152.2" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="414.5" cy="153.1" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="415.1" cy="182.5" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.9" cy="172.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="337.7" cy="174.7" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.5" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s5/r10dg4dr1w1lb1~x2/"><circle cx="320.7" cy="180.3" r="4" fill="#3465a4"><title>Staves (Personal)</title></circle></a><circle cx="306.3" cy="154.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly5w15r40y4g2lb2~x2/"><circle cx="328.9" cy="124.6" r="4" fill="#3465a4"><title>Tomomi</title></circle></a><a href="/variants/s4/r60w28y2lb3~x2/"><circle cx="430.6" cy="165.4" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s4/r60w28ly2lb3~x2/"><circle cx="431.6" cy="166.2" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s5/r32w4db7ly2lb2~x5/"><circle cx="410.7" cy="152.1" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="414.5" cy="153.0" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="415.1" cy="182.4" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.9" cy="172.4" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="337.7" cy="174.6" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.4" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s5/r10dg4dr1w1lb1~x2/"><circle cx="320.7" cy="180.2" r="4" fill="#3465a4"><title>Staves (Personal)</title></circle></a><circle cx="306.3" cy="154.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/w15r20y2g1lg1~x4/

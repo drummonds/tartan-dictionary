@@ -2,13 +2,13 @@
 title: "Hart of Scotland"
 date: 2023-03-18
 ---
-The **Hart of Scotland** tartan is one sett proportion (`dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BBBRBGBGBGBGBGBGGBG](/stripes/bbbrbgbgbgbgbgbggbg/); each scale below is its own sett page. First attested **2000**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Hart of Scotland** sett — one scale-free proportion (`dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5`), colour order pattern
+[BBBRBGBGBGBGBGBGGBG](/stripes/bbbrbgbgbgbgbgbggbg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **2000**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [Hart of Scotland (Corporate)](/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/) ★ | 2000 | ![Hart of Scotland (Corporate) sett](/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/sett.png) |
 | ×2 | [Hart of Scotland](/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/) | 2000 | ![Hart of Scotland sett](/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/sett.png) |

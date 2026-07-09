@@ -1,5 +1,12 @@
 ---
 title: "MacPherson-Grant"
-redirect: "/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacPherson-Grant](/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/).
+This is the **MacPherson-Grant** sett — one scale-free proportion (`r90k6r6k6r90g6r6g45r6k4r3`), colour order pattern
+[RKRGRGRKRKR](/stripes/rkrgrgrkrkr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [MacPherson-Grant](/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/) ★ | 2003 | ![MacPherson-Grant sett](/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Tyneside Scottish District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Tyneside Scottish District Tartan"
-  url: ""
+  url: "/setts/db11do1db1do1db1do8g8do1g8do8db8do1db1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db11do1db1do1db1do8g8do1g8do8db8do1db1/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db11do1db1do1db1do8g8do1g8do8db8do1db1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1924 Tyneside Scottish was originally intended to be a Regi
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1924 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="247.1" cy="204.1" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="277.3" cy="233.2" r="4" fill="#3465a4"><title>Montmorency Family Tartan</title></circle></a><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/"><circle cx="273.3" cy="242.3" r="4" fill="#3465a4"><title>Tyneside Scottish (Blue) (District)</title></circle></a><a href="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><circle cx="283.0" cy="240.9" r="4" fill="#3465a4"><title>Tyneside Scottish Purple (Mil/Distr)</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.9" cy="250.8" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="275.4" cy="239.2" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan</title></circle></a><a href="/variants/s16/db11n4db4w2db4n4db11dg26n4w3n4w2n14dg10db16dg6~x2/"><circle cx="250.7" cy="202.1" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/variants/s8/dr17db2dr2db13dr2db2g17db2~x2/"><circle cx="286.7" cy="243.7" r="4" fill="#3465a4"><title>Remony (Red)</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.5" cy="233.6" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><circle cx="347.9" cy="245.1" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><circle cx="294.3" cy="228.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="247.1" cy="204.0" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="277.3" cy="233.1" r="4" fill="#3465a4"><title>Montmorency Family Tartan</title></circle></a><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/"><circle cx="273.4" cy="242.3" r="4" fill="#3465a4"><title>Tyneside Scottish (Blue) (District)</title></circle></a><a href="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><circle cx="283.0" cy="240.9" r="4" fill="#3465a4"><title>Tyneside Scottish Purple (Mil/Distr)</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.9" cy="250.7" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="275.4" cy="239.2" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan</title></circle></a><a href="/variants/s16/db11n4db4w2db4n4db11dg26n4w3n4w2n14dg10db16dg6~x2/"><circle cx="250.7" cy="202.0" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/variants/s8/dr17db2dr2db13dr2db2g17db2~x2/"><circle cx="286.7" cy="243.7" r="4" fill="#3465a4"><title>Remony (Red)</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.5" cy="233.6" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><circle cx="347.9" cy="245.0" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><circle cx="294.3" cy="228.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/

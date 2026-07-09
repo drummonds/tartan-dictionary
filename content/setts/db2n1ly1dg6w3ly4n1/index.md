@@ -1,5 +1,12 @@
 ---
 title: "Equorian Olympic"
-redirect: "/variants/s7/db2n1ly1dg6w3ly4n1/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Equorian Olympic](/variants/s7/db2n1ly1dg6w3ly4n1/).
+This is the **Equorian Olympic** sett — one scale-free proportion (`db2n1ly1dg6w3ly4n1`), colour order pattern
+[BBYGWYB](/stripes/bbygwyb/). It is recorded as a single **variant**, below.
+First attested **1988**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Equorian Olympic](/variants/s7/db2n1ly1dg6w3ly4n1/) ★ | 1988 | ![Equorian Olympic sett](/variants/s7/db2n1ly1dg6w3ly4n1/sett.png) |

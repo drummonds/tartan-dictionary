@@ -1,14 +1,16 @@
 ---
 title: "Celkilt"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Celkilt"
-  url: ""
+  url: "/setts/k80n2k160dt8n2dt5n3dt3n4dt2n5w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k80n2k160dt8n2dt5n3dt3n4dt2n5w2/)
-(the same proportion at any scale), whose colour order is pattern [KBKBBBBBBBBW](/stripes/kbkbbbbbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k80n2k160dt8n2dt5n3dt3n4dt2n5w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBBBBBBBBW](/stripes/kbkbbbbbbbbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><circle cx="580.1" cy="83.1" r="4" fill="#3465a4"><title>Clan Inebriated (Corporate)</title></circle></a><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><circle cx="562.4" cy="50.5" r="4" fill="#3465a4"><title>Selkirk Silver Band (Corporate)</title></circle></a><a href="/variants/s9/k75g2k4dp10db1dp4db1dp4k4~x2/"><circle cx="570.1" cy="65.4" r="4" fill="#3465a4"><title>Laird (Restricted)</title></circle></a><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/"><circle cx="570.4" cy="48.4" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/"><circle cx="626.0" cy="77.1" r="4" fill="#3465a4"><title>Webster, Colin Wesley (Personal)</title></circle></a><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/"><circle cx="587.7" cy="108.9" r="4" fill="#3465a4"><title>Edinburgh Castle (Corporate?)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.8" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s7/k5r1k41dg8k8y1k5~x2/"><circle cx="608.2" cy="111.3" r="4" fill="#3465a4"><title>Callaghan</title></circle></a><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/"><circle cx="626.0" cy="31.3" r="4" fill="#3465a4"><title>Edinburgh International Film Festival</title></circle></a><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><circle cx="521.7" cy="62.9" r="4" fill="#3465a4"><title>Scotland's Lionheart</title></circle></a><circle cx="626.0" cy="54.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><circle cx="580.1" cy="82.9" r="4" fill="#3465a4"><title>Clan Inebriated (Corporate)</title></circle></a><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><circle cx="562.4" cy="50.3" r="4" fill="#3465a4"><title>Selkirk Silver Band (Corporate)</title></circle></a><a href="/variants/s9/k75g2k4dp10db1dp4db1dp4k4~x2/"><circle cx="570.1" cy="65.2" r="4" fill="#3465a4"><title>Laird (Restricted)</title></circle></a><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/"><circle cx="570.4" cy="48.2" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/"><circle cx="626.0" cy="76.9" r="4" fill="#3465a4"><title>Webster, Colin Wesley (Personal)</title></circle></a><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/"><circle cx="587.7" cy="108.8" r="4" fill="#3465a4"><title>Edinburgh Castle (Corporate?)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.6" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s7/k5r1k41dg8k8y1k5~x2/"><circle cx="608.2" cy="111.1" r="4" fill="#3465a4"><title>Callaghan</title></circle></a><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/"><circle cx="626.0" cy="31.0" r="4" fill="#3465a4"><title>Edinburgh International Film Festival</title></circle></a><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><circle cx="521.8" cy="62.7" r="4" fill="#3465a4"><title>Scotland's Lionheart</title></circle></a><circle cx="626.0" cy="54.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/

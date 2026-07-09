@@ -1,5 +1,12 @@
 ---
 title: "Galloway Family"
-redirect: "/variants/s4/r2k50n2r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Galloway Family](/variants/s4/r2k50n2r1~x2/).
+This is the **Galloway Family** sett — one scale-free proportion (`r2k50n2r1`), colour order pattern
+[RBKR](/stripes/rbkr/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Galloway Family](/variants/s4/r2k50n2r1~x2/) ★ | 2009 | ![Galloway Family sett](/variants/s4/r2k50n2r1~x2/sett.png) |

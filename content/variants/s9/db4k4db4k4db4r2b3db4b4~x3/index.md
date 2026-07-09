@@ -1,14 +1,16 @@
 ---
 title: "Unidentified 14"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified 14"
-  url: ""
+  url: "/setts/db4k4db4k4db4r2b3db4b4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k4db4k4db4r2b3db4b4/)
-(the same proportion at any scale), whose colour order is pattern [BBBRBKBKB](/stripes/bbbrbkbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4k4db4k4db4r2b3db4b4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBRBKBKB](/stripes/bbbrbkbkb/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

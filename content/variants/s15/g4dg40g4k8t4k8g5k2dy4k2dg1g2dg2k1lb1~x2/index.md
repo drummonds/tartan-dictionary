@@ -1,14 +1,16 @@
 ---
 title: "Eastern Shore Police Emerald So Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Eastern Shore Police Emerald So Corporate Tartan"
-  url: ""
+  url: "/setts/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1/)
-(the same proportion at any scale), whose colour order is pattern [GGGKBKGKGKGGGKW](/stripes/gggkbkgkgkgggkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGKBKGKGKGGGKW](/stripes/gggkbkgkgkgggkw/).
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -23,7 +25,7 @@ Earliest known date: 13 August 2012 The Eastern Shore Police Emerald Society was
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>13 August 2012 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g4dg40g4k8db4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="269.8" cy="49.3" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald Society</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1~x2/"><circle cx="251.2" cy="43.2" r="4" fill="#3465a4"><title>Eastern Shore Police (Corporate)</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.7" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/"><circle cx="273.0" cy="60.2" r="4" fill="#3465a4"><title>U.S. Special Forces</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.8" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/"><circle cx="250.2" cy="47.1" r="4" fill="#3465a4"><title>Neumann - German Pipe Smokers (Corp)</title></circle></a><a href="/variants/s13/k2r3y1k2y1db16y1g32y1k2y1r1k1~x2/"><circle cx="243.0" cy="44.7" r="4" fill="#3465a4"><title>Neumann - GPS German Pipe Smokers</title></circle></a><a href="/variants/s14/t14k3t14k10dg40k1g3k1w3k1o3k1dg40k10~x2~t2105244-dg1806142-g2408144/"><circle cx="270.5" cy="60.9" r="4" fill="#3465a4"><title>Irish Diaspora</title></circle></a><a href="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/"><circle cx="196.8" cy="85.6" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/variants/s14/t14k3t14k10dg40k1g3k1w3k1o3k1dg40k10~x2~dg1806142-g2408144/"><circle cx="268.8" cy="61.1" r="4" fill="#3465a4"><title>Irish Diaspora (Fashion)</title></circle></a><circle cx="263.9" cy="47.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g4dg40g4k8db4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="269.8" cy="49.1" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald Society</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1~x2/"><circle cx="251.2" cy="43.1" r="4" fill="#3465a4"><title>Eastern Shore Police (Corporate)</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.5" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/"><circle cx="273.0" cy="60.1" r="4" fill="#3465a4"><title>U.S. Special Forces</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.6" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/"><circle cx="250.2" cy="47.0" r="4" fill="#3465a4"><title>Neumann - German Pipe Smokers (Corp)</title></circle></a><a href="/variants/s13/k2r3y1k2y1db16y1g32y1k2y1r1k1~x2/"><circle cx="243.0" cy="44.5" r="4" fill="#3465a4"><title>Neumann - GPS German Pipe Smokers</title></circle></a><a href="/variants/s14/t14k3t14k10dg40k1g3k1w3k1o3k1dg40k10~x2~t2105244-dg1806142-g2408144/"><circle cx="270.5" cy="60.7" r="4" fill="#3465a4"><title>Irish Diaspora</title></circle></a><a href="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/"><circle cx="196.8" cy="85.5" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/variants/s14/t14k3t14k10dg40k1g3k1w3k1o3k1dg40k10~x2~dg1806142-g2408144/"><circle cx="268.8" cy="60.9" r="4" fill="#3465a4"><title>Irish Diaspora (Fashion)</title></circle></a><circle cx="263.9" cy="47.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1~x2/

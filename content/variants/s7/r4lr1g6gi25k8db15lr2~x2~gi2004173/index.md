@@ -1,6 +1,7 @@
 ---
 title: "Jones Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Jones"
   url: "/tartans/jones/"
 - name: "Jones Personal Tartan"
-  url: ""
+  url: "/setts/r4lr1g6gi25k8db15lr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4lr1g6gi25k8db15lr2/)
-(the same proportion at any scale), whose colour order is pattern [RYGGKBY](/stripes/ryggkby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4lr1g6gi25k8db15lr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RYGGKBY](/stripes/ryggkby/).
 
 Part of the [Jones](/tartans/jones/) tartan — the named design grouping this sett with its other cloths.
 
@@ -29,7 +31,7 @@ Earliest known date: 1997 Designed by Peter MacDonald for Mrs Ros Jones, Aros, I
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1997 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.3" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.2" cy="133.9" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.1" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi1406275-db1204274/"><circle cx="138.8" cy="137.3" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.5" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><circle cx="154.4" cy="118.4" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.3" cy="169.5" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s6/dy2g12k10r1t16r2~x4/"><circle cx="149.0" cy="171.5" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><circle cx="140.9" cy="114.5" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><circle cx="176.7" cy="132.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.2" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.3" cy="133.8" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.0" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s7/dbi5w3r12g37k12db21w2~x2~dbi1406275-db1204274/"><circle cx="138.8" cy="137.2" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.4" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><circle cx="154.4" cy="118.3" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.4" cy="169.4" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s6/dy2g12k10r1t16r2~x4/"><circle cx="149.0" cy="171.4" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><circle cx="141.0" cy="114.4" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><circle cx="176.7" cy="131.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r4lr1g6gi25k8db15lr2~x2~gi2004173/

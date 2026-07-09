@@ -1,5 +1,12 @@
 ---
 title: "Bannockbane Hunting (MacBean and Bishop)"
-redirect: "/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bannockbane Hunting (MacBean and Bishop)](/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/).
+This is the **Bannockbane Hunting (MacBean and Bishop)** sett — one scale-free proportion (`dg3ly2dg14ly1w10n14ly2n3`), colour order pattern
+[BYBWYGYG](/stripes/bybwygyg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bannockbane Hunting (MacBean and Bishop)](/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/) ★ | ~2016 | ![Bannockbane Hunting (MacBean and Bishop) sett](/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/sett.png) |

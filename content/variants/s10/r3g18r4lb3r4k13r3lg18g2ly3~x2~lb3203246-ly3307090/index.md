@@ -1,14 +1,16 @@
 ---
 title: "Stirling and Bannockburn"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stirling and Bannockburn"
-  url: ""
+  url: "/setts/r3g18r4lb3r4k13r3lg18g2ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g18r4lb3r4k13r3lg18g2ly3/)
-(the same proportion at any scale), whose colour order is pattern [RGRWRKRYGY](/stripes/rgrwrkrygy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3g18r4lb3r4k13r3lg18g2ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRWRKRYGY](/stripes/rgrwrkrygy/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><circle cx="45.2" cy="138.3" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/"><circle cx="72.7" cy="153.4" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/"><circle cx="77.1" cy="158.2" r="4" fill="#3465a4"><title>Hackett William (Coatbridge) Hunting (Personal)</title></circle></a><a href="/variants/s13/w2dy14y3k6w2k2w2k2g8ly6k2ly3w2~x2~dy1603076-ly2605093/"><circle cx="17.3" cy="152.5" r="4" fill="#3465a4"><title>O'Farrell Irish Family Tartan</title></circle></a><a href="/variants/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2~ly3307090-y2405105/"><circle cx="42.3" cy="123.6" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/"><circle cx="41.6" cy="144.2" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.3" cy="134.6" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="135.0" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.7" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.2" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><circle cx="47.5" cy="149.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><circle cx="45.2" cy="138.2" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/"><circle cx="72.7" cy="153.3" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/"><circle cx="77.1" cy="158.1" r="4" fill="#3465a4"><title>Hackett William (Coatbridge) Hunting (Personal)</title></circle></a><a href="/variants/s13/w2dy14y3k6w2k2w2k2g8ly6k2ly3w2~x2~dy1603076-ly2605093/"><circle cx="17.3" cy="152.4" r="4" fill="#3465a4"><title>O'Farrell Irish Family Tartan</title></circle></a><a href="/variants/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2~ly3307090-y2405105/"><circle cx="42.3" cy="123.5" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/"><circle cx="41.6" cy="144.1" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.4" cy="134.5" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="134.8" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.1" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><circle cx="47.5" cy="149.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2~lb3203246-ly3307090/

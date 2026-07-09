@@ -1,16 +1,18 @@
 ---
 title: "Highland Spring (Green)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Spring"
   url: "/tartans/highland-spring-2/"
 - name: "Highland Spring (Green)"
-  url: ""
+  url: "/setts/dr7g23r3g7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr7g23r3g7/)
-(the same proportion at any scale), whose colour order is pattern [BGRG](/stripes/bgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr7g23r3g7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRG](/stripes/bgrg/).
 
 Part of the [Highland Spring](/tartans/highland-spring-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9o20g40w5~x2/"><circle cx="449.3" cy="289.8" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.5" cy="285.3" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan</title></circle></a><a href="/variants/s4/g9b20g40w5~x2/"><circle cx="439.0" cy="295.8" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s3/g9r2lb2~x4/"><circle cx="421.3" cy="305.9" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><a href="/variants/s3/g30w2dr5~x4/"><circle cx="578.2" cy="254.1" r="4" fill="#3465a4"><title>S3</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="343.6" cy="267.8" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><circle cx="414.6" cy="273.4" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/variants/s3/dg20w5r3~x2/"><circle cx="387.4" cy="259.3" r="4" fill="#3465a4"><title>Juchter (Personal)</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="409.0" cy="293.9" r="4" fill="#3465a4"><title>Applecross</title></circle></a><circle cx="479.4" cy="274.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9o20g40w5~x2/"><circle cx="449.4" cy="289.8" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.5" cy="285.3" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan</title></circle></a><a href="/variants/s4/g9b20g40w5~x2/"><circle cx="439.1" cy="295.8" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s3/g9r2lb2~x4/"><circle cx="421.3" cy="305.9" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><a href="/variants/s3/g30w2dr5~x4/"><circle cx="578.2" cy="254.1" r="4" fill="#3465a4"><title>S3</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="343.6" cy="267.8" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><circle cx="414.6" cy="273.4" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/variants/s3/dg20w5r3~x2/"><circle cx="387.5" cy="259.3" r="4" fill="#3465a4"><title>Juchter (Personal)</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="409.0" cy="293.9" r="4" fill="#3465a4"><title>Applecross</title></circle></a><circle cx="479.4" cy="274.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dr7g23r3g7~x2/

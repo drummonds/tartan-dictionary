@@ -1,5 +1,14 @@
 ---
 title: "Wells (2014)"
-redirect: "/variants/s7/db50g25y3n8r1w1r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wells (2014)](/variants/s7/db50g25y3n8r1w1r1~x2/).
+This is the **Wells (2014)** sett — one scale-free proportion (`db50g25y3n8r1w1r1`), colour order pattern
+[BGGBRWR](/stripes/bggbrwr/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+Part of the [Wells](/tartans/wells/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wells (2014)](/variants/s7/db50g25y3n8r1w1r1~x2/) ★ | 2014 | ![Wells (2014) sett](/variants/s7/db50g25y3n8r1w1r1~x2/sett.png) |

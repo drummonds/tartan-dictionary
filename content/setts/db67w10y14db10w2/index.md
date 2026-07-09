@@ -1,5 +1,12 @@
 ---
 title: "St. John (Corporate?)"
-redirect: "/variants/s5/db67w10y14db10w2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. John (Corporate?)](/variants/s5/db67w10y14db10w2/).
+This is the **St. John (Corporate?)** sett — one scale-free proportion (`db67w10y14db10w2`), colour order pattern
+[BWGBW](/stripes/bwgbw/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [St. John (Corporate?)](/variants/s5/db67w10y14db10w2/) ★ | 2009 | ![St. John (Corporate?) sett](/variants/s5/db67w10y14db10w2/sett.png) |

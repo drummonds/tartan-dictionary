@@ -1,14 +1,16 @@
 ---
 title: "Tara (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Tara (District)"
-  url: ""
+  url: "/setts/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3/)
-(the same proportion at any scale), whose colour order is pattern [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4r1k3ly1k1w1k1dy8g12r1g2k1~x4/"><circle cx="120.9" cy="109.3" r="4" fill="#3465a4"><title>Murphy (District)</title></circle></a><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/"><circle cx="148.9" cy="116.0" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.8" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/"><circle cx="148.3" cy="125.1" r="4" fill="#3465a4"><title>Unidentified Furnishing</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><circle cx="215.8" cy="123.8" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s17/k8y2k2y2k19t2dg2t2k2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><circle cx="149.4" cy="110.6" r="4" fill="#3465a4"><title>Harmon Family Tartan</title></circle></a><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/"><circle cx="186.2" cy="105.1" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan</title></circle></a><a href="/variants/s12/r2lb6r1dy14r1dy14r1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><circle cx="185.4" cy="123.0" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting</title></circle></a><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/"><circle cx="179.8" cy="104.7" r="4" fill="#3465a4"><title>Strathmore District Tartan</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="129.1" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><circle cx="161.5" cy="121.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4r1k3ly1k1w1k1dy8g12r1g2k1~x4/"><circle cx="120.9" cy="109.1" r="4" fill="#3465a4"><title>Murphy (District)</title></circle></a><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/"><circle cx="148.9" cy="115.8" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/"><circle cx="148.3" cy="124.9" r="4" fill="#3465a4"><title>Unidentified Furnishing</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><circle cx="215.8" cy="123.7" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s17/k8y2k2y2k19t2dg2t2k2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><circle cx="149.5" cy="110.4" r="4" fill="#3465a4"><title>Harmon Family Tartan</title></circle></a><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/"><circle cx="186.2" cy="104.9" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan</title></circle></a><a href="/variants/s12/r2lb6r1dy14r1dy14r1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><circle cx="185.4" cy="122.9" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting</title></circle></a><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/"><circle cx="179.8" cy="104.5" r="4" fill="#3465a4"><title>Strathmore District Tartan</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="129.0" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><circle cx="161.5" cy="121.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/

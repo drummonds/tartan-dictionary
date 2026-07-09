@@ -1,6 +1,7 @@
 ---
 title: "MacRae of Conchra #3"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "MacRae of Conchra"
   url: "/tartans/macrae-of-conchra/"
 - name: "MacRae of Conchra #3"
-  url: ""
+  url: "/setts/r7w36db36y7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r7w36db36y7/)
-(the same proportion at any scale), whose colour order is pattern [GBWR](/stripes/gbwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r7w36db36y7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBWR](/stripes/gbwr/).
 
 Part of the [MacRae of Conchra](/tartans/macrae-of-conchra/) tartan — the named design grouping this sett with its other cloths.
 
@@ -78,6 +80,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1w8b8y1~x4/"><circle cx="253.6" cy="243.5" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s5/lb3w10db10g10r2~x4/"><circle cx="75.1" cy="264.8" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.8" cy="238.7" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.7" cy="238.5" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="194.1" cy="243.7" r="4" fill="#3465a4"><title>Common Ground (Dress)</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.5" cy="221.1" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.1" cy="279.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="170.6" cy="282.8" r="4" fill="#3465a4"><title>Doohan (New South Wales), Andrew</title></circle></a><circle cx="182.4" cy="259.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1w8b8y1~x4/"><circle cx="253.6" cy="243.4" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s5/lb3w10db10g10r2~x4/"><circle cx="75.1" cy="264.8" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.8" cy="238.6" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.8" cy="238.4" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="194.1" cy="243.6" r="4" fill="#3465a4"><title>Common Ground (Dress)</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.5" cy="221.1" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.2" cy="279.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="170.7" cy="282.8" r="4" fill="#3465a4"><title>Doohan (New South Wales), Andrew</title></circle></a><circle cx="182.4" cy="259.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r7w36db36y7~x2/

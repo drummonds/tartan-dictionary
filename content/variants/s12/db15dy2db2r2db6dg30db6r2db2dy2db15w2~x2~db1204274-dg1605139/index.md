@@ -1,14 +1,16 @@
 ---
 title: "Hydesville Tower"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hydesville Tower"
-  url: ""
+  url: "/setts/db15dy2db2r2db6dg30db6r2db2dy2db15w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db15dy2db2r2db6dg30db6r2db2dy2db15w2/)
-(the same proportion at any scale), whose colour order is pattern [BGBRBGBRBGBW](/stripes/bgbrbgbrbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db15dy2db2r2db6dg30db6r2db2dy2db15w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBRBGBRBGBW](/stripes/bgbrbgbrbgbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/"><circle cx="284.5" cy="163.8" r="4" fill="#3465a4"><title>Kilkenny Irish County Tartan</title></circle></a><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><circle cx="279.1" cy="167.5" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/"><circle cx="347.2" cy="131.4" r="4" fill="#3465a4"><title>Heneghan (Personal)</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.8" cy="187.1" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.2" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2/"><circle cx="385.0" cy="142.7" r="4" fill="#3465a4"><title>Hebridean Heather (Fashion)</title></circle></a><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><circle cx="394.6" cy="152.5" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/"><circle cx="303.1" cy="177.3" r="4" fill="#3465a4"><title>Los Angeles Police Bagpipe Band</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/"><circle cx="347.3" cy="182.8" r="4" fill="#3465a4"><title>Bracken (Fashion)</title></circle></a><a href="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/"><circle cx="277.0" cy="157.7" r="4" fill="#3465a4"><title>Keith Stanhope Society (Commem.)</title></circle></a><circle cx="346.2" cy="153.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/"><circle cx="284.6" cy="163.7" r="4" fill="#3465a4"><title>Kilkenny Irish County Tartan</title></circle></a><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><circle cx="279.2" cy="167.4" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/"><circle cx="347.2" cy="131.3" r="4" fill="#3465a4"><title>Heneghan (Personal)</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.9" cy="187.0" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.1" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2/"><circle cx="385.0" cy="142.5" r="4" fill="#3465a4"><title>Hebridean Heather (Fashion)</title></circle></a><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><circle cx="394.6" cy="152.4" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/"><circle cx="303.1" cy="177.2" r="4" fill="#3465a4"><title>Los Angeles Police Bagpipe Band</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/"><circle cx="347.3" cy="182.7" r="4" fill="#3465a4"><title>Bracken (Fashion)</title></circle></a><a href="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/"><circle cx="277.1" cy="157.6" r="4" fill="#3465a4"><title>Keith Stanhope Society (Commem.)</title></circle></a><circle cx="346.2" cy="153.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/

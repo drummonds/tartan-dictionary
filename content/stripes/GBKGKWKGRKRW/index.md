@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/">Princess Mary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/"><img src="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/sett.png" alt="Princess Mary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/">Princess Mary Royal Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/"><img src="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/sett.png" alt="Princess Mary Royal Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

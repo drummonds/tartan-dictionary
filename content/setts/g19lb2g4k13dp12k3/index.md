@@ -1,5 +1,12 @@
 ---
 title: "Wilson's No.150"
-redirect: "/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's No.150](/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/).
+This is the **Wilson's No.150** sett — one scale-free proportion (`g19lb2g4k13dp12k3`), colour order pattern
+[GWGKBKBKGW](/stripes/gwgkbkbkgw/). It is recorded as a single **variant**, below.
+First attested **1819**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's No.150](/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/) ★ | 1819 | ![Wilson's No.150 sett](/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/sett.png) |

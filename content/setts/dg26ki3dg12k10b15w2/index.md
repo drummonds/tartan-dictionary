@@ -1,5 +1,12 @@
 ---
 title: "Lossiemouth/Hersbruck"
-redirect: "/variants/s6/dg26ki3dg12k10b15w2~x2~ki0604259/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lossiemouth/Hersbruck](/variants/s6/dg26ki3dg12k10b15w2~x2~ki0604259/).
+This is the **Lossiemouth/Hersbruck** sett — one scale-free proportion (`dg26ki3dg12k10b15w2`), colour order pattern
+[GKGKBW](/stripes/gkgkbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lossiemouth/Hersbruck](/variants/s6/dg26ki3dg12k10b15w2~x2~ki0604259/) ★ | ~2016 | ![Lossiemouth/Hersbruck sett](/variants/s6/dg26ki3dg12k10b15w2~x2~ki0604259/sett.png) |

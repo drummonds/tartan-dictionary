@@ -1,5 +1,12 @@
 ---
 title: "STLTH"
-redirect: "/variants/s7/dt4k2dt4k45n2k3n2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [STLTH](/variants/s7/dt4k2dt4k45n2k3n2~x2/).
+This is the **STLTH** sett — one scale-free proportion (`dt4k2dt4k45n2k3n2`), colour order pattern
+[BKBKBKB](/stripes/bkbkbkb/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [STLTH](/variants/s7/dt4k2dt4k45n2k3n2~x2/) ★ | 2012 | ![STLTH sett](/variants/s7/dt4k2dt4k45n2k3n2~x2/sett.png) |

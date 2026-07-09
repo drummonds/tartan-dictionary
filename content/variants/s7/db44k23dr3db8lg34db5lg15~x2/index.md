@@ -1,16 +1,18 @@
 ---
 title: "US Air Force Reserve Pipe Band Military Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "US Air Force Reserve Pipe Band"
   url: "/tartans/us-air-force-reserve-pipe-band/"
 - name: "US Air Force Reserve Pipe Band Military Tartan"
-  url: ""
+  url: "/setts/db44k23dr3db8lg34db5lg15/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db44k23dr3db8lg34db5lg15/)
-(the same proportion at any scale), whose colour order is pattern [BKKBBYBY](/stripes/bkkbbyby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db44k23dr3db8lg34db5lg15/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKKBBYBY](/stripes/bkkbbyby/).
 
 Part of the [US Air Force Reserve Pipe Band](/tartans/us-air-force-reserve-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 01/01/1988 One of a series of US Military tartans woven exc
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/01/1988 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><circle cx="173.7" cy="154.6" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.9" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1lo1~x4/"><circle cx="188.1" cy="163.4" r="4" fill="#3465a4"><title>MacLaren (Clan)</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="166.0" cy="171.2" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s7/db12k4g4dp1g4k1w1~x4/"><circle cx="187.1" cy="164.4" r="4" fill="#3465a4"><title>Alexander - 2000 (Name)</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.8" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s6/k6g15w2db22b2k4~x2/"><circle cx="168.1" cy="173.2" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s7/db3r2db22k11g24b2g3~x2/"><circle cx="183.0" cy="168.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><circle cx="181.7" cy="167.1" r="4" fill="#3465a4"><title>MacThomas Clan Tartan</title></circle></a><a href="/variants/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="138.1" cy="137.0" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><circle cx="163.3" cy="147.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><circle cx="173.7" cy="154.5" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.8" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1lo1~x4/"><circle cx="188.1" cy="163.3" r="4" fill="#3465a4"><title>MacLaren (Clan)</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="166.0" cy="171.1" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s7/db12k4g4dp1g4k1w1~x4/"><circle cx="187.1" cy="164.3" r="4" fill="#3465a4"><title>Alexander - 2000 (Name)</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.7" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s6/k6g15w2db22b2k4~x2/"><circle cx="168.2" cy="173.1" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s7/db3r2db22k11g24b2g3~x2/"><circle cx="183.0" cy="168.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><circle cx="181.8" cy="167.0" r="4" fill="#3465a4"><title>MacThomas Clan Tartan</title></circle></a><a href="/variants/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="138.1" cy="136.9" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><circle cx="163.3" cy="147.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db44k23dr3db8lg34db5lg15~x2/

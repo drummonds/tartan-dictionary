@@ -1,5 +1,12 @@
 ---
 title: "Guzzo Check (Personal)"
-redirect: "/variants/s8/y20w2y20k4w3y3k3w2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Guzzo Check (Personal)](/variants/s8/y20w2y20k4w3y3k3w2/).
+This is the **Guzzo Check (Personal)** sett — one scale-free proportion (`y20w2y20k4w3y3k3w2`), colour order pattern
+[GWGKWGKW](/stripes/gwgkwgkw/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Guzzo Check (Personal)](/variants/s8/y20w2y20k4w3y3k3w2/) ★ | 2009 | ![Guzzo Check (Personal) sett](/variants/s8/y20w2y20k4w3y3k3w2/sett.png) |

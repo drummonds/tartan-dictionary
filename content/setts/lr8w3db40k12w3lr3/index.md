@@ -1,5 +1,12 @@
 ---
 title: "Wolverines (Corporate)"
-redirect: "/variants/s6/lr8w3db40k12w3lr3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wolverines (Corporate)](/variants/s6/lr8w3db40k12w3lr3~x2/).
+This is the **Wolverines (Corporate)** sett — one scale-free proportion (`lr8w3db40k12w3lr3`), colour order pattern
+[YWBKWY](/stripes/ywbkwy/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wolverines (Corporate)](/variants/s6/lr8w3db40k12w3lr3~x2/) ★ | 2012 | ![Wolverines (Corporate) sett](/variants/s6/lr8w3db40k12w3lr3~x2/sett.png) |

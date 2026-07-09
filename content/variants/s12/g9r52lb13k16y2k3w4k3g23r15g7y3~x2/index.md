@@ -1,14 +1,16 @@
 ---
 title: "Stewart of Galloway Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stewart of Galloway Clan Tartan"
-  url: ""
+  url: "/setts/g9r52lb13k16y2k3w4k3g23r15g7y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9r52lb13k16y2k3w4k3g23r15g7y3/)
-(the same proportion at any scale), whose colour order is pattern [GGRGKWKGKWRG](/stripes/ggrgkwkgkwrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g9r52lb13k16y2k3w4k3g23r15g7y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGRGKWKGKWRG](/stripes/ggrgkwkgkwrg/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: c.1820 Count taken from the specimen at the Smith Institute
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>c.1820 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/"><circle cx="188.7" cy="69.2" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.4" cy="79.3" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="159.9" cy="76.8" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.1" cy="53.9" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s15/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44~x2/"><circle cx="168.2" cy="75.1" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/variants/s13/r32lb14k16y3k4w4k4r1g28r13k4r4w2~x2/"><circle cx="136.6" cy="72.5" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><a href="/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/"><circle cx="145.9" cy="74.7" r="4" fill="#3465a4"><title>Carolina, States of (District)</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.2" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><circle cx="181.8" cy="79.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/"><circle cx="188.7" cy="69.1" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.4" cy="79.2" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="159.9" cy="76.6" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.1" cy="53.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s15/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44~x2/"><circle cx="168.2" cy="74.9" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/variants/s13/r32lb14k16y3k4w4k4r1g28r13k4r4w2~x2/"><circle cx="136.6" cy="72.3" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><a href="/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/"><circle cx="145.9" cy="74.5" r="4" fill="#3465a4"><title>Carolina, States of (District)</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.1" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><circle cx="181.8" cy="79.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/

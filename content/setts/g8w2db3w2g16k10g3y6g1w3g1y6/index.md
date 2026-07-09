@@ -1,5 +1,12 @@
 ---
 title: "Green Bay, Wisconsin (District)"
-redirect: "/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Green Bay, Wisconsin (District)](/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/).
+This is the **Green Bay, Wisconsin (District)** sett — one scale-free proportion (`g8w2db3w2g16k10g3y6g1w3g1y6`), colour order pattern
+[GGWGGGKGWBWG](/stripes/ggwgggkgwbwg/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Green Bay, Wisconsin (District)](/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/) ★ | 1998 | ![Green Bay, Wisconsin (District) sett](/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/sett.png) |

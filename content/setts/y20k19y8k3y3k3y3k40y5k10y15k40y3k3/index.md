@@ -1,5 +1,12 @@
 ---
 title: "Justus Yellow & Black (Personal)"
-redirect: "/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Justus Yellow & Black (Personal)](/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/).
+This is the **Justus Yellow & Black (Personal)** sett — one scale-free proportion (`y20k19y8k3y3k3y3k40y5k10y15k40y3k3`), colour order pattern
+[GKGKGKGKGKGKGKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgkgkgkgkgkgkgk/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Justus Yellow & Black (Personal)](/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/) ★ | 2004 | ![Justus Yellow & Black (Personal) sett](/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/sett.png) |

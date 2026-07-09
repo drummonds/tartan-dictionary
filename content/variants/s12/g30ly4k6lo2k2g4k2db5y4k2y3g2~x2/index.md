@@ -1,14 +1,16 @@
 ---
 title: "Bottle Green (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bottle Green (Fashion)"
-  url: ""
+  url: "/setts/g30ly4k6lo2k2g4k2db5y4k2y3g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g30ly4k6lo2k2g4k2db5y4k2y3g2/)
-(the same proportion at any scale), whose colour order is pattern [GGKGBKGKYKYG](/stripes/ggkgbkgkykyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g30ly4k6lo2k2g4k2db5y4k2y3g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKGBKGKYKYG](/stripes/ggkgbkgkykyg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/"><circle cx="203.0" cy="91.4" r="4" fill="#3465a4"><title>Offally County Crest (Fashion)</title></circle></a><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12dy10/"><circle cx="205.5" cy="91.8" r="4" fill="#3465a4"><title>Offaly County, Crest Range</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.7" cy="105.2" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.4" cy="107.7" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.4" cy="108.7" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.7" cy="109.8" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/variants/s16/r2db2k3g25k2db3g4y2g2w2g6db2r7k2r3w2~x2/"><circle cx="199.3" cy="90.0" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Thistle (Personal)</title></circle></a><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/"><circle cx="259.1" cy="117.5" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="210.9" cy="97.6" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><circle cx="250.3" cy="114.2" r="4" fill="#3465a4"><title>Lambert Kai (Personal)</title></circle></a><circle cx="220.7" cy="94.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/"><circle cx="203.0" cy="91.3" r="4" fill="#3465a4"><title>Offally County Crest (Fashion)</title></circle></a><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12dy10/"><circle cx="205.5" cy="91.7" r="4" fill="#3465a4"><title>Offaly County, Crest Range</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.7" cy="105.0" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.4" cy="107.6" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.5" cy="108.5" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.7" cy="109.6" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/variants/s16/r2db2k3g25k2db3g4y2g2w2g6db2r7k2r3w2~x2/"><circle cx="199.3" cy="89.8" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Thistle (Personal)</title></circle></a><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/"><circle cx="259.1" cy="117.3" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="210.9" cy="97.4" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><circle cx="250.3" cy="114.0" r="4" fill="#3465a4"><title>Lambert Kai (Personal)</title></circle></a><circle cx="220.7" cy="94.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/

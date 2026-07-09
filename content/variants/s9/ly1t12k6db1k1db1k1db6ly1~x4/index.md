@@ -1,14 +1,16 @@
 ---
 title: "Elgin City Band"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Elgin City Band"
-  url: ""
+  url: "/setts/ly1t12k6db1k1db1k1db6ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly1t12k6db1k1db1k1db6ly1/)
-(the same proportion at any scale), whose colour order is pattern [YBKBKBKBY](/stripes/ybkbkbkby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly1t12k6db1k1db1k1db6ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YBKBKBKBY](/stripes/ybkbkbkby/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="208.7" cy="159.6" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="163.0" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.6" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/"><circle cx="105.6" cy="160.7" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/variants/s11/db3k2db22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="163.7" cy="132.0" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x4/"><circle cx="171.8" cy="179.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="171.8" cy="179.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s9/db18g2k2g5w2g2w2g2k2~x4/"><circle cx="214.5" cy="156.2" r="4" fill="#3465a4"><title>Tweedside Hunting</title></circle></a><a href="/variants/s8/db25k3db7k15t25k2t2w4~x2~db1406275/"><circle cx="181.8" cy="174.6" r="4" fill="#3465a4"><title>Sabema</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><circle cx="180.6" cy="134.7" r="4" fill="#3465a4"><title>Forth</title></circle></a><circle cx="185.4" cy="156.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="208.7" cy="159.5" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="162.9" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.5" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/"><circle cx="105.6" cy="160.5" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/variants/s11/db3k2db22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="163.8" cy="131.9" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x4/"><circle cx="171.8" cy="179.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="171.8" cy="179.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s9/db18g2k2g5w2g2w2g2k2~x4/"><circle cx="214.5" cy="156.1" r="4" fill="#3465a4"><title>Tweedside Hunting</title></circle></a><a href="/variants/s8/db25k3db7k15t25k2t2w4~x2~db1406275/"><circle cx="181.8" cy="174.5" r="4" fill="#3465a4"><title>Sabema</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><circle cx="180.7" cy="134.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><circle cx="185.4" cy="156.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/

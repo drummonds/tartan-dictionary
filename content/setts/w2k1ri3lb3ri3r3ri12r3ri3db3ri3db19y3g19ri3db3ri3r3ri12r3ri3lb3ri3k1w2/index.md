@@ -2,15 +2,15 @@
 title: "Fitzgerald dress"
 date: 2023-03-18
 ---
-The **Fitzgerald dress** tartan is one sett proportion (`w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[WKRWRRRRRBRBGGRBRRRRRWRKW](/stripes/wkrwrrrrrbrbggrbrrrrrwrkw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Fitzgerald dress** sett — one scale-free proportion (`w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2`), colour order pattern
+[WKRWRRRRRBRBGGRBRRRRRWRKW](/stripes/wkrwrrrrrbrbggrbrrrrrwrkw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1985**.
 
-Part of the [Fitzgerald dress](/tartans/fitzgerald-dress/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Fitzgerald dress](/tartans/fitzgerald-dress/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×2 | [Fitzgerald dress](/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/) ★ | ~2016 | ![Fitzgerald dress sett](/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/sett.png) |
-| ×2 | [Fitzgerald Family Tartan](/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2109032-r1807008/) | ~2016 | ![Fitzgerald Family Tartan sett](/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2109032-r1807008/sett.png) |
+| ×2 | [Fitzgerald Family Tartan](/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2109032-r1807008/) ★ | 1985 | ![Fitzgerald Family Tartan sett](/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2109032-r1807008/sett.png) |
+| ×2 | [Fitzgerald dress](/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/) | ~2016 | ![Fitzgerald dress sett](/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/sett.png) |

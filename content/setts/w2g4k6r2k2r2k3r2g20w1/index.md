@@ -1,5 +1,12 @@
 ---
-title: "Kiernan"
-redirect: "/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"
+title: "Keirnan Irish Family Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kiernan](/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/).
+This is the **Keirnan Irish Family Tartan** sett — one scale-free proportion (`w2g4k6r2k2r2k3r2g20w1`), colour order pattern
+[WGKRKRKRGW](/stripes/wgkrkrkrgw/). It is recorded as a single **variant**, below.
+First attested **1880**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Keirnan Irish Family Tartan](/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/) ★ | 1880 | ![Keirnan Irish Family Tartan sett](/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/sett.png) |

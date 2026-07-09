@@ -1,14 +1,16 @@
 ---
 title: "Lord's Own Highlanders (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lord's Own Highlanders (Corporate)"
-  url: ""
+  url: "/setts/w5n20k8r5dp36ly5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5n20k8r5dp36ly5/)
-(the same proportion at any scale), whose colour order is pattern [WBKRBY](/stripes/wbkrby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w5n20k8r5dp36ly5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBKRBY](/stripes/wbkrby/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="192.2" cy="199.1" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.5" cy="152.5" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.3" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="153.0" cy="145.4" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="119.9" cy="169.8" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/"><circle cx="189.7" cy="128.4" r="4" fill="#3465a4"><title>Curnow of Kernow (Personal)</title></circle></a><a href="/variants/s6/db3r2n15w10k2y3~x2/"><circle cx="133.3" cy="176.4" r="4" fill="#3465a4"><title>SCH '67 Class</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="127.3" cy="206.7" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.3" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.6" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><circle cx="158.5" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="192.3" cy="199.1" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.4" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.2" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="153.0" cy="145.3" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="119.9" cy="169.7" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/"><circle cx="189.7" cy="128.3" r="4" fill="#3465a4"><title>Curnow of Kernow (Personal)</title></circle></a><a href="/variants/s6/db3r2n15w10k2y3~x2/"><circle cx="133.3" cy="176.3" r="4" fill="#3465a4"><title>SCH '67 Class</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="127.4" cy="206.7" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.2" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.5" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><circle cx="158.5" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w5n20k8r5dp36ly5~x2/

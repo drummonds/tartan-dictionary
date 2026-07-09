@@ -1,16 +1,18 @@
 ---
 title: "Brooke (D.C.Dalgliesh version)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brooke"
   url: "/tartans/brooke/"
 - name: "Brooke (D.C.Dalgliesh version)"
-  url: ""
+  url: "/setts/db1lb1db1k8g10k8r1w1y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1lb1db1k8g10k8r1w1y1/)
-(the same proportion at any scale), whose colour order is pattern [BWBKGKRWG](/stripes/bwbkgkrwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db1lb1db1k8g10k8r1w1y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBKGKRWG](/stripes/bwbkgkrwg/).
 
 Part of the [Brooke](/tartans/brooke/) tartan — the named design grouping this sett with its other cloths.
 
@@ -78,6 +80,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y2w2r2k14g20k16b2lb1b2~x2/"><circle cx="174.7" cy="89.8" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.2" cy="139.9" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.6" cy="139.3" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><circle cx="150.8" cy="136.2" r="4" fill="#3465a4"><title>Cornish, hunting</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.6" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s9/y16ly5k8ly8k68g46w8k8r8/"><circle cx="158.9" cy="113.1" r="4" fill="#3465a4"><title>Louth County Crest (Fashion)</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.5" cy="126.5" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/variants/s12/k26ly2g24db8k4r3k4db8g24ly2k26w5~x2/"><circle cx="135.6" cy="122.5" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><circle cx="184.0" cy="121.8" r="4" fill="#3465a4"><title>Head of the Lakes</title></circle></a><a href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="161.7" cy="131.5" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><circle cx="154.8" cy="116.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y2w2r2k14g20k16b2lb1b2~x2/"><circle cx="174.7" cy="89.7" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.2" cy="139.8" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.6" cy="139.1" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><circle cx="150.9" cy="136.1" r="4" fill="#3465a4"><title>Cornish, hunting</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.5" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s9/y16ly5k8ly8k68g46w8k8r8/"><circle cx="158.9" cy="113.0" r="4" fill="#3465a4"><title>Louth County Crest (Fashion)</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.5" cy="126.4" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/variants/s12/k26ly2g24db8k4r3k4db8g24ly2k26w5~x2/"><circle cx="135.6" cy="122.4" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><circle cx="184.0" cy="121.7" r="4" fill="#3465a4"><title>Head of the Lakes</title></circle></a><a href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="161.8" cy="131.4" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><circle cx="154.8" cy="116.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db1lb1db1k8g10k8r1w1y1~x2/

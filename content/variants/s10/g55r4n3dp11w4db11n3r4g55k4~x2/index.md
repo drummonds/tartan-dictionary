@@ -1,16 +1,18 @@
 ---
 title: "Rollings (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Rollings"
   url: "/tartans/rollings/"
 - name: "Rollings (Personal)"
-  url: ""
+  url: "/setts/g55r4n3dp11w4db11n3r4g55k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g55r4n3dp11w4db11n3r4g55k4/)
-(the same proportion at any scale), whose colour order is pattern [GRBBWBBRGK](/stripes/grbbwbbrgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g55r4n3dp11w4db11n3r4g55k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRBBWBBRGK](/stripes/grbbwbbrgk/).
 
 Part of the [Rollings](/tartans/rollings/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g55dr4lb3dp11w4db11lb3dr4g55k4~x2/"><circle cx="352.5" cy="92.1" r="4" fill="#3465a4"><title>Rollings Personal Tartan</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="355.6" cy="121.8" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.5" cy="129.3" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/"><circle cx="391.5" cy="78.3" r="4" fill="#3465a4"><title>Chapman-Smith, M &amp; L (Personal)</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.4" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.4" cy="60.3" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="353.2" cy="59.4" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/variants/s9/n3dy3r5dg10g3dg10k4dg24r3~x2~dg1806142-g2203152/"><circle cx="338.9" cy="175.8" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><circle cx="269.9" cy="131.1" r="4" fill="#3465a4"><title>State Seal of New Hampshire (Fash.)</title></circle></a><circle cx="358.3" cy="93.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g55dr4lb3dp11w4db11lb3dr4g55k4~x2/"><circle cx="352.5" cy="92.0" r="4" fill="#3465a4"><title>Rollings Personal Tartan</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="355.6" cy="121.7" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.1" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.6" cy="129.2" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/"><circle cx="391.5" cy="78.1" r="4" fill="#3465a4"><title>Chapman-Smith, M &amp; L (Personal)</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.3" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.4" cy="60.2" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="353.2" cy="59.3" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/variants/s9/n3dy3r5dg10g3dg10k4dg24r3~x2~dg1806142-g2203152/"><circle cx="338.9" cy="175.7" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><circle cx="269.9" cy="131.0" r="4" fill="#3465a4"><title>State Seal of New Hampshire (Fash.)</title></circle></a><circle cx="358.4" cy="92.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g55r4n3dp11w4db11n3r4g55k4~x2/

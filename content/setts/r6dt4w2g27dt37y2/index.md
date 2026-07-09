@@ -1,5 +1,12 @@
 ---
 title: "Highlands of Durham (Corporate)"
-redirect: "/variants/s6/r6dt4w2g27dt37y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highlands of Durham (Corporate)](/variants/s6/r6dt4w2g27dt37y2~x2/).
+This is the **Highlands of Durham (Corporate)** sett — one scale-free proportion (`r6dt4w2g27dt37y2`), colour order pattern
+[GBGWBR](/stripes/gbgwbr/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Highlands of Durham (Corporate)](/variants/s6/r6dt4w2g27dt37y2~x2/) ★ | 2000 | ![Highlands of Durham (Corporate) sett](/variants/s6/r6dt4w2g27dt37y2~x2/sett.png) |

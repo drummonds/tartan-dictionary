@@ -1,5 +1,12 @@
 ---
 title: "Webb (Personal)"
-redirect: "/variants/s15/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Webb (Personal)](/variants/s15/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4~x2/).
+This is the **Webb (Personal)** sett — one scale-free proportion (`r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4`), colour order pattern
+[KBKGBWGKWKWKWRWKWKWKGWBGKBKR](/stripes/kbkgbwgkwkwkwrwkwkwkgwbgkbkr/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Webb (Personal)](/variants/s15/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4~x2/) ★ | 2001 | ![Webb (Personal) sett](/variants/s15/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4~x2/sett.png) |

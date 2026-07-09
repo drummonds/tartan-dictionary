@@ -572,7 +572,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Lords of Skye (Fashion?)](/variants/s4/k46dy7k8w20~x2/) | tartans-authority |
+| 0.06 | [Lords of Skye Trade Tartan](/variants/s4/k46dy7k8w20~x2/) | house-of-tartan |
 
 ### KRKW
 <a class="pat" href="/stripes/krkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KRKW</span></a>
@@ -642,7 +642,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [MacKinnon Hunting #2](/variants/s4/r1g8dy8w1~x2/) | register-of-tartans |
+| 0.08 | [MacKinnon Hunting (Var) Clan Tartan](/variants/s4/r1g8dy8w1~x2/) | house-of-tartan |
 
 ### RGWR
 <a class="pat" href="/stripes/rgwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGWR</span></a>

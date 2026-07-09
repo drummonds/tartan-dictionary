@@ -1,14 +1,16 @@
 ---
 title: "Chalk (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Chalk (Personal)"
-  url: ""
+  url: "/setts/db2w5db5g11w5dg12lb1dg2lb26dg2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2w5db5g11w5dg12lb1dg2lb26dg2db2/)
-(the same proportion at any scale), whose colour order is pattern [BGWGWGWGBWB](/stripes/bgwgwgwgbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db2w5db5g11w5dg12lb1dg2lb26dg2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWGWGWGBWB](/stripes/bgwgwgwgbwb/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.5" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/"><circle cx="191.9" cy="131.3" r="4" fill="#3465a4"><title>Chalk, Robert (Personal)</title></circle></a><a href="/variants/s14/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4~x2/"><circle cx="227.2" cy="126.0" r="4" fill="#3465a4"><title>State Seal of Oklahoma (Fashion)</title></circle></a><a href="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/"><circle cx="191.5" cy="178.2" r="4" fill="#3465a4"><title>Spirit of Pakistan, The</title></circle></a><a href="/variants/s14/n3w20dr1db1dr1db3dr4db2dr4db2dr4db1g8dy1~x4/"><circle cx="161.1" cy="106.4" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/variants/s11/db2w20r1y2dg8b4dg2b2dg2db20w2~x2/"><circle cx="143.0" cy="108.0" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.8" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t2105244/"><circle cx="203.2" cy="175.3" r="4" fill="#3465a4"><title>Blue Spruce, The</title></circle></a><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/"><circle cx="204.0" cy="175.8" r="4" fill="#3465a4"><title>Blue Spruce, The (Fashion)</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.9" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><circle cx="198.3" cy="140.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.5" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/"><circle cx="191.9" cy="131.2" r="4" fill="#3465a4"><title>Chalk, Robert (Personal)</title></circle></a><a href="/variants/s14/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4~x2/"><circle cx="227.2" cy="125.9" r="4" fill="#3465a4"><title>State Seal of Oklahoma (Fashion)</title></circle></a><a href="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/"><circle cx="191.5" cy="178.1" r="4" fill="#3465a4"><title>Spirit of Pakistan, The</title></circle></a><a href="/variants/s14/n3w20dr1db1dr1db3dr4db2dr4db2dr4db1g8dy1~x4/"><circle cx="161.1" cy="106.3" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/variants/s11/db2w20r1y2dg8b4dg2b2dg2db20w2~x2/"><circle cx="143.0" cy="107.9" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.5" cy="190.7" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t2105244/"><circle cx="203.2" cy="175.2" r="4" fill="#3465a4"><title>Blue Spruce, The</title></circle></a><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/"><circle cx="204.0" cy="175.7" r="4" fill="#3465a4"><title>Blue Spruce, The (Fashion)</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><circle cx="198.3" cy="140.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db2w5db5g11w5dg12lb1dg2lb26dg2db2~x2/

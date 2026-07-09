@@ -1,5 +1,12 @@
 ---
 title: "Unidentified #34"
-redirect: "/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified #34](/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/).
+This is the **Unidentified #34** sett — one scale-free proportion (`ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6`), colour order pattern
+[GRRGRBBRBRBBRGRBBR](/stripes/grrgrbbrbrbbrgrbbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified #34](/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/) ★ | ~2016 | ![Unidentified #34 sett](/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/sett.png) |

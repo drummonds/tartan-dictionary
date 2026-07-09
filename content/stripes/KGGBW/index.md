@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s5/k2dy1g10db10w1~x6/">Turnbull Hunting (1983) #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/k2dy1g10db10w1~x6/"><img src="/variants/s5/k2dy1g10db10w1~x6/sett.png" alt="Turnbull Hunting (1983) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k7y3g28db28w3~x2/">Turnbull, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k7y3g28db28w3~x2/"><img src="/variants/s5/k7y3g28db28w3~x2/sett.png" alt="Turnbull, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k7y3g28db28w3~x2/">Turnbull Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k7y3g28db28w3~x2/"><img src="/variants/s5/k7y3g28db28w3~x2/sett.png" alt="Turnbull Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

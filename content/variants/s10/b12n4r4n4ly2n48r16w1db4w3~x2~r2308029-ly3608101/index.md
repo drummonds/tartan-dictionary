@@ -1,16 +1,18 @@
 ---
 title: "Confederate Memorial"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Confederate Memorial"
   url: "/tartans/confederate-memorial/"
 - name: "Confederate Memorial"
-  url: ""
+  url: "/setts/b12n4r4n4ly2n48r16w1db4w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b12n4r4n4ly2n48r16w1db4w3/)
-(the same proportion at any scale), whose colour order is pattern [BBRBYBRWBW](/stripes/bbrbybrwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b12n4r4n4ly2n48r16w1db4w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBYBRWBW](/stripes/bbrbybrwbw/).
 
 Part of the [Confederate Memorial](/tartans/confederate-memorial/) tartan — the named design grouping this sett with its other cloths.
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb12n4r4n4ly2n56r18w1db4w3~x2/"><circle cx="399.3" cy="79.7" r="4" fill="#3465a4"><title>Confederate Memorial (Military)</title></circle></a><a href="/variants/s12/t12n4r4n4k2n56r18w1db4w3db4w1~x2~t2405244-r2109032-db1406275/"><circle cx="365.9" cy="58.0" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/"><circle cx="391.6" cy="82.2" r="4" fill="#3465a4"><title>Wattenhofer (2016)</title></circle></a><a href="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/"><circle cx="377.6" cy="126.4" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.4" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><circle cx="480.2" cy="69.6" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><a href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><circle cx="450.3" cy="110.0" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/variants/s12/o38lp4o8dy2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/"><circle cx="359.0" cy="118.6" r="4" fill="#3465a4"><title>Portree Check (District) Tartan</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/"><circle cx="343.9" cy="104.4" r="4" fill="#3465a4"><title>Barcelona English School</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/"><circle cx="343.9" cy="104.4" r="4" fill="#3465a4"><title>Barcelona English School (School)</title></circle></a><circle cx="399.3" cy="93.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb12n4r4n4ly2n56r18w1db4w3~x2/"><circle cx="399.3" cy="79.5" r="4" fill="#3465a4"><title>Confederate Memorial (Military)</title></circle></a><a href="/variants/s12/t12n4r4n4k2n56r18w1db4w3db4w1~x2~t2405244-r2109032-db1406275/"><circle cx="365.9" cy="57.8" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/"><circle cx="391.6" cy="82.0" r="4" fill="#3465a4"><title>Wattenhofer (2016)</title></circle></a><a href="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/"><circle cx="377.6" cy="126.3" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.3" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><circle cx="480.2" cy="69.4" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><a href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><circle cx="450.3" cy="109.9" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/variants/s12/o38lp4o8dy2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/"><circle cx="359.0" cy="118.4" r="4" fill="#3465a4"><title>Portree Check (District) Tartan</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/"><circle cx="343.9" cy="104.2" r="4" fill="#3465a4"><title>Barcelona English School</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/"><circle cx="343.9" cy="104.2" r="4" fill="#3465a4"><title>Barcelona English School (School)</title></circle></a><circle cx="399.3" cy="93.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/b12n4r4n4ly2n48r16w1db4w3~x2~r2308029-ly3608101/

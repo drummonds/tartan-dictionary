@@ -1,14 +1,16 @@
 ---
 title: "Gemmell Clan/Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gemmell Clan/Family Tartan"
-  url: ""
+  url: "/setts/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKBBBBBBBKGKGKBKBK](/stripes/bkbkbkgkgkbbbbbbbkgkgkbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKBBBBBBBKGKGKBKBK](/stripes/bkbkbkgkgkbbbbbbbkgkgkbkbk/).
 
 Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2001 Designed for Thomas Gemmell of Gemmell Tartans, Dumfri
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2001 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="142.3" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"><circle cx="89.3" cy="147.5" r="4" fill="#3465a4"><title>Fyvie</title></circle></a><a href="/variants/s28/k1t8k8g8k1w2k1g8k8t1k1t1k1t8k1t1k1t1k8g8k1y2k1g8k8t8k1t1~x2~w4000000/"><circle cx="103.5" cy="126.9" r="4" fill="#3465a4"><title>Campbell of Argyll #2</title></circle></a><a href="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/"><circle cx="89.8" cy="126.7" r="4" fill="#3465a4"><title>Stephenson Hunting #2</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/"><circle cx="105.6" cy="124.9" r="4" fill="#3465a4"><title>Campbell Argyll</title></circle></a><a href="/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/"><circle cx="108.3" cy="125.5" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s28/k8g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="112.0" cy="126.6" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan</title></circle></a><a href="/variants/s22/db12k2db3k2db3k16g8dr2g8k2w2g8dr2g8k16dr2db8dr3db2dr2db3w2~x2/"><circle cx="81.8" cy="141.0" r="4" fill="#3465a4"><title>Rankin (Dalgleish) #2</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1y2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/"><circle cx="111.4" cy="124.0" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><circle cx="63.3" cy="161.9" r="4" fill="#3465a4"><title>Keith</title></circle></a><circle cx="83.2" cy="136.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="142.1" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"><circle cx="89.3" cy="147.3" r="4" fill="#3465a4"><title>Fyvie</title></circle></a><a href="/variants/s28/k1t8k8g8k1w2k1g8k8t1k1t1k1t8k1t1k1t1k8g8k1y2k1g8k8t8k1t1~x2~w4000000/"><circle cx="103.5" cy="126.8" r="4" fill="#3465a4"><title>Campbell of Argyll #2</title></circle></a><a href="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/"><circle cx="89.8" cy="126.5" r="4" fill="#3465a4"><title>Stephenson Hunting #2</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/"><circle cx="105.6" cy="124.7" r="4" fill="#3465a4"><title>Campbell Argyll</title></circle></a><a href="/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/"><circle cx="108.3" cy="125.3" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s28/k8g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="112.0" cy="126.5" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan</title></circle></a><a href="/variants/s22/db12k2db3k2db3k16g8dr2g8k2w2g8dr2g8k16dr2db8dr3db2dr2db3w2~x2/"><circle cx="81.8" cy="140.9" r="4" fill="#3465a4"><title>Rankin (Dalgleish) #2</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1y2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/"><circle cx="111.4" cy="123.8" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><circle cx="63.3" cy="161.8" r="4" fill="#3465a4"><title>Keith</title></circle></a><circle cx="83.2" cy="136.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1~x4~t2405244/

@@ -1,16 +1,18 @@
 ---
 title: "Longniddry, Green"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Longniddry"
   url: "/tartans/longniddry/"
 - name: "Longniddry, Green"
-  url: ""
+  url: "/setts/g42b2w2b2g5dg12w32g4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g42b2w2b2g5dg12w32g4/)
-(the same proportion at any scale), whose colour order is pattern [GBWBGGWG](/stripes/gbwbggwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g42b2w2b2g5dg12w32g4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBWBGGWG](/stripes/gbwbggwg/).
 
 Part of the [Longniddry](/tartans/longniddry/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dgi42g2w2g2dgi5dg12w32dgi4~x2~dgi1806142-g2408144/"><circle cx="299.2" cy="164.4" r="4" fill="#3465a4"><title>Longniddry Green District Tartan</title></circle></a><a href="/variants/s8/dg42g2w2g2dg5dt12w32dg4~x2~dg1806142-g2408144/"><circle cx="298.8" cy="164.0" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/variants/s8/g42y1w2y1g5dg12w32g4~x2/"><circle cx="337.4" cy="140.1" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/variants/s10/ly4g4db2g29w1db12g2ly16g4db2~x2/"><circle cx="330.3" cy="156.6" r="4" fill="#3465a4"><title>Unidentified (Pahls)</title></circle></a><a href="/variants/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="278.6" cy="170.1" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/variants/s6/db4w2db1w36g21y4~x2/"><circle cx="356.1" cy="156.4" r="4" fill="#3465a4"><title>Skye, Green (Dance)</title></circle></a><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><circle cx="290.7" cy="147.3" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/variants/s13/g2w10g3ly4g3ly4g24w2g4w4g1lo4g1~x2/"><circle cx="357.6" cy="152.5" r="4" fill="#3465a4"><title>McGill (Personal)</title></circle></a><a href="/variants/s7/db4g3db2g19lb24g1lb2~x2/"><circle cx="362.2" cy="194.9" r="4" fill="#3465a4"><title>Unidentified #6</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><circle cx="306.6" cy="168.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dgi42g2w2g2dgi5dg12w32dgi4~x2~dgi1806142-g2408144/"><circle cx="299.2" cy="164.3" r="4" fill="#3465a4"><title>Longniddry Green District Tartan</title></circle></a><a href="/variants/s8/dg42g2w2g2dg5dt12w32dg4~x2~dg1806142-g2408144/"><circle cx="298.8" cy="163.9" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/variants/s8/g42y1w2y1g5dg12w32g4~x2/"><circle cx="337.4" cy="140.0" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/variants/s10/ly4g4db2g29w1db12g2ly16g4db2~x2/"><circle cx="330.3" cy="156.5" r="4" fill="#3465a4"><title>Unidentified (Pahls)</title></circle></a><a href="/variants/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="278.6" cy="170.0" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/variants/s6/db4w2db1w36g21y4~x2/"><circle cx="356.1" cy="156.3" r="4" fill="#3465a4"><title>Skye, Green (Dance)</title></circle></a><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><circle cx="290.8" cy="147.2" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/variants/s13/g2w10g3ly4g3ly4g24w2g4w4g1lo4g1~x2/"><circle cx="357.6" cy="152.4" r="4" fill="#3465a4"><title>McGill (Personal)</title></circle></a><a href="/variants/s7/db4g3db2g19lb24g1lb2~x2/"><circle cx="362.2" cy="194.8" r="4" fill="#3465a4"><title>Unidentified #6</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><circle cx="306.6" cy="168.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g42b2w2b2g5dg12w32g4~x2/

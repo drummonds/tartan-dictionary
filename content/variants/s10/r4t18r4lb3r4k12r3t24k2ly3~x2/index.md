@@ -1,14 +1,16 @@
 ---
 title: "Keogh (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Keogh (Name)"
-  url: ""
+  url: "/setts/r4t18r4lb3r4k12r3t24k2ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4t18r4lb3r4k12r3t24k2ly3/)
-(the same proportion at any scale), whose colour order is pattern [RBRWRKRBKY](/stripes/rbrwrkrbky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4t18r4lb3r4k12r3t24k2ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRWRKRBKY](/stripes/rbrwrkrbky/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.5" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/variants/s7/dy4t17k11r17t27k2w3~x2/"><circle cx="218.8" cy="167.7" r="4" fill="#3465a4"><title>MacNamara</title></circle></a><a href="/variants/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="200.3" cy="139.6" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/variants/s11/lb3k1lb1db4lb10r2k8db2lb1k1lb3~x2/"><circle cx="164.9" cy="142.8" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/"><circle cx="270.3" cy="134.9" r="4" fill="#3465a4"><title>Bute Heather, Grey (Fashion)</title></circle></a><a href="/variants/s9/r3t22r3t3k14t14lb3t3w2~x2/"><circle cx="269.7" cy="153.3" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.1" cy="146.5" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><a href="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/"><circle cx="216.4" cy="160.8" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="209.0" cy="131.7" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><circle cx="220.2" cy="140.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.4" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/variants/s7/dy4t17k11r17t27k2w3~x2/"><circle cx="218.9" cy="167.6" r="4" fill="#3465a4"><title>MacNamara</title></circle></a><a href="/variants/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="200.3" cy="139.5" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/variants/s11/lb3k1lb1db4lb10r2k8db2lb1k1lb3~x2/"><circle cx="164.9" cy="142.7" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/"><circle cx="270.3" cy="134.8" r="4" fill="#3465a4"><title>Bute Heather, Grey (Fashion)</title></circle></a><a href="/variants/s9/r3t22r3t3k14t14lb3t3w2~x2/"><circle cx="269.7" cy="153.2" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.1" cy="146.4" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><a href="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/"><circle cx="216.4" cy="160.7" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.1" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="209.0" cy="131.5" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><circle cx="220.2" cy="140.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/

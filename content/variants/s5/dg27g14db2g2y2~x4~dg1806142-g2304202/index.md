@@ -1,6 +1,7 @@
 ---
 title: "Irving of Bonshaw"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Irving of Bonshaw"
   url: "/tartans/irving-of-bonshaw/"
 - name: "Irving of Bonshaw"
-  url: ""
+  url: "/setts/dg27g14db2g2y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg27g14db2g2y2/)
-(the same proportion at any scale), whose colour order is pattern [GGBGG](/stripes/ggbgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg27g14db2g2y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGG](/stripes/ggbgg/).
 
 Part of the [Irving of Bonshaw](/tartans/irving-of-bonshaw/) tartan — the named design grouping this sett with its other cloths.
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg27g14db2g2ly2~x4~dg1806142-g2304202/"><circle cx="490.6" cy="259.5" r="4" fill="#3465a4"><title>Irving of Bonshaw (Clan)</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2y3~x2~dg1806142-g2408144/"><circle cx="461.2" cy="243.2" r="4" fill="#3465a4"><title>Galloway Green (yellow line)</title></circle></a><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/"><circle cx="461.1" cy="290.7" r="4" fill="#3465a4"><title>Emerald, The</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="418.3" cy="295.6" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/variants/s5/g27t14db2t2y2~x4/"><circle cx="514.8" cy="270.0" r="4" fill="#3465a4"><title>Irving of Bonshaw Clan/Family Tartan</title></circle></a><a href="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/"><circle cx="585.4" cy="312.4" r="4" fill="#3465a4"><title>Celtic 2009 (Sports)</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="557.9" cy="288.6" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/"><circle cx="533.4" cy="252.4" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/variants/s4/y9g52dg15ly4~x2~y2202111-ly3005093/"><circle cx="497.6" cy="268.7" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife Name Tartan</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="394.8" cy="280.2" r="4" fill="#3465a4"><title>Pendlebury, Andrew (Personal)</title></circle></a><circle cx="536.5" cy="275.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg27g14db2g2ly2~x4~dg1806142-g2304202/"><circle cx="490.6" cy="259.5" r="4" fill="#3465a4"><title>Irving of Bonshaw (Clan)</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2y3~x2~dg1806142-g2408144/"><circle cx="461.2" cy="243.2" r="4" fill="#3465a4"><title>Galloway Green (yellow line)</title></circle></a><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/"><circle cx="461.1" cy="290.7" r="4" fill="#3465a4"><title>Emerald, The</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="418.4" cy="295.6" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/variants/s5/g27t14db2t2y2~x4/"><circle cx="514.8" cy="270.0" r="4" fill="#3465a4"><title>Irving of Bonshaw Clan/Family Tartan</title></circle></a><a href="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/"><circle cx="585.5" cy="312.4" r="4" fill="#3465a4"><title>Celtic 2009 (Sports)</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="557.9" cy="288.6" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/"><circle cx="533.5" cy="252.4" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/variants/s4/y9g52dg15ly4~x2~y2202111-ly3005093/"><circle cx="497.7" cy="268.7" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife Name Tartan</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="394.9" cy="280.1" r="4" fill="#3465a4"><title>Pendlebury, Andrew (Personal)</title></circle></a><circle cx="536.5" cy="275.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dg27g14db2g2y2~x4~dg1806142-g2304202/

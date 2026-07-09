@@ -1,6 +1,7 @@
 ---
 title: "Robertson of Struan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Robertson of Struan"
   url: "/tartans/robertson-of-struan/"
 - name: "Robertson of Struan"
-  url: ""
+  url: "/setts/r6db2r2db21g20r4g4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6db2r2db21g20r4g4/)
-(the same proportion at any scale), whose colour order is pattern [GRGBRBR](/stripes/grgbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r6db2r2db21g20r4g4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGBRBR](/stripes/grgbrbr/).
 
 Part of the [Robertson of Struan](/tartans/robertson-of-struan/) tartan — the named design grouping this sett with its other cloths.
 
@@ -92,6 +94,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="283.8" cy="212.3" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.3" cy="250.8" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s6/db2r24g24r1db24r2~x2/"><circle cx="260.9" cy="193.0" r="4" fill="#3465a4"><title>Mar Dress</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2~x2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.2" cy="238.3" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><circle cx="259.0" cy="216.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="283.8" cy="212.2" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.3" cy="250.7" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s6/db2r24g24r1db24r2~x2/"><circle cx="260.9" cy="192.9" r="4" fill="#3465a4"><title>Mar Dress</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2~x2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.2" cy="238.3" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><circle cx="259.0" cy="216.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r6db2r2db21g20r4g4~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Corstorphine Trial A"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Corstorphine Trial A"
-  url: ""
+  url: "/setts/k6y2g18w3g13k3y4k3db18w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6y2g18w3g13k3y4k3db18w3/)
-(the same proportion at any scale), whose colour order is pattern [KGGWGKGKBW](/stripes/kggwgkgkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k6y2g18w3g13k3y4k3db18w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGGWGKGKBW](/stripes/kggwgkgkbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.2" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="143.9" cy="175.6" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><a href="/variants/s10/g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090/"><circle cx="130.1" cy="178.8" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.5" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.7" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><circle cx="106.6" cy="169.2" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="146.0" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/"><circle cx="92.5" cy="146.6" r="4" fill="#3465a4"><title>Lotus Elan (Corporate)</title></circle></a><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="152.0" cy="165.4" r="4" fill="#3465a4"><title>Scott #2</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/"><circle cx="155.7" cy="147.2" r="4" fill="#3465a4"><title>Skene</title></circle></a><circle cx="130.1" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.1" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="143.9" cy="175.5" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><a href="/variants/s10/g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090/"><circle cx="130.1" cy="178.7" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.4" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.6" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><circle cx="106.6" cy="169.1" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="145.9" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/"><circle cx="92.5" cy="146.4" r="4" fill="#3465a4"><title>Lotus Elan (Corporate)</title></circle></a><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="152.0" cy="165.3" r="4" fill="#3465a4"><title>Scott #2</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/"><circle cx="155.7" cy="147.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><circle cx="130.1" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Turnberry, Manx Snaefell"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Turnberry, Manx Snaefell"
-  url: ""
+  url: "/setts/o22do2o2do2o2do15w17do3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o22do2o2do2o2do15w17do3/)
-(the same proportion at any scale), whose colour order is pattern [BWBRBRBR](/stripes/bwbrbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o22do2o2do2o2do15w17do3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBRBRBR](/stripes/bwbrbrbr/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20db2g2db2g2db8r24db2r3/"><circle cx="277.4" cy="183.8" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8r24db2r3~x2/"><circle cx="277.4" cy="183.8" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/"><circle cx="259.7" cy="186.8" r="4" fill="#3465a4"><title>McGlynn</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.8" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.8" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/"><circle cx="175.2" cy="210.4" r="4" fill="#3465a4"><title>Prince George</title></circle></a><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><circle cx="196.8" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.7" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.8" r="4" fill="#3465a4"><title>Karibu</title></circle></a><circle cx="235.7" cy="196.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20db2g2db2g2db8r24db2r3/"><circle cx="277.4" cy="183.7" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8r24db2r3~x2/"><circle cx="277.4" cy="183.7" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/"><circle cx="259.7" cy="186.7" r="4" fill="#3465a4"><title>McGlynn</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.7" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.8" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.8" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/"><circle cx="175.2" cy="210.3" r="4" fill="#3465a4"><title>Prince George</title></circle></a><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><circle cx="196.8" cy="170.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.6" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.7" r="4" fill="#3465a4"><title>Karibu</title></circle></a><circle cx="235.7" cy="196.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/o22do2o2do2o2do15w17do3~x2/

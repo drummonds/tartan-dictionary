@@ -1,5 +1,12 @@
 ---
 title: "Letang Family (Neuilly sur Seine, France) (Personal)"
-redirect: "/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Letang Family (Neuilly sur Seine, France) (Personal)](/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/).
+This is the **Letang Family (Neuilly sur Seine, France) (Personal)** sett — one scale-free proportion (`b14db2y2db2b25k6w17r3w3r3w3r3w3r3`), colour order pattern
+[BBGBBKWRWRWRWR](/stripes/bbgbbkwrwrwrwr/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Letang Family (Neuilly sur Seine, France) (Personal)](/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/) ★ | 2011 | ![Letang Family (Neuilly sur Seine, France) (Personal) sett](/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/sett.png) |

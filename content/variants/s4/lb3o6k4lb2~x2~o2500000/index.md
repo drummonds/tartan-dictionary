@@ -1,14 +1,16 @@
 ---
 title: "Bedford Check"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bedford Check"
-  url: ""
+  url: "/setts/lb3o6k4lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb3o6k4lb2/)
-(the same proportion at any scale), whose colour order is pattern [WKRW](/stripes/wkrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb3o6k4lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKRW](/stripes/wkrw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -22,7 +24,7 @@ Earliest known date: pre 2003 Count from woven sample.
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Bedford Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=240">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Threadcount taken by STA from woven sample.</em></li>
-<li>undated — Bedford Check Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6007">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span></li>
+<li>pre 2003 — Bedford Check Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6007">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span></li>
 </ul>
 </details>
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb3n6k4lb2~x2/"><circle cx="130.4" cy="318.0" r="4" fill="#3465a4"><title>Bedford Check (Fashion)</title></circle></a><a href="/variants/s4/n12k8db15w8~x2/"><circle cx="41.5" cy="342.5" r="4" fill="#3465a4"><title>Equity Vision Ltd</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="170.1" cy="231.5" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.8" cy="248.5" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2/"><circle cx="206.6" cy="261.6" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2~db1406275/"><circle cx="181.1" cy="244.6" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.6" cy="273.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s3/r4k7lb4~x2/"><circle cx="119.9" cy="351.3" r="4" fill="#3465a4"><title>Wilson's, No 198</title></circle></a><a href="/variants/s3/r4k7lb4~x2~r2109032/"><circle cx="120.2" cy="351.8" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><circle cx="121.7" cy="313.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb3n6k4lb2~x2/"><circle cx="130.4" cy="318.0" r="4" fill="#3465a4"><title>Bedford Check (Fashion)</title></circle></a><a href="/variants/s4/n12k8db15w8~x2/"><circle cx="41.5" cy="342.6" r="4" fill="#3465a4"><title>Equity Vision Ltd</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="170.1" cy="231.5" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.9" cy="248.5" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2/"><circle cx="206.6" cy="261.6" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2~db1406275/"><circle cx="181.1" cy="244.6" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.6" cy="273.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s3/r4k7lb4~x2/"><circle cx="119.9" cy="351.4" r="4" fill="#3465a4"><title>Wilson's, No 198</title></circle></a><a href="/variants/s3/r4k7lb4~x2~r2109032/"><circle cx="120.2" cy="351.8" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><circle cx="121.8" cy="313.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/lb3o6k4lb2~x2~o2500000/

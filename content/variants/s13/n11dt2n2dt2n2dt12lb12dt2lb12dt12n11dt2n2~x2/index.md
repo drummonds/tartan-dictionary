@@ -1,14 +1,16 @@
 ---
 title: "Scottish Scouts (1922) (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Scouts (1922) (Corporate)"
-  url: ""
+  url: "/setts/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w25g8w8g8w8g46lb46y8lb46g46w46g8w8/"><circle cx="216.0" cy="247.9" r="4" fill="#3465a4"><title>Poulter SG 096 (Fashion)</title></circle></a><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><circle cx="145.7" cy="227.2" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/"><circle cx="146.4" cy="236.2" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><circle cx="210.1" cy="253.4" r="4" fill="#3465a4"><title>Grey Watch Dress (1989)</title></circle></a><a href="/variants/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/"><circle cx="259.7" cy="244.4" r="4" fill="#3465a4"><title>Hebron</title></circle></a><a href="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/"><circle cx="357.2" cy="215.2" r="4" fill="#3465a4"><title>Salem Scottish Dancers (Dance) #2</title></circle></a><a href="/variants/s13/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4~x2/"><circle cx="223.2" cy="249.0" r="4" fill="#3465a4"><title>Poulter, Blue (Corprate)</title></circle></a><a href="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/"><circle cx="214.7" cy="279.6" r="4" fill="#3465a4"><title>Norwich No.029</title></circle></a><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.2" cy="260.8" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/"><circle cx="265.9" cy="244.7" r="4" fill="#3465a4"><title>Chindecella Gorse (Personal)</title></circle></a><circle cx="256.6" cy="263.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w25g8w8g8w8g46lb46y8lb46g46w46g8w8/"><circle cx="216.0" cy="247.8" r="4" fill="#3465a4"><title>Poulter SG 096 (Fashion)</title></circle></a><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><circle cx="145.7" cy="227.1" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/"><circle cx="146.4" cy="236.1" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><circle cx="210.1" cy="253.3" r="4" fill="#3465a4"><title>Grey Watch Dress (1989)</title></circle></a><a href="/variants/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/"><circle cx="259.7" cy="244.3" r="4" fill="#3465a4"><title>Hebron</title></circle></a><a href="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/"><circle cx="357.2" cy="215.2" r="4" fill="#3465a4"><title>Salem Scottish Dancers (Dance) #2</title></circle></a><a href="/variants/s13/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4~x2/"><circle cx="223.2" cy="248.9" r="4" fill="#3465a4"><title>Poulter, Blue (Corprate)</title></circle></a><a href="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/"><circle cx="214.7" cy="279.6" r="4" fill="#3465a4"><title>Norwich No.029</title></circle></a><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.3" cy="260.8" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/"><circle cx="266.0" cy="244.7" r="4" fill="#3465a4"><title>Chindecella Gorse (Personal)</title></circle></a><circle cx="256.6" cy="262.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/

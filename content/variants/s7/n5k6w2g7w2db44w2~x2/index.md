@@ -1,14 +1,16 @@
 ---
 title: "Leblant-Macqueron (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Leblant-Macqueron (Personal)"
-  url: ""
+  url: "/setts/n5k6w2g7w2db44w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n5k6w2g7w2db44w2/)
-(the same proportion at any scale), whose colour order is pattern [BKWGWBW](/stripes/bkwgwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n5k6w2g7w2db44w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWGWBW](/stripes/bkwgwbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.3" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.4" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.8" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.1" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.8" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.5" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s6/r2db61k13w2n20ly2~x2/"><circle cx="341.5" cy="104.8" r="4" fill="#3465a4"><title>Lloyd of Astargus</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/"><circle cx="379.9" cy="107.5" r="4" fill="#3465a4"><title>Fife Flyers</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.0" cy="94.6" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><circle cx="344.0" cy="107.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.0" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.6" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.3" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s6/r2db61k13w2n20ly2~x2/"><circle cx="341.5" cy="104.6" r="4" fill="#3465a4"><title>Lloyd of Astargus</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/"><circle cx="380.0" cy="107.4" r="4" fill="#3465a4"><title>Fife Flyers</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.0" cy="94.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><circle cx="344.0" cy="107.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n5k6w2g7w2db44w2~x2/

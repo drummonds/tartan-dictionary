@@ -1,14 +1,16 @@
 ---
 title: "Shaw"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Shaw"
   url: "/setts/g24k2db3k2db8r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g24k2db3k2db8r2/)
-(the same proportion at any scale), whose colour order is pattern [GKBKBRBKBK](/stripes/gkbkbrbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g24k2db3k2db8r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBKBRBKBK](/stripes/gkbkbrbkbk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="208.7" cy="159.6" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.6" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="189.0" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="175.7" cy="160.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="188.7" cy="143.6" r="4" fill="#3465a4"><title>Sardar Chadha (Personal)</title></circle></a><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="185.4" cy="137.7" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.5" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.9" cy="187.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.9" cy="187.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="166.3" cy="161.6" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><circle cx="224.5" cy="151.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="208.7" cy="159.5" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.5" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="188.9" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="175.7" cy="160.7" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="188.7" cy="143.5" r="4" fill="#3465a4"><title>Sardar Chadha (Personal)</title></circle></a><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="185.4" cy="137.6" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.4" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.9" cy="187.3" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.9" cy="187.3" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="166.3" cy="161.5" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><circle cx="224.5" cy="150.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g24k2db3k2db8r2~x2~db1406275/

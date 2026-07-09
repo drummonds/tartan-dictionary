@@ -1,14 +1,16 @@
 ---
 title: "Stewart, Silk"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stewart, Silk"
-  url: ""
+  url: "/setts/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2/)
-(the same proportion at any scale), whose colour order is pattern [BWBWWBGWGWBWRWRWBWBBWWWB](/stripes/bwbwwbgwgwbwrwrwbwbbwwwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWWBGWGWBWRWRWBWBBWWWB](/stripes/bwbwwbgwgwbwrwrwbwbbwwwb/).
 
 Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-r1706009/"><circle cx="169.2" cy="55.6" r="4" fill="#3465a4"><title>Alabama (Provisional) (District)</title></circle></a><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/"><circle cx="180.7" cy="60.4" r="4" fill="#3465a4"><title>Alabama (Provisional)</title></circle></a><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/"><circle cx="183.2" cy="127.8" r="4" fill="#3465a4"><title>Ryder Cup, The</title></circle></a><a href="/variants/s17/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17~x2/"><circle cx="192.2" cy="109.1" r="4" fill="#3465a4"><title>Spens, Fragment</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/"><circle cx="217.3" cy="110.4" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/variants/s14/db48w3db4w3db3t16g2t5g3t4g4t3g5dy2~x2~db1106275/"><circle cx="235.5" cy="89.9" r="4" fill="#3465a4"><title>St. Andrews</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/"><circle cx="236.7" cy="118.6" r="4" fill="#3465a4"><title>Greenshields Family Tartan</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.8" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><circle cx="175.7" cy="71.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-r1706009/"><circle cx="169.2" cy="55.4" r="4" fill="#3465a4"><title>Alabama (Provisional) (District)</title></circle></a><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/"><circle cx="180.7" cy="60.2" r="4" fill="#3465a4"><title>Alabama (Provisional)</title></circle></a><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/"><circle cx="183.2" cy="127.7" r="4" fill="#3465a4"><title>Ryder Cup, The</title></circle></a><a href="/variants/s17/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17~x2/"><circle cx="192.2" cy="108.9" r="4" fill="#3465a4"><title>Spens, Fragment</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/"><circle cx="217.3" cy="110.2" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/variants/s14/db48w3db4w3db3t16g2t5g3t4g4t3g5dy2~x2~db1106275/"><circle cx="235.5" cy="89.7" r="4" fill="#3465a4"><title>St. Andrews</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/"><circle cx="236.7" cy="118.5" r="4" fill="#3465a4"><title>Greenshields Family Tartan</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.6" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><circle cx="175.7" cy="71.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/

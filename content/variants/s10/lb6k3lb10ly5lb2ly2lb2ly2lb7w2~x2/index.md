@@ -1,14 +1,16 @@
 ---
 title: "Digital Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Digital Corporate Tartan"
-  url: ""
+  url: "/setts/lb6k3lb10ly5lb2ly2lb2ly2lb7w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6k3lb10ly5lb2ly2lb2ly2lb7w2/)
-(the same proportion at any scale), whose colour order is pattern [WKWYWYWYWW](/stripes/wkwywywyww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb6k3lb10ly5lb2ly2lb2ly2lb7w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWYWYWYWW](/stripes/wkwywywyww/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1991 Designed in Company colours.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1991 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/"><circle cx="378.7" cy="193.3" r="4" fill="#3465a4"><title>London Fog Blue 2 (Fashion)</title></circle></a><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/"><circle cx="239.1" cy="205.6" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan</title></circle></a><a href="/variants/s7/db1w4r1w1y1w4db1~x12/"><circle cx="319.3" cy="245.8" r="4" fill="#3465a4"><title>Justus dress</title></circle></a><a href="/variants/s8/w12db2w12o17w12db2w5r2~x4/"><circle cx="324.5" cy="220.9" r="4" fill="#3465a4"><title>Milne Purple Dress (Dance)</title></circle></a><a href="/variants/s8/w12r2w12g17w12r2w5b2~x4/"><circle cx="328.0" cy="227.6" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/variants/s14/w5db2w12o17w12db2w12db2w12o17w12db2w5r2~x4~r2109032/"><circle cx="295.9" cy="199.7" r="4" fill="#3465a4"><title>Milne Purple Dress Tartan</title></circle></a><circle cx="299.7" cy="230.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/"><circle cx="378.7" cy="193.2" r="4" fill="#3465a4"><title>London Fog Blue 2 (Fashion)</title></circle></a><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/"><circle cx="239.1" cy="205.5" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan</title></circle></a><a href="/variants/s7/db1w4r1w1y1w4db1~x12/"><circle cx="319.3" cy="245.7" r="4" fill="#3465a4"><title>Justus dress</title></circle></a><a href="/variants/s8/w12db2w12o17w12db2w5r2~x4/"><circle cx="324.5" cy="220.8" r="4" fill="#3465a4"><title>Milne Purple Dress (Dance)</title></circle></a><a href="/variants/s8/w12r2w12g17w12r2w5b2~x4/"><circle cx="328.0" cy="227.6" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/variants/s14/w5db2w12o17w12db2w12db2w12o17w12db2w5r2~x4~r2109032/"><circle cx="295.9" cy="199.6" r="4" fill="#3465a4"><title>Milne Purple Dress Tartan</title></circle></a><circle cx="299.7" cy="230.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lb6k3lb10ly5lb2ly2lb2ly2lb7w2~x2/

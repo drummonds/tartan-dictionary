@@ -1,14 +1,16 @@
 ---
 title: "City of Barrie"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Barrie"
-  url: ""
+  url: "/setts/t50r3t4k8n4k2y3k2r12w2r4t4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t50r3t4k8n4k2y3k2r12w2r4t4/)
-(the same proportion at any scale), whose colour order is pattern [BRBKBKGKRWRB](/stripes/brbkbkgkrwrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t50r3t4k8n4k2y3k2r12w2r4t4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKBKGKRWRB](/stripes/brbkbkgkrwrb/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.4" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.6" cy="71.3" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.4" cy="44.7" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s9/n55db8w8db8g5n8y4w4k4~x2/"><circle cx="295.3" cy="114.3" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s11/dr2dg20y1dg1k2lb1y1lb22w1lb1w1~x4/"><circle cx="219.0" cy="69.5" r="4" fill="#3465a4"><title>Unidentified (Tony Murray Collection</title></circle></a><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/"><circle cx="303.2" cy="64.7" r="4" fill="#3465a4"><title>The Trew 40th</title></circle></a><a href="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/"><circle cx="290.3" cy="73.2" r="4" fill="#3465a4"><title>Blue Dunnett (Fashion)</title></circle></a><a href="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/"><circle cx="349.5" cy="60.4" r="4" fill="#3465a4"><title>Laing (Clan)</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.2" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="221.8" cy="82.4" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><circle cx="292.7" cy="61.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.2" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.6" cy="71.1" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.4" cy="44.5" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s9/n55db8w8db8g5n8y4w4k4~x2/"><circle cx="295.3" cy="114.2" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s11/dr2dg20y1dg1k2lb1y1lb22w1lb1w1~x4/"><circle cx="219.0" cy="69.3" r="4" fill="#3465a4"><title>Unidentified (Tony Murray Collection</title></circle></a><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/"><circle cx="303.2" cy="64.5" r="4" fill="#3465a4"><title>The Trew 40th</title></circle></a><a href="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/"><circle cx="290.3" cy="73.0" r="4" fill="#3465a4"><title>Blue Dunnett (Fashion)</title></circle></a><a href="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/"><circle cx="349.5" cy="60.2" r="4" fill="#3465a4"><title>Laing (Clan)</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.1" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="221.8" cy="82.3" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><circle cx="292.7" cy="61.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/

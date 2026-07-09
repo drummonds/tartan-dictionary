@@ -1,16 +1,18 @@
 ---
 title: "Dogwood Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dogwood"
   url: "/tartans/dogwood/"
 - name: "Dogwood Trade Tartan"
-  url: ""
+  url: "/setts/g3dr12g12ly5dr1w25g2dr1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3dr12g12ly5dr1w25g2dr1/)
-(the same proportion at any scale), whose colour order is pattern [BGWBYGBG](/stripes/bgwbygbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g3dr12g12ly5dr1w25g2dr1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWBYGBG](/stripes/bgwbygbg/).
 
 Part of the [Dogwood](/tartans/dogwood/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddie
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1968 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/"><circle cx="253.7" cy="157.7" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="150.0" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.6" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/"><circle cx="221.7" cy="187.8" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/variants/s9/dr6w1dr2w25dr3g12dr3g12dr3~x2/"><circle cx="260.5" cy="178.0" r="4" fill="#3465a4"><title>Crawford Arisaid (Dance)</title></circle></a><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><circle cx="244.6" cy="151.0" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><circle cx="290.7" cy="147.3" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.8" cy="198.3" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><circle cx="244.3" cy="165.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/"><circle cx="253.7" cy="157.6" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="149.9" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.5" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/"><circle cx="221.7" cy="187.7" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/variants/s9/dr6w1dr2w25dr3g12dr3g12dr3~x2/"><circle cx="260.5" cy="177.9" r="4" fill="#3465a4"><title>Crawford Arisaid (Dance)</title></circle></a><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><circle cx="244.6" cy="150.9" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><circle cx="290.8" cy="147.2" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.8" cy="198.3" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><circle cx="244.3" cy="165.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/

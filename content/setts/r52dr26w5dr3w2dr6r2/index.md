@@ -1,5 +1,12 @@
 ---
 title: "St. Andrews School (Delaware) (Corp)"
-redirect: "/variants/s7/r52dr26w5dr3w2dr6r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Andrews School (Delaware) (Corp)](/variants/s7/r52dr26w5dr3w2dr6r2~x2/).
+This is the **St. Andrews School (Delaware) (Corp)** sett — one scale-free proportion (`r52dr26w5dr3w2dr6r2`), colour order pattern
+[RBWBWBR](/stripes/rbwbwbr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [St. Andrews School (Delaware) (Corp)](/variants/s7/r52dr26w5dr3w2dr6r2~x2/) ★ | 2008 | ![St. Andrews School (Delaware) (Corp) sett](/variants/s7/r52dr26w5dr3w2dr6r2~x2/sett.png) |

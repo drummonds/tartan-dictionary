@@ -1,16 +1,18 @@
 ---
 title: "Spirit of Bannockburn Fashion Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Bannockburn"
   url: "/tartans/spirit-of-bannockburn/"
 - name: "Spirit of Bannockburn Fashion Tartan"
-  url: ""
+  url: "/setts/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2/)
-(the same proportion at any scale), whose colour order is pattern [BBBGBKBKBKBWBKBKBKBGBBBK](/stripes/bbbgbkbkbkbwbkbkbkbgbbbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBGBKBKBKBWBKBKBKBGBBBK](/stripes/bbbgbkbkbkbwbkbkbkbgbbbk/).
 
 Part of the [Spirit of Bannockburn](/tartans/spirit-of-bannockburn/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2000 Designed by Lochcarron of Scotland for ACS Clothing of
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2000 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/dp4o4dp3g20dp5k4dp3k7dp3k3db35w2db35k3dp3k7dp3k4dp5g20dp3o4dp4k2~x2/"><circle cx="147.6" cy="76.5" r="4" fill="#3465a4"><title>Spirit of Bannockburn</title></circle></a><a href="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/"><circle cx="227.8" cy="104.8" r="4" fill="#3465a4"><title>Davies of Wales</title></circle></a><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/"><circle cx="183.0" cy="121.4" r="4" fill="#3465a4"><title>Empire Golf Check (Fashion)</title></circle></a><a href="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db1106275-dbi1406275/"><circle cx="265.2" cy="154.1" r="4" fill="#3465a4"><title>LS Curling</title></circle></a><a href="/variants/s14/k16lb6dbi12db4dp4db4dbi35db40dbi4db4dbi4db6dp4o6~dbi1406275-db1404245/"><circle cx="226.5" cy="148.4" r="4" fill="#3465a4"><title>Benedictus Blue (Personal)</title></circle></a><a href="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/"><circle cx="241.4" cy="69.3" r="4" fill="#3465a4"><title>Highland Pride of Scotland</title></circle></a><a href="/variants/s13/g2k3db30k2db4k2db30k3dg30k3dbi30k2lb2~g2203152-db1106275-dg1806142-dbi1204274/"><circle cx="235.9" cy="122.8" r="4" fill="#3465a4"><title>Davies (Welsh Name)</title></circle></a><a href="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/"><circle cx="202.9" cy="122.1" r="4" fill="#3465a4"><title>Bro-Vigouden (Corporate)</title></circle></a><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/"><circle cx="218.8" cy="74.9" r="4" fill="#3465a4"><title>Scotland 1782</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.3" cy="130.9" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><circle cx="220.4" cy="100.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/dp4o4dp3g20dp5k4dp3k7dp3k3db35w2db35k3dp3k7dp3k4dp5g20dp3o4dp4k2~x2/"><circle cx="147.6" cy="76.3" r="4" fill="#3465a4"><title>Spirit of Bannockburn</title></circle></a><a href="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/"><circle cx="227.8" cy="104.6" r="4" fill="#3465a4"><title>Davies of Wales</title></circle></a><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/"><circle cx="183.1" cy="121.2" r="4" fill="#3465a4"><title>Empire Golf Check (Fashion)</title></circle></a><a href="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db1106275-dbi1406275/"><circle cx="265.2" cy="154.0" r="4" fill="#3465a4"><title>LS Curling</title></circle></a><a href="/variants/s14/k16lb6dbi12db4dp4db4dbi35db40dbi4db4dbi4db6dp4o6~dbi1406275-db1404245/"><circle cx="226.6" cy="148.3" r="4" fill="#3465a4"><title>Benedictus Blue (Personal)</title></circle></a><a href="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/"><circle cx="241.4" cy="69.1" r="4" fill="#3465a4"><title>Highland Pride of Scotland</title></circle></a><a href="/variants/s13/g2k3db30k2db4k2db30k3dg30k3dbi30k2lb2~g2203152-db1106275-dg1806142-dbi1204274/"><circle cx="235.9" cy="122.6" r="4" fill="#3465a4"><title>Davies (Welsh Name)</title></circle></a><a href="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/"><circle cx="203.0" cy="121.9" r="4" fill="#3465a4"><title>Bro-Vigouden (Corporate)</title></circle></a><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/"><circle cx="218.8" cy="74.7" r="4" fill="#3465a4"><title>Scotland 1782</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.3" cy="130.7" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><circle cx="220.4" cy="100.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/dp4dpi4dp3dg20dp5k4dp3k7dp3k3db35lb2db35k3dp3k7dp3k4dp5dg20dp3dpi4dp4k2~x2~dp1403322-dpi1607327/

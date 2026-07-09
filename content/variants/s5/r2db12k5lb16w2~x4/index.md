@@ -1,14 +1,16 @@
 ---
 title: "RSCDS Australia? (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "RSCDS Australia? (Corporate)"
-  url: ""
+  url: "/setts/r2db12k5lb16w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2db12k5lb16w2/)
-(the same proportion at any scale), whose colour order is pattern [RBKWW](/stripes/rbkww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2db12k5lb16w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKWW](/stripes/rbkww/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.4" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.0" cy="205.4" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="201.2" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="183.3" cy="205.8" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="106.8" cy="170.5" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.6" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.9" cy="210.8" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.1" cy="211.1" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s6/k3ly3db20dg25lb18w3~x2/"><circle cx="105.5" cy="188.7" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.2" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><circle cx="152.7" cy="199.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.1" cy="205.4" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.6" cy="201.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="183.3" cy="205.8" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="106.8" cy="170.4" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.5" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.9" cy="210.7" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.1" cy="211.1" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s6/k3ly3db20dg25lb18w3~x2/"><circle cx="105.6" cy="188.6" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.1" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><circle cx="152.8" cy="199.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r2db12k5lb16w2~x4/

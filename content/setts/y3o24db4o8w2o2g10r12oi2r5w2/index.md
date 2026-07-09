@@ -1,5 +1,12 @@
 ---
 title: "Unidentified 31"
-redirect: "/variants/s11/y3o24db4o8w2o2g10r12oi2r5w2~x2~o1604043-oi2102055/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified 31](/variants/s11/y3o24db4o8w2o2g10r12oi2r5w2~x2~o1604043-oi2102055/).
+This is the **Unidentified 31** sett — one scale-free proportion (`y3o24db4o8w2o2g10r12oi2r5w2`), colour order pattern
+[GRBRWRGRRRW](/stripes/grbrwrgrrrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified 31](/variants/s11/y3o24db4o8w2o2g10r12oi2r5w2~x2~o1604043-oi2102055/) ★ | ~2016 | ![Unidentified 31 sett](/variants/s11/y3o24db4o8w2o2g10r12oi2r5w2~x2~o1604043-oi2102055/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Harrower, John Anthony (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Harrower, John Anthony (Personal)"
-  url: ""
+  url: "/setts/dg8db5k1db17r10db2r10n2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg8db5k1db17r10db2r10n2/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBKBG](/stripes/brbrbkbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg8db5k1db17r10db2r10n2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBKBG](/stripes/brbrbkbg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="152.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.3" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.6" cy="150.4" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.8" cy="137.2" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.9" cy="192.6" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="247.9" cy="168.6" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.2" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/"><circle cx="238.0" cy="183.0" r="4" fill="#3465a4"><title>Wellington (Wilson 122)</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.3" r="4" fill="#3465a4"><title>By Storm</title></circle></a><circle cx="228.3" cy="165.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="152.2" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.2" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.7" cy="150.3" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.9" cy="137.1" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.9" cy="192.5" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="248.0" cy="168.5" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.1" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/"><circle cx="238.0" cy="182.9" r="4" fill="#3465a4"><title>Wellington (Wilson 122)</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.2" r="4" fill="#3465a4"><title>By Storm</title></circle></a><circle cx="228.3" cy="165.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg8db5k1db17r10db2r10n2~x2/

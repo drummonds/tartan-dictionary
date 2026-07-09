@@ -1,14 +1,16 @@
 ---
 title: "Stirling Castle (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stirling Castle (Corporate)"
-  url: ""
+  url: "/setts/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1/)
-(the same proportion at any scale), whose colour order is pattern [WKGGWGWGWGWKW](/stripes/wkggwgwgwgwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKGGWGWGWGWKW](/stripes/wkggwgwgwgwkw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/"><circle cx="391.5" cy="78.3" r="4" fill="#3465a4"><title>Chapman-Smith, M &amp; L (Personal)</title></circle></a><a href="/variants/s14/g64k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="375.0" cy="58.3" r="4" fill="#3465a4"><title>MacFarlane, hunting</title></circle></a><a href="/variants/s17/g24k3g12r2g3k1db3w1db3k1g3r2g12k3g12k3g12~x2/"><circle cx="406.2" cy="98.2" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/variants/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/"><circle cx="418.8" cy="85.6" r="4" fill="#3465a4"><title>Wexford, County</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.4" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="435.8" cy="121.7" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.6" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s10/y1k1b1g30k1g2k2g1b10w1~x2/"><circle cx="385.4" cy="81.2" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/"><circle cx="485.1" cy="75.2" r="4" fill="#3465a4"><title>Crane of Cluny (Personal)</title></circle></a><circle cx="393.6" cy="70.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/"><circle cx="391.5" cy="78.1" r="4" fill="#3465a4"><title>Chapman-Smith, M &amp; L (Personal)</title></circle></a><a href="/variants/s14/g64k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="375.0" cy="58.1" r="4" fill="#3465a4"><title>MacFarlane, hunting</title></circle></a><a href="/variants/s17/g24k3g12r2g3k1db3w1db3k1g3r2g12k3g12k3g12~x2/"><circle cx="406.2" cy="98.0" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/variants/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/"><circle cx="418.8" cy="85.4" r="4" fill="#3465a4"><title>Wexford, County</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.2" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="435.8" cy="121.6" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.4" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.1" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s10/y1k1b1g30k1g2k2g1b10w1~x2/"><circle cx="385.4" cy="81.1" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/"><circle cx="485.2" cy="75.0" r="4" fill="#3465a4"><title>Crane of Cluny (Personal)</title></circle></a><circle cx="393.6" cy="70.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Unidentified Bedspread"
-redirect: "/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified Bedspread](/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/).
+This is the **Unidentified Bedspread** sett — one scale-free proportion (`r20w6r100db15k10db15k40y5g54r15k5r15k6w8`), colour order pattern
+[RWRBKBKGGRKRKW](/stripes/rwrbkbkggrkrkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Unidentified Bedspread](/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/) ★ | ~2016 | ![Unidentified Bedspread sett](/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/sett.png) |

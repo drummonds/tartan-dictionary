@@ -1,16 +1,18 @@
 ---
 title: "George, Stuart (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "George, Stuart"
   url: "/tartans/george-stuart/"
 - name: "George, Stuart (Personal)"
-  url: ""
+  url: "/setts/db62w2db4w5db6y2dr8y3w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db62w2db4w5db6y2dr8y3w4/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBGBGW](/stripes/bwbwbgbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db62w2db4w5db6y2dr8y3w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBGBGW](/stripes/bwbwbgbgw/).
 
 Part of the [George, Stuart](/tartans/george-stuart/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.9" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="542.7" cy="114.8" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="550.9" cy="114.4" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/"><circle cx="524.9" cy="106.3" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.8" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.6" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.1" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><circle cx="470.1" cy="89.2" r="4" fill="#3465a4"><title>St. Petersburg City (District)</title></circle></a><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><circle cx="606.7" cy="152.3" r="4" fill="#3465a4"><title>Inverness Htg (Royal)</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="129.0" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><circle cx="495.9" cy="110.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.7" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="542.7" cy="114.6" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="550.9" cy="114.2" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/"><circle cx="525.0" cy="106.2" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.7" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.5" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><circle cx="470.1" cy="89.0" r="4" fill="#3465a4"><title>St. Petersburg City (District)</title></circle></a><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><circle cx="606.8" cy="152.1" r="4" fill="#3465a4"><title>Inverness Htg (Royal)</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="128.9" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><circle cx="495.9" cy="110.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db62w2db4w5db6y2dr8y3w4~x2/

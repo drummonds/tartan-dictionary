@@ -1,5 +1,12 @@
 ---
 title: "MacKintosh Dress (Dance)"
-redirect: "/variants/s6/r3w33dp8dg18r9g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKintosh Dress (Dance)](/variants/s6/r3w33dp8dg18r9g3~x2/).
+This is the **MacKintosh Dress (Dance)** sett — one scale-free proportion (`r3w33dp8dg18r9g3`), colour order pattern
+[GRGBWR](/stripes/grgbwr/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacKintosh Dress (Dance)](/variants/s6/r3w33dp8dg18r9g3~x2/) ★ | 2005 | ![MacKintosh Dress (Dance) sett](/variants/s6/r3w33dp8dg18r9g3~x2/sett.png) |

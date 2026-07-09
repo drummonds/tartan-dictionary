@@ -1,14 +1,16 @@
 ---
 title: "Sugiyama Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sugiyama Corporate Tartan"
-  url: ""
+  url: "/setts/b7db2b25db10g21db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b7db2b25db10g21db2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBGB](/stripes/bbbbgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b7db2b25db10g21db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBGB](/stripes/bbbbgb/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -23,7 +25,7 @@ Earliest known date: 01/04/2012 The tartan design has long been used on the scho
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/04/2012 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1406275-db1204274/"><circle cx="363.6" cy="262.1" r="4" fill="#3465a4"><title>Sugiyama Jogakuen University (Corp)</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1605267-db1004274/"><circle cx="369.1" cy="264.7" r="4" fill="#3465a4"><title>Sugiyama</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.8" cy="310.1" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.3" cy="273.1" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="293.4" cy="198.1" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.6" cy="251.7" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.9" cy="250.8" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.6" cy="265.5" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s6/lg3db1b16db16b2lb2~x4/"><circle cx="360.5" cy="227.3" r="4" fill="#3465a4"><title>U.S.S. John Paul Jones #1</title></circle></a><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.4" cy="201.9" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><circle cx="322.7" cy="251.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1406275-db1204274/"><circle cx="363.6" cy="262.1" r="4" fill="#3465a4"><title>Sugiyama Jogakuen University (Corp)</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1605267-db1004274/"><circle cx="369.1" cy="264.7" r="4" fill="#3465a4"><title>Sugiyama</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.8" cy="310.1" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.4" cy="273.0" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="293.4" cy="198.1" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.6" cy="251.6" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.9" cy="250.7" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.6" cy="265.4" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s6/lg3db1b16db16b2lb2~x4/"><circle cx="360.5" cy="227.3" r="4" fill="#3465a4"><title>U.S.S. John Paul Jones #1</title></circle></a><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.4" cy="201.8" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><circle cx="322.8" cy="251.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/b7db2b25db10g21db2~x2~b1511266-db1108266/

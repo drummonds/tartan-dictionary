@@ -1,5 +1,14 @@
 ---
 title: "Rangers F.C."
-redirect: "/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rangers F.C.](/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/).
+This is the **Rangers F.C.** sett — one scale-free proportion (`r3b14k12db40k12b2k2b2k2b7r3`), colour order pattern
+[RBKBKBKBKBR](/stripes/rbkbkbkbkbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Rangers F.C.](/tartans/rangers-f-c/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Rangers F.C.](/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/) ★ | ~2016 | ![Rangers F.C. sett](/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/sett.png) |

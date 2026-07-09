@@ -1,14 +1,16 @@
 ---
 title: "Torridon, Royal Blue (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Torridon, Royal Blue (Dance)"
-  url: ""
+  url: "/setts/db3t2w2t30w30r2w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3t2w2t30w30r2w3/)
-(the same proportion at any scale), whose colour order is pattern [BBWBWRW](/stripes/bbwbwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3t2w2t30w30r2w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBWRW](/stripes/bbwbwrw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><circle cx="194.8" cy="184.1" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.6" cy="177.4" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="378.5" cy="149.8" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s6/r3t2w35t35r2g3~x2/"><circle cx="301.0" cy="163.0" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3/"><circle cx="327.9" cy="165.4" r="4" fill="#3465a4"><title>Malmo Skyblue (District)</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/"><circle cx="338.9" cy="169.4" r="4" fill="#3465a4"><title>Malmo Skyblue</title></circle></a><a href="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/"><circle cx="248.3" cy="185.3" r="4" fill="#3465a4"><title>Lennox Dress, Purple (Dance)</title></circle></a><a href="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/"><circle cx="343.5" cy="142.6" r="4" fill="#3465a4"><title>Canna, Saphire (Dance)</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.8" cy="221.7" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.7" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><circle cx="317.6" cy="176.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><circle cx="194.8" cy="184.0" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.5" cy="177.3" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="378.5" cy="149.7" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s6/r3t2w35t35r2g3~x2/"><circle cx="301.0" cy="162.9" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3/"><circle cx="327.9" cy="165.3" r="4" fill="#3465a4"><title>Malmo Skyblue (District)</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/"><circle cx="338.9" cy="169.3" r="4" fill="#3465a4"><title>Malmo Skyblue</title></circle></a><a href="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/"><circle cx="248.3" cy="185.2" r="4" fill="#3465a4"><title>Lennox Dress, Purple (Dance)</title></circle></a><a href="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/"><circle cx="343.4" cy="142.5" r="4" fill="#3465a4"><title>Canna, Saphire (Dance)</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.8" cy="221.7" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.6" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><circle cx="317.6" cy="176.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db3t2w2t30w30r2w3~x2/

@@ -1,5 +1,12 @@
 ---
 title: "MacGregor Dress Blue Fancy Tartan"
-redirect: "/variants/s6/w52db22w6db8k1g3~x2~g2408144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacGregor Dress Blue Fancy Tartan](/variants/s6/w52db22w6db8k1g3~x2~g2408144/).
+This is the **MacGregor Dress Blue Fancy Tartan** sett — one scale-free proportion (`w52db22w6db8k1g3`), colour order pattern
+[BWBKGKBWBW](/stripes/bwbkgkbwbw/). It is recorded as a single **variant**, below.
+First attested **1975**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacGregor Dress Blue Fancy Tartan](/variants/s6/w52db22w6db8k1g3~x2~g2408144/) ★ | 1975 | ![MacGregor Dress Blue Fancy Tartan sett](/variants/s6/w52db22w6db8k1g3~x2~g2408144/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Roseline"
-redirect: "/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Roseline](/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/).
+This is the **Roseline** sett — one scale-free proportion (`db5g9r3db18dr80y3dr40db18r3g9db5w2`), colour order pattern
+[BGRBBGBBRGBW](/stripes/bgrbbgbbrgbw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Roseline](/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/) ★ | 2005 | ![Roseline sett](/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/sett.png) |

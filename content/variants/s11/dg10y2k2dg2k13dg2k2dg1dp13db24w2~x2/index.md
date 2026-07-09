@@ -1,14 +1,16 @@
 ---
 title: "Lang of Sherbrooke (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lang of Sherbrooke (Personal)"
-  url: ""
+  url: "/setts/dg10y2k2dg2k13dg2k2dg1dp13db24w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg10y2k2dg2k13dg2k2dg1dp13db24w2/)
-(the same proportion at any scale), whose colour order is pattern [GGKGKGKGBBW](/stripes/ggkgkgkgbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg10y2k2dg2k13dg2k2dg1dp13db24w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKGKGKGBBW](/stripes/ggkgkgkgbbw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/"><circle cx="178.4" cy="113.0" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/"><circle cx="199.9" cy="97.2" r="4" fill="#3465a4"><title>Pride of Scotland General Tartan</title></circle></a><a href="/variants/s10/db6dbi22k12dp10g3k1g3dp10db2w2~x2~db1106275-dbi1404245/"><circle cx="146.2" cy="130.8" r="4" fill="#3465a4"><title>Cowal (Corporate)</title></circle></a><a href="/variants/s11/dg2db24y1r2dg2r2y1k24dg24w2db2~x2/"><circle cx="174.9" cy="93.1" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/variants/s12/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2~x2/"><circle cx="231.0" cy="92.5" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="83.1" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><circle cx="160.5" cy="108.8" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/"><circle cx="164.4" cy="111.7" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/"><circle cx="166.2" cy="103.8" r="4" fill="#3465a4"><title>Carson of Rusco (Personal)</title></circle></a><a href="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11~db1204274-dp1607327/"><circle cx="177.3" cy="144.8" r="4" fill="#3465a4"><title>Bute Heather</title></circle></a><circle cx="167.5" cy="109.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/"><circle cx="178.4" cy="112.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/"><circle cx="199.9" cy="97.1" r="4" fill="#3465a4"><title>Pride of Scotland General Tartan</title></circle></a><a href="/variants/s10/db6dbi22k12dp10g3k1g3dp10db2w2~x2~db1106275-dbi1404245/"><circle cx="146.2" cy="130.6" r="4" fill="#3465a4"><title>Cowal (Corporate)</title></circle></a><a href="/variants/s11/dg2db24y1r2dg2r2y1k24dg24w2db2~x2/"><circle cx="174.9" cy="93.0" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/variants/s12/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2~x2/"><circle cx="231.0" cy="92.4" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="82.9" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><circle cx="160.5" cy="108.7" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/"><circle cx="164.4" cy="111.5" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/"><circle cx="166.2" cy="103.7" r="4" fill="#3465a4"><title>Carson of Rusco (Personal)</title></circle></a><a href="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11~db1204274-dp1607327/"><circle cx="177.3" cy="144.7" r="4" fill="#3465a4"><title>Bute Heather</title></circle></a><circle cx="167.5" cy="108.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Donachie of Brockloch"
-redirect: "/variants/s10/dr24g2dr2g20dr25g2dr2g2dr2g20~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Donachie of Brockloch](/variants/s10/dr24g2dr2g20dr25g2dr2g2dr2g20~x2/).
+This is the **Donachie of Brockloch** sett — one scale-free proportion (`dr24g2dr2g20dr25g2dr2g2dr2g20`), colour order pattern
+[BGBGBGBGBG](/stripes/bgbgbgbgbg/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Donachie of Brockloch](/variants/s10/dr24g2dr2g20dr25g2dr2g2dr2g20~x2/) ★ | 2003 | ![Donachie of Brockloch sett](/variants/s10/dr24g2dr2g20dr25g2dr2g2dr2g20~x2/sett.png) |

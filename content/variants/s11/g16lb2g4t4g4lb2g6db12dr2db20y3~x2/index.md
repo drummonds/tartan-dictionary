@@ -1,14 +1,16 @@
 ---
 title: "First Command Fin. Planning (Corp)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "First Command Fin. Planning (Corp)"
-  url: ""
+  url: "/setts/g16lb2g4t4g4lb2g6db12dr2db20y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16lb2g4t4g4lb2g6db12dr2db20y3/)
-(the same proportion at any scale), whose colour order is pattern [GBBBGWGBGWG](/stripes/gbbbgwgbgwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g16lb2g4t4g4lb2g6db12dr2db20y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBGWGBGWG](/stripes/gbbbgwgbgwg/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.4" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.6" cy="190.2" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.2" cy="199.6" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/variants/s11/g37dp5g5dp12t10db5t5db40dy4db4ly4~x2/"><circle cx="209.4" cy="175.6" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.5" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><circle cx="215.1" cy="169.8" r="4" fill="#3465a4"><title>Connor (Personal)</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.7" cy="191.6" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.9" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><circle cx="191.6" cy="213.5" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="223.7" cy="196.5" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><circle cx="227.2" cy="185.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.3" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.7" cy="190.1" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.2" cy="199.5" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/variants/s11/g37dp5g5dp12t10db5t5db40dy4db4ly4~x2/"><circle cx="209.4" cy="175.5" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.4" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><circle cx="215.1" cy="169.7" r="4" fill="#3465a4"><title>Connor (Personal)</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.8" cy="191.5" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.8" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><circle cx="191.6" cy="213.4" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="223.8" cy="196.4" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><circle cx="227.3" cy="185.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/

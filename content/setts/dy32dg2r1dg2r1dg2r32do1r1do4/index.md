@@ -1,5 +1,12 @@
 ---
 title: "Connaught Irish District Tartan"
-redirect: "/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Connaught Irish District Tartan](/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/).
+This is the **Connaught Irish District Tartan** sett — one scale-free proportion (`dy32dg2r1dg2r1dg2r32do1r1do4`), colour order pattern
+[BRBRGRGRGG](/stripes/brbrgrgrgg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Connaught Irish District Tartan](/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/) ★ | ~2016 | ![Connaught Irish District Tartan sett](/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/sett.png) |

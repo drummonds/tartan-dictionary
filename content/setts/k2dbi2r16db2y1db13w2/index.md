@@ -2,15 +2,15 @@
 title: "Wishart, dress"
 date: 2023-03-18
 ---
-The **Wishart, dress** tartan is one sett proportion (`k2dbi2r16db2y1db13w2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[KBRBGBW](/stripes/kbrbgbw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Wishart, dress** sett — one scale-free proportion (`k2dbi2r16db2y1db13w2`), colour order pattern
+[KBRBGBW](/stripes/kbrbgbw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1990**.
 
-Part of the [Wishart Dress](/tartans/wishart-dress/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Wishart Dress](/tartans/wishart-dress/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×2 | [Wishart Dress Family Tartan](/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1406275-db1204274/) ★ | ~2016 | ![Wishart Dress Family Tartan sett](/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1406275-db1204274/sett.png) |
+| ×2 | [Wishart Dress Family Tartan](/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1406275-db1204274/) ★ | 1990 | ![Wishart Dress Family Tartan sett](/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1406275-db1204274/sett.png) |
 | ×2 | [Wishart, dress](/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/) | ~2016 | ![Wishart, dress sett](/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/sett.png) |

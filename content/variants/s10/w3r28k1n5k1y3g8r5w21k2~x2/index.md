@@ -1,16 +1,18 @@
 ---
 title: "Cape Breton Polish Society"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cape Breton Polish Society"
   url: "/tartans/cape-breton-polish-society/"
 - name: "Cape Breton Polish Society"
-  url: ""
+  url: "/setts/w3r28k1n5k1y3g8r5w21k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3r28k1n5k1y3g8r5w21k2/)
-(the same proportion at any scale), whose colour order is pattern [KWRGGKBKRW](/stripes/kwrggkbkrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3r28k1n5k1y3g8r5w21k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWRGGKBKRW](/stripes/kwrggkbkrw/).
 
 Part of the [Cape Breton Polish Society](/tartans/cape-breton-polish-society/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/"><circle cx="184.6" cy="79.4" r="4" fill="#3465a4"><title>Cape Breton Polish Society</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.4" cy="79.3" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.2" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><circle cx="152.0" cy="91.4" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/"><circle cx="150.5" cy="75.4" r="4" fill="#3465a4"><title>Crieff Red Dress (Dance)</title></circle></a><a href="/variants/s10/r17k1r2dpi2r2k1r3dp8w17y2~x4~dpi1607327/"><circle cx="173.2" cy="94.5" r="4" fill="#3465a4"><title>Kyle, Pink (Dance)</title></circle></a><a href="/variants/s10/r15ly30k1w6k1ly2dg16lb4r6w1~x2/"><circle cx="173.4" cy="91.7" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/"><circle cx="181.8" cy="79.9" r="4" fill="#3465a4"><title>Stewart of Galloway Clan Tartan</title></circle></a><a href="/variants/s8/k4ly2k4r29w29db4w2g4~x2/"><circle cx="151.9" cy="109.3" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><a href="/variants/s8/k4y2k4r29w29db4w2g4~x2/"><circle cx="152.0" cy="109.2" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><circle cx="185.2" cy="79.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/"><circle cx="184.6" cy="79.3" r="4" fill="#3465a4"><title>Cape Breton Polish Society</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.4" cy="79.2" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.1" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><circle cx="152.0" cy="91.2" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/"><circle cx="150.5" cy="75.3" r="4" fill="#3465a4"><title>Crieff Red Dress (Dance)</title></circle></a><a href="/variants/s10/r17k1r2dpi2r2k1r3dp8w17y2~x4~dpi1607327/"><circle cx="173.2" cy="94.4" r="4" fill="#3465a4"><title>Kyle, Pink (Dance)</title></circle></a><a href="/variants/s10/r15ly30k1w6k1ly2dg16lb4r6w1~x2/"><circle cx="173.4" cy="91.5" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/"><circle cx="181.8" cy="79.7" r="4" fill="#3465a4"><title>Stewart of Galloway Clan Tartan</title></circle></a><a href="/variants/s8/k4ly2k4r29w29db4w2g4~x2/"><circle cx="151.9" cy="109.1" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><a href="/variants/s8/k4y2k4r29w29db4w2g4~x2/"><circle cx="152.0" cy="109.1" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><circle cx="185.2" cy="79.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w3r28k1n5k1y3g8r5w21k2~x2/

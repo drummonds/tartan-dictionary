@@ -1,16 +1,18 @@
 ---
 title: "Barnes"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Barnes"
   url: "/tartans/barnes/"
 - name: "Barnes"
-  url: ""
+  url: "/setts/db20k3db3k3db3k16g2y3g12r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20k3db3k3db3k16g2y3g12r2/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKGGGR](/stripes/bkbkbkgggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db20k3db3k3db3k16g2y3g12r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGGR](/stripes/bkbkbkgggr/).
 
 Part of the [Barnes](/tartans/barnes/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.0" cy="157.5" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/"><circle cx="179.5" cy="151.0" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.9" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/"><circle cx="133.5" cy="148.8" r="4" fill="#3465a4"><title>Logan Rogers Hunting</title></circle></a><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/"><circle cx="127.3" cy="147.2" r="4" fill="#3465a4"><title>The Red Hackle</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="152.7" cy="170.5" r="4" fill="#3465a4"><title>MacLeod Small Clan Tartan</title></circle></a><a href="/variants/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/"><circle cx="132.5" cy="148.9" r="4" fill="#3465a4"><title>Logan Rogers Hunting (Personal)</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/"><circle cx="158.9" cy="138.1" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x4/"><circle cx="171.8" cy="179.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="171.8" cy="179.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="155.7" cy="156.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.1" cy="157.4" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/"><circle cx="179.6" cy="150.9" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.8" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/"><circle cx="133.5" cy="148.6" r="4" fill="#3465a4"><title>Logan Rogers Hunting</title></circle></a><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/"><circle cx="127.4" cy="147.1" r="4" fill="#3465a4"><title>The Red Hackle</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="152.7" cy="170.4" r="4" fill="#3465a4"><title>MacLeod Small Clan Tartan</title></circle></a><a href="/variants/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/"><circle cx="132.5" cy="148.8" r="4" fill="#3465a4"><title>Logan Rogers Hunting (Personal)</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/"><circle cx="158.9" cy="138.0" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x4/"><circle cx="171.8" cy="179.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="171.8" cy="179.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="155.7" cy="155.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db20k3db3k3db3k16g2y3g12r2~x2/

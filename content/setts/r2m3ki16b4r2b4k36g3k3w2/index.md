@@ -1,5 +1,12 @@
 ---
 title: "Fitzgerald Htg (Name)"
-redirect: "/variants/s10/r2m3ki16b4r2b4k36g3k3w2~x2~ki0802138-k0604259/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fitzgerald Htg (Name)](/variants/s10/r2m3ki16b4r2b4k36g3k3w2~x2~ki0802138-k0604259/).
+This is the **Fitzgerald Htg (Name)** sett — one scale-free proportion (`r2m3ki16b4r2b4k36g3k3w2`), colour order pattern
+[RRKBRBKGKW](/stripes/rrkbrbkgkw/). It is recorded as a single **variant**, below.
+First attested **1975**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fitzgerald Htg (Name)](/variants/s10/r2m3ki16b4r2b4k36g3k3w2~x2~ki0802138-k0604259/) ★ | 1975 | ![Fitzgerald Htg (Name) sett](/variants/s10/r2m3ki16b4r2b4k36g3k3w2~x2~ki0802138-k0604259/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "StammBar"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "StammBar"
   url: "/tartans/stammbar/"
 - name: "StammBar"
-  url: ""
+  url: "/setts/w4t8w4lg8w2lg2w4t42r1ly2r1t2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4t8w4lg8w2lg2w4t42r1ly2r1t2/)
-(the same proportion at any scale), whose colour order is pattern [BRYRBWYWYWBW](/stripes/bryrbwywywbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4t8w4lg8w2lg2w4t42r1ly2r1t2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRYRBWYWYWBW](/stripes/bryrbwywywbw/).
 
 Part of the [StammBar](/tartans/stammbar/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><circle cx="475.1" cy="84.4" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><a href="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/"><circle cx="366.2" cy="84.0" r="4" fill="#3465a4"><title>Schuster (Bavaria) (Personal), Benedikt</title></circle></a><a href="/variants/s13/lb3db1lb1r1lb1db10r1lb9t35ly2t2ly1lb2~x2/"><circle cx="358.2" cy="91.6" r="4" fill="#3465a4"><title>De Clercq, Christian (Belgium)</title></circle></a><a href="/variants/s11/t46ly1dy5ly1g5ly1dp5ly1t16r1ly4~x2~ly3307090-dy1603076/"><circle cx="495.0" cy="84.2" r="4" fill="#3465a4"><title>Craven County (Commemorative)</title></circle></a><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><circle cx="379.4" cy="89.8" r="4" fill="#3465a4"><title>Schuster (Perosnal)</title></circle></a><circle cx="425.1" cy="89.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><circle cx="475.1" cy="84.2" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><a href="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/"><circle cx="366.2" cy="83.8" r="4" fill="#3465a4"><title>Schuster (Bavaria) (Personal), Benedikt</title></circle></a><a href="/variants/s13/lb3db1lb1r1lb1db10r1lb9t35ly2t2ly1lb2~x2/"><circle cx="358.2" cy="91.4" r="4" fill="#3465a4"><title>De Clercq, Christian (Belgium)</title></circle></a><a href="/variants/s11/t46ly1dy5ly1g5ly1dp5ly1t16r1ly4~x2~ly3307090-dy1603076/"><circle cx="495.0" cy="84.1" r="4" fill="#3465a4"><title>Craven County (Commemorative)</title></circle></a><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><circle cx="379.4" cy="89.7" r="4" fill="#3465a4"><title>Schuster (Perosnal)</title></circle></a><circle cx="425.1" cy="89.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w4t8w4lg8w2lg2w4t42r1ly2r1t2~x2/

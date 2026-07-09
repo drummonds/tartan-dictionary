@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/db2r7db2r7db22y2~x2/">MacQueen variant</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db2r7db2r7db22y2~x2/"><img src="/variants/s6/db2r7db2r7db22y2~x2/sett.png" alt="MacQueen variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db1r3db1r3db6g1~x4/">Robbins</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db1r3db1r3db6g1~x4/"><img src="/variants/s6/db1r3db1r3db6g1~x4/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db1r3db1r3db6g1~x4/">Robbins Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db1r3db1r3db6g1~x4/"><img src="/variants/s6/db1r3db1r3db6g1~x4/sett.png" alt="Robbins Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/">HMS Duncan Regimental Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><img src="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/sett.png" alt="HMS Duncan Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

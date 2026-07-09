@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/">Duchess of Edinburgh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/"><img src="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/sett.png" alt="Duchess of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/">Duchess of Edinburgh Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/"><img src="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/sett.png" alt="Duchess of Edinburgh Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

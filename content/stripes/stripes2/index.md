@@ -49,7 +49,7 @@ weight: 2
 | 0.01 | [Rob Roy Clan Tartan](/variants/s2/k1r1~x16/) | house-of-tartan |
 | 0.01 | [Rob Roy Macgregor](/variants/s2/k1r1~x172/) | register-of-tartans |
 | 0.01 | [St Kilda](/variants/s2/k4r1~x36/) | register-of-tartans |
-| 0.01 | [St Kilda](/variants/s2/k4r1~x6/) | weddslist |
+| 0.01 | [St Kilda District Tartan](/variants/s2/k4r1~x6/) | house-of-tartan |
 | 0.01 | [Wilson's No.234](/variants/s2/r8k3~x2/) | register-of-tartans |
 
 ### KW

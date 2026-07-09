@@ -1,14 +1,16 @@
 ---
 title: "Culloden Worn by Pr Charles"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Culloden Worn by Pr Charles"
-  url: ""
+  url: "/setts/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2/)
-(the same proportion at any scale), whose colour order is pattern [WGGWGBWBBRWRWGW](/stripes/wggwgbwbbrwrwgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGGWGBWBBRWRWGW](/stripes/wggwgbwbbrwrwgw/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/"><circle cx="123.9" cy="48.8" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward</title></circle></a><a href="/variants/s15/r6w2dy40w2lb14g14y3w2g6dp6y2lb6dp30r12w2~x2/"><circle cx="106.6" cy="95.1" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/"><circle cx="104.5" cy="70.4" r="4" fill="#3465a4"><title>Culloden, Worn by Pr Charles</title></circle></a><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/"><circle cx="130.9" cy="68.9" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/variants/s15/ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1~x2~r2109032-ri2307033/"><circle cx="116.8" cy="65.5" r="4" fill="#3465a4"><title>British Airways (Corporate)</title></circle></a><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/"><circle cx="73.9" cy="115.6" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><circle cx="82.4" cy="63.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/"><circle cx="123.9" cy="48.6" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward</title></circle></a><a href="/variants/s15/r6w2dy40w2lb14g14y3w2g6dp6y2lb6dp30r12w2~x2/"><circle cx="106.6" cy="94.9" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/"><circle cx="104.5" cy="70.2" r="4" fill="#3465a4"><title>Culloden, Worn by Pr Charles</title></circle></a><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/"><circle cx="130.9" cy="68.7" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/variants/s15/ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1~x2~r2109032-ri2307033/"><circle cx="116.8" cy="65.3" r="4" fill="#3465a4"><title>British Airways (Corporate)</title></circle></a><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/"><circle cx="73.9" cy="115.4" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><circle cx="82.5" cy="63.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/

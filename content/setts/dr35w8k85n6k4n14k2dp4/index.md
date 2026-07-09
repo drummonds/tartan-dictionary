@@ -1,5 +1,12 @@
 ---
 title: "MacEvil (Corporate)"
-redirect: "/variants/s8/dr35w8k85n6k4n14k2dp4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacEvil (Corporate)](/variants/s8/dr35w8k85n6k4n14k2dp4/).
+This is the **MacEvil (Corporate)** sett — one scale-free proportion (`dr35w8k85n6k4n14k2dp4`), colour order pattern
+[BKBKBKWB](/stripes/bkbkbkwb/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [MacEvil (Corporate)](/variants/s8/dr35w8k85n6k4n14k2dp4/) ★ | 2010 | ![MacEvil (Corporate) sett](/variants/s8/dr35w8k85n6k4n14k2dp4/sett.png) |

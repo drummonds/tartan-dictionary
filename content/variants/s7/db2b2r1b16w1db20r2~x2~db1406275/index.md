@@ -1,14 +1,16 @@
 ---
 title: "British American School of Charlotte"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "British American School (Corporate)"
   url: "/setts/db2b2r1b16w1db20r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2b2r1b16w1db20r2/)
-(the same proportion at any scale), whose colour order is pattern [BBRBWBR](/stripes/bbrbwbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db2b2r1b16w1db20r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBWBR](/stripes/bbrbwbr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.3" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.3" cy="201.0" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db0805267-dbi1604274/"><circle cx="400.6" cy="172.5" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/"><circle cx="423.0" cy="164.1" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db51t8w4t30r1t9~x2/"><circle cx="387.5" cy="154.9" r="4" fill="#3465a4"><title>Navy-Radar</title></circle></a><a href="/variants/s7/db40dbi8ly3dbi6k3dbi6r4~x2~db1004274-dbi1406275/"><circle cx="370.6" cy="163.4" r="4" fill="#3465a4"><title>Edinburgh &amp; Lothian T.B. (Corporate)</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.1" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="415.9" cy="217.4" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.7" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><circle cx="403.8" cy="182.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.2" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.3" cy="200.9" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db0805267-dbi1604274/"><circle cx="400.6" cy="172.4" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/"><circle cx="423.1" cy="164.0" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db51t8w4t30r1t9~x2/"><circle cx="387.5" cy="154.8" r="4" fill="#3465a4"><title>Navy-Radar</title></circle></a><a href="/variants/s7/db40dbi8ly3dbi6k3dbi6r4~x2~db1004274-dbi1406275/"><circle cx="370.7" cy="163.3" r="4" fill="#3465a4"><title>Edinburgh &amp; Lothian T.B. (Corporate)</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.1" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="416.0" cy="217.3" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.6" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><circle cx="403.8" cy="182.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db2b2r1b16w1db20r2~x2~db1406275/

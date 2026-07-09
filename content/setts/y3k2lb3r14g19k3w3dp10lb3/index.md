@@ -1,5 +1,12 @@
 ---
 title: "Wilson's, No 110"
-redirect: "/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's, No 110](/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/).
+This is the **Wilson's, No 110** sett — one scale-free proportion (`y3k2lb3r14g19k3w3dp10lb3`), colour order pattern
+[GKWRGKWBW](/stripes/gkwrgkwbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's, No 110](/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/) ★ | ~2016 | ![Wilson's, No 110 sett](/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/sett.png) |

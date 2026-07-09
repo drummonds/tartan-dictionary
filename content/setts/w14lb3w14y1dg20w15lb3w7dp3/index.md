@@ -1,5 +1,12 @@
 ---
 title: "Milne dress green"
-redirect: "/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Milne dress green](/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/).
+This is the **Milne dress green** sett — one scale-free proportion (`w14lb3w14y1dg20w15lb3w7dp3`), colour order pattern
+[BWWWGGWWW](/stripes/bwwwggwww/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Milne dress green](/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/) ★ | 2007 | ![Milne dress green sett](/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/sett.png) |

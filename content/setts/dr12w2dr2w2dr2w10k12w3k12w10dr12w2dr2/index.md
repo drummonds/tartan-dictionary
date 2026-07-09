@@ -1,5 +1,12 @@
 ---
 title: "Red, White, Blue Watch (Dance)"
-redirect: "/variants/s13/dr12w2dr2w2dr2w10k12w3k12w10dr12w2dr2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Red, White, Blue Watch (Dance)](/variants/s13/dr12w2dr2w2dr2w10k12w3k12w10dr12w2dr2~x2/).
+This is the **Red, White, Blue Watch (Dance)** sett — one scale-free proportion (`dr12w2dr2w2dr2w10k12w3k12w10dr12w2dr2`), colour order pattern
+[BWBWBWKWKWBWB](/stripes/bwbwbwkwkwbwb/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Red, White, Blue Watch (Dance)](/variants/s13/dr12w2dr2w2dr2w10k12w3k12w10dr12w2dr2~x2/) ★ | ~2002 | ![Red, White, Blue Watch (Dance) sett](/variants/s13/dr12w2dr2w2dr2w10k12w3k12w10dr12w2dr2~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Bruce of Kinnaird Dress (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bruce of Kinnaird Dress (Dance)"
-  url: ""
+  url: "/setts/w45r9k2w8k2y1k10db8dp12w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w45r9k2w8k2y1k10db8dp12w2/)
-(the same proportion at any scale), whose colour order is pattern [WBBKGKWKRW](/stripes/wbbkgkwkrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w45r9k2w8k2y1k10db8dp12w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBBKGKWKRW](/stripes/wbbkgkwkrw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><circle cx="254.9" cy="31.2" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="254.8" cy="30.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="30.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><circle cx="274.3" cy="69.9" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="209.9" cy="82.7" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><a href="/variants/s8/y2w1r2w26dy11g6k1w2~x2/"><circle cx="251.3" cy="86.3" r="4" fill="#3465a4"><title>Saskatchewan Dress (Dance)</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.4" cy="44.7" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/"><circle cx="189.9" cy="74.1" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/"><circle cx="169.9" cy="79.2" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan</title></circle></a><a href="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/"><circle cx="196.9" cy="79.8" r="4" fill="#3465a4"><title>Stewart Dress (Clan)</title></circle></a><circle cx="238.1" cy="50.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="31.0" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="254.8" cy="30.6" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="30.6" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><circle cx="274.3" cy="69.8" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="209.9" cy="82.5" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><a href="/variants/s8/y2w1r2w26dy11g6k1w2~x2/"><circle cx="251.3" cy="86.1" r="4" fill="#3465a4"><title>Saskatchewan Dress (Dance)</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.4" cy="44.5" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/"><circle cx="189.9" cy="74.0" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/"><circle cx="169.9" cy="79.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan</title></circle></a><a href="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/"><circle cx="196.9" cy="79.6" r="4" fill="#3465a4"><title>Stewart Dress (Clan)</title></circle></a><circle cx="238.1" cy="50.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/

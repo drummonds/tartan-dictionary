@@ -1,5 +1,12 @@
 ---
 title: "Allison"
-redirect: "/variants/s13/dbi3k3dbi15k15y3k3g15w3k15db4r6k3y1~x2~dbi1604274-db0805267/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Allison](/variants/s13/dbi3k3dbi15k15y3k3g15w3k15db4r6k3y1~x2~dbi1604274-db0805267/).
+This is the **Allison** sett — one scale-free proportion (`dbi3k3dbi15k15y3k3g15w3k15db4r6k3y1`), colour order pattern
+[BKBKGKGWKBRKG](/stripes/bkbkgkgwkbrkg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Allison](/variants/s13/dbi3k3dbi15k15y3k3g15w3k15db4r6k3y1~x2~dbi1604274-db0805267/) ★ | ~2016 | ![Allison sett](/variants/s13/dbi3k3dbi15k15y3k3g15w3k15db4r6k3y1~x2~dbi1604274-db0805267/sett.png) |

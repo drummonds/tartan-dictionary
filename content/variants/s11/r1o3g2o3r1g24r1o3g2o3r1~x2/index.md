@@ -1,14 +1,16 @@
 ---
 title: "Unnamed Green (Teddy Bear)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unnamed Green (Teddy Bear)"
-  url: ""
+  url: "/setts/r1o3g2o3r1g24r1o3g2o3r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1o3g2o3r1g24r1o3g2o3r1/)
-(the same proportion at any scale), whose colour order is pattern [RRGRRGRRGRR](/stripes/rrgrrgrrgrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r1o3g2o3r1g24r1o3g2o3r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRGRRGRRGRR](/stripes/rrgrrgrrgrr/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

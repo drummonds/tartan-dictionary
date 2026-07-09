@@ -1,14 +1,16 @@
 ---
 title: "(1) Stewart, modern"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "(1) Stewart, modern"
-  url: ""
+  url: "/setts/lb44db2lb4db2lb6k16r40db2o11/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb44db2lb4db2lb6k16r40db2o11/)
-(the same proportion at any scale), whose colour order is pattern [RBRKWBWBW](/stripes/rbrkwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb44db2lb4db2lb6k16r40db2o11/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRKWBWBW](/stripes/rbrkwbwbw/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><circle cx="182.4" cy="127.6" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><circle cx="152.0" cy="91.4" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.8" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/variants/s12/n12w2k4g2k3w3k3w19r30w2r4k2~x2/"><circle cx="154.5" cy="102.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #2</title></circle></a><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="121.0" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s11/mi18w2mi2lb3mi2w2mi4k10m2w25k3~x2~mi2307344-m1907344/"><circle cx="154.4" cy="115.5" r="4" fill="#3465a4"><title>MacKellar Dress, Cerise (Dance)</title></circle></a><a href="/variants/s10/r17k1r2dpi2r2k1r3dp8w17y2~x4~dpi1607327/"><circle cx="173.2" cy="94.5" r="4" fill="#3465a4"><title>Kyle, Pink (Dance)</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.2" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.4" cy="79.3" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s8/k4y2k4r29w29db4w2g4~x2/"><circle cx="152.0" cy="109.2" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><circle cx="194.7" cy="107.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><circle cx="182.4" cy="127.5" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><circle cx="152.0" cy="91.2" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/variants/s12/n12w2k4g2k3w3k3w19r30w2r4k2~x2/"><circle cx="154.5" cy="101.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress #2</title></circle></a><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="120.9" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s11/mi18w2mi2lb3mi2w2mi4k10m2w25k3~x2~mi2307344-m1907344/"><circle cx="154.4" cy="115.4" r="4" fill="#3465a4"><title>MacKellar Dress, Cerise (Dance)</title></circle></a><a href="/variants/s10/r17k1r2dpi2r2k1r3dp8w17y2~x4~dpi1607327/"><circle cx="173.2" cy="94.4" r="4" fill="#3465a4"><title>Kyle, Pink (Dance)</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.1" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.4" cy="79.2" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s8/k4y2k4r29w29db4w2g4~x2/"><circle cx="152.0" cy="109.1" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><circle cx="194.7" cy="106.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb44db2lb4db2lb6k16r40db2o11/

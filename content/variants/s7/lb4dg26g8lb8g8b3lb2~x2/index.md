@@ -1,14 +1,16 @@
 ---
 title: "Valley, of the Green. (The )"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Valley, of the Green. (The )"
-  url: ""
+  url: "/setts/lb4dg26g8lb8g8b3lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4dg26g8lb8g8b3lb2/)
-(the same proportion at any scale), whose colour order is pattern [WBGWGGW](/stripes/wbgwggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb4dg26g8lb8g8b3lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGWGGW](/stripes/wbgwggw/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/"><circle cx="272.1" cy="218.5" r="4" fill="#3465a4"><title>Valley of the Green (The ) Canadian Tartan</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.5" cy="196.7" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1806142-g2408144/"><circle cx="240.0" cy="215.5" r="4" fill="#3465a4"><title>Universal Ancient International Tartan</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.6" cy="214.2" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><circle cx="275.4" cy="219.0" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.6" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s9/db10y4db36g28w3g3w3g8y6/"><circle cx="277.7" cy="196.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.7" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="253.0" cy="232.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="294.0" cy="204.5" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><circle cx="264.9" cy="216.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/"><circle cx="272.2" cy="218.5" r="4" fill="#3465a4"><title>Valley of the Green (The ) Canadian Tartan</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.6" cy="196.6" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1806142-g2408144/"><circle cx="240.0" cy="215.4" r="4" fill="#3465a4"><title>Universal Ancient International Tartan</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.7" cy="214.1" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><circle cx="275.4" cy="219.0" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.5" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s9/db10y4db36g28w3g3w3g8y6/"><circle cx="277.7" cy="195.9" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.8" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="253.0" cy="232.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="294.0" cy="204.5" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><circle cx="264.9" cy="216.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb4dg26g8lb8g8b3lb2~x2/

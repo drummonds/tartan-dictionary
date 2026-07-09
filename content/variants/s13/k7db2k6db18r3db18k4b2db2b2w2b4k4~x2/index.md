@@ -1,14 +1,16 @@
 ---
 title: "Pride of Norway (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Norway (Fashion)"
-  url: ""
+  url: "/setts/k7db2k6db18r3db18k4b2db2b2w2b4k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k7db2k6db18r3db18k4b2db2b2w2b4k4/)
-(the same proportion at any scale), whose colour order is pattern [KBKBRBKBBBWBK](/stripes/kbkbrbkbbbwbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k7db2k6db18r3db18k4b2db2b2w2b4k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBRBKBBBWBK](/stripes/kbkbrbkbbbwbk/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/"><circle cx="230.6" cy="142.2" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1y2~x2/"><circle cx="211.4" cy="143.0" r="4" fill="#3465a4"><title>City of Sarnia</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="264.2" cy="150.5" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/"><circle cx="206.7" cy="141.6" r="4" fill="#3465a4"><title>City of Sarnia (District)</title></circle></a><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="269.4" cy="144.3" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.9" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.5" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><circle cx="240.5" cy="151.8" r="4" fill="#3465a4"><title>Skarpathiotakis, George (Personal)</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.0" cy="167.8" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s12/k5lb2t10lb2k5db15k2db15k5db10lb1y2~x2~t2105244-db1406275/"><circle cx="237.4" cy="147.1" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><circle cx="224.7" cy="141.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/"><circle cx="230.6" cy="142.1" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1y2~x2/"><circle cx="211.4" cy="142.8" r="4" fill="#3465a4"><title>City of Sarnia</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="264.2" cy="150.4" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/"><circle cx="206.7" cy="141.4" r="4" fill="#3465a4"><title>City of Sarnia (District)</title></circle></a><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="269.4" cy="144.2" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.8" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.4" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><circle cx="240.5" cy="151.7" r="4" fill="#3465a4"><title>Skarpathiotakis, George (Personal)</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.1" cy="167.6" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s12/k5lb2t10lb2k5db15k2db15k5db10lb1y2~x2~t2105244-db1406275/"><circle cx="237.5" cy="146.9" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><circle cx="224.7" cy="141.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k7db2k6db18r3db18k4b2db2b2w2b4k4~x2/

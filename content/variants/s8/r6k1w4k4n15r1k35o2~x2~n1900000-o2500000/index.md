@@ -1,14 +1,16 @@
 ---
 title: "Distripress (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Distripress (Corporate)"
-  url: ""
+  url: "/setts/r6k1w4k4n15r1k35o2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6k1w4k4n15r1k35o2/)
-(the same proportion at any scale), whose colour order is pattern [RKRBKWKR](/stripes/rkrbkwkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r6k1w4k4n15r1k35o2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRBKWKR](/stripes/rkrbkwkr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/"><circle cx="292.5" cy="64.7" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="314.9" cy="75.8" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.8" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.7" cy="91.8" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.6" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.7" cy="97.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.6" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.6" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.2" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="273.4" cy="135.6" r="4" fill="#3465a4"><title>Phantom</title></circle></a><circle cx="290.6" cy="77.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/"><circle cx="292.6" cy="64.5" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="314.9" cy="75.6" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.7" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.8" cy="91.7" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.5" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.7" cy="97.5" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.4" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.0" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="273.5" cy="135.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><circle cx="290.6" cy="77.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/

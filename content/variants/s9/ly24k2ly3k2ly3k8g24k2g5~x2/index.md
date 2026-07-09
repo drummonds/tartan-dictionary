@@ -1,16 +1,18 @@
 ---
 title: "Jamaican National (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Jamaican National"
   url: "/tartans/jamaican-national/"
 - name: "Jamaican National (District)"
-  url: ""
+  url: "/setts/ly24k2ly3k2ly3k8g24k2g5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly24k2ly3k2ly3k8g24k2g5/)
-(the same proportion at any scale), whose colour order is pattern [GKGKYKYKY](/stripes/gkgkykyky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly24k2ly3k2ly3k8g24k2g5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKYKYKY](/stripes/gkgkykyky/).
 
 Part of the [Jamaican National](/tartans/jamaican-national/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y24k2y3k2y3k8g24k2g5~x2/"><circle cx="239.3" cy="178.9" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><a href="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/"><circle cx="172.6" cy="157.6" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="200.3" cy="152.6" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.5" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/"><circle cx="202.9" cy="150.5" r="4" fill="#3465a4"><title>Children's Wish Foundation of Canada</title></circle></a><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/"><circle cx="280.4" cy="149.6" r="4" fill="#3465a4"><title>Glen Carron (Fashion)</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/"><circle cx="219.1" cy="158.5" r="4" fill="#3465a4"><title>MacMillan, Society of Glasgow</title></circle></a><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="257.4" cy="171.0" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><circle cx="202.8" cy="199.1" r="4" fill="#3465a4"><title>Harmer (Corporate)</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="157.3" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><circle cx="206.9" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y24k2y3k2y3k8g24k2g5~x2/"><circle cx="239.3" cy="178.8" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><a href="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/"><circle cx="172.6" cy="157.5" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="200.3" cy="152.5" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.4" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/"><circle cx="202.9" cy="150.4" r="4" fill="#3465a4"><title>Children's Wish Foundation of Canada</title></circle></a><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/"><circle cx="280.4" cy="149.5" r="4" fill="#3465a4"><title>Glen Carron (Fashion)</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/"><circle cx="219.1" cy="158.4" r="4" fill="#3465a4"><title>MacMillan, Society of Glasgow</title></circle></a><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="257.4" cy="170.9" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><circle cx="202.8" cy="199.0" r="4" fill="#3465a4"><title>Harmer (Corporate)</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="157.2" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><circle cx="206.9" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/ly24k2ly3k2ly3k8g24k2g5~x2/

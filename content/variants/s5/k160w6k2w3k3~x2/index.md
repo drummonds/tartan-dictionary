@@ -1,14 +1,16 @@
 ---
 title: "Black Camel Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Camel Tartan"
-  url: ""
+  url: "/setts/k160w6k2w3k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k160w6k2w3k3/)
-(the same proportion at any scale), whose colour order is pattern [KWKWK](/stripes/kwkwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k160w6k2w3k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWK](/stripes/kwkwk/).
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.6" cy="122.0" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.6" cy="133.5" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s6/k99r5k4r3k2g1~x2/"><circle cx="626.0" cy="85.8" r="4" fill="#3465a4"><title>Allt Dubh (Black Burn)</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.7" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s6/k31r2k10db1k1w1~x4/"><circle cx="604.6" cy="103.9" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.0" cy="156.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.9" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="462.8" cy="88.2" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.4" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.8" cy="122.1" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><circle cx="626.0" cy="99.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.6" cy="121.9" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.6" cy="133.4" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s6/k99r5k4r3k2g1~x2/"><circle cx="626.0" cy="85.6" r="4" fill="#3465a4"><title>Allt Dubh (Black Burn)</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.6" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s6/k31r2k10db1k1w1~x4/"><circle cx="604.6" cy="103.8" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.1" cy="156.1" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="462.8" cy="88.1" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.3" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.8" cy="122.0" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><circle cx="626.0" cy="99.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k160w6k2w3k3~x2/

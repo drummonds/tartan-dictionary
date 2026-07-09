@@ -1,14 +1,16 @@
 ---
 title: "Wilson's, No 110"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's, No 110"
-  url: ""
+  url: "/setts/y3k2lb3r14g19k3w3dp10lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3k2lb3r14g19k3w3dp10lb3/)
-(the same proportion at any scale), whose colour order is pattern [GKWRGKWBW](/stripes/gkwrgkwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y3k2lb3r14g19k3w3dp10lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWRGKWBW](/stripes/gkwrgkwbw/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/"><circle cx="66.4" cy="146.8" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/"><circle cx="91.7" cy="154.0" r="4" fill="#3465a4"><title>Brittany National Walking (Fashion)</title></circle></a><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><circle cx="86.0" cy="157.2" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/variants/s8/k3r18w2g21b2dp7lb5w2~x2/"><circle cx="97.0" cy="132.4" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/"><circle cx="73.1" cy="158.5" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6b6w2~x2/"><circle cx="39.6" cy="116.1" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6ri6w2~x2~r2109032-ri2406019/"><circle cx="41.5" cy="115.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird Clan Tartan</title></circle></a><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/"><circle cx="43.1" cy="116.6" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="52.0" cy="116.7" r="4" fill="#3465a4"><title>Wilson's No.110</title></circle></a><a href="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/"><circle cx="38.2" cy="109.3" r="4" fill="#3465a4"><title>Oregon American District Tartan</title></circle></a><circle cx="60.5" cy="138.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/"><circle cx="66.5" cy="146.7" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/"><circle cx="91.7" cy="153.9" r="4" fill="#3465a4"><title>Brittany National Walking (Fashion)</title></circle></a><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><circle cx="86.0" cy="157.1" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/variants/s8/k3r18w2g21b2dp7lb5w2~x2/"><circle cx="97.1" cy="132.3" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/"><circle cx="73.1" cy="158.4" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6b6w2~x2/"><circle cx="39.6" cy="116.0" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6ri6w2~x2~r2109032-ri2406019/"><circle cx="41.6" cy="115.6" r="4" fill="#3465a4"><title>Bruce of Kinnaird Clan Tartan</title></circle></a><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/"><circle cx="43.1" cy="116.5" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="52.0" cy="116.5" r="4" fill="#3465a4"><title>Wilson's No.110</title></circle></a><a href="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/"><circle cx="38.3" cy="109.1" r="4" fill="#3465a4"><title>Oregon American District Tartan</title></circle></a><circle cx="60.6" cy="138.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/

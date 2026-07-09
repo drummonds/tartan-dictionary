@@ -1,5 +1,12 @@
 ---
 title: "Hibernian F.C."
-redirect: "/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hibernian F.C.](/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/).
+This is the **Hibernian F.C.** sett — one scale-free proportion (`dp3dg6k9g11w1g11w1g11k9dg6dp3`), colour order pattern
+[BGKGWGWGKGB](/stripes/bgkgwgwgkgb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Hibernian F.C.](/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/) ★ | ~2016 | ![Hibernian F.C. sett](/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/sett.png) |

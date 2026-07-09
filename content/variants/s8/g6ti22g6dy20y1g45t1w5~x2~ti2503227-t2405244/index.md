@@ -1,14 +1,16 @@
 ---
 title: "Elbrick Hunting (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Elbrick Hunting (Personal)"
-  url: ""
+  url: "/setts/g6ti22g6dy20y1g45t1w5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6ti22g6dy20y1g45t1w5/)
-(the same proportion at any scale), whose colour order is pattern [GBGGGGBW](/stripes/gbggggbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6ti22g6dy20y1g45t1w5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGGGGBW](/stripes/gbggggbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g33t4g4t4g18dg13dp13dg2t11dg1n2~x2/"><circle cx="360.4" cy="165.9" r="4" fill="#3465a4"><title>Highlander</title></circle></a><a href="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/"><circle cx="343.1" cy="105.5" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/"><circle cx="350.6" cy="143.0" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.4" cy="184.5" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><a href="/variants/s10/dr5g25w3t5n15t5ly3t44n1w4~x2/"><circle cx="365.9" cy="139.1" r="4" fill="#3465a4"><title>State Seal of Texas (Fashion)</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.5" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="404.5" cy="183.8" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/"><circle cx="383.0" cy="141.8" r="4" fill="#3465a4"><title>Canuck Place (Corporate)</title></circle></a><a href="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/"><circle cx="322.4" cy="123.2" r="4" fill="#3465a4"><title>Nickel Lodge Centennial (Corporate)</title></circle></a><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><circle cx="388.7" cy="143.8" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><circle cx="359.9" cy="138.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g33t4g4t4g18dg13dp13dg2t11dg1n2~x2/"><circle cx="360.4" cy="165.8" r="4" fill="#3465a4"><title>Highlander</title></circle></a><a href="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/"><circle cx="343.1" cy="105.3" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/"><circle cx="350.6" cy="142.8" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.4" cy="184.4" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><a href="/variants/s10/dr5g25w3t5n15t5ly3t44n1w4~x2/"><circle cx="365.9" cy="139.0" r="4" fill="#3465a4"><title>State Seal of Texas (Fashion)</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.4" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="404.5" cy="183.7" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/"><circle cx="383.0" cy="141.7" r="4" fill="#3465a4"><title>Canuck Place (Corporate)</title></circle></a><a href="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/"><circle cx="322.4" cy="123.0" r="4" fill="#3465a4"><title>Nickel Lodge Centennial (Corporate)</title></circle></a><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><circle cx="388.7" cy="143.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><circle cx="359.9" cy="138.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g6ti22g6dy20y1g45t1w5~x2~ti2503227-t2405244/

@@ -1,5 +1,12 @@
 ---
 title: "Washington DC (Fashion)"
-redirect: "/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Washington DC (Fashion)](/variants/s8/w5t32n5g6n5dr16n39ly5~x2/).
+This is the **Washington DC (Fashion)** sett — one scale-free proportion (`w5t32n5g6n5dr16n39ly5`), colour order pattern
+[WBBGBBBY](/stripes/wbbgbbby/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Washington DC (Fashion)](/variants/s8/w5t32n5g6n5dr16n39ly5~x2/) ★ | 2013 | ![Washington DC (Fashion) sett](/variants/s8/w5t32n5g6n5dr16n39ly5~x2/sett.png) |

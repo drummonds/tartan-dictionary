@@ -1,14 +1,16 @@
 ---
 title: "Crane of Cluny Dress (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Crane of Cluny Dress (Personal)"
-  url: ""
+  url: "/setts/w83k6w3k9r2k5w2y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w83k6w3k9r2k5w2y2/)
-(the same proportion at any scale), whose colour order is pattern [GWKRKWKW](/stripes/gwkrkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w83k6w3k9r2k5w2y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWKRKWKW](/stripes/gwkrkwkw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><circle cx="337.0" cy="36.8" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/variants/s10/w102k3ly3k3w3k12db14g12w3r3~x2/"><circle cx="341.6" cy="39.9" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma (Personal</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="386.9" cy="134.5" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/"><circle cx="540.4" cy="31.4" r="4" fill="#3465a4"><title>Unnamed C18th - Blanket Pattern</title></circle></a><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="487.5" cy="63.6" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="365.7" cy="175.5" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1/"><circle cx="291.6" cy="118.7" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1~x2/"><circle cx="291.6" cy="118.7" r="4" fill="#3465a4"><title>MacPherson 6</title></circle></a><a href="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/"><circle cx="346.8" cy="54.4" r="4" fill="#3465a4"><title>Stuart/Stewart variant #2</title></circle></a><a href="/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/"><circle cx="401.1" cy="55.4" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><circle cx="462.3" cy="58.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><circle cx="337.0" cy="36.6" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/variants/s10/w102k3ly3k3w3k12db14g12w3r3~x2/"><circle cx="341.6" cy="39.7" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma (Personal</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="386.9" cy="134.4" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/"><circle cx="540.4" cy="31.2" r="4" fill="#3465a4"><title>Unnamed C18th - Blanket Pattern</title></circle></a><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="487.5" cy="63.4" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="365.7" cy="175.4" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1/"><circle cx="291.6" cy="118.6" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1~x2/"><circle cx="291.6" cy="118.6" r="4" fill="#3465a4"><title>MacPherson 6</title></circle></a><a href="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/"><circle cx="346.8" cy="54.2" r="4" fill="#3465a4"><title>Stuart/Stewart variant #2</title></circle></a><a href="/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/"><circle cx="401.1" cy="55.2" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><circle cx="462.3" cy="58.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w83k6w3k9r2k5w2y2~x2/

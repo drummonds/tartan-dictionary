@@ -1,5 +1,12 @@
 ---
 title: "MacTaggart"
-redirect: "/variants/s7/dg30db4dg2k20db18r1db4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacTaggart](/variants/s7/dg30db4dg2k20db18r1db4~x2/).
+This is the **MacTaggart** sett — one scale-free proportion (`dg30db4dg2k20db18r1db4`), colour order pattern
+[BRBKGBG](/stripes/brbkgbg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacTaggart](/variants/s7/dg30db4dg2k20db18r1db4~x2/) ★ | 2002 | ![MacTaggart sett](/variants/s7/dg30db4dg2k20db18r1db4~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Venters (Personal)"
-redirect: "/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Venters (Personal)](/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/).
+This is the **Venters (Personal)** sett — one scale-free proportion (`dbi15db55w1dp5r2ly1`), colour order pattern
+[BBWBRY](/stripes/bbwbry/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Venters (Personal)](/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/) ★ | 2011 | ![Venters (Personal) sett](/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/sett.png) |

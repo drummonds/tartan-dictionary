@@ -1,5 +1,12 @@
 ---
 title: "Harrods (Corporate)"
-redirect: "/variants/s14/dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Harrods (Corporate)](/variants/s14/dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/).
+This is the **Harrods (Corporate)** sett — one scale-free proportion (`dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2`), colour order pattern
+[GWKWGWGWYBYBGR](/stripes/gwkwgwgwybybgr/). It is recorded as a single **variant**, below.
+First attested **~1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Harrods (Corporate)](/variants/s14/dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/) ★ | ~1993 | ![Harrods (Corporate) sett](/variants/s14/dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/sett.png) |

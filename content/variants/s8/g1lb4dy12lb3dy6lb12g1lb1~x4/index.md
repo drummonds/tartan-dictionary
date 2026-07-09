@@ -1,14 +1,16 @@
 ---
 title: "O'Neill Pipe Band 1970 (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Neill Pipe Band 1970 (Corporate)"
-  url: ""
+  url: "/setts/g1lb4dy12lb3dy6lb12g1lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1lb4dy12lb3dy6lb12g1lb1/)
-(the same proportion at any scale), whose colour order is pattern [GWGWGWGW](/stripes/gwgwgwgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g1lb4dy12lb3dy6lb12g1lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGWGWGW](/stripes/gwgwgwgw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.6" cy="214.2" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1806142-g2408144/"><circle cx="240.0" cy="215.5" r="4" fill="#3465a4"><title>Universal Ancient International Tartan</title></circle></a><a href="/variants/s6/db3ly9db3ly9db20r3~x2/"><circle cx="289.8" cy="239.6" r="4" fill="#3465a4"><title>Latin</title></circle></a><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><circle cx="319.8" cy="240.5" r="4" fill="#3465a4"><title>O'Long (Personal)</title></circle></a><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><circle cx="355.2" cy="174.1" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.5" cy="208.7" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/"><circle cx="336.7" cy="186.0" r="4" fill="#3465a4"><title>Rafferty (Estimated threadcount)</title></circle></a><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.3" cy="213.0" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="311.0" cy="185.7" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.6" cy="237.1" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><circle cx="328.7" cy="221.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.7" cy="214.1" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1806142-g2408144/"><circle cx="240.0" cy="215.4" r="4" fill="#3465a4"><title>Universal Ancient International Tartan</title></circle></a><a href="/variants/s6/db3ly9db3ly9db20r3~x2/"><circle cx="289.9" cy="239.6" r="4" fill="#3465a4"><title>Latin</title></circle></a><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><circle cx="319.8" cy="240.4" r="4" fill="#3465a4"><title>O'Long (Personal)</title></circle></a><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><circle cx="355.2" cy="174.0" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.5" cy="208.6" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/"><circle cx="336.7" cy="185.9" r="4" fill="#3465a4"><title>Rafferty (Estimated threadcount)</title></circle></a><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.3" cy="212.9" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="311.0" cy="185.6" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.7" cy="237.0" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><circle cx="328.7" cy="221.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/

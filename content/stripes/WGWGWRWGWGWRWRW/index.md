@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/">Fraser</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><img src="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/">Major, Frazer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><img src="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/sett.png" alt="Major, Frazer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/">Frazer Major Portrait Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><img src="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/sett.png" alt="Frazer Major Portrait Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/">Fraser of Castle Leathers, Major James</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><img src="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/sett.png" alt="Fraser of Castle Leathers, Major James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

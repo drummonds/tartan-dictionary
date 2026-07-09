@@ -1,14 +1,16 @@
 ---
 title: "Buglass"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Buglass"
-  url: ""
+  url: "/setts/b3g1b1g14o2g2o2g4o11dg25y2dg3w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b3g1b1g14o2g2o2g4o11dg25y2dg3w2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGRGRGRGGGW](/stripes/bgbgrgrgrgggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b3g1b1g14o2g2o2g4o11dg25y2dg3w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGRGRGRGGGW](/stripes/bgbgrgrgrgggw/).
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db1404245-dt1703208/"><circle cx="225.8" cy="120.3" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/"><circle cx="282.6" cy="124.6" r="4" fill="#3465a4"><title>Hannigan of Dirleton</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/"><circle cx="286.4" cy="148.9" r="4" fill="#3465a4"><title>Fitzgibbon (Name)</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.7" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.6" cy="131.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.6" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/variants/s12/g2r2g2dy14y2r3y1r1dg20r3y1w2~x2/"><circle cx="224.3" cy="115.8" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.3" cy="85.6" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/"><circle cx="239.6" cy="134.2" r="4" fill="#3465a4"><title>Carter (Savannah) (Personal)</title></circle></a><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/"><circle cx="219.5" cy="157.5" r="4" fill="#3465a4"><title>Jolley (Personal)</title></circle></a><circle cx="214.6" cy="107.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db1404245-dt1703208/"><circle cx="225.9" cy="120.2" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/"><circle cx="282.6" cy="124.4" r="4" fill="#3465a4"><title>Hannigan of Dirleton</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/"><circle cx="286.5" cy="148.8" r="4" fill="#3465a4"><title>Fitzgibbon (Name)</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.6" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.7" cy="131.6" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.5" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/variants/s12/g2r2g2dy14y2r3y1r1dg20r3y1w2~x2/"><circle cx="224.4" cy="115.6" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.3" cy="85.4" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/"><circle cx="239.6" cy="134.1" r="4" fill="#3465a4"><title>Carter (Savannah) (Personal)</title></circle></a><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/"><circle cx="219.5" cy="157.4" r="4" fill="#3465a4"><title>Jolley (Personal)</title></circle></a><circle cx="214.6" cy="107.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g2508144-dg1104144/

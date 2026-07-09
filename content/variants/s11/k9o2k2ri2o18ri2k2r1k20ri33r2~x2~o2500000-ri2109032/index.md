@@ -1,14 +1,16 @@
 ---
 title: "Pride of Scotland, Silver (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Scotland, Silver (Fashion)"
-  url: ""
+  url: "/setts/k9o2k2ri2o18ri2k2r1k20ri33r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9o2k2ri2o18ri2k2r1k20ri33r2/)
-(the same proportion at any scale), whose colour order is pattern [KRKRRRKRKRR](/stripes/krkrrrkrkrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k9o2k2ri2o18ri2k2r1k20ri33r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKRRRKRKRR](/stripes/krkrrrkrkrr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><circle cx="249.9" cy="80.4" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><circle cx="248.6" cy="80.7" r="4" fill="#3465a4"><title>Sens (Corporate)</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="221.9" cy="110.2" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.6" cy="111.2" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><a href="/variants/s6/r47dg14k5y2k3dg7~x2/"><circle cx="266.2" cy="107.3" r="4" fill="#3465a4"><title>Harbor Club (Corporate)</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.8" cy="88.0" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.7" cy="83.2" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/"><circle cx="278.1" cy="79.3" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="276.0" cy="78.9" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/"><circle cx="216.1" cy="117.6" r="4" fill="#3465a4"><title>Rourke-Frew (Ontario)</title></circle></a><circle cx="221.4" cy="87.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><circle cx="249.9" cy="80.3" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><circle cx="248.6" cy="80.5" r="4" fill="#3465a4"><title>Sens (Corporate)</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="221.9" cy="110.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.6" cy="111.1" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><a href="/variants/s6/r47dg14k5y2k3dg7~x2/"><circle cx="266.2" cy="107.2" r="4" fill="#3465a4"><title>Harbor Club (Corporate)</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.8" cy="87.9" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.7" cy="83.1" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/"><circle cx="278.1" cy="79.1" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="276.1" cy="78.7" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/"><circle cx="216.1" cy="117.5" r="4" fill="#3465a4"><title>Rourke-Frew (Ontario)</title></circle></a><circle cx="221.4" cy="87.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k9o2k2ri2o18ri2k2r1k20ri33r2~x2~o2500000-ri2109032/

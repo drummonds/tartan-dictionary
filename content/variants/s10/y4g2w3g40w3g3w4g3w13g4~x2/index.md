@@ -1,14 +1,16 @@
 ---
 title: "St Patrick Trade or Fancy Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "St Patrick Trade or Fancy Tartan"
-  url: ""
+  url: "/setts/y4g2w3g40w3g3w4g3w13g4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4g2w3g40w3g3w4g3w13g4/)
-(the same proportion at any scale), whose colour order is pattern [GGWGWGWGWG](/stripes/ggwgwgwgwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y4g2w3g40w3g3w4g3w13g4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGWGWGWGWG](/stripes/ggwgwgwgwg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1977 An alternative source gives this sett as having been p
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1977 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="146.2" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/variants/s13/g2w10g3ly4g3ly4g24w2g4w4g1lo4g1~x2/"><circle cx="357.6" cy="152.5" r="4" fill="#3465a4"><title>McGill (Personal)</title></circle></a><a href="/variants/s10/g32dy2g2dy2g2dy12g22w1g1w3~x2/"><circle cx="539.8" cy="162.0" r="4" fill="#3465a4"><title>Unidentified Plaid #2</title></circle></a><a href="/variants/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="436.8" cy="140.6" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/"><circle cx="406.3" cy="128.6" r="4" fill="#3465a4"><title>St. Patrick</title></circle></a><circle cx="438.3" cy="164.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="146.1" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/variants/s13/g2w10g3ly4g3ly4g24w2g4w4g1lo4g1~x2/"><circle cx="357.6" cy="152.4" r="4" fill="#3465a4"><title>McGill (Personal)</title></circle></a><a href="/variants/s10/g32dy2g2dy2g2dy12g22w1g1w3~x2/"><circle cx="539.8" cy="161.9" r="4" fill="#3465a4"><title>Unidentified Plaid #2</title></circle></a><a href="/variants/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="436.8" cy="140.5" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/"><circle cx="406.3" cy="128.4" r="4" fill="#3465a4"><title>St. Patrick</title></circle></a><circle cx="438.3" cy="164.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/

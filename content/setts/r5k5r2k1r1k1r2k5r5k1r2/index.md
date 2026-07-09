@@ -1,5 +1,12 @@
 ---
 title: "Border Reiver, The"
-redirect: "/variants/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Border Reiver, The](/variants/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/).
+This is the **Border Reiver, The** sett — one scale-free proportion (`r5k5r2k1r1k1r2k5r5k1r2`), colour order pattern
+[RKRKRKRKRKR](/stripes/rkrkrkrkrkr/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Border Reiver, The](/variants/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/) ★ | 1998 | ![Border Reiver, The sett](/variants/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Wcwm 972-2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wcwm 972-2"
-  url: ""
+  url: "/setts/lb7k2n2k18lb2k4lb6k2lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb7k2n2k18lb2k4lb6k2lb1/)
-(the same proportion at any scale), whose colour order is pattern [WKKBKWKKKWKKW](/stripes/wkkbkwkkkwkkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb7k2n2k18lb2k4lb6k2lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKKBKWKKKWKKW](/stripes/wkkbkwkkkwkkw/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><circle cx="235.9" cy="105.9" r="4" fill="#3465a4"><title>Home (Clans Originaux)</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2~n1900000/"><circle cx="205.8" cy="124.9" r="4" fill="#3465a4"><title>Nunavut</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2/"><circle cx="205.0" cy="124.8" r="4" fill="#3465a4"><title>Nunavut (District)</title></circle></a><a href="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr2800000-n1700000/"><circle cx="212.1" cy="91.2" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="265.9" cy="120.7" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"><circle cx="231.3" cy="73.2" r="4" fill="#3465a4"><title>Angus Dress 1992 (Dance)</title></circle></a><a href="/variants/s15/db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="205.2" cy="85.5" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.1" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><a href="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/"><circle cx="213.9" cy="129.4" r="4" fill="#3465a4"><title>Hakkarain (Personal)</title></circle></a><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="235.9" cy="114.5" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><circle cx="231.3" cy="91.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><circle cx="235.9" cy="105.8" r="4" fill="#3465a4"><title>Home (Clans Originaux)</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2~n1900000/"><circle cx="205.8" cy="124.8" r="4" fill="#3465a4"><title>Nunavut</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2/"><circle cx="205.0" cy="124.6" r="4" fill="#3465a4"><title>Nunavut (District)</title></circle></a><a href="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr2800000-n1700000/"><circle cx="212.1" cy="91.1" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="265.9" cy="120.5" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"><circle cx="231.3" cy="73.1" r="4" fill="#3465a4"><title>Angus Dress 1992 (Dance)</title></circle></a><a href="/variants/s15/db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="205.2" cy="85.4" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.0" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><a href="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/"><circle cx="213.9" cy="129.3" r="4" fill="#3465a4"><title>Hakkarain (Personal)</title></circle></a><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="235.9" cy="114.4" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><circle cx="231.3" cy="90.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/

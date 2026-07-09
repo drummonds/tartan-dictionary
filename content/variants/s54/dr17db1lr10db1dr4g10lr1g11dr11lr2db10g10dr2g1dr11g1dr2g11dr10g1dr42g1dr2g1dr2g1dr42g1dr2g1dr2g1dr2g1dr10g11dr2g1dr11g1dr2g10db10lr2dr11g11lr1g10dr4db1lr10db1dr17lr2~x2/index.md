@@ -1,14 +1,16 @@
 ---
 title: "MacDonald of Staffa #6"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDonald of Staffa #6"
-  url: ""
+  url: "/setts/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2/)
-(the same proportion at any scale), whose colour order is pattern [BBYBBGYGBYBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBYBGYGBBYBBY](/stripes/bbybbgygbybgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbybgygbbybby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBYBBGYGBYBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBYBGYGBBYBBY](/stripes/bbybbgygbybgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbybgygbbybby/).
 
 Sourced from register-of-tartans.  It is a [54 stripe tartan](/stripes/stripes54/).
 

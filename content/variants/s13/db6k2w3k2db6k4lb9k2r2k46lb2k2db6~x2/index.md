@@ -1,14 +1,16 @@
 ---
 title: "Kieck (2015)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kieck (2015)"
-  url: ""
+  url: "/setts/db6k2w3k2db6k4lb9k2r2k46lb2k2db6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6k2w3k2db6k4lb9k2r2k46lb2k2db6/)
-(the same proportion at any scale), whose colour order is pattern [BKWKBKWKRKWKB](/stripes/bkwkbkwkrkwkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db6k2w3k2db6k4lb9k2r2k46lb2k2db6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWKBKWKRKWKB](/stripes/bkwkbkwkrkwkb/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="51.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.4" cy="48.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/"><circle cx="288.6" cy="100.3" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/"><circle cx="356.8" cy="60.9" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.4" cy="46.6" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.3" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><circle cx="323.8" cy="48.6" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/"><circle cx="346.5" cy="60.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="90.0" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s11/k40n8o2n2w2n2k9w5n2w5k2~x2/"><circle cx="316.4" cy="85.1" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><circle cx="304.9" cy="58.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="51.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.5" cy="47.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/"><circle cx="288.7" cy="100.2" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/"><circle cx="356.8" cy="60.7" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.4" cy="46.4" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.1" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><circle cx="323.8" cy="48.4" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/"><circle cx="346.5" cy="60.4" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="89.8" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s11/k40n8o2n2w2n2k9w5n2w5k2~x2/"><circle cx="316.4" cy="84.9" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><circle cx="304.9" cy="57.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/

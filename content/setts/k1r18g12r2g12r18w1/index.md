@@ -1,5 +1,12 @@
 ---
 title: "MacKinnon #4"
-redirect: "/variants/s7/k1r18g12r2g12r18w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKinnon #4](/variants/s7/k1r18g12r2g12r18w1~x2/).
+This is the **MacKinnon #4** sett — one scale-free proportion (`k1r18g12r2g12r18w1`), colour order pattern
+[KRGRGRW](/stripes/krgrgrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacKinnon #4](/variants/s7/k1r18g12r2g12r18w1~x2/) ★ | ~2016 | ![MacKinnon #4 sett](/variants/s7/k1r18g12r2g12r18w1~x2/sett.png) |

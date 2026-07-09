@@ -17,7 +17,7 @@ The **Ettrick** tartan groups 2 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/setts/k5r26k26r5/">Ettrick</a> ★</td><td><code>K/20 R104 K104 R/20</code></td><td>456</td><td>1900</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k5r26k26r5/"><img src="/variants/s4/k5r26k26r5~x4/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k6r31k31r6/">Ettrick</a></td><td><code>K/12 R62 K62 R/12</code></td><td>272</td><td>—</td></tr>
+<tr><td><a href="/setts/k6r31k31r6/">Ettrick</a></td><td><code>K/12 R62 K62 R/12</code></td><td>272</td><td>1830</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k6r31k31r6/"><img src="/variants/s4/k6r31k31r6~x2/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

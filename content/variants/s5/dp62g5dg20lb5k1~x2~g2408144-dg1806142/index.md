@@ -1,14 +1,16 @@
 ---
 title: "Michie, Andrew (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Michie, Andrew (Personal)"
-  url: ""
+  url: "/setts/dp62g5dg20lb5k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp62g5dg20lb5k1/)
-(the same proportion at any scale), whose colour order is pattern [BGGWK](/stripes/bggwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp62g5dg20lb5k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGWK](/stripes/bggwk/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.5" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="394.9" cy="157.4" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s5/dt30w2k6db3r3~x4/"><circle cx="376.9" cy="151.7" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.8" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="394.0" cy="107.6" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="423.3" cy="184.8" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="387.9" cy="66.7" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><circle cx="380.6" cy="79.2" r="4" fill="#3465a4"><title>Guide Dogs (Corporate)</title></circle></a><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="448.1" cy="111.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><circle cx="431.8" cy="108.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.4" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="395.0" cy="157.3" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s5/dt30w2k6db3r3~x4/"><circle cx="376.9" cy="151.6" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.6" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="394.0" cy="107.5" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="423.3" cy="184.7" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="387.9" cy="66.6" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><circle cx="380.7" cy="79.0" r="4" fill="#3465a4"><title>Guide Dogs (Corporate)</title></circle></a><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="448.1" cy="111.5" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><circle cx="431.8" cy="108.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/

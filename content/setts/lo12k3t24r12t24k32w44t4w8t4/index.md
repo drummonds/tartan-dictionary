@@ -1,5 +1,12 @@
 ---
 title: "Gillies Dress Blue"
-redirect: "/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gillies Dress Blue](/variants/s10/lo12k3t24r12t24k32w44t4w8t4/).
+This is the **Gillies Dress Blue** sett — one scale-free proportion (`lo12k3t24r12t24k32w44t4w8t4`), colour order pattern
+[BWBWKBRBKY](/stripes/bwbwkbrbky/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Gillies Dress Blue](/variants/s10/lo12k3t24r12t24k32w44t4w8t4/) ★ | 2002 | ![Gillies Dress Blue sett](/variants/s10/lo12k3t24r12t24k32w44t4w8t4/sett.png) |

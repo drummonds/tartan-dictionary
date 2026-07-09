@@ -1,5 +1,12 @@
 ---
 title: "Greer (Name?)"
-redirect: "/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Greer (Name?)](/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/).
+This is the **Greer (Name?)** sett — one scale-free proportion (`lb16db3lb3n3lb3db10dr12w4`), colour order pattern
+[WBBWBWBW](/stripes/wbbwbwbw/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Greer (Name?)](/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/) ★ | 1994 | ![Greer (Name?) sett](/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/sett.png) |

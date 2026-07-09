@@ -1,5 +1,12 @@
 ---
 title: "Tarim"
-redirect: "/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tarim](/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/).
+This is the **Tarim** sett — one scale-free proportion (`b1o4b1o4b2w1`), colour order pattern
+[BRBRBW](/stripes/brbrbw/). It is recorded as a single **variant**, below.
+First attested **undated**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Tarim](/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/) ★ | undated | ![Tarim sett](/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/sett.png) |

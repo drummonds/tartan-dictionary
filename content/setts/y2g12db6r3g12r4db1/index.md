@@ -2,15 +2,15 @@
 title: "MacKintosh Hunting"
 date: 2023-03-18
 ---
-The **MacKintosh Hunting** tartan is one sett proportion (`y2g12db6r3g12r4db1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRGRBGG](/stripes/brgrbgg/); each scale below is its own sett page. First attested **1951**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacKintosh Hunting** sett — one scale-free proportion (`y2g12db6r3g12r4db1`), colour order pattern
+[BRGRBGG](/stripes/brgrbgg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1951**.
 
-Part of the [MacKintosh Hunting](/tartans/mackintosh-hunting/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacKintosh Hunting](/tartans/mackintosh-hunting/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [MacKintosh Hunting](/variants/s7/y2g12db6r3g12r4db1~x2/) ★ | 1951 | ![MacKintosh Hunting sett](/variants/s7/y2g12db6r3g12r4db1~x2/sett.png) |
 | ×1 | [MacKintosh Hunting](/variants/s7/y2g12db6r3g12r4db1/) | ~2016 | ![MacKintosh Hunting sett](/variants/s7/y2g12db6r3g12r4db1/sett.png) |

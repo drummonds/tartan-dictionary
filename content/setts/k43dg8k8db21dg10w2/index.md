@@ -1,5 +1,14 @@
 ---
 title: "Longmuir (2014)"
-redirect: "/variants/s6/k43dg8k8db21dg10w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Longmuir (2014)](/variants/s6/k43dg8k8db21dg10w2~x2/).
+This is the **Longmuir (2014)** sett — one scale-free proportion (`k43dg8k8db21dg10w2`), colour order pattern
+[KGKBGW](/stripes/kgkbgw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+Part of the [Longmuir](/tartans/longmuir/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Longmuir (2014)](/variants/s6/k43dg8k8db21dg10w2~x2/) ★ | 2013 | ![Longmuir (2014) sett](/variants/s6/k43dg8k8db21dg10w2~x2/sett.png) |

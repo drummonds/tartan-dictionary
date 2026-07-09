@@ -1,5 +1,12 @@
 ---
 title: "Pride of Glencoe"
-redirect: "/variants/s6/k3g2m3db30dp32w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pride of Glencoe](/variants/s6/k3g2m3db30dp32w3~x2/).
+This is the **Pride of Glencoe** sett — one scale-free proportion (`k3g2m3db30dp32w3`), colour order pattern
+[KGRBBW](/stripes/kgrbbw/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Pride of Glencoe](/variants/s6/k3g2m3db30dp32w3~x2/) ★ | 2001 | ![Pride of Glencoe sett](/variants/s6/k3g2m3db30dp32w3~x2/sett.png) |

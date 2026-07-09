@@ -1,16 +1,18 @@
 ---
 title: "Scottish Lion (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Lion"
   url: "/tartans/scottish-lion/"
 - name: "Scottish Lion (Corporate)"
-  url: ""
+  url: "/setts/dr4db16lb2db16r4dp7dg21r3dg4do3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4db16lb2db16r4dp7dg21r3dg4do3/)
-(the same proportion at any scale), whose colour order is pattern [BBWBRBGRGB](/stripes/bbwbrbgrgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr4db16lb2db16r4dp7dg21r3dg4do3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBRBGRGB](/stripes/bbwbrbgrgb/).
 
 Part of the [Scottish Lion](/tartans/scottish-lion/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4db16lb2db16dr4dp7dg21dr3dg4do3~x2/"><circle cx="223.9" cy="176.8" r="4" fill="#3465a4"><title>Scottish Lion Name Tartan</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="208.1" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="210.9" cy="188.1" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/"><circle cx="260.1" cy="230.2" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/"><circle cx="307.7" cy="209.3" r="4" fill="#3465a4"><title>Strathisla (District)</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.8" cy="200.3" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/"><circle cx="188.5" cy="208.6" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.6" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><circle cx="267.3" cy="159.5" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/"><circle cx="244.7" cy="245.1" r="4" fill="#3465a4"><title>Glen Erin Canadian Tartan</title></circle></a><circle cx="249.7" cy="190.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4db16lb2db16dr4dp7dg21dr3dg4do3~x2/"><circle cx="224.0" cy="176.7" r="4" fill="#3465a4"><title>Scottish Lion Name Tartan</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="208.0" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="211.0" cy="188.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/"><circle cx="260.1" cy="230.2" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/"><circle cx="307.8" cy="209.2" r="4" fill="#3465a4"><title>Strathisla (District)</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.9" cy="200.2" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/"><circle cx="188.6" cy="208.5" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.5" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><circle cx="267.3" cy="159.4" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/"><circle cx="244.8" cy="245.0" r="4" fill="#3465a4"><title>Glen Erin Canadian Tartan</title></circle></a><circle cx="249.7" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2~dr1305012-r1606028/

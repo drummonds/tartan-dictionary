@@ -1,16 +1,18 @@
 ---
 title: "Amarillo District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Amarillo"
   url: "/tartans/amarillo/"
 - name: "Amarillo District Tartan"
-  url: ""
+  url: "/setts/db18k2lb2db9k4g9r4db9lb2k2y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18k2lb2db9k4g9r4db9lb2k2y1/)
-(the same proportion at any scale), whose colour order is pattern [BKWBKGRBWKG](/stripes/bkwbkgrbwkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db18k2lb2db9k4g9r4db9lb2k2y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBKGRBWKG](/stripes/bkwbkgrbwkg/).
 
 Part of the [Amarillo](/tartans/amarillo/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1996 Designed for the city of Amarillo in Texas, USA, by Dr
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1996 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/"><circle cx="260.1" cy="126.2" r="4" fill="#3465a4"><title>Amarillo</title></circle></a><a href="/variants/s11/b19k1yi1b10k4y9dp4b9yi1k1ly2~x4~b2206256-yi2602166/"><circle cx="292.4" cy="115.9" r="4" fill="#3465a4"><title>Cian of Ely (Clan)</title></circle></a><a href="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/"><circle cx="285.0" cy="130.1" r="4" fill="#3465a4"><title>Cian (Carroll), Clan</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><circle cx="322.7" cy="104.7" r="4" fill="#3465a4"><title>Lapsley, The Tom</title></circle></a><a href="/variants/s8/db35g10lb10k10db23ly1db3r2~x2/"><circle cx="321.7" cy="104.8" r="4" fill="#3465a4"><title>Lapsley, The Tom (Personal)</title></circle></a><a href="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/"><circle cx="202.1" cy="131.1" r="4" fill="#3465a4"><title>New Millennium</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.6" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/"><circle cx="260.4" cy="112.9" r="4" fill="#3465a4"><title>University of Edinburgh Business Sch</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/"><circle cx="267.9" cy="113.5" r="4" fill="#3465a4"><title>University of Edinburgh Business School, The</title></circle></a><circle cx="240.1" cy="119.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/"><circle cx="260.1" cy="126.0" r="4" fill="#3465a4"><title>Amarillo</title></circle></a><a href="/variants/s11/b19k1yi1b10k4y9dp4b9yi1k1ly2~x4~b2206256-yi2602166/"><circle cx="292.4" cy="115.8" r="4" fill="#3465a4"><title>Cian of Ely (Clan)</title></circle></a><a href="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/"><circle cx="285.0" cy="130.0" r="4" fill="#3465a4"><title>Cian (Carroll), Clan</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.6" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><circle cx="322.7" cy="104.5" r="4" fill="#3465a4"><title>Lapsley, The Tom</title></circle></a><a href="/variants/s8/db35g10lb10k10db23ly1db3r2~x2/"><circle cx="321.7" cy="104.6" r="4" fill="#3465a4"><title>Lapsley, The Tom (Personal)</title></circle></a><a href="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/"><circle cx="202.1" cy="131.0" r="4" fill="#3465a4"><title>New Millennium</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.5" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/"><circle cx="260.4" cy="112.7" r="4" fill="#3465a4"><title>University of Edinburgh Business Sch</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/"><circle cx="268.0" cy="113.4" r="4" fill="#3465a4"><title>University of Edinburgh Business School, The</title></circle></a><circle cx="240.1" cy="119.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db18k2lb2db9k4g9r4db9lb2k2y1~x4/

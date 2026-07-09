@@ -1,5 +1,12 @@
 ---
 title: "Bryce"
-redirect: "/variants/s4/dr5o35dr46ly5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bryce](/variants/s4/dr5o35dr46ly5~x2/).
+This is the **Bryce** sett — one scale-free proportion (`dr5o35dr46ly5`), colour order pattern
+[BRBY](/stripes/brby/). It is recorded as a single **variant**, below.
+First attested **1953**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bryce](/variants/s4/dr5o35dr46ly5~x2/) ★ | 1953 | ![Bryce sett](/variants/s4/dr5o35dr46ly5~x2/sett.png) |

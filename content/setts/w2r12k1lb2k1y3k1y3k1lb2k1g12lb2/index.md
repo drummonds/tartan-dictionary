@@ -1,5 +1,12 @@
 ---
 title: "Buchanan #3"
-redirect: "/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Buchanan #3](/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/).
+This is the **Buchanan #3** sett — one scale-free proportion (`w2r12k1lb2k1y3k1y3k1lb2k1g12lb2`), colour order pattern
+[WGKWKGKGKWKRW](/stripes/wgkwkgkgkwkrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Buchanan #3](/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/) ★ | ~2016 | ![Buchanan #3 sett](/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/sett.png) |

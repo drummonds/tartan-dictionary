@@ -1,5 +1,14 @@
 ---
 title: "Edinburgh '86"
-redirect: "/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Edinburgh '86](/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/).
+This is the **Edinburgh '86** sett — one scale-free proportion (`db6w2db2w2db4w6db28lb4db4lb45r4`), colour order pattern
+[BWBWBWBWBWR](/stripes/bwbwbwbwbwr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Edinburgh '86](/tartans/edinburgh-86/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Edinburgh '86](/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/) ★ | ~2016 | ![Edinburgh '86 sett](/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/sett.png) |

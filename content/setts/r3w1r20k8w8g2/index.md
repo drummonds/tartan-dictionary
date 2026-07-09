@@ -1,5 +1,12 @@
 ---
 title: "Nisbet Dress Rose (Dance)"
-redirect: "/variants/s6/r3w1r20k8w8g2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Nisbet Dress Rose (Dance)](/variants/s6/r3w1r20k8w8g2~x4/).
+This is the **Nisbet Dress Rose (Dance)** sett — one scale-free proportion (`r3w1r20k8w8g2`), colour order pattern
+[GWKRWR](/stripes/gwkrwr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Nisbet Dress Rose (Dance)](/variants/s6/r3w1r20k8w8g2~x4/) ★ | 2002 | ![Nisbet Dress Rose (Dance) sett](/variants/s6/r3w1r20k8w8g2~x4/sett.png) |

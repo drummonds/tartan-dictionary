@@ -1,5 +1,12 @@
 ---
 title: "Bute Heather, Ancient Wth'd (Fashion"
-redirect: "/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bute Heather, Ancient Wth'd (Fashion](/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/).
+This is the **Bute Heather, Ancient Wth'd (Fashion** sett — one scale-free proportion (`ly5n2y8n1y8n4y4n6y18lb1ly5`), colour order pattern
+[YBGBGBGBGWY](/stripes/ybgbgbgbgwy/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bute Heather, Ancient Wth'd (Fashion](/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/) ★ | ~2007 | ![Bute Heather, Ancient Wth'd (Fashion sett](/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/sett.png) |

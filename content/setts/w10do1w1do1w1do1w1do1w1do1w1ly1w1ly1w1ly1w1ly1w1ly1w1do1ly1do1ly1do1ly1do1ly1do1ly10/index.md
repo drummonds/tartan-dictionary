@@ -1,5 +1,12 @@
 ---
 title: "Wcwm 1131"
-redirect: "/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wcwm 1131](/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/).
+This is the **Wcwm 1131** sett — one scale-free proportion (`w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10`), colour order pattern
+[WBWBWBWBWBWYWYWYWYWYWBYBYBYBYBY](/stripes/wbwbwbwbwbwywywywywywbybybybyby/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wcwm 1131](/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/) ★ | 2002 | ![Wcwm 1131 sett](/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/sett.png) |

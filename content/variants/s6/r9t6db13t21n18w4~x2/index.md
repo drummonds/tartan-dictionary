@@ -1,14 +1,16 @@
 ---
 title: "Fox-Eves Wedding (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fox-Eves Wedding (Personal)"
-  url: ""
+  url: "/setts/r9t6db13t21n18w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9t6db13t21n18w4/)
-(the same proportion at any scale), whose colour order is pattern [RBBBBW](/stripes/rbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r9t6db13t21n18w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBBBBW](/stripes/rbbbbw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="145.1" cy="262.2" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="201.9" cy="296.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.9" cy="274.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/"><circle cx="123.4" cy="232.1" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="175.7" cy="234.8" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.4" cy="230.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/db4lr3db4lr3o3n11o3~x2/"><circle cx="172.4" cy="279.0" r="4" fill="#3465a4"><title>Stevens #2</title></circle></a><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><circle cx="162.7" cy="267.3" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><circle cx="198.2" cy="315.1" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><circle cx="174.5" cy="276.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="145.1" cy="262.2" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="201.9" cy="296.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="148.0" cy="274.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/"><circle cx="123.5" cy="232.0" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="175.8" cy="234.7" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.5" cy="230.1" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/db4lr3db4lr3o3n11o3~x2/"><circle cx="172.5" cy="279.0" r="4" fill="#3465a4"><title>Stevens #2</title></circle></a><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><circle cx="162.7" cy="267.2" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><circle cx="198.2" cy="315.1" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><circle cx="174.6" cy="276.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r9t6db13t21n18w4~x2/

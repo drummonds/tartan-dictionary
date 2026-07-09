@@ -1,5 +1,12 @@
 ---
 title: "Unidentified 6"
-redirect: "/variants/s19/db85r2k2db4dbi4db2r2k2db20k42b20y2k2b4lb4b4y2k2b83~x2~db0805267-dbi1604274/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified 6](/variants/s19/db85r2k2db4dbi4db2r2k2db20k42b20y2k2b4lb4b4y2k2b83~x2~db0805267-dbi1604274/).
+This is the **Unidentified 6** sett — one scale-free proportion (`db85r2k2db4dbi4db2r2k2db20k42b20y2k2b4lb4b4y2k2b83`), colour order pattern
+[BKGBWBKGBKBKRBBBKRB](/stripes/bkgbwbkgbkbkrbbbkrb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified 6](/variants/s19/db85r2k2db4dbi4db2r2k2db20k42b20y2k2b4lb4b4y2k2b83~x2~db0805267-dbi1604274/) ★ | ~2016 | ![Unidentified 6 sett](/variants/s19/db85r2k2db4dbi4db2r2k2db20k42b20y2k2b4lb4b4y2k2b83~x2~db0805267-dbi1604274/sett.png) |

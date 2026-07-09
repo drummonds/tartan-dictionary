@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/">MacNaughton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/"><img src="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/sett.png" alt="MacNaughton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k2db2r26dg25k13db13r26db2k2/">MacNaughton (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/k2db2r26dg25k13db13r26db2k2/"><img src="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/sett.png" alt="MacNaughton (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/">MacNaughton Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/"><img src="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/sett.png" alt="MacNaughton Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

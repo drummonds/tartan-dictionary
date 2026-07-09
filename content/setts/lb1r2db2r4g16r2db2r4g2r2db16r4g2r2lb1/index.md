@@ -1,5 +1,12 @@
 ---
 title: "MacIntyre of Whitehouse (Clan?)"
-redirect: "/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacIntyre of Whitehouse (Clan?)](/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/).
+This is the **MacIntyre of Whitehouse (Clan?)** sett — one scale-free proportion (`lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1`), colour order pattern
+[WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacIntyre of Whitehouse (Clan?)](/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/) ★ | ~2008 | ![MacIntyre of Whitehouse (Clan?) sett](/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/sett.png) |

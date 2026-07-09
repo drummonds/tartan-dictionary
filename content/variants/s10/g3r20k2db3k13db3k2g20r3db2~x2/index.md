@@ -1,14 +1,16 @@
 ---
 title: "Matthew Gloag"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Matthew Gloag"
-  url: ""
+  url: "/setts/g3r20k2db3k13db3k2g20r3db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3r20k2db3k13db3k2g20r3db2/)
-(the same proportion at any scale), whose colour order is pattern [BRGKBKBKRG](/stripes/brgkbkbkrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g3r20k2db3k13db3k2g20r3db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGKBKBKRG](/stripes/brgkbkbkrg/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/"><circle cx="158.9" cy="168.6" r="4" fill="#3465a4"><title>Matthew Gloag &amp; Son Ltd (Corporate)</title></circle></a><a href="/variants/s10/dp3r4g26k3dp4k16dp4k3r26g2~x2/"><circle cx="147.0" cy="144.9" r="4" fill="#3465a4"><title>Famous Grouse, The</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.6" cy="132.4" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/variants/s11/dr8k3o3dt28k20o28w3o3w3o3w6/"><circle cx="106.3" cy="142.0" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/"><circle cx="154.6" cy="160.8" r="4" fill="#3465a4"><title>MacPherson Htg</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.5" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><circle cx="133.0" cy="158.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="136.7" cy="168.3" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.6" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.5" cy="159.2" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><circle cx="134.9" cy="156.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/"><circle cx="158.9" cy="168.5" r="4" fill="#3465a4"><title>Matthew Gloag &amp; Son Ltd (Corporate)</title></circle></a><a href="/variants/s10/dp3r4g26k3dp4k16dp4k3r26g2~x2/"><circle cx="147.1" cy="144.8" r="4" fill="#3465a4"><title>Famous Grouse, The</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.6" cy="132.3" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/variants/s11/dr8k3o3dt28k20o28w3o3w3o3w6/"><circle cx="106.3" cy="141.9" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/"><circle cx="154.6" cy="160.7" r="4" fill="#3465a4"><title>MacPherson Htg</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="136.7" cy="168.2" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.5" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.6" cy="159.0" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><circle cx="134.9" cy="156.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Connecticut State Police Pipe Band"
-redirect: "/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Connecticut State Police Pipe Band](/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/).
+This is the **Connecticut State Police Pipe Band** sett — one scale-free proportion (`k42n2k2n17db8y4`), colour order pattern
+[GBBKBK](/stripes/gbbkbk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Connecticut State Police Pipe Band](/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/) ★ | 2002 | ![Connecticut State Police Pipe Band sett](/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/sett.png) |

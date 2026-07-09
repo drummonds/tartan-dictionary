@@ -1,14 +1,16 @@
 ---
 title: "Currie (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Currie (Clan)"
-  url: ""
+  url: "/setts/gi44k1gi3y3gi3w1g21w1g3w3g3w1g21/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/gi44k1gi3y3gi3w1g21w1g3w3g3w1g21/)
-(the same proportion at any scale), whose colour order is pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/gi44k1gi3y3gi3w1g21w1g3w3g3w1g21/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

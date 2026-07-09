@@ -1,14 +1,16 @@
 ---
 title: "Trotter (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Trotter (Personal)"
-  url: ""
+  url: "/setts/b23dt2b2dt2b2dt28r2dt4t2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b23dt2b2dt2b2dt28r2dt4t2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBRBB](/stripes/bbbbbbrbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b23dt2b2dt2b2dt28r2dt4t2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBRBB](/stripes/bbbbbbrbb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.8" cy="225.8" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/"><circle cx="392.2" cy="194.0" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/"><circle cx="382.6" cy="183.9" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/n37ly2r6ly2n8db49n3~x2/"><circle cx="377.5" cy="173.2" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.8" cy="187.1" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><circle cx="279.1" cy="167.5" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="394.6" cy="184.5" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.0" cy="141.9" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.2" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><circle cx="399.6" cy="177.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.8" cy="225.7" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/"><circle cx="392.2" cy="193.9" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/"><circle cx="382.6" cy="183.8" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.1" cy="189.3" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/n37ly2r6ly2n8db49n3~x2/"><circle cx="377.6" cy="173.1" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.9" cy="187.0" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><circle cx="279.2" cy="167.4" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="394.7" cy="184.4" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.0" cy="141.8" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.1" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><circle cx="399.6" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/

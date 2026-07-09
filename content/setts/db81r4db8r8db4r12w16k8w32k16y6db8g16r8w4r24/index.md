@@ -1,5 +1,12 @@
 ---
 title: "Royal Stuart/Stewart (Variant)"
-redirect: "/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Royal Stuart/Stewart (Variant)](/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/).
+This is the **Royal Stuart/Stewart (Variant)** sett — one scale-free proportion (`db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24`), colour order pattern
+[BRBRBRWKWKGBGRWR](/stripes/brbrbrwkwkgbgrwr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Royal Stuart/Stewart (Variant)](/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/) ★ | ~2016 | ![Royal Stuart/Stewart (Variant) sett](/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/sett.png) |

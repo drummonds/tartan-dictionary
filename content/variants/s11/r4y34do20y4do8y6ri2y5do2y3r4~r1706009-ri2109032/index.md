@@ -1,16 +1,18 @@
 ---
 title: "Morgan Welsh Name Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Morgan"
   url: "/tartans/morgan/"
 - name: "Morgan Welsh Name Tartan"
-  url: ""
+  url: "/setts/r4y34do20y4do8y6ri2y5do2y3r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4y34do20y4do8y6ri2y5do2y3r4/)
-(the same proportion at any scale), whose colour order is pattern [RGBGBGRGBGR](/stripes/rgbgbgrgbgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4y34do20y4do8y6ri2y5do2y3r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGBGBGRGBGR](/stripes/rgbgbgrgbgr/).
 
 Part of the [Morgan](/tartans/morgan/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2002 The tartan for this Welsh surname and its variations, 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.6" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/"><circle cx="415.3" cy="207.7" r="4" fill="#3465a4"><title>MacIver of Strathendry Htg (Personal</title></circle></a><a href="/variants/s14/dg8o5dg5o5dg5o6db1o2dg8o2db1o24db4o6~x2~dg1806142-o2005046/"><circle cx="483.7" cy="187.6" r="4" fill="#3465a4"><title>MacGillivray Hunting</title></circle></a><a href="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/"><circle cx="393.2" cy="153.6" r="4" fill="#3465a4"><title>Dunbarton</title></circle></a><a href="/variants/s10/r3n33g10r3g3r3g3r8n10r3~x2/"><circle cx="421.9" cy="213.7" r="4" fill="#3465a4"><title>Gray (Name)</title></circle></a><a href="/variants/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><circle cx="486.1" cy="153.0" r="4" fill="#3465a4"><title>Seton, hunting</title></circle></a><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><circle cx="393.0" cy="124.8" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/variants/s8/y5dg14o4db4o27dg3o4y5~x2/"><circle cx="364.9" cy="224.6" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s14/g8o5g5o5g5o6db1o2g8o2db1o24db4o6~x2/"><circle cx="462.1" cy="183.1" r="4" fill="#3465a4"><title>MacGillivray Htg (Clan)</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="370.1" cy="194.4" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><circle cx="430.6" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.5" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/"><circle cx="415.3" cy="207.6" r="4" fill="#3465a4"><title>MacIver of Strathendry Htg (Personal</title></circle></a><a href="/variants/s14/dg8o5dg5o5dg5o6db1o2dg8o2db1o24db4o6~x2~dg1806142-o2005046/"><circle cx="483.7" cy="187.5" r="4" fill="#3465a4"><title>MacGillivray Hunting</title></circle></a><a href="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/"><circle cx="393.2" cy="153.5" r="4" fill="#3465a4"><title>Dunbarton</title></circle></a><a href="/variants/s10/r3n33g10r3g3r3g3r8n10r3~x2/"><circle cx="421.9" cy="213.7" r="4" fill="#3465a4"><title>Gray (Name)</title></circle></a><a href="/variants/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><circle cx="486.1" cy="152.8" r="4" fill="#3465a4"><title>Seton, hunting</title></circle></a><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><circle cx="393.0" cy="124.7" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/variants/s8/y5dg14o4db4o27dg3o4y5~x2/"><circle cx="364.9" cy="224.5" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s14/g8o5g5o5g5o6db1o2g8o2db1o24db4o6~x2/"><circle cx="462.1" cy="183.0" r="4" fill="#3465a4"><title>MacGillivray Htg (Clan)</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="370.1" cy="194.3" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><circle cx="430.6" cy="176.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/

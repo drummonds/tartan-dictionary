@@ -1,5 +1,12 @@
 ---
 title: "Wcwm 1651"
-redirect: "/variants/s7/dr10k1dr3g7k7g5lo3~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wcwm 1651](/variants/s7/dr10k1dr3g7k7g5lo3~x4/).
+This is the **Wcwm 1651** sett — one scale-free proportion (`dr10k1dr3g7k7g5lo3`), colour order pattern
+[BKBGKGY](/stripes/bkbgkgy/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wcwm 1651](/variants/s7/dr10k1dr3g7k7g5lo3~x4/) ★ | 2002 | ![Wcwm 1651 sett](/variants/s7/dr10k1dr3g7k7g5lo3~x4/sett.png) |

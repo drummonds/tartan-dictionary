@@ -1,5 +1,12 @@
 ---
 title: "Waddell (Fife), Greg"
-redirect: "/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Waddell (Fife), Greg](/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/).
+This is the **Waddell (Fife), Greg** sett — one scale-free proportion (`dr3db2dr24db8dg2db2dg2db2dg10dr3w2`), colour order pattern
+[BBBBGBGBGBW](/stripes/bbbbgbgbgbw/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Waddell (Fife), Greg](/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/) ★ | 2011 | ![Waddell (Fife), Greg sett](/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/sett.png) |

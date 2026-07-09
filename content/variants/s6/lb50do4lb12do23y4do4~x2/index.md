@@ -1,14 +1,16 @@
 ---
 title: "Sligo"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sligo"
-  url: ""
+  url: "/setts/lb50do4lb12do23y4do4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb50do4lb12do23y4do4/)
-(the same proportion at any scale), whose colour order is pattern [BGBWBW](/stripes/bgbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb50do4lb12do23y4do4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWBW](/stripes/bgbwbw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3o3db24o30db3o2~x2/"><circle cx="415.5" cy="212.8" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.6" cy="207.9" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="454.7" cy="200.4" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="400.2" cy="247.1" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.6" cy="237.1" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><a href="/variants/s5/t11lo2dr1lo2dr1~x4/"><circle cx="464.9" cy="247.1" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.7" cy="221.1" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.1" cy="198.5" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.8" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="427.5" cy="193.1" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><circle cx="408.7" cy="213.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3o3db24o30db3o2~x2/"><circle cx="415.5" cy="212.7" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.6" cy="207.8" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="454.8" cy="200.3" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="400.2" cy="247.1" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.7" cy="237.0" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><a href="/variants/s5/t11lo2dr1lo2dr1~x4/"><circle cx="464.9" cy="247.1" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.7" cy="221.0" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.1" cy="198.5" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.8" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="427.5" cy="193.0" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><circle cx="408.7" cy="213.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb50do4lb12do23y4do4~x2/

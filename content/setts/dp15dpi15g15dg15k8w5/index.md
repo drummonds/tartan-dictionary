@@ -1,5 +1,12 @@
 ---
 title: "Williams, Edmund (Personal)"
-redirect: "/variants/s6/dp15dpi15g15dg15k8w5~x2~dp1105325-dpi1607327/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Williams, Edmund (Personal)](/variants/s6/dp15dpi15g15dg15k8w5~x2~dp1105325-dpi1607327/).
+This is the **Williams, Edmund (Personal)** sett — one scale-free proportion (`dp15dpi15g15dg15k8w5`), colour order pattern
+[BBGGKW](/stripes/bbggkw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Williams, Edmund (Personal)](/variants/s6/dp15dpi15g15dg15k8w5~x2~dp1105325-dpi1607327/) ★ | 2013 | ![Williams, Edmund (Personal) sett](/variants/s6/dp15dpi15g15dg15k8w5~x2~dp1105325-dpi1607327/sett.png) |

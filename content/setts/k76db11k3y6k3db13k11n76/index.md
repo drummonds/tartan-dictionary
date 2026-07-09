@@ -1,5 +1,12 @@
 ---
 title: "Kunbi"
-redirect: "/variants/s8/k76db11k3y6k3db13k11n76/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kunbi](/variants/s8/k76db11k3y6k3db13k11n76/).
+This is the **Kunbi** sett — one scale-free proportion (`k76db11k3y6k3db13k11n76`), colour order pattern
+[BKBKGKBK](/stripes/bkbkgkbk/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Kunbi](/variants/s8/k76db11k3y6k3db13k11n76/) ★ | 2007 | ![Kunbi sett](/variants/s8/k76db11k3y6k3db13k11n76/sett.png) |

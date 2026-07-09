@@ -1,6 +1,7 @@
 ---
 title: "Clark"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,8 +12,9 @@ crumbs:
 - name: "Clark"
   url: "/setts/r3k1g1k1lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3k1g1k1lb3/)
-(the same proportion at any scale), whose colour order is pattern [RKGKW](/stripes/rkgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3k1g1k1lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGKW](/stripes/rkgkw/).
 
 Part of the [Clark](/tartans/clark/) tartan — the named design grouping this sett with its other cloths.
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3k1g1k1lb3~x8/"><circle cx="79.1" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="78.5" cy="238.3" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/variants/s5/r3k1g1k1w3~x4/"><circle cx="69.7" cy="264.8" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="93.0" cy="276.4" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.7" cy="264.6" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="169.4" cy="240.0" r="4" fill="#3465a4"><title>Hamby Sport (Personal)</title></circle></a><a href="/variants/s5/k1db8r6g8k1~x4/"><circle cx="138.3" cy="226.5" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th Military Tartan</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.3" cy="237.0" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="170.6" cy="282.8" r="4" fill="#3465a4"><title>Doohan (New South Wales), Andrew</title></circle></a><circle cx="79.1" cy="267.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3k1g1k1lb3~x8/"><circle cx="79.2" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="78.5" cy="238.3" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/variants/s5/r3k1g1k1w3~x4/"><circle cx="69.7" cy="264.8" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="93.0" cy="276.4" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.7" cy="264.6" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="169.4" cy="240.0" r="4" fill="#3465a4"><title>Hamby Sport (Personal)</title></circle></a><a href="/variants/s5/k1db8r6g8k1~x4/"><circle cx="138.3" cy="226.4" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th Military Tartan</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.4" cy="237.0" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="170.7" cy="282.8" r="4" fill="#3465a4"><title>Doohan (New South Wales), Andrew</title></circle></a><circle cx="79.2" cy="267.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r3k1g1k1lb3~x4/

@@ -2,15 +2,15 @@
 title: "St. Johnstone F.C. (Sports)"
 date: 2023-03-18
 ---
-The **St. Johnstone F.C. (Sports)** tartan is one sett proportion (`k6lb3k8db7lo2db7lb1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[KWKBYBW](/stripes/kwkbybw/); each scale below is its own sett page. First attested **~1996**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **St. Johnstone F.C. (Sports)** sett — one scale-free proportion (`k6lb3k8db7lo2db7lb1`), colour order pattern
+[KWKBYBW](/stripes/kwkbybw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~1996**.
 
-Part of the [St. Johnstone F.C.](/tartans/st-johnstone-f-c/) tartan — the named design grouping this proportion with its other setts.
+Part of the [St. Johnstone F.C.](/tartans/st-johnstone-f-c/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [St. Johnstone F.C. (Sports)](/variants/s7/k6lb3k8db7lo2db7lb1~x4/) ★ | ~1996 | ![St. Johnstone F.C. (Sports) sett](/variants/s7/k6lb3k8db7lo2db7lb1~x4/sett.png) |
-| ×4 | [St. Johnstone Football Club](/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/) | 1997 | ![St. Johnstone Football Club sett](/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/sett.png) |
+| ×4 | [St Johnstone F.C. Corporate Sport Tartan](/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/) | ~1996 | ![St Johnstone F.C. Corporate Sport Tartan sett](/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/sett.png) |

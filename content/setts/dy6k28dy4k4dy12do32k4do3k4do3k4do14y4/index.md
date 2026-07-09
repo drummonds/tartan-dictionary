@@ -1,5 +1,12 @@
 ---
 title: "Etihad Airways"
-redirect: "/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Etihad Airways](/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/).
+This is the **Etihad Airways** sett — one scale-free proportion (`dy6k28dy4k4dy12do32k4do3k4do3k4do14y4`), colour order pattern
+[GBKBKBKBGKGKG](/stripes/gbkbkbkbgkgkg/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Etihad Airways](/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/) ★ | 2015 | ![Etihad Airways sett](/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/sett.png) |

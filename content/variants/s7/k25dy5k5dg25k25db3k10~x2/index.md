@@ -1,14 +1,16 @@
 ---
 title: "London Community Gospel Choir, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "London Community Gospel Choir, The"
-  url: ""
+  url: "/setts/k25dy5k5dg25k25db3k10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k25dy5k5dg25k25db3k10/)
-(the same proportion at any scale), whose colour order is pattern [KBKGKGK](/stripes/kbkgkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k25dy5k5dg25k25db3k10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKGKGK](/stripes/kbkgkgk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><circle cx="288.8" cy="196.7" r="4" fill="#3465a4"><title>London Community Gospel Choir</title></circle></a><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="489.4" cy="157.4" r="4" fill="#3465a4"><title>Langhein Family Tartan</title></circle></a><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/"><circle cx="474.0" cy="152.8" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="443.9" cy="136.6" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><circle cx="292.8" cy="176.0" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="456.6" cy="156.8" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="243.0" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><a href="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/"><circle cx="477.5" cy="173.0" r="4" fill="#3465a4"><title>Scottish Funereal Association</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/"><circle cx="361.0" cy="152.8" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles) (Military)</title></circle></a><circle cx="381.7" cy="223.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><circle cx="288.8" cy="196.7" r="4" fill="#3465a4"><title>London Community Gospel Choir</title></circle></a><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="489.5" cy="157.3" r="4" fill="#3465a4"><title>Langhein Family Tartan</title></circle></a><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/"><circle cx="474.0" cy="152.7" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="444.0" cy="136.4" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><circle cx="292.8" cy="175.9" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="456.6" cy="156.7" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="242.9" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><a href="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/"><circle cx="477.6" cy="172.9" r="4" fill="#3465a4"><title>Scottish Funereal Association</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.4" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/"><circle cx="361.1" cy="152.7" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles) (Military)</title></circle></a><circle cx="381.8" cy="223.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k25dy5k5dg25k25db3k10~x2/

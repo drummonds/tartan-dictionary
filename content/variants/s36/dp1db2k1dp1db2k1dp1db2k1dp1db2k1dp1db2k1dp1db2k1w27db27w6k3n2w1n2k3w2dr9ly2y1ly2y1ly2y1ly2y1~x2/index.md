@@ -1,14 +1,16 @@
 ---
 title: "Am Yisrael Chair (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Am Yisrael Chair (Corporate)"
-  url: ""
+  url: "/setts/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1/)
-(the same proportion at any scale), whose colour order is pattern [BBKBBKBBKBBKBBKBBKWBWKBWBKWBYGYGYGYG](/stripes/bbkbbkbbkbbkbbkbbkwbwkbwbkwbygygygyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBKBBKBBKBBKBBKBBKWBWKBWBKWBYGYGYGYG](/stripes/bbkbbkbbkbbkbbkbbkwbwkbwbkwbygygygyg/).
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

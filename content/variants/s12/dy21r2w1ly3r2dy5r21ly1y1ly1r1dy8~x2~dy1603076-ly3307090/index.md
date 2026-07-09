@@ -1,14 +1,16 @@
 ---
 title: "Glendronach Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glendronach Corporate Tartan"
-  url: ""
+  url: "/setts/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8/)
-(the same proportion at any scale), whose colour order is pattern [GRWYRGRYGYRG](/stripes/grwyrgrygyrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRWYRGRYGYRG](/stripes/grwyrgrygyrg/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1989 A copyright design created for the Glendronach Company
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1989 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~db1204274-dg1806142-g2408144/"><circle cx="369.7" cy="86.3" r="4" fill="#3465a4"><title>All Ireland Red</title></circle></a><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~dg1806142-g2408144/"><circle cx="367.3" cy="85.7" r="4" fill="#3465a4"><title>All Ireland Red (Fashion)</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2008029-r1707016/"><circle cx="377.0" cy="96.8" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2ri2g2~x4~r2109032-ri2307033/"><circle cx="374.7" cy="95.8" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2109032-r1807008/"><circle cx="373.9" cy="95.4" r="4" fill="#3465a4"><title>Munro Clan Tartan</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="397.4" cy="117.9" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2dr2g2~x2~r1908029/"><circle cx="382.3" cy="99.6" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="342.8" cy="136.4" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1~x2/"><circle cx="365.3" cy="129.0" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/"><circle cx="365.3" cy="129.0" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><circle cx="361.4" cy="123.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~db1204274-dg1806142-g2408144/"><circle cx="369.7" cy="86.1" r="4" fill="#3465a4"><title>All Ireland Red</title></circle></a><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~dg1806142-g2408144/"><circle cx="367.3" cy="85.5" r="4" fill="#3465a4"><title>All Ireland Red (Fashion)</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2008029-r1707016/"><circle cx="377.0" cy="96.6" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2ri2g2~x4~r2109032-ri2307033/"><circle cx="374.6" cy="95.6" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2109032-r1807008/"><circle cx="373.9" cy="95.2" r="4" fill="#3465a4"><title>Munro Clan Tartan</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="397.4" cy="117.8" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2dr2g2~x2~r1908029/"><circle cx="382.3" cy="99.5" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="342.8" cy="136.3" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1~x2/"><circle cx="365.3" cy="128.8" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/"><circle cx="365.3" cy="128.8" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><circle cx="361.4" cy="123.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/

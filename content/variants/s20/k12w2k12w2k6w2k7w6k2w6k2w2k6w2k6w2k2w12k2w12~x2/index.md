@@ -1,14 +1,16 @@
 ---
 title: "Ogilvie (Black and White)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ogilvie (Black and White)"
-  url: ""
+  url: "/setts/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12/)
-(the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkw/).
 
 Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
@@ -23,8 +25,8 @@ Earliest known date: pre 2003 Full sett can be seen in STS files.
 <ul>
 <li>01/01/2002 — Ogilvie (Black and White) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3225">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Trade sett, MacGregor-Hastie collection. Scottish Tartans Society archive.</em></li>
 <li>pre 2002 — Ogilvie (B&W) (Fashion?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1250">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No other details.</em></li>
+<li>pre 2003 — Ogilvy B/W Trade Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1250">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 <li>undated — Ogilvy, Black and White (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
-<li>undated — Ogilvy B/W Trade Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1250">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
 </details>
 
@@ -76,6 +78,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w1k2w1k2w1k2w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x4/"><circle cx="168.0" cy="290.4" r="4" fill="#3465a4"><title>Glenurquhart Estate Check</title></circle></a><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><circle cx="233.3" cy="197.3" r="4" fill="#3465a4"><title>Scott (Sir Walter Scott) (Personal)</title></circle></a><circle cx="233.3" cy="171.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w1k2w1k2w1k2w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x4/"><circle cx="168.0" cy="290.3" r="4" fill="#3465a4"><title>Glenurquhart Estate Check</title></circle></a><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><circle cx="233.3" cy="197.2" r="4" fill="#3465a4"><title>Scott (Sir Walter Scott) (Personal)</title></circle></a><circle cx="233.3" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s20/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Glenlivet"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenlivet"
-  url: ""
+  url: "/setts/g18r6g75db6g13o35g12db6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g18r6g75db6g13o35g12db6/)
-(the same proportion at any scale), whose colour order is pattern [BGRGBGRG](/stripes/bgrgbgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g18r6g75db6g13o35g12db6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRGBGRG](/stripes/bgrgbgrg/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.6" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s7/g10b4g1b4g15r4g1~x4/"><circle cx="465.0" cy="228.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.8" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s6/g30t8g5lb4g5r2~x4~t2405244-lb3203246/"><circle cx="523.7" cy="217.1" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s6/o20g40w5g40o20g9~x2/"><circle cx="462.6" cy="295.2" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/variants/s10/g3dbi1g2r1g3db3g2db2g18dbi2~x2~dbi1404245-db1003246/"><circle cx="499.2" cy="160.0" r="4" fill="#3465a4"><title>Owen Welsh Name Tartan</title></circle></a><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><circle cx="491.4" cy="154.3" r="4" fill="#3465a4"><title>Owen (Welsh Name)</title></circle></a><a href="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/"><circle cx="411.1" cy="207.4" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/variants/s6/g46o20g9o20g46lg5~x2/"><circle cx="532.7" cy="299.3" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.4" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><circle cx="470.7" cy="209.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.5" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s7/g10b4g1b4g15r4g1~x4/"><circle cx="465.1" cy="228.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.7" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s6/g30t8g5lb4g5r2~x4~t2405244-lb3203246/"><circle cx="523.7" cy="217.0" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s6/o20g40w5g40o20g9~x2/"><circle cx="462.6" cy="295.2" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/variants/s10/g3dbi1g2r1g3db3g2db2g18dbi2~x2~dbi1404245-db1003246/"><circle cx="499.2" cy="159.9" r="4" fill="#3465a4"><title>Owen Welsh Name Tartan</title></circle></a><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><circle cx="491.4" cy="154.1" r="4" fill="#3465a4"><title>Owen (Welsh Name)</title></circle></a><a href="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/"><circle cx="411.1" cy="207.3" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/variants/s6/g46o20g9o20g46lg5~x2/"><circle cx="532.7" cy="299.2" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.3" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><circle cx="470.7" cy="209.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g18r6g75db6g13o35g12db6/

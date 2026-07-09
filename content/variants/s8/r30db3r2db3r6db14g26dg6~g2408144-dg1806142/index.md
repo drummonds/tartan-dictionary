@@ -1,16 +1,18 @@
 ---
 title: "Cranston Dress Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cranston Dress"
   url: "/tartans/cranston-dress/"
 - name: "Cranston Dress Family Tartan"
-  url: ""
+  url: "/setts/r30db3r2db3r6db14g26dg6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30db3r2db3r6db14g26dg6/)
-(the same proportion at any scale), whose colour order is pattern [GGBRBRBR](/stripes/ggbrbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r30db3r2db3r6db14g26dg6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBRBRBR](/stripes/ggbrbrbr/).
 
 Part of the [Cranston Dress](/tartans/cranston-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: pre 2003 Restricted
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="234.7" cy="182.6" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/"><circle cx="234.9" cy="196.4" r="4" fill="#3465a4"><title>Logan #3</title></circle></a><a href="/variants/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="242.1" cy="175.6" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="193.3" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.4" cy="196.6" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/"><circle cx="260.8" cy="163.8" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/"><circle cx="249.1" cy="196.9" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.5" cy="187.6" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="242.0" cy="179.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="234.7" cy="182.5" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/"><circle cx="235.0" cy="196.3" r="4" fill="#3465a4"><title>Logan #3</title></circle></a><a href="/variants/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="242.1" cy="175.6" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="193.2" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.4" cy="196.5" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/"><circle cx="260.8" cy="163.7" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/"><circle cx="249.1" cy="196.8" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.5" cy="187.5" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.8" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="242.0" cy="179.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/

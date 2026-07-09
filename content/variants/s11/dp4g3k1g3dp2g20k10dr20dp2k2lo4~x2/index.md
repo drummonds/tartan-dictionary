@@ -1,14 +1,16 @@
 ---
 title: "Moffat (1994)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Moffat (1994)"
-  url: ""
+  url: "/setts/dp4g3k1g3dp2g20k10dr20dp2k2lo4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp4g3k1g3dp2g20k10dr20dp2k2lo4/)
-(the same proportion at any scale), whose colour order is pattern [BGKGBGKBBKY](/stripes/bgkgbgkbbky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp4g3k1g3dp2g20k10dr20dp2k2lo4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKGBGKBBKY](/stripes/bgkgbgkbbky/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.4" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="147.3" cy="142.2" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><circle cx="150.0" cy="142.7" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan</title></circle></a><a href="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/"><circle cx="181.6" cy="118.3" r="4" fill="#3465a4"><title>Beartrap (Military)</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.9" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="119.0" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/"><circle cx="171.4" cy="117.0" r="4" fill="#3465a4"><title>Celts, Tartan of the</title></circle></a><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/"><circle cx="160.2" cy="113.9" r="4" fill="#3465a4"><title>Pope Welsh Name Tartan</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.8" cy="138.5" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.6" r="4" fill="#3465a4"><title>Cavan</title></circle></a><circle cx="161.7" cy="119.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.3" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="147.3" cy="142.1" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><circle cx="150.0" cy="142.6" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan</title></circle></a><a href="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/"><circle cx="181.6" cy="118.1" r="4" fill="#3465a4"><title>Beartrap (Military)</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.8" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="118.9" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/"><circle cx="171.4" cy="116.9" r="4" fill="#3465a4"><title>Celts, Tartan of the</title></circle></a><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/"><circle cx="160.2" cy="113.8" r="4" fill="#3465a4"><title>Pope Welsh Name Tartan</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.8" cy="138.4" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.5" r="4" fill="#3465a4"><title>Cavan</title></circle></a><circle cx="161.7" cy="119.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/

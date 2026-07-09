@@ -1,5 +1,14 @@
 ---
 title: "J.C.M. Customs"
-redirect: "/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [J.C.M. Customs](/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/).
+This is the **J.C.M. Customs** sett — one scale-free proportion (`k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3`), colour order pattern
+[KWWRWWKBRKWWKBKWWKR](/stripes/kwwrwwkbrkwwkbkwwkr/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+Part of the [JCM Customs](/tartans/jcm-customs/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [J.C.M. Customs](/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/) ★ | 2015 | ![J.C.M. Customs sett](/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Selkirk Silver Band (Corporate)"
-redirect: "/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Selkirk Silver Band (Corporate)](/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/).
+This is the **Selkirk Silver Band (Corporate)** sett — one scale-free proportion (`k75dr1k4n15k2n1k3db1k2dr1`), colour order pattern
+[BKBKBKBKBK](/stripes/bkbkbkbkbk/). It is recorded as a single **variant**, below.
+First attested **~2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Selkirk Silver Band (Corporate)](/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/) ★ | ~2009 | ![Selkirk Silver Band (Corporate) sett](/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/sett.png) |

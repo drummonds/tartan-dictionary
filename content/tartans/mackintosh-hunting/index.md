@@ -21,7 +21,7 @@ The **MacKintosh Hunting** tartan groups 2 setts — the same named design recor
 <tr><td><a href="/setts/y2g12db6r3g12r4db1/">MacKintosh Hunting</a> ★</td><td><code>Y/4 G24 DB12 R6 G24 R8 DB/2</code></td><td>154</td><td>1951</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/y2g12db6r3g12r4db1/"><img src="/variants/s7/y2g12db6r3g12r4db1~x2/sett.png" alt="MacKintosh Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/y2g12db6r3g12r4db1/">MacKintosh Hunting</a> · <a href="/variants/s7/y2g12db6r3g12r4db1~x2/">MacKintosh Hunting</a></td></tr>
-<tr><td><a href="/setts/db1r3g11r2db5g11y1/">MacKintosh, hunting</a></td><td><code>Y/2 G22 DB10 R4 G22 R6 DB/2</code></td><td>132</td><td>—</td></tr>
+<tr><td><a href="/setts/db1r3g11r2db5g11y1/">MacKintosh, hunting</a></td><td><code>Y/2 G22 DB10 R4 G22 R6 DB/2</code></td><td>132</td><td>1951</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db1r3g11r2db5g11y1/"><img src="db1r3g11r2db5g11y1-rev.png" alt="MacKintosh, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

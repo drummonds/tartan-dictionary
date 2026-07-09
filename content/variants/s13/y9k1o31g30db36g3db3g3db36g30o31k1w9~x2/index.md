@@ -1,14 +1,16 @@
 ---
 title: "Campbell, Brown (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Campbell, Brown (Personal)"
-  url: ""
+  url: "/setts/y9k1o31g30db36g3db3g3db36g30o31k1w9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y9k1o31g30db36g3db3g3db36g30o31k1w9/)
-(the same proportion at any scale), whose colour order is pattern [GKRGBGBGBGRKW](/stripes/gkrgbgbgbgrkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y9k1o31g30db36g3db3g3db36g30o31k1w9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRGBGBGBGRKW](/stripes/gkrgbgbgbgrkw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y9k1dr31g30db36g3db3g3db36g30dr31k1w9~x2/"><circle cx="163.3" cy="104.4" r="4" fill="#3465a4"><title>Campbell Brown Personal Tartan</title></circle></a><a href="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/"><circle cx="166.9" cy="107.9" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="149.5" cy="99.4" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/variants/s12/t6k1r4k1t38k17n12dy5n5dy25k1ly4~x2/"><circle cx="168.3" cy="78.0" r="4" fill="#3465a4"><title>State Seal of New Jersey (Fashion)</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.8" cy="97.8" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.5" cy="97.1" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s11/dr4g4k2g17do5g5do17g6lb1db22dr2~x2/"><circle cx="187.9" cy="131.4" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/variants/s11/dr4g4k2g15do5g5do15g6w1db19dr2~x2/"><circle cx="175.3" cy="140.3" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.0" cy="92.5" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/"><circle cx="100.2" cy="130.9" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><circle cx="160.4" cy="103.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y9k1dr31g30db36g3db3g3db36g30dr31k1w9~x2/"><circle cx="163.3" cy="104.2" r="4" fill="#3465a4"><title>Campbell Brown Personal Tartan</title></circle></a><a href="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/"><circle cx="166.9" cy="107.8" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="149.5" cy="99.2" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/variants/s12/t6k1r4k1t38k17n12dy5n5dy25k1ly4~x2/"><circle cx="168.3" cy="77.8" r="4" fill="#3465a4"><title>State Seal of New Jersey (Fashion)</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.8" cy="97.7" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.6" cy="96.9" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s11/dr4g4k2g17do5g5do17g6lb1db22dr2~x2/"><circle cx="187.9" cy="131.2" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/variants/s11/dr4g4k2g15do5g5do15g6w1db19dr2~x2/"><circle cx="175.3" cy="140.2" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.0" cy="92.3" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/"><circle cx="100.3" cy="130.8" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><circle cx="160.4" cy="103.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/

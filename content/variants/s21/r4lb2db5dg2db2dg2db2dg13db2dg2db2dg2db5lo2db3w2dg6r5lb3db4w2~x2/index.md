@@ -1,16 +1,18 @@
 ---
 title: "Lundie"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lundie"
   url: "/tartans/lundie/"
 - name: "Lundie"
-  url: ""
+  url: "/setts/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2/)
-(the same proportion at any scale), whose colour order is pattern [RWBGBGBGBGBGBYBWGRWBW](/stripes/rwbgbgbgbgbgbybwgrwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBGBGBGBGBGBYBWGRWBW](/stripes/rwbgbgbgbgbgbybwgrwbw/).
 
 Part of the [Lundie](/tartans/lundie/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/r4t2db5g2db2g2db2g13db2g2db2g2db5y2db3w2g6r5t3db4w2~x2/"><circle cx="114.7" cy="170.3" r="4" fill="#3465a4"><title>Lundie (Personal)</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/"><circle cx="95.0" cy="187.0" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan</title></circle></a><a href="/variants/s13/dg8lo2dg4r4dg13w2dy13w2db13r4db3r2db8~x2/"><circle cx="115.2" cy="192.8" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/variants/s17/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4~x2/"><circle cx="125.0" cy="161.3" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/"><circle cx="123.0" cy="184.2" r="4" fill="#3465a4"><title>Forbes, of Druminnor</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/"><circle cx="100.1" cy="189.6" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><circle cx="138.4" cy="174.3" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><circle cx="123.0" cy="188.8" r="4" fill="#3465a4"><title>Forbes of Druminnor Artifact Tartan</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.4" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><circle cx="73.9" cy="154.7" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><circle cx="112.3" cy="164.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/r4t2db5g2db2g2db2g13db2g2db2g2db5y2db3w2g6r5t3db4w2~x2/"><circle cx="114.7" cy="170.1" r="4" fill="#3465a4"><title>Lundie (Personal)</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/"><circle cx="95.0" cy="186.9" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan</title></circle></a><a href="/variants/s13/dg8lo2dg4r4dg13w2dy13w2db13r4db3r2db8~x2/"><circle cx="115.2" cy="192.7" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/variants/s17/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4~x2/"><circle cx="125.0" cy="161.2" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/"><circle cx="123.0" cy="184.1" r="4" fill="#3465a4"><title>Forbes, of Druminnor</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/"><circle cx="100.1" cy="189.5" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><circle cx="138.4" cy="174.2" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><circle cx="123.0" cy="188.7" r="4" fill="#3465a4"><title>Forbes of Druminnor Artifact Tartan</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.3" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><circle cx="73.9" cy="154.5" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><circle cx="112.3" cy="164.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s21/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2~x2/

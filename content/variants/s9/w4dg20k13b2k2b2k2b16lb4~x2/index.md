@@ -1,14 +1,16 @@
 ---
 title: "Royal College of Surgeons of Edinburgh"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal College of Surgeons of Edinburgh"
-  url: ""
+  url: "/setts/w4dg20k13b2k2b2k2b16lb4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4dg20k13b2k2b2k2b16lb4/)
-(the same proportion at any scale), whose colour order is pattern [WBKBKBKGW](/stripes/wbkbkbkgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4dg20k13b2k2b2k2b16lb4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBKBKBKGW](/stripes/wbkbkbkgw/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="173.2" cy="153.3" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="102.5" cy="166.0" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="143.4" cy="156.2" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><circle cx="124.0" cy="161.1" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s9/w4n20k13db2k2db2k2db16lb4~x2/"><circle cx="112.1" cy="160.4" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh, The</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="150.1" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/"><circle cx="121.9" cy="160.8" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><circle cx="92.8" cy="161.6" r="4" fill="#3465a4"><title>Bowlers (Commemorative)</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18y2w3~x2/"><circle cx="96.3" cy="135.8" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><circle cx="97.5" cy="136.1" r="4" fill="#3465a4"><title>Tindal</title></circle></a><circle cx="105.6" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="173.3" cy="153.2" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="102.5" cy="165.9" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="143.4" cy="156.1" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><circle cx="124.0" cy="161.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s9/w4n20k13db2k2db2k2db16lb4~x2/"><circle cx="112.1" cy="160.3" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh, The</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="150.0" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/"><circle cx="121.9" cy="160.7" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><circle cx="92.8" cy="161.5" r="4" fill="#3465a4"><title>Bowlers (Commemorative)</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18y2w3~x2/"><circle cx="96.3" cy="135.6" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><circle cx="97.6" cy="136.0" r="4" fill="#3465a4"><title>Tindal</title></circle></a><circle cx="105.6" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/

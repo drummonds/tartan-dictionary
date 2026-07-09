@@ -1,5 +1,12 @@
 ---
 title: "Culloden, Stirling"
-redirect: "/variants/s8/b4o2dg15y2k14w14k2w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Culloden, Stirling](/variants/s8/b4o2dg15y2k14w14k2w4~x2/).
+This is the **Culloden, Stirling** sett — one scale-free proportion (`b4o2dg15y2k14w14k2w4`), colour order pattern
+[BRGGKWKW](/stripes/brggkwkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Culloden, Stirling](/variants/s8/b4o2dg15y2k14w14k2w4~x2/) ★ | ~2016 | ![Culloden, Stirling sett](/variants/s8/b4o2dg15y2k14w14k2w4~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Glen Trool District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glen Trool District Tartan"
-  url: ""
+  url: "/setts/dg37dy9dg3r9dy3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg37dy9dg3r9dy3/)
-(the same proportion at any scale), whose colour order is pattern [GGGRG](/stripes/gggrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg37dy9dg3r9dy3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGRG](/stripes/gggrg/).
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the South
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1945 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g37dy9g3do9dy3~x2/"><circle cx="483.5" cy="252.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="494.2" cy="248.2" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="394.8" cy="280.2" r="4" fill="#3465a4"><title>Pendlebury, Andrew (Personal)</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><circle cx="393.9" cy="209.5" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x8/"><circle cx="393.9" cy="209.5" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="370.1" cy="194.4" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.3" cy="237.8" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="395.0" cy="313.5" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.9" cy="293.6" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><circle cx="508.7" cy="245.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g37dy9g3do9dy3~x2/"><circle cx="483.5" cy="252.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="494.2" cy="248.2" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="394.9" cy="280.1" r="4" fill="#3465a4"><title>Pendlebury, Andrew (Personal)</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><circle cx="393.9" cy="209.5" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x8/"><circle cx="393.9" cy="209.5" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="370.1" cy="194.3" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.3" cy="237.7" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="395.0" cy="313.5" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="401.0" cy="293.6" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><circle cx="508.8" cy="245.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dg37dy9dg3r9dy3~x2/

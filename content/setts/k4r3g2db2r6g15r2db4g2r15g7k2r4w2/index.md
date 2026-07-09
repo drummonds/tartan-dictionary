@@ -1,5 +1,12 @@
 ---
 title: "MacKinnon #5"
-redirect: "/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKinnon #5](/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/).
+This is the **MacKinnon #5** sett — one scale-free proportion (`k4r3g2db2r6g15r2db4g2r15g7k2r4w2`), colour order pattern
+[KRGBRGRBGRGKRW](/stripes/krgbrgrbgrgkrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacKinnon #5](/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/) ★ | ~2016 | ![MacKinnon #5 sett](/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/sett.png) |

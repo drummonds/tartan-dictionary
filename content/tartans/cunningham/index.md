@@ -15,7 +15,7 @@ The **Cunningham** tartan groups 3 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3r1k30r28db1r1w3/">Cunningham</a> ★</td><td><code>K/6 R2 K60 R56 DB2 R2 W/6</code></td><td>256</td><td>—</td></tr>
+<tr><td><a href="/setts/k3r1k30r28db1r1w3/">Cunningham</a> ★</td><td><code>K/6 R2 K60 R56 DB2 R2 W/6</code></td><td>256</td><td>1842</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k3r1k30r28db1r1w3/"><img src="/variants/s7/k3r1k30r28db1r1w3~x2/sett.png" alt="Cunningham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k3r1k30r28k1r1w3/">Cunningham</a></td><td><code>K/6 R2 K60 R56 K2 R2 W/6</code></td><td>256</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k3r1k30r28k1r1w3/"><img src="/variants/s7/k3r1k30r28k1r1w3~x2/sett.png" alt="Cunningham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

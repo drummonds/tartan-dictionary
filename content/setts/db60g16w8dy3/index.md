@@ -1,5 +1,12 @@
 ---
 title: "Hsu (Personal)"
-redirect: "/variants/s4/db60g16w8dy3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hsu (Personal)](/variants/s4/db60g16w8dy3~x2/).
+This is the **Hsu (Personal)** sett — one scale-free proportion (`db60g16w8dy3`), colour order pattern
+[BGWG](/stripes/bgwg/). It is recorded as a single **variant**, below.
+First attested **~2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hsu (Personal)](/variants/s4/db60g16w8dy3~x2/) ★ | ~2011 | ![Hsu (Personal) sett](/variants/s4/db60g16w8dy3~x2/sett.png) |

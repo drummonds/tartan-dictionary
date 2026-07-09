@@ -1,5 +1,12 @@
 ---
 title: "Ralston (USA)"
-redirect: "/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ralston (USA)](/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/).
+This is the **Ralston (USA)** sett — one scale-free proportion (`g7n3r3lb3r3n3g12y4g4y4lb3`), colour order pattern
+[GBRWRBGGGGW](/stripes/gbrwrbggggw/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ralston (USA)](/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/) ★ | 2003 | ![Ralston (USA) sett](/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Norwegian Migration Period (Artefact"
-redirect: "/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Norwegian Migration Period (Artefact](/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/).
+This is the **Norwegian Migration Period (Artefact** sett — one scale-free proportion (`n30w4dt9lb2dt1y6dt8r8`), colour order pattern
+[BWBWBGBR](/stripes/bwbwbgbr/). It is recorded as a single **variant**, below.
+First attested **~600**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Norwegian Migration Period (Artefact](/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/) ★ | ~600 | ![Norwegian Migration Period (Artefact sett](/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/sett.png) |

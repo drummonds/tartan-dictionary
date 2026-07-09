@@ -1,5 +1,12 @@
 ---
 title: "MacKintosh Dress (Scott Adie)"
-redirect: "/variants/s6/r3w8db4dg14r4db2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKintosh Dress (Scott Adie)](/variants/s6/r3w8db4dg14r4db2~x4/).
+This is the **MacKintosh Dress (Scott Adie)** sett — one scale-free proportion (`r3w8db4dg14r4db2`), colour order pattern
+[BRGBWR](/stripes/brgbwr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacKintosh Dress (Scott Adie)](/variants/s6/r3w8db4dg14r4db2~x4/) ★ | 2002 | ![MacKintosh Dress (Scott Adie) sett](/variants/s6/r3w8db4dg14r4db2~x4/sett.png) |

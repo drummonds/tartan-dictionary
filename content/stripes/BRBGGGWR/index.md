@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/">Singh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><img src="/variants/s8/db3r3db36g17y2g21w2r3~x2/sett.png" alt="Singh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/">Singh Name Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><img src="/variants/s8/db3r3db36g17y2g21w2r3~x2/sett.png" alt="Singh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

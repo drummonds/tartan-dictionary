@@ -1,14 +1,16 @@
 ---
 title: "Llama (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Llama (Fashion)"
-  url: ""
+  url: "/setts/dy2w19r2w2dy3w3dy3r6ly25w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy2w19r2w2dy3w3dy3r6ly25w2/)
-(the same proportion at any scale), whose colour order is pattern [GWRWGWGRYW](/stripes/gwrwgwgryw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy2w19r2w2dy3w3dy3r6ly25w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWRWGWGRYW](/stripes/gwrwgwgryw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.3" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.8" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.8" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.5" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="150.0" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s9/g26r3g3r3g3r11w27r3w5~x2/"><circle cx="223.2" cy="200.3" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><circle cx="163.3" cy="140.3" r="4" fill="#3465a4"><title>Sakura (Japanese Four Seasons)</title></circle></a><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><circle cx="212.7" cy="174.2" r="4" fill="#3465a4"><title>Princess Marina (Fashion)</title></circle></a><a href="/variants/s8/g2o10g11y4o1w18g2o1~x2/"><circle cx="219.4" cy="179.0" r="4" fill="#3465a4"><title>Aviemore, Check</title></circle></a><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="268.1" cy="138.8" r="4" fill="#3465a4"><title>Comrie, Gold (Dance)</title></circle></a><circle cx="225.9" cy="162.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.2" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.7" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.7" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.4" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="149.9" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s9/g26r3g3r3g3r11w27r3w5~x2/"><circle cx="223.2" cy="200.3" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><circle cx="163.3" cy="140.2" r="4" fill="#3465a4"><title>Sakura (Japanese Four Seasons)</title></circle></a><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><circle cx="212.7" cy="174.1" r="4" fill="#3465a4"><title>Princess Marina (Fashion)</title></circle></a><a href="/variants/s8/g2o10g11y4o1w18g2o1~x2/"><circle cx="219.4" cy="178.9" r="4" fill="#3465a4"><title>Aviemore, Check</title></circle></a><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="268.1" cy="138.7" r="4" fill="#3465a4"><title>Comrie, Gold (Dance)</title></circle></a><circle cx="225.9" cy="162.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/

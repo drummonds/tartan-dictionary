@@ -1,14 +1,16 @@
 ---
 title: "Vorwerk, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Vorwerk, The"
-  url: ""
+  url: "/setts/g40dbi8g8lp8db5lp13k9g40r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g40dbi8g8lp8db5lp13k9g40r4/)
-(the same proportion at any scale), whose colour order is pattern [GBGWBWKGR](/stripes/gbgwbwkgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g40dbi8g8lp8db5lp13k9g40r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGWBWKGR](/stripes/gbgwbwkgr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/"><circle cx="308.9" cy="163.7" r="4" fill="#3465a4"><title>Vorwerk, The</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="266.8" cy="135.8" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.5" cy="129.3" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.3" cy="142.8" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.7" cy="109.8" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/"><circle cx="260.1" cy="154.0" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.8" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/"><circle cx="286.7" cy="108.6" r="4" fill="#3465a4"><title>Canadian Caledonian Hunting</title></circle></a><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><circle cx="269.9" cy="131.1" r="4" fill="#3465a4"><title>State Seal of New Hampshire (Fash.)</title></circle></a><a href="/variants/s7/g12k4g12w1t6w1y4~x4/"><circle cx="270.5" cy="191.5" r="4" fill="#3465a4"><title>Pinder, Nigel (Personal)</title></circle></a><circle cx="273.7" cy="151.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/"><circle cx="308.9" cy="163.6" r="4" fill="#3465a4"><title>Vorwerk, The</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="266.8" cy="135.7" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.6" cy="129.2" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.4" cy="142.7" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.7" cy="109.6" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/"><circle cx="260.1" cy="153.8" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.7" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/"><circle cx="286.7" cy="108.5" r="4" fill="#3465a4"><title>Canadian Caledonian Hunting</title></circle></a><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><circle cx="269.9" cy="131.0" r="4" fill="#3465a4"><title>State Seal of New Hampshire (Fash.)</title></circle></a><a href="/variants/s7/g12k4g12w1t6w1y4~x4/"><circle cx="270.5" cy="191.5" r="4" fill="#3465a4"><title>Pinder, Nigel (Personal)</title></circle></a><circle cx="273.8" cy="151.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/

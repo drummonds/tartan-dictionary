@@ -1,5 +1,12 @@
 ---
 title: "MacMillan Anc (Clans Originaux)"
-redirect: "/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacMillan Anc (Clans Originaux)](/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/).
+This is the **MacMillan Anc (Clans Originaux)** sett — one scale-free proportion (`ly10k2g3k2g40k2g3dr25g6ly10k1`), colour order pattern
+[KYGBGKGKGKY](/stripes/kygbgkgkgky/). It is recorded as a single **variant**, below.
+First attested **1880**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacMillan Anc (Clans Originaux)](/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/) ★ | 1880 | ![MacMillan Anc (Clans Originaux) sett](/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/sett.png) |

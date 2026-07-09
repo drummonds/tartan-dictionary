@@ -1,14 +1,16 @@
 ---
 title: "Brian Boru 2014"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brian Boru 2014"
-  url: ""
+  url: "/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4/)
-(the same proportion at any scale), whose colour order is pattern [GBGBRBRBRBRBKRBR](/stripes/gbgbrbrbrbrbkrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBRBRBRBRBKRBR](/stripes/gbgbrbrbrbrbkrbr/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -22,7 +24,7 @@ Earliest known date: 25/04/2012 Designed to commemorate the Battle of Clontarf, 
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>25/04/2012 — Brian Boru 2014 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10607">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E7BE00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E7BE00"></span><br><em>Designed to commemorate the Battle of Clontarf, 1014 at which Brian Boru, an Irish king, was killed.</em></li>
-<li>undated — Brian Boru 2014 Commemorative Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10607">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E7BE00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E7BE00"></span></li>
+<li>25/04/2012 — Brian Boru 2014 Commemorative Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10607">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E7BE00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E7BE00"></span></li>
 </ul>
 </details>
 
@@ -72,6 +74,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4~x2/"><circle cx="358.8" cy="110.7" r="4" fill="#3465a4"><title>Brian Boru 1014 (Commemorative)</title></circle></a><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/"><circle cx="292.7" cy="103.0" r="4" fill="#3465a4"><title>Internationale, The</title></circle></a><circle cx="399.3" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4~x2/"><circle cx="358.8" cy="110.5" r="4" fill="#3465a4"><title>Brian Boru 1014 (Commemorative)</title></circle></a><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/"><circle cx="292.7" cy="102.8" r="4" fill="#3465a4"><title>Internationale, The</title></circle></a><circle cx="399.3" cy="124.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4~x2/

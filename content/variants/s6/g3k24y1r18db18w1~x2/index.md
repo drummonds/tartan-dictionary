@@ -1,16 +1,18 @@
 ---
 title: "Hegarty, Philip David (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hegarty, Philip David"
   url: "/tartans/hegarty-philip-david/"
 - name: "Hegarty, Philip David (Personal)"
-  url: ""
+  url: "/setts/g3k24y1r18db18w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3k24y1r18db18w1/)
-(the same proportion at any scale), whose colour order is pattern [GKGRBW](/stripes/gkgrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g3k24y1r18db18w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGRBW](/stripes/gkgrbw/).
 
 Part of the [Hegarty, Philip David](/tartans/hegarty-philip-david/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3k24ly1r18db18w1~x2/"><circle cx="156.3" cy="126.6" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="201.2" cy="125.0" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.8" cy="117.1" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.3" cy="112.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="160.6" cy="147.1" r="4" fill="#3465a4"><title>Loch Long One Design (Corporate)</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="121.6" cy="142.2" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.2" cy="157.2" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="148.0" cy="158.0" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><circle cx="213.6" cy="152.3" r="4" fill="#3465a4"><title>205 (Scottish) Field Hospital (Mil.)</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="202.1" cy="128.2" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><circle cx="155.8" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3k24ly1r18db18w1~x2/"><circle cx="156.4" cy="126.5" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="201.3" cy="124.9" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.8" cy="117.0" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.4" cy="112.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="160.6" cy="147.0" r="4" fill="#3465a4"><title>Loch Long One Design (Corporate)</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="121.7" cy="142.1" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.3" cy="157.1" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="148.1" cy="157.9" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><circle cx="213.7" cy="152.2" r="4" fill="#3465a4"><title>205 (Scottish) Field Hospital (Mil.)</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="202.1" cy="128.1" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><circle cx="155.9" cy="125.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g3k24y1r18db18w1~x2/

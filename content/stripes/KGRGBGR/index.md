@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r35g52db18g17r12g17k18/">MacDona</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r35g52db18g17r12g17k18/"><img src="/variants/s7/r35g52db18g17r12g17k18/sett.png" alt="MacDona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r35g52db18g17r12g17k18/">MacDona Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r35g52db18g17r12g17k18/"><img src="/variants/s7/r35g52db18g17r12g17k18/sett.png" alt="MacDona Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/r20g29db10g16r6g10k19~x2/">MacDonagh</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/r20g29db10g16r6g10k19~x2/"><img src="/variants/s7/r20g29db10g16r6g10k19~x2/sett.png" alt="MacDonagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/r20dg29db10dg16r6dg10k19~x2/">MacDonagh (Name)</a></td></tr>

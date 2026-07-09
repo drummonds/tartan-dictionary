@@ -1,16 +1,18 @@
 ---
 title: "Ryan/Fehder (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ryan/Fehder"
   url: "/tartans/ryan-fehder/"
 - name: "Ryan/Fehder (Personal)"
-  url: ""
+  url: "/setts/w4r7y5db13dr18g3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4r7y5db13dr18g3/)
-(the same proportion at any scale), whose colour order is pattern [GBBGRW](/stripes/gbbgrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4r7y5db13dr18g3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBGRW](/stripes/gbbgrw/).
 
 Part of the [Ryan/Fehder](/tartans/ryan-fehder/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-db1406275-dg1806142/"><circle cx="80.3" cy="182.3" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="182.0" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="145.9" cy="189.9" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><circle cx="132.8" cy="186.6" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.8" cy="213.0" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.4" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/dt3db5n2dg5r11w3~x4/"><circle cx="111.0" cy="224.6" r="4" fill="#3465a4"><title>Nicolson of Lewis (Clan?)</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="181.0" cy="239.1" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><circle cx="120.2" cy="221.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-db1406275-dg1806142/"><circle cx="80.3" cy="182.2" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="182.0" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="146.0" cy="189.8" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><circle cx="132.8" cy="186.5" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.8" cy="212.9" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/dt3db5n2dg5r11w3~x4/"><circle cx="111.1" cy="224.5" r="4" fill="#3465a4"><title>Nicolson of Lewis (Clan?)</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="181.0" cy="239.1" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><circle cx="120.2" cy="221.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w4r7y5db13dr18g3~x2/

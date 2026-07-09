@@ -1,5 +1,12 @@
 ---
 title: "Harding Personal Tartan"
-redirect: "/variants/s8/g30db2n7r14n7r7w1db14~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Harding Personal Tartan](/variants/s8/g30db2n7r14n7r7w1db14~x2/).
+This is the **Harding Personal Tartan** sett — one scale-free proportion (`g30db2n7r14n7r7w1db14`), colour order pattern
+[BWRBRBBG](/stripes/bwrbrbbg/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Harding Personal Tartan](/variants/s8/g30db2n7r14n7r7w1db14~x2/) ★ | 2005 | ![Harding Personal Tartan sett](/variants/s8/g30db2n7r14n7r7w1db14~x2/sett.png) |

@@ -1,5 +1,14 @@
 ---
 title: "California Firefighters (Corporate)"
-redirect: "/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [California Firefighters (Corporate)](/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/).
+This is the **California Firefighters (Corporate)** sett — one scale-free proportion (`ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1`), colour order pattern
+[GYGYBBKBKBKY](/stripes/gygybbkbkbky/). It is recorded as a single **variant**, below.
+First attested **1995**.
+
+Part of the [California Firefighters](/tartans/california-firefighters/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [California Firefighters (Corporate)](/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/) ★ | 1995 | ![California Firefighters (Corporate) sett](/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Max Reger, The"
-redirect: "/variants/s6/g1r9lo9y9g6w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Max Reger, The](/variants/s6/g1r9lo9y9g6w1~x4/).
+This is the **Max Reger, The** sett — one scale-free proportion (`g1r9lo9y9g6w1`), colour order pattern
+[GRYGGW](/stripes/gryggw/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Max Reger, The](/variants/s6/g1r9lo9y9g6w1~x4/) ★ | 2010 | ![Max Reger, The sett](/variants/s6/g1r9lo9y9g6w1~x4/sett.png) |

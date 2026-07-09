@@ -1,14 +1,16 @@
 ---
 title: "Scotsburn Croft"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotsburn Croft"
-  url: ""
+  url: "/setts/db16k3db16k26dp4k26n20w3n8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16k3db16k26dp4k26n20w3n8/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBWB](/stripes/bkbkbkbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db16k3db16k26dp4k26n20w3n8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBWB](/stripes/bkbkbkbwb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="122.0" cy="202.1" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s11/dbi13lb2dbi13k3db13k21dy3k18dbi9k2dbi2~x2~dbi1605267-db1003265/"><circle cx="203.3" cy="172.1" r="4" fill="#3465a4"><title>Haus of RvR</title></circle></a><a href="/variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/"><circle cx="138.7" cy="173.5" r="4" fill="#3465a4"><title>Unidentified #2</title></circle></a><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.5" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.4" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><circle cx="151.7" cy="210.0" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="126.1" cy="197.7" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.3" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s7/db15w2g2k18db21k3g15~x2/"><circle cx="181.7" cy="188.8" r="4" fill="#3465a4"><title>Loyalhanna (District?)</title></circle></a><circle cx="166.5" cy="190.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.2" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="122.0" cy="202.0" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s11/dbi13lb2dbi13k3db13k21dy3k18dbi9k2dbi2~x2~dbi1605267-db1003265/"><circle cx="203.4" cy="171.9" r="4" fill="#3465a4"><title>Haus of RvR</title></circle></a><a href="/variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/"><circle cx="138.7" cy="173.4" r="4" fill="#3465a4"><title>Unidentified #2</title></circle></a><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.4" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.3" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><circle cx="151.8" cy="209.9" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="126.1" cy="197.6" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s7/db15w2g2k18db21k3g15~x2/"><circle cx="181.7" cy="188.7" r="4" fill="#3465a4"><title>Loyalhanna (District?)</title></circle></a><circle cx="166.5" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db16k3db16k26dp4k26n20w3n8/

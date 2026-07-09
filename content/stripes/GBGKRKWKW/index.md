@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/">Birch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><img src="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/sett.png" alt="Birch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/">Birch (Name)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/"><img src="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/sett.png" alt="Birch (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/g2dp2g10k6r2k6lb10k1w2~x2/">Birch (Personal) (Estimated threadcount)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/g2dp2g10k6r2k6lb10k1w2~x2/"><img src="/variants/s9/g2dp2g10k6r2k6lb10k1w2~x2/sett.png" alt="Birch (Personal) (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/">Birch Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><img src="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/sett.png" alt="Birch Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "Kyle Green (Name)"
-redirect: "/variants/s8/r54g6r5g6r10g3r2g18~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kyle Green (Name)](/variants/s8/r54g6r5g6r10g3r2g18~x2/).
+This is the **Kyle Green (Name)** sett — one scale-free proportion (`r54g6r5g6r10g3r2g18`), colour order pattern
+[GRGRGRGR](/stripes/grgrgrgr/). It is recorded as a single **variant**, below.
+First attested **1940**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kyle Green (Name)](/variants/s8/r54g6r5g6r10g3r2g18~x2/) ★ | 1940 | ![Kyle Green (Name) sett](/variants/s8/r54g6r5g6r10g3r2g18~x2/sett.png) |

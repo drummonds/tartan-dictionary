@@ -1,14 +1,16 @@
 ---
 title: "Lermontov Bicentenary"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lermontov Bicentenary"
-  url: ""
+  url: "/setts/dy5dr6k5dr6dy36db3dy2k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5dr6k5dr6dy36db3dy2k1/)
-(the same proportion at any scale), whose colour order is pattern [GBKBGBGK](/stripes/gbkbgbgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy5dr6k5dr6dy36db3dy2k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBGBGK](/stripes/gbkbgbgk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -1,5 +1,12 @@
 ---
 title: "Heartlands"
-redirect: "/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Heartlands](/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/).
+This is the **Heartlands** sett — one scale-free proportion (`db4t1dt20db2dt2db18dg2db2dg22r2dp4`), colour order pattern
+[BBBBBBGBGRBRGBGBBBBB](/stripes/bbbbbbgbgrbrgbgbbbbb/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Heartlands](/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/) ★ | 2001 | ![Heartlands sett](/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/sett.png) |

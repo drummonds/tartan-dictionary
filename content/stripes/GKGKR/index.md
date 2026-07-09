@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
+<tr><td><a href="/variants/s5/r2k4g45k3y2/">Mar (Tribe of..) District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r2k4g45k3y2/"><img src="/variants/s5/r2k4g45k3y2/sett.png" alt="Mar (Tribe of..) District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/r2k3g45k3y2/">Mar Tribe</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r2k3g45k3y2/"><img src="/variants/s5/r2k3g45k3y2/sett.png" alt="Mar Tribe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r2k4g45k3y2/">Mar, (Tribe of..)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2k4g45k3y2/"><img src="/variants/s5/r2k4g45k3y2/sett.png" alt="Mar, (Tribe of..) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/r1k2g16k2y1~x2/">Skene or Tribe of Mar</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r1k2g16k2y1~x2/"><img src="/variants/s5/r1k2g16k2y1~x2/sett.png" alt="Skene or Tribe of Mar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

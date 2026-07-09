@@ -1,14 +1,16 @@
 ---
 title: "Manac"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Manac"
-  url: ""
+  url: "/setts/k33w1r23k1n6w1n6k1r23w1k33r3w3db3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k33w1r23k1n6w1n6k1r23w1k33r3w3db3/)
-(the same proportion at any scale), whose colour order is pattern [BWRKWRKBWBKRWK](/stripes/bwrkwrkbwbkrwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k33w1r23k1n6w1n6k1r23w1k33r3w3db3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRKWRKBWBKRWK](/stripes/bwrkwrkbwbkrwk/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="241.0" cy="62.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="278.3" cy="69.7" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.7" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3y1n10w1r3w1n10w1r3~x2/"><circle cx="203.2" cy="65.3" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><circle cx="203.4" cy="65.8" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><circle cx="228.8" cy="71.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.6" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/"><circle cx="258.0" cy="86.5" r="4" fill="#3465a4"><title>Unknown U.S. kilt</title></circle></a><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="239.5" cy="86.0" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.7" cy="83.2" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><circle cx="238.2" cy="61.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="241.0" cy="62.5" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="278.3" cy="69.5" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.6" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3y1n10w1r3w1n10w1r3~x2/"><circle cx="203.2" cy="65.1" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><circle cx="203.4" cy="65.6" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><circle cx="228.8" cy="70.9" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.5" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/"><circle cx="258.0" cy="86.3" r="4" fill="#3465a4"><title>Unknown U.S. kilt</title></circle></a><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="239.5" cy="85.9" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.7" cy="83.1" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><circle cx="238.2" cy="61.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/

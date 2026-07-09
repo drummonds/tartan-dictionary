@@ -1,14 +1,16 @@
 ---
 title: "Patterson, William J.M. American Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Patterson, William J.M. (Personal)"
   url: "/setts/db9n3db2w2db9n6db3w3db3g18dg8r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9n3db2w2db9n6db3w3db3g18dg8r2/)
-(the same proportion at any scale), whose colour order is pattern [BBBWBBBWBGGR](/stripes/bbbwbbbwbggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db9n3db2w2db9n6db3w3db3g18dg8r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBWBBBWBGGR](/stripes/bbbwbbbwbggr/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2009 A personal tartan for the Patterson family. Named afte
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2009 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><circle cx="138.4" cy="174.3" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><circle cx="155.4" cy="178.8" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/variants/s11/dg10m2dg2o4dg16dp16o2b18y2b8o3~x2/"><circle cx="179.5" cy="187.7" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/"><circle cx="157.6" cy="182.2" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.7" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><circle cx="224.7" cy="190.0" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/"><circle cx="172.3" cy="202.2" r="4" fill="#3465a4"><title>Greyfriars</title></circle></a><a href="/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><circle cx="201.4" cy="166.0" r="4" fill="#3465a4"><title>Minster (Fashion)</title></circle></a><a href="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/"><circle cx="136.2" cy="172.4" r="4" fill="#3465a4"><title>Royal Dornoch Golf Club, The</title></circle></a><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/"><circle cx="158.0" cy="194.3" r="4" fill="#3465a4"><title>South Australia (Disputed)</title></circle></a><circle cx="179.2" cy="184.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><circle cx="138.4" cy="174.2" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><circle cx="155.4" cy="178.7" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/variants/s11/dg10m2dg2o4dg16dp16o2b18y2b8o3~x2/"><circle cx="179.5" cy="187.6" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/"><circle cx="157.6" cy="182.1" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.6" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><circle cx="224.7" cy="189.9" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/"><circle cx="172.3" cy="202.1" r="4" fill="#3465a4"><title>Greyfriars</title></circle></a><a href="/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><circle cx="201.4" cy="165.8" r="4" fill="#3465a4"><title>Minster (Fashion)</title></circle></a><a href="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/"><circle cx="136.2" cy="172.3" r="4" fill="#3465a4"><title>Royal Dornoch Golf Club, The</title></circle></a><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/"><circle cx="158.0" cy="194.2" r="4" fill="#3465a4"><title>South Australia (Disputed)</title></circle></a><circle cx="179.3" cy="184.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2~db1706275-g1903114/

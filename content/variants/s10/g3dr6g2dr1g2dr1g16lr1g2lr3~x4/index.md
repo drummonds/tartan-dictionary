@@ -1,14 +1,16 @@
 ---
 title: "Prince of Wales Fashion Weavers Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Prince of Wales Fashion Weavers Tartan"
-  url: ""
+  url: "/setts/g3dr6g2dr1g2dr1g16lr1g2lr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3dr6g2dr1g2dr1g16lr1g2lr3/)
-(the same proportion at any scale), whose colour order is pattern [GYGBGBGBGBGBGBGYGY](/stripes/gygbgbgbgbgbgbgygy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g3dr6g2dr1g2dr1g16lr1g2lr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGBGBGBGBGBGBGYGY](/stripes/gygbgbgbgbgbgbgygy/).
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1998 From Lochcarron. Also produced by Ingles Buchan (Texti
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1998 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="392.9" cy="154.4" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.3" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="459.0" cy="133.5" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/"><circle cx="487.0" cy="146.7" r="4" fill="#3465a4"><title>Highland Hospice</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="395.9" cy="200.8" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="570.3" cy="170.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9/"><circle cx="570.3" cy="170.4" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.4" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><circle cx="491.4" cy="154.3" r="4" fill="#3465a4"><title>Owen (Welsh Name)</title></circle></a><a href="/variants/s14/dp2y25dg8y2dg2y25dp2y2dp6y2w2y4dg16y2~x2~y2505139-dg1504144/"><circle cx="404.1" cy="182.3" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><circle cx="458.5" cy="166.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="392.9" cy="154.3" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.2" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="459.0" cy="133.3" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/"><circle cx="487.0" cy="146.5" r="4" fill="#3465a4"><title>Highland Hospice</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="395.9" cy="200.7" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="570.3" cy="170.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9/"><circle cx="570.3" cy="170.3" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.3" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><circle cx="491.4" cy="154.1" r="4" fill="#3465a4"><title>Owen (Welsh Name)</title></circle></a><a href="/variants/s14/dp2y25dg8y2dg2y25dp2y2dp6y2w2y4dg16y2~x2~y2505139-dg1504144/"><circle cx="404.1" cy="182.2" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><circle cx="458.5" cy="166.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/

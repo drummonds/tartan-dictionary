@@ -1,14 +1,16 @@
 ---
 title: "Rainbow (Fort Worth)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Rainbow (Fort Worth)"
-  url: ""
+  url: "/setts/g1w1t1w1lo1w1r1w1lo1w1y1w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1w1t1w1lo1w1r1w1lo1w1y1w1/)
-(the same proportion at any scale), whose colour order is pattern [GWBWYWRWYWGW](/stripes/gwbwywrwywgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g1w1t1w1lo1w1r1w1lo1w1y1w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWBWYWRWYWGW](/stripes/gwbwywrwywgw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

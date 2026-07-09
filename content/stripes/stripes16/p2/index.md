@@ -46,7 +46,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Innes Dress](/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/) | register-of-tartans |
+| 0.09 | [Innes Dress Clan Tartan](/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/) | house-of-tartan |
 
 ### RWRKRBRKBKRBRKRW
 <a class="pat" href="/stripes/rwrkrbrkbkrbrkrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWRKRBRKBKRBRKRW</span></a>

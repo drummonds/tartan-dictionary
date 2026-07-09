@@ -1,16 +1,18 @@
 ---
 title: "Mehrtens variant (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mehrtens variant"
   url: "/tartans/mehrtens-variant/"
 - name: "Mehrtens variant (Personal)"
-  url: ""
+  url: "/setts/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2/)
-(the same proportion at any scale), whose colour order is pattern [RYRKRKBKBRBRBW](/stripes/ryrkrkbkbrbrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RYRKRKBKBRBRBW](/stripes/ryrkrkbkbrbrbw/).
 
 Part of the [Mehrtens variant](/tartans/mehrtens-variant/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6k4r2~x2/"><circle cx="211.4" cy="49.8" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"><circle cx="198.5" cy="46.0" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/"><circle cx="198.1" cy="45.7" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.1" cy="45.1" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.2" cy="44.7" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.1" cy="53.9" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s13/r40k2w1ly40k3w2k3r5db22r3w1k3r7~x2~ly2503076/"><circle cx="229.4" cy="59.2" r="4" fill="#3465a4"><title>K9</title></circle></a><a href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/"><circle cx="253.5" cy="72.8" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.4" cy="53.8" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><circle cx="233.1" cy="30.1" r="4" fill="#3465a4"><title>MacGill</title></circle></a><circle cx="214.1" cy="51.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6k4r2~x2/"><circle cx="211.4" cy="49.6" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"><circle cx="198.5" cy="45.8" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/"><circle cx="198.1" cy="45.5" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.1" cy="44.9" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.1" cy="44.5" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.1" cy="53.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s13/r40k2w1ly40k3w2k3r5db22r3w1k3r7~x2~ly2503076/"><circle cx="229.4" cy="59.0" r="4" fill="#3465a4"><title>K9</title></circle></a><a href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/"><circle cx="253.5" cy="72.7" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.4" cy="53.6" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><circle cx="233.1" cy="30.0" r="4" fill="#3465a4"><title>MacGill</title></circle></a><circle cx="214.1" cy="50.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/

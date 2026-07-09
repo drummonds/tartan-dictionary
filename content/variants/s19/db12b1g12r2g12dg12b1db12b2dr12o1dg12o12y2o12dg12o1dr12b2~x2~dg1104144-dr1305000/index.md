@@ -1,14 +1,16 @@
 ---
 title: "United Distillers, (Warp)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "United Distillers, (Warp)"
-  url: ""
+  url: "/setts/db12b1g12r2g12dg12b1db12b2dr12o1dg12o12y2o12dg12o1dr12b2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12b1g12r2g12dg12b1db12b2dr12o1dg12o12y2o12dg12o1dr12b2/)
-(the same proportion at any scale), whose colour order is pattern [BBGRGGBBBBRGRGRGRBB](/stripes/bbgrggbbbbrgrgrgrbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db12b1g12r2g12dg12b1db12b2dr12o1dg12o12y2o12dg12o1dr12b2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGRGGBBBBRGRGRGRBB](/stripes/bbgrggbbbbrgrgrgrbb/).
 
 Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 

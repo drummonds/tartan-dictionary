@@ -1,6 +1,7 @@
 ---
 title: "Strange of Balcaskie Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -13,8 +14,9 @@ crumbs:
 - name: "Strange of Balcaskie (Clan)"
   url: "/setts/g32dy7g7dy16db32y3dy8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g32dy7g7dy16db32y3dy8/)
-(the same proportion at any scale), whose colour order is pattern [GGBGGGG](/stripes/ggbgggg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g32dy7g7dy16db32y3dy8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGGGG](/stripes/ggbgggg/).
 
 Part of the [Strange of Balcaskie](/tartans/strange-of-balcaskie/) tartan — the named design grouping this sett with its other cloths.
 
@@ -31,7 +33,7 @@ Earliest known date: 1996 Designed by Kenny Dalgliesh of D C Dalgliesh of Selkir
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1996 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -81,6 +83,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2/"><circle cx="262.2" cy="246.7" r="4" fill="#3465a4"><title>Strange of Balcaskie (Clan)</title></circle></a><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="275.4" cy="239.2" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.7" cy="233.6" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><circle cx="298.3" cy="279.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="289.7" cy="222.4" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.3" cy="255.1" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.5" cy="233.6" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.6" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s6/db1dy1db7dy5y7lr1~x4/"><circle cx="245.4" cy="261.9" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.9" cy="237.7" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><circle cx="272.2" cy="249.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2/"><circle cx="262.2" cy="246.6" r="4" fill="#3465a4"><title>Strange of Balcaskie (Clan)</title></circle></a><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="275.4" cy="239.2" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.8" cy="233.5" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><circle cx="298.4" cy="279.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="289.7" cy="222.4" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.4" cy="255.0" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.5" cy="233.6" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.5" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s6/db1dy1db7dy5y7lr1~x4/"><circle cx="245.5" cy="261.8" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.9" cy="237.6" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><circle cx="272.3" cy="249.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g32dy7g7dy16db32y3dy8~x2~db1406275/

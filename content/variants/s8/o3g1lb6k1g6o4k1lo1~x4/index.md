@@ -1,14 +1,16 @@
 ---
 title: "Orkney District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Orkney District Tartan"
-  url: ""
+  url: "/setts/o3g1lb6k1g6o4k1lo1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o3g1lb6k1g6o4k1lo1/)
-(the same proportion at any scale), whose colour order is pattern [RGWKGRKY](/stripes/rgwkgrky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o3g1lb6k1g6o4k1lo1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGWKGRKY](/stripes/rgwkgrky/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2000 Orkney District tartan was designed for the Westry Kni
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2000 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="72.0" cy="182.4" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.4" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/"><circle cx="112.4" cy="210.0" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="135.0" cy="197.6" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="70.9" cy="217.6" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="205.0" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.3" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.2" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s10/o9k2o2r2g6k1y1k1g6r3~x2/"><circle cx="147.4" cy="178.1" r="4" fill="#3465a4"><title>MacAart</title></circle></a><circle cx="97.8" cy="208.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="72.0" cy="182.3" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.4" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/"><circle cx="112.5" cy="210.0" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="135.0" cy="197.6" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="70.9" cy="217.6" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.2" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.1" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s10/o9k2o2r2g6k1y1k1g6r3~x2/"><circle cx="147.4" cy="178.1" r="4" fill="#3465a4"><title>MacAart</title></circle></a><circle cx="97.8" cy="208.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/o3g1lb6k1g6o4k1lo1~x4/

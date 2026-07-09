@@ -1,14 +1,16 @@
 ---
 title: "Impulse"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Impulse"
-  url: ""
+  url: "/setts/dr2b10k9bi13k7db3k2db3k2db3dr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2b10k9bi13k7db3k2db3k2db3dr2/)
-(the same proportion at any scale), whose colour order is pattern [BBKBKBKBKBB](/stripes/bbkbkbkbkbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr2b10k9bi13k7db3k2db3k2db3dr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBKBKBKBKBB](/stripes/bbkbkbkbkbb/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.5" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s7/k1db6b1ki6b6k1w1~x6~ki0604259/"><circle cx="116.7" cy="209.1" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="148.5" cy="205.4" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><circle cx="153.0" cy="184.6" r="4" fill="#3465a4"><title>Westwood MacPoiret (Fashion)</title></circle></a><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/"><circle cx="104.4" cy="175.5" r="4" fill="#3465a4"><title>Kinloch Anderson Thistle</title></circle></a><a href="/variants/s18/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2~x2~db1404245-b1511266/"><circle cx="140.3" cy="151.0" r="4" fill="#3465a4"><title>Van Ingelgem Dress (Personal)</title></circle></a><a href="/variants/s7/dbi16k16db16w3db16k2lb3~x2~dbi1406275-db1106275/"><circle cx="175.8" cy="209.4" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/"><circle cx="120.7" cy="200.8" r="4" fill="#3465a4"><title>William Murdoch, (Scottish Gas)</title></circle></a><a href="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/"><circle cx="197.0" cy="166.1" r="4" fill="#3465a4"><title>USCBP - Office of Field Operations</title></circle></a><a href="/variants/s10/ki9w2ki24k8w5k8db15k3db15k2~x2~ki0604259/"><circle cx="157.9" cy="179.4" r="4" fill="#3465a4"><title>Scottish Claymores</title></circle></a><circle cx="107.3" cy="188.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.4" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s7/k1db6b1ki6b6k1w1~x6~ki0604259/"><circle cx="116.7" cy="209.0" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="148.5" cy="205.3" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><circle cx="153.0" cy="184.5" r="4" fill="#3465a4"><title>Westwood MacPoiret (Fashion)</title></circle></a><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/"><circle cx="104.4" cy="175.4" r="4" fill="#3465a4"><title>Kinloch Anderson Thistle</title></circle></a><a href="/variants/s18/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2~x2~db1404245-b1511266/"><circle cx="140.3" cy="150.8" r="4" fill="#3465a4"><title>Van Ingelgem Dress (Personal)</title></circle></a><a href="/variants/s7/dbi16k16db16w3db16k2lb3~x2~dbi1406275-db1106275/"><circle cx="175.9" cy="209.3" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/"><circle cx="120.7" cy="200.7" r="4" fill="#3465a4"><title>William Murdoch, (Scottish Gas)</title></circle></a><a href="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/"><circle cx="197.0" cy="166.0" r="4" fill="#3465a4"><title>USCBP - Office of Field Operations</title></circle></a><a href="/variants/s10/ki9w2ki24k8w5k8db15k3db15k2~x2~ki0604259/"><circle cx="157.9" cy="179.3" r="4" fill="#3465a4"><title>Scottish Claymores</title></circle></a><circle cx="107.3" cy="188.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr2b10k9bi13k7db3k2db3k2db3dr2~x2~bi1611266-db0906265/

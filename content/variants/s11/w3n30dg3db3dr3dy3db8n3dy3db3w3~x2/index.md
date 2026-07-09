@@ -1,14 +1,16 @@
 ---
 title: "Wee Course, Blairgowrie Golf Club, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wee Course, Blairgowrie Golf Club, The"
-  url: ""
+  url: "/setts/w3n30dg3db3dr3dy3db8n3dy3db3w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3n30dg3db3dr3dy3db8n3dy3db3w3/)
-(the same proportion at any scale), whose colour order is pattern [WBGBBGBBGBW](/stripes/wbgbbgbbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3n30dg3db3dr3dy3db8n3dy3db3w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGBBGBBGBW](/stripes/wbgbbgbbgbw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/"><circle cx="281.7" cy="158.9" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/variants/s11/w3dy30dg3db3dr3dy3db8lb3dy3db3w3~x2/"><circle cx="285.2" cy="142.6" r="4" fill="#3465a4"><title>Rosemount Course, Blairgowrie Golf Club</title></circle></a><a href="/variants/s11/w3dr30dg3db3dr3dy3db8lb3dy3db3w3~x2/"><circle cx="262.3" cy="142.2" r="4" fill="#3465a4"><title>Lansdowne Course, Blairgowrie Golf Club</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/"><circle cx="310.8" cy="153.1" r="4" fill="#3465a4"><title>Nickel Lodge Centennial Corporate Tartan</title></circle></a><a href="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/"><circle cx="319.7" cy="165.4" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.6" cy="190.2" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.7" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><circle cx="292.5" cy="184.7" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><circle cx="237.0" cy="148.6" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly2503076-lyi2705081/"><circle cx="300.8" cy="146.4" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><circle cx="279.4" cy="153.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/"><circle cx="281.7" cy="158.8" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/variants/s11/w3dy30dg3db3dr3dy3db8lb3dy3db3w3~x2/"><circle cx="285.2" cy="142.5" r="4" fill="#3465a4"><title>Rosemount Course, Blairgowrie Golf Club</title></circle></a><a href="/variants/s11/w3dr30dg3db3dr3dy3db8lb3dy3db3w3~x2/"><circle cx="262.3" cy="142.1" r="4" fill="#3465a4"><title>Lansdowne Course, Blairgowrie Golf Club</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/"><circle cx="310.8" cy="153.0" r="4" fill="#3465a4"><title>Nickel Lodge Centennial Corporate Tartan</title></circle></a><a href="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/"><circle cx="319.7" cy="165.3" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.7" cy="190.1" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.6" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><circle cx="292.5" cy="184.6" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><circle cx="237.0" cy="148.4" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly2503076-lyi2705081/"><circle cx="300.8" cy="146.3" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><circle cx="279.4" cy="153.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w3n30dg3db3dr3dy3db8n3dy3db3w3~x2/

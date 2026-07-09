@@ -1,5 +1,12 @@
 ---
 title: "Gavin (Personal)"
-redirect: "/variants/s6/wi26w2wi3dt41dr2dt3~x2~wi4000000-dr1004029/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gavin (Personal)](/variants/s6/wi26w2wi3dt41dr2dt3~x2~wi4000000-dr1004029/).
+This is the **Gavin (Personal)** sett — one scale-free proportion (`wi26w2wi3dt41dr2dt3`), colour order pattern
+[BBBWWW](/stripes/bbbwww/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gavin (Personal)](/variants/s6/wi26w2wi3dt41dr2dt3~x2~wi4000000-dr1004029/) ★ | 1996 | ![Gavin (Personal) sett](/variants/s6/wi26w2wi3dt41dr2dt3~x2~wi4000000-dr1004029/sett.png) |

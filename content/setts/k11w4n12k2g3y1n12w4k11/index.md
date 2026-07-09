@@ -1,5 +1,12 @@
 ---
 title: "Hancock Personal Tartan"
-redirect: "/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hancock Personal Tartan](/variants/s9/k11w4n12k2g3y1n12w4k11~x2/).
+This is the **Hancock Personal Tartan** sett — one scale-free proportion (`k11w4n12k2g3y1n12w4k11`), colour order pattern
+[KWBKGGBWKWBGGKBW](/stripes/kwbkggbwkwbggkbw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hancock Personal Tartan](/variants/s9/k11w4n12k2g3y1n12w4k11~x2/) ★ | 2004 | ![Hancock Personal Tartan sett](/variants/s9/k11w4n12k2g3y1n12w4k11~x2/sett.png) |

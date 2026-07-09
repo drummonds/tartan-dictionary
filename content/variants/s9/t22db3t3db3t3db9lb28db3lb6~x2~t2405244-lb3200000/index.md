@@ -1,14 +1,16 @@
 ---
 title: "Kildonan Blue (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kildonan Blue (Fashion)"
-  url: ""
+  url: "/setts/t22db3t3db3t3db9lb28db3lb6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t22db3t3db3t3db9lb28db3lb6/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBWBW](/stripes/bbbbbbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t22db3t3db3t3db9lb28db3lb6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBWBW](/stripes/bbbbbbwbw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/"><circle cx="246.7" cy="241.8" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="290.3" cy="221.6" r="4" fill="#3465a4"><title>Bannockbane Light Blue</title></circle></a><a href="/variants/s8/db2b2db15b1w10b15db2b2~x2/"><circle cx="295.4" cy="221.1" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/"><circle cx="262.4" cy="253.4" r="4" fill="#3465a4"><title>Lochearn (Fashion)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.7" cy="205.2" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><circle cx="378.0" cy="231.2" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/"><circle cx="282.3" cy="195.1" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.5" cy="235.6" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.9" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><circle cx="310.8" cy="239.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/"><circle cx="246.7" cy="241.8" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="290.3" cy="221.6" r="4" fill="#3465a4"><title>Bannockbane Light Blue</title></circle></a><a href="/variants/s8/db2b2db15b1w10b15db2b2~x2/"><circle cx="295.4" cy="221.0" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/"><circle cx="262.4" cy="253.3" r="4" fill="#3465a4"><title>Lochearn (Fashion)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.7" cy="205.1" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><circle cx="378.0" cy="231.1" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/"><circle cx="282.3" cy="195.0" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.6" cy="235.5" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><circle cx="310.8" cy="239.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/t22db3t3db3t3db9lb28db3lb6~x2~t2405244-lb3200000/

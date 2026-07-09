@@ -1,16 +1,18 @@
 ---
 title: "Scotland the Brave Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland the Brave"
   url: "/tartans/scotland-the-brave/"
 - name: "Scotland the Brave Corporate Tartan"
-  url: ""
+  url: "/setts/db6w1db40dp1k12dg12o6dg2dr2dg4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6w1db40dp1k12dg12o6dg2dr2dg4/)
-(the same proportion at any scale), whose colour order is pattern [BWBBKGRGBG](/stripes/bwbbkgrgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db6w1db40dp1k12dg12o6dg2dr2dg4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBBKGRGBG](/stripes/bwbbkgrgbg/).
 
 Part of the [Scotland the Brave](/tartans/scotland-the-brave/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1999 Scotland the Brave
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1999 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2/"><circle cx="309.9" cy="79.8" r="4" fill="#3465a4"><title>Scotland the Brave (Fashion)</title></circle></a><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2~db1204274-dg1605139/"><circle cx="282.8" cy="52.1" r="4" fill="#3465a4"><title>Scotland the Brave</title></circle></a><a href="/variants/s10/ki6w1ki40dp1k12dg12dp6dg2b2dg4~x2~ki0604259/"><circle cx="347.1" cy="92.9" r="4" fill="#3465a4"><title>Scotland the Brave</title></circle></a><a href="/variants/s11/db42n2db2n4g4ly2g6k9g2k2r2~x2/"><circle cx="282.8" cy="73.1" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/variants/s12/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2~x2/"><circle cx="231.0" cy="92.5" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="83.1" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s10/dy3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="261.0" cy="120.7" r="4" fill="#3465a4"><title>MacAvoy Clan Tartan</title></circle></a><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="249.9" cy="116.6" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><a href="/variants/s9/n4k2dg2y1dg8k20db50r2db2~x2/"><circle cx="357.2" cy="65.4" r="4" fill="#3465a4"><title>Buckie</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.8" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><circle cx="297.6" cy="68.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2/"><circle cx="309.9" cy="79.6" r="4" fill="#3465a4"><title>Scotland the Brave (Fashion)</title></circle></a><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2~db1204274-dg1605139/"><circle cx="282.8" cy="51.9" r="4" fill="#3465a4"><title>Scotland the Brave</title></circle></a><a href="/variants/s10/ki6w1ki40dp1k12dg12dp6dg2b2dg4~x2~ki0604259/"><circle cx="347.1" cy="92.7" r="4" fill="#3465a4"><title>Scotland the Brave</title></circle></a><a href="/variants/s11/db42n2db2n4g4ly2g6k9g2k2r2~x2/"><circle cx="282.8" cy="72.9" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/variants/s12/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2~x2/"><circle cx="231.0" cy="92.4" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="82.9" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s10/dy3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="261.0" cy="120.5" r="4" fill="#3465a4"><title>MacAvoy Clan Tartan</title></circle></a><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="249.9" cy="116.5" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><a href="/variants/s9/n4k2dg2y1dg8k20db50r2db2~x2/"><circle cx="357.2" cy="65.2" r="4" fill="#3465a4"><title>Buckie</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.7" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><circle cx="297.6" cy="68.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db6w1db40dp1k12dg12o6dg2dr2dg4~x2/

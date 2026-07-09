@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/">Harkness</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><img src="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/sett.png" alt="Harkness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4/">Harkness Dress (Name)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4/"><img src="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4/sett.png" alt="Harkness Dress (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/">Harkness Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><img src="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/sett.png" alt="Harkness Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

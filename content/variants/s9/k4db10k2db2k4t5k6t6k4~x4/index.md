@@ -1,14 +1,16 @@
 ---
 title: "Saul (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Saul (Personal)"
-  url: ""
+  url: "/setts/k4db10k2db2k4t5k6t6k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4db10k2db2k4t5k6t6k4/)
-(the same proportion at any scale), whose colour order is pattern [KBKBKBKBK](/stripes/kbkbkbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4db10k2db2k4t5k6t6k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBK](/stripes/kbkbkbkbk/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><circle cx="174.7" cy="227.6" r="4" fill="#3465a4"><title>Rainford (Personal)</title></circle></a><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/"><circle cx="160.7" cy="233.0" r="4" fill="#3465a4"><title>Gordon Miniature</title></circle></a><a href="/variants/s8/k8db8k2db2w2k5db5r2~x5/"><circle cx="161.4" cy="236.7" r="4" fill="#3465a4"><title>Lexington Fire Department</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.5" cy="235.3" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="189.9" cy="219.9" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="148.6" cy="290.5" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="201.2" cy="237.6" r="4" fill="#3465a4"><title>Keith McCormick (Personal)</title></circle></a><a href="/variants/s6/db6k6db18k18g22k5/"><circle cx="151.0" cy="270.0" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.9" cy="242.6" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="210.3" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><circle cx="168.5" cy="253.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><circle cx="174.7" cy="227.5" r="4" fill="#3465a4"><title>Rainford (Personal)</title></circle></a><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/"><circle cx="160.7" cy="232.9" r="4" fill="#3465a4"><title>Gordon Miniature</title></circle></a><a href="/variants/s8/k8db8k2db2w2k5db5r2~x5/"><circle cx="161.4" cy="236.6" r="4" fill="#3465a4"><title>Lexington Fire Department</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.5" cy="235.3" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="190.0" cy="219.8" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="148.7" cy="290.5" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="201.2" cy="237.5" r="4" fill="#3465a4"><title>Keith McCormick (Personal)</title></circle></a><a href="/variants/s6/db6k6db18k18g22k5/"><circle cx="151.0" cy="270.0" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.9" cy="242.5" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="210.2" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><circle cx="168.5" cy="252.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k4db10k2db2k4t5k6t6k4~x4/

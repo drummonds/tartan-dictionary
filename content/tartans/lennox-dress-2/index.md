@@ -15,7 +15,7 @@ The **Lennox Dress** tartan groups 2 setts — the same named design recorded as
 <tbody>
 <tr><td><a href="/setts/r2dr1r10dr2w10db1w2/">Lennox Dress</a> ★</td><td><code>R/8 DR4 R40 DR8 W40 DB4 W/8</code></td><td>208</td><td>1986</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r2dr1r10dr2w10db1w2/"><img src="/variants/s7/r2dr1r10dr2w10db1w2~x4/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ri8r2ri24r5w25dy2w8/">District Tartan</a></td><td><code>W/16 DY4 W50 R10 Ri48 R4 Ri/16</code></td><td>264</td><td>—</td></tr>
+<tr><td><a href="/setts/ri8r2ri24r5w25dy2w8/">District Tartan</a></td><td><code>W/16 DY4 W50 R10 Ri48 R4 Ri/16</code></td><td>264</td><td>1986</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/ri8r2ri24r5w25dy2w8/"><img src="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

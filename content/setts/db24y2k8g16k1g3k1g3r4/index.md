@@ -1,5 +1,12 @@
 ---
 title: "Ogilvy Hunting"
-redirect: "/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ogilvy Hunting](/variants/s9/db24y2k8g16k1g3k1g3r4~x2/).
+This is the **Ogilvy Hunting** sett — one scale-free proportion (`db24y2k8g16k1g3k1g3r4`), colour order pattern
+[BGKGKGKGR](/stripes/bgkgkgkgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ogilvy Hunting](/variants/s9/db24y2k8g16k1g3k1g3r4~x2/) ★ | ~2016 | ![Ogilvy Hunting sett](/variants/s9/db24y2k8g16k1g3k1g3r4~x2/sett.png) |

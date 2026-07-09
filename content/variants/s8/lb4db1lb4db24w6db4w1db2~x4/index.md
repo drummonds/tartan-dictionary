@@ -1,14 +1,16 @@
 ---
 title: "Antigonish"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Antigonish"
-  url: ""
+  url: "/setts/lb4db1lb4db24w6db4w1db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4db1lb4db24w6db4w1db2/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBWBW](/stripes/bwbwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb4db1lb4db24w6db4w1db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWBW](/stripes/bwbwbwbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w6db32n3db3n1db3n2dbi4db1y2~x2~db1204274-dbi1406275/"><circle cx="437.3" cy="103.8" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/variants/s8/db28ly3lb1ly3db4lb2dp1lb5~x4/"><circle cx="457.8" cy="148.1" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db0705267-dbi1404245/"><circle cx="501.3" cy="147.2" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s8/db28dr3w1dr3db4w2dp1w5~x4/"><circle cx="449.9" cy="142.9" r="4" fill="#3465a4"><title>Baker Family Tartan</title></circle></a><a href="/variants/s8/db32w4db2w4db4w2db1w6~x2/"><circle cx="512.0" cy="168.4" r="4" fill="#3465a4"><title>Menzies Navy design Tartan</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.6" cy="219.7" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/"><circle cx="423.4" cy="158.3" r="4" fill="#3465a4"><title>Majewski-White (Personal)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.9" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><circle cx="484.6" cy="200.0" r="4" fill="#3465a4"><title>Ikelman (Personal)</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.8" r="4" fill="#3465a4"><title>Talisker</title></circle></a><circle cx="449.0" cy="177.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w6db32n3db3n1db3n2dbi4db1y2~x2~db1204274-dbi1406275/"><circle cx="437.3" cy="103.7" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/variants/s8/db28ly3lb1ly3db4lb2dp1lb5~x4/"><circle cx="457.8" cy="148.0" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db0705267-dbi1404245/"><circle cx="501.3" cy="147.0" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s8/db28dr3w1dr3db4w2dp1w5~x4/"><circle cx="449.9" cy="142.8" r="4" fill="#3465a4"><title>Baker Family Tartan</title></circle></a><a href="/variants/s8/db32w4db2w4db4w2db1w6~x2/"><circle cx="512.0" cy="168.3" r="4" fill="#3465a4"><title>Menzies Navy design Tartan</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.6" cy="219.6" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/"><circle cx="423.4" cy="158.2" r="4" fill="#3465a4"><title>Majewski-White (Personal)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="440.0" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><circle cx="484.6" cy="199.9" r="4" fill="#3465a4"><title>Ikelman (Personal)</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.7" r="4" fill="#3465a4"><title>Talisker</title></circle></a><circle cx="449.0" cy="177.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb4db1lb4db24w6db4w1db2~x4/

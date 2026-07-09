@@ -1,5 +1,12 @@
 ---
 title: "Douglas, brown"
-redirect: "/variants/s5/k7lb3o30b30w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Douglas, brown](/variants/s5/k7lb3o30b30w3~x2/).
+This is the **Douglas, brown** sett — one scale-free proportion (`k7lb3o30b30w3`), colour order pattern
+[KWRBW](/stripes/kwrbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Douglas, brown](/variants/s5/k7lb3o30b30w3~x2/) ★ | ~2016 | ![Douglas, brown sett](/variants/s5/k7lb3o30b30w3~x2/sett.png) |

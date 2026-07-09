@@ -33,8 +33,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/">Humming Bird (Fashion)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/"><img src="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/sett.png" alt="Humming Bird (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/">Ailsa, Craig</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><img src="/variants/s8/r5w2db20y2k16w18k2w5~x2/sett.png" alt="Ailsa, Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/">Ailsa Craig Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><img src="/variants/s8/r5w2db20y2k16w18k2w5~x2/sett.png" alt="Ailsa Craig Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

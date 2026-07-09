@@ -1,22 +1,24 @@
 ---
-title: "Catalan"
+title: "Catalan District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Catalan"
   url: "/tartans/catalan/"
-- name: "Catalan"
-  url: ""
+- name: "Catalan District Tartan"
+  url: "/setts/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/)
-(the same proportion at any scale), whose colour order is pattern [BGGGRGRGRGRGWG](/stripes/bgggrgrgrgrgwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGRGRGRGRGWG](/stripes/bgggrgrgrgrgwg/).
 
 Part of the [Catalan](/tartans/catalan/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2071](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2071)
 
 ## Provenance
 
@@ -25,29 +27,29 @@ Earliest known date: 1991 The 10th century Compte de Barcelona, Guifre Pilos, wi
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
+<li>1991 — Catalan District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2071">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 <li>undated — Catalan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F0C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F0C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span></li>
-<li>undated — Catalan District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2071">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
 </details>
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
 <dl class="dataset-prov">
-<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
-<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
-<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>1991 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
 
 ## Thread count
-Y/3 W3 Y62 R9 Y9 R9 Y9 R9 Y9 R9 Y62 G3 Y3 DB/3
+DB/3 Y3 G3 Y62 R9 Y9 R9 Y9 R9 Y9 R9 Y62 W3 Y/3
 
 One full sett is **398 threads**.
 
@@ -58,7 +60,7 @@ One full sett is **398 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/3 W3 Y62 R9 Y9 R9 Y9 R9 Y9 R9 Y62 G3 Y3 DB/3 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/3 Y3 G3 Y62 R9 Y9 R9 Y9 R9 Y9 R9 Y62 W3 Y/3 tartan" width="880" height="480">
 
 ## Compared to the master
 

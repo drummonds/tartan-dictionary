@@ -1,5 +1,12 @@
 ---
-title: "Hope-Weir/Weir"
-redirect: "/variants/s8/k8y1k1db28k12g2k1lb2~x2/"
+title: "Weir Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hope-Weir/Weir](/variants/s8/k8y1k1db28k12g2k1lb2~x2/).
+This is the **Weir Clan Tartan** sett — one scale-free proportion (`k8y1k1db28k12g2k1lb2`), colour order pattern
+[KGKBKGKW](/stripes/kgkbkgkw/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Weir Clan Tartan](/variants/s8/k8y1k1db28k12g2k1lb2~x2/) ★ | ~2003 | ![Weir Clan Tartan sett](/variants/s8/k8y1k1db28k12g2k1lb2~x2/sett.png) |

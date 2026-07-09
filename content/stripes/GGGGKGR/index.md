@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3g24k28g19y3g3y3~x2/">Paton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><img src="/variants/s7/r3g24k28g19y3g3y3~x2/sett.png" alt="Paton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3g24k28g19y3g3y3~x2/">Paton Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><img src="/variants/s7/r3g24k28g19y3g3y3~x2/sett.png" alt="Paton Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

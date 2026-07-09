@@ -1,16 +1,18 @@
 ---
 title: "Balmoral (Old and Rare) Royal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Balmoral"
   url: "/tartans/balmoral-2/"
 - name: "Balmoral (Old and Rare) Royal Tartan"
-  url: ""
+  url: "/setts/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/)
-(the same proportion at any scale), whose colour order is pattern [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/).
 
 Part of the [Balmoral](/tartans/balmoral-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1893 The Balmoral tartan is not produced as an article of c
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1893 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="236.6" cy="166.6" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.3" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="235.6" cy="169.5" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/"><circle cx="251.6" cy="166.5" r="4" fill="#3465a4"><title>Balmoral Royal Tartan</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.4" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="201.6" cy="154.5" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/"><circle cx="249.7" cy="123.3" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="161.4" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.5" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><circle cx="252.4" cy="154.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="236.6" cy="166.5" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.1" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="235.6" cy="169.4" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/"><circle cx="251.6" cy="166.4" r="4" fill="#3465a4"><title>Balmoral Royal Tartan</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.3" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="201.6" cy="154.4" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.1" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/"><circle cx="249.7" cy="123.1" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="161.3" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.3" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><circle cx="252.4" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/

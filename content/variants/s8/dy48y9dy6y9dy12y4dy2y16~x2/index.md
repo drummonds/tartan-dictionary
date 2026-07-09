@@ -1,14 +1,16 @@
 ---
 title: "Yellow Pencil"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Yellow Pencil"
-  url: ""
+  url: "/setts/dy48y9dy6y9dy12y4dy2y16/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy48y9dy6y9dy12y4dy2y16/)
-(the same proportion at any scale), whose colour order is pattern [GGGGGGGG](/stripes/gggggggg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy48y9dy6y9dy12y4dy2y16/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGGGGG](/stripes/gggggggg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

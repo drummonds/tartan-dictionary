@@ -1,14 +1,16 @@
 ---
 title: "Parliament Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Parliament Trade Tartan"
-  url: ""
+  url: "/setts/dbi8g11k3g11dr12db10y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi8g11k3g11dr12db10y2/)
-(the same proportion at any scale), whose colour order is pattern [BGKGBBG](/stripes/bgkgbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi8g11k3g11dr12db10y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKGBBG](/stripes/bgkgbbg/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1998 Created to celebrate the referendum result for the re-
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1998 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.4" cy="233.1" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.3" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s6/r4g11k11g2db11dy3~x4/"><circle cx="73.7" cy="233.4" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/variants/s7/r2db8g8k8y1g8r2/"><circle cx="131.2" cy="209.5" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.1" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.5" cy="229.5" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><a href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/"><circle cx="112.7" cy="266.1" r="4" fill="#3465a4"><title>Blackdown Hills</title></circle></a><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><circle cx="133.7" cy="222.4" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><circle cx="110.9" cy="257.2" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s8/k3db11g15dg5g10dgi14dg14ly2~x2~dg1302166-dgi1303152/"><circle cx="126.9" cy="233.6" r="4" fill="#3465a4"><title>Brocéliande (Restricted)</title></circle></a><circle cx="114.4" cy="242.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.4" cy="233.1" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.3" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s6/r4g11k11g2db11dy3~x4/"><circle cx="73.7" cy="233.3" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/variants/s7/r2db8g8k8y1g8r2/"><circle cx="131.2" cy="209.4" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.0" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.5" cy="229.5" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><a href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/"><circle cx="112.7" cy="266.0" r="4" fill="#3465a4"><title>Blackdown Hills</title></circle></a><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><circle cx="133.7" cy="222.3" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><circle cx="110.9" cy="257.2" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s8/k3db11g15dg5g10dgi14dg14ly2~x2~dg1302166-dgi1303152/"><circle cx="126.9" cy="233.5" r="4" fill="#3465a4"><title>Brocéliande (Restricted)</title></circle></a><circle cx="114.4" cy="242.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/

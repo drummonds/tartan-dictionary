@@ -15,7 +15,7 @@ The **Princess Elizabeth** tartan groups 2 setts — the same named design recor
 <tbody>
 <tr><td><a href="/setts/r72k6lb2k11y2db2y2r18/">Princess Elizabeth</a> ★</td><td><code>R/144 K12 LB4 K22 Y4 DB4 Y4 R/36</code></td><td>280</td><td>~2002</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r72k6lb2k11y2db2y2r18/"><img src="/variants/s8/r72k6lb2k11y2db2y2r18~x2/sett.png" alt="Princess Elizabeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r42k4w1k6y1db1y1r12/">Princess Elizabeth</a></td><td><code>R/84 K8 W2 K12 Y2 DB2 Y2 R/24</code></td><td>164</td><td>—</td></tr>
+<tr><td><a href="/setts/r42k4w1k6y1db1y1r12/">Princess Elizabeth</a></td><td><code>R/84 K8 W2 K12 Y2 DB2 Y2 R/24</code></td><td>164</td><td>~2003</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r42k4w1k6y1db1y1r12/"><img src="/variants/s8/r42k4w1k6y1db1y1r12~x2/sett.png" alt="Princess Elizabeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

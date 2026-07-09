@@ -1,5 +1,12 @@
 ---
 title: "Braemar Royal Highland Gathering"
-redirect: "/variants/s6/r3k4lb2g64k6y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Braemar Royal Highland Gathering](/variants/s6/r3k4lb2g64k6y3~x2/).
+This is the **Braemar Royal Highland Gathering** sett — one scale-free proportion (`r3k4lb2g64k6y3`), colour order pattern
+[GKGWKR](/stripes/gkgwkr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Braemar Royal Highland Gathering](/variants/s6/r3k4lb2g64k6y3~x2/) ★ | 2003 | ![Braemar Royal Highland Gathering sett](/variants/s6/r3k4lb2g64k6y3~x2/sett.png) |

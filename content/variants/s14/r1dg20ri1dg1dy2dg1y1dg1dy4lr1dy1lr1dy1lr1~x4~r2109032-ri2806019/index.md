@@ -1,14 +1,16 @@
 ---
 title: "Forster (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Forster (Personal)"
-  url: ""
+  url: "/setts/r1dg20ri1dg1dy2dg1y1dg1dy4lr1dy1lr1dy1lr1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1dg20ri1dg1dy2dg1y1dg1dy4lr1dy1lr1dy1lr1/)
-(the same proportion at any scale), whose colour order is pattern [RGRGGGGGGYGYGY](/stripes/rgrggggggygygy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r1dg20ri1dg1dy2dg1y1dg1dy4lr1dy1lr1dy1lr1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRGGGGGGYGYGY](/stripes/rgrggggggygygy/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w3dr11db4dr6dg48o2dg3o2~x2/"><circle cx="447.5" cy="135.2" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.0" cy="123.7" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/"><circle cx="341.4" cy="69.4" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/"><circle cx="347.2" cy="131.4" r="4" fill="#3465a4"><title>Heneghan (Personal)</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="132.1" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/"><circle cx="422.7" cy="62.6" r="4" fill="#3465a4"><title>Original Tartan Ltd (Corporate)</title></circle></a><circle cx="401.4" cy="91.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w3dr11db4dr6dg48o2dg3o2~x2/"><circle cx="447.5" cy="135.1" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.1" cy="123.6" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/"><circle cx="341.4" cy="69.2" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/"><circle cx="347.2" cy="131.3" r="4" fill="#3465a4"><title>Heneghan (Personal)</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="132.0" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/"><circle cx="422.8" cy="62.4" r="4" fill="#3465a4"><title>Original Tartan Ltd (Corporate)</title></circle></a><circle cx="401.4" cy="91.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r1dg20ri1dg1dy2dg1y1dg1dy4lr1dy1lr1dy1lr1~x4~r2109032-ri2806019/

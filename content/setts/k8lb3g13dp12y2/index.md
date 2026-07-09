@@ -1,5 +1,12 @@
 ---
 title: "Wilson's No.176"
-redirect: "/variants/s5/k8lb3g13dp12y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's No.176](/variants/s5/k8lb3g13dp12y2~x2/).
+This is the **Wilson's No.176** sett — one scale-free proportion (`k8lb3g13dp12y2`), colour order pattern
+[KWGBGBGW](/stripes/kwgbgbgw/). It is recorded as a single **variant**, below.
+First attested **1819**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's No.176](/variants/s5/k8lb3g13dp12y2~x2/) ★ | 1819 | ![Wilson's No.176 sett](/variants/s5/k8lb3g13dp12y2~x2/sett.png) |

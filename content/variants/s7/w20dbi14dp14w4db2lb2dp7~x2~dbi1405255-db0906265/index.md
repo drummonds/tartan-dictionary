@@ -1,16 +1,18 @@
 ---
 title: "Earl of St. Andrews Dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Earl of St. Andrews Dress"
   url: "/tartans/earl-of-st-andrews-dress/"
 - name: "Earl of St. Andrews Dress"
-  url: ""
+  url: "/setts/w20dbi14dp14w4db2lb2dp7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w20dbi14dp14w4db2lb2dp7/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBBW](/stripes/bwbwbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w20dbi14dp14w4db2lb2dp7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBBW](/stripes/bwbwbbw/).
 
 Part of the [Earl of St. Andrews Dress](/tartans/earl-of-st-andrews-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/"><circle cx="322.9" cy="165.5" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5lb12w32dp4~x2/"><circle cx="321.5" cy="165.1" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.9" cy="224.4" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"><circle cx="185.0" cy="247.2" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/variants/s7/w20dbi14t14w4db2lb2t7~x2~dbi1406275-db1404245/"><circle cx="207.7" cy="235.4" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress (Dance)</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.7" cy="166.8" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2lp2dbi7~x2~dbi1406275-db1204274/"><circle cx="235.2" cy="212.5" r="4" fill="#3465a4"><title>St Andrews Dress, Earl of.. District Tartan</title></circle></a><a href="/variants/s5/w3dr27w16db27ly3~x2/"><circle cx="216.0" cy="258.9" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/"><circle cx="232.7" cy="210.4" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><circle cx="194.2" cy="223.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/"><circle cx="322.9" cy="165.4" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5lb12w32dp4~x2/"><circle cx="321.5" cy="165.0" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.9" cy="224.4" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"><circle cx="185.0" cy="247.2" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/variants/s7/w20dbi14t14w4db2lb2t7~x2~dbi1406275-db1404245/"><circle cx="207.8" cy="235.4" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress (Dance)</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.7" cy="166.7" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2lp2dbi7~x2~dbi1406275-db1204274/"><circle cx="235.2" cy="212.5" r="4" fill="#3465a4"><title>St Andrews Dress, Earl of.. District Tartan</title></circle></a><a href="/variants/s5/w3dr27w16db27ly3~x2/"><circle cx="216.0" cy="258.9" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/"><circle cx="232.7" cy="210.4" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><circle cx="194.2" cy="223.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w20dbi14dp14w4db2lb2dp7~x2~dbi1405255-db0906265/

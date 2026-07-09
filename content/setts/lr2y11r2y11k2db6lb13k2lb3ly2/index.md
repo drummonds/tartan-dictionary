@@ -1,5 +1,12 @@
 ---
 title: "RAF Leuchars"
-redirect: "/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [RAF Leuchars](/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/).
+This is the **RAF Leuchars** sett — one scale-free proportion (`lr2y11r2y11k2db6lb13k2lb3ly2`), colour order pattern
+[YGRGKBWKWY](/stripes/ygrgkbwkwy/). It is recorded as a single **variant**, below.
+First attested **1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [RAF Leuchars](/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/) ★ | 1989 | ![RAF Leuchars sett](/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/sett.png) |

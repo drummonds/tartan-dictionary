@@ -1,5 +1,12 @@
 ---
 title: "Antrim County Crest (Fashion)"
-redirect: "/variants/s9/g4y9g3db4g3w3r32g4y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Antrim County Crest (Fashion)](/variants/s9/g4y9g3db4g3w3r32g4y3~x2/).
+This is the **Antrim County Crest (Fashion)** sett — one scale-free proportion (`g4y9g3db4g3w3r32g4y3`), colour order pattern
+[GGGBGWRGG](/stripes/gggbgwrgg/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Antrim County Crest (Fashion)](/variants/s9/g4y9g3db4g3w3r32g4y3~x2/) ★ | 2004 | ![Antrim County Crest (Fashion) sett](/variants/s9/g4y9g3db4g3w3r32g4y3~x2/sett.png) |

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/">Scottish Knights Templar, of M.T.S.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><img src="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/sett.png" alt="Scottish Knights Templar, of M.T.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/">Knights Templar St Andrews Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><img src="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/sett.png" alt="Knights Templar St Andrews Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/">Scottish Knights Templar, of M.T.S. St Andrew</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><img src="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/sett.png" alt="Scottish Knights Templar, of M.T.S. St Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

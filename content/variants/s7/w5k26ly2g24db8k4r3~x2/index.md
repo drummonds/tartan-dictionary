@@ -1,16 +1,18 @@
 ---
 title: "Cornish Htg (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cornish Hunting"
   url: "/tartans/cornish-hunting/"
 - name: "Cornish Htg (District)"
-  url: ""
+  url: "/setts/w5k26ly2g24db8k4r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5k26ly2g24db8k4r3/)
-(the same proportion at any scale), whose colour order is pattern [RKBGYKW](/stripes/rkbgykw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w5k26ly2g24db8k4r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBGYKW](/stripes/rkbgykw/).
 
 Part of the [Cornish Hunting](/tartans/cornish-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.6" cy="139.3" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><circle cx="150.8" cy="136.2" r="4" fill="#3465a4"><title>Cornish, hunting</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="118.9" cy="189.9" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="151.0" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="163.0" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.9" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.5" cy="126.5" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/variants/s9/r2k2w2k14dg13g6y2k2w2~x2/"><circle cx="100.6" cy="152.1" r="4" fill="#3465a4"><title>Madewell</title></circle></a><a href="/variants/s8/r2k8y1k8g13db13lo1r2~x2/"><circle cx="99.1" cy="148.1" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/variants/s8/w4k2lb18g18k18wi3k18r3~x2~w3600000-wi3703114/"><circle cx="109.4" cy="162.6" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><circle cx="133.2" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.6" cy="139.1" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><circle cx="150.9" cy="136.1" r="4" fill="#3465a4"><title>Cornish, hunting</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="119.0" cy="189.8" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="150.9" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="162.9" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.8" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.5" cy="126.4" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/variants/s9/r2k2w2k14dg13g6y2k2w2~x2/"><circle cx="100.6" cy="152.0" r="4" fill="#3465a4"><title>Madewell</title></circle></a><a href="/variants/s8/r2k8y1k8g13db13lo1r2~x2/"><circle cx="99.1" cy="148.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/variants/s8/w4k2lb18g18k18wi3k18r3~x2~w3600000-wi3703114/"><circle cx="109.4" cy="162.5" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><circle cx="133.2" cy="139.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w5k26ly2g24db8k4r3~x2/

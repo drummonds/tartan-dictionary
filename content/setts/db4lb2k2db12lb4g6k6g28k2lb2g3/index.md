@@ -1,5 +1,12 @@
 ---
 title: "Hudson Hunting (Personal)"
-redirect: "/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hudson Hunting (Personal)](/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/).
+This is the **Hudson Hunting (Personal)** sett — one scale-free proportion (`db4lb2k2db12lb4g6k6g28k2lb2g3`), colour order pattern
+[BWKBWGKGKWG](/stripes/bwkbwgkgkwg/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hudson Hunting (Personal)](/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/) ★ | 1997 | ![Hudson Hunting (Personal) sett](/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/sett.png) |

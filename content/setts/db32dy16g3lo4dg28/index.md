@@ -1,5 +1,12 @@
 ---
 title: "Corey in Balachuirn"
-redirect: "/variants/s5/db32dy16g3lo4dg28~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Corey in Balachuirn](/variants/s5/db32dy16g3lo4dg28~x2/).
+This is the **Corey in Balachuirn** sett — one scale-free proportion (`db32dy16g3lo4dg28`), colour order pattern
+[BGGYG](/stripes/bggyg/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Corey in Balachuirn](/variants/s5/db32dy16g3lo4dg28~x2/) ★ | 2013 | ![Corey in Balachuirn sett](/variants/s5/db32dy16g3lo4dg28~x2/sett.png) |

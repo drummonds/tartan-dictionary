@@ -1,16 +1,18 @@
 ---
 title: "Spirit of Hoxa District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Hoxa"
   url: "/tartans/spirit-of-hoxa/"
 - name: "Spirit of Hoxa District Tartan"
-  url: ""
+  url: "/setts/dg2dt19dg2do46lb2dt10dg3o2r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2dt19dg2do46lb2dt10dg3o2r2/)
-(the same proportion at any scale), whose colour order is pattern [GBGBWBGRR](/stripes/gbgbwbgrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg2dt19dg2do46lb2dt10dg3o2r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBWBGRR](/stripes/gbgbwbgrr/).
 
 Part of the [Spirit of Hoxa](/tartans/spirit-of-hoxa/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 24 September 2012 Allison Dearness, who was born and bred i
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>24 September 2012 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>

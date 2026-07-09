@@ -1,14 +1,16 @@
 ---
 title: "Child, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Child, The"
-  url: ""
+  url: "/setts/p10k1dg4k1p10r4p10k1o4k1p10y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/p10k1dg4k1p10r4p10k1o4k1p10y4/)
-(the same proportion at any scale), whose colour order is pattern [BKGKBRBKRKBG](/stripes/bkgkbrbkrkbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/p10k1dg4k1p10r4p10k1o4k1p10y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGKBRBKRKBG](/stripes/bkgkbrbkrkbg/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

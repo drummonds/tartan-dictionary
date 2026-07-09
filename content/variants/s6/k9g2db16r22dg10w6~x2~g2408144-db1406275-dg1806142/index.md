@@ -1,14 +1,16 @@
 ---
 title: "Nicolson of Taransay (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Nicolson of Taransay (Personal)"
   url: "/setts/k9g2db16r22dg10w6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9g2db16r22dg10w6/)
-(the same proportion at any scale), whose colour order is pattern [KGBRGW](/stripes/kgbrgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k9g2db16r22dg10w6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGBRGW](/stripes/kgbrgw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="182.0" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.5" cy="152.5" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.5" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.6" cy="189.6" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/db15k20n12r34lb3~x2/"><circle cx="149.2" cy="199.7" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.9" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/"><circle cx="91.0" cy="154.0" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="81.0" cy="154.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="80.3" cy="182.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="182.0" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.4" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.5" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.6" cy="189.5" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/db15k20n12r34lb3~x2/"><circle cx="149.2" cy="199.7" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.8" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/"><circle cx="91.0" cy="154.0" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="81.0" cy="154.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="80.3" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k9g2db16r22dg10w6~x2~g2408144-db1406275-dg1806142/

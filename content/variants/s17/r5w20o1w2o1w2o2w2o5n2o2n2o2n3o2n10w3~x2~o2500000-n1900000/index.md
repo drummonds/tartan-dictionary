@@ -1,14 +1,16 @@
 ---
 title: "Nike Golf Light (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Nike Golf Light (Corporate)"
-  url: ""
+  url: "/setts/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3/)
-(the same proportion at any scale), whose colour order is pattern [RWRWRWRWRBRBRBRBW](/stripes/rwrwrwrwrbrbrbrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWRWRWRWRBRBRBRBW](/stripes/rwrwrwrwrbrbrbrbw/).
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><circle cx="277.0" cy="136.9" r="4" fill="#3465a4"><title>Nike Golf Light</title></circle></a><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="236.9" cy="128.1" r="4" fill="#3465a4"><title>Largs Dress (1983)</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.1" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="117.1" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s24/w4lb6w6lb21w9n27w10lb1n1lb5n1lb1w10r1ri1r5ri1r1w10n1r1n5r1n1~x2~r1807033-ri2109032/"><circle cx="209.8" cy="86.9" r="4" fill="#3465a4"><title>Oriflame</title></circle></a><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="225.0" cy="125.4" r="4" fill="#3465a4"><title>Largs Dress District Tartan</title></circle></a><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="279.5" cy="153.8" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><a href="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/"><circle cx="277.2" cy="134.8" r="4" fill="#3465a4"><title>Federal Memorial Dress</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.3" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/"><circle cx="228.3" cy="135.7" r="4" fill="#3465a4"><title>Nova Scotia Dress #2</title></circle></a><circle cx="250.1" cy="127.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><circle cx="277.0" cy="136.8" r="4" fill="#3465a4"><title>Nike Golf Light</title></circle></a><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="236.9" cy="127.9" r="4" fill="#3465a4"><title>Largs Dress (1983)</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.0" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="117.0" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s24/w4lb6w6lb21w9n27w10lb1n1lb5n1lb1w10r1ri1r5ri1r1w10n1r1n5r1n1~x2~r1807033-ri2109032/"><circle cx="209.8" cy="86.8" r="4" fill="#3465a4"><title>Oriflame</title></circle></a><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="225.0" cy="125.3" r="4" fill="#3465a4"><title>Largs Dress District Tartan</title></circle></a><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="279.5" cy="153.7" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><a href="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/"><circle cx="277.2" cy="134.7" r="4" fill="#3465a4"><title>Federal Memorial Dress</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/"><circle cx="228.3" cy="135.5" r="4" fill="#3465a4"><title>Nova Scotia Dress #2</title></circle></a><circle cx="250.0" cy="127.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2~o2500000-n1900000/

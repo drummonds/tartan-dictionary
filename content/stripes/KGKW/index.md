@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k46dy7k8w20~x2/">Lords of Skye (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k46dy7k8w20~x2/"><img src="/variants/s4/k46dy7k8w20~x2/sett.png" alt="Lords of Skye (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k46dy7k8w20~x2/">Lords of Skye Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k46dy7k8w20~x2/"><img src="/variants/s4/k46dy7k8w20~x2/sett.png" alt="Lords of Skye Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

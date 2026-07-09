@@ -1,5 +1,12 @@
 ---
 title: "Ploysongsang, Edward Thiravej (Personal)"
-redirect: "/variants/s6/r34w4db7y10db7r18~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ploysongsang, Edward Thiravej (Personal)](/variants/s6/r34w4db7y10db7r18~x2/).
+This is the **Ploysongsang, Edward Thiravej (Personal)** sett — one scale-free proportion (`r34w4db7y10db7r18`), colour order pattern
+[RBGBWR](/stripes/rbgbwr/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ploysongsang, Edward Thiravej (Personal)](/variants/s6/r34w4db7y10db7r18~x2/) ★ | 2013 | ![Ploysongsang, Edward Thiravej (Personal) sett](/variants/s6/r34w4db7y10db7r18~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Birmingham Irish (Pipe Band)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Birmingham Irish (Pipe Band)"
   url: "/setts/dg48lo3k6w4dg3k15lo3dg4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg48lo3k6w4dg3k15lo3dg4/)
-(the same proportion at any scale), whose colour order is pattern [GYKGWKYG](/stripes/gykgwkyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg48lo3k6w4dg3k15lo3dg4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYKGWKYG](/stripes/gykgwkyg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2~dg1605139/"><circle cx="336.9" cy="129.7" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/variants/s8/k2g9dr2g9k2g2k26dg2~x2/"><circle cx="280.5" cy="146.0" r="4" fill="#3465a4"><title>Land's End</title></circle></a><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><circle cx="335.8" cy="92.9" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="253.4" cy="161.6" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/"><circle cx="369.8" cy="121.9" r="4" fill="#3465a4"><title>Green Ridge</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.9" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.9" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.7" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="169.1" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.0" cy="102.3" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><circle cx="344.1" cy="129.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2~dg1605139/"><circle cx="336.9" cy="129.6" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/variants/s8/k2g9dr2g9k2g2k26dg2~x2/"><circle cx="280.5" cy="145.9" r="4" fill="#3465a4"><title>Land's End</title></circle></a><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><circle cx="335.8" cy="92.7" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="253.4" cy="161.5" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/"><circle cx="369.8" cy="121.7" r="4" fill="#3465a4"><title>Green Ridge</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.5" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="169.0" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.0" cy="102.2" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><circle cx="344.1" cy="129.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2/

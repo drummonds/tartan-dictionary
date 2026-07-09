@@ -1,16 +1,18 @@
 ---
 title: "Bannockbane Blue #3"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane"
   url: "/tartans/bannockbane/"
 - name: "Bannockbane Blue #3"
-  url: ""
+  url: "/setts/b3t2b30t1w18lb14t2lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b3t2b30t1w18lb14t2lb3/)
-(the same proportion at any scale), whose colour order is pattern [BBBBWWBW](/stripes/bbbbwwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b3t2b30t1w18lb14t2lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWWBW](/stripes/bbbbwwbw/).
 
 Part of the [Bannockbane](/tartans/bannockbane/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/"><circle cx="250.1" cy="209.6" r="4" fill="#3465a4"><title>Bannockbane Blue #2</title></circle></a><a href="/variants/s8/w4lb1ly2lb22b20w2b4w2~x2/"><circle cx="374.5" cy="206.0" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/"><circle cx="403.6" cy="155.0" r="4" fill="#3465a4"><title>Saltire</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db1204274-dbi1406275/"><circle cx="214.4" cy="184.0" r="4" fill="#3465a4"><title>Banff and Buchan District Tartan</title></circle></a><a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2~t2205244-db1204274/"><circle cx="342.0" cy="202.6" r="4" fill="#3465a4"><title>Silver Personal Tartan</title></circle></a><circle cx="351.9" cy="187.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/"><circle cx="250.1" cy="209.6" r="4" fill="#3465a4"><title>Bannockbane Blue #2</title></circle></a><a href="/variants/s8/w4lb1ly2lb22b20w2b4w2~x2/"><circle cx="374.6" cy="205.9" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/"><circle cx="403.6" cy="154.8" r="4" fill="#3465a4"><title>Saltire</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db1204274-dbi1406275/"><circle cx="214.4" cy="183.9" r="4" fill="#3465a4"><title>Banff and Buchan District Tartan</title></circle></a><a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2~t2205244-db1204274/"><circle cx="342.0" cy="202.5" r="4" fill="#3465a4"><title>Silver Personal Tartan</title></circle></a><circle cx="351.9" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/b3t2b30t1w18lb14t2lb3~x2/

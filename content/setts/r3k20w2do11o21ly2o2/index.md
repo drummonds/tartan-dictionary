@@ -1,5 +1,14 @@
 ---
 title: "Barbour"
-redirect: "/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Barbour](/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/).
+This is the **Barbour** sett — one scale-free proportion (`r3k20w2do11o21ly2o2`), colour order pattern
+[RKWBRYR](/stripes/rkwbryr/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+Part of the [Barbour](/tartans/barbour/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Barbour](/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/) ★ | 1998 | ![Barbour sett](/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/sett.png) |

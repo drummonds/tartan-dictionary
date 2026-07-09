@@ -1,5 +1,12 @@
 ---
 title: "Livingston (Personal)"
-redirect: "/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Livingston (Personal)](/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/).
+This is the **Livingston (Personal)** sett — one scale-free proportion (`g26r5k1r2k1r5g16r5w16g2w8`), colour order pattern
+[GRKRKRGRWGW](/stripes/grkrkrgrwgw/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Livingston (Personal)](/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/) ★ | 1996 | ![Livingston (Personal) sett](/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/sett.png) |

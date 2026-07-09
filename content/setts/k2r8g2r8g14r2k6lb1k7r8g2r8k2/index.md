@@ -1,5 +1,12 @@
 ---
-title: "Nicolson, MacNicol"
-redirect: "/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/"
+title: "Nicolson MacNicol Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Nicolson, MacNicol](/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/).
+This is the **Nicolson MacNicol Clan Tartan** sett — one scale-free proportion (`k2r8g2r8g14r2k6lb1k7r8g2r8k2`), colour order pattern
+[KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/). It is recorded as a single **variant**, below.
+First attested **1876**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Nicolson MacNicol Clan Tartan](/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/) ★ | 1876 | ![Nicolson MacNicol Clan Tartan sett](/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/sett.png) |

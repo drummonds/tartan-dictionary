@@ -1,14 +1,16 @@
 ---
 title: "Ferguson Red, George (Architect)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ferguson Red, George (Architect)"
-  url: ""
+  url: "/setts/dr8ri48riii6rii48riii3rii6riii6rii4riii8rii2riii22r8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr8ri48riii6rii48riii3rii6riii6rii4riii8rii2riii22r8/)
-(the same proportion at any scale), whose colour order is pattern [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr8ri48riii6rii48riii3rii6riii6rii4riii8rii2riii22r8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

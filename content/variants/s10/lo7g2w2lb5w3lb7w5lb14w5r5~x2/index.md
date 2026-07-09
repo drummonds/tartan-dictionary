@@ -1,6 +1,7 @@
 ---
 title: "Peter Rabbit (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Peter Rabbit™"
   url: "/tartans/peter-rabbit/"
 - name: "Peter Rabbit (Corporate)"
-  url: ""
+  url: "/setts/lo7g2w2lb5w3lb7w5lb14w5r5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo7g2w2lb5w3lb7w5lb14w5r5/)
-(the same proportion at any scale), whose colour order is pattern [RWWWWWWWGY](/stripes/rwwwwwwwgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lo7g2w2lb5w3lb7w5lb14w5r5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWWWWWWWGY](/stripes/rwwwwwwwgy/).
 
 Part of the [Peter Rabbit™](/tartans/peter-rabbit/) tartan — the named design grouping this sett with its other cloths.
 

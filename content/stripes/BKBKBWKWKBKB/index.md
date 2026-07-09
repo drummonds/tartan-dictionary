@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/">Grey Watch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/"><img src="/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/sett.png" alt="Grey Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/">Grey Watch Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/"><img src="/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/sett.png" alt="Grey Watch Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

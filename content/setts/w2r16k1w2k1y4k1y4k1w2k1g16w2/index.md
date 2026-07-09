@@ -1,5 +1,14 @@
 ---
 title: "Buchanan D"
-redirect: "/variants/s13/w2r16k1w2k1y4k1y4k1w2k1g16w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Buchanan D](/variants/s13/w2r16k1w2k1y4k1y4k1w2k1g16w2~x2/).
+This is the **Buchanan D** sett — one scale-free proportion (`w2r16k1w2k1y4k1y4k1w2k1g16w2`), colour order pattern
+[WGKWKGKGKWKRW](/stripes/wgkwkgkgkwkrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Buchanan D](/tartans/buchanan-d/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Buchanan D](/variants/s13/w2r16k1w2k1y4k1y4k1w2k1g16w2~x2/) ★ | ~2016 | ![Buchanan D sett](/variants/s13/w2r16k1w2k1y4k1y4k1w2k1g16w2~x2/sett.png) |

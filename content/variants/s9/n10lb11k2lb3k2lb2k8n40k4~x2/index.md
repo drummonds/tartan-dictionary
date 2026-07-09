@@ -1,16 +1,18 @@
 ---
 title: "Doune District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Doune"
   url: "/tartans/doune/"
 - name: "Doune District Tartan"
-  url: ""
+  url: "/setts/n10lb11k2lb3k2lb2k8n40k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n10lb11k2lb3k2lb2k8n40k4/)
-(the same proportion at any scale), whose colour order is pattern [BWKWKWKBK](/stripes/bwkwkwkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n10lb11k2lb3k2lb2k8n40k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWKWKBK](/stripes/bwkwkwkbk/).
 
 Part of the [Doune](/tartans/doune/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 01/01/2002 A colour variation of Stewart Bute.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/01/2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><circle cx="291.5" cy="128.2" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress (Fashion)</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="324.7" cy="124.1" r="4" fill="#3465a4"><title>Doune (District)</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.5" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.8" cy="136.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.2" cy="79.4" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.2" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.5" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.4" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.3" cy="81.2" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="88.0" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><circle cx="322.3" cy="121.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><circle cx="291.5" cy="128.1" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress (Fashion)</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="324.7" cy="124.0" r="4" fill="#3465a4"><title>Doune (District)</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.3" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.9" cy="136.4" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.2" cy="79.2" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.1" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.4" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.3" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.3" cy="81.0" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="87.8" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><circle cx="322.3" cy="121.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n10lb11k2lb3k2lb2k8n40k4~x2/

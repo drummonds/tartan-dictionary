@@ -1,5 +1,12 @@
 ---
 title: "Brook (Check)"
-redirect: "/variants/s10/n4w4do4w4n4w4do4w4r1n4~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Brook (Check)](/variants/s10/n4w4do4w4n4w4do4w4r1n4~x4/).
+This is the **Brook (Check)** sett — one scale-free proportion (`n4w4do4w4n4w4do4w4r1n4`), colour order pattern
+[BRWBWBWBWB](/stripes/brwbwbwbwb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Brook (Check)](/variants/s10/n4w4do4w4n4w4do4w4r1n4~x4/) ★ | ~2016 | ![Brook (Check) sett](/variants/s10/n4w4do4w4n4w4do4w4r1n4~x4/sett.png) |

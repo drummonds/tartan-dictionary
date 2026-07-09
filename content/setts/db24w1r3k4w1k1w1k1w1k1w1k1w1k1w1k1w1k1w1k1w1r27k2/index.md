@@ -1,5 +1,12 @@
 ---
 title: "McCready (Name)"
-redirect: "/variants/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McCready (Name)](/variants/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/).
+This is the **McCready (Name)** sett — one scale-free proportion (`db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2`), colour order pattern
+[BWRKWKWKWKWKWKWKWKWKWRK](/stripes/bwrkwkwkwkwkwkwkwkwkwrk/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McCready (Name)](/variants/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/) ★ | 2008 | ![McCready (Name) sett](/variants/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/sett.png) |

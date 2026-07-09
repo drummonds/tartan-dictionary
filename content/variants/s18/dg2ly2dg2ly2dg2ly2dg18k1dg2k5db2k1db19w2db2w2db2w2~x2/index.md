@@ -1,16 +1,18 @@
 ---
 title: "Scottish Islamic (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Islamic"
   url: "/tartans/scottish-islamic/"
 - name: "Scottish Islamic (Corporate)"
-  url: ""
+  url: "/setts/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2/)
-(the same proportion at any scale), whose colour order is pattern [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/).
 
 Part of the [Scottish Islamic](/tartans/scottish-islamic/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g2y2g2y2g2y2g18k1g2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="158.8" cy="85.8" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/variants/s20/db33k3r2k3g9r2g7w2g7r2g9k3r2k3db7r2db2r2db3w2~x2/"><circle cx="174.2" cy="83.3" r="4" fill="#3465a4"><title>Ranking (Personal)</title></circle></a><a href="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/"><circle cx="170.9" cy="87.7" r="4" fill="#3465a4"><title>Sandilands-Watson (Personal)</title></circle></a><a href="/variants/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2~r2109032-lp3004317/"><circle cx="158.7" cy="91.6" r="4" fill="#3465a4"><title>Couper of Gogar (Clan)</title></circle></a><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"><circle cx="164.5" cy="78.6" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/variants/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/"><circle cx="158.1" cy="88.9" r="4" fill="#3465a4"><title>Couper of Gogar</title></circle></a><a href="/variants/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="135.1" cy="98.7" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><circle cx="141.4" cy="107.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/"><circle cx="191.7" cy="62.6" r="4" fill="#3465a4"><title>Cooper/Couper</title></circle></a><a href="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/"><circle cx="215.7" cy="78.5" r="4" fill="#3465a4"><title>Craig (Personal)</title></circle></a><circle cx="162.6" cy="83.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g2y2g2y2g2y2g18k1g2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="158.8" cy="85.6" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/variants/s20/db33k3r2k3g9r2g7w2g7r2g9k3r2k3db7r2db2r2db3w2~x2/"><circle cx="174.2" cy="83.1" r="4" fill="#3465a4"><title>Ranking (Personal)</title></circle></a><a href="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/"><circle cx="170.9" cy="87.5" r="4" fill="#3465a4"><title>Sandilands-Watson (Personal)</title></circle></a><a href="/variants/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2~r2109032-lp3004317/"><circle cx="158.7" cy="91.4" r="4" fill="#3465a4"><title>Couper of Gogar (Clan)</title></circle></a><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"><circle cx="164.5" cy="78.5" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/variants/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/"><circle cx="158.1" cy="88.7" r="4" fill="#3465a4"><title>Couper of Gogar</title></circle></a><a href="/variants/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="135.1" cy="98.6" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><circle cx="141.4" cy="106.9" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/"><circle cx="191.7" cy="62.4" r="4" fill="#3465a4"><title>Cooper/Couper</title></circle></a><a href="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/"><circle cx="215.7" cy="78.3" r="4" fill="#3465a4"><title>Craig (Personal)</title></circle></a><circle cx="162.6" cy="83.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/

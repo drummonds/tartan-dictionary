@@ -1,5 +1,12 @@
 ---
 title: "Stewart - Pr Ch Ed (Royal)"
-redirect: "/variants/s12/r14lb4dt6y1dt2w2dt2g12r6dt2r2w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stewart - Pr Ch Ed (Royal)](/variants/s12/r14lb4dt6y1dt2w2dt2g12r6dt2r2w1~x4/).
+This is the **Stewart - Pr Ch Ed (Royal)** sett — one scale-free proportion (`r14lb4dt6y1dt2w2dt2g12r6dt2r2w1`), colour order pattern
+[RWBGBWBGRBRW](/stripes/rwbgbwbgrbrw/). It is recorded as a single **variant**, below.
+First attested **1746**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Stewart - Pr Ch Ed (Royal)](/variants/s12/r14lb4dt6y1dt2w2dt2g12r6dt2r2w1~x4/) ★ | 1746 | ![Stewart - Pr Ch Ed (Royal) sett](/variants/s12/r14lb4dt6y1dt2w2dt2g12r6dt2r2w1~x4/sett.png) |

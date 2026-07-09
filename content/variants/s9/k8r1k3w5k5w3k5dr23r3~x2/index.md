@@ -1,14 +1,16 @@
 ---
 title: "Southdown Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Southdown Tartan"
-  url: ""
+  url: "/setts/k8r1k3w5k5w3k5dr23r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8r1k3w5k5w3k5dr23r3/)
-(the same proportion at any scale), whose colour order is pattern [KRKWKWKBR](/stripes/krkwkwkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k8r1k3w5k5w3k5dr23r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKWKWKBR](/stripes/krkwkwkbr/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2003 Designed for the Glasgow conference in 2002
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb19r2lb3r2lb3k43r22g3~x2/"><circle cx="212.5" cy="116.6" r="4" fill="#3465a4"><title>Carson Red (Personal)</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.7" cy="83.2" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="192.5" cy="121.1" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="225.1" cy="121.4" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="221.9" cy="110.2" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/"><circle cx="231.9" cy="123.3" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.6" cy="111.2" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><a href="/variants/s8/r12k2w8k4n16r2k31n2/"><circle cx="203.5" cy="140.8" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="211.8" cy="93.8" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="212.9" cy="116.3" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan</title></circle></a><circle cx="198.4" cy="121.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb19r2lb3r2lb3k43r22g3~x2/"><circle cx="212.5" cy="116.5" r="4" fill="#3465a4"><title>Carson Red (Personal)</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.7" cy="83.1" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="192.5" cy="120.9" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="225.1" cy="121.3" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="221.9" cy="110.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/"><circle cx="231.9" cy="123.2" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.6" cy="111.1" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><a href="/variants/s8/r12k2w8k4n16r2k31n2/"><circle cx="203.5" cy="140.7" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="211.8" cy="93.6" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="212.9" cy="116.2" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan</title></circle></a><circle cx="198.4" cy="120.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k8r1k3w5k5w3k5dr23r3~x2/

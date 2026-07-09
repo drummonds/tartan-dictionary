@@ -36,15 +36,15 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s4/g75r2g4r40~x2/"><img src="/variants/s4/g75r2g4r40~x2/sett.png" alt="Duke of Windsor (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r38g2r5g16/">MacDonald Lord of the Isles</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r38g2r5g16/"><img src="/variants/s4/r38g2r5g16/sett.png" alt="MacDonald Lord of the Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/r36g2r5g16~x2/">MacDonald of Sleat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r36g2r5g16~x2/"><img src="/variants/s4/r36g2r5g16~x2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s4/r36dg2r5dg16~x2/">MacDonald of Sleat - 1810 (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/r36dg2r5dg16~x2/"><img src="/variants/s4/r36dg2r5dg16~x2/sett.png" alt="MacDonald of Sleat - 1810 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r36g2r5g16~x2/">MacDonald of Sleat Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r36g2r5g16~x2/"><img src="/variants/s4/r36g2r5g16~x2/sett.png" alt="MacDonald of Sleat Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s4/g16r1g2r11~x8/">Middleton</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/g16r1g2r11~x8/"><img src="/variants/s4/g16r1g2r11~x8/sett.png" alt="Middleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/r1g7r9y1~x4/">Bryce</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r1g7r9y1~x4/"><img src="/variants/s4/r1g7r9y1~x4/sett.png" alt="Bryce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r1g7r9y1~x4/">Bryce Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r1g7r9y1~x4/"><img src="/variants/s4/r1g7r9y1~x4/sett.png" alt="Bryce Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s3/r17g9r2~x2/">MacGregor of Glenstrae #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/r17g9r2~x2/"><img src="/variants/s3/r17g9r2~x2/sett.png" alt="MacGregor of Glenstrae #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/">Gillies</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><img src="/variants/s8/db32k12db12g6r6g18k2y3~x2/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/">Gillies (House of Edgar)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><img src="/variants/s8/t32k12t12g6r6g18k2y3~x2/sett.png" alt="Gillies (House of Edgar) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/">Gillies Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><img src="/variants/s8/db32k12db12g6r6g18k2y3~x2/sett.png" alt="Gillies Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

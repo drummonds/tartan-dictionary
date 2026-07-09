@@ -1,14 +1,16 @@
 ---
 title: "Greenshields Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Greenshields (Personal)"
   url: "/setts/db40lb3db3lb3db3lb4dg8g8n8w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db40lb3db3lb3db3lb4dg8g8n8w2/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db40lb3db3lb3db3lb4dg8g8n8w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/).
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
@@ -23,7 +25,7 @@ Earliest known date: August 2004 Nothing
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>August 2004 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/"><circle cx="217.3" cy="110.4" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly2503076-lyi2705081/"><circle cx="300.8" cy="146.4" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><circle cx="237.0" cy="148.6" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/variants/s11/n2db16lb2db3lb2db3lb8g30db3y2r2~x2/"><circle cx="210.8" cy="126.2" r="4" fill="#3465a4"><title>San Diego, The</title></circle></a><a href="/variants/s9/b4dg30dbi12g3db2lb3db26dp4db2~dg1806142-dbi1406275-g2408144-db1204274/"><circle cx="236.2" cy="166.1" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/variants/s11/g37dp5g5dp12t10db5t5db40dy4db4ly4~x2/"><circle cx="209.4" cy="175.6" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><circle cx="280.2" cy="131.6" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/"><circle cx="199.3" cy="141.0" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/variants/s17/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17~x2/"><circle cx="192.2" cy="109.1" r="4" fill="#3465a4"><title>Spens, Fragment</title></circle></a><a href="/variants/s16/t8db6dp40dg16db1dg7t2dg5t4dg4t4dg2t5dg1t36w6/"><circle cx="285.6" cy="110.2" r="4" fill="#3465a4"><title>Bell-McTier Thistle (Personal)</title></circle></a><circle cx="236.7" cy="118.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/"><circle cx="217.3" cy="110.2" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly2503076-lyi2705081/"><circle cx="300.8" cy="146.3" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><circle cx="237.0" cy="148.4" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/variants/s11/n2db16lb2db3lb2db3lb8g30db3y2r2~x2/"><circle cx="210.8" cy="126.1" r="4" fill="#3465a4"><title>San Diego, The</title></circle></a><a href="/variants/s9/b4dg30dbi12g3db2lb3db26dp4db2~dg1806142-dbi1406275-g2408144-db1204274/"><circle cx="236.2" cy="166.0" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/variants/s11/g37dp5g5dp12t10db5t5db40dy4db4ly4~x2/"><circle cx="209.4" cy="175.5" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><circle cx="280.2" cy="131.5" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/"><circle cx="199.3" cy="140.9" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/variants/s17/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17~x2/"><circle cx="192.2" cy="108.9" r="4" fill="#3465a4"><title>Spens, Fragment</title></circle></a><a href="/variants/s16/t8db6dp40dg16db1dg7t2dg5t4dg4t4dg2t5dg1t36w6/"><circle cx="285.6" cy="110.1" r="4" fill="#3465a4"><title>Bell-McTier Thistle (Personal)</title></circle></a><circle cx="236.7" cy="118.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/

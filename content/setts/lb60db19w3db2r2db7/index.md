@@ -1,5 +1,12 @@
 ---
-title: "Federal Bureaux of Investigation"
-redirect: "/variants/s6/lb60db19w3db2r2db7~x2/"
+title: "Federal Bureaux (FBI) Corporate Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Federal Bureaux of Investigation](/variants/s6/lb60db19w3db2r2db7~x2/).
+This is the **Federal Bureaux (FBI) Corporate Tartan** sett — one scale-free proportion (`lb60db19w3db2r2db7`), colour order pattern
+[BRBWBW](/stripes/brbwbw/). It is recorded as a single **variant**, below.
+First attested **1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Federal Bureaux (FBI) Corporate Tartan](/variants/s6/lb60db19w3db2r2db7~x2/) ★ | 1989 | ![Federal Bureaux (FBI) Corporate Tartan sett](/variants/s6/lb60db19w3db2r2db7~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Queensferry High School: Ferry Fling"
-redirect: "/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Queensferry High School: Ferry Fling](/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/).
+This is the **Queensferry High School: Ferry Fling** sett — one scale-free proportion (`lb5w3lt7lb5lt27b8db43w3lt3`), colour order pattern
+[WWBBWWWWW](/stripes/wwbbwwwww/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Queensferry High School: Ferry Fling](/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/) ★ | 2009 | ![Queensferry High School: Ferry Fling sett](/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/sett.png) |

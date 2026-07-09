@@ -1,14 +1,16 @@
 ---
 title: "Kilmarnock Football Club (Old)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kilmarnock Football Club (Old)"
-  url: ""
+  url: "/setts/db3w3db5k6y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3w3db5k6y1/)
-(the same proportion at any scale), whose colour order is pattern [BWBKGKBW](/stripes/bwbkgkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3w3db5k6y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBKGKBW](/stripes/bwbkgkbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3g12k13w2db13w3~x2~db1406275/"><circle cx="108.5" cy="227.4" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.8" cy="248.5" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.2" cy="228.0" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s6/w2db10k10g11db2w2~x2~db1406275/"><circle cx="96.7" cy="224.2" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/variants/s6/db9k9r3db9k9ly1~x4/"><circle cx="211.5" cy="233.2" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s5/k12t3k12t18w5~x2/"><circle cx="209.3" cy="241.8" r="4" fill="#3465a4"><title>Grampian Television</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.6" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="210.3" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="158.1" cy="227.1" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><circle cx="166.1" cy="213.6" r="4" fill="#3465a4"><title>St Johnstone F.C.</title></circle></a><circle cx="108.0" cy="241.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3g12k13w2db13w3~x2~db1406275/"><circle cx="108.5" cy="227.4" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.9" cy="248.5" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.2" cy="228.0" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s6/w2db10k10g11db2w2~x2~db1406275/"><circle cx="96.7" cy="224.1" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/variants/s6/db9k9r3db9k9ly1~x4/"><circle cx="211.5" cy="233.2" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s5/k12t3k12t18w5~x2/"><circle cx="209.3" cy="241.8" r="4" fill="#3465a4"><title>Grampian Television</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.7" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="210.2" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="158.1" cy="227.0" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><circle cx="166.1" cy="213.5" r="4" fill="#3465a4"><title>St Johnstone F.C.</title></circle></a><circle cx="108.0" cy="241.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db3w3db5k6y1~x4/

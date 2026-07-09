@@ -1,5 +1,12 @@
 ---
 title: "Holmston Primary (School)"
-redirect: "/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Holmston Primary (School)](/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/).
+This is the **Holmston Primary (School)** sett — one scale-free proportion (`g14w2g14r1g14y2g30lb2g2lb4`), colour order pattern
+[GWGRGGGWGW](/stripes/gwgrgggwgw/). It is recorded as a single **variant**, below.
+First attested **~1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Holmston Primary (School)](/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/) ★ | ~1999 | ![Holmston Primary (School) sett](/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/sett.png) |

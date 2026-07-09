@@ -1,14 +1,16 @@
 ---
 title: "Glasgow, Rock and Wheel"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow, Rock and Wheel"
-  url: ""
+  url: "/setts/g25dr4db24dr21g25dr4db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g25dr4db24dr21g25dr4db2/)
-(the same proportion at any scale), whose colour order is pattern [BBGBBBG](/stripes/bbgbbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g25dr4db24dr21g25dr4db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBBBG](/stripes/bbgbbbg/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="256.1" cy="247.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="283.8" cy="212.3" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><circle cx="379.0" cy="244.5" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.9" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="196.4" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="293.1" cy="224.5" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><circle cx="298.3" cy="279.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><circle cx="312.8" cy="255.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="256.1" cy="247.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="283.8" cy="212.2" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><circle cx="379.0" cy="244.4" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.8" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="196.3" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="293.1" cy="224.5" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><circle cx="298.4" cy="279.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><circle cx="312.8" cy="255.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g25dr4db24dr21g25dr4db2~x2/

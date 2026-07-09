@@ -1,5 +1,12 @@
 ---
 title: "Astrobiology"
-redirect: "/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Astrobiology](/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/).
+This is the **Astrobiology** sett — one scale-free proportion (`k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3`), colour order pattern
+[GKGBKWKGBRBRGBK](/stripes/gkgbkwkgbrbrgbk/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Astrobiology](/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/) ★ | 2016 | ![Astrobiology sett](/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/sett.png) |

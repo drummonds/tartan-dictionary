@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s8/db6r1db1r2w1r2db1r3~x4/">Edinburgh Marketing</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/db6r1db1r2w1r2db1r3~x4/"><img src="/variants/s8/db6r1db1r2w1r2db1r3~x4/sett.png" alt="Edinburgh Marketing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db38r6db6r9w5r12db8r16/">Edinburgh Marketing</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db38r6db6r9w5r12db8r16/"><img src="/variants/s8/db38r6db6r9w5r12db8r16/sett.png" alt="Edinburgh Marketing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db38r6db6r9w5r12db8r16/">Edinburgh Marketing Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db38r6db6r9w5r12db8r16/"><img src="/variants/s8/db38r6db6r9w5r12db8r16/sett.png" alt="Edinburgh Marketing Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/">Edinburgh TIC (Corporate)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/"><img src="/variants/s8/db32r3db3r4w3r5db4r7~x2/sett.png" alt="Edinburgh TIC (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

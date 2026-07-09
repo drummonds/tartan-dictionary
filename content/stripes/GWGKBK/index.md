@@ -34,18 +34,18 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s6/g21w2g4k17db14k3/"><img src="/variants/s6/g21w2g4k17db14k3/sett.png" alt="Graham W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/g21w2g4k17dr14k3/">Graham W</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/g21w2g4k17dr14k3/"><img src="/variants/s6/g21w2g4k17dr14k3/sett.png" alt="Graham W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g16lb2g1k12db12k1~x2/">Graham of Menteith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g16lb2g1k12db12k1~x2/"><img src="/variants/s6/g16lb2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g8lb1g1k6db6k1~x4/">Graham of Menteith</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><img src="/variants/s6/g8lb1g1k6db6k1~x4/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g8w2g1k12db12k1~x2/">Graham of Menteith</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/g8w2g1k12db12k1~x2/"><img src="/variants/s6/g8w2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g16lb2g1k12db12k1~x2/">Graham of Menteith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g16lb2g1k12db12k1~x2/"><img src="/variants/s6/g16lb2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g18lb2g4k14db12k3~x2/">Graham of Menteith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><img src="/variants/s6/g18lb2g4k14db12k3~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g9lb1g6k7db7k1~x4/">Menteith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><img src="/variants/s6/g9lb1g6k7db7k1~x4/sett.png" alt="Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g18lb2g4k14db12k3~x2/">Graham of Menteith Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><img src="/variants/s6/g18lb2g4k14db12k3~x2/sett.png" alt="Graham of Menteith Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g9w1g6k7db7k1~x2/">Menteith</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/g9w1g6k7db7k1~x2/"><img src="/variants/s6/g9w1g6k7db7k1~x2/sett.png" alt="Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g9lb1g6k7db7k1~x4/">Menteith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><img src="/variants/s6/g9lb1g6k7db7k1~x4/sett.png" alt="Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g52lb7g9k35db35k7/">Redland</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/g52lb7g9k35db35k7/"><img src="/variants/s6/g52lb7g9k35db35k7/sett.png" alt="Redland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g21w2g4k17dp14k3~x2/">Wilson's No 158</a></td></tr>

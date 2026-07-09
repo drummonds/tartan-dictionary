@@ -1,5 +1,12 @@
 ---
 title: "Dorcas, Check"
-redirect: "/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dorcas, Check](/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/).
+This is the **Dorcas, Check** sett — one scale-free proportion (`o4w2o2w3o18k6g3k2g2k2g14b3`), colour order pattern
+[BGKGKGKRWRWR](/stripes/bgkgkgkrwrwr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dorcas, Check](/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/) ★ | ~2016 | ![Dorcas, Check sett](/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/sett.png) |

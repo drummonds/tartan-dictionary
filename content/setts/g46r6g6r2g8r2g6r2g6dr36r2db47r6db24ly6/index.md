@@ -1,5 +1,12 @@
 ---
 title: "Cochrane Hunting"
-redirect: "/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cochrane Hunting](/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/).
+This is the **Cochrane Hunting** sett — one scale-free proportion (`g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6`), colour order pattern
+[GRGRGRGRGBRBRBY](/stripes/grgrgrgrgbrbrby/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Cochrane Hunting](/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/) ★ | 2008 | ![Cochrane Hunting sett](/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/sett.png) |

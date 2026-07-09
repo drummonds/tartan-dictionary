@@ -1,5 +1,12 @@
 ---
 title: "British Caledonian Airways #2"
-redirect: "/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [British Caledonian Airways #2](/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/).
+This is the **British Caledonian Airways #2** sett — one scale-free proportion (`n68t5k9lo3k3lb3k3n20dr9k3dr5lb4`), colour order pattern
+[BBKYKWKBBKBW](/stripes/bbkykwkbbkbw/). It is recorded as a single **variant**, below.
+First attested **1990**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [British Caledonian Airways #2](/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/) ★ | 1990 | ![British Caledonian Airways #2 sett](/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/sett.png) |

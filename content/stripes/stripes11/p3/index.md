@@ -3,7 +3,7 @@ title: 11 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 11
 ---
-1,029 setts across 998 tartans with 11 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,030 setts across 999 tartans with 11 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes11/p2/">‹ prev</a> <a href="/stripes/stripes11/">1</a> <a href="/stripes/stripes11/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes11/p4/">4</a> <a href="/stripes/stripes11/p4/">next ›</a></nav>
 
 ### GBGBBBBBGBY
@@ -102,7 +102,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Hunter of Hunterston](/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/) | weddslist |
+| 0.09 | [Hunter of Hunterston Clan Tartan](/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/) | house-of-tartan |
 
 ### GBGBRBWGRGY
 <a class="pat" href="/stripes/gbgbrbwgrgy/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GBGBRBWGRGY</span></a>
@@ -165,7 +165,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [MacMichael](/variants/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/) | weddslist |
+| 0.05 | [MacMichael Family Tartan](/variants/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/) | house-of-tartan |
 
 ### GBKBBBKRYRK
 <a class="pat" href="/stripes/gbkbbbkryrk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">GBKBBBKRYRK</span></a>
@@ -214,7 +214,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [MacCainsh](/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/) | weddslist |
+| 0.09 | [MacCainsh Family Tartan](/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/) | house-of-tartan |
 
 ### GBKRKBKBGKG
 <a class="pat" href="/stripes/gbkrkbkbgkg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GBKRKBKBGKG</span></a>
@@ -404,6 +404,13 @@ weight: 11
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.11 | [Undiscovered Scotland (Corporate)](/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/) | tartans-authority |
+
+### GGGKGKGKGGG
+<a class="pat" href="/stripes/gggkgkgkggg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGGKGKGKGGG</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [MacKay](/variants/s11/g6dg28g4k28g28k6g28k28g4dg28g1~x2/) | logan-1831 |
 
 ### GGGRGGGGYGG
 <a class="pat" href="/stripes/gggrggggygg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGGRGGGGYGG</span></a>
@@ -620,7 +627,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Smith](/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/) | weddslist |
+| 0.10 | [Smith Family Tartan](/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/) | house-of-tartan |
 
 ### GKGKGGGWGWG
 <a class="pat" href="/stripes/gkgkgggwgwg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GKGKGGGWGWG</span></a>
@@ -732,7 +739,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Cameron of Erracht Dress](/variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/) | register-of-tartans |
+| 0.06 | [Cameron Erracht Dress Trade Tartan](/variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/) | house-of-tartan |
 
 ### GKRGRGKGYGK
 <a class="pat" href="/stripes/gkrgrgkgygk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">GKRGRGKGYGK</span></a>
@@ -984,7 +991,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Hynde](/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/) | weddslist |
+| 0.08 | [Hynde Artifact Tartan](/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/) | house-of-tartan |
 
 ### GRKRKRGKGRK
 <a class="pat" href="/stripes/grkrkrgkgrk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">GRKRKRGKGRK</span></a>
@@ -1005,7 +1012,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Scott, dress](/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/) | weddslist |
+| 0.04 | [Scott Dress Tartan](/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/) | house-of-tartan |
 
 ### GRRGRGKGKBW
 <a class="pat" href="/stripes/grrgrgkgkbw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRRGRGKGKBW</span></a>
@@ -1068,7 +1075,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [MacKellar](/variants/s11/g32w2g2y3g2w2g2k16lb2db16w3~x2/) | weddslist |
+| 0.10 | [MacKellar Clan Tartan](/variants/s11/g32w2g2y3g2w2g2k16lb2db16w3~x2/) | house-of-tartan |
 
 ### GWGGKBRBWWG
 <a class="pat" href="/stripes/gwggkbrbwwg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GWGGKBRBWWG</span></a>
@@ -1971,7 +1978,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [MacDonell of Keppoch #2](/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/) | register-of-tartans |
+| 0.09 | [MacDonell of Keppoch Clan Tartan](/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/) | house-of-tartan |
 
 ### RBRGRBRGRBR
 <a class="pat" href="/stripes/rbrgrbrgrbr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRGRBRGRBR</span></a>
@@ -2034,7 +2041,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [King George VI](/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/) | register-of-tartans |
+| 0.07 | [King George VI Royal Family Tartan](/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/) | house-of-tartan |
 
 ### RGRBRGBGRGR
 <a class="pat" href="/stripes/rgrbrgbgrgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGRBRGBGRGR</span></a>
@@ -2055,7 +2062,7 @@ weight: 11
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Princess Marina](/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/) | register-of-tartans |
+| 0.05 | [Princess Marina Royal Tartan](/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/) | house-of-tartan |
 
 ### RGRGWBGRWBW
 <a class="pat" href="/stripes/rgrgwbgrwbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGRGWBGRWBW</span></a>
@@ -2098,12 +2105,5 @@ weight: 11
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.11 | [Evans (Welsh Name)](/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/) | tartans-authority |
-
-### RKBKBKBKBYW
-<a class="pat" href="/stripes/rkbkbkbkbyw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKBKBKBKBYW</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.15 | [Bute Heather, Grey (Fashion)](/variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/) | tartans-authority |
 
 <nav class="pager"><a href="/stripes/stripes11/p2/">‹ prev</a> <a href="/stripes/stripes11/">1</a> <a href="/stripes/stripes11/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes11/p4/">4</a> <a href="/stripes/stripes11/p4/">next ›</a></nav>

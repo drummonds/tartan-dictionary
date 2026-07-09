@@ -1,5 +1,12 @@
 ---
 title: "St. Piran Cornish Flag"
-redirect: "/variants/s5/w5k20w10k1r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Piran Cornish Flag](/variants/s5/w5k20w10k1r2~x2/).
+This is the **St. Piran Cornish Flag** sett — one scale-free proportion (`w5k20w10k1r2`), colour order pattern
+[KWKWKWKR](/stripes/kwkwkwkr/). It is recorded as a single **variant**, below.
+First attested **1983**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [St. Piran Cornish Flag](/variants/s5/w5k20w10k1r2~x2/) ★ | 1983 | ![St. Piran Cornish Flag sett](/variants/s5/w5k20w10k1r2~x2/sett.png) |

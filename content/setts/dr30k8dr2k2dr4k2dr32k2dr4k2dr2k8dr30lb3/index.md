@@ -1,5 +1,12 @@
 ---
 title: "Chicago, University of"
-redirect: "/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Chicago, University of](/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/).
+This is the **Chicago, University of** sett — one scale-free proportion (`dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3`), colour order pattern
+[BKBKBKBKBKBKBW](/stripes/bkbkbkbkbkbkbw/). It is recorded as a single **variant**, below.
+First attested **1991**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Chicago, University of](/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/) ★ | 1991 | ![Chicago, University of sett](/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/sett.png) |

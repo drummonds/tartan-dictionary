@@ -22,7 +22,7 @@ The **Shaw of Tordarroch** tartan groups 2 setts — the same named design recor
 <tbody>
 <tr><td><a href="/setts/lb5k1r30dp15r8dg30r8dp2/">Shaw of Tordarroch</a> ★</td><td><code>LB/10 K2 R60 DP30 R16 DG60 R16 DP4 R16 DG60 R16 DP30 R60 K/2</code></td><td>382</td><td>1971</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/lb5k1r30dp15r8dg30r8dp2/"><img src="/variants/s8/lb5k1r30dp15r8dg30r8dp2~x2~dg1806142/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb5k1r30dp15r8g30r8dp2/">Shaw Red of Tordarroch Dress (Clan 2</a></td><td><code>LB/10 K2 R60 DP30 R16 G60 R16 DP/4</code></td><td>382</td><td>1971</td></tr>
+<tr><td><a href="/setts/lb5k1r30dp15r8g30r8dp2/">Shaw Red of Tordarroch Dress (Clan 2</a></td><td><code>LB/10 K2 R60 DP30 R16 G60 R16 DP/4</code></td><td>382</td><td>1969</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/lb5k1r30dp15r8g30r8dp2/"><img src="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/sett.png" alt="Shaw Red of Tordarroch Dress (Clan 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/">Clan Tartan</a> · <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/">Shaw Red of Tordarroch Dress (Clan 2</a></td></tr>
 </tbody>

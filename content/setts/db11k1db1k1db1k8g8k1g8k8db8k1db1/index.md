@@ -2,15 +2,15 @@
 title: "Campbell"
 date: 2023-03-18
 ---
-The **Campbell** tartan is one sett proportion (`db11k1db1k1db1k8g8k1g8k8db8k1db1`) recorded at 4 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/); each scale below is its own sett page. First attested **1725**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Campbell** sett — one scale-free proportion (`db11k1db1k1db1k8g8k1g8k8db8k1db1`), colour order pattern
+[BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/). It is recorded as **4 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1725**.
 
-Part of the [Campbell](/tartans/campbell/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Campbell](/tartans/campbell/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Grant Hunting or Black Watch](/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/) ★ | 1725 | ![Grant Hunting or Black Watch sett](/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/sett.png) |
 | ×1 | [Campbell](/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/) | ~2016 | ![Campbell sett](/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/sett.png) |

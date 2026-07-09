@@ -1,16 +1,18 @@
 ---
 title: "Devon 2000"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Devon 2000"
   url: "/tartans/devon-2000/"
 - name: "Devon 2000"
-  url: ""
+  url: "/setts/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6/)
-(the same proportion at any scale), whose colour order is pattern [BGGGGGBGRGBGRG](/stripes/bgggggbgrgbgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGGGBGRGBGRG](/stripes/bgggggbgrgbgrg/).
 
 Part of the [Devon 2000](/tartans/devon-2000/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6~x2/"><circle cx="147.4" cy="142.7" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.4" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><a href="/variants/s11/dg18ri4dg4r6dg28dp28r4lb3y4lb13r6~ri2806019-r2109032/"><circle cx="175.4" cy="164.2" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/"><circle cx="112.2" cy="128.3" r="4" fill="#3465a4"><title>Norwich No.014</title></circle></a><a href="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/"><circle cx="150.3" cy="175.1" r="4" fill="#3465a4"><title>Meath, County</title></circle></a><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"><circle cx="127.7" cy="159.3" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="107.9" cy="139.6" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s18/r4t4db8ly1g12r6db2r6w1r6w1r6db2r6g12ly1db8t4~x4~r2109032-t2405244-db1406275-ly3307090/"><circle cx="148.4" cy="156.8" r="4" fill="#3465a4"><title>Norwich No.057</title></circle></a><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/"><circle cx="121.2" cy="140.3" r="4" fill="#3465a4"><title>Cribb (2016)</title></circle></a><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><circle cx="147.7" cy="154.3" r="4" fill="#3465a4"><title>Beguinot, (Personal)</title></circle></a><circle cx="157.3" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6~x2/"><circle cx="147.4" cy="142.6" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.3" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><a href="/variants/s11/dg18ri4dg4r6dg28dp28r4lb3y4lb13r6~ri2806019-r2109032/"><circle cx="175.4" cy="164.0" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/"><circle cx="112.2" cy="128.2" r="4" fill="#3465a4"><title>Norwich No.014</title></circle></a><a href="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/"><circle cx="150.3" cy="175.0" r="4" fill="#3465a4"><title>Meath, County</title></circle></a><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"><circle cx="127.7" cy="159.2" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="107.9" cy="139.5" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s18/r4t4db8ly1g12r6db2r6w1r6w1r6db2r6g12ly1db8t4~x4~r2109032-t2405244-db1406275-ly3307090/"><circle cx="148.4" cy="156.7" r="4" fill="#3465a4"><title>Norwich No.057</title></circle></a><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/"><circle cx="121.3" cy="140.1" r="4" fill="#3465a4"><title>Cribb (2016)</title></circle></a><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><circle cx="147.7" cy="154.1" r="4" fill="#3465a4"><title>Beguinot, (Personal)</title></circle></a><circle cx="157.3" cy="146.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6~x2/

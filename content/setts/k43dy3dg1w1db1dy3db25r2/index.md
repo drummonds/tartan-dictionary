@@ -1,5 +1,12 @@
 ---
 title: "Royal Yacht Britannia"
-redirect: "/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Royal Yacht Britannia](/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/).
+This is the **Royal Yacht Britannia** sett — one scale-free proportion (`k43dy3dg1w1db1dy3db25r2`), colour order pattern
+[KGGWBGBR](/stripes/kggwbgbr/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Royal Yacht Britannia](/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/) ★ | 1998 | ![Royal Yacht Britannia sett](/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/sett.png) |

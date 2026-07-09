@@ -1,5 +1,12 @@
 ---
 title: "Stewart Navy Clan Tartan"
-redirect: "/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stewart Navy Clan Tartan](/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/).
+This is the **Stewart Navy Clan Tartan** sett — one scale-free proportion (`db29dr3w10db2w2ly10db5w2db4ly2`), colour order pattern
+[BBWBWYBWBY](/stripes/bbwbwybwby/). It is recorded as a single **variant**, below.
+First attested **1971**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Stewart Navy Clan Tartan](/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/) ★ | 1971 | ![Stewart Navy Clan Tartan sett](/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "MacAllum of Berwick (Clan?)"
-redirect: "/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacAllum of Berwick (Clan?)](/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/).
+This is the **MacAllum of Berwick (Clan?)** sett — one scale-free proportion (`db10r7db31k25dg23k8db7r8ly5`), colour order pattern
+[BRBKGKBRY](/stripes/brbkgkbry/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacAllum of Berwick (Clan?)](/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/) ★ | ~2002 | ![MacAllum of Berwick (Clan?) sett](/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/sett.png) |

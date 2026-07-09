@@ -1,5 +1,12 @@
 ---
 title: "Morrison Society"
-redirect: "/variants/s6/k3g14k14g2t14r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Morrison Society](/variants/s6/k3g14k14g2t14r3~x2/).
+This is the **Morrison Society** sett — one scale-free proportion (`k3g14k14g2t14r3`), colour order pattern
+[KGKGBR](/stripes/kgkgbr/). It is recorded as a single **variant**, below.
+First attested **1880**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Morrison Society](/variants/s6/k3g14k14g2t14r3~x2/) ★ | 1880 | ![Morrison Society sett](/variants/s6/k3g14k14g2t14r3~x2/sett.png) |

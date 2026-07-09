@@ -1,14 +1,16 @@
 ---
 title: "Norwich No.038"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Norwich No.038"
-  url: ""
+  url: "/setts/g14lb2r3lb2k16y2lb16g16r3g16lb16y2k16lb2r3lb2g14k6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14lb2r3lb2k16y2lb16g16r3g16lb16y2k16lb2r3lb2g14k6/)
-(the same proportion at any scale), whose colour order is pattern [GWRWKGWGRGWGKWRWGK](/stripes/gwrwkgwgrgwgkwrwgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g14lb2r3lb2k16y2lb16g16r3g16lb16y2k16lb2r3lb2g14k6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWRWKGWGRGWGKWRWGK](/stripes/gwrwkgwgrgwgkwrwgk/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><circle cx="115.4" cy="164.5" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.5" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.5" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s17/lb15k2lb2k2lb2k14g12w2g4lb4g4w2g12k14lb15k2lb2~x2/"><circle cx="110.5" cy="164.0" r="4" fill="#3465a4"><title>Arbuthnott (Clan)</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="117.5" cy="139.8" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/variants/s18/r2lb2r2lb12k9g12r2g2y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="61.4" cy="158.3" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="93.0" cy="180.5" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y2~x4/"><circle cx="102.7" cy="182.1" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.5" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/"><circle cx="48.9" cy="148.4" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><circle cx="100.0" cy="153.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><circle cx="115.4" cy="164.3" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.4" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s17/lb15k2lb2k2lb2k14g12w2g4lb4g4w2g12k14lb15k2lb2~x2/"><circle cx="110.5" cy="163.9" r="4" fill="#3465a4"><title>Arbuthnott (Clan)</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="117.5" cy="139.7" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/variants/s18/r2lb2r2lb12k9g12r2g2y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="61.4" cy="158.2" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="93.0" cy="180.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y2~x4/"><circle cx="102.7" cy="182.0" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.4" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/"><circle cx="48.9" cy="148.3" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><circle cx="100.0" cy="153.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/g14lb2r3lb2k16y2lb16g16r3g16lb16y2k16lb2r3lb2g14k6~x2/

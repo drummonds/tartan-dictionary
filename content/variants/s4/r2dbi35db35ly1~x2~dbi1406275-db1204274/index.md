@@ -1,16 +1,18 @@
 ---
 title: "Mackaw (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mackaw"
   url: "/tartans/mackaw/"
 - name: "Mackaw (Corporate)"
-  url: ""
+  url: "/setts/r2dbi35db35ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2dbi35db35ly1/)
-(the same proportion at any scale), whose colour order is pattern [RBBY](/stripes/rbby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2dbi35db35ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBBY](/stripes/rbby/).
 
 Part of the [Mackaw](/tartans/mackaw/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r2b35db35y1~x2~b1511266-db1108266/"><circle cx="512.6" cy="237.5" r="4" fill="#3465a4"><title>Mackaw</title></circle></a><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><circle cx="599.2" cy="146.1" r="4" fill="#3465a4"><title>Venters (Personal)</title></circle></a><a href="/variants/s4/dbi88db35w3db10~dbi1406275-db1204274/"><circle cx="626.0" cy="308.7" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) Corporate Tartan</title></circle></a><a href="/variants/s4/dbi88db35w3db10~dbi1406275-db1404245/"><circle cx="626.0" cy="306.7" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990)</title></circle></a><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><circle cx="531.6" cy="281.4" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Dress Personal Tartan</title></circle></a><a href="/variants/s5/dg1db2dbi5db10y1~x8~db1204274-dbi1406275/"><circle cx="617.8" cy="312.4" r="4" fill="#3465a4"><title>Open Championship (2000) (Corporate)</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.4" cy="287.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><circle cx="611.3" cy="273.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r2b35db35y1~x2~b1511266-db1108266/"><circle cx="512.6" cy="237.5" r="4" fill="#3465a4"><title>Mackaw</title></circle></a><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><circle cx="599.2" cy="145.9" r="4" fill="#3465a4"><title>Venters (Personal)</title></circle></a><a href="/variants/s4/dbi88db35w3db10~dbi1406275-db1204274/"><circle cx="626.0" cy="308.7" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) Corporate Tartan</title></circle></a><a href="/variants/s4/dbi88db35w3db10~dbi1406275-db1404245/"><circle cx="626.0" cy="306.7" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990)</title></circle></a><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><circle cx="531.7" cy="281.4" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Dress Personal Tartan</title></circle></a><a href="/variants/s5/dg1db2dbi5db10y1~x8~db1204274-dbi1406275/"><circle cx="617.9" cy="312.3" r="4" fill="#3465a4"><title>Open Championship (2000) (Corporate)</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.5" cy="287.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><circle cx="611.4" cy="273.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r2dbi35db35ly1~x2~dbi1406275-db1204274/

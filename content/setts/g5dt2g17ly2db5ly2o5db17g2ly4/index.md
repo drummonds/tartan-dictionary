@@ -1,5 +1,12 @@
 ---
 title: "Antrim Irish County Tartan"
-redirect: "/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Antrim Irish County Tartan](/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/).
+This is the **Antrim Irish County Tartan** sett — one scale-free proportion (`g5dt2g17ly2db5ly2o5db17g2ly4`), colour order pattern
+[GBGYBYRBGY](/stripes/gbgybyrbgy/). It is recorded as a single **variant**, below.
+First attested **1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Antrim Irish County Tartan](/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/) ★ | 1993 | ![Antrim Irish County Tartan sett](/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/sett.png) |

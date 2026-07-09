@@ -1,14 +1,16 @@
 ---
 title: "Unidentified #3"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified #3"
-  url: ""
+  url: "/setts/dp128db20k3dg6k1dg4g8k2lb5k2g70w6g12r24g5r5g8db4g12k2y7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp128db20k3dg6k1dg4g8k2lb5k2g70w6g12r24g5r5g8db4g12k2y7/)
-(the same proportion at any scale), whose colour order is pattern [BBKGKGGKWKGWGRGRGBGKG](/stripes/bbkgkggkwkgwgrgrgbgkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp128db20k3dg6k1dg4g8k2lb5k2g70w6g12r24g5r5g8db4g12k2y7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBKGKGGKWKGWGRGRGBGKG](/stripes/bbkgkggkwkgwgrgrgbgkg/).
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

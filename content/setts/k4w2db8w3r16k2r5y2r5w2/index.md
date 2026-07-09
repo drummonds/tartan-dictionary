@@ -1,5 +1,12 @@
 ---
 title: "Blaylock"
-redirect: "/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Blaylock](/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/).
+This is the **Blaylock** sett — one scale-free proportion (`k4w2db8w3r16k2r5y2r5w2`), colour order pattern
+[KWBWRKRGRW](/stripes/kwbwrkrgrw/). It is recorded as a single **variant**, below.
+First attested **1953**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Blaylock](/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/) ★ | 1953 | ![Blaylock sett](/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/sett.png) |

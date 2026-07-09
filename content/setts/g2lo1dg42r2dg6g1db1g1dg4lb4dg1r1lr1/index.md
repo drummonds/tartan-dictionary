@@ -1,5 +1,12 @@
 ---
 title: "Kerr of Ardgowan Hunting (Personal)"
-redirect: "/variants/s13/g2lo1dg42r2dg6g1db1g1dg4lb4dg1r1lr1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kerr of Ardgowan Hunting (Personal)](/variants/s13/g2lo1dg42r2dg6g1db1g1dg4lb4dg1r1lr1~x2/).
+This is the **Kerr of Ardgowan Hunting (Personal)** sett — one scale-free proportion (`g2lo1dg42r2dg6g1db1g1dg4lb4dg1r1lr1`), colour order pattern
+[GYGRGGBGGWGRY](/stripes/gygrggbggwgry/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kerr of Ardgowan Hunting (Personal)](/variants/s13/g2lo1dg42r2dg6g1db1g1dg4lb4dg1r1lr1~x2/) ★ | 2000 | ![Kerr of Ardgowan Hunting (Personal) sett](/variants/s13/g2lo1dg42r2dg6g1db1g1dg4lb4dg1r1lr1~x2/sett.png) |

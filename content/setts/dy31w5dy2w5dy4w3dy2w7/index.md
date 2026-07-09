@@ -1,5 +1,12 @@
 ---
-title: "Menzies Brown & White"
-redirect: "/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/"
+title: "Menzies Brown & White Trade Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Menzies Brown & White](/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/).
+This is the **Menzies Brown & White Trade Tartan** sett — one scale-free proportion (`dy31w5dy2w5dy4w3dy2w7`), colour order pattern
+[GWGWGWGW](/stripes/gwgwgwgw/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Menzies Brown & White Trade Tartan](/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/) ★ | 1984 | ![Menzies Brown & White Trade Tartan sett](/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Southern Lakes"
-redirect: "/variants/s8/db32k2db4k2db8ly29w2k2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Southern Lakes](/variants/s8/db32k2db4k2db8ly29w2k2/).
+This is the **Southern Lakes** sett — one scale-free proportion (`db32k2db4k2db8ly29w2k2`), colour order pattern
+[BKBKBYWK](/stripes/bkbkbywk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Southern Lakes](/variants/s8/db32k2db4k2db8ly29w2k2/) ★ | 2015 | ![Southern Lakes sett](/variants/s8/db32k2db4k2db8ly29w2k2/sett.png) |

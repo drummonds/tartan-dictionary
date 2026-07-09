@@ -1,5 +1,12 @@
 ---
 title: "Wynberg Boys' High School"
-redirect: "/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wynberg Boys' High School](/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/).
+This is the **Wynberg Boys' High School** sett — one scale-free proportion (`w4dr13lb54dg22k4ly20lb48dr13w4`), colour order pattern
+[WBWGKYWBW](/stripes/wbwgkywbw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Wynberg Boys' High School](/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/) ★ | 2015 | ![Wynberg Boys' High School sett](/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Green Mountain"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Green Mountain"
-  url: ""
+  url: "/setts/dg26r2dg3dy2dg8w20db3w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg26r2dg3dy2dg8w20db3w4/)
-(the same proportion at any scale), whose colour order is pattern [GRGGGWBW](/stripes/grgggwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg26r2dg3dy2dg8w20db3w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGGGWBW](/stripes/grgggwbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><circle cx="238.8" cy="165.9" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.3" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.3" cy="142.8" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.7" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="292.3" cy="170.9" r="4" fill="#3465a4"><title>St. Patrick's Krewe (Corporate)</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="179.3" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.3" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.1" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/"><circle cx="260.7" cy="165.0" r="4" fill="#3465a4"><title>Vance (Name?)</title></circle></a><a href="/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/"><circle cx="281.6" cy="147.4" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><circle cx="255.3" cy="154.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><circle cx="238.8" cy="165.8" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.2" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.4" cy="142.7" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.6" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="292.3" cy="170.8" r="4" fill="#3465a4"><title>St. Patrick's Krewe (Corporate)</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.8" cy="179.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.1" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.1" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/"><circle cx="260.8" cy="164.9" r="4" fill="#3465a4"><title>Vance (Name?)</title></circle></a><a href="/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/"><circle cx="281.6" cy="147.3" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><circle cx="255.3" cy="154.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg26r2dg3dy2dg8w20db3w4~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Glen Shee #3 (Fashion)"
-redirect: "/variants/s5/o4k29dr30db29o4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glen Shee #3 (Fashion)](/variants/s5/o4k29dr30db29o4~x2/).
+This is the **Glen Shee #3 (Fashion)** sett — one scale-free proportion (`o4k29dr30db29o4`), colour order pattern
+[RBBKR](/stripes/rbbkr/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glen Shee #3 (Fashion)](/variants/s5/o4k29dr30db29o4~x2/) ★ | ~2002 | ![Glen Shee #3 (Fashion) sett](/variants/s5/o4k29dr30db29o4~x2/sett.png) |

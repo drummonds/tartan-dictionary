@@ -1,16 +1,18 @@
 ---
 title: "Caledonian Maple (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Maple"
   url: "/tartans/caledonian-maple/"
 - name: "Caledonian Maple (Fashion)"
-  url: ""
+  url: "/setts/dr11dg1dr3y7dg7dy5ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr11dg1dr3y7dg7dy5ly3/)
-(the same proportion at any scale), whose colour order is pattern [BGBGGGY](/stripes/bgbgggy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr11dg1dr3y7dg7dy5ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGGGY](/stripes/bgbgggy/).
 
 Part of the [Caledonian Maple](/tartans/caledonian-maple/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="195.7" cy="236.5" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><circle cx="276.5" cy="191.8" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/variants/s9/lo3dg2dr14dgi17dg14lo8dr14dg2lo3~x2~dg1001060-dgi1403171/"><circle cx="218.0" cy="241.3" r="4" fill="#3465a4"><title>Monaghan Irish County Tartan</title></circle></a><a href="/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4~dr1305012-r1606028/"><circle cx="226.9" cy="236.6" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/"><circle cx="227.5" cy="239.0" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/variants/s9/do3dy1lr1do1dy3do3lr3y6dp1~x6~do1301000-lr3100000/"><circle cx="178.4" cy="254.6" r="4" fill="#3465a4"><title>Toorak Chapler</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="236.7" cy="263.2" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/"><circle cx="169.9" cy="239.1" r="4" fill="#3465a4"><title>Roscommon Irish County Tartan</title></circle></a><a href="/variants/s10/dy22y22dr2lb6dr2lo2dr16dg5dy8lb2~x2/"><circle cx="211.8" cy="189.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/variants/s11/g3n16dy11n2ly11n2ly11n2dy11n16w3~x2~dy1502083-ly2806085/"><circle cx="272.1" cy="241.4" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><circle cx="238.8" cy="251.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="195.8" cy="236.5" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><circle cx="276.5" cy="191.8" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/variants/s9/lo3dg2dr14dgi17dg14lo8dr14dg2lo3~x2~dg1001060-dgi1403171/"><circle cx="218.0" cy="241.2" r="4" fill="#3465a4"><title>Monaghan Irish County Tartan</title></circle></a><a href="/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4~dr1305012-r1606028/"><circle cx="226.9" cy="236.6" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/"><circle cx="227.5" cy="238.9" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/variants/s9/do3dy1lr1do1dy3do3lr3y6dp1~x6~do1301000-lr3100000/"><circle cx="178.5" cy="254.6" r="4" fill="#3465a4"><title>Toorak Chapler</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="236.7" cy="263.1" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/"><circle cx="169.9" cy="239.1" r="4" fill="#3465a4"><title>Roscommon Irish County Tartan</title></circle></a><a href="/variants/s10/dy22y22dr2lb6dr2lo2dr16dg5dy8lb2~x2/"><circle cx="211.8" cy="189.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/variants/s11/g3n16dy11n2ly11n2ly11n2dy11n16w3~x2~dy1502083-ly2806085/"><circle cx="272.1" cy="241.3" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><circle cx="238.9" cy="251.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr11dg1dr3y7dg7dy5ly3~x4/

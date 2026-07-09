@@ -1,5 +1,12 @@
 ---
 title: "Fiddes"
-redirect: "/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fiddes](/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/).
+This is the **Fiddes** sett — one scale-free proportion (`g12ri11dp12r3ri32dp8g8dp8`), colour order pattern
+[BGBRRBRG](/stripes/bgbrrbrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fiddes](/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/) ★ | ~2016 | ![Fiddes sett](/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/sett.png) |

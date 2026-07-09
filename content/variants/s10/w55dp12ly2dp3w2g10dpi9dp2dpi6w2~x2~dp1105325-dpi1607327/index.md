@@ -1,14 +1,16 @@
 ---
 title: "Stewart Dress, Purple (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stewart Dress, Purple (Dance)"
-  url: ""
+  url: "/setts/w55dp12ly2dp3w2g10dpi9dp2dpi6w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w55dp12ly2dp3w2g10dpi9dp2dpi6w2/)
-(the same proportion at any scale), whose colour order is pattern [WBBBGWBYBW](/stripes/wbbbgwbybw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w55dp12ly2dp3w2g10dpi9dp2dpi6w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBBBGWBYBW](/stripes/wbbbgwbybw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w55dp12ly2dp3w2dg10dpi9dp2dpi6w2~x2~dp1105325-dg1806142-dpi1607327/"><circle cx="220.0" cy="84.6" r="4" fill="#3465a4"><title>Stewart Dress Purple Dance Tartan</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16dy6db2dy5w2~x2/"><circle cx="330.7" cy="85.7" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="335.1" cy="137.1" r="4" fill="#3465a4"><title>Boucherville Dress (District)</title></circle></a><a href="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/"><circle cx="364.0" cy="110.8" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan</title></circle></a><a href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="339.5" cy="106.8" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/"><circle cx="327.3" cy="77.2" r="4" fill="#3465a4"><title>Stewart Blue Dress Clan Tartan</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.3" cy="72.9" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/"><circle cx="380.1" cy="116.2" r="4" fill="#3465a4"><title>Boucherville (Tartan de..), dress</title></circle></a><a href="/variants/s11/w36g6dr2g3w2g3dy6b4g2b2w2~x2/"><circle cx="322.4" cy="119.4" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"><circle cx="334.4" cy="85.0" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><circle cx="321.3" cy="104.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w55dp12ly2dp3w2dg10dpi9dp2dpi6w2~x2~dp1105325-dg1806142-dpi1607327/"><circle cx="219.9" cy="84.5" r="4" fill="#3465a4"><title>Stewart Dress Purple Dance Tartan</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16dy6db2dy5w2~x2/"><circle cx="330.7" cy="85.5" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="335.1" cy="136.9" r="4" fill="#3465a4"><title>Boucherville Dress (District)</title></circle></a><a href="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/"><circle cx="364.0" cy="110.7" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan</title></circle></a><a href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="339.5" cy="106.7" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/"><circle cx="327.3" cy="77.1" r="4" fill="#3465a4"><title>Stewart Blue Dress Clan Tartan</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.3" cy="72.7" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/"><circle cx="380.1" cy="116.1" r="4" fill="#3465a4"><title>Boucherville (Tartan de..), dress</title></circle></a><a href="/variants/s11/w36g6dr2g3w2g3dy6b4g2b2w2~x2/"><circle cx="322.4" cy="119.3" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"><circle cx="334.4" cy="84.9" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><circle cx="321.3" cy="103.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w55dp12ly2dp3w2g10dpi9dp2dpi6w2~x2~dp1105325-dpi1607327/

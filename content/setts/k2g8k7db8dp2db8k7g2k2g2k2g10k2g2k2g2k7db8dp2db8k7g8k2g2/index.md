@@ -1,5 +1,12 @@
 ---
 title: "Lochinvar Marine Harvest (Corporate)"
-redirect: "/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lochinvar Marine Harvest (Corporate)](/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/).
+This is the **Lochinvar Marine Harvest (Corporate)** sett — one scale-free proportion (`k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2`), colour order pattern
+[GKGKBBBKGKGKGKGKGKBBBKGK](/stripes/gkgkbbbkgkgkgkgkgkbbbkgk/). It is recorded as a single **variant**, below.
+First attested **1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lochinvar Marine Harvest (Corporate)](/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/) ★ | 1989 | ![Lochinvar Marine Harvest (Corporate) sett](/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Machair (warp)"
-redirect: "/variants/s6/o72k16w9k4w5k16~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Machair (warp)](/variants/s6/o72k16w9k4w5k16~x2/).
+This is the **Machair (warp)** sett — one scale-free proportion (`o72k16w9k4w5k16`), colour order pattern
+[KWKWKR](/stripes/kwkwkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Machair (warp)](/variants/s6/o72k16w9k4w5k16~x2/) ★ | ~2016 | ![Machair (warp) sett](/variants/s6/o72k16w9k4w5k16~x2/sett.png) |

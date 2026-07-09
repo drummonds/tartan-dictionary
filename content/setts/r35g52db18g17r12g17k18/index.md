@@ -1,5 +1,12 @@
 ---
-title: "MacDona"
-redirect: "/variants/s7/r35g52db18g17r12g17k18/"
+title: "MacDona Family Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDona](/variants/s7/r35g52db18g17r12g17k18/).
+This is the **MacDona Family Tartan** sett — one scale-free proportion (`r35g52db18g17r12g17k18`), colour order pattern
+[KGRGBGR](/stripes/kgrgbgr/). It is recorded as a single **variant**, below.
+First attested **1892**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [MacDona Family Tartan](/variants/s7/r35g52db18g17r12g17k18/) ★ | 1892 | ![MacDona Family Tartan sett](/variants/s7/r35g52db18g17r12g17k18/sett.png) |

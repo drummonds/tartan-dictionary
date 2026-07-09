@@ -1,14 +1,16 @@
 ---
 title: "160th SOAR(A) Night Stalkers (Mil.)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "160th SOAR(A) Night Stalkers (Mil.)"
-  url: ""
+  url: "/setts/k2t8k6g35k8ly2w2k2ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2t8k6g35k8ly2w2k2ly2/)
-(the same proportion at any scale), whose colour order is pattern [KBKGKYWKY](/stripes/kbkgkywky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2t8k6g35k8ly2w2k2ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKGKYWKY](/stripes/kbkgkywky/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/"><circle cx="225.1" cy="131.3" r="4" fill="#3465a4"><title>New World Irish (Fashion)</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.5" cy="108.6" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="175.4" cy="119.9" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3/"><circle cx="240.2" cy="95.9" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="240.2" cy="95.9" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><circle cx="223.3" cy="86.6" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/"><circle cx="259.1" cy="117.5" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8lb4~x2/"><circle cx="242.5" cy="158.9" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="244.9" cy="159.6" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="286.0" cy="107.3" r="4" fill="#3465a4"><title>Grand Lodge of Scotland (Corporate)</title></circle></a><circle cx="232.6" cy="111.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/"><circle cx="225.1" cy="131.1" r="4" fill="#3465a4"><title>New World Irish (Fashion)</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.5" cy="108.5" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="175.4" cy="119.7" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3/"><circle cx="240.3" cy="95.8" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="240.3" cy="95.8" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><circle cx="223.3" cy="86.5" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/"><circle cx="259.1" cy="117.3" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8lb4~x2/"><circle cx="242.6" cy="158.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="244.9" cy="159.5" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="286.0" cy="107.2" r="4" fill="#3465a4"><title>Grand Lodge of Scotland (Corporate)</title></circle></a><circle cx="232.6" cy="110.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k2t8k6g35k8ly2w2k2ly2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "MacKenzie Dress - 1950 (Clan)"
-redirect: "/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKenzie Dress - 1950 (Clan)](/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/).
+This is the **MacKenzie Dress - 1950 (Clan)** sett — one scale-free proportion (`w3k2w7k2w2k7g8k1w2k1g8k7db7r2`), colour order pattern
+[RBKGKWKGKWKWKW](/stripes/rbkgkwkgkwkwkw/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacKenzie Dress - 1950 (Clan)](/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/) ★ | ~2002 | ![MacKenzie Dress - 1950 (Clan) sett](/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/sett.png) |

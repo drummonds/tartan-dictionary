@@ -1,5 +1,14 @@
 ---
 title: "Hannigan of Dirleton (Personal)"
-redirect: "/variants/s8/dp4dg4g2w3dg27g30y1r3~x2~dg1806142-g1903114/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hannigan of Dirleton (Personal)](/variants/s8/dp4dg4g2w3dg27g30y1r3~x2~dg1806142-g1903114/).
+This is the **Hannigan of Dirleton (Personal)** sett — one scale-free proportion (`dp4dg4g2w3dg27g30y1r3`), colour order pattern
+[BGGWGGGR](/stripes/bggwgggr/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+Part of the [Hannigan of Dirleton](/tartans/hannigan-of-dirleton/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hannigan of Dirleton (Personal)](/variants/s8/dp4dg4g2w3dg27g30y1r3~x2~dg1806142-g1903114/) ★ | 1998 | ![Hannigan of Dirleton (Personal) sett](/variants/s8/dp4dg4g2w3dg27g30y1r3~x2~dg1806142-g1903114/sett.png) |

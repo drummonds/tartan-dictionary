@@ -1,14 +1,16 @@
 ---
 title: "Woodcock (2014)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Woodcock (2014)"
-  url: ""
+  url: "/setts/db30dp9g6dp9r4db17w5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db30dp9g6dp9r4db17w5/)
-(the same proportion at any scale), whose colour order is pattern [BBGBRBW](/stripes/bbgbrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db30dp9g6dp9r4db17w5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBRBW](/stripes/bbgbrbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.6" cy="193.2" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.4" cy="214.9" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="302.2" cy="233.1" r="4" fill="#3465a4"><title>HMS Duncan Regimental Tartan</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.8" cy="215.8" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.5" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><circle cx="230.2" cy="176.5" r="4" fill="#3465a4"><title>Charleston Police Department</title></circle></a><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.0" cy="201.2" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><circle cx="245.5" cy="201.6" r="4" fill="#3465a4"><title>Haut (Personal)</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.5" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.0" cy="250.3" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><circle cx="292.0" cy="215.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.6" cy="193.1" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.4" cy="214.9" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="302.3" cy="233.1" r="4" fill="#3465a4"><title>HMS Duncan Regimental Tartan</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.8" cy="215.8" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.4" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><circle cx="230.2" cy="176.4" r="4" fill="#3465a4"><title>Charleston Police Department</title></circle></a><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.0" cy="201.1" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><circle cx="245.6" cy="201.5" r="4" fill="#3465a4"><title>Haut (Personal)</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.0" cy="250.3" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><circle cx="292.1" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db30dp9g6dp9r4db17w5~x2/

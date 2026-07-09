@@ -1,14 +1,16 @@
 ---
 title: "Martha De Laurentiis Name Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Martha De Laurentiis Name Tartan"
-  url: ""
+  url: "/setts/db35k3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db35k3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2/)
-(the same proportion at any scale), whose colour order is pattern [BKWRBRBWBWBRBRBWBWBR](/stripes/bkwrbrbwbwbrbrbwbwbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db35k3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWRBRBWBWBRBRBWBWBR](/stripes/bkwrbrbwbwbrbrbwbwbr/).
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
@@ -23,7 +25,7 @@ Earliest known date: 05/07/2012 Designed for Martha De Laurentiis. Colours taken
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>05/07/2012 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db35g3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/"><circle cx="531.3" cy="68.6" r="4" fill="#3465a4"><title>Martha De Laurentiis</title></circle></a><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/"><circle cx="433.4" cy="66.4" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.5" cy="79.0" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><circle cx="509.9" cy="54.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db35g3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/"><circle cx="531.3" cy="68.4" r="4" fill="#3465a4"><title>Martha De Laurentiis</title></circle></a><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/"><circle cx="433.4" cy="66.2" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.5" cy="78.8" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><circle cx="509.9" cy="54.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s20/db35k3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/

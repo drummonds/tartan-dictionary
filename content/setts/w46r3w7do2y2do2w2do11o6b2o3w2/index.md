@@ -1,5 +1,12 @@
 ---
 title: "Diana, Plaid dress"
-redirect: "/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Diana, Plaid dress](/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/).
+This is the **Diana, Plaid dress** sett — one scale-free proportion (`w46r3w7do2y2do2w2do11o6b2o3w2`), colour order pattern
+[WRBRBWBGBWRW](/stripes/wrbrbwbgbwrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Diana, Plaid dress](/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/) ★ | ~2016 | ![Diana, Plaid dress sett](/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/sett.png) |

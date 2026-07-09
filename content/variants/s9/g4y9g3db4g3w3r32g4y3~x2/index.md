@@ -1,14 +1,16 @@
 ---
 title: "Antrim County Crest (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Antrim County Crest (Fashion)"
-  url: ""
+  url: "/setts/g4y9g3db4g3w3r32g4y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4y9g3db4g3w3r32g4y3/)
-(the same proportion at any scale), whose colour order is pattern [GGGBGWRGG](/stripes/gggbgwrgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g4y9g3db4g3w3r32g4y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGBGWRGG](/stripes/gggbgwrgg/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4do2db2w2do9o27r4~x3/"><circle cx="324.0" cy="161.5" r="4" fill="#3465a4"><title>Unidentified 35</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.4" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/"><circle cx="256.3" cy="136.7" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.8" cy="147.7" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="260.3" cy="165.7" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/variants/s14/w3r5g3dp3r14g36r3dp8g3r36g14b3r5w3~x2/"><circle cx="257.4" cy="138.4" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.9" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="325.5" cy="147.2" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/"><circle cx="264.8" cy="132.6" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.5" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><circle cx="284.6" cy="157.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4do2db2w2do9o27r4~x3/"><circle cx="324.0" cy="161.4" r="4" fill="#3465a4"><title>Unidentified 35</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.3" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/"><circle cx="256.3" cy="136.5" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.8" cy="147.6" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="260.3" cy="165.7" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/variants/s14/w3r5g3dp3r14g36r3dp8g3r36g14b3r5w3~x2/"><circle cx="257.4" cy="138.3" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.8" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="325.5" cy="147.1" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/"><circle cx="264.8" cy="132.4" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.4" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><circle cx="284.6" cy="156.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g4y9g3db4g3w3r32g4y3~x2/

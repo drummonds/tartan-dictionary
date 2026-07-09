@@ -1,5 +1,14 @@
 ---
 title: "Loch Etive"
-redirect: "/variants/s8/y3db3k2db18k26r21g2lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Loch Etive](/variants/s8/y3db3k2db18k26r21g2lb3~x2/).
+This is the **Loch Etive** sett — one scale-free proportion (`y3db3k2db18k26r21g2lb3`), colour order pattern
+[GBKBKRGW](/stripes/gbkbkrgw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+Part of the [Loch Etive](/tartans/loch-etive/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Loch Etive](/variants/s8/y3db3k2db18k26r21g2lb3~x2/) ★ | 2014 | ![Loch Etive sett](/variants/s8/y3db3k2db18k26r21g2lb3~x2/sett.png) |

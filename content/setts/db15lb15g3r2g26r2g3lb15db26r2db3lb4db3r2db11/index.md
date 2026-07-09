@@ -1,5 +1,12 @@
 ---
 title: "Grampian Trade Tartan"
-redirect: "/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Grampian Trade Tartan](/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/).
+This is the **Grampian Trade Tartan** sett — one scale-free proportion (`db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11`), colour order pattern
+[BRBWBRBWGRGRGWB](/stripes/brbwbrbwgrgrgwb/). It is recorded as a single **variant**, below.
+First attested **1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Grampian Trade Tartan](/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/) ★ | 1993 | ![Grampian Trade Tartan sett](/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/sett.png) |

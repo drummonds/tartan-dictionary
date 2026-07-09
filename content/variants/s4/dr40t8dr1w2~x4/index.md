@@ -1,14 +1,16 @@
 ---
 title: "Lyon College (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lyon College (Corporate)"
-  url: ""
+  url: "/setts/dr40t8dr1w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr40t8dr1w2/)
-(the same proportion at any scale), whose colour order is pattern [BBBWBB](/stripes/bbbwbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr40t8dr1w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBWBB](/stripes/bbbwbb/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.2" cy="132.9" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="529.0" cy="197.5" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="448.0" cy="152.8" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="151.0" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="206.0" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="456.4" cy="166.2" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="581.2" cy="206.9" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/"><circle cx="506.0" cy="133.4" r="4" fill="#3465a4"><title>Canadian Legion Branch 50</title></circle></a><a href="/variants/s4/db39ly8dr3w1~x4/"><circle cx="541.6" cy="174.4" r="4" fill="#3465a4"><title>Norwich University (Corporate)</title></circle></a><circle cx="551.1" cy="166.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.3" cy="132.8" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="529.1" cy="197.5" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="448.1" cy="152.7" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="150.9" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="205.9" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="456.4" cy="166.1" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="581.2" cy="206.9" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/"><circle cx="506.0" cy="133.3" r="4" fill="#3465a4"><title>Canadian Legion Branch 50</title></circle></a><a href="/variants/s4/db39ly8dr3w1~x4/"><circle cx="541.7" cy="174.4" r="4" fill="#3465a4"><title>Norwich University (Corporate)</title></circle></a><circle cx="551.1" cy="166.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dr40t8dr1w2~x4/

@@ -1,5 +1,12 @@
 ---
 title: "Devon Companion"
-redirect: "/variants/s7/n5db4y1db4k4dy4w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Devon Companion](/variants/s7/n5db4y1db4k4dy4w1~x4/).
+This is the **Devon Companion** sett — one scale-free proportion (`n5db4y1db4k4dy4w1`), colour order pattern
+[BBGBKGW](/stripes/bbgbkgw/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Devon Companion](/variants/s7/n5db4y1db4k4dy4w1~x4/) ★ | 1984 | ![Devon Companion sett](/variants/s7/n5db4y1db4k4dy4w1~x4/sett.png) |

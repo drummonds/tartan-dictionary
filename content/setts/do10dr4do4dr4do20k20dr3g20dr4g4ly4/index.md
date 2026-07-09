@@ -1,5 +1,12 @@
 ---
 title: "Cameron of Erracht (WCWM)"
-redirect: "/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cameron of Erracht (WCWM)](/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/).
+This is the **Cameron of Erracht (WCWM)** sett — one scale-free proportion (`do10dr4do4dr4do20k20dr3g20dr4g4ly4`), colour order pattern
+[BBBBBKBGBGY](/stripes/bbbbbkbgbgy/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cameron of Erracht (WCWM)](/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/) ★ | ~2016 | ![Cameron of Erracht (WCWM) sett](/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/sett.png) |

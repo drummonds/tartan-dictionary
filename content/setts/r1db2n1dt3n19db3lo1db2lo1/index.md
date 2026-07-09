@@ -1,5 +1,12 @@
 ---
 title: "Pagus Wasia District Tartan"
-redirect: "/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pagus Wasia District Tartan](/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/).
+This is the **Pagus Wasia District Tartan** sett — one scale-free proportion (`r1db2n1dt3n19db3lo1db2lo1`), colour order pattern
+[RBBBBBYBY](/stripes/rbbbbbyby/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Pagus Wasia District Tartan](/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/) ★ | 2012 | ![Pagus Wasia District Tartan sett](/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/sett.png) |

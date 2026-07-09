@@ -1,5 +1,12 @@
 ---
 title: "Knox (Personal)"
-redirect: "/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Knox (Personal)](/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/).
+This is the **Knox (Personal)** sett — one scale-free proportion (`dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3`), colour order pattern
+[GYWYKYWYBKYGY](/stripes/gywykywybkygy/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Knox (Personal)](/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/) ★ | 1998 | ![Knox (Personal) sett](/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/sett.png) |

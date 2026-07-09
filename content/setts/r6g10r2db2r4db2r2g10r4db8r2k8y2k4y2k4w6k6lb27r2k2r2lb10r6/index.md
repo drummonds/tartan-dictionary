@@ -1,5 +1,12 @@
 ---
 title: "Anderson (Highland Society of London)"
-redirect: "/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Anderson (Highland Society of London)](/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/).
+This is the **Anderson (Highland Society of London)** sett — one scale-free proportion (`r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6`), colour order pattern
+[RGRBRBRGRBRKGKGKWKWRKRWR](/stripes/rgrbrbrgrbrkgkgkwkwrkrwr/). It is recorded as a single **variant**, below.
+First attested **1815**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Anderson (Highland Society of London)](/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/) ★ | 1815 | ![Anderson (Highland Society of London) sett](/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/sett.png) |

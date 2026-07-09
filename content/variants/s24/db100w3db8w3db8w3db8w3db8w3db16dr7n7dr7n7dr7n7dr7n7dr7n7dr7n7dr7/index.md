@@ -1,14 +1,16 @@
 ---
 title: "Old Glory (1824)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Old Glory (1824)"
-  url: ""
+  url: "/setts/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBBBWBWBWBWBWB](/stripes/bbbbbbbbbbbbbbwbwbwbwbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBBBWBWBWBWBWB](/stripes/bbbbbbbbbbbbbbwbwbwbwbwb/).
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

@@ -1,16 +1,18 @@
 ---
 title: "Ramblers Red Hat Society"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ramblers Red Hat Society"
   url: "/tartans/ramblers-red-hat-society/"
 - name: "Ramblers Red Hat Society"
-  url: ""
+  url: "/setts/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2/)
-(the same proportion at any scale), whose colour order is pattern [RBWBRBBBRBRW](/stripes/rbwbrbbbrbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBWBRBBBRBRW](/stripes/rbwbrbbbrbrw/).
 
 Part of the [Ramblers Red Hat Society](/tartans/ramblers-red-hat-society/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/"><circle cx="418.3" cy="76.8" r="4" fill="#3465a4"><title>Ramblers Red Hat Society (Corporate)</title></circle></a><a href="/variants/s9/r60b15r4db10w2db10w2db10r4~x2/"><circle cx="371.8" cy="111.2" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><circle cx="417.8" cy="75.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/"><circle cx="418.3" cy="76.6" r="4" fill="#3465a4"><title>Ramblers Red Hat Society (Corporate)</title></circle></a><a href="/variants/s9/r60b15r4db10w2db10w2db10r4~x2/"><circle cx="371.8" cy="111.1" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><circle cx="417.8" cy="74.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2~dp1105325-dpi1607327/

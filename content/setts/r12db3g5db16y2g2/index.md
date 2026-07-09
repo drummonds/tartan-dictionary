@@ -1,5 +1,12 @@
 ---
 title: "Dunbog Primary School"
-redirect: "/variants/s6/r12db3g5db16y2g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dunbog Primary School](/variants/s6/r12db3g5db16y2g2~x2/).
+This is the **Dunbog Primary School** sett — one scale-free proportion (`r12db3g5db16y2g2`), colour order pattern
+[BGBGGGBGBR](/stripes/bgbgggbgbr/). It is recorded as a single **variant**, below.
+First attested **1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dunbog Primary School](/variants/s6/r12db3g5db16y2g2~x2/) ★ | 1985 | ![Dunbog Primary School sett](/variants/s6/r12db3g5db16y2g2~x2/sett.png) |

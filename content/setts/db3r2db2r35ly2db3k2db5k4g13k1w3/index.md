@@ -1,5 +1,14 @@
 ---
 title: "Celtic Nations (Fashion)"
-redirect: "/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Celtic Nations (Fashion)](/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/).
+This is the **Celtic Nations (Fashion)** sett — one scale-free proportion (`db3r2db2r35ly2db3k2db5k4g13k1w3`), colour order pattern
+[BRBRYBKBKGKW](/stripes/brbrybkbkgkw/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+Part of the [Celtic Nations](/tartans/celtic-nations/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Celtic Nations (Fashion)](/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/) ★ | 2011 | ![Celtic Nations (Fashion) sett](/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/sett.png) |

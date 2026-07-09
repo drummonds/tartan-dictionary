@@ -1,16 +1,18 @@
 ---
 title: "Hyndman Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hyndman"
   url: "/tartans/hyndman-2/"
 - name: "Hyndman Family Tartan"
-  url: ""
+  url: "/setts/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBGYGKBRBRY](/stripes/bbbbbgygkbrbry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBGYGKBRBRY](/stripes/bbbbbgygkbrbry/).
 
 Part of the [Hyndman](/tartans/hyndman-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1992 The tartan was designed for Mr C.P.Hyndman, the first 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1992 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/"><circle cx="85.2" cy="150.2" r="4" fill="#3465a4"><title>Hyndman (Omagh)</title></circle></a><a href="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/"><circle cx="45.5" cy="178.2" r="4" fill="#3465a4"><title>Chattahoochee Commemorative Tartan</title></circle></a><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/"><circle cx="158.4" cy="129.2" r="4" fill="#3465a4"><title>Salt Lake City Arts Council (Corp)</title></circle></a><circle cx="73.4" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/"><circle cx="85.3" cy="150.0" r="4" fill="#3465a4"><title>Hyndman (Omagh)</title></circle></a><a href="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/"><circle cx="45.5" cy="178.1" r="4" fill="#3465a4"><title>Chattahoochee Commemorative Tartan</title></circle></a><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/"><circle cx="158.4" cy="129.0" r="4" fill="#3465a4"><title>Salt Lake City Arts Council (Corp)</title></circle></a><circle cx="73.5" cy="146.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/

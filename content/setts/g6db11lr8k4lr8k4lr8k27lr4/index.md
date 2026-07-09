@@ -1,5 +1,12 @@
 ---
 title: "Brittany National (District)"
-redirect: "/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Brittany National (District)](/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/).
+This is the **Brittany National (District)** sett — one scale-free proportion (`g6db11lr8k4lr8k4lr8k27lr4`), colour order pattern
+[GBYKYKYKY](/stripes/gbykykyky/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Brittany National (District)](/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/) ★ | 2001 | ![Brittany National (District) sett](/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/sett.png) |

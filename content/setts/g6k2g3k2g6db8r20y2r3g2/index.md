@@ -1,5 +1,12 @@
 ---
 title: "Connolly Dress"
-redirect: "/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Connolly Dress](/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/).
+This is the **Connolly Dress** sett — one scale-free proportion (`g6k2g3k2g6db8r20y2r3g2`), colour order pattern
+[GKGKGBRGRG](/stripes/gkgkgbrgrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Connolly Dress](/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/) ★ | ~2016 | ![Connolly Dress sett](/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/sett.png) |

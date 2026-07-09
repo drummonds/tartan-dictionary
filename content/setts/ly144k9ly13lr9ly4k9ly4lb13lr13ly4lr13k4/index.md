@@ -1,5 +1,12 @@
 ---
 title: "London Fog Camel (Fashion)"
-redirect: "/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [London Fog Camel (Fashion)](/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/).
+This is the **London Fog Camel (Fashion)** sett — one scale-free proportion (`ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4`), colour order pattern
+[KYYYWYKYYYKY](/stripes/kyyywykyyyky/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [London Fog Camel (Fashion)](/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/) ★ | ~2007 | ![London Fog Camel (Fashion) sett](/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/sett.png) |

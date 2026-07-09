@@ -1,14 +1,16 @@
 ---
 title: "Isle of Skye"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Isle of Skye"
-  url: ""
+  url: "/setts/o20dp2o2dp2o3dp8dg9g8r8dg1b2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o20dp2o2dp2o3dp8dg9g8r8dg1b2/)
-(the same proportion at any scale), whose colour order is pattern [BGRGGBRBRBR](/stripes/bgrggbrbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o20dp2o2dp2o3dp8dg9g8r8dg1b2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRGGBRBRBR](/stripes/bgrggbrbrbr/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="185.4" cy="136.5" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s12/w3dr20g2r5n2r4n2r2n4r1n20lb3~x2/"><circle cx="246.5" cy="120.6" r="4" fill="#3465a4"><title>Ryutokukan High School</title></circle></a><a href="/variants/s12/o3n20r1n4r2n2r4n2r5g2dr20w3~x2~o2500000-n1900000/"><circle cx="260.4" cy="125.4" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.6" cy="131.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="172.0" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><circle cx="188.9" cy="118.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><circle cx="198.7" cy="110.5" r="4" fill="#3465a4"><title>Bendigo</title></circle></a><a href="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/"><circle cx="225.2" cy="138.5" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3y2~x2/"><circle cx="217.5" cy="124.8" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan</title></circle></a><a href="/variants/s9/dy24r24w3g21y2r1y2dy6r2~x2/"><circle cx="228.5" cy="142.2" r="4" fill="#3465a4"><title>Henry W.A. Canadian Tartan</title></circle></a><circle cx="199.8" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="185.4" cy="136.3" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s12/w3dr20g2r5n2r4n2r2n4r1n20lb3~x2/"><circle cx="246.5" cy="120.5" r="4" fill="#3465a4"><title>Ryutokukan High School</title></circle></a><a href="/variants/s12/o3n20r1n4r2n2r4n2r5g2dr20w3~x2~o2500000-n1900000/"><circle cx="260.4" cy="125.3" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.7" cy="131.6" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="171.9" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><circle cx="188.9" cy="118.3" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><circle cx="198.7" cy="110.4" r="4" fill="#3465a4"><title>Bendigo</title></circle></a><a href="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/"><circle cx="225.2" cy="138.4" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3y2~x2/"><circle cx="217.5" cy="124.7" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan</title></circle></a><a href="/variants/s9/dy24r24w3g21y2r1y2dy6r2~x2/"><circle cx="228.5" cy="142.1" r="4" fill="#3465a4"><title>Henry W.A. Canadian Tartan</title></circle></a><circle cx="199.8" cy="140.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/

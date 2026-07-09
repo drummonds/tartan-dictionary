@@ -1,14 +1,16 @@
 ---
 title: "Cougan Irish Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cougan Irish Personal Tartan"
-  url: ""
+  url: "/setts/db66dr16w2dr1w1dr1w2dr16db66y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db66dr16w2dr1w1dr1w2dr16db66y2/)
-(the same proportion at any scale), whose colour order is pattern [BBWBWBWBBG](/stripes/bbwbwbwbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db66dr16w2dr1w1dr1w2dr16db66y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBWBWBBG](/stripes/bbwbwbwbbg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2005 September Designed by Douglas Gregor of Tartanweb as a
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><circle cx="569.5" cy="118.3" r="4" fill="#3465a4"><title>Deuchars IPA (Corporate)</title></circle></a><a href="/variants/s12/db56dr1g4dr1g3dr1db10g1dr10db2dr3lb2~x4/"><circle cx="568.6" cy="100.3" r="4" fill="#3465a4"><title>Wcwm 9275-1446</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.2" cy="132.9" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.6" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="125.8" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><circle cx="606.7" cy="152.3" r="4" fill="#3465a4"><title>Inverness Htg (Royal)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.2" cy="113.6" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s12/db50w4db8y1db8y8g1y8db8w1db8y4~x2/"><circle cx="517.7" cy="101.0" r="4" fill="#3465a4"><title>Herry (2016)</title></circle></a><a href="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/"><circle cx="551.7" cy="170.2" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1y3~x2/"><circle cx="570.9" cy="166.5" r="4" fill="#3465a4"><title>Munster Ancestry</title></circle></a><circle cx="592.8" cy="124.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><circle cx="569.5" cy="118.2" r="4" fill="#3465a4"><title>Deuchars IPA (Corporate)</title></circle></a><a href="/variants/s12/db56dr1g4dr1g3dr1db10g1dr10db2dr3lb2~x4/"><circle cx="568.6" cy="100.2" r="4" fill="#3465a4"><title>Wcwm 9275-1446</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.3" cy="132.8" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.4" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="125.7" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><circle cx="606.8" cy="152.1" r="4" fill="#3465a4"><title>Inverness Htg (Royal)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.2" cy="113.4" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s12/db50w4db8y1db8y8g1y8db8w1db8y4~x2/"><circle cx="517.7" cy="100.8" r="4" fill="#3465a4"><title>Herry (2016)</title></circle></a><a href="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/"><circle cx="551.7" cy="170.1" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1y3~x2/"><circle cx="571.0" cy="166.4" r="4" fill="#3465a4"><title>Munster Ancestry</title></circle></a><circle cx="592.8" cy="124.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/

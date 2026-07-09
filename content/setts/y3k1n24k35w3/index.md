@@ -1,5 +1,12 @@
 ---
 title: "George Heriots"
-redirect: "/variants/s5/y3k1n24k35w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [George Heriots](/variants/s5/y3k1n24k35w3~x2/).
+This is the **George Heriots** sett — one scale-free proportion (`y3k1n24k35w3`), colour order pattern
+[GKBKW](/stripes/gkbkw/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [George Heriots](/variants/s5/y3k1n24k35w3~x2/) ★ | 2000 | ![George Heriots sett](/variants/s5/y3k1n24k35w3~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Fraser Stewart of Athol"
-redirect: "/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fraser Stewart of Athol](/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/).
+This is the **Fraser Stewart of Athol** sett — one scale-free proportion (`db28r3db3r3g20r30g4r30g20db22r3db3`), colour order pattern
+[BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fraser Stewart of Athol](/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/) ★ | ~2016 | ![Fraser Stewart of Athol sett](/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/sett.png) |

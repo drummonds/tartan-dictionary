@@ -1,5 +1,12 @@
 ---
 title: "MacLennan (Clan)"
-redirect: "/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacLennan (Clan)](/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/).
+This is the **MacLennan (Clan)** sett — one scale-free proportion (`r6db3r2db2r2db16k12dg16r1k1y2`), colour order pattern
+[GKRGKBRBRBR](/stripes/gkrgkbrbrbr/). It is recorded as a single **variant**, below.
+First attested **~1880**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacLennan (Clan)](/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/) ★ | ~1880 | ![MacLennan (Clan) sett](/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/sett.png) |

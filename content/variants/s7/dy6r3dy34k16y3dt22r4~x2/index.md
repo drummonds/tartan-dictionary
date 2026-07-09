@@ -1,14 +1,16 @@
 ---
 title: "Ballantrae (Macnaughtons)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ballantrae (Macnaughtons)"
-  url: ""
+  url: "/setts/dy6r3dy34k16y3dt22r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6r3dy34k16y3dt22r4/)
-(the same proportion at any scale), whose colour order is pattern [GRGKGBR](/stripes/grgkgbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy6r3dy34k16y3dt22r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGKGBR](/stripes/grgkgbr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y1do10k8dr8do1ly1~x4/"><circle cx="219.2" cy="204.5" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="272.0" cy="175.1" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.2" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/w2dg20b3k10dy20ly2~x2/"><circle cx="156.8" cy="184.5" r="4" fill="#3465a4"><title>Morris of Balgonie Htg (Personal)</title></circle></a><a href="/variants/s6/k6lb1dr18db6dg18k2~x2/"><circle cx="240.6" cy="187.1" r="4" fill="#3465a4"><title>Eachaidh</title></circle></a><a href="/variants/s6/k16dg32k8n4dr11n2~x2/"><circle cx="275.6" cy="199.9" r="4" fill="#3465a4"><title>Mitchell, Cameron (Personal)</title></circle></a><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><circle cx="227.3" cy="182.1" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s10/k3g1dr1dt6n2dt1n1dt1dr10lb1~x4/"><circle cx="210.9" cy="152.9" r="4" fill="#3465a4"><title>Crieff Primary School Corporate (Schools) Tartan</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.0" cy="173.0" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><circle cx="263.0" cy="191.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y1do10k8dr8do1ly1~x4/"><circle cx="219.3" cy="204.4" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="272.0" cy="175.0" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.3" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/w2dg20b3k10dy20ly2~x2/"><circle cx="156.8" cy="184.4" r="4" fill="#3465a4"><title>Morris of Balgonie Htg (Personal)</title></circle></a><a href="/variants/s6/k6lb1dr18db6dg18k2~x2/"><circle cx="240.7" cy="187.0" r="4" fill="#3465a4"><title>Eachaidh</title></circle></a><a href="/variants/s6/k16dg32k8n4dr11n2~x2/"><circle cx="275.6" cy="199.8" r="4" fill="#3465a4"><title>Mitchell, Cameron (Personal)</title></circle></a><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><circle cx="227.3" cy="182.1" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s10/k3g1dr1dt6n2dt1n1dt1dr10lb1~x4/"><circle cx="210.9" cy="152.8" r="4" fill="#3465a4"><title>Crieff Primary School Corporate (Schools) Tartan</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.1" cy="172.9" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><circle cx="263.0" cy="191.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dy6r3dy34k16y3dt22r4~x2/

@@ -1,16 +1,18 @@
 ---
 title: "Kleto, Susan (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kleto, Susan"
   url: "/tartans/kleto-susan/"
 - name: "Kleto, Susan (Personal)"
-  url: ""
+  url: "/setts/w1db16ly1r3ly1dg6g2dg6w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1db16ly1r3ly1dg6g2dg6w1/)
-(the same proportion at any scale), whose colour order is pattern [WBYRYGGGW](/stripes/wbyrygggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w1db16ly1r3ly1dg6g2dg6w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBYRYGGGW](/stripes/wbyrygggw/).
 
 Part of the [Kleto, Susan](/tartans/kleto-susan/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.7" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><circle cx="245.6" cy="133.4" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/variants/s11/n2db16lb2db3lb2db3lb8g30db3y2r2~x2/"><circle cx="210.8" cy="126.2" r="4" fill="#3465a4"><title>San Diego, The</title></circle></a><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><circle cx="188.2" cy="152.3" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="242.3" cy="126.8" r="4" fill="#3465a4"><title>Nova Scotia (Province)</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2/"><circle cx="253.7" cy="128.7" r="4" fill="#3465a4"><title>Nova Scotia Canadian District Tartan</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.7" cy="164.9" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/"><circle cx="196.1" cy="180.4" r="4" fill="#3465a4"><title>Ayrshire District Tartan</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.9" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.4" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><circle cx="213.8" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.6" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><circle cx="245.6" cy="133.3" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/variants/s11/n2db16lb2db3lb2db3lb8g30db3y2r2~x2/"><circle cx="210.8" cy="126.1" r="4" fill="#3465a4"><title>San Diego, The</title></circle></a><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><circle cx="188.3" cy="152.2" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="242.3" cy="126.7" r="4" fill="#3465a4"><title>Nova Scotia (Province)</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2/"><circle cx="253.8" cy="128.5" r="4" fill="#3465a4"><title>Nova Scotia Canadian District Tartan</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.7" cy="164.8" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/"><circle cx="196.1" cy="180.4" r="4" fill="#3465a4"><title>Ayrshire District Tartan</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.8" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.3" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><circle cx="213.8" cy="138.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w1db16ly1r3ly1dg6g2dg6w1~x2~dg1806142-g2408144/

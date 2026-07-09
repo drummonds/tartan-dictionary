@@ -1,14 +1,16 @@
 ---
 title: "Daks-Simpson (Muted Skye)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Daks-Simpson (Muted Skye)"
-  url: ""
+  url: "/setts/db5n15dy4n4dy24n4dy4db5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5n15dy4n4dy24n4dy4db5/)
-(the same proportion at any scale), whose colour order is pattern [BBGBGBGB](/stripes/bbgbgbgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db5n15dy4n4dy24n4dy4db5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBGBGB](/stripes/bbgbgbgb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><circle cx="372.0" cy="303.8" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.4" cy="285.2" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><circle cx="545.8" cy="283.7" r="4" fill="#3465a4"><title>Harmony 12 #2</title></circle></a><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><circle cx="485.2" cy="296.6" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.6" cy="278.2" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="470.8" cy="308.6" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><circle cx="451.9" cy="286.9" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="391.7" cy="273.2" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.3" cy="243.0" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><circle cx="424.6" cy="292.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><circle cx="372.1" cy="303.7" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.5" cy="285.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><circle cx="545.9" cy="283.6" r="4" fill="#3465a4"><title>Harmony 12 #2</title></circle></a><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><circle cx="485.2" cy="296.6" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.6" cy="278.1" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="470.8" cy="308.6" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><circle cx="452.0" cy="286.9" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="391.7" cy="273.1" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.4" cy="242.9" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><circle cx="424.7" cy="292.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db5n15dy4n4dy24n4dy4db5/

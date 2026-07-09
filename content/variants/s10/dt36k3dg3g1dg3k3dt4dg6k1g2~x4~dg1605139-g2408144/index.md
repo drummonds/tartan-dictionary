@@ -1,14 +1,16 @@
 ---
 title: "Verdon"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Verdon"
   url: "/setts/dt36k3dg3g1dg3k3dt4dg6k1g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt36k3dg3g1dg3k3dt4dg6k1g2/)
-(the same proportion at any scale), whose colour order is pattern [BKGGGKBGKG](/stripes/bkgggkbgkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dt36k3dg3g1dg3k3dt4dg6k1g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGGGKBGKG](/stripes/bkgggkbgkg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/"><circle cx="530.9" cy="136.8" r="4" fill="#3465a4"><title>Verdon (Fashion)</title></circle></a><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.3" cy="88.7" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="442.0" cy="95.2" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="421.9" cy="119.4" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><circle cx="391.0" cy="127.3" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/"><circle cx="487.5" cy="128.1" r="4" fill="#3465a4"><title>Dark Lochnagar</title></circle></a><a href="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="500.0" cy="69.0" r="4" fill="#3465a4"><title>Orvis Sports Company</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="128.0" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s8/dg47y2dg5y2dg4k15db19r2~x2/"><circle cx="366.7" cy="136.1" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/"><circle cx="418.4" cy="71.6" r="4" fill="#3465a4"><title>New House Highland (Corporate)</title></circle></a><circle cx="469.9" cy="114.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/"><circle cx="530.9" cy="136.6" r="4" fill="#3465a4"><title>Verdon (Fashion)</title></circle></a><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.3" cy="88.5" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="442.0" cy="95.1" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="421.9" cy="119.2" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><circle cx="391.0" cy="127.2" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/"><circle cx="487.5" cy="128.0" r="4" fill="#3465a4"><title>Dark Lochnagar</title></circle></a><a href="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="500.0" cy="68.8" r="4" fill="#3465a4"><title>Orvis Sports Company</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="127.9" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s8/dg47y2dg5y2dg4k15db19r2~x2/"><circle cx="366.7" cy="135.9" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/"><circle cx="418.4" cy="71.4" r="4" fill="#3465a4"><title>New House Highland (Corporate)</title></circle></a><circle cx="469.9" cy="113.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/

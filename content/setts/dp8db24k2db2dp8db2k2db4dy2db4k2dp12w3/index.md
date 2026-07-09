@@ -1,5 +1,12 @@
 ---
 title: "Heddle"
-redirect: "/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Heddle](/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/).
+This is the **Heddle** sett — one scale-free proportion (`dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3`), colour order pattern
+[BBKBBBKBGBKBW](/stripes/bbkbbbkbgbkbw/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Heddle](/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/) ★ | 2003 | ![Heddle sett](/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Madewell Dress"
-redirect: "/variants/s8/r2k2w16dg13g6y2k2w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Madewell Dress](/variants/s8/r2k2w16dg13g6y2k2w2~x2/).
+This is the **Madewell Dress** sett — one scale-free proportion (`r2k2w16dg13g6y2k2w2`), colour order pattern
+[RKWGGGKW](/stripes/rkwgggkw/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Madewell Dress](/variants/s8/r2k2w16dg13g6y2k2w2~x2/) ★ | 2000 | ![Madewell Dress sett](/variants/s8/r2k2w16dg13g6y2k2w2~x2/sett.png) |

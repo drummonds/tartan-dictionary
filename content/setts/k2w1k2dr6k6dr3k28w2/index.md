@@ -1,5 +1,12 @@
 ---
 title: "Brockton"
-redirect: "/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Brockton](/variants/s8/k2w1k2dr6k6dr3k28w2~x2/).
+This is the **Brockton** sett — one scale-free proportion (`k2w1k2dr6k6dr3k28w2`), colour order pattern
+[KWKBKBKW](/stripes/kwkbkbkw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Brockton](/variants/s8/k2w1k2dr6k6dr3k28w2~x2/) ★ | 2004 | ![Brockton sett](/variants/s8/k2w1k2dr6k6dr3k28w2~x2/sett.png) |

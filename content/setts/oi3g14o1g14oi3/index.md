@@ -1,5 +1,12 @@
 ---
 title: "Pearson"
-redirect: "/variants/s5/oi3g14o1g14oi3~x4~oi2104058-o2102055/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pearson](/variants/s5/oi3g14o1g14oi3~x4~oi2104058-o2102055/).
+This is the **Pearson** sett — one scale-free proportion (`oi3g14o1g14oi3`), colour order pattern
+[RGRGR](/stripes/rgrgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Pearson](/variants/s5/oi3g14o1g14oi3~x4~oi2104058-o2102055/) ★ | ~2016 | ![Pearson sett](/variants/s5/oi3g14o1g14oi3~x4~oi2104058-o2102055/sett.png) |

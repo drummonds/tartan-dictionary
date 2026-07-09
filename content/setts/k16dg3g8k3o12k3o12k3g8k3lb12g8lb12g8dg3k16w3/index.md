@@ -1,5 +1,12 @@
 ---
 title: "St. Margaret's School Edinburgh"
-redirect: "/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Margaret's School Edinburgh](/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/).
+This is the **St. Margaret's School Edinburgh** sett — one scale-free proportion (`k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3`), colour order pattern
+[KGGKRKRKGKWGWGGKW](/stripes/kggkrkrkgkwgwggkw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [St. Margaret's School Edinburgh](/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/) ★ | 2002 | ![St. Margaret's School Edinburgh sett](/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/sett.png) |

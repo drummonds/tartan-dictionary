@@ -1,5 +1,14 @@
 ---
 title: "Auld Lang Syne, Blue (Fashion)"
-redirect: "/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Auld Lang Syne, Blue (Fashion)](/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/).
+This is the **Auld Lang Syne, Blue (Fashion)** sett — one scale-free proportion (`w4k2t9k3dp3k3dp3k23g10k2dp6w2`), colour order pattern
+[WBKGKBKBKBKW](/stripes/wbkgkbkbkbkw/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+Part of the [Auld Lang Syne](/tartans/auld-lang-syne/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Auld Lang Syne, Blue (Fashion)](/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/) ★ | ~2007 | ![Auld Lang Syne, Blue (Fashion) sett](/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/sett.png) |

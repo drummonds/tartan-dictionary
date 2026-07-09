@@ -1,5 +1,12 @@
 ---
 title: "Glenfalloch"
-redirect: "/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glenfalloch](/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/).
+This is the **Glenfalloch** sett — one scale-free proportion (`k4b1k12w1b4w1dg4w1dr4dg12k1w2`), colour order pattern
+[KBKWBWGWBGKW](/stripes/kbkwbwgwbgkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glenfalloch](/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/) ★ | ~2016 | ![Glenfalloch sett](/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/sett.png) |

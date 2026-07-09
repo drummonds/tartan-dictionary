@@ -1,14 +1,16 @@
 ---
 title: "Breckon Hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Breckon Hunting"
-  url: ""
+  url: "/setts/db3dr1db14dg14dr1dg1dr1dg1dr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3dr1db14dg14dr1dg1dr1dg1dr2/)
-(the same proportion at any scale), whose colour order is pattern [BBBGBGBGB](/stripes/bbbgbgbgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3dr1db14dg14dr1dg1dr1dg1dr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGB](/stripes/bbbgbgbgb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><circle cx="422.4" cy="251.8" r="4" fill="#3465a4"><title>Edinburgh Monarchs</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/variants/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/"><circle cx="452.8" cy="249.5" r="4" fill="#3465a4"><title>Wcwm 1527-2</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.3" cy="243.0" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/variants/s8/dg8dr2dg2dr3dg8db12dg2dy2~x2/"><circle cx="445.6" cy="306.3" r="4" fill="#3465a4"><title>Glen Nevis #1</title></circle></a><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/"><circle cx="551.2" cy="256.6" r="4" fill="#3465a4"><title>Land's End, Blue (Fashion)</title></circle></a><a href="/variants/s9/dg4db3dg20db9dr2db2dr2db18dp4~x2/"><circle cx="467.0" cy="263.8" r="4" fill="#3465a4"><title>New Club Centenary</title></circle></a><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><circle cx="458.3" cy="214.4" r="4" fill="#3465a4"><title>Nethybridge</title></circle></a><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.8" cy="225.8" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><circle cx="485.8" cy="243.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><circle cx="422.4" cy="251.7" r="4" fill="#3465a4"><title>Edinburgh Monarchs</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/variants/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/"><circle cx="452.8" cy="249.4" r="4" fill="#3465a4"><title>Wcwm 1527-2</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.4" cy="242.9" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/variants/s8/dg8dr2dg2dr3dg8db12dg2dy2~x2/"><circle cx="445.7" cy="306.2" r="4" fill="#3465a4"><title>Glen Nevis #1</title></circle></a><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/"><circle cx="551.2" cy="256.6" r="4" fill="#3465a4"><title>Land's End, Blue (Fashion)</title></circle></a><a href="/variants/s9/dg4db3dg20db9dr2db2dr2db18dp4~x2/"><circle cx="467.0" cy="263.8" r="4" fill="#3465a4"><title>New Club Centenary</title></circle></a><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><circle cx="458.3" cy="214.3" r="4" fill="#3465a4"><title>Nethybridge</title></circle></a><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.8" cy="225.7" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><circle cx="485.9" cy="243.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db3dr1db14dg14dr1dg1dr1dg1dr2~x4/

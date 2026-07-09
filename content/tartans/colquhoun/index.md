@@ -24,7 +24,7 @@ The **Colquhoun** tartan groups 5 setts — the same named design recorded as di
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r2g8w1k8db8k1db1~x2/">Colquhoun</a> · <a href="/variants/s7/r2g8w1k8db8k1db1~x4/">Colquhoun</a></td></tr>
 <tr><td><a href="/setts/r2g8w1k8t8k1t1/">#2</a></td><td><code>R/12 G48 W6 K48 T48 K6 T/6</code></td><td>330</td><td>1810</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r2g8w1k8t8k1t1/"><img src="r2g8w1k8t8k1t1-rev.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r3g16w2k16db16k2db2/">Clan Tartan</a></td><td><code>R/6 G32 W4 K32 DB32 K4 DB/4</code></td><td>218</td><td>—</td></tr>
+<tr><td><a href="/setts/r3g16w2k16db16k2db2/">Clan Tartan</a></td><td><code>R/6 G32 W4 K32 DB32 K4 DB/4</code></td><td>218</td><td>1810</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g16w2k16db16k2db2/"><img src="r3g16w2k16db16k2db2-rev.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

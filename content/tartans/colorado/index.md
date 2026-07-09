@@ -19,7 +19,7 @@ The **Colorado** tartan groups 3 setts — the same named design recorded as dif
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g32lb3dp3lb3g2k20b17dr3lo4/"><img src="/variants/s9/g32lb3dp3lb3g2k20b17dr3lo4~x2~lb3300000-b2603265/sett.png" alt="Colorado sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/dg32lb3lp3lb3dg2k20db17r3y4/">(District)</a></td><td><code>DG/64 LB6 LP6 LB6 DG4 K40 DB34 R6 Y/8</code></td><td>276</td><td>1995</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/dg32lb3lp3lb3dg2k20db17r3y4/"><img src="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dg32lb3p3lb3dg2k20db17r3y4/">American District Tartan</a></td><td><code>DG/64 LB6 P6 LB6 DG4 K40 DB34 R6 Y/8</code></td><td>276</td><td>—</td></tr>
+<tr><td><a href="/setts/dg32lb3p3lb3dg2k20db17r3y4/">American District Tartan</a></td><td><code>DG/64 LB6 P6 LB6 DG4 K40 DB34 R6 Y/8</code></td><td>276</td><td>1995</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/dg32lb3p3lb3dg2k20db17r3y4/"><img src="/variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/sett.png" alt="American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

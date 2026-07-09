@@ -1,16 +1,18 @@
 ---
 title: "Unidentified Chair Covering"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Chair Covering"
   url: "/tartans/unidentified-chair-covering/"
 - name: "Unidentified Chair Covering"
-  url: ""
+  url: "/setts/r15o3dy2do2dy3r3ly3dy3g3r4g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r15o3dy2do2dy3r3ly3dy3g3r4g2/)
-(the same proportion at any scale), whose colour order is pattern [GRGGYRGBGRR](/stripes/grggyrgbgrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r15o3dy2do2dy3r3ly3dy3g3r4g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGGYRGBGRR](/stripes/grggyrgbgrr/).
 
 Part of the [Unidentified Chair Covering](/tartans/unidentified-chair-covering/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r15dp3dy2do2dy3r3y3dy3b3r4b2~x2~dp1607335-dy1103057/"><circle cx="264.6" cy="172.5" r="4" fill="#3465a4"><title>Unidentified, chair covering</title></circle></a><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.2" cy="186.3" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="315.4" cy="205.5" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/variants/s11/y3o24db4o8w2o2g10r12oi2r5w2~x2~o1604043-oi2102055/"><circle cx="214.7" cy="138.0" r="4" fill="#3465a4"><title>Unidentified 31</title></circle></a><circle cx="280.2" cy="179.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r15dp3dy2do2dy3r3y3dy3b3r4b2~x2~dp1607335-dy1103057/"><circle cx="264.6" cy="172.4" r="4" fill="#3465a4"><title>Unidentified, chair covering</title></circle></a><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.2" cy="186.3" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="315.4" cy="205.4" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/variants/s11/y3o24db4o8w2o2g10r12oi2r5w2~x2~o1604043-oi2102055/"><circle cx="214.7" cy="137.9" r="4" fill="#3465a4"><title>Unidentified 31</title></circle></a><circle cx="280.3" cy="179.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/

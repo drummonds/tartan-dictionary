@@ -1,5 +1,12 @@
 ---
 title: "International Police Association (IPA 2010)"
-redirect: "/variants/s7/db14r6db52lb4db4lb51y8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [International Police Association (IPA 2010)](/variants/s7/db14r6db52lb4db4lb51y8/).
+This is the **International Police Association (IPA 2010)** sett — one scale-free proportion (`db14r6db52lb4db4lb51y8`), colour order pattern
+[BRBWBWG](/stripes/brbwbwg/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [International Police Association (IPA 2010)](/variants/s7/db14r6db52lb4db4lb51y8/) ★ | 2010 | ![International Police Association (IPA 2010) sett](/variants/s7/db14r6db52lb4db4lb51y8/sett.png) |

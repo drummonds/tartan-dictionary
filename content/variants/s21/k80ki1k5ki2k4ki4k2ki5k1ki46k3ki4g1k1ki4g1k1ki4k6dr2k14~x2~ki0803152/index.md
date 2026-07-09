@@ -1,14 +1,16 @@
 ---
 title: "Unidentified (Jones #1)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified (Jones #1)"
-  url: ""
+  url: "/setts/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14/)
-(the same proportion at any scale), whose colour order is pattern [KBKKKGKKGKKKKKKKKKKKK](/stripes/kbkkkgkkgkkkkkkkkkkkk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKKKGKKGKKKKKKKKKKKK](/stripes/kbkkkgkkgkkkkkkkkkkkk/).
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

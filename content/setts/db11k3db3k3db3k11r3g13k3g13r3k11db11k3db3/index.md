@@ -1,5 +1,12 @@
 ---
 title: "Fletcher"
-redirect: "/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fletcher](/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/).
+This is the **Fletcher** sett — one scale-free proportion (`db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3`), colour order pattern
+[BKBKBKRGKGRKBKB](/stripes/bkbkbkrgkgrkbkb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fletcher](/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/) ★ | ~2016 | ![Fletcher sett](/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/sett.png) |

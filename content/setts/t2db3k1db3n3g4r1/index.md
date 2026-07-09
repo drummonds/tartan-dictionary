@@ -1,5 +1,12 @@
 ---
 title: "New York City"
-redirect: "/variants/s7/t2db3k1db3n3g4r1~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [New York City](/variants/s7/t2db3k1db3n3g4r1~x8/).
+This is the **New York City** sett — one scale-free proportion (`t2db3k1db3n3g4r1`), colour order pattern
+[BBKBBGR](/stripes/bbkbbgr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [New York City](/variants/s7/t2db3k1db3n3g4r1~x8/) ★ | 2002 | ![New York City sett](/variants/s7/t2db3k1db3n3g4r1~x8/sett.png) |

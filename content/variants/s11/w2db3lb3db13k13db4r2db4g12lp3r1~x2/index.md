@@ -1,16 +1,18 @@
 ---
 title: "Fitzgerald Hunting Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fitzgerald, hunting"
   url: "/tartans/fitzgerald-hunting/"
 - name: "Fitzgerald Hunting Family Tartan"
-  url: ""
+  url: "/setts/w2db3lb3db13k13db4r2db4g12lp3r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2db3lb3db13k13db4r2db4g12lp3r1/)
-(the same proportion at any scale), whose colour order is pattern [RWGBRBKBWBW](/stripes/rwgbrbkbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2db3lb3db13k13db4r2db4g12lp3r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWGBRBKBWBW](/stripes/rwgbrbkbwbw/).
 
 Part of the [Fitzgerald, hunting](/tartans/fitzgerald-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1985 Sample in STS collection.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1985 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.3" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="120.0" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s8/k40n15o10y3lb5w5db10lb20~n1900000-o2500000/"><circle cx="76.5" cy="128.2" r="4" fill="#3465a4"><title>Julien Pigeut Tartan</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.4" cy="104.1" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"><circle cx="137.8" cy="116.8" r="4" fill="#3465a4"><title>Waipu (District)</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="127.8" cy="90.9" r="4" fill="#3465a4"><title>Twempy</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><circle cx="142.4" cy="113.3" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.5" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="102.9" cy="124.3" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/"><circle cx="141.4" cy="112.9" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><circle cx="94.6" cy="122.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.1" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="119.9" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s8/k40n15o10y3lb5w5db10lb20~n1900000-o2500000/"><circle cx="76.5" cy="128.1" r="4" fill="#3465a4"><title>Julien Pigeut Tartan</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.4" cy="104.0" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"><circle cx="137.8" cy="116.7" r="4" fill="#3465a4"><title>Waipu (District)</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="127.9" cy="90.7" r="4" fill="#3465a4"><title>Twempy</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><circle cx="142.4" cy="113.2" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="102.9" cy="124.1" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/"><circle cx="141.5" cy="112.8" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><circle cx="94.6" cy="122.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/

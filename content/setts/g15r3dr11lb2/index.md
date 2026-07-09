@@ -2,15 +2,15 @@
 title: "MacNab WI2"
 date: 2023-03-18
 ---
-The **MacNab WI2** tartan is one sett proportion (`g15r3dr11lb2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GRBW](/stripes/grbw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacNab WI2** sett — one scale-free proportion (`g15r3dr11lb2`), colour order pattern
+[GRBW](/stripes/grbw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [MacNab WI2](/tartans/macnab-wi2/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacNab WI2](/tartans/macnab-wi2/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [MacNab WI2](/variants/s4/g15r3dr11lb2/) ★ | ~2016 | ![MacNab WI2 sett](/variants/s4/g15r3dr11lb2/sett.png) |
 | ×2 | [MacNab WI 2](/variants/s4/g15r3dr11lb2~x2/) | ~2016 | ![MacNab WI 2 sett](/variants/s4/g15r3dr11lb2~x2/sett.png) |

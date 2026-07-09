@@ -1,16 +1,18 @@
 ---
 title: "Caledonian Brewery (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Brewery"
   url: "/tartans/caledonian-brewery/"
 - name: "Caledonian Brewery (Corporate)"
-  url: ""
+  url: "/setts/lbi4dg13g6dr16lb2dr2g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lbi4dg13g6dr16lb2dr2g2/)
-(the same proportion at any scale), whose colour order is pattern [GBWBGGW](/stripes/gbwbggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lbi4dg13g6dr16lb2dr2g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBWBGGW](/stripes/gbwbggw/).
 
 Part of the [Caledonian Brewery](/tartans/caledonian-brewery/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.4" cy="220.6" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="204.1" cy="203.6" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.7" cy="233.6" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.3" cy="238.5" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.8" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="254.5" cy="257.8" r="4" fill="#3465a4"><title>Phinn (Personal)</title></circle></a><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="195.7" cy="236.5" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/"><circle cx="178.7" cy="185.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><circle cx="223.6" cy="226.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.5" cy="220.5" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="204.2" cy="203.6" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.8" cy="233.5" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.3" cy="238.5" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.7" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="254.5" cy="257.8" r="4" fill="#3465a4"><title>Phinn (Personal)</title></circle></a><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="195.8" cy="236.5" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/"><circle cx="178.7" cy="185.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><circle cx="223.6" cy="226.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/

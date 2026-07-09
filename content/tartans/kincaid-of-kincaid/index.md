@@ -20,7 +20,7 @@ The **Kincaid of Kincaid** tartan groups 2 setts — the same named design recor
 <tbody>
 <tr><td><a href="/setts/k11g16dr2/">Kincaid of Kincaid</a> ★</td><td><code>K/44 G64 DR/8</code></td><td>180</td><td>~1960</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k11g16dr2/"><img src="/variants/s3/k11g16dr2~x4/sett.png" alt="Kincaid of Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4g6r1/">Kincaid, of Kincaid</a></td><td><code>K/40 G60 R/10</code></td><td>170</td><td>—</td></tr>
+<tr><td><a href="/setts/k4g6r1/">Kincaid, of Kincaid</a></td><td><code>K/40 G60 R/10</code></td><td>170</td><td>~2003</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k4g6r1/"><img src="/variants/s3/k4g6r1~x10/sett.png" alt="Kincaid, of Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

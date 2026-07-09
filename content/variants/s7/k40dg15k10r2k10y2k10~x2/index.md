@@ -1,14 +1,16 @@
 ---
 title: "Langhein Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Langhein Family Tartan"
-  url: ""
+  url: "/setts/k40dg15k10r2k10y2k10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k40dg15k10r2k10y2k10/)
-(the same proportion at any scale), whose colour order is pattern [KGKRKGK](/stripes/kgkrkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k40dg15k10r2k10y2k10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGKRKGK](/stripes/kgkrkgk/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -23,7 +25,7 @@ Earliest known date: April 2002 Based on Black Watch Sett
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>April 2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/"><circle cx="474.0" cy="152.8" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="443.9" cy="136.6" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s7/k5r1k41dg8k8y1k5~x2/"><circle cx="608.2" cy="111.3" r="4" fill="#3465a4"><title>Callaghan</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="456.6" cy="156.8" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/"><circle cx="381.7" cy="223.6" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.4" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.8" cy="122.1" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.4" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/"><circle cx="543.8" cy="174.0" r="4" fill="#3465a4"><title>Gwynn</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.6" cy="98.3" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="489.4" cy="157.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/"><circle cx="474.0" cy="152.7" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="444.0" cy="136.4" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s7/k5r1k41dg8k8y1k5~x2/"><circle cx="608.2" cy="111.1" r="4" fill="#3465a4"><title>Callaghan</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="456.6" cy="156.7" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/"><circle cx="381.8" cy="223.6" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.3" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.8" cy="122.0" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.3" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/"><circle cx="543.9" cy="173.9" r="4" fill="#3465a4"><title>Gwynn</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.6" cy="98.1" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="489.5" cy="157.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k40dg15k10r2k10y2k10~x2/

@@ -1,5 +1,12 @@
 ---
 title: "MacDonald of Denovan Htg (Clan)"
-redirect: "/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDonald of Denovan Htg (Clan)](/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/).
+This is the **MacDonald of Denovan Htg (Clan)** sett — one scale-free proportion (`dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10`), colour order pattern
+[GBGBGBKGBGBG](/stripes/gbgbgbkgbgbg/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDonald of Denovan Htg (Clan)](/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/) ★ | 1980 | ![MacDonald of Denovan Htg (Clan) sett](/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/sett.png) |

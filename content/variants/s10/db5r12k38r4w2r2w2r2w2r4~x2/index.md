@@ -1,14 +1,16 @@
 ---
 title: "Good Conduct (USA)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Good Conduct (USA)"
-  url: ""
+  url: "/setts/db5r12k38r4w2r2w2r2w2r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5r12k38r4w2r2w2r2w2r4/)
-(the same proportion at any scale), whose colour order is pattern [BRKRWRWRWR](/stripes/brkrwrwrwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db5r12k38r4w2r2w2r2w2r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRKRWRWRWR](/stripes/brkrwrwrwr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="235.9" cy="114.5" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="126.1" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/"><circle cx="214.2" cy="116.2" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.1" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.7" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.6" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/"><circle cx="270.0" cy="74.3" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/variants/s10/dr4w4dr3k8w3dr3k20dr40w2dr4/"><circle cx="340.8" cy="124.4" r="4" fill="#3465a4"><title>South Carolina, University of</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="133.2" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><circle cx="262.8" cy="92.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.0" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="235.9" cy="114.4" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="125.9" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/"><circle cx="214.2" cy="116.1" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.0" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.6" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.5" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/"><circle cx="270.0" cy="74.1" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/variants/s10/dr4w4dr3k8w3dr3k20dr40w2dr4/"><circle cx="340.8" cy="124.3" r="4" fill="#3465a4"><title>South Carolina, University of</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="133.1" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><circle cx="262.8" cy="92.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/

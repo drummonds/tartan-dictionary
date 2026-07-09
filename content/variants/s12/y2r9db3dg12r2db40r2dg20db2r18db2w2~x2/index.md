@@ -1,14 +1,16 @@
 ---
 title: "Kormylo (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kormylo (Personal)"
-  url: ""
+  url: "/setts/y2r9db3dg12r2db40r2dg20db2r18db2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2r9db3dg12r2db40r2dg20db2r18db2w2/)
-(the same proportion at any scale), whose colour order is pattern [GRBGRBRGBRBW](/stripes/grbgrbrgbrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y2r9db3dg12r2db40r2dg20db2r18db2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRBGRBRGBRBW](/stripes/grbgrbrgbrbw/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.2" cy="117.6" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.9" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/"><circle cx="232.7" cy="104.9" r="4" fill="#3465a4"><title>Broz Sanz Elementary School</title></circle></a><a href="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/"><circle cx="245.7" cy="107.0" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/variants/s12/r16db2r2db2r2db16g16dy1r16db16r2n2~x2/"><circle cx="228.2" cy="148.4" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.2" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/"><circle cx="210.6" cy="144.5" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/"><circle cx="263.1" cy="174.0" r="4" fill="#3465a4"><title>Rannoch Moor (Fashion)</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.3" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/"><circle cx="174.9" cy="158.4" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><circle cx="252.4" cy="126.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.3" cy="117.5" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.8" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/"><circle cx="232.7" cy="104.8" r="4" fill="#3465a4"><title>Broz Sanz Elementary School</title></circle></a><a href="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/"><circle cx="245.7" cy="106.8" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/variants/s12/r16db2r2db2r2db16g16dy1r16db16r2n2~x2/"><circle cx="228.2" cy="148.2" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.1" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/"><circle cx="210.6" cy="144.3" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/"><circle cx="263.1" cy="173.9" r="4" fill="#3465a4"><title>Rannoch Moor (Fashion)</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.2" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/"><circle cx="174.9" cy="158.3" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><circle cx="252.4" cy="126.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/y2r9db3dg12r2db40r2dg20db2r18db2w2~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Tulchan Estate Check (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Tulchan Estate Check (Corporate)"
-  url: ""
+  url: "/setts/t1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1/)
-(the same proportion at any scale), whose colour order is pattern [BWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/bwgwgwgwgwgwgwgwgwgwgwgwgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/bwgwgwgwgwgwgwgwgwgwgwgwgw/).
 
 Sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 

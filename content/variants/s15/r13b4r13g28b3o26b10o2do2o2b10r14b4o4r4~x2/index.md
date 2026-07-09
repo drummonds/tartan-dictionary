@@ -1,14 +1,16 @@
 ---
 title: "MacPherson 1"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacPherson 1"
-  url: ""
+  url: "/setts/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4/)
-(the same proportion at any scale), whose colour order is pattern [RBRGBRBRBRBRBRR](/stripes/rbrgbrbrbrbrbrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRGBRBRBRBRBRR](/stripes/rbrgbrbrbrbrbrr/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/"><circle cx="266.6" cy="165.2" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.7" cy="167.9" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s17/r30dp3ri3g12ri12g12r8ri3r8dp12ri5g3ri5g25ri4r6lb1~x2~r2208029-ri2209032/"><circle cx="235.5" cy="128.7" r="4" fill="#3465a4"><title>MacDougall #3</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="185.4" cy="136.5" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/"><circle cx="216.6" cy="205.4" r="4" fill="#3465a4"><title>MacGlashan</title></circle></a><a href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2~n1900000/"><circle cx="236.5" cy="140.7" r="4" fill="#3465a4"><title>Harding</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="172.0" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/"><circle cx="281.5" cy="149.6" r="4" fill="#3465a4"><title>Pitcairn Heritage (Name)</title></circle></a><a href="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><circle cx="235.1" cy="166.8" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/"><circle cx="167.0" cy="224.0" r="4" fill="#3465a4"><title>Hallowfield Wood</title></circle></a><circle cx="208.5" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/"><circle cx="266.6" cy="165.1" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.7" cy="167.8" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s17/r30dp3ri3g12ri12g12r8ri3r8dp12ri5g3ri5g25ri4r6lb1~x2~r2208029-ri2209032/"><circle cx="235.5" cy="128.5" r="4" fill="#3465a4"><title>MacDougall #3</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="185.4" cy="136.3" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/"><circle cx="216.6" cy="205.3" r="4" fill="#3465a4"><title>MacGlashan</title></circle></a><a href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2~n1900000/"><circle cx="236.6" cy="140.5" r="4" fill="#3465a4"><title>Harding</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="171.9" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/"><circle cx="281.5" cy="149.5" r="4" fill="#3465a4"><title>Pitcairn Heritage (Name)</title></circle></a><a href="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><circle cx="235.1" cy="166.6" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/"><circle cx="167.1" cy="224.0" r="4" fill="#3465a4"><title>Hallowfield Wood</title></circle></a><circle cx="208.5" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/

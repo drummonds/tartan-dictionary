@@ -1,5 +1,12 @@
 ---
 title: "Brock University Alumni Association"
-redirect: "/variants/s6/r52y2db16y2db3w5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Brock University Alumni Association](/variants/s6/r52y2db16y2db3w5~x2/).
+This is the **Brock University Alumni Association** sett — one scale-free proportion (`r52y2db16y2db3w5`), colour order pattern
+[RGBGBW](/stripes/rgbgbw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Brock University Alumni Association](/variants/s6/r52y2db16y2db3w5~x2/) ★ | 2014 | ![Brock University Alumni Association sett](/variants/s6/r52y2db16y2db3w5~x2/sett.png) |

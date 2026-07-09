@@ -1,5 +1,14 @@
 ---
 title: "Amazing Union (Personal)"
-redirect: "/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Amazing Union (Personal)](/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/).
+This is the **Amazing Union (Personal)** sett — one scale-free proportion (`r2do15dg12do2db12do2dg12do15ly2`), colour order pattern
+[RBGBBBGBY](/stripes/rbgbbbgby/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+Part of the [Amazing Union](/tartans/amazing-union/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Amazing Union (Personal)](/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/) ★ | ~2007 | ![Amazing Union (Personal) sett](/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/sett.png) |

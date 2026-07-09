@@ -2,15 +2,15 @@
 title: "Breadalbane Fencibles"
 date: 2023-03-18
 ---
-The **Breadalbane Fencibles** tartan is one sett proportion (`db8k1db1k1db1k8y1g14y1k8db8k1db1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/); each scale below is its own sett page. First attested **1890**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Breadalbane Fencibles** sett — one scale-free proportion (`db8k1db1k1db1k8y1g14y1k8db8k1db1`), colour order pattern
+[BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1890**.
 
-Part of the [Breadalbane Fencibles](/tartans/breadalbane-fencibles/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Breadalbane Fencibles](/tartans/breadalbane-fencibles/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [Black from Cumnock (Personal)](/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1~x2/) ★ | 1890 | ![Black from Cumnock (Personal) sett](/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1~x2/sett.png) |
 | ×1 | [Breadalbane Fencibles](/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/) | ~2016 | ![Breadalbane Fencibles sett](/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/sett.png) |

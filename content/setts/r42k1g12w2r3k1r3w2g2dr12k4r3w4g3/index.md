@@ -2,15 +2,15 @@
 title: "MacFarlane"
 date: 2023-03-18
 ---
-The **MacFarlane** tartan is one sett proportion (`r42k1g12w2r3k1r3w2g2dr12k4r3w4g3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacFarlane** sett — one scale-free proportion (`r42k1g12w2r3k1r3w2g2dr12k4r3w4g3`), colour order pattern
+[GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [MacFarlane](/tartans/macfarlane/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacFarlane](/tartans/macfarlane/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [MacFarlane](/variants/s14/r42k1g12w2r3k1r3w2g2dr12k4r3w4g3/) ★ | ~2016 | ![MacFarlane sett](/variants/s14/r42k1g12w2r3k1r3w2g2dr12k4r3w4g3/sett.png) |
 | ×2 | [MacFarlane](/variants/s14/r42k1g12w2r3k1r3w2g2dr12k4r3w4g3~x2/) | ~2016 | ![MacFarlane sett](/variants/s14/r42k1g12w2r3k1r3w2g2dr12k4r3w4g3~x2/sett.png) |

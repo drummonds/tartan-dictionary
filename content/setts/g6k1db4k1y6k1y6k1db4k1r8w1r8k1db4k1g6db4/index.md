@@ -2,15 +2,15 @@
 title: "Buchanan (Wilson)"
 date: 2023-03-18
 ---
-The **Buchanan (Wilson)** tartan is one sett proportion (`g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BGKBKRWRKBKGKGKBKG](/stripes/bgkbkrwrkbkgkgkbkg/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Buchanan (Wilson)** sett — one scale-free proportion (`g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4`), colour order pattern
+[BGKBKRWRKBKGKGKBKG](/stripes/bgkbkrwrkbkgkgkbkg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1843**.
 
-Part of the [Buchanan](/tartans/buchanan/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Buchanan](/tartans/buchanan/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×2 | [Buchanan Clan Tartan](/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/) ★ | ~2016 | ![Buchanan Clan Tartan sett](/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/sett.png) |
+| ×2 | [Buchanan Clan Tartan](/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/) ★ | 1843 | ![Buchanan Clan Tartan sett](/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/sett.png) |
 | ×4 | [Buchanan (Wilson)](/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/) | ~2016 | ![Buchanan (Wilson) sett](/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/sett.png) |

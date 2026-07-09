@@ -1,5 +1,14 @@
 ---
 title: "Potts (Personal)"
-redirect: "/variants/s6/k1y3db3do28db36y1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Potts (Personal)](/variants/s6/k1y3db3do28db36y1~x2/).
+This is the **Potts (Personal)** sett — one scale-free proportion (`k1y3db3do28db36y1`), colour order pattern
+[GBBBGK](/stripes/gbbbgk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+Part of the [Potts](/tartans/potts/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Potts (Personal)](/variants/s6/k1y3db3do28db36y1~x2/) ★ | 2002 | ![Potts (Personal) sett](/variants/s6/k1y3db3do28db36y1~x2/sett.png) |

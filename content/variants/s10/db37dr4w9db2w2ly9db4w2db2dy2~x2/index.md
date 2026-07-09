@@ -1,14 +1,16 @@
 ---
 title: "Stuart/Stewart navy"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stuart/Stewart navy"
-  url: ""
+  url: "/setts/db37dr4w9db2w2ly9db4w2db2dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db37dr4w9db2w2ly9db4w2db2dy2/)
-(the same proportion at any scale), whose colour order is pattern [BBWBWYBWBG](/stripes/bbwbwybwbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db37dr4w9db2w2ly9db4w2db2dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBWYBWBG](/stripes/bbwbwybwbg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3db34dg5w2dg2w10db4lo3~x2/"><circle cx="326.7" cy="142.4" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/"><circle cx="327.3" cy="142.5" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/"><circle cx="331.9" cy="174.0" r="4" fill="#3465a4"><title>Stewart Navy Clan Tartan</title></circle></a><a href="/variants/s10/w6db32n3db3n1db3n2dbi4db1y2~x2~db1204274-dbi1406275/"><circle cx="437.3" cy="103.8" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><circle cx="262.0" cy="196.4" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><a href="/variants/s13/dbi32w2db1w2dbi4db1g8w8ly8db1dbi16db1w4~x2~dbi1406275-db1204274/"><circle cx="328.3" cy="104.9" r="4" fill="#3465a4"><title>Spirit of India (Fashion)</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/"><circle cx="313.4" cy="81.6" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/"><circle cx="312.4" cy="83.3" r="4" fill="#3465a4"><title>Summerwood</title></circle></a><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><circle cx="355.2" cy="174.1" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.4" cy="87.1" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><circle cx="335.2" cy="123.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3db34dg5w2dg2w10db4lo3~x2/"><circle cx="326.7" cy="142.3" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/"><circle cx="327.3" cy="142.4" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/"><circle cx="332.0" cy="173.9" r="4" fill="#3465a4"><title>Stewart Navy Clan Tartan</title></circle></a><a href="/variants/s10/w6db32n3db3n1db3n2dbi4db1y2~x2~db1204274-dbi1406275/"><circle cx="437.3" cy="103.7" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><circle cx="262.0" cy="196.3" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><a href="/variants/s13/dbi32w2db1w2dbi4db1g8w8ly8db1dbi16db1w4~x2~dbi1406275-db1204274/"><circle cx="328.3" cy="104.8" r="4" fill="#3465a4"><title>Spirit of India (Fashion)</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/"><circle cx="313.4" cy="81.5" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/"><circle cx="312.5" cy="83.1" r="4" fill="#3465a4"><title>Summerwood</title></circle></a><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><circle cx="355.2" cy="174.0" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.4" cy="86.9" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><circle cx="335.2" cy="123.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/

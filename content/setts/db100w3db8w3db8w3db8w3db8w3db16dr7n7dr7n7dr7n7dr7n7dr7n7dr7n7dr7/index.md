@@ -1,5 +1,12 @@
 ---
 title: "Old Glory (1824)"
-redirect: "/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Old Glory (1824)](/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/).
+This is the **Old Glory (1824)** sett — one scale-free proportion (`db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7`), colour order pattern
+[BBBBBBBBBBBBBBWBWBWBWBWB](/stripes/bbbbbbbbbbbbbbwbwbwbwbwb/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Old Glory (1824)](/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/) ★ | 2016 | ![Old Glory (1824) sett](/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Cavalier, Blue"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cavalier, Blue"
-  url: ""
+  url: "/setts/y40dt10o2dt2w2dt3g8y6dt2y4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y40dt10o2dt2w2dt3g8y6dt2y4w2/)
-(the same proportion at any scale), whose colour order is pattern [GBRBWBGGBGW](/stripes/gbrbwbggbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y40dt10o2dt2w2dt3g8y6dt2y4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBRBWBGGBGW](/stripes/gbrbwbggbgw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.3" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.6" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/"><circle cx="465.7" cy="97.9" r="4" fill="#3465a4"><title>Kelly Dress (Name)</title></circle></a><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.0" cy="123.7" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2~y2405105-ly3307090/"><circle cx="339.6" cy="126.7" r="4" fill="#3465a4"><title>Glendronach</title></circle></a><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2~g1903152/"><circle cx="474.6" cy="99.9" r="4" fill="#3465a4"><title>Kelly Dress</title></circle></a><a href="/variants/s10/db3g16y1r1w1r6g3r1g3w1~x4~db1406275-r2109032-w4000000/"><circle cx="345.5" cy="142.1" r="4" fill="#3465a4"><title>Canadian Caledonian</title></circle></a><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><circle cx="454.8" cy="144.6" r="4" fill="#3465a4"><title>Galway Irish County Tartan</title></circle></a><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/"><circle cx="366.2" cy="123.3" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="400.5" cy="126.3" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan</title></circle></a><circle cx="406.4" cy="132.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.2" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.5" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/"><circle cx="465.7" cy="97.7" r="4" fill="#3465a4"><title>Kelly Dress (Name)</title></circle></a><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.1" cy="123.6" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2~y2405105-ly3307090/"><circle cx="339.6" cy="126.6" r="4" fill="#3465a4"><title>Glendronach</title></circle></a><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2~g1903152/"><circle cx="474.6" cy="99.7" r="4" fill="#3465a4"><title>Kelly Dress</title></circle></a><a href="/variants/s10/db3g16y1r1w1r6g3r1g3w1~x4~db1406275-r2109032-w4000000/"><circle cx="345.5" cy="142.0" r="4" fill="#3465a4"><title>Canadian Caledonian</title></circle></a><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><circle cx="454.8" cy="144.5" r="4" fill="#3465a4"><title>Galway Irish County Tartan</title></circle></a><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/"><circle cx="366.3" cy="123.2" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="400.5" cy="126.2" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan</title></circle></a><circle cx="406.4" cy="132.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Walker, James"
-redirect: "/variants/s6/k2g7lb1k6r4g2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Walker, James](/variants/s6/k2g7lb1k6r4g2~x4/).
+This is the **Walker, James** sett — one scale-free proportion (`k2g7lb1k6r4g2`), colour order pattern
+[GRKWGK](/stripes/grkwgk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Walker, James](/variants/s6/k2g7lb1k6r4g2~x4/) ★ | ~2016 | ![Walker, James sett](/variants/s6/k2g7lb1k6r4g2~x4/sett.png) |

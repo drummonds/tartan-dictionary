@@ -1,5 +1,12 @@
 ---
 title: "Confederate Infantry"
-redirect: "/variants/s6/dg2ly14dg8ly3dg12db2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Confederate Infantry](/variants/s6/dg2ly14dg8ly3dg12db2~x2/).
+This is the **Confederate Infantry** sett — one scale-free proportion (`dg2ly14dg8ly3dg12db2`), colour order pattern
+[BGYGYG](/stripes/bgygyg/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Confederate Infantry](/variants/s6/dg2ly14dg8ly3dg12db2~x2/) ★ | 1998 | ![Confederate Infantry sett](/variants/s6/dg2ly14dg8ly3dg12db2~x2/sett.png) |

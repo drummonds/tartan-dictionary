@@ -1,16 +1,18 @@
 ---
 title: "Unidentified, chair covering"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Chair Covering"
   url: "/tartans/unidentified-chair-covering/"
 - name: "Unidentified, chair covering"
-  url: ""
+  url: "/setts/r15dp3dy2do2dy3r3y3dy3b3r4b2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r15dp3dy2do2dy3r3y3dy3b3r4b2/)
-(the same proportion at any scale), whose colour order is pattern [BRBGGRGBGBR](/stripes/brbggrgbgbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r15dp3dy2do2dy3r3y3dy3b3r4b2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBGGRGBGBR](/stripes/brbggrgbgbr/).
 
 Part of the [Unidentified Chair Covering](/tartans/unidentified-chair-covering/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/"><circle cx="280.2" cy="179.7" r="4" fill="#3465a4"><title>Unidentified Chair Covering</title></circle></a><a href="/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/"><circle cx="220.0" cy="168.5" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s10/do2ri3r3ri21y3ri2r6db6r4w2~x2~ri2906009-r2609025/"><circle cx="263.0" cy="146.3" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.1" cy="148.9" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/"><circle cx="304.6" cy="178.1" r="4" fill="#3465a4"><title>London Caledonian</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.3" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/"><circle cx="280.8" cy="135.1" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.2" cy="186.3" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="255.9" cy="202.5" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="260.3" cy="165.7" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><circle cx="264.6" cy="172.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/"><circle cx="280.3" cy="179.6" r="4" fill="#3465a4"><title>Unidentified Chair Covering</title></circle></a><a href="/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/"><circle cx="220.0" cy="168.4" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s10/do2ri3r3ri21y3ri2r6db6r4w2~x2~ri2906009-r2609025/"><circle cx="263.0" cy="146.1" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.1" cy="148.8" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/"><circle cx="304.6" cy="178.0" r="4" fill="#3465a4"><title>London Caledonian</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.1" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/"><circle cx="280.8" cy="135.0" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.2" cy="186.3" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="255.9" cy="202.5" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="260.3" cy="165.7" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><circle cx="264.6" cy="172.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r15dp3dy2do2dy3r3y3dy3b3r4b2~x2~dp1607335-dy1103057/

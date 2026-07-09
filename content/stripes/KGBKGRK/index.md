@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2r1g15k15db15y1k2~x2/">MacCaskill</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2r1g15k15db15y1k2~x2/"><img src="/variants/s7/k2r1g15k15db15y1k2~x2/sett.png" alt="MacCaskill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/">MacCaskill (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><img src="/variants/s7/k2r1dg15k15db15y1k2~x2/sett.png" alt="MacCaskill (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k2r1g15k15db15y1k2~x2/">MacCaskill Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k2r1g15k15db15y1k2~x2/"><img src="/variants/s7/k2r1g15k15db15y1k2~x2/sett.png" alt="MacCaskill Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

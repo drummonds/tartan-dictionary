@@ -1,14 +1,16 @@
 ---
 title: "Spencer"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Spencer"
-  url: ""
+  url: "/setts/o40lb3o8r2o2w2o10lb6do2lb2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o40lb3o8r2o2w2o10lb6do2lb2w2/)
-(the same proportion at any scale), whose colour order is pattern [RWRRRWRWBWW](/stripes/rwrrrwrwbww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o40lb3o8r2o2w2o10lb6do2lb2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWRRRWRWBWW](/stripes/rwrrrwrwbww/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

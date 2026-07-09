@@ -1,5 +1,12 @@
 ---
 title: "77th Regiment"
-redirect: "/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [77th Regiment](/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/).
+This is the **77th Regiment** sett — one scale-free proportion (`db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3`), colour order pattern
+[BKBKBKGKRKGKBKR](/stripes/bkbkbkgkrkgkbkr/). It is recorded as a single **variant**, below.
+First attested **1770**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [77th Regiment](/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/) ★ | 1770 | ![77th Regiment sett](/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/sett.png) |

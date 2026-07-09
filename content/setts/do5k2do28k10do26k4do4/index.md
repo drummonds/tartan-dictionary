@@ -1,5 +1,12 @@
 ---
 title: "Dunbar, John Telfer (Personal)"
-redirect: "/variants/s7/do5k2do28k10do26k4do4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dunbar, John Telfer (Personal)](/variants/s7/do5k2do28k10do26k4do4~x2/).
+This is the **Dunbar, John Telfer (Personal)** sett — one scale-free proportion (`do5k2do28k10do26k4do4`), colour order pattern
+[BKBKBKB](/stripes/bkbkbkb/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dunbar, John Telfer (Personal)](/variants/s7/do5k2do28k10do26k4do4~x2/) ★ | 2002 | ![Dunbar, John Telfer (Personal) sett](/variants/s7/do5k2do28k10do26k4do4~x2/sett.png) |

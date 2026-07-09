@@ -1,5 +1,12 @@
 ---
 title: "Graeme Heckenberg Hunting"
-redirect: "/variants/s7/db3g13lb1r3lb1db10y1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Graeme Heckenberg Hunting](/variants/s7/db3g13lb1r3lb1db10y1~x2/).
+This is the **Graeme Heckenberg Hunting** sett — one scale-free proportion (`db3g13lb1r3lb1db10y1`), colour order pattern
+[BGWRWBG](/stripes/bgwrwbg/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Graeme Heckenberg Hunting](/variants/s7/db3g13lb1r3lb1db10y1~x2/) ★ | 2011 | ![Graeme Heckenberg Hunting sett](/variants/s7/db3g13lb1r3lb1db10y1~x2/sett.png) |

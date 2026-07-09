@@ -1,5 +1,12 @@
 ---
 title: "Law of Heather Athol (Personal)"
-redirect: "/variants/s12/db6r2db2r4db24g11r4g2r2g3k1y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Law of Heather Athol (Personal)](/variants/s12/db6r2db2r4db24g11r4g2r2g3k1y2~x2/).
+This is the **Law of Heather Athol (Personal)** sett — one scale-free proportion (`db6r2db2r4db24g11r4g2r2g3k1y2`), colour order pattern
+[BRBRBGRGRGKG](/stripes/brbrbgrgrgkg/). It is recorded as a single **variant**, below.
+First attested **1986**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Law of Heather Athol (Personal)](/variants/s12/db6r2db2r4db24g11r4g2r2g3k1y2~x2/) ★ | 1986 | ![Law of Heather Athol (Personal) sett](/variants/s12/db6r2db2r4db24g11r4g2r2g3k1y2~x2/sett.png) |

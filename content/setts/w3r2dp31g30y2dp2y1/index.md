@@ -1,5 +1,12 @@
 ---
 title: "Caig (Corporate)"
-redirect: "/variants/s7/w3r2dp31g30y2dp2y1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Caig (Corporate)](/variants/s7/w3r2dp31g30y2dp2y1~x2/).
+This is the **Caig (Corporate)** sett — one scale-free proportion (`w3r2dp31g30y2dp2y1`), colour order pattern
+[GBGGBRW](/stripes/gbggbrw/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Caig (Corporate)](/variants/s7/w3r2dp31g30y2dp2y1~x2/) ★ | ~2007 | ![Caig (Corporate) sett](/variants/s7/w3r2dp31g30y2dp2y1~x2/sett.png) |

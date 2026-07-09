@@ -1,14 +1,16 @@
 ---
 title: "Unnamed Brown (Teddy Bear)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unnamed Brown (Teddy Bear)"
-  url: ""
+  url: "/setts/r1o7oi25o7r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1o7oi25o7r1/)
-(the same proportion at any scale), whose colour order is pattern [RRRRR](/stripes/rrrrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r1o7oi25o7r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRRRR](/stripes/rrrrr/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

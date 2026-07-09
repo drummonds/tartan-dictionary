@@ -1,5 +1,12 @@
 ---
 title: "Oman, Sultanate of / Oliver dress"
-redirect: "/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Oman, Sultanate of / Oliver dress](/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/).
+This is the **Oman, Sultanate of / Oliver dress** sett — one scale-free proportion (`dy9lb3dy6lb3dy20ly2`), colour order pattern
+[GWGWGYGWGW](/stripes/gwgwgygwgw/). It is recorded as a single **variant**, below.
+First attested **1960**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Oman, Sultanate of / Oliver dress](/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/) ★ | 1960 | ![Oman, Sultanate of / Oliver dress sett](/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/sett.png) |

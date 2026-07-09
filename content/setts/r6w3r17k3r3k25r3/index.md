@@ -1,5 +1,12 @@
 ---
 title: "Bon Accord"
-redirect: "/variants/s7/r6w3r17k3r3k25r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bon Accord](/variants/s7/r6w3r17k3r3k25r3~x2/).
+This is the **Bon Accord** sett — one scale-free proportion (`r6w3r17k3r3k25r3`), colour order pattern
+[RKRKRWR](/stripes/rkrkrwr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bon Accord](/variants/s7/r6w3r17k3r3k25r3~x2/) ★ | ~2016 | ![Bon Accord sett](/variants/s7/r6w3r17k3r3k25r3~x2/sett.png) |

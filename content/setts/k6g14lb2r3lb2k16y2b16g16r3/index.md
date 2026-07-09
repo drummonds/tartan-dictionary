@@ -1,5 +1,12 @@
 ---
 title: "Unnamed 4"
-redirect: "/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unnamed 4](/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/).
+This is the **Unnamed 4** sett — one scale-free proportion (`k6g14lb2r3lb2k16y2b16g16r3`), colour order pattern
+[KGWRWKGBGR](/stripes/kgwrwkgbgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unnamed 4](/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/) ★ | ~2016 | ![Unnamed 4 sett](/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/sett.png) |

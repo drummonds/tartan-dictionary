@@ -1,14 +1,16 @@
 ---
 title: "Hillsdale (Corporate?)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hillsdale (Corporate?)"
-  url: ""
+  url: "/setts/db13n6dr51db51n5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db13n6dr51db51n5/)
-(the same proportion at any scale), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db13n6dr51db51n5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dr10db10lo1~x4/"><circle cx="493.5" cy="328.5" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><a href="/variants/s5/dr30db10dr3db30m3~x2/"><circle cx="448.0" cy="270.2" r="4" fill="#3465a4"><title>Feniston (Personal)</title></circle></a><a href="/variants/s5/n16dr2n10dr14lb5~x2/"><circle cx="407.5" cy="315.9" r="4" fill="#3465a4"><title>Mowbray (Personal)</title></circle></a><a href="/variants/s5/n9db3n1db11n1~x6/"><circle cx="524.9" cy="307.0" r="4" fill="#3465a4"><title>MacCallum, High School</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.8" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.9" cy="285.9" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="452.2" cy="312.5" r="4" fill="#3465a4"><title>Highland Spirit (Fashion)</title></circle></a><a href="/variants/s6/lb2db20n2dt15dr9lb2~x2/"><circle cx="308.3" cy="254.2" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.7" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><circle cx="481.5" cy="298.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dr10db10lo1~x4/"><circle cx="493.6" cy="328.5" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><a href="/variants/s5/dr30db10dr3db30m3~x2/"><circle cx="448.0" cy="270.2" r="4" fill="#3465a4"><title>Feniston (Personal)</title></circle></a><a href="/variants/s5/n16dr2n10dr14lb5~x2/"><circle cx="407.6" cy="315.9" r="4" fill="#3465a4"><title>Mowbray (Personal)</title></circle></a><a href="/variants/s5/n9db3n1db11n1~x6/"><circle cx="524.9" cy="307.0" r="4" fill="#3465a4"><title>MacCallum, High School</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.9" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.9" cy="285.9" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="452.3" cy="312.5" r="4" fill="#3465a4"><title>Highland Spirit (Fashion)</title></circle></a><a href="/variants/s6/lb2db20n2dt15dr9lb2~x2/"><circle cx="308.3" cy="254.1" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.8" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><circle cx="481.6" cy="298.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db13n6dr51db51n5~x2/

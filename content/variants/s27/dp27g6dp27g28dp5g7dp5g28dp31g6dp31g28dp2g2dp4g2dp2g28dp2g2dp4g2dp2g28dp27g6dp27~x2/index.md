@@ -1,14 +1,16 @@
 ---
 title: "MacRae/Rae"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacRae/Rae"
-  url: ""
+  url: "/setts/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
 
 Sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s27/dp14g3dp14g14dp3g3dp3g14dp16g3dp16g14dp1g1dp2g1dp1g14dp1g1dp2g1dp1g14dp14g3dp14~x2/"><circle cx="380.3" cy="179.0" r="4" fill="#3465a4"><title>MacRae (Rae)</title></circle></a><a href="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/"><circle cx="331.7" cy="161.6" r="4" fill="#3465a4"><title>MacRae (MacCrae)</title></circle></a><a href="/variants/s21/g4dr4g2dr2g2dr18db4g4dr2g2dr2g3dr4g2dr2g2dr2db4g4dr2g4~x2/"><circle cx="330.0" cy="197.6" r="4" fill="#3465a4"><title>Matheson (WCWM)</title></circle></a><circle cx="374.9" cy="180.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s27/dp14g3dp14g14dp3g3dp3g14dp16g3dp16g14dp1g1dp2g1dp1g14dp1g1dp2g1dp1g14dp14g3dp14~x2/"><circle cx="380.3" cy="178.9" r="4" fill="#3465a4"><title>MacRae (Rae)</title></circle></a><a href="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/"><circle cx="331.7" cy="161.5" r="4" fill="#3465a4"><title>MacRae (MacCrae)</title></circle></a><a href="/variants/s21/g4dr4g2dr2g2dr18db4g4dr2g2dr2g3dr4g2dr2g2dr2db4g4dr2g4~x2/"><circle cx="330.0" cy="197.5" r="4" fill="#3465a4"><title>Matheson (WCWM)</title></circle></a><circle cx="374.9" cy="180.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s27/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27~x2/

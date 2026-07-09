@@ -1,5 +1,12 @@
 ---
 title: "Springbok (Fashion)"
-redirect: "/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Springbok (Fashion)](/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/).
+This is the **Springbok (Fashion)** sett — one scale-free proportion (`dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2`), colour order pattern
+[GGGGGGWGGYYW](/stripes/ggggggwggyyw/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Springbok (Fashion)](/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/) ★ | 2010 | ![Springbok (Fashion) sett](/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/sett.png) |

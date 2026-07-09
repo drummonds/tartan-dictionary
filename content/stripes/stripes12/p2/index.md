@@ -3,7 +3,7 @@ title: 12 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 12
 ---
-1,010 setts across 959 tartans with 12 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,011 setts across 960 tartans with 12 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes12/">‹ prev</a> <a href="/stripes/stripes12/">1</a> <strong>2</strong> <a href="/stripes/stripes12/p3/">3</a> <a href="/stripes/stripes12/p4/">4</a> <a href="/stripes/stripes12/p3/">next ›</a></nav>
 
 ### BBBKBKBBKBWB
@@ -53,7 +53,7 @@ weight: 12
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Denovan, The Lairdship of (Personal)](/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/) | register-of-tartans |
+| 0.08 | [MacDonald of Dunyveg Family Tartan](/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/) | house-of-tartan |
 
 ### BBBRBWBBBBBW
 <a class="pat" href="/stripes/bbbrbwbbbbbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BBBRBWBBBBBW</span></a>
@@ -382,7 +382,7 @@ weight: 12
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.16 | [Harmony 1](/variants/s12/do11g3do4y3do3y4do3dy13ly34g3ly4dr3~x2/) | register-of-tartans |
+| 0.16 | [Harmony 1 Trade Tartan](/variants/s12/do11g3do4y3do3y4do3dy13ly34g3ly4dr3~x2/) | house-of-tartan |
 
 ### BGBGBGBRWRWR
 <a class="pat" href="/stripes/bgbgbgbrwrwr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">BGBGBGBRWRWR</span></a>
@@ -466,7 +466,7 @@ weight: 12
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Queens University, of Ontario](/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/) | weddslist |
+| 0.10 | [Queens University of Ontario Corporate Tartan](/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/) | house-of-tartan |
 
 ### BGBGBWBWBWBW
 <a class="pat" href="/stripes/bgbgbwbwbwbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BGBGBWBWBWBW</span></a>
@@ -515,7 +515,7 @@ weight: 12
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Quebec, Plaid Du](/variants/s12/db25g5db2y2k2r3g20r20db2w2k2r2~x2/) | weddslist |
+| 0.07 | [Quebec Plaid Du.. Corporate Tartan](/variants/s12/db25g5db2y2k2r3g20r20db2w2k2r2~x2/) | house-of-tartan |
 
 ### BGBGRBGBGBWB
 <a class="pat" href="/stripes/bgbgrbgbgbwb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">BGBGRBGBGBWB</span></a>
@@ -935,7 +935,7 @@ weight: 12
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Grey Watch](/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/) | weddslist |
+| 0.05 | [Grey Watch Trade Tartan](/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/) | house-of-tartan |
 
 ### BKBKBYGBBGWK
 <a class="pat" href="/stripes/bkbkbygbbgwk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBKBYGBBGWK</span></a>
@@ -1208,7 +1208,7 @@ weight: 12
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Lady Diana Plaid](/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/) | register-of-tartans |
+| 0.09 | [Lady Diana Plaid Trade or Fancy Tartan](/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/) | house-of-tartan |
 
 ### BRBBKBKBKBKW
 <a class="pat" href="/stripes/brbbkbkbkbkw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BRBBKBKBKBKW</span></a>

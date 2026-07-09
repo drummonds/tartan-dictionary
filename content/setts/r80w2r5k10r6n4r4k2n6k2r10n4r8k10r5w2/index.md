@@ -1,5 +1,12 @@
 ---
 title: "Hampden-Sydney College"
-redirect: "/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hampden-Sydney College](/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/).
+This is the **Hampden-Sydney College** sett — one scale-free proportion (`r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2`), colour order pattern
+[RWRKRBRKBKRBRKRW](/stripes/rwrkrbrkbkrbrkrw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Hampden-Sydney College](/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/) ★ | 2013 | ![Hampden-Sydney College sett](/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/sett.png) |

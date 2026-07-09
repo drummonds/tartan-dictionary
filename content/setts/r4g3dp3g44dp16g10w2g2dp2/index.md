@@ -1,5 +1,12 @@
 ---
 title: "Glenfeshie (Personal)"
-redirect: "/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glenfeshie (Personal)](/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/).
+This is the **Glenfeshie (Personal)** sett — one scale-free proportion (`r4g3dp3g44dp16g10w2g2dp2`), colour order pattern
+[BGWGBGBGR](/stripes/bgwgbgbgr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glenfeshie (Personal)](/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/) ★ | 2003 | ![Glenfeshie (Personal) sett](/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/sett.png) |

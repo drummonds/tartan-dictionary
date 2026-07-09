@@ -1,5 +1,12 @@
 ---
 title: "Dunanas Rising (Corporate)"
-redirect: "/variants/s5/dg35g25r15t2db21~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dunanas Rising (Corporate)](/variants/s5/dg35g25r15t2db21~x2/).
+This is the **Dunanas Rising (Corporate)** sett — one scale-free proportion (`dg35g25r15t2db21`), colour order pattern
+[BBRGG](/stripes/bbrgg/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dunanas Rising (Corporate)](/variants/s5/dg35g25r15t2db21~x2/) ★ | 2013 | ![Dunanas Rising (Corporate) sett](/variants/s5/dg35g25r15t2db21~x2/sett.png) |

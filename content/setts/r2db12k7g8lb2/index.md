@@ -1,5 +1,12 @@
 ---
 title: "Forbo Nairn"
-redirect: "/variants/s5/r2db12k7g8lb2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Forbo Nairn](/variants/s5/r2db12k7g8lb2~x4/).
+This is the **Forbo Nairn** sett — one scale-free proportion (`r2db12k7g8lb2`), colour order pattern
+[RBKGW](/stripes/rbkgw/). It is recorded as a single **variant**, below.
+First attested **1995**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Forbo Nairn](/variants/s5/r2db12k7g8lb2~x4/) ★ | 1995 | ![Forbo Nairn sett](/variants/s5/r2db12k7g8lb2~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Clergy (WCWM)"
-redirect: "/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Clergy (WCWM)](/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/).
+This is the **Clergy (WCWM)** sett — one scale-free proportion (`y1db4y1db3y1k8y1k8db6y1db1y1`), colour order pattern
+[GBGBGKGKBGBG](/stripes/gbgbgkgkbgbg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Clergy (WCWM)](/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/) ★ | 2002 | ![Clergy (WCWM) sett](/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/sett.png) |

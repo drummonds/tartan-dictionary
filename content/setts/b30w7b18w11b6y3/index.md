@@ -1,5 +1,12 @@
 ---
 title: "Ochterlonie"
-redirect: "/variants/s6/b30w7b18w11b6y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ochterlonie](/variants/s6/b30w7b18w11b6y3~x2/).
+This is the **Ochterlonie** sett — one scale-free proportion (`b30w7b18w11b6y3`), colour order pattern
+[BWBWBG](/stripes/bwbwbg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ochterlonie](/variants/s6/b30w7b18w11b6y3~x2/) ★ | ~2016 | ![Ochterlonie sett](/variants/s6/b30w7b18w11b6y3~x2/sett.png) |

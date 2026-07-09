@@ -1,14 +1,16 @@
 ---
 title: "Commonwealth Variation"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Commonwealth Variation"
-  url: ""
+  url: "/setts/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBKYKYKBBB](/stripes/bbbbbkykykbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBKYKYKBBB](/stripes/bbbbbkykykbbb/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.9" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/"><circle cx="128.2" cy="195.5" r="4" fill="#3465a4"><title>Wilson's No.076</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="78.8" cy="180.7" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><circle cx="143.3" cy="196.9" r="4" fill="#3465a4"><title>Poulter, Jet Black (Corporate)</title></circle></a><a href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="90.8" cy="178.7" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><circle cx="131.3" cy="224.6" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/variants/s8/db20w3db3w3db3w3k5dy10~x2/"><circle cx="147.3" cy="163.1" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><a href="/variants/s7/db9k7n5r1n5k1n2~x4/"><circle cx="187.2" cy="191.7" r="4" fill="#3465a4"><title>Greyhound Grenadiers #2</title></circle></a><circle cx="135.0" cy="186.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.8" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/"><circle cx="128.2" cy="195.4" r="4" fill="#3465a4"><title>Wilson's No.076</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="78.8" cy="180.6" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><circle cx="143.3" cy="196.8" r="4" fill="#3465a4"><title>Poulter, Jet Black (Corporate)</title></circle></a><a href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="90.8" cy="178.6" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><circle cx="131.4" cy="224.5" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/variants/s8/db20w3db3w3db3w3k5dy10~x2/"><circle cx="147.3" cy="163.0" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><a href="/variants/s7/db9k7n5r1n5k1n2~x4/"><circle cx="187.2" cy="191.6" r="4" fill="#3465a4"><title>Greyhound Grenadiers #2</title></circle></a><circle cx="135.0" cy="185.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/

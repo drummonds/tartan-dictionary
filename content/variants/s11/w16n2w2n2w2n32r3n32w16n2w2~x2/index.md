@@ -1,14 +1,16 @@
 ---
 title: "MacLachlan, Marled Dress (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLachlan, Marled Dress (Fashion)"
-  url: ""
+  url: "/setts/w16n2w2n2w2n32r3n32w16n2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w16n2w2n2w2n32r3n32w16n2w2/)
-(the same proportion at any scale), whose colour order is pattern [WBWBRBWBWBW](/stripes/wbwbrbwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w16n2w2n2w2n32r3n32w16n2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWBRBWBWBW](/stripes/wbwbrbwbwbw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4~w4000000/"><circle cx="364.6" cy="163.1" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4/"><circle cx="367.1" cy="163.9" r="4" fill="#3465a4"><title>Frame (Name)</title></circle></a><a href="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/"><circle cx="379.6" cy="120.4" r="4" fill="#3465a4"><title>Shaw of Tordarroch, Mrs (Personal)</title></circle></a><a href="/variants/s11/w16dy2w2dy2w2dy32g3dy32w16dy2w2~x2/"><circle cx="375.0" cy="161.6" r="4" fill="#3465a4"><title>MacLachlan, Brown Dress (Fashion)</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.7" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.2" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s9/t12ly1w16t1w1t14w3t14r2~x4/"><circle cx="375.5" cy="185.3" r="4" fill="#3465a4"><title>Orlando Dress, City of (District)</title></circle></a><circle cx="389.3" cy="161.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4~w4000000/"><circle cx="364.6" cy="163.0" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4/"><circle cx="367.0" cy="163.8" r="4" fill="#3465a4"><title>Frame (Name)</title></circle></a><a href="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/"><circle cx="379.6" cy="120.3" r="4" fill="#3465a4"><title>Shaw of Tordarroch, Mrs (Personal)</title></circle></a><a href="/variants/s11/w16dy2w2dy2w2dy32g3dy32w16dy2w2~x2/"><circle cx="375.0" cy="161.5" r="4" fill="#3465a4"><title>MacLachlan, Brown Dress (Fashion)</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.6" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.1" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s9/t12ly1w16t1w1t14w3t14r2~x4/"><circle cx="375.5" cy="185.2" r="4" fill="#3465a4"><title>Orlando Dress, City of (District)</title></circle></a><circle cx="389.3" cy="161.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w16n2w2n2w2n32r3n32w16n2w2~x2/

@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/setts/k11g17r3/">Kincaid</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/k11g17r3/"><img src="/variants/s3/k11g17r3/sett.png" alt="Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k4g6r1~x10/">Kincaid, of Kincaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k4g6r1~x10/"><img src="/variants/s3/k4g6r1~x10/sett.png" alt="Kincaid, of Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k4g6r1~x10/">Kincaid of Kincaid Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k4g6r1~x10/"><img src="/variants/s3/k4g6r1~x10/sett.png" alt="Kincaid of Kincaid Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s3/k27dg10r2~x4/">The Caledonian Hotel</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/k27dg10r2~x4/"><img src="/variants/s3/k27dg10r2~x4/sett.png" alt="The Caledonian Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s3/k11g9r10~x2/">Wilson's No.204</a></td></tr>

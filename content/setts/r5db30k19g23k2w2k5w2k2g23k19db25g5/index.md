@@ -1,5 +1,12 @@
 ---
 title: "Loch Carron"
-redirect: "/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Loch Carron](/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/).
+This is the **Loch Carron** sett — one scale-free proportion (`r5db30k19g23k2w2k5w2k2g23k19db25g5`), colour order pattern
+[GBKGKWKWKGKBR](/stripes/gbkgkwkwkgkbr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Loch Carron](/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/) ★ | 2002 | ![Loch Carron sett](/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/sett.png) |

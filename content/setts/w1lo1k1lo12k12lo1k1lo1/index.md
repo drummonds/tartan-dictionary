@@ -1,5 +1,12 @@
 ---
 title: "Johnston Orange/Black (Corporate)"
-redirect: "/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Johnston Orange/Black (Corporate)](/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/).
+This is the **Johnston Orange/Black (Corporate)** sett — one scale-free proportion (`w1lo1k1lo12k12lo1k1lo1`), colour order pattern
+[WYKYKYKY](/stripes/wykykyky/). It is recorded as a single **variant**, below.
+First attested **1945**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Johnston Orange/Black (Corporate)](/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/) ★ | 1945 | ![Johnston Orange/Black (Corporate) sett](/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/sett.png) |

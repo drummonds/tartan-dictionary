@@ -2,15 +2,15 @@
 title: "Stuart/Stewart of Appin Dress"
 date: 2023-03-18
 ---
-The **Stuart/Stewart of Appin Dress** tartan is one sett proportion (`db8r3db34lb3k9w31r5w3r3w8`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRBWKWRWRW](/stripes/brbwkwrwrw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Stuart/Stewart of Appin Dress** sett — one scale-free proportion (`db8r3db34lb3k9w31r5w3r3w8`), colour order pattern
+[BRBWKWRWRW](/stripes/brbwkwrwrw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2003**.
 
-Part of the [Stewart of Appin Dress](/tartans/stewart-of-appin-dress/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Stewart of Appin Dress](/tartans/stewart-of-appin-dress/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [Stuart/Stewart of Appin Dress](/variants/s10/db8r3db34lb3k9w31r5w3r3w8/) ★ | ~2016 | ![Stuart/Stewart of Appin Dress sett](/variants/s10/db8r3db34lb3k9w31r5w3r3w8/sett.png) |
-| ×2 | [Stewart of Appin Dress Clan Tartan](/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/) | ~2016 | ![Stewart of Appin Dress Clan Tartan sett](/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/sett.png) |
+| ×2 | [Stewart of Appin Dress Clan Tartan](/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/) ★ | ~2003 | ![Stewart of Appin Dress Clan Tartan sett](/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/sett.png) |
+| ×1 | [Stuart/Stewart of Appin Dress](/variants/s10/db8r3db34lb3k9w31r5w3r3w8/) | ~2016 | ![Stuart/Stewart of Appin Dress sett](/variants/s10/db8r3db34lb3k9w31r5w3r3w8/sett.png) |

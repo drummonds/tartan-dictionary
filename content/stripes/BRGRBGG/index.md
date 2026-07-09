@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/setts/y2g12db6r3g12r4db1/">MacKintosh Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/y2g12db6r3g12r4db1/"><img src="/variants/s7/y2g12db6r3g12r4db1/sett.png" alt="MacKintosh Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db1r3g11r2db5g11y1~x2/">MacKintosh, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db1r3g11r2db5g11y1~x2/"><img src="/variants/s7/db1r3g11r2db5g11y1~x2/sett.png" alt="MacKintosh, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db1r3g11r2db5g11y1~x2/">MacKintosh Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db1r3g11r2db5g11y1~x2/"><img src="/variants/s7/db1r3g11r2db5g11y1~x2/sett.png" alt="MacKintosh Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

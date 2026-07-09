@@ -1,5 +1,12 @@
 ---
 title: "Wilson's No.199"
-redirect: "/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's No.199](/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/).
+This is the **Wilson's No.199** sett — one scale-free proportion (`dp11r3dg15r3dp11y2`), colour order pattern
+[BRGRBGBRGRBG](/stripes/brgrbgbrgrbg/). It is recorded as a single **variant**, below.
+First attested **1819**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's No.199](/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/) ★ | 1819 | ![Wilson's No.199 sett](/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/sett.png) |

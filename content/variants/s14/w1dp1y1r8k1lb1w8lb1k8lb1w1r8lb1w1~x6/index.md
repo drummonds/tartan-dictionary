@@ -1,16 +1,18 @@
 ---
 title: "Praetorian (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Praetorian"
   url: "/tartans/praetorian/"
 - name: "Praetorian (Fashion)"
-  url: ""
+  url: "/setts/w1dp1y1r8k1lb1w8lb1k8lb1w1r8lb1w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1dp1y1r8k1lb1w8lb1k8lb1w1r8lb1w1/)
-(the same proportion at any scale), whose colour order is pattern [WBGRKWWWKWWRWW](/stripes/wbgrkwwwkwwrww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w1dp1y1r8k1lb1w8lb1k8lb1w1r8lb1w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGRKWWWKWWRWW](/stripes/wbgrkwwwkwwrww/).
 
 Part of the [Praetorian](/tartans/praetorian/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/"><circle cx="91.6" cy="111.1" r="4" fill="#3465a4"><title>Praetorian</title></circle></a><a href="/variants/s18/k2lr6y2lr2y2lr19t2dg2t2lr2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><circle cx="132.2" cy="105.1" r="4" fill="#3465a4"><title>Harmon Dress</title></circle></a><a href="/variants/s11/r27w2r3b4r3w2r5k13ri2w26dg3~x2~r2109032-ri2806019/"><circle cx="148.1" cy="98.3" r="4" fill="#3465a4"><title>MacKellar Dress Red</title></circle></a><a href="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/"><circle cx="97.4" cy="116.7" r="4" fill="#3465a4"><title>Praetorian Imperator</title></circle></a><a href="/variants/s19/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2~x2/"><circle cx="116.8" cy="103.3" r="4" fill="#3465a4"><title>Harmon Dress (Personal)</title></circle></a><a href="/variants/s19/k2lr6y2lr2y2lr19db2dg2db2lr2dr4k2dr11dg2dr2dg2dr11dg2y2~x2~db1406275-dg1806142/"><circle cx="119.2" cy="103.5" r="4" fill="#3465a4"><title>Harmon Dress Name Tartan</title></circle></a><a href="/variants/s13/r4w16lb5k5y2k2w2k2g5r5k2r2w2~x2/"><circle cx="62.7" cy="131.4" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="121.0" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/"><circle cx="116.8" cy="88.3" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.2" cy="138.8" r="4" fill="#3465a4"><title>Kidd</title></circle></a><circle cx="91.6" cy="111.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/"><circle cx="91.6" cy="110.9" r="4" fill="#3465a4"><title>Praetorian</title></circle></a><a href="/variants/s18/k2lr6y2lr2y2lr19t2dg2t2lr2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><circle cx="132.2" cy="104.9" r="4" fill="#3465a4"><title>Harmon Dress</title></circle></a><a href="/variants/s11/r27w2r3b4r3w2r5k13ri2w26dg3~x2~r2109032-ri2806019/"><circle cx="148.1" cy="98.1" r="4" fill="#3465a4"><title>MacKellar Dress Red</title></circle></a><a href="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/"><circle cx="97.4" cy="116.6" r="4" fill="#3465a4"><title>Praetorian Imperator</title></circle></a><a href="/variants/s19/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2~x2/"><circle cx="116.8" cy="103.1" r="4" fill="#3465a4"><title>Harmon Dress (Personal)</title></circle></a><a href="/variants/s19/k2lr6y2lr2y2lr19db2dg2db2lr2dr4k2dr11dg2dr2dg2dr11dg2y2~x2~db1406275-dg1806142/"><circle cx="119.2" cy="103.4" r="4" fill="#3465a4"><title>Harmon Dress Name Tartan</title></circle></a><a href="/variants/s13/r4w16lb5k5y2k2w2k2g5r5k2r2w2~x2/"><circle cx="62.7" cy="131.3" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="120.9" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/"><circle cx="116.7" cy="88.1" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.2" cy="138.7" r="4" fill="#3465a4"><title>Kidd</title></circle></a><circle cx="91.6" cy="110.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w1dp1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/

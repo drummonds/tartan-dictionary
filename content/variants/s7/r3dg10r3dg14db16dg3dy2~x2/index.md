@@ -1,14 +1,16 @@
 ---
 title: "Cameron of Locheil Htg (1952) (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cameron of Locheil Htg (1952) (Clan)"
-  url: ""
+  url: "/setts/r3dg10r3dg14db16dg3dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg10r3dg14db16dg3dy2/)
-(the same proportion at any scale), whose colour order is pattern [GGBGRGR](/stripes/ggbgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3dg10r3dg14db16dg3dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGRGR](/stripes/ggbgrgr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="286.0" cy="236.5" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.8" cy="187.1" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><circle cx="361.5" cy="237.7" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.5" cy="237.7" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/variants/s6/db37r10dg22db11dg3r3~x2/"><circle cx="381.7" cy="235.0" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/variants/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="346.9" cy="235.9" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/variants/s6/dy15r5dy30db32dy4y3~x2/"><circle cx="409.2" cy="243.2" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan</title></circle></a><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="388.5" cy="235.9" r="4" fill="#3465a4"><title>Cameron Hunting (Clan)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><circle cx="345.8" cy="248.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="286.0" cy="236.4" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.9" cy="187.0" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><circle cx="361.6" cy="237.6" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.6" cy="237.6" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/variants/s6/db37r10dg22db11dg3r3~x2/"><circle cx="381.7" cy="234.9" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/variants/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="346.9" cy="235.9" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/variants/s6/dy15r5dy30db32dy4y3~x2/"><circle cx="409.2" cy="243.1" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan</title></circle></a><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="388.5" cy="235.9" r="4" fill="#3465a4"><title>Cameron Hunting (Clan)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.3" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><circle cx="345.8" cy="248.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3dg10r3dg14db16dg3dy2~x2/

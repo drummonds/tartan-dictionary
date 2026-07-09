@@ -1,14 +1,16 @@
 ---
 title: "Stevens #4"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stevens #4"
-  url: ""
+  url: "/setts/dp27y2k3ly2k2w2k2n6dp3k2dp2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp27y2k3ly2k2w2k2n6dp3k2dp2w2/)
-(the same proportion at any scale), whose colour order is pattern [BGKYKWKBBKBW](/stripes/bgkykwkbbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp27y2k3ly2k2w2k2n6dp3k2dp2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKYKWKBBKBW](/stripes/bgkykwkbbkbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g5db2k2db29r2db2r15y2db4w2~x2/"><circle cx="269.6" cy="101.4" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/"><circle cx="250.1" cy="82.3" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/"><circle cx="251.1" cy="82.8" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/"><circle cx="251.1" cy="82.8" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/"><circle cx="204.2" cy="86.8" r="4" fill="#3465a4"><title>Hueg Scottish Blue Thistle (Personal</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/"><circle cx="267.9" cy="113.5" r="4" fill="#3465a4"><title>University of Edinburgh Business School, The</title></circle></a><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><circle cx="240.9" cy="101.9" r="4" fill="#3465a4"><title>Me to You</title></circle></a><a href="/variants/s10/dp1k1w1dp10y1db2k1db2w1y1~x8/"><circle cx="237.6" cy="129.3" r="4" fill="#3465a4"><title>Regan</title></circle></a><a href="/variants/s11/dp4dg2dp24dg8k2r2k2y2k10dp2w3~x2/"><circle cx="204.2" cy="109.3" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.5" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><circle cx="259.4" cy="79.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g5db2k2db29r2db2r15y2db4w2~x2/"><circle cx="269.7" cy="101.2" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/"><circle cx="250.1" cy="82.2" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/"><circle cx="251.1" cy="82.6" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/"><circle cx="251.1" cy="82.6" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/"><circle cx="204.2" cy="86.7" r="4" fill="#3465a4"><title>Hueg Scottish Blue Thistle (Personal</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/"><circle cx="268.0" cy="113.4" r="4" fill="#3465a4"><title>University of Edinburgh Business School, The</title></circle></a><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><circle cx="241.0" cy="101.8" r="4" fill="#3465a4"><title>Me to You</title></circle></a><a href="/variants/s10/dp1k1w1dp10y1db2k1db2w1y1~x8/"><circle cx="237.6" cy="129.1" r="4" fill="#3465a4"><title>Regan</title></circle></a><a href="/variants/s11/dp4dg2dp24dg8k2r2k2y2k10dp2w3~x2/"><circle cx="204.3" cy="109.2" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.3" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><circle cx="259.4" cy="79.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/

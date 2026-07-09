@@ -1,14 +1,16 @@
 ---
 title: "Loch Tummel"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Tummel"
-  url: ""
+  url: "/setts/dy38w9dy3k9w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy38w9dy3k9w3/)
-(the same proportion at any scale), whose colour order is pattern [GWGKW](/stripes/gwgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy38w9dy3k9w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGKW](/stripes/gwgkw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="388.5" cy="186.0" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="152.1" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s5/dr38w9dr3k9w3~x2/"><circle cx="356.2" cy="176.5" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.6" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="358.0" cy="174.1" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="326.9" cy="174.6" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="431.3" cy="189.4" r="4" fill="#3465a4"><title>Coca Cola US Corporate Tartan</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="185.5" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.4" cy="177.9" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.4" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><circle cx="348.5" cy="179.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="388.5" cy="185.9" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="152.0" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s5/dr38w9dr3k9w3~x2/"><circle cx="356.2" cy="176.4" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.5" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="358.0" cy="174.1" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="326.9" cy="174.6" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="431.3" cy="189.4" r="4" fill="#3465a4"><title>Coca Cola US Corporate Tartan</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="185.4" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.5" cy="177.8" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.3" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><circle cx="348.5" cy="179.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dy38w9dy3k9w3~x2/

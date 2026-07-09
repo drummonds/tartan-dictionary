@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/">Catalan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/"><img src="/variants/s14/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/sett.png" alt="Catalan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/">Catalan District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/"><img src="/variants/s14/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/sett.png" alt="Catalan District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/">Menzies Brown &amp; White</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/"><img src="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/sett.png" alt="Menzies Brown &amp; White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/">Menzies Brown &amp; White Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/"><img src="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/sett.png" alt="Menzies Brown &amp; White Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/">O'Neill Pipe Band 1970 (Corporate)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><img src="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/sett.png" alt="O'Neill Pipe Band 1970 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

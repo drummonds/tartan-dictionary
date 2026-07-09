@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/">Mordente</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/"><img src="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/sett.png" alt="Mordente sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r2w1g1r16g7r1w1g1w1r1g7w2r1g2/">Mordente (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r2w1g1r16g7r1w1g1w1r1g7w2r1g2/"><img src="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/sett.png" alt="Mordente (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/">Mordente Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/"><img src="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/sett.png" alt="Mordente Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "Balfour blue & brown"
-redirect: "/variants/s6/db18y2o6y2o19r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Balfour blue & brown](/variants/s6/db18y2o6y2o19r3~x2/).
+This is the **Balfour blue & brown** sett — one scale-free proportion (`db18y2o6y2o19r3`), colour order pattern
+[BGRGRR](/stripes/bgrgrr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Balfour blue & brown](/variants/s6/db18y2o6y2o19r3~x2/) ★ | ~2016 | ![Balfour blue & brown sett](/variants/s6/db18y2o6y2o19r3~x2/sett.png) |

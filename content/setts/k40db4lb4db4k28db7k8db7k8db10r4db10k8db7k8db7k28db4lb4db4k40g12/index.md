@@ -1,5 +1,12 @@
 ---
 title: "Pride (Wales)"
-redirect: "/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pride (Wales)](/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/).
+This is the **Pride (Wales)** sett — one scale-free proportion (`k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12`), colour order pattern
+[GKBWBKBKBKBRBKBKBKBWBK](/stripes/gkbwbkbkbkbrbkbkbkbwbk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Pride (Wales)](/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/) ★ | 2002 | ![Pride (Wales) sett](/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/sett.png) |

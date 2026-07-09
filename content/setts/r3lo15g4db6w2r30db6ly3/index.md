@@ -1,5 +1,12 @@
 ---
 title: "Round Table Sweden"
-redirect: "/variants/s8/r3lo15g4db6w2r30db6ly3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Round Table Sweden](/variants/s8/r3lo15g4db6w2r30db6ly3~x2/).
+This is the **Round Table Sweden** sett — one scale-free proportion (`r3lo15g4db6w2r30db6ly3`), colour order pattern
+[RYGBWRBY](/stripes/rygbwrby/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Round Table Sweden](/variants/s8/r3lo15g4db6w2r30db6ly3~x2/) ★ | 2013 | ![Round Table Sweden sett](/variants/s8/r3lo15g4db6w2r30db6ly3~x2/sett.png) |

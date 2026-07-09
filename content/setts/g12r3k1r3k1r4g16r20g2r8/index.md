@@ -1,5 +1,14 @@
 ---
 title: "Livingston"
-redirect: "/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Livingston](/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/).
+This is the **Livingston** sett — one scale-free proportion (`g12r3k1r3k1r4g16r20g2r8`), colour order pattern
+[GRKRKRGRGR](/stripes/grkrkrgrgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Livingston](/tartans/livingston/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Livingston](/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/) ★ | ~2016 | ![Livingston sett](/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/sett.png) |

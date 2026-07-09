@@ -1,5 +1,14 @@
 ---
 title: "Forbes"
-redirect: "/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Forbes](/variants/s9/db28k3db6k3db6k20o28k3w6~x2/).
+This is the **Forbes** sett — one scale-free proportion (`db28k3db6k3db6k20o28k3w6`), colour order pattern
+[BKBKBKRKW](/stripes/bkbkbkrkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Forbes](/tartans/forbes-2/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Forbes](/variants/s9/db28k3db6k3db6k20o28k3w6~x2/) ★ | ~2016 | ![Forbes sett](/variants/s9/db28k3db6k3db6k20o28k3w6~x2/sett.png) |

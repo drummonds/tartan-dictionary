@@ -1,16 +1,18 @@
 ---
 title: "Pride of the Forth"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of the Forth"
   url: "/tartans/pride-of-the-forth/"
 - name: "Pride of the Forth"
-  url: ""
+  url: "/setts/k3n23k3n3k20lg3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3n23k3n3k20lg3/)
-(the same proportion at any scale), whose colour order is pattern [KBKBKY](/stripes/kbkbky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3n23k3n3k20lg3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKY](/stripes/kbkbky/).
 
 Part of the [Pride of the Forth](/tartans/pride-of-the-forth/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="261.5" cy="205.1" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.5" cy="186.5" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="292.0" cy="193.7" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.3" cy="197.8" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.6" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s6/k3n25k3n3k21n3~x2/"><circle cx="326.3" cy="214.2" r="4" fill="#3465a4"><title>Slanj, Grey (Corporate)</title></circle></a><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="290.3" cy="178.7" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.7" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.9" cy="208.2" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="293.9" cy="176.9" r="4" fill="#3465a4"><title>TACC</title></circle></a><circle cx="260.1" cy="205.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="261.5" cy="205.0" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.6" cy="186.4" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="292.0" cy="193.6" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.4" cy="197.7" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.5" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s6/k3n25k3n3k21n3~x2/"><circle cx="326.3" cy="214.2" r="4" fill="#3465a4"><title>Slanj, Grey (Corporate)</title></circle></a><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="290.3" cy="178.6" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.6" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.9" cy="208.1" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="293.9" cy="176.8" r="4" fill="#3465a4"><title>TACC</title></circle></a><circle cx="260.2" cy="205.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3n23k3n3k20lg3~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Druid (Corporate)"
-redirect: "/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Druid (Corporate)](/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/).
+This is the **Druid (Corporate)** sett — one scale-free proportion (`dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2`), colour order pattern
+[BBBGWGGWGRGWGWG](/stripes/bbbgwggwgrgwgwg/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Druid (Corporate)](/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/) ★ | 2008 | ![Druid (Corporate) sett](/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/sett.png) |

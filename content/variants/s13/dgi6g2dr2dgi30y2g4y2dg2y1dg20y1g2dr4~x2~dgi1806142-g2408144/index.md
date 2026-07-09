@@ -1,16 +1,18 @@
 ---
 title: "All Ireland Green (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "All Ireland"
   url: "/tartans/all-ireland/"
 - name: "All Ireland Green (Fashion)"
-  url: ""
+  url: "/setts/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4/)
-(the same proportion at any scale), whose colour order is pattern [BGGGGGGGGGBGG](/stripes/bgggggggggbgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGGGGGGGBGG](/stripes/bgggggggggbgg/).
 
 Part of the [All Ireland](/tartans/all-ireland/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4~x2~dgi1806142-g2408144/"><circle cx="418.5" cy="161.8" r="4" fill="#3465a4"><title>All Ireland Green</title></circle></a><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"><circle cx="352.0" cy="137.7" r="4" fill="#3465a4"><title>All Irish Green Irish District Tartan</title></circle></a><a href="/variants/s8/dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090/"><circle cx="393.1" cy="146.7" r="4" fill="#3465a4"><title>Hannigan of Dirleton (Personal)</title></circle></a><circle cx="412.0" cy="159.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4~x2~dgi1806142-g2408144/"><circle cx="418.6" cy="161.6" r="4" fill="#3465a4"><title>All Ireland Green</title></circle></a><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"><circle cx="352.0" cy="137.6" r="4" fill="#3465a4"><title>All Irish Green Irish District Tartan</title></circle></a><a href="/variants/s8/dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090/"><circle cx="393.1" cy="146.5" r="4" fill="#3465a4"><title>Hannigan of Dirleton (Personal)</title></circle></a><circle cx="412.1" cy="159.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/

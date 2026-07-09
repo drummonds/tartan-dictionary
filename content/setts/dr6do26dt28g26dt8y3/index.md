@@ -1,5 +1,12 @@
 ---
 title: "House of Bruar (Corporate)"
-redirect: "/variants/s6/dr6do26dt28g26dt8y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [House of Bruar (Corporate)](/variants/s6/dr6do26dt28g26dt8y3~x2/).
+This is the **House of Bruar (Corporate)** sett — one scale-free proportion (`dr6do26dt28g26dt8y3`), colour order pattern
+[BBBGBG](/stripes/bbbgbg/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [House of Bruar (Corporate)](/variants/s6/dr6do26dt28g26dt8y3~x2/) ★ | 1998 | ![House of Bruar (Corporate) sett](/variants/s6/dr6do26dt28g26dt8y3~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Glens of Corbie"
-redirect: "/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glens of Corbie](/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/).
+This is the **Glens of Corbie** sett — one scale-free proportion (`ly3dg30g20lo6g3lo3g3db20r2`), colour order pattern
+[RBGYGYGGY](/stripes/rbgygyggy/). It is recorded as a single **variant**, below.
+First attested **1987**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glens of Corbie](/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/) ★ | 1987 | ![Glens of Corbie sett](/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/sett.png) |

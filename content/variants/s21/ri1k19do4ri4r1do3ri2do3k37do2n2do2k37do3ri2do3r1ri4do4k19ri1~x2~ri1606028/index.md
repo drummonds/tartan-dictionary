@@ -1,14 +1,16 @@
 ---
 title: "Graeme Brodie Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Graeme Brodie Tartan"
-  url: ""
+  url: "/setts/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1/)
-(the same proportion at any scale), whose colour order is pattern [RKBRRBRBKBBBKBRBRRBKR](/stripes/rkbrrbrbkbbbkbrbrrbkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBRRBRBKBBBKBRBRRBKR](/stripes/rkbrrbrbkbbbkbrbrrbkr/).
 
 Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
@@ -23,7 +25,7 @@ Earliest known date: August 2002 Nothing
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>August 2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/"><circle cx="445.2" cy="68.1" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s11/o2dy2k37dy3dr2dy3r1dr4dy4k19dr1~x2~o2500000/"><circle cx="457.9" cy="74.6" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s12/db6k20dr3k20y1db2y1k25y1dr2y1dbi6~x2~db1404245-dbi1406275/"><circle cx="428.9" cy="100.4" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/"><circle cx="410.7" cy="46.1" r="4" fill="#3465a4"><title>Downs Dress (Personal)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.8" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><circle cx="441.9" cy="45.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/"><circle cx="445.2" cy="67.9" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s11/o2dy2k37dy3dr2dy3r1dr4dy4k19dr1~x2~o2500000/"><circle cx="457.9" cy="74.5" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s12/db6k20dr3k20y1db2y1k25y1dr2y1dbi6~x2~db1404245-dbi1406275/"><circle cx="428.9" cy="100.3" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/"><circle cx="410.7" cy="45.9" r="4" fill="#3465a4"><title>Downs Dress (Personal)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.6" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><circle cx="441.9" cy="45.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/

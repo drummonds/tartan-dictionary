@@ -1,6 +1,7 @@
 ---
 title: "Gordon Red.. Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Gordon"
   url: "/tartans/gordon-2/"
 - name: "Gordon Red.. Family Tartan"
-  url: ""
+  url: "/setts/dp16w2ri7w2k14lb6w2dp15w2g17lb6g6r8k6r8k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp16w2ri7w2k14lb6w2dp15w2g17lb6g6r8k6r8k2/)
-(the same proportion at any scale), whose colour order is pattern [BWRWKWWBWGWGRKRK](/stripes/bwrwkwwbwgwgrkrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp16w2ri7w2k14lb6w2dp15w2g17lb6g6r8k6r8k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRWKWWBWGWGRKRK](/stripes/bwrwkwwbwgwgrkrk/).
 
 Part of the [Gordon](/tartans/gordon-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -29,7 +31,7 @@ Earliest known date: pre 1819 Sample from the Telfer-Dunbar collection. Also kno
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1819 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dp16w2ri7w2k14lb6w2dp15w2dg17lb6dg6r8k6r8k2~x2~ri2806019-r2108022/"><circle cx="14.0" cy="106.7" r="4" fill="#3465a4"><title>Gordon, Red (1819)</title></circle></a><a href="/variants/s16/dp16w2b7w2k14lb6w2dp15w2g17lb6g6r8k6r8k2~x2/"><circle cx="14.0" cy="130.0" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/variants/s16/p16lr2r7lr2k14lb6lr2p15lr2dg17lb6dg6dr8k6dr8k2~x2/"><circle cx="14.0" cy="112.1" r="4" fill="#3465a4"><title>Huntly #2</title></circle></a><a href="/variants/s15/g18w2db16w2lb6k16w2r8w2db9ri9k6ri9g6lb6~x2~r1707016-ri2209032/"><circle cx="14.0" cy="137.3" r="4" fill="#3465a4"><title>Gordon Red</title></circle></a><a href="/variants/s15/g18w2db16w2lb6k16w2r8w2db9ri9k6ri9g6lb6~x2~r1707016-ri2008029/"><circle cx="14.0" cy="137.9" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/"><circle cx="14.0" cy="131.7" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~x2~r1908029/"><circle cx="14.0" cy="131.4" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/"><circle cx="14.0" cy="131.4" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/variants/s16/o16w2ri7w2k14lb6w2o15w2dg17lb6dg6r8k6r8k2~x2~ri2806019-r2108022/"><circle cx="14.0" cy="130.3" r="4" fill="#3465a4"><title>Gordon, Red (Clan/District)</title></circle></a><a href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/"><circle cx="14.0" cy="107.8" r="4" fill="#3465a4"><title>Kukri</title></circle></a><circle cx="14.0" cy="129.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dp16w2ri7w2k14lb6w2dp15w2dg17lb6dg6r8k6r8k2~x2~ri2806019-r2108022/"><circle cx="14.0" cy="106.6" r="4" fill="#3465a4"><title>Gordon, Red (1819)</title></circle></a><a href="/variants/s16/dp16w2b7w2k14lb6w2dp15w2g17lb6g6r8k6r8k2~x2/"><circle cx="14.0" cy="129.9" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/variants/s16/p16lr2r7lr2k14lb6lr2p15lr2dg17lb6dg6dr8k6dr8k2~x2/"><circle cx="14.0" cy="111.9" r="4" fill="#3465a4"><title>Huntly #2</title></circle></a><a href="/variants/s15/g18w2db16w2lb6k16w2r8w2db9ri9k6ri9g6lb6~x2~r1707016-ri2209032/"><circle cx="14.0" cy="137.1" r="4" fill="#3465a4"><title>Gordon Red</title></circle></a><a href="/variants/s15/g18w2db16w2lb6k16w2r8w2db9ri9k6ri9g6lb6~x2~r1707016-ri2008029/"><circle cx="14.0" cy="137.8" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/"><circle cx="14.0" cy="131.5" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~x2~r1908029/"><circle cx="14.0" cy="131.3" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/"><circle cx="14.0" cy="131.3" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/variants/s16/o16w2ri7w2k14lb6w2o15w2dg17lb6dg6r8k6r8k2~x2~ri2806019-r2108022/"><circle cx="14.0" cy="130.2" r="4" fill="#3465a4"><title>Gordon, Red (Clan/District)</title></circle></a><a href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/"><circle cx="14.0" cy="107.7" r="4" fill="#3465a4"><title>Kukri</title></circle></a><circle cx="14.0" cy="129.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/dp16w2ri7w2k14lb6w2dp15w2g17lb6g6r8k6r8k2~x2~ri2406019-r2108022/

@@ -1,14 +1,16 @@
 ---
 title: "Zorra Caledonian Society (Corporate"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Zorra Caledonian Society (Corporate"
-  url: ""
+  url: "/setts/dg3w2dg39k3lb3k3dg3k20dgi10r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg3w2dg39k3lb3k3dg3k20dgi10r2/)
-(the same proportion at any scale), whose colour order is pattern [GWGKWKGKGR](/stripes/gwgkwkgkgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg3w2dg39k3lb3k3dg3k20dgi10r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGKWKGKGR](/stripes/gwgkwkgkgr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2~dg1502166-g2304144/"><circle cx="258.3" cy="107.5" r="4" fill="#3465a4"><title>Zorra Caledonian Society</title></circle></a><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/"><circle cx="223.2" cy="93.5" r="4" fill="#3465a4"><title>Braveheart -Warrior (hunting)</title></circle></a><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/"><circle cx="265.2" cy="109.7" r="4" fill="#3465a4"><title>Lordship of Greencastle (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/"><circle cx="271.2" cy="105.6" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.7" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s9/dg4dr2dg20db8k8db4lb1lo2k1~x2/"><circle cx="240.7" cy="127.1" r="4" fill="#3465a4"><title>Dodd of Branford (Name)</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="249.9" cy="98.5" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/"><circle cx="205.8" cy="100.5" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><a href="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti2503227-t2405244/"><circle cx="178.1" cy="101.9" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><circle cx="246.2" cy="97.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2~dg1502166-g2304144/"><circle cx="258.3" cy="107.3" r="4" fill="#3465a4"><title>Zorra Caledonian Society</title></circle></a><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/"><circle cx="223.2" cy="93.4" r="4" fill="#3465a4"><title>Braveheart -Warrior (hunting)</title></circle></a><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/"><circle cx="265.2" cy="109.6" r="4" fill="#3465a4"><title>Lordship of Greencastle (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/"><circle cx="271.2" cy="105.5" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.5" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s9/dg4dr2dg20db8k8db4lb1lo2k1~x2/"><circle cx="240.7" cy="127.0" r="4" fill="#3465a4"><title>Dodd of Branford (Name)</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.3" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="249.9" cy="98.4" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/"><circle cx="205.8" cy="100.4" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><a href="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti2503227-t2405244/"><circle cx="178.1" cy="101.8" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><circle cx="246.2" cy="97.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/

@@ -1,16 +1,18 @@
 ---
 title: "Gleneagles Group Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gleneagles Group"
   url: "/tartans/gleneagles-group/"
 - name: "Gleneagles Group Corporate Tartan"
-  url: ""
+  url: "/setts/dr5g6dy1g6dr5db6dr1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr5g6dy1g6dr5db6dr1/)
-(the same proportion at any scale), whose colour order is pattern [BBBGGGB](/stripes/bbbgggb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr5g6dy1g6dr5db6dr1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBGGGB](/stripes/bbbgggb/).
 
 Part of the [Gleneagles Group](/tartans/gleneagles-group/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1989 Designed for a range of tartan goods called the Glenea
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1989 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/"><circle cx="212.2" cy="345.1" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><circle cx="112.3" cy="257.3" r="4" fill="#3465a4"><title>James William Forrester of S. Carolina</title></circle></a><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><circle cx="111.5" cy="256.9" r="4" fill="#3465a4"><title>Forrester (James) (Personal)</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="236.7" cy="263.2" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/"><circle cx="221.3" cy="256.3" r="4" fill="#3465a4"><title>Tamer of Wolves</title></circle></a><a href="/variants/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="220.9" cy="268.3" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/"><circle cx="179.5" cy="332.3" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.9" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s6/db1dy1db7dy5y7lr1~x4/"><circle cx="245.4" cy="261.9" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><circle cx="229.4" cy="290.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/"><circle cx="212.2" cy="345.1" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><circle cx="112.3" cy="257.3" r="4" fill="#3465a4"><title>James William Forrester of S. Carolina</title></circle></a><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><circle cx="111.5" cy="256.9" r="4" fill="#3465a4"><title>Forrester (James) (Personal)</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="236.7" cy="263.1" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/"><circle cx="221.3" cy="256.3" r="4" fill="#3465a4"><title>Tamer of Wolves</title></circle></a><a href="/variants/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="220.9" cy="268.3" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/"><circle cx="179.6" cy="332.3" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.8" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s6/db1dy1db7dy5y7lr1~x4/"><circle cx="245.5" cy="261.8" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><circle cx="229.4" cy="290.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr5g6dy1g6dr5db6dr1~x2/

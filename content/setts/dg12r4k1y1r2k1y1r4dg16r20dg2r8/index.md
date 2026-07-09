@@ -1,5 +1,12 @@
 ---
 title: "Livingstone (Australia) NSW"
-redirect: "/variants/s12/dg12r4k1y1r2k1y1r4dg16r20dg2r8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Livingstone (Australia) NSW](/variants/s12/dg12r4k1y1r2k1y1r4dg16r20dg2r8~x2/).
+This is the **Livingstone (Australia) NSW** sett — one scale-free proportion (`dg12r4k1y1r2k1y1r4dg16r20dg2r8`), colour order pattern
+[GRKGRKGRGRGR](/stripes/grkgrkgrgrgr/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Livingstone (Australia) NSW](/variants/s12/dg12r4k1y1r2k1y1r4dg16r20dg2r8~x2/) ★ | 2009 | ![Livingstone (Australia) NSW sett](/variants/s12/dg12r4k1y1r2k1y1r4dg16r20dg2r8~x2/sett.png) |

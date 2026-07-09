@@ -1,5 +1,12 @@
 ---
 title: "Hughes Interconnection Int."
-redirect: "/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hughes Interconnection Int.](/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/).
+This is the **Hughes Interconnection Int.** sett — one scale-free proportion (`w4k2t18y4t18dy26dg18k1o2`), colour order pattern
+[KGGBGBKWKBGBGGKR](/stripes/kggbgbkwkbgbggkr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hughes Interconnection Int.](/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/) ★ | 2003 | ![Hughes Interconnection Int. sett](/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/sett.png) |

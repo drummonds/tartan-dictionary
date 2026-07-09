@@ -1,5 +1,12 @@
 ---
 title: "Heart of Scotland Fancy Tartan"
-redirect: "/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Heart of Scotland Fancy Tartan](/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/).
+This is the **Heart of Scotland Fancy Tartan** sett — one scale-free proportion (`db5lb1db44m1g12k12m5k2lp2k3`), colour order pattern
+[BWBRGKRKWK](/stripes/bwbrgkrkwk/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Heart of Scotland Fancy Tartan](/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/) ★ | 1999 | ![Heart of Scotland Fancy Tartan sett](/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/sett.png) |

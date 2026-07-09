@@ -1,5 +1,12 @@
 ---
 title: "Cavan Irish County Tartan"
-redirect: "/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cavan Irish County Tartan](/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/).
+This is the **Cavan Irish County Tartan** sett — one scale-free proportion (`k3r9k14o3k14dg24k2o3`), colour order pattern
+[KRKKRKKGKR](/stripes/krkkrkkgkr/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cavan Irish County Tartan](/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/) ★ | 1996 | ![Cavan Irish County Tartan sett](/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Prince Albert"
-redirect: "/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Prince Albert](/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/).
+This is the **Prince Albert** sett — one scale-free proportion (`db23r6db6k10y3k2w2k2g11r12k2r10w2`), colour order pattern
+[BRBKGKWKGRKRW](/stripes/brbkgkwkgrkrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Prince Albert](/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/) ★ | ~2016 | ![Prince Albert sett](/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/sett.png) |

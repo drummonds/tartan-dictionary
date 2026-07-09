@@ -1,5 +1,12 @@
 ---
 title: "Unidentified 17"
-redirect: "/variants/s5/db16o2db16o19r4~x3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified 17](/variants/s5/db16o2db16o19r4~x3/).
+This is the **Unidentified 17** sett — one scale-free proportion (`db16o2db16o19r4`), colour order pattern
+[BRBRR](/stripes/brbrr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×3 | [Unidentified 17](/variants/s5/db16o2db16o19r4~x3/) ★ | ~2016 | ![Unidentified 17 sett](/variants/s5/db16o2db16o19r4~x3/sett.png) |

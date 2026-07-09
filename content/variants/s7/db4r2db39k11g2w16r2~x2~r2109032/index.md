@@ -1,6 +1,7 @@
 ---
 title: "Sinclair Dress Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,8 +12,9 @@ crumbs:
 - name: "Sinclair, The Jack"
   url: "/setts/db4r2db39k11g2w16r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4r2db39k11g2w16r2/)
-(the same proportion at any scale), whose colour order is pattern [BRBKGWR](/stripes/brbkgwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4r2db39k11g2w16r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKGWR](/stripes/brbkgwr/).
 
 Part of the [Sinclair Dress](/tartans/sinclair-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -29,7 +31,7 @@ Earliest known date: 1977 Originally a private copyright tartan which has been g
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1977 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.0" cy="118.9" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="118.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/db4r2db31k10g4w21g2~x2/"><circle cx="166.3" cy="126.5" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/variants/s7/db2r1db16k5g2w11g1~x4/"><circle cx="189.7" cy="139.3" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.1" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="212.0" cy="135.3" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="296.8" cy="162.4" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/variants/s6/r4db24w2g13db2k3~x4/"><circle cx="247.2" cy="160.8" r="4" fill="#3465a4"><title>Vance (Family Association)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.6" cy="131.7" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="231.6" cy="109.1" r="4" fill="#3465a4"><title>U.S. Forces Thurso (Military)</title></circle></a><circle cx="256.1" cy="119.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.1" cy="118.8" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="117.9" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/db4r2db31k10g4w21g2~x2/"><circle cx="166.3" cy="126.4" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/variants/s7/db2r1db16k5g2w11g1~x4/"><circle cx="189.7" cy="139.2" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="212.0" cy="135.2" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="296.8" cy="162.3" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/variants/s6/r4db24w2g13db2k3~x4/"><circle cx="247.3" cy="160.7" r="4" fill="#3465a4"><title>Vance (Family Association)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.7" cy="131.6" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="231.7" cy="109.0" r="4" fill="#3465a4"><title>U.S. Forces Thurso (Military)</title></circle></a><circle cx="256.1" cy="118.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db4r2db39k11g2w16r2~x2~r2109032/

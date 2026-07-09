@@ -1,6 +1,7 @@
 ---
 title: "MacKay Dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "MacKay Dress"
   url: "/tartans/mackay-dress/"
 - name: "MacKay Dress"
-  url: ""
+  url: "/setts/k4g23k23g2w23t4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4g23k23g2w23t4/)
-(the same proportion at any scale), whose colour order is pattern [BWGKGK](/stripes/bwgkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4g23k23g2w23t4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGKGK](/stripes/bwgkgk/).
 
 Part of the [MacKay Dress](/tartans/mackay-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -67,6 +69,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4g14k14g2w14t3~x2/"><circle cx="103.0" cy="222.4" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/variants/s5/k2g12k11t12w1~x2/"><circle cx="142.8" cy="216.0" r="4" fill="#3465a4"><title>MacKirdy (Clan)</title></circle></a><a href="/variants/s5/k2g12k11t12w1~x2~g2203152/"><circle cx="148.4" cy="215.7" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/variants/s6/k2g13k11lb4w9k2~x2/"><circle cx="95.0" cy="221.5" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.2" cy="231.8" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="119.0" cy="224.3" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="133.7" cy="206.5" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.5" cy="213.7" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><a href="/variants/s6/k4g19k16w2db15g4~x2/"><circle cx="149.5" cy="212.5" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><circle cx="123.5" cy="194.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4g14k14g2w14t3~x2/"><circle cx="103.1" cy="222.3" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/variants/s5/k2g12k11t12w1~x2/"><circle cx="142.8" cy="215.9" r="4" fill="#3465a4"><title>MacKirdy (Clan)</title></circle></a><a href="/variants/s5/k2g12k11t12w1~x2~g2203152/"><circle cx="148.5" cy="215.6" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/variants/s6/k2g13k11lb4w9k2~x2/"><circle cx="95.0" cy="221.4" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.2" cy="231.7" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="119.1" cy="224.3" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="133.8" cy="206.5" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.6" cy="213.6" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><a href="/variants/s6/k4g19k16w2db15g4~x2/"><circle cx="149.5" cy="212.5" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><circle cx="123.5" cy="194.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k4g23k23g2w23t4~x2/

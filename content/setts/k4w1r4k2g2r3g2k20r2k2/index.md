@@ -1,5 +1,12 @@
 ---
 title: "Valdres, Kvam & Vang #3"
-redirect: "/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Valdres, Kvam & Vang #3](/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/).
+This is the **Valdres, Kvam & Vang #3** sett — one scale-free proportion (`k4w1r4k2g2r3g2k20r2k2`), colour order pattern
+[KRKGRGKRWK](/stripes/krkgrgkrwk/). It is recorded as a single **variant**, below.
+First attested **1850**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Valdres, Kvam & Vang #3](/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/) ★ | 1850 | ![Valdres, Kvam & Vang #3 sett](/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/sett.png) |

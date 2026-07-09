@@ -1,5 +1,12 @@
 ---
 title: "Anderson, Red (Fashion)"
-redirect: "/variants/s20/r4lb5r2lb7ri3r4ri3k4lo2k2lo2k4w4k4r18ri1k2ri1r4ri3~x2~r2109032-ri2308029/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Anderson, Red (Fashion)](/variants/s20/r4lb5r2lb7ri3r4ri3k4lo2k2lo2k4w4k4r18ri1k2ri1r4ri3~x2~r2109032-ri2308029/).
+This is the **Anderson, Red (Fashion)** sett — one scale-free proportion (`r4lb5r2lb7ri3r4ri3k4lo2k2lo2k4w4k4r18ri1k2ri1r4ri3`), colour order pattern
+[RRRKRRKWKYKYKRRRWRWR](/stripes/rrrkrrkwkykykrrrwrwr/). It is recorded as a single **variant**, below.
+First attested **1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Anderson, Red (Fashion)](/variants/s20/r4lb5r2lb7ri3r4ri3k4lo2k2lo2k4w4k4r18ri1k2ri1r4ri3~x2~r2109032-ri2308029/) ★ | 1993 | ![Anderson, Red (Fashion) sett](/variants/s20/r4lb5r2lb7ri3r4ri3k4lo2k2lo2k4w4k4r18ri1k2ri1r4ri3~x2~r2109032-ri2308029/sett.png) |

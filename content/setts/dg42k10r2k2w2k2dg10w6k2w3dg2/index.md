@@ -1,5 +1,12 @@
 ---
 title: "Laggen Dress"
-redirect: "/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Laggen Dress](/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/).
+This is the **Laggen Dress** sett — one scale-free proportion (`dg42k10r2k2w2k2dg10w6k2w3dg2`), colour order pattern
+[GKRKWKGWKWG](/stripes/gkrkwkgwkwg/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Laggen Dress](/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/) ★ | 1984 | ![Laggen Dress sett](/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/sett.png) |

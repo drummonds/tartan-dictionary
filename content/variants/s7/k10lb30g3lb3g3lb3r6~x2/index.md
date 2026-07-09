@@ -1,16 +1,18 @@
 ---
 title: "Kinding (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kinding"
   url: "/tartans/kinding/"
 - name: "Kinding (Personal)"
-  url: ""
+  url: "/setts/k10lb30g3lb3g3lb3r6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10lb30g3lb3g3lb3r6/)
-(the same proportion at any scale), whose colour order is pattern [KWGWGWR](/stripes/kwgwgwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k10lb30g3lb3g3lb3r6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWGWGWR](/stripes/kwgwgwr/).
 
 Part of the [Kinding](/tartans/kinding/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1w14k6w1k3y1~x4/"><circle cx="274.7" cy="151.2" r="4" fill="#3465a4"><title>MacPherson #10</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="242.1" cy="155.1" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.1" cy="194.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/"><circle cx="260.7" cy="165.0" r="4" fill="#3465a4"><title>Vance (Name?)</title></circle></a><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><circle cx="332.9" cy="175.8" r="4" fill="#3465a4"><title>Carlisle Family Tartan</title></circle></a><a href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><circle cx="264.4" cy="151.2" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.9" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s9/r3t22r3t3k14t14lb3t3w2~x2/"><circle cx="269.7" cy="153.3" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.3" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.8" cy="136.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><circle cx="283.3" cy="158.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1w14k6w1k3y1~x4/"><circle cx="274.7" cy="151.1" r="4" fill="#3465a4"><title>MacPherson #10</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="242.1" cy="155.0" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.1" cy="194.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/"><circle cx="260.8" cy="164.9" r="4" fill="#3465a4"><title>Vance (Name?)</title></circle></a><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><circle cx="332.9" cy="175.7" r="4" fill="#3465a4"><title>Carlisle Family Tartan</title></circle></a><a href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><circle cx="264.4" cy="151.1" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.8" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s9/r3t22r3t3k14t14lb3t3w2~x2/"><circle cx="269.7" cy="153.2" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.2" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.9" cy="136.4" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><circle cx="283.3" cy="158.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k10lb30g3lb3g3lb3r6~x2/

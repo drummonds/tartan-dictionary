@@ -1,14 +1,16 @@
 ---
 title: "Orlando Dress, City of"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Orlando Dress, City of"
-  url: ""
+  url: "/setts/t12k1w16t1w1t14w3t14r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t12k1w16t1w1t14w3t14r2/)
-(the same proportion at any scale), whose colour order is pattern [BKWBWBWBRBWBWBWK](/stripes/bkwbwbwbrbwbwbwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t12k1w16t1w1t14w3t14r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBWBWBRBWBWBWK](/stripes/bkwbwbwbrbwbwbwk/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.3" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/variants/s9/t12ly1w16t1w1t14w3t14r2~x4/"><circle cx="375.5" cy="185.3" r="4" fill="#3465a4"><title>Orlando Dress, City of (District)</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="146.1" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><circle cx="415.1" cy="95.6" r="4" fill="#3465a4"><title>Caledonian Railway (Commemorative)</title></circle></a><a href="/variants/s7/n3t2w10t2n6t26k2~x2/"><circle cx="318.2" cy="172.5" r="4" fill="#3465a4"><title>MacLintock #2</title></circle></a><a href="/variants/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="252.4" cy="154.9" r="4" fill="#3465a4"><title>Balmoral (Old and Rare) Royal Tartan</title></circle></a><circle cx="312.8" cy="142.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.1" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/variants/s9/t12ly1w16t1w1t14w3t14r2~x4/"><circle cx="375.5" cy="185.2" r="4" fill="#3465a4"><title>Orlando Dress, City of (District)</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="145.9" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><circle cx="415.1" cy="95.4" r="4" fill="#3465a4"><title>Caledonian Railway (Commemorative)</title></circle></a><a href="/variants/s7/n3t2w10t2n6t26k2~x2/"><circle cx="318.2" cy="172.4" r="4" fill="#3465a4"><title>MacLintock #2</title></circle></a><a href="/variants/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="252.4" cy="154.7" r="4" fill="#3465a4"><title>Balmoral (Old and Rare) Royal Tartan</title></circle></a><circle cx="312.8" cy="142.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/t12k1w16t1w1t14w3t14r2~x4~w4000000/

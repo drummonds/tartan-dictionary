@@ -1,5 +1,12 @@
 ---
-title: "Stewart - (Galloway ?)"
-redirect: "/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/"
+title: "Brown Castlehaven Artifact Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stewart - (Galloway ?)](/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/).
+This is the **Brown Castlehaven Artifact Tartan** sett — one scale-free proportion (`k56r90db4w4k13y3k3w3k3g18r14k3r7w3`), colour order pattern
+[KRBWKGKWKGRKRW](/stripes/krbwkgkwkgrkrw/). It is recorded as a single **variant**, below.
+First attested **1786**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Brown Castlehaven Artifact Tartan](/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/) ★ | 1786 | ![Brown Castlehaven Artifact Tartan sett](/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/sett.png) |

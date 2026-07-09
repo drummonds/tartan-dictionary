@@ -1,5 +1,12 @@
 ---
 title: "Baluch Regiment"
-redirect: "/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Baluch Regiment](/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/).
+This is the **Baluch Regiment** sett — one scale-free proportion (`r4g24r6g4r4g6r44g1w4`), colour order pattern
+[RGRGRGRGW](/stripes/rgrgrgrgw/). It is recorded as a single **variant**, below.
+First attested **1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Baluch Regiment](/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/) ★ | 1993 | ![Baluch Regiment sett](/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "MacFie Dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacFie Dress"
-  url: ""
+  url: "/setts/w1dr12g2dr2w16dr2g2dr12lo1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1dr12g2dr2w16dr2g2dr12lo1/)
-(the same proportion at any scale), whose colour order is pattern [WBGBWBGBY](/stripes/wbgbwbgby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w1dr12g2dr2w16dr2g2dr12lo1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGBWBGBY](/stripes/wbgbwbgby/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy22t2dy3y4dy3t2dy12t4w19dy3~x2/"><circle cx="297.7" cy="181.7" r="4" fill="#3465a4"><title>Burns Battalion (Fashion)</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="283.0" cy="135.6" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><circle cx="318.0" cy="168.3" r="4" fill="#3465a4"><title>Buccleuch Dress (Fashion)</title></circle></a><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.5" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s11/w16dy2w2dy2w2dy32g3dy32w16dy2w2~x2/"><circle cx="375.0" cy="161.6" r="4" fill="#3465a4"><title>MacLachlan, Brown Dress (Fashion)</title></circle></a><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><circle cx="272.6" cy="202.8" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.7" cy="221.1" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><circle cx="324.2" cy="169.4" r="4" fill="#3465a4"><title>Citylink Gold (Corporate)</title></circle></a><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><circle cx="364.7" cy="164.8" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/"><circle cx="369.9" cy="158.1" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><circle cx="315.5" cy="166.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy22t2dy3y4dy3t2dy12t4w19dy3~x2/"><circle cx="297.7" cy="181.6" r="4" fill="#3465a4"><title>Burns Battalion (Fashion)</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="283.0" cy="135.5" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><circle cx="318.0" cy="168.2" r="4" fill="#3465a4"><title>Buccleuch Dress (Fashion)</title></circle></a><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.3" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s11/w16dy2w2dy2w2dy32g3dy32w16dy2w2~x2/"><circle cx="375.0" cy="161.5" r="4" fill="#3465a4"><title>MacLachlan, Brown Dress (Fashion)</title></circle></a><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><circle cx="272.6" cy="202.7" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.7" cy="221.0" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><circle cx="324.3" cy="169.4" r="4" fill="#3465a4"><title>Citylink Gold (Corporate)</title></circle></a><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><circle cx="364.7" cy="164.7" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/"><circle cx="369.9" cy="158.0" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><circle cx="315.5" cy="166.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/

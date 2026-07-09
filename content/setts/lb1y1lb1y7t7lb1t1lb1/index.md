@@ -1,5 +1,12 @@
 ---
 title: "Auld Lang Syne (Fashion)"
-redirect: "/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6~lb3203246-t2503227/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Auld Lang Syne (Fashion)](/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6~lb3203246-t2503227/).
+This is the **Auld Lang Syne (Fashion)** sett — one scale-free proportion (`lb1y1lb1y7t7lb1t1lb1`), colour order pattern
+[WBWBGWGW](/stripes/wbwbgwgw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Auld Lang Syne (Fashion)](/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6~lb3203246-t2503227/) ★ | 2002 | ![Auld Lang Syne (Fashion) sett](/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6~lb3203246-t2503227/sett.png) |

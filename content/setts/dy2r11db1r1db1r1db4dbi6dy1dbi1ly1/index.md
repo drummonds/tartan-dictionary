@@ -1,5 +1,12 @@
 ---
 title: "NHK Asaichi"
-redirect: "/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [NHK Asaichi](/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/).
+This is the **NHK Asaichi** sett — one scale-free proportion (`dy2r11db1r1db1r1db4dbi6dy1dbi1ly1`), colour order pattern
+[GRBRBRBBGBY](/stripes/grbrbrbbgby/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [NHK Asaichi](/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/) ★ | 2014 | ![NHK Asaichi sett](/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/sett.png) |

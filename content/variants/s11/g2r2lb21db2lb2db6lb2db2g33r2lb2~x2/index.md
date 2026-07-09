@@ -1,16 +1,18 @@
 ---
 title: "Maine State District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Maine State"
   url: "/tartans/maine-state/"
 - name: "Maine State District Tartan"
-  url: ""
+  url: "/setts/g2r2lb21db2lb2db6lb2db2g33r2lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2r2lb21db2lb2db6lb2db2g33r2lb2/)
-(the same proportion at any scale), whose colour order is pattern [GRWBWBWBGRW](/stripes/grwbwbwbgrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g2r2lb21db2lb2db6lb2db2g33r2lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRWBWBWBGRW](/stripes/grwbwbwbgrw/).
 
 Part of the [Maine State](/tartans/maine-state/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1965 Maine tartan is the oldest of America's tartans. It wa
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1965 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="284.8" cy="142.7" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/"><circle cx="264.9" cy="131.1" r="4" fill="#3465a4"><title>Maine, Original State of (Fashion)</title></circle></a><a href="/variants/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/"><circle cx="247.9" cy="150.3" r="4" fill="#3465a4"><title>Maine Dirigo</title></circle></a><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/"><circle cx="276.3" cy="139.1" r="4" fill="#3465a4"><title>MacKirgan</title></circle></a><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/"><circle cx="259.5" cy="139.3" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><circle cx="259.5" cy="139.3" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.7" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="285.5" cy="168.9" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><circle cx="258.2" cy="151.2" r="4" fill="#3465a4"><title>Crowne Plaza (Corporate)</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.9" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><circle cx="287.9" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="284.8" cy="142.6" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/"><circle cx="264.9" cy="131.0" r="4" fill="#3465a4"><title>Maine, Original State of (Fashion)</title></circle></a><a href="/variants/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/"><circle cx="247.9" cy="150.2" r="4" fill="#3465a4"><title>Maine Dirigo</title></circle></a><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/"><circle cx="276.4" cy="139.0" r="4" fill="#3465a4"><title>MacKirgan</title></circle></a><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/"><circle cx="259.5" cy="139.2" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><circle cx="259.5" cy="139.2" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.6" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="285.5" cy="168.8" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><circle cx="258.2" cy="151.1" r="4" fill="#3465a4"><title>Crowne Plaza (Corporate)</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.8" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><circle cx="287.9" cy="142.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g2r2lb21db2lb2db6lb2db2g33r2lb2~x2/

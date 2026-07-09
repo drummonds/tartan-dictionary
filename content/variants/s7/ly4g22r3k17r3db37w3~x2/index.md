@@ -1,16 +1,18 @@
 ---
 title: "Souza Nery (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Souza Nery"
   url: "/tartans/souza-nery/"
 - name: "Souza Nery (Personal)"
-  url: ""
+  url: "/setts/ly4g22r3k17r3db37w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4g22r3k17r3db37w3/)
-(the same proportion at any scale), whose colour order is pattern [WBRKRGY](/stripes/wbrkrgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly4g22r3k17r3db37w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBRKRGY](/stripes/wbrkrgy/).
 
 Part of the [Souza Nery](/tartans/souza-nery/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.4" cy="142.9" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="81.9" cy="169.3" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.7" cy="169.6" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.8" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s7/y6g28r4k20r3db45k5~x2/"><circle cx="170.8" cy="154.0" r="4" fill="#3465a4"><title>Nery</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="166.0" cy="171.2" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.3" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.2" cy="157.2" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s6/k6g11w2db22r2k4~x2/"><circle cx="181.9" cy="167.9" r="4" fill="#3465a4"><title>Leslie Hebridean Artifact Tartan</title></circle></a><circle cx="138.4" cy="141.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.5" cy="142.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="81.9" cy="169.2" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.8" cy="169.5" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.2" cy="168.7" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s7/y6g28r4k20r3db45k5~x2/"><circle cx="170.8" cy="153.9" r="4" fill="#3465a4"><title>Nery</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="166.0" cy="171.1" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.1" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.3" cy="157.1" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s6/k6g11w2db22r2k4~x2/"><circle cx="181.9" cy="167.8" r="4" fill="#3465a4"><title>Leslie Hebridean Artifact Tartan</title></circle></a><circle cx="138.5" cy="141.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ly4g22r3k17r3db37w3~x2/

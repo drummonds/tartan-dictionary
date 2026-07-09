@@ -1,14 +1,16 @@
 ---
 title: "Brotherhood of the Kilt"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brotherhood of the Kilt"
-  url: ""
+  url: "/setts/k10g4k1lb2r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10g4k1lb2r1/)
-(the same proportion at any scale), whose colour order is pattern [KGKWR](/stripes/kgkwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k10g4k1lb2r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGKWR](/stripes/kgkwr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s6/lb3k16g16k16db3lb3~x2/"><circle cx="208.2" cy="224.2" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.3" cy="216.4" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s4/k3g15k20y3~x2/"><circle cx="266.1" cy="243.7" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/variants/s5/k8t5g44k40r6/"><circle cx="211.1" cy="200.2" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="195.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="198.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="338.0" cy="147.2" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="241.8" cy="189.3" r="4" fill="#3465a4"><title>Raeside</title></circle></a><circle cx="274.2" cy="181.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s6/lb3k16g16k16db3lb3~x2/"><circle cx="208.3" cy="224.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.3" cy="216.4" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s4/k3g15k20y3~x2/"><circle cx="266.1" cy="243.7" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/variants/s5/k8t5g44k40r6/"><circle cx="211.1" cy="200.1" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="195.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.4" cy="198.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="338.1" cy="147.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.9" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="241.8" cy="189.2" r="4" fill="#3465a4"><title>Raeside</title></circle></a><circle cx="274.2" cy="181.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k10g4k1lb2r1~x10/

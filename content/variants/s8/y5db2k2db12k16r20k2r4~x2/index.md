@@ -1,14 +1,16 @@
 ---
 title: "Aitken"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Aitken"
-  url: ""
+  url: "/setts/y5db2k2db12k16r20k2r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y5db2k2db12k16r20k2r4/)
-(the same proportion at any scale), whose colour order is pattern [GBKBKRKR](/stripes/gbkbkrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y5db2k2db12k16r20k2r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBKRKR](/stripes/gbkbkrkr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k8r4k8db12k1w2~x2/"><circle cx="171.4" cy="187.8" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/variants/s6/k4o19k19o2dp22w4~x2/"><circle cx="142.0" cy="192.8" r="4" fill="#3465a4"><title>Dutch (District)</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="148.2" cy="161.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.4" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><circle cx="165.2" cy="171.4" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s4/k37r20k2r4~x2/"><circle cx="151.3" cy="183.2" r="4" fill="#3465a4"><title>Aitken (Fashion)</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.9" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><circle cx="160.9" cy="170.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k8r4k8db12k1w2~x2/"><circle cx="171.5" cy="187.7" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/variants/s6/k4o19k19o2dp22w4~x2/"><circle cx="142.0" cy="192.7" r="4" fill="#3465a4"><title>Dutch (District)</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.7" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.7" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="148.2" cy="161.8" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.3" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><circle cx="165.2" cy="171.3" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s4/k37r20k2r4~x2/"><circle cx="151.3" cy="183.1" r="4" fill="#3465a4"><title>Aitken (Fashion)</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.8" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><circle cx="160.9" cy="170.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y5db2k2db12k16r20k2r4~x2/

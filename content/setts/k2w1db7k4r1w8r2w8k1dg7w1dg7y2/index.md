@@ -1,5 +1,12 @@
 ---
 title: "MacLellan/McLellan Dress (Personal)"
-redirect: "/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacLellan/McLellan Dress (Personal)](/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/).
+This is the **MacLellan/McLellan Dress (Personal)** sett — one scale-free proportion (`k2w1db7k4r1w8r2w8k1dg7w1dg7y2`), colour order pattern
+[GGWGKWRWRKBWK](/stripes/ggwgkwrwrkbwk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacLellan/McLellan Dress (Personal)](/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/) ★ | 2002 | ![MacLellan/McLellan Dress (Personal) sett](/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/sett.png) |

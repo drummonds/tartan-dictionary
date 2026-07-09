@@ -1,5 +1,12 @@
 ---
 title: "Unidentified #54"
-redirect: "/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified #54](/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/).
+This is the **Unidentified #54** sett — one scale-free proportion (`w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1`), colour order pattern
+[WBWGYGWGRWRW](/stripes/wbwgygwgrwrw/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Unidentified #54](/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/) ★ | 1994 | ![Unidentified #54 sett](/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/sett.png) |

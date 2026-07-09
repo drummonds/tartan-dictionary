@@ -1,5 +1,12 @@
 ---
 title: "Miyuki #4"
-redirect: "/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Miyuki #4](/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/).
+This is the **Miyuki #4** sett — one scale-free proportion (`r3ly8r3ly20dy20ly3dy8ly3`), colour order pattern
+[RYRYGYGY](/stripes/ryrygygy/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Miyuki #4](/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/) ★ | 1998 | ![Miyuki #4 sett](/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/sett.png) |

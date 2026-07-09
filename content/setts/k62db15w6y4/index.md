@@ -1,5 +1,12 @@
 ---
 title: "C-Tec N.I. Ltd"
-redirect: "/variants/s4/k62db15w6y4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [C-Tec N.I. Ltd](/variants/s4/k62db15w6y4~x2/).
+This is the **C-Tec N.I. Ltd** sett — one scale-free proportion (`k62db15w6y4`), colour order pattern
+[GWBK](/stripes/gwbk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [C-Tec N.I. Ltd](/variants/s4/k62db15w6y4~x2/) ★ | 2015 | ![C-Tec N.I. Ltd sett](/variants/s4/k62db15w6y4~x2/sett.png) |

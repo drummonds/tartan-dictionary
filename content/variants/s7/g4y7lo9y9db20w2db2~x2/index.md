@@ -1,16 +1,18 @@
 ---
 title: "Tombow 140th Anniversary, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Tombow 140th Anniversary, The"
   url: "/tartans/tombow-140th-anniversary-the/"
 - name: "Tombow 140th Anniversary, The"
-  url: ""
+  url: "/setts/g4y7lo9y9db20w2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4y7lo9y9db20w2db2/)
-(the same proportion at any scale), whose colour order is pattern [BWBGYGG](/stripes/bwbgygg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g4y7lo9y9db20w2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBGYGG](/stripes/bwbgygg/).
 
 Part of the [Tombow 140th Anniversary, The](/tartans/tombow-140th-anniversary-the/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.8" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="182.9" cy="209.7" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s8/g3lb2g2lb13dg3lb2dr10gi3~x2~g2203152-dg1806142-gi2408144/"><circle cx="210.3" cy="220.0" r="4" fill="#3465a4"><title>Manitoba Dress (Dance)</title></circle></a><a href="/variants/s7/db49y12r12y12dg32w8db3/"><circle cx="205.6" cy="180.3" r="4" fill="#3465a4"><title>Kuznetsov (2014)</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.1" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.9" cy="237.1" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/"><circle cx="169.0" cy="191.2" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><circle cx="225.0" cy="247.5" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.6" cy="214.2" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><circle cx="204.8" cy="213.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.7" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="182.9" cy="209.6" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s8/g3lb2g2lb13dg3lb2dr10gi3~x2~g2203152-dg1806142-gi2408144/"><circle cx="210.3" cy="219.9" r="4" fill="#3465a4"><title>Manitoba Dress (Dance)</title></circle></a><a href="/variants/s7/db49y12r12y12dg32w8db3/"><circle cx="205.6" cy="180.2" r="4" fill="#3465a4"><title>Kuznetsov (2014)</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.0" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.9" cy="237.0" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/"><circle cx="169.1" cy="191.1" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><circle cx="225.1" cy="247.5" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.7" cy="214.1" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><circle cx="204.8" cy="213.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g4y7lo9y9db20w2db2~x2/

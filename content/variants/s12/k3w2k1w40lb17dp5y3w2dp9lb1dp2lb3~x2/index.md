@@ -1,14 +1,16 @@
 ---
 title: "Allandale Blue Dress Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Allandale Blue Dress Tartan"
-  url: ""
+  url: "/setts/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3/)
-(the same proportion at any scale), whose colour order is pattern [KWKWWBGWBWBW](/stripes/kwkwwbgwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWWBGWBWBW](/stripes/kwkwwbgwbwbw/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.3" cy="72.9" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2~r2108022-ri2806019/"><circle cx="214.7" cy="83.8" r="4" fill="#3465a4"><title>Sunart, Saphire (Dance)</title></circle></a><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="285.8" cy="52.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2/"><circle cx="218.2" cy="68.4" r="4" fill="#3465a4"><title>Hohenzollern (Personal)</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.2" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/"><circle cx="290.7" cy="93.7" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2~db1404245/"><circle cx="219.2" cy="69.1" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="246.4" cy="72.3" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.7" cy="97.8" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.4" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><circle cx="259.2" cy="64.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.3" cy="72.7" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2~r2108022-ri2806019/"><circle cx="214.7" cy="83.7" r="4" fill="#3465a4"><title>Sunart, Saphire (Dance)</title></circle></a><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="285.8" cy="52.6" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2/"><circle cx="218.2" cy="68.3" r="4" fill="#3465a4"><title>Hohenzollern (Personal)</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.0" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/"><circle cx="290.7" cy="93.5" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2~db1404245/"><circle cx="219.1" cy="68.9" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="246.4" cy="72.2" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.7" cy="97.7" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.2" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><circle cx="259.1" cy="64.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/

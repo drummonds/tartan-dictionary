@@ -1,14 +1,16 @@
 ---
 title: "Hutt #1 (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hutt #1 (Personal)"
-  url: ""
+  url: "/setts/n2y2n1y2n1lb15n4r1y2dg7y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2y2n1y2n1lb15n4r1y2dg7y1/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBWBRGGG](/stripes/bgbgbwbrggg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n2y2n1y2n1lb15n4r1y2dg7y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBWBRGGG](/stripes/bgbgbwbrggg/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.2" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="211.5" cy="125.2" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><circle cx="244.2" cy="150.0" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/variants/s12/o4w2o2w3o20db6lb3db2lb2db2lb16r3~x2/"><circle cx="198.0" cy="155.1" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2lb8~x2/"><circle cx="200.2" cy="155.7" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><circle cx="177.7" cy="147.5" r="4" fill="#3465a4"><title>Stuart / Stewart, Riding Cloak</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.4" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><circle cx="201.2" cy="125.5" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/"><circle cx="228.8" cy="171.2" r="4" fill="#3465a4"><title>Callum, Blue (Fashion)</title></circle></a><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><circle cx="167.7" cy="145.9" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><circle cx="223.0" cy="148.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.1" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="211.5" cy="125.1" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><circle cx="244.2" cy="149.8" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/variants/s12/o4w2o2w3o20db6lb3db2lb2db2lb16r3~x2/"><circle cx="198.0" cy="155.0" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2lb8~x2/"><circle cx="200.3" cy="155.6" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><circle cx="177.7" cy="147.4" r="4" fill="#3465a4"><title>Stuart / Stewart, Riding Cloak</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><circle cx="201.2" cy="125.3" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/"><circle cx="228.8" cy="171.1" r="4" fill="#3465a4"><title>Callum, Blue (Fashion)</title></circle></a><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><circle cx="167.7" cy="145.8" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><circle cx="223.0" cy="148.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n2y2n1y2n1lb15n4r1y2dg7y1~x4/

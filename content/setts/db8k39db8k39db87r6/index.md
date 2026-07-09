@@ -1,5 +1,12 @@
 ---
 title: "Largan (?)"
-redirect: "/variants/s6/db8k39db8k39db87r6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Largan (?)](/variants/s6/db8k39db8k39db87r6/).
+This is the **Largan (?)** sett — one scale-free proportion (`db8k39db8k39db87r6`), colour order pattern
+[BKBKBR](/stripes/bkbkbr/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Largan (?)](/variants/s6/db8k39db8k39db87r6/) ★ | 2009 | ![Largan (?) sett](/variants/s6/db8k39db8k39db87r6/sett.png) |

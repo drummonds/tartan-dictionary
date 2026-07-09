@@ -1,5 +1,12 @@
 ---
 title: "Clerke of Ulva"
-redirect: "/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Clerke of Ulva](/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/).
+This is the **Clerke of Ulva** sett — one scale-free proportion (`y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1`), colour order pattern
+[GGKGKGKBYBYBY](/stripes/ggkgkgkbybyby/). It is recorded as a single **variant**, below.
+First attested **1847**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Clerke of Ulva](/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/) ★ | 1847 | ![Clerke of Ulva sett](/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png) |

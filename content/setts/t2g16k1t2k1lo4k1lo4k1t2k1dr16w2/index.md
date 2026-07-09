@@ -1,5 +1,12 @@
 ---
 title: "Baxter"
-redirect: "/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Baxter](/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/).
+This is the **Baxter** sett — one scale-free proportion (`t2g16k1t2k1lo4k1lo4k1t2k1dr16w2`), colour order pattern
+[BGKBKYKYKBKBW](/stripes/bgkbkykykbkbw/). It is recorded as a single **variant**, below.
+First attested **1856**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Baxter](/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/) ★ | 1856 | ![Baxter sett](/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/sett.png) |

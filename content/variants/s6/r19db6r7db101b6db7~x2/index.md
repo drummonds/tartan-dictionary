@@ -1,16 +1,18 @@
 ---
 title: "Lynch"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lynch"
   url: "/tartans/lynch/"
 - name: "Lynch"
-  url: ""
+  url: "/setts/r19db6r7db101b6db7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r19db6r7db101b6db7/)
-(the same proportion at any scale), whose colour order is pattern [BBBRBR](/stripes/bbbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r19db6r7db101b6db7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBRBR](/stripes/bbbrbr/).
 
 Part of the [Lynch](/tartans/lynch/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r19db6r14db101g7db7/"><circle cx="504.3" cy="173.2" r="4" fill="#3465a4"><title>Lynch Family Tartan</title></circle></a><a href="/variants/s6/r3db2r1db18g1db2~x4/"><circle cx="577.0" cy="173.8" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/variants/s7/db10r1db10r2db10r1g2~x2/"><circle cx="532.9" cy="201.4" r="4" fill="#3465a4"><title>Hebrides #5</title></circle></a><a href="/variants/s6/db2r7db2r7db22y2~x2/"><circle cx="397.6" cy="205.5" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="475.9" cy="178.0" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="467.2" cy="171.9" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.6" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.7" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.4" cy="145.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="459.8" cy="167.8" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><circle cx="552.9" cy="172.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r19db6r14db101g7db7/"><circle cx="504.4" cy="173.1" r="4" fill="#3465a4"><title>Lynch Family Tartan</title></circle></a><a href="/variants/s6/r3db2r1db18g1db2~x4/"><circle cx="577.0" cy="173.7" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/variants/s7/db10r1db10r2db10r1g2~x2/"><circle cx="532.9" cy="201.3" r="4" fill="#3465a4"><title>Hebrides #5</title></circle></a><a href="/variants/s6/db2r7db2r7db22y2~x2/"><circle cx="397.6" cy="205.5" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="475.9" cy="178.0" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="467.2" cy="171.8" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.5" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.6" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.4" cy="145.6" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="459.8" cy="167.7" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><circle cx="553.0" cy="172.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r19db6r7db101b6db7~x2/

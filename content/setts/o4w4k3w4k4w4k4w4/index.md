@@ -1,5 +1,12 @@
 ---
 title: "Glen Feshie Check"
-redirect: "/variants/s8/o4w4k3w4k4w4k4w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glen Feshie Check](/variants/s8/o4w4k3w4k4w4k4w4~x2/).
+This is the **Glen Feshie Check** sett — one scale-free proportion (`o4w4k3w4k4w4k4w4`), colour order pattern
+[RWKWKWKW](/stripes/rwkwkwkw/). It is recorded as a single **variant**, below.
+First attested **1834**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glen Feshie Check](/variants/s8/o4w4k3w4k4w4k4w4~x2/) ★ | 1834 | ![Glen Feshie Check sett](/variants/s8/o4w4k3w4k4w4k4w4~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Balmoral (Lavender) (Royal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Balmoral (Lavender) (Royal)"
-  url: ""
+  url: "/setts/n2r1n8o2k2n1o1n1o4n2k1n1r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2r1n8o2k2n1o1n1o4n2k1n1r1/)
-(the same proportion at any scale), whose colour order is pattern [BRBRKBRBRBKBR](/stripes/brbrkbrbrbkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n2r1n8o2k2n1o1n1o4n2k1n1r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRKBRBRBKBR](/stripes/brbrkbrbrbkbr/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/"><circle cx="314.9" cy="189.8" r="4" fill="#3465a4"><title>Frater</title></circle></a><a href="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/"><circle cx="309.1" cy="190.2" r="4" fill="#3465a4"><title>Frater (Name)</title></circle></a><a href="/variants/s13/n2r1n8b2k2n1b1n1b4n2k1n1r1~x2/"><circle cx="288.8" cy="182.2" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/"><circle cx="319.6" cy="181.3" r="4" fill="#3465a4"><title>Glen Affric (Artefact)</title></circle></a><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><circle cx="278.4" cy="152.9" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.5" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s8/n16k4w2k4n6o11n2o16~x2/"><circle cx="230.6" cy="213.6" r="4" fill="#3465a4"><title>Sydney (Nova Scotia) (District)</title></circle></a><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><circle cx="353.2" cy="184.5" r="4" fill="#3465a4"><title>Glenfarclas Distillery</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.5" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><circle cx="251.2" cy="180.6" r="4" fill="#3465a4"><title>Donegal Irish County Tartan</title></circle></a><circle cx="296.2" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/"><circle cx="314.9" cy="189.7" r="4" fill="#3465a4"><title>Frater</title></circle></a><a href="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/"><circle cx="309.1" cy="190.1" r="4" fill="#3465a4"><title>Frater (Name)</title></circle></a><a href="/variants/s13/n2r1n8b2k2n1b1n1b4n2k1n1r1~x2/"><circle cx="288.8" cy="182.1" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/"><circle cx="319.6" cy="181.2" r="4" fill="#3465a4"><title>Glen Affric (Artefact)</title></circle></a><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><circle cx="278.4" cy="152.8" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.4" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s8/n16k4w2k4n6o11n2o16~x2/"><circle cx="230.6" cy="213.6" r="4" fill="#3465a4"><title>Sydney (Nova Scotia) (District)</title></circle></a><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><circle cx="353.3" cy="184.4" r="4" fill="#3465a4"><title>Glenfarclas Distillery</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.4" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><circle cx="251.2" cy="180.5" r="4" fill="#3465a4"><title>Donegal Irish County Tartan</title></circle></a><circle cx="296.2" cy="180.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/n2r1n8o2k2n1o1n1o4n2k1n1r1~x4/

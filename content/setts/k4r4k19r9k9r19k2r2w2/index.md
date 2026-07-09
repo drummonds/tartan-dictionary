@@ -1,5 +1,12 @@
 ---
 title: "Pink MacLeod (Personal)"
-redirect: "/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pink MacLeod (Personal)](/variants/s9/k4r4k19r9k9r19k2r2w2~x2/).
+This is the **Pink MacLeod (Personal)** sett — one scale-free proportion (`k4r4k19r9k9r19k2r2w2`), colour order pattern
+[KRKRKRKRW](/stripes/krkrkrkrw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Pink MacLeod (Personal)](/variants/s9/k4r4k19r9k9r19k2r2w2~x2/) ★ | 2004 | ![Pink MacLeod (Personal) sett](/variants/s9/k4r4k19r9k9r19k2r2w2~x2/sett.png) |

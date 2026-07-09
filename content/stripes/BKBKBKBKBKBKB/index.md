@@ -33,8 +33,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/">Wine Watch (Fashion)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/"><img src="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/sett.png" alt="Wine Watch (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/">Glasgow, Academy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/"><img src="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/sett.png" alt="Glasgow, Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/">Glasgow Academy Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/"><img src="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/sett.png" alt="Glasgow Academy Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

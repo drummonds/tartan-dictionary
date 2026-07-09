@@ -1,5 +1,12 @@
 ---
 title: "Kinloch Anderson Check (Fashion)"
-redirect: "/variants/s7/dy3y18lo12k18lo2k2lo3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kinloch Anderson Check (Fashion)](/variants/s7/dy3y18lo12k18lo2k2lo3~x2/).
+This is the **Kinloch Anderson Check (Fashion)** sett — one scale-free proportion (`dy3y18lo12k18lo2k2lo3`), colour order pattern
+[GGYKYKY](/stripes/ggykyky/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kinloch Anderson Check (Fashion)](/variants/s7/dy3y18lo12k18lo2k2lo3~x2/) ★ | 2002 | ![Kinloch Anderson Check (Fashion) sett](/variants/s7/dy3y18lo12k18lo2k2lo3~x2/sett.png) |

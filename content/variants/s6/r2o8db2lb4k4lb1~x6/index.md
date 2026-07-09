@@ -1,14 +1,16 @@
 ---
 title: "Thom(p)son's, Fancy"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Thom(p)son's, Fancy"
-  url: ""
+  url: "/setts/r2o8db2lb4k4lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2o8db2lb4k4lb1/)
-(the same proportion at any scale), whose colour order is pattern [RRBWKW](/stripes/rrbwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2o8db2lb4k4lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRBWKW](/stripes/rrbwkw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2dy8db2lb4k4lb1~x6/"><circle cx="121.1" cy="209.0" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan</title></circle></a><a href="/variants/s6/dr1dy6db2lb4k4lb1~x6/"><circle cx="91.0" cy="227.3" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.5" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s7/dr2db4dr6db2w6k1ly2~x2/"><circle cx="82.2" cy="218.6" r="4" fill="#3465a4"><title>Unidentified Printing</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><circle cx="156.6" cy="223.7" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-db1406275-dg1806142/"><circle cx="80.3" cy="182.3" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="182.0" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1~x4/"><circle cx="188.0" cy="188.1" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish</title></circle></a><circle cx="122.2" cy="207.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2dy8db2lb4k4lb1~x6/"><circle cx="121.1" cy="208.9" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan</title></circle></a><a href="/variants/s6/dr1dy6db2lb4k4lb1~x6/"><circle cx="91.1" cy="227.2" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.5" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.7" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s7/dr2db4dr6db2w6k1ly2~x2/"><circle cx="82.2" cy="218.6" r="4" fill="#3465a4"><title>Unidentified Printing</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><circle cx="156.6" cy="223.6" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-db1406275-dg1806142/"><circle cx="80.3" cy="182.2" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="182.0" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1~x4/"><circle cx="188.1" cy="188.0" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish</title></circle></a><circle cx="122.2" cy="207.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r2o8db2lb4k4lb1~x6/

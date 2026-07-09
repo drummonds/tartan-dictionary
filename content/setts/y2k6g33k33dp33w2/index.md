@@ -1,5 +1,12 @@
 ---
 title: "MacNeil 8"
-redirect: "/variants/s6/y2k6g33k33dp33w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacNeil 8](/variants/s6/y2k6g33k33dp33w2~x2/).
+This is the **MacNeil 8** sett — one scale-free proportion (`y2k6g33k33dp33w2`), colour order pattern
+[GKGKBW](/stripes/gkgkbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacNeil 8](/variants/s6/y2k6g33k33dp33w2~x2/) ★ | ~2016 | ![MacNeil 8 sett](/variants/s6/y2k6g33k33dp33w2~x2/sett.png) |

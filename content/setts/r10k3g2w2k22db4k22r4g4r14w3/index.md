@@ -1,5 +1,12 @@
 ---
 title: "York Region Pipe Band"
-redirect: "/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [York Region Pipe Band](/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/).
+This is the **York Region Pipe Band** sett — one scale-free proportion (`r10k3g2w2k22db4k22r4g4r14w3`), colour order pattern
+[RKGWKBKRGRW](/stripes/rkgwkbkrgrw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [York Region Pipe Band](/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/) ★ | 2002 | ![York Region Pipe Band sett](/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/sett.png) |

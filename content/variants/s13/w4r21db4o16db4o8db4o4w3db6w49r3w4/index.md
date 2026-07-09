@@ -1,14 +1,16 @@
 ---
 title: "Largs Dress (1983)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Largs Dress (1983)"
-  url: ""
+  url: "/setts/w4r21db4o16db4o8db4o4w3db6w49r3w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4r21db4o16db4o8db4o4w3db6w49r3w4/)
-(the same proportion at any scale), whose colour order is pattern [WRBRBRBRWBWRW](/stripes/wrbrbrbrwbwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4r21db4o16db4o8db4o4w3db6w49r3w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WRBRBRBRWBWRW](/stripes/wrbrbrbrwbwrw/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="225.0" cy="125.4" r="4" fill="#3465a4"><title>Largs Dress District Tartan</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="140.4" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="265.5" cy="123.9" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/"><circle cx="243.8" cy="100.7" r="4" fill="#3465a4"><title>Humanitarian Mission (Dress)</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.1" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2~o2500000-n1900000/"><circle cx="250.1" cy="127.1" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.3" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.3" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="150.0" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><circle cx="220.0" cy="143.0" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><circle cx="236.9" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="225.0" cy="125.3" r="4" fill="#3465a4"><title>Largs Dress District Tartan</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="140.2" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="265.5" cy="123.7" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/"><circle cx="243.8" cy="100.5" r="4" fill="#3465a4"><title>Humanitarian Mission (Dress)</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.0" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2~o2500000-n1900000/"><circle cx="250.0" cy="127.0" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.2" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="149.9" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><circle cx="220.0" cy="142.9" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><circle cx="236.9" cy="127.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/

@@ -1,16 +1,18 @@
 ---
 title: "O'Neill, Red (Corporate?)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Neill"
   url: "/tartans/o-neill-3/"
 - name: "O'Neill, Red (Corporate?)"
-  url: ""
+  url: "/setts/g9o20g46lg5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9o20g46lg5/)
-(the same proportion at any scale), whose colour order is pattern [GRGY](/stripes/grgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g9o20g46lg5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGY](/stripes/grgy/).
 
 Part of the [O'Neill](/tartans/o-neill-3/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9o20g40w5~x2/"><circle cx="449.3" cy="289.8" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/variants/s4/g1y9g9lo1~x4/"><circle cx="538.4" cy="342.1" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s4/g9b20g40w5~x2/"><circle cx="439.0" cy="295.8" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s3/g49w4lo11~x2/"><circle cx="546.2" cy="275.1" r="4" fill="#3465a4"><title>Hibernian S3</title></circle></a><a href="/variants/s4/dr7g23r3g7~x2/"><circle cx="479.4" cy="274.7" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/variants/s4/dp7g23r3g7~x2/"><circle cx="463.3" cy="269.2" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="557.9" cy="288.6" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.3" cy="237.8" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/variants/s6/g46o20g9o20g46lg5~x2/"><circle cx="532.7" cy="299.3" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><circle cx="536.2" cy="300.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9o20g40w5~x2/"><circle cx="449.4" cy="289.8" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/variants/s4/g1y9g9lo1~x4/"><circle cx="538.4" cy="342.1" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s4/g9b20g40w5~x2/"><circle cx="439.1" cy="295.8" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s3/g49w4lo11~x2/"><circle cx="546.3" cy="275.1" r="4" fill="#3465a4"><title>Hibernian S3</title></circle></a><a href="/variants/s4/dr7g23r3g7~x2/"><circle cx="479.4" cy="274.7" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/variants/s4/dp7g23r3g7~x2/"><circle cx="463.3" cy="269.2" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="557.9" cy="288.6" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.3" cy="237.7" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/variants/s6/g46o20g9o20g46lg5~x2/"><circle cx="532.7" cy="299.2" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><circle cx="536.2" cy="300.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/g9o20g46lg5~x2/

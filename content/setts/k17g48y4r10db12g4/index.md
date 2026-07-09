@@ -1,5 +1,12 @@
 ---
 title: "Asheville Firefighters, The"
-redirect: "/variants/s6/k17g48y4r10db12g4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Asheville Firefighters, The](/variants/s6/k17g48y4r10db12g4/).
+This is the **Asheville Firefighters, The** sett — one scale-free proportion (`k17g48y4r10db12g4`), colour order pattern
+[GBRGGK](/stripes/gbrggk/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Asheville Firefighters, The](/variants/s6/k17g48y4r10db12g4/) ★ | 2011 | ![Asheville Firefighters, The sett](/variants/s6/k17g48y4r10db12g4/sett.png) |

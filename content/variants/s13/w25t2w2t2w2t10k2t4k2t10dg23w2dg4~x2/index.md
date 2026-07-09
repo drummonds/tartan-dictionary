@@ -1,16 +1,18 @@
 ---
 title: "Oliphant Dress Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Oliphant Dress"
   url: "/tartans/oliphant-dress/"
 - name: "Oliphant Dress Clan Tartan"
-  url: ""
+  url: "/setts/w25t2w2t2w2t10k2t4k2t10dg23w2dg4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w25t2w2t2w2t10k2t4k2t10dg23w2dg4/)
-(the same proportion at any scale), whose colour order is pattern [GWGBKBKBWBWBW](/stripes/gwgbkbkbwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w25t2w2t2w2t10k2t4k2t10dg23w2dg4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGBKBKBWBWBW](/stripes/gwgbkbkbwbwbw/).
 
 Part of the [Oliphant Dress](/tartans/oliphant-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2010 Intended as the officially recognised dress tartan for
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2010 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4~x2~g2204144/"><circle cx="186.2" cy="153.3" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s13/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4~x2/"><circle cx="180.1" cy="152.9" r="4" fill="#3465a4"><title>Oliphant Dress (Clan)</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.7" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/"><circle cx="137.9" cy="123.7" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/"><circle cx="169.3" cy="150.9" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.5" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/variants/s14/db2k2db4k4g4y1g4w2db3w14db2w2k2y1~x4/"><circle cx="107.3" cy="124.3" r="4" fill="#3465a4"><title>Gordon Dress #3</title></circle></a><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><circle cx="157.3" cy="129.8" r="4" fill="#3465a4"><title>Mack Original (Personal)</title></circle></a><a href="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/"><circle cx="158.5" cy="122.7" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><a href="/variants/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/"><circle cx="109.6" cy="127.8" r="4" fill="#3465a4"><title>McCandlish Arisaid, Green (Name)</title></circle></a><circle cx="150.6" cy="139.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4~x2~g2204144/"><circle cx="186.2" cy="153.2" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s13/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4~x2/"><circle cx="180.1" cy="152.8" r="4" fill="#3465a4"><title>Oliphant Dress (Clan)</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.6" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/"><circle cx="137.8" cy="123.5" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/"><circle cx="169.4" cy="150.8" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.4" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/variants/s14/db2k2db4k4g4y1g4w2db3w14db2w2k2y1~x4/"><circle cx="107.3" cy="124.2" r="4" fill="#3465a4"><title>Gordon Dress #3</title></circle></a><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><circle cx="157.3" cy="129.7" r="4" fill="#3465a4"><title>Mack Original (Personal)</title></circle></a><a href="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/"><circle cx="158.5" cy="122.5" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><a href="/variants/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/"><circle cx="109.6" cy="127.7" r="4" fill="#3465a4"><title>McCandlish Arisaid, Green (Name)</title></circle></a><circle cx="150.6" cy="139.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/

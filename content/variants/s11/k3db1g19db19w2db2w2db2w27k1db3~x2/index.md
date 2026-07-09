@@ -1,14 +1,16 @@
 ---
 title: "Lorne Dress (Dance) Fashion Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lorne Dress (Dance) Fashion Tartan"
-  url: ""
+  url: "/setts/k3db1g19db19w2db2w2db2w27k1db3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3db1g19db19w2db2w2db2w27k1db3/)
-(the same proportion at any scale), whose colour order is pattern [BKWBWBWBGBK](/stripes/bkwbwbwbgbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3db1g19db19w2db2w2db2w27k1db3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBWBWBGBK](/stripes/bkwbwbwbgbk/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -23,7 +25,7 @@ Earliest known date: 01/01/2005 A dance tartan from DC Dalgliesh of Selkirk.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/01/2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="166.1" cy="115.7" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/"><circle cx="137.9" cy="123.7" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.8" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/"><circle cx="216.3" cy="93.9" r="4" fill="#3465a4"><title>Lorne Dress (Dance)</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.3" cy="113.1" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/"><circle cx="150.6" cy="139.8" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s13/db24k4g8y4g8k4w4k4w24k1w2k1y3~x2/"><circle cx="112.1" cy="98.7" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="134.2" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.5" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/"><circle cx="184.3" cy="101.7" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><circle cx="190.9" cy="108.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="166.1" cy="115.5" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/"><circle cx="137.8" cy="123.5" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.6" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/"><circle cx="216.3" cy="93.8" r="4" fill="#3465a4"><title>Lorne Dress (Dance)</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.3" cy="112.9" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/"><circle cx="150.6" cy="139.7" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s13/db24k4g8y4g8k4w4k4w24k1w2k1y3~x2/"><circle cx="112.1" cy="98.6" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="134.0" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.4" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/"><circle cx="184.3" cy="101.6" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><circle cx="190.9" cy="108.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/

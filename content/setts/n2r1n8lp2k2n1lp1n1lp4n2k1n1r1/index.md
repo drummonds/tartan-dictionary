@@ -1,5 +1,12 @@
 ---
 title: "Balmoral Royal Tartan"
-redirect: "/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Balmoral Royal Tartan](/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/).
+This is the **Balmoral Royal Tartan** sett — one scale-free proportion (`n2r1n8lp2k2n1lp1n1lp4n2k1n1r1`), colour order pattern
+[BRBWKBWBWBKBR](/stripes/brbwkbwbwbkbr/). It is recorded as a single **variant**, below.
+First attested **1860**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Balmoral Royal Tartan](/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/) ★ | 1860 | ![Balmoral Royal Tartan sett](/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/sett.png) |

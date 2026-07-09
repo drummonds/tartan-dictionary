@@ -1,14 +1,16 @@
 ---
 title: "Heart of Scotland (Milne) Fancy Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Heart of Scotland (Milne) Fancy Tartan"
-  url: ""
+  url: "/setts/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4/)
-(the same proportion at any scale), whose colour order is pattern [BBGBBKBWBKBBGBBKBW](/stripes/bbgbbkbwbkbbgbbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBBKBWBKBBGBBKBW](/stripes/bbgbbkbwbkbbgbbkbw/).
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2000 Designed by Ruthven Milne of Piob Mhor, Blairgowrie. N
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2000 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2~dpi1607327-dp1507327/"><circle cx="78.0" cy="172.3" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/"><circle cx="104.4" cy="175.5" r="4" fill="#3465a4"><title>Kinloch Anderson Thistle</title></circle></a><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/"><circle cx="89.2" cy="140.0" r="4" fill="#3465a4"><title>Pride of Bannockburn Fashion Tartan</title></circle></a><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><circle cx="153.0" cy="184.6" r="4" fill="#3465a4"><title>Westwood MacPoiret (Fashion)</title></circle></a><a href="/variants/s11/t6k3db19k6db4k3dp12g4dp12w2t5~x2~t2205244-db1204274/"><circle cx="114.2" cy="171.1" r="4" fill="#3465a4"><title>Scotland Forever Fashion Weavers Tartan</title></circle></a><a href="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/"><circle cx="87.3" cy="157.5" r="4" fill="#3465a4"><title>Solberg-Bell Hunting</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/"><circle cx="126.3" cy="159.4" r="4" fill="#3465a4"><title>Glengoyne Distillery</title></circle></a><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/"><circle cx="130.5" cy="150.3" r="4" fill="#3465a4"><title>Pearl O' the Tay (Corporate)</title></circle></a><a href="/variants/s15/db11y2db2r2db2k11dbi11k2dbi3k2dbi11k11db11k2r3~x2~db1004274-dbi1106275/"><circle cx="146.7" cy="193.4" r="4" fill="#3465a4"><title>Bamcroft (Corporate)</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4~db1406275/"><circle cx="53.9" cy="146.7" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><circle cx="75.4" cy="167.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2~dpi1607327-dp1507327/"><circle cx="78.0" cy="172.2" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/"><circle cx="104.4" cy="175.4" r="4" fill="#3465a4"><title>Kinloch Anderson Thistle</title></circle></a><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/"><circle cx="89.2" cy="139.9" r="4" fill="#3465a4"><title>Pride of Bannockburn Fashion Tartan</title></circle></a><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><circle cx="153.0" cy="184.5" r="4" fill="#3465a4"><title>Westwood MacPoiret (Fashion)</title></circle></a><a href="/variants/s11/t6k3db19k6db4k3dp12g4dp12w2t5~x2~t2205244-db1204274/"><circle cx="114.2" cy="171.0" r="4" fill="#3465a4"><title>Scotland Forever Fashion Weavers Tartan</title></circle></a><a href="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/"><circle cx="87.3" cy="157.4" r="4" fill="#3465a4"><title>Solberg-Bell Hunting</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/"><circle cx="126.3" cy="159.3" r="4" fill="#3465a4"><title>Glengoyne Distillery</title></circle></a><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/"><circle cx="130.5" cy="150.2" r="4" fill="#3465a4"><title>Pearl O' the Tay (Corporate)</title></circle></a><a href="/variants/s15/db11y2db2r2db2k11dbi11k2dbi3k2dbi11k11db11k2r3~x2~db1004274-dbi1106275/"><circle cx="146.7" cy="193.3" r="4" fill="#3465a4"><title>Bamcroft (Corporate)</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4~db1406275/"><circle cx="53.9" cy="146.6" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><circle cx="75.4" cy="167.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/

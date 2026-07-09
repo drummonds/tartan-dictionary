@@ -1,5 +1,12 @@
 ---
 title: "Junor"
-redirect: "/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Junor](/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/).
+This is the **Junor** sett — one scale-free proportion (`r72dg6y2dg11b2dg2b2r9k2`), colour order pattern
+[KRBGBGGGR](/stripes/krbgbgggr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Junor](/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/) ★ | ~2016 | ![Junor sett](/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/sett.png) |

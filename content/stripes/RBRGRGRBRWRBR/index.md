@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/">London, Caledonian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/"><img src="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/sett.png" alt="London, Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/">London Caledonian Commemorative Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/"><img src="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/sett.png" alt="London Caledonian Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

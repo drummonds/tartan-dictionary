@@ -1,14 +1,16 @@
 ---
 title: "Henschke, Felix (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Henschke, Felix (Personal)"
-  url: ""
+  url: "/setts/dg42y1k23dr7w1db4y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg42y1k23dr7w1db4y3/)
-(the same proportion at any scale), whose colour order is pattern [GBWBKGG](/stripes/gbwbkgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg42y1k23dr7w1db4y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBWBKGG](/stripes/gbwbkgg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.1" cy="82.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k54n11g13ly1t13w1~x2/"><circle cx="285.6" cy="80.8" r="4" fill="#3465a4"><title>Kilmaine Saints (Corporate)</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r2~x2/"><circle cx="404.3" cy="126.8" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="128.0" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="298.3" cy="150.5" r="4" fill="#3465a4"><title>Holehouse, Dag (Personal)</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="392.6" cy="106.0" r="4" fill="#3465a4"><title>Jack (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.6" cy="92.0" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50ly2r1~x2/"><circle cx="320.1" cy="87.4" r="4" fill="#3465a4"><title>Josse (Personal)</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="376.4" cy="136.6" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><circle cx="387.7" cy="140.5" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><circle cx="311.0" cy="96.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.1" cy="82.7" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k54n11g13ly1t13w1~x2/"><circle cx="285.6" cy="80.6" r="4" fill="#3465a4"><title>Kilmaine Saints (Corporate)</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r2~x2/"><circle cx="404.4" cy="126.7" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="127.9" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="298.3" cy="150.5" r="4" fill="#3465a4"><title>Holehouse, Dag (Personal)</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="392.7" cy="105.8" r="4" fill="#3465a4"><title>Jack (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.6" cy="91.8" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50ly2r1~x2/"><circle cx="320.2" cy="87.2" r="4" fill="#3465a4"><title>Josse (Personal)</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="376.4" cy="136.5" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><circle cx="387.8" cy="140.4" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><circle cx="311.0" cy="96.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg42y1k23dr7w1db4y3~x2/

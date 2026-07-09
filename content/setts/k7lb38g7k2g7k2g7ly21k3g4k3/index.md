@@ -1,5 +1,12 @@
 ---
 title: "Chakraa (Fashion)"
-redirect: "/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Chakraa (Fashion)](/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/).
+This is the **Chakraa (Fashion)** sett — one scale-free proportion (`k7lb38g7k2g7k2g7ly21k3g4k3`), colour order pattern
+[KGKYGKGKGWK](/stripes/kgkygkgkgwk/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Chakraa (Fashion)](/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/) ★ | 1999 | ![Chakraa (Fashion) sett](/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/sett.png) |

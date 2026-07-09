@@ -1,14 +1,16 @@
 ---
 title: "Thistle and Kudzu Scottish Socie Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Thistle and Kudzu Scottish Socie Corporate Tartan"
-  url: ""
+  url: "/setts/dp6g15dg15k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp6g15dg15k2/)
-(the same proportion at any scale), whose colour order is pattern [BGGK](/stripes/bggk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp6g15dg15k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGK](/stripes/bggk/).
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -23,7 +25,7 @@ Earliest known date: 01/09/2010 The Thistle and Kudzu Scottish Society of Athens
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/09/2010 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.4" cy="226.0" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="261.9" cy="255.6" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.4" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.5" cy="217.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k3dg20k20g20k3~x2/"><circle cx="176.7" cy="253.0" r="4" fill="#3465a4"><title>MacCormick Hunting (Name)</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.3" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s4/b5g7k1lb1~x4/"><circle cx="251.9" cy="248.8" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><circle cx="182.6" cy="269.8" r="4" fill="#3465a4"><title>Cates Armigers (Personal)</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="157.2" cy="241.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s4/g6k2dr3k1~x4/"><circle cx="222.5" cy="264.9" r="4" fill="#3465a4"><title>Red Watch (Fashion) #1</title></circle></a><circle cx="217.4" cy="268.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.4" cy="225.9" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="262.0" cy="255.6" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.5" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.5" cy="217.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k3dg20k20g20k3~x2/"><circle cx="176.7" cy="253.0" r="4" fill="#3465a4"><title>MacCormick Hunting (Name)</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.2" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s4/b5g7k1lb1~x4/"><circle cx="252.0" cy="248.8" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><circle cx="182.6" cy="269.8" r="4" fill="#3465a4"><title>Cates Armigers (Personal)</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="157.3" cy="241.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s4/g6k2dr3k1~x4/"><circle cx="222.5" cy="264.9" r="4" fill="#3465a4"><title>Red Watch (Fashion) #1</title></circle></a><circle cx="217.4" cy="268.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dp6g15dg15k2~x2/

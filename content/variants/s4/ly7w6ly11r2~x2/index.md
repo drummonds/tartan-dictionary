@@ -1,14 +1,16 @@
 ---
 title: "Virgin One (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Virgin One (Corporate)"
-  url: ""
+  url: "/setts/ly7w6ly11r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly7w6ly11r2/)
-(the same proportion at any scale), whose colour order is pattern [RYWY](/stripes/rywy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly7w6ly11r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RYWY](/stripes/rywy/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="414.7" cy="288.2" r="4" fill="#3465a4"><title>One Account (Corporate)</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="423.2" cy="219.8" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/"><circle cx="443.6" cy="328.7" r="4" fill="#3465a4"><title>Virgin One</title></circle></a><a href="/variants/s6/y12w5y6w5y12r2~x2/"><circle cx="392.6" cy="276.6" r="4" fill="#3465a4"><title>One Account</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.7" cy="302.4" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s5/ly6r1ly4r4db2~x5/"><circle cx="305.7" cy="282.9" r="4" fill="#3465a4"><title>Sands-Pingot (Name?)</title></circle></a><a href="/variants/s5/lb11y2r1y2r1~x4/"><circle cx="452.0" cy="222.9" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><a href="/variants/s2/w10r3~x10/"><circle cx="460.5" cy="353.1" r="4" fill="#3465a4"><title>English Kilt (Fashion)</title></circle></a><a href="/variants/s5/t10w3t12ly14r4~x2/"><circle cx="259.6" cy="299.2" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><circle cx="452.6" cy="330.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="414.7" cy="288.2" r="4" fill="#3465a4"><title>One Account (Corporate)</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="423.3" cy="219.8" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/"><circle cx="443.6" cy="328.7" r="4" fill="#3465a4"><title>Virgin One</title></circle></a><a href="/variants/s6/y12w5y6w5y12r2~x2/"><circle cx="392.6" cy="276.6" r="4" fill="#3465a4"><title>One Account</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.8" cy="302.4" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s5/ly6r1ly4r4db2~x5/"><circle cx="305.7" cy="282.8" r="4" fill="#3465a4"><title>Sands-Pingot (Name?)</title></circle></a><a href="/variants/s5/lb11y2r1y2r1~x4/"><circle cx="452.0" cy="222.8" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><a href="/variants/s2/w10r3~x10/"><circle cx="460.5" cy="353.1" r="4" fill="#3465a4"><title>English Kilt (Fashion)</title></circle></a><a href="/variants/s5/t10w3t12ly14r4~x2/"><circle cx="259.6" cy="299.2" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><circle cx="452.6" cy="330.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/ly7w6ly11r2~x2/

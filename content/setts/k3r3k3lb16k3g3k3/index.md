@@ -2,15 +2,15 @@
 title: "Eglinton"
 date: 2023-03-18
 ---
-The **Eglinton** tartan is one sett proportion (`k3r3k3lb16k3g3k3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[KGKWKRK](/stripes/kgkwkrk/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Eglinton** sett — one scale-free proportion (`k3r3k3lb16k3g3k3`), colour order pattern
+[KGKWKRK](/stripes/kgkwkrk/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~1847**.
 
-Part of the [Eglinton](/tartans/eglinton/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Eglinton](/tartans/eglinton/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [Eglinton](/variants/s7/k3r3k3lb16k3g3k3/) ★ | ~2016 | ![Eglinton sett](/variants/s7/k3r3k3lb16k3g3k3/sett.png) |
-| ×2 | [Eglinton](/variants/s7/k3r3k3lb16k3g3k3~x2/) | ~2016 | ![Eglinton sett](/variants/s7/k3r3k3lb16k3g3k3~x2/sett.png) |
+| ×2 | [Eglinton District Tartan](/variants/s7/k3r3k3lb16k3g3k3~x2/) ★ | ~1847 | ![Eglinton District Tartan sett](/variants/s7/k3r3k3lb16k3g3k3~x2/sett.png) |
+| ×1 | [Eglinton](/variants/s7/k3r3k3lb16k3g3k3/) | ~2016 | ![Eglinton sett](/variants/s7/k3r3k3lb16k3g3k3/sett.png) |

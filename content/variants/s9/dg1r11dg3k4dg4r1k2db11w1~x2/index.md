@@ -1,16 +1,18 @@
 ---
 title: "Manson (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Manson"
   url: "/tartans/manson/"
 - name: "Manson (Name)"
-  url: ""
+  url: "/setts/dg1r11dg3k4dg4r1k2db11w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg1r11dg3k4dg4r1k2db11w1/)
-(the same proportion at any scale), whose colour order is pattern [GRGKGRKBW](/stripes/grgkgrkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg1r11dg3k4dg4r1k2db11w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGKGRKBW](/stripes/grgkgrkbw/).
 
 Part of the [Manson](/tartans/manson/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="161.9" cy="121.5" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/"><circle cx="101.6" cy="160.2" r="4" fill="#3465a4"><title>MacInroy (Rattray)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.2" cy="126.3" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.7" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="105.8" cy="138.4" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="160.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/"><circle cx="124.7" cy="170.7" r="4" fill="#3465a4"><title>St. Clement of Rome School</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.0" cy="168.8" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.8" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/"><circle cx="97.8" cy="147.6" r="4" fill="#3465a4"><title>Derry County, Crest Range</title></circle></a><circle cx="120.8" cy="153.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="161.9" cy="121.4" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/"><circle cx="101.7" cy="160.1" r="4" fill="#3465a4"><title>MacInroy (Rattray)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.2" cy="126.2" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.6" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="105.9" cy="138.3" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="160.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/"><circle cx="124.7" cy="170.6" r="4" fill="#3465a4"><title>St. Clement of Rome School</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.1" cy="168.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.7" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/"><circle cx="97.8" cy="147.5" r="4" fill="#3465a4"><title>Derry County, Crest Range</title></circle></a><circle cx="120.8" cy="153.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/

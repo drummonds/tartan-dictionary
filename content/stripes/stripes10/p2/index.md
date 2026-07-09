@@ -3,7 +3,7 @@ title: 10 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 10
 ---
-1,125 setts across 1,088 tartans with 10 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,126 setts across 1,089 tartans with 10 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes10/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <strong>2</strong> <a href="/stripes/stripes10/p3/">3</a> <a href="/stripes/stripes10/p4/">4</a> <a href="/stripes/stripes10/p3/">next ›</a></nav>
 
 ### BBBBKBYBKB
@@ -676,7 +676,7 @@ weight: 10
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [MacConnell](/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/) | weddslist |
+| 0.09 | [MacConnell Clan Tartan](/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/) | house-of-tartan |
 
 ### BGBWGWGWGR
 <a class="pat" href="/stripes/bgbwgwgwgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BGBWGWGWGR</span></a>
@@ -1271,7 +1271,7 @@ weight: 10
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Etienne-Carter, Sir George](/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/) | register-of-tartans |
+| 0.09 | [Sir George Etienne-Cartier Canada Tartan](/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/) | house-of-tartan |
 
 ### BKBRBRBRBW
 <a class="pat" href="/stripes/bkbrbrbrbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKBRBRBRBW</span></a>
@@ -1341,7 +1341,7 @@ weight: 10
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Robertson Hunting #2](/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/) | register-of-tartans |
+| 0.05 | [Robertson Hunting Clan Tartan](/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/) | house-of-tartan |
 
 ### BKGKRKGKWR
 <a class="pat" href="/stripes/bkgkrkgkwr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">BKGKRKGKWR</span></a>
@@ -1915,7 +1915,7 @@ weight: 10
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Fraser Arisaid #2](/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/) | register-of-tartans |
+| 0.11 | [Fraser Arisaid Clan Tartan](/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/) | house-of-tartan |
 
 ### BWBGBGRGBR
 <a class="pat" href="/stripes/bwbgbgrgbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BWBGBGRGBR</span></a>

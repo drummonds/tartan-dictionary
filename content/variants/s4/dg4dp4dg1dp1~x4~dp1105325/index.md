@@ -1,14 +1,16 @@
 ---
 title: "Wilson's No.116"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.116"
   url: "/setts/dg4dp4dg1dp1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4dp4dg1dp1/)
-(the same proportion at any scale), whose colour order is pattern [BGBG](/stripes/bgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg4dp4dg1dp1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBG](/stripes/bgbg/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dg4dp4dg1dp1~x4/"><circle cx="499.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.211</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="350.5" cy="299.2" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="452.2" cy="312.5" r="4" fill="#3465a4"><title>Highland Spirit (Fashion)</title></circle></a><a href="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/"><circle cx="549.7" cy="293.6" r="4" fill="#3465a4"><title>Perthshire Tourist Board (Corporate)</title></circle></a><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="307.7" cy="299.7" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/"><circle cx="345.8" cy="320.2" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><a href="/variants/s4/dr1dg3db3dg1~x4/"><circle cx="430.7" cy="366.0" r="4" fill="#3465a4"><title>Barwell</title></circle></a><a href="/variants/s3/dg6db2dg1~x8/"><circle cx="584.5" cy="364.3" r="4" fill="#3465a4"><title>Montgomery - 1842 (VS</title></circle></a><a href="/variants/s3/n13dy15n2~x4/"><circle cx="513.1" cy="366.0" r="4" fill="#3465a4"><title>Outlander #5</title></circle></a><circle cx="497.2" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dg4dp4dg1dp1~x4/"><circle cx="499.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.211</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="350.5" cy="299.2" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="452.3" cy="312.5" r="4" fill="#3465a4"><title>Highland Spirit (Fashion)</title></circle></a><a href="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/"><circle cx="549.8" cy="293.5" r="4" fill="#3465a4"><title>Perthshire Tourist Board (Corporate)</title></circle></a><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="307.8" cy="299.7" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/"><circle cx="345.8" cy="320.2" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><a href="/variants/s4/dr1dg3db3dg1~x4/"><circle cx="430.8" cy="366.0" r="4" fill="#3465a4"><title>Barwell</title></circle></a><a href="/variants/s3/dg6db2dg1~x8/"><circle cx="584.6" cy="364.3" r="4" fill="#3465a4"><title>Montgomery - 1842 (VS</title></circle></a><a href="/variants/s3/n13dy15n2~x4/"><circle cx="513.2" cy="366.0" r="4" fill="#3465a4"><title>Outlander #5</title></circle></a><circle cx="497.3" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dg4dp4dg1dp1~x4~dp1105325/

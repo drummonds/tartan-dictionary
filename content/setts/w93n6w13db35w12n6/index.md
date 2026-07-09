@@ -1,5 +1,12 @@
 ---
 title: "Butties"
-redirect: "/variants/s6/w93n6w13db35w12n6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Butties](/variants/s6/w93n6w13db35w12n6/).
+This is the **Butties** sett — one scale-free proportion (`w93n6w13db35w12n6`), colour order pattern
+[BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Butties](/variants/s6/w93n6w13db35w12n6/) ★ | 2013 | ![Butties sett](/variants/s6/w93n6w13db35w12n6/sett.png) |

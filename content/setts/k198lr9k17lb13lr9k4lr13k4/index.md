@@ -1,5 +1,12 @@
 ---
 title: "London Fog Black (Fashion)"
-redirect: "/variants/s8/k198lr9k17lb13lr9k4lr13k4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [London Fog Black (Fashion)](/variants/s8/k198lr9k17lb13lr9k4lr13k4/).
+This is the **London Fog Black (Fashion)** sett — one scale-free proportion (`k198lr9k17lb13lr9k4lr13k4`), colour order pattern
+[KYKWYKYK](/stripes/kykwykyk/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [London Fog Black (Fashion)](/variants/s8/k198lr9k17lb13lr9k4lr13k4/) ★ | ~2007 | ![London Fog Black (Fashion) sett](/variants/s8/k198lr9k17lb13lr9k4lr13k4/sett.png) |

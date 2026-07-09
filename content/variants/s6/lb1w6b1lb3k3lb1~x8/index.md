@@ -1,14 +1,16 @@
 ---
 title: "Thompson (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Thompson (Dance)"
-  url: ""
+  url: "/setts/lb1w6b1lb3k3lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb1w6b1lb3k3lb1/)
-(the same proportion at any scale), whose colour order is pattern [WKWBWW](/stripes/wkwbww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb1w6b1lb3k3lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWBWW](/stripes/wkwbww/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="170.1" cy="231.5" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="167.0" cy="210.5" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="157.6" cy="158.4" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/variants/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="137.5" cy="199.4" r="4" fill="#3465a4"><title>Strathclyde 1975 (District)</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="164.9" cy="204.6" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="182.4" cy="259.3" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s7/r4db18r4g19w25r10w4~x2/"><circle cx="125.2" cy="235.5" r="4" fill="#3465a4"><title>Fraser Red Dress Clan Tartan</title></circle></a><a href="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/"><circle cx="127.4" cy="206.9" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/g16dp4g8dp13k3w26dp10~x2/"><circle cx="122.2" cy="213.7" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="128.6" cy="230.0" r="4" fill="#3465a4"><title>Unidentified (Winterbottom)</title></circle></a><circle cx="143.4" cy="227.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="170.1" cy="231.5" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="167.0" cy="210.4" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="157.7" cy="158.3" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/variants/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="137.5" cy="199.4" r="4" fill="#3465a4"><title>Strathclyde 1975 (District)</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="164.9" cy="204.5" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="182.4" cy="259.2" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s7/r4db18r4g19w25r10w4~x2/"><circle cx="125.2" cy="235.5" r="4" fill="#3465a4"><title>Fraser Red Dress Clan Tartan</title></circle></a><a href="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/"><circle cx="127.4" cy="206.9" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/g16dp4g8dp13k3w26dp10~x2/"><circle cx="122.2" cy="213.6" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="128.6" cy="230.0" r="4" fill="#3465a4"><title>Unidentified (Winterbottom)</title></circle></a><circle cx="143.4" cy="227.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb1w6b1lb3k3lb1~x8/

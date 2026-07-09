@@ -1,5 +1,12 @@
 ---
 title: "Aguilar Pardo, Luis Alejandro (Personal)"
-redirect: "/variants/s8/g4y3r2y22lb22w2lb3k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Aguilar Pardo, Luis Alejandro (Personal)](/variants/s8/g4y3r2y22lb22w2lb3k2~x2/).
+This is the **Aguilar Pardo, Luis Alejandro (Personal)** sett — one scale-free proportion (`g4y3r2y22lb22w2lb3k2`), colour order pattern
+[GGRGWWWK](/stripes/ggrgwwwk/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Aguilar Pardo, Luis Alejandro (Personal)](/variants/s8/g4y3r2y22lb22w2lb3k2~x2/) ★ | 2014 | ![Aguilar Pardo, Luis Alejandro (Personal) sett](/variants/s8/g4y3r2y22lb22w2lb3k2~x2/sett.png) |

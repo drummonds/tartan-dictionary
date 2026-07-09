@@ -1,14 +1,16 @@
 ---
 title: "Bains of Caithness"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bains of Caithness"
-  url: ""
+  url: "/setts/db3g6db2t11dr3dy4dr3t28w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3g6db2t11dr3dy4dr3t28w3/)
-(the same proportion at any scale), whose colour order is pattern [BGBBBGBBW](/stripes/bgbbbgbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3g6db2t11dr3dy4dr3t28w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBBGBBW](/stripes/bgbbbgbbw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/"><circle cx="283.8" cy="178.1" r="4" fill="#3465a4"><title>Yes Scotland</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="195.0" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-lb3103284/"><circle cx="300.3" cy="167.7" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage (Dist)</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/"><circle cx="321.5" cy="173.5" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/"><circle cx="319.7" cy="165.4" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/variants/s5/dr3b35db4g47w3~x2/"><circle cx="357.4" cy="212.4" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.8" cy="163.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="296.3" cy="202.8" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/"><circle cx="310.8" cy="153.1" r="4" fill="#3465a4"><title>Nickel Lodge Centennial Corporate Tartan</title></circle></a><a href="/variants/s8/lb8db10t69w6t6r8lbi19lb3~lb3200000-t2503227-lbi3203246/"><circle cx="363.7" cy="138.0" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><circle cx="360.9" cy="168.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/"><circle cx="283.8" cy="178.0" r="4" fill="#3465a4"><title>Yes Scotland</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="194.9" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-lb3103284/"><circle cx="300.3" cy="167.6" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage (Dist)</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/"><circle cx="321.6" cy="173.4" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/"><circle cx="319.7" cy="165.3" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/variants/s5/dr3b35db4g47w3~x2/"><circle cx="357.4" cy="212.4" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.9" cy="163.5" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="296.3" cy="202.7" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/"><circle cx="310.8" cy="153.0" r="4" fill="#3465a4"><title>Nickel Lodge Centennial Corporate Tartan</title></circle></a><a href="/variants/s8/lb8db10t69w6t6r8lbi19lb3~lb3200000-t2503227-lbi3203246/"><circle cx="363.7" cy="137.8" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><circle cx="360.9" cy="168.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/

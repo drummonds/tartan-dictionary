@@ -1,5 +1,12 @@
 ---
 title: "Blackwater (Personal)"
-redirect: "/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Blackwater (Personal)](/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/).
+This is the **Blackwater (Personal)** sett — one scale-free proportion (`k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4`), colour order pattern
+[BGBGBGBKGKBKGBGKBKGK](/stripes/bgbgbgbkgkbkgbgkbkgk/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Blackwater (Personal)](/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/) ★ | 1997 | ![Blackwater (Personal) sett](/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/sett.png) |

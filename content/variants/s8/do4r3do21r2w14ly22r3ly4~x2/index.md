@@ -1,14 +1,16 @@
 ---
 title: "Bannock Bane M.405"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannock Bane M.405"
-  url: ""
+  url: "/setts/do4r3do21r2w14ly22r3ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do4r3do21r2w14ly22r3ly4/)
-(the same proportion at any scale), whose colour order is pattern [BRBRWYRY](/stripes/brbrwyry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/do4r3do21r2w14ly22r3ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRWYRY](/stripes/brbrwyry/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do2r2do15r1w10dy15r2dy2~x2/"><circle cx="194.1" cy="173.8" r="4" fill="#3465a4"><title>Bannockbane Brown #1</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.8" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.8" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s7/r5w36dp14r9g28r8dp2~x2/"><circle cx="176.4" cy="182.1" r="4" fill="#3465a4"><title>MacKintosh, Arisaid</title></circle></a><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><circle cx="196.8" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/o22do2o2do2o2do15w17do3~x2/"><circle cx="235.7" cy="196.4" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><circle cx="150.1" cy="186.7" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="204.8" cy="186.3" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.3" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><circle cx="176.7" cy="190.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do2r2do15r1w10dy15r2dy2~x2/"><circle cx="194.1" cy="173.7" r="4" fill="#3465a4"><title>Bannockbane Brown #1</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.7" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.7" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s7/r5w36dp14r9g28r8dp2~x2/"><circle cx="176.4" cy="182.0" r="4" fill="#3465a4"><title>MacKintosh, Arisaid</title></circle></a><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><circle cx="196.8" cy="170.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/o22do2o2do2o2do15w17do3~x2/"><circle cx="235.7" cy="196.3" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.8" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><circle cx="150.1" cy="186.6" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="204.9" cy="186.3" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.2" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><circle cx="176.7" cy="190.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/do4r3do21r2w14ly22r3ly4~x2/

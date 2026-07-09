@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/">Followers' Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><img src="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/sett.png" alt="Followers' Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/">Follower's Plaid Artifact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><img src="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/sett.png" alt="Follower's Plaid Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/">Royal Stewart</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><img src="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

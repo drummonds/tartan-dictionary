@@ -1,14 +1,16 @@
 ---
 title: "International School of Aberdeen"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "International School of Aberdeen"
-  url: ""
+  url: "/setts/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1/)
-(the same proportion at any scale), whose colour order is pattern [RBRBGBRBRBGBWBW](/stripes/rbrbgbrbrbgbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBGBRBRBGBWBW](/stripes/rbrbgbrbrbgbwbw/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2~x2/"><circle cx="400.2" cy="111.8" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.6" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/"><circle cx="491.6" cy="102.5" r="4" fill="#3465a4"><title>Miyuki</title></circle></a><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="396.1" cy="42.4" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.9" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/"><circle cx="539.9" cy="65.2" r="4" fill="#3465a4"><title>Abaco Loyalist</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.1" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s12/db4r2db25lb7w1db5w2db5w1lb7db26r2~x2/"><circle cx="440.7" cy="119.2" r="4" fill="#3465a4"><title>Glasgow Caledonian University (Corp)</title></circle></a><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="434.1" cy="123.9" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.9" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><circle cx="437.4" cy="78.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2~x2/"><circle cx="400.2" cy="111.6" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.5" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/"><circle cx="491.6" cy="102.4" r="4" fill="#3465a4"><title>Miyuki</title></circle></a><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="396.1" cy="42.2" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.7" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/"><circle cx="539.9" cy="65.0" r="4" fill="#3465a4"><title>Abaco Loyalist</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.2" cy="63.6" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s12/db4r2db25lb7w1db5w2db5w1lb7db26r2~x2/"><circle cx="440.7" cy="119.1" r="4" fill="#3465a4"><title>Glasgow Caledonian University (Corp)</title></circle></a><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="434.1" cy="123.7" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.7" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><circle cx="437.4" cy="78.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/

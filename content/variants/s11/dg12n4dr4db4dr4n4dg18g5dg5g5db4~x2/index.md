@@ -1,14 +1,16 @@
 ---
 title: "Ralston Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ralston Personal Tartan"
-  url: ""
+  url: "/setts/dg12n4dr4db4dr4n4dg18g5dg5g5db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg12n4dr4db4dr4n4dg18g5dg5g5db4/)
-(the same proportion at any scale), whose colour order is pattern [BGGGGBBBBBG](/stripes/bggggbbbbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg12n4dr4db4dr4n4dg18g5dg5g5db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGGBBBBBG](/stripes/bggggbbbbbg/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2003 The tartan commemorates the 60th birthday of Michael R
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/"><circle cx="233.1" cy="269.1" r="4" fill="#3465a4"><title>Ralston (USA)</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><circle cx="402.1" cy="289.2" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/"><circle cx="378.7" cy="281.3" r="4" fill="#3465a4"><title>Blackwood (Loch Wood)</title></circle></a><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><circle cx="279.5" cy="268.7" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4b2y8b2y4g7dg2g2dg16w2dg4~x2~dg1304144-g2104115/"><circle cx="298.6" cy="222.3" r="4" fill="#3465a4"><title>Confessore</title></circle></a><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="379.5" cy="242.0" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><circle cx="323.0" cy="232.8" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s12/dg11lb3dg4y3dg3y4dg3dy13g3lb3g4dg3~x2/"><circle cx="204.6" cy="252.1" r="4" fill="#3465a4"><title>Harmony 2 &amp; 3</title></circle></a><circle cx="303.5" cy="270.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/"><circle cx="233.2" cy="269.0" r="4" fill="#3465a4"><title>Ralston (USA)</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><circle cx="402.1" cy="289.1" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/"><circle cx="378.7" cy="281.3" r="4" fill="#3465a4"><title>Blackwood (Loch Wood)</title></circle></a><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><circle cx="279.5" cy="268.7" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4b2y8b2y4g7dg2g2dg16w2dg4~x2~dg1304144-g2104115/"><circle cx="298.6" cy="222.2" r="4" fill="#3465a4"><title>Confessore</title></circle></a><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="379.5" cy="241.9" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><circle cx="323.0" cy="232.7" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s12/dg11lb3dg4y3dg3y4dg3dy13g3lb3g4dg3~x2/"><circle cx="204.6" cy="252.0" r="4" fill="#3465a4"><title>Harmony 2 &amp; 3</title></circle></a><circle cx="303.6" cy="270.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/

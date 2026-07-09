@@ -1,6 +1,7 @@
 ---
 title: "Glen Erin Canadian Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Glen Erin"
   url: "/tartans/glen-erin/"
 - name: "Glen Erin Canadian Tartan"
-  url: ""
+  url: "/setts/db16dg8dbi8dg8db16r3dy3g3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16dg8dbi8dg8db16r3dy3g3/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBRGG](/stripes/bgbgbrgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db16dg8dbi8dg8db16r3dy3g3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBRGG](/stripes/bgbgbrgg/).
 
 Part of the [Glen Erin](/tartans/glen-erin/) tartan — the named design grouping this sett with its other cloths.
 
@@ -29,7 +31,7 @@ Earliest known date: pre 2003 Many new designs have been given district names to
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/"><circle cx="230.6" cy="243.2" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/"><circle cx="176.9" cy="221.6" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/"><circle cx="220.2" cy="215.1" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="212.6" r="4" fill="#3465a4"><title>United Services Planning Assoc Corporate Tartan</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.5" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><circle cx="297.0" cy="194.9" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.6" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="196.4" cy="191.9" r="4" fill="#3465a4"><title>Patel Name Tartan</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="210.9" cy="188.1" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.8" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><circle cx="244.7" cy="245.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/"><circle cx="230.6" cy="243.1" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/"><circle cx="176.9" cy="221.6" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/"><circle cx="220.2" cy="215.1" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="212.6" r="4" fill="#3465a4"><title>United Services Planning Assoc Corporate Tartan</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><circle cx="297.1" cy="194.8" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.5" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="196.5" cy="191.9" r="4" fill="#3465a4"><title>Patel Name Tartan</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="211.0" cy="188.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.7" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><circle cx="244.8" cy="245.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/

@@ -1,5 +1,12 @@
 ---
 title: "Loch Tummel Trade Tartan"
-redirect: "/variants/s5/ly38w9ly3do9w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Loch Tummel Trade Tartan](/variants/s5/ly38w9ly3do9w3~x2/).
+This is the **Loch Tummel Trade Tartan** sett — one scale-free proportion (`ly38w9ly3do9w3`), colour order pattern
+[WBYWY](/stripes/wbywy/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Loch Tummel Trade Tartan](/variants/s5/ly38w9ly3do9w3~x2/) ★ | ~2003 | ![Loch Tummel Trade Tartan sett](/variants/s5/ly38w9ly3do9w3~x2/sett.png) |

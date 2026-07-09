@@ -1,5 +1,12 @@
 ---
 title: "Down, County"
-redirect: "/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Down, County](/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/).
+This is the **Down, County** sett — one scale-free proportion (`do64dr9o11dr4lb2lo2n5dr2lo13`), colour order pattern
+[BBRBWYBBY](/stripes/bbrbwybby/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Down, County](/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/) ★ | 1996 | ![Down, County sett](/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/sett.png) |

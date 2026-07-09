@@ -1,14 +1,16 @@
 ---
 title: "Hunter Graham Commemorative Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hunter Graham"
   url: "/setts/k10dg9w2dg9k10r1db8dp12k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10dg9w2dg9k10r1db8dp12k3/)
-(the same proportion at any scale), whose colour order is pattern [KBBRKGWGK](/stripes/kbbrkgwgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k10dg9w2dg9k10r1db8dp12k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBBRKGWGK](/stripes/kbbrkgwgk/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -23,7 +25,7 @@ Earliest known date: April 2009 Designed by and commemorating the wedding of Ade
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>April 2009 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2/"><circle cx="110.3" cy="181.8" r="4" fill="#3465a4"><title>Hunter Graham (Commemorative)</title></circle></a><a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/"><circle cx="106.5" cy="181.8" r="4" fill="#3465a4"><title>Hunter Graham</title></circle></a><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><circle cx="150.9" cy="190.2" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/variants/s10/dp22r3k22g22y2g22k22r3dp22w3~x2/"><circle cx="80.6" cy="159.9" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><a href="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/"><circle cx="103.6" cy="150.8" r="4" fill="#3465a4"><title>Erskine Veterans</title></circle></a><a href="/variants/s13/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12~x2/"><circle cx="153.8" cy="147.1" r="4" fill="#3465a4"><title>Greg Wells (Personal)</title></circle></a><a href="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/"><circle cx="135.0" cy="180.8" r="4" fill="#3465a4"><title>Galway County, Crest Range</title></circle></a><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/"><circle cx="141.0" cy="184.1" r="4" fill="#3465a4"><title>Tayside Police (Corporate)</title></circle></a><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/"><circle cx="112.0" cy="141.6" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/variants/s6/db9w2dg25do10k15dp4~x2/"><circle cx="171.8" cy="193.9" r="4" fill="#3465a4"><title>Staley (2014)</title></circle></a><circle cx="117.6" cy="183.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2/"><circle cx="110.3" cy="181.7" r="4" fill="#3465a4"><title>Hunter Graham (Commemorative)</title></circle></a><a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/"><circle cx="106.5" cy="181.7" r="4" fill="#3465a4"><title>Hunter Graham</title></circle></a><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><circle cx="150.9" cy="190.1" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/variants/s10/dp22r3k22g22y2g22k22r3dp22w3~x2/"><circle cx="80.6" cy="159.8" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><a href="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/"><circle cx="103.6" cy="150.6" r="4" fill="#3465a4"><title>Erskine Veterans</title></circle></a><a href="/variants/s13/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12~x2/"><circle cx="153.8" cy="146.9" r="4" fill="#3465a4"><title>Greg Wells (Personal)</title></circle></a><a href="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/"><circle cx="135.0" cy="180.7" r="4" fill="#3465a4"><title>Galway County, Crest Range</title></circle></a><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/"><circle cx="141.1" cy="184.0" r="4" fill="#3465a4"><title>Tayside Police (Corporate)</title></circle></a><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/"><circle cx="112.0" cy="141.5" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/variants/s6/db9w2dg25do10k15dp4~x2/"><circle cx="171.9" cy="193.8" r="4" fill="#3465a4"><title>Staley (2014)</title></circle></a><circle cx="117.6" cy="183.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~db1004274-dp1105325/

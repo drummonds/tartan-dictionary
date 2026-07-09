@@ -1,14 +1,16 @@
 ---
 title: "Lindley-Highfield of Ballumbie Castle"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lindley-Highfield of Ballumbie Castle"
-  url: ""
+  url: "/setts/dg7dp3w1g2dg1o2dp1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg7dp3w1g2dg1o2dp1/)
-(the same proportion at any scale), whose colour order is pattern [BRGGWBG](/stripes/brggwbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg7dp3w1g2dg1o2dp1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGGWBG](/stripes/brggwbg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.8" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1k2dp1~x8/"><circle cx="184.5" cy="196.7" r="4" fill="#3465a4"><title>Lindley-Highfield Name Tartan</title></circle></a><a href="/variants/s9/do15ly2do2w2do2dg10o6do3w2~x2~ly2806085-o2404072/"><circle cx="233.3" cy="191.5" r="4" fill="#3465a4"><title>Hebrides</title></circle></a><a href="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/"><circle cx="228.9" cy="199.8" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="180.6" cy="204.9" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.7" cy="208.0" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.5" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><circle cx="216.9" cy="210.0" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.4" cy="205.0" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.2" cy="250.3" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><circle cx="221.5" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.7" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1k2dp1~x8/"><circle cx="184.5" cy="196.6" r="4" fill="#3465a4"><title>Lindley-Highfield Name Tartan</title></circle></a><a href="/variants/s9/do15ly2do2w2do2dg10o6do3w2~x2~ly2806085-o2404072/"><circle cx="233.3" cy="191.4" r="4" fill="#3465a4"><title>Hebrides</title></circle></a><a href="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/"><circle cx="228.9" cy="199.7" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="180.6" cy="204.8" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.7" cy="207.9" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.6" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><circle cx="216.9" cy="209.9" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.4" cy="204.9" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.3" cy="250.2" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><circle cx="221.5" cy="215.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg7dp3w1g2dg1o2dp1~x8/

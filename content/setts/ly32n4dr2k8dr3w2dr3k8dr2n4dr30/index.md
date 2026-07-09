@@ -1,5 +1,12 @@
 ---
 title: "Varenne"
-redirect: "/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Varenne](/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/).
+This is the **Varenne** sett — one scale-free proportion (`ly32n4dr2k8dr3w2dr3k8dr2n4dr30`), colour order pattern
+[BBBKBWBKBBY](/stripes/bbbkbwbkbby/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Varenne](/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/) ★ | 2002 | ![Varenne sett](/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Holroyd, John (Personal)"
-redirect: "/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Holroyd, John (Personal)](/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/).
+This is the **Holroyd, John (Personal)** sett — one scale-free proportion (`y3lb21db12g3db3y3db3gi8g5db2g7w3`), colour order pattern
+[GWBGBGBGGBGW](/stripes/gwbgbgbggbgw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Holroyd, John (Personal)](/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/) ★ | 2015 | ![Holroyd, John (Personal) sett](/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/sett.png) |

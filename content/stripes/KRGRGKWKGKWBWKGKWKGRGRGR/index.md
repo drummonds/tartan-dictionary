@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/">Macan, of Lurgyvallan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/"><img src="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/sett.png" alt="Macan, of Lurgyvallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/">Macan of Lurgyvallan Portrait Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/"><img src="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/sett.png" alt="Macan of Lurgyvallan Portrait Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

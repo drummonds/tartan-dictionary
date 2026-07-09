@@ -1,14 +1,16 @@
 ---
 title: "Chicago University of.. Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Chicago University of.. Corporate Tartan"
-  url: ""
+  url: "/setts/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3/)
-(the same proportion at any scale), whose colour order is pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1991 William Rainey Harper, a Scot, was founder and first p
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1991 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/"><circle cx="316.8" cy="90.6" r="4" fill="#3465a4"><title>(5) Ruxton hunting</title></circle></a><a href="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/"><circle cx="352.7" cy="81.8" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/variants/s15/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5~x2/"><circle cx="362.4" cy="125.9" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2~r2109013/"><circle cx="355.1" cy="77.8" r="4" fill="#3465a4"><title>O'Meehan</title></circle></a><a href="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="270.4" cy="138.4" r="4" fill="#3465a4"><title>Brad Majors</title></circle></a><a href="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="265.8" cy="137.1" r="4" fill="#3465a4"><title>Brad Majors (Fashion)</title></circle></a><a href="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/"><circle cx="262.7" cy="113.7" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/"><circle cx="295.3" cy="103.8" r="4" fill="#3465a4"><title>Glennie, The Rhythms of Evelyn</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.7" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s11/r25k4r2k3y2k2db3r2k3db2k2~x2/"><circle cx="294.4" cy="103.6" r="4" fill="#3465a4"><title>The Rhythms of Evelyn Glennie</title></circle></a><circle cx="368.5" cy="108.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/"><circle cx="316.8" cy="90.5" r="4" fill="#3465a4"><title>(5) Ruxton hunting</title></circle></a><a href="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/"><circle cx="352.7" cy="81.7" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/variants/s15/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5~x2/"><circle cx="362.4" cy="125.7" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2~r2109013/"><circle cx="355.0" cy="77.6" r="4" fill="#3465a4"><title>O'Meehan</title></circle></a><a href="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="270.4" cy="138.3" r="4" fill="#3465a4"><title>Brad Majors</title></circle></a><a href="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="265.8" cy="137.0" r="4" fill="#3465a4"><title>Brad Majors (Fashion)</title></circle></a><a href="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/"><circle cx="262.7" cy="113.5" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/"><circle cx="295.3" cy="103.6" r="4" fill="#3465a4"><title>Glennie, The Rhythms of Evelyn</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s11/r25k4r2k3y2k2db3r2k3db2k2~x2/"><circle cx="294.4" cy="103.5" r="4" fill="#3465a4"><title>The Rhythms of Evelyn Glennie</title></circle></a><circle cx="368.5" cy="108.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3~x2~r1506019-ri2109032/

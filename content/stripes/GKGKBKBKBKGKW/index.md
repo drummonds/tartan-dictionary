@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/">Campbell Loudon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/"><img src="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/sett.png" alt="Campbell Loudon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/">Campbell of Loudon</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><img src="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/sett.png" alt="Campbell of Loudon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/">Campbell of Loudoun</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><img src="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/sett.png" alt="Campbell of Loudoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/">Campbell of Loudoun (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><img src="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/sett.png" alt="Campbell of Loudoun (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/">Campbell of Loudoun Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/"><img src="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/sett.png" alt="Campbell of Loudoun Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

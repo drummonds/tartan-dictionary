@@ -1,5 +1,12 @@
 ---
 title: "Scottish Parliament Official Corporate Tartan"
-redirect: "/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scottish Parliament Official Corporate Tartan](/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/).
+This is the **Scottish Parliament Official Corporate Tartan** sett — one scale-free proportion (`o60g2db4r1db4g2o3w1dp20w1o5db2`), colour order pattern
+[BRWBWRGBRBGR](/stripes/brwbwrgbrbgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scottish Parliament Official Corporate Tartan](/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/) ★ | ~2016 | ![Scottish Parliament Official Corporate Tartan sett](/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Florence (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Florence (Fashion)"
-  url: ""
+  url: "/setts/oi32dp8oi1dp1w1oi1w1o1oi1dp1n1oi4dp1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/oi32dp8oi1dp1w1oi1w1o1oi1dp1n1oi4dp1/)
-(the same proportion at any scale), whose colour order is pattern [BRBBRRWRWBRBR](/stripes/brbbrrwrwbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/oi32dp8oi1dp1w1oi1w1o1oi1dp1n1oi4dp1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBBRRWRWBRBR](/stripes/brbbrrwrwbrbr/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/"><circle cx="469.3" cy="109.1" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><circle cx="495.0" cy="68.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/"><circle cx="469.3" cy="108.9" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><circle cx="495.0" cy="68.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/oi32dp8oi1dp1w1oi1w1o1oi1dp1n1oi4dp1~x4~oi2603303-o2403057/

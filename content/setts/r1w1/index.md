@@ -2,13 +2,13 @@
 title: "Spare"
 date: 2023-03-18
 ---
-The **Spare** tartan is one sett proportion (`r1w1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[RW](/stripes/rw/); each scale below is its own sett page. First attested **1997**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Spare** sett — one scale-free proportion (`r1w1`), colour order pattern
+[RW](/stripes/rw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1997**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×40 | [MacMedic](/variants/s2/r1w1~x40/) ★ | 1997 | ![MacMedic sett](/variants/s2/r1w1~x40/sett.png) |
 | ×5 | [Spare](/variants/s2/r1w1~x5/) | ~2016 | ![Spare sett](/variants/s2/r1w1~x5/sett.png) |

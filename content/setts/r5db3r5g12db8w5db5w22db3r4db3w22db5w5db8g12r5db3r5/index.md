@@ -1,5 +1,12 @@
 ---
 title: "Unidentified #56"
-redirect: "/variants/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified #56](/variants/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/).
+This is the **Unidentified #56** sett — one scale-free proportion (`r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5`), colour order pattern
+[RBRGBWBWBRBWBWBGRBR](/stripes/rbrgbwbwbrbwbwbgrbr/). It is recorded as a single **variant**, below.
+First attested **1977**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified #56](/variants/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/) ★ | 1977 | ![Unidentified #56 sett](/variants/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/sett.png) |

@@ -1172,9 +1172,9 @@ weight: 8
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.01 | [Masai Shuka 08 (Artefact)](/variants/s8/r55w20r8w2r8w2r8w2~x2/) | tartans-authority |
-| 0.01 | [Menzies](/variants/s8/r36w4r3w4r6w2r1w12~x2/) | weddslist |
 | 0.01 | [Menzies (1815)](/variants/s8/r36w4r3w4r6w2r1w12~x4/) | register-of-tartans |
 | 0.01 | [Menzies Dress](/variants/s8/r36w4r3w4r6w2r1w12/) | weddslist |
+| 0.01 | [Menzies Red & White Clan Tartan](/variants/s8/r36w4r3w4r6w2r1w12~x2/) | house-of-tartan |
 | 0.01 | [Walk the Walk (Corporate)](/variants/s8/w60r15w3r3w3r3w5r15~x2/) | tartans-authority |
 | 0.06 | [Menzies, Brown & White](/variants/s8/o31w5o2w5o4w3o2w7~x2/) | weddslist |
 
@@ -1206,7 +1206,7 @@ weight: 8
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.06 | [Chisholm](/variants/s8/r12db2w1db2r3g8r3db1/) | weddslist |
-| 0.06 | [Chisholm, The](/variants/s8/r12db2w1db2r3g8r3db1~x2/) | weddslist |
+| 0.06 | [Chisholm (Portrait) The.. Clan Tartan](/variants/s8/r12db2w1db2r3g8r3db1~x2/) | house-of-tartan |
 | 0.09 | [Chisholm, The](/variants/s8/r12t2w1t2r3g8r3t1~x4/) | register-of-tartans |
 | 0.09 | [Chisholm](/variants/s8/r12dr2w1dr2r3g8r3dr1~x2/) | weddslist |
 | 0.09 | [Chisholm](/variants/s8/r12dr2w1dr2r3g8r3dr1/) | weddslist |
@@ -1228,8 +1228,8 @@ weight: 8
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.00 | [Douglas VS](/variants/s8/k16w1k1w1k8w16k1w2~x2/) | weddslist |
-| 0.00 | [Menzies](/variants/s8/k32w4k2w4k4w2k1w6~x2/) | weddslist |
 | 0.00 | [Menzies (1938)](/variants/s8/k36w4k3w4k6w2k1w12~x4/) | register-of-tartans |
+| 0.00 | [Menzies B/W Clan Tartan](/variants/s8/k32w4k2w4k4w2k1w6~x2/) | house-of-tartan |
 | 0.00 | [Priest](/variants/s8/k1w8k8w1k8w4k4w1~x2/) | weddslist |
 | 0.06 | [Nowell/Noel 1951 (Name)](/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/) | tartans-authority |
 
@@ -1319,7 +1319,7 @@ weight: 8
 |---|---|---|
 | 0.15 | [Remony (Red)](/variants/s8/dr17db2dr2db13dr2db2g17db2~x2/) | register-of-tartans |
 | 0.16 | [Caledonian Hotel (Corporate)](/variants/s8/n9db1n1db1n1db7dg7dr2~x4/) | tartans-authority |
-| 0.16 | [Gammell](/variants/s8/db32do3db3do3db3do10g24dr3~x2/) | weddslist |
+| 0.16 | [Gammell Family Tartan](/variants/s8/db32do3db3do3db3do10g24dr3~x2/) | house-of-tartan |
 
 ### BGBGKBGG
 <a class="pat" href="/stripes/bgbgkbgg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BGBGKBGG</span></a>
@@ -1335,8 +1335,8 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Baird](/variants/s8/db3k2db8k8g8dp1g1dp3~x2/) | weddslist |
 | 0.10 | [Baird (Modern)](/variants/s8/db3k2db8k8g8dp1g1dp3~x4/) | register-of-tartans |
+| 0.10 | [Baird Clan Tartan](/variants/s8/db3k2db8k8g8dp1g1dp3~x2/) | house-of-tartan |
 | 0.11 | [Baird](/variants/s8/dr3g1dr1g8k8db8k2db3~x2/) | weddslist |
 
 ### BGWBYGBG
@@ -1371,8 +1371,8 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Brown](/variants/s8/db6r1db2r1db2k18r8g2~x4/) | register-of-tartans |
 | 0.06 | [Brown](/variants/s8/db6r1db2r1db2k18r8g2~x2/) | weddslist |
+| 0.06 | [Brown Family Tartan](/variants/s8/db6r1db2r1db2k18r8g2~x4/) | house-of-tartan |
 | 0.08 | [Scotch House 2000, antique](/variants/s8/db22r3db2r3db2k17o18dg4~x2/) | weddslist |
 
 ### BRBRWRBR
@@ -1381,7 +1381,7 @@ weight: 8
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.04 | [Edinburgh Marketing](/variants/s8/db6r1db1r2w1r2db1r3~x4/) | register-of-tartans |
-| 0.04 | [Edinburgh Marketing](/variants/s8/db38r6db6r9w5r12db8r16/) | weddslist |
+| 0.04 | [Edinburgh Marketing Corporate Tartan](/variants/s8/db38r6db6r9w5r12db8r16/) | house-of-tartan |
 | 0.04 | [Edinburgh TIC (Corporate)](/variants/s8/db32r3db3r4w3r5db4r7~x2/) | tartans-authority |
 
 ### BRGBWBRG
@@ -1389,7 +1389,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [MacHardy](/variants/s8/db3r3g18db16w2db26r3g3~x2/) | weddslist |
+| 0.06 | [MacHardy Clan Tartan](/variants/s8/db3r3g18db16w2db26r3g3~x2/) | house-of-tartan |
 | 0.06 | [MacHardy, Blue](/variants/s8/db6r3g26db26w4db26r5g5~x2/) | register-of-tartans |
 | 0.08 | [MacHardy (Clan)](/variants/s8/dt6r3dg26dt26w2dt27r5dg5~x2/) | tartans-authority |
 
@@ -1416,8 +1416,8 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.03 | [Buccleuch, Check](/variants/s5/k1w1k1w1db1~x12/) | weddslist |
-| 0.05 | [Menzies Mauve and White](/variants/s8/dp120w10k4w11k3w5k3w19/) | register-of-tartans |
+| 0.03 | [Buccleuch Check Regimental Tartan](/variants/s5/k1w1k1w1db1~x12/) | house-of-tartan |
+| 0.05 | [Menzies Mauve Dress Clan Tartan](/variants/s8/dp120w10k4w11k3w5k3w19/) | house-of-tartan |
 | 0.07 | [Haig Check (Estate Check)](/variants/s5/k1w1k1w1t1~x12/) | tartans-authority |
 
 ### GBGBGBGR
@@ -1471,7 +1471,7 @@ weight: 8
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.10 | [Johnston](/variants/s8/y3g2k1g30db24k2db2k2/) | weddslist |
-| 0.10 | [Johnston / Johnstone](/variants/s8/y3g2k1g30db24k2db2k2~x2/) | weddslist |
+| 0.10 | [Johnston Clan Tartan](/variants/s8/y3g2k1g30db24k2db2k2~x2/) | house-of-tartan |
 | 0.13 | [Johnston (Clan)](/variants/s8/y3g2k1g30t24k2t2k2~x2/) | tartans-authority |
 
 ### GGKRBKWK
@@ -1515,7 +1515,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Oilmens (Corporate)](/variants/s8/y4k1r30k15r24k2r4k1~x4/) | tartans-authority |
+| 0.07 | [Oilmens Corporate Tartan](/variants/s8/y4k1r30k15r24k2r4k1~x4/) | house-of-tartan |
 | 0.07 | [Royal Army Physical Training Corps Association (Scotland)](/variants/s8/k94r3k6r3k8r15k2y3~x2/) | register-of-tartans |
 | 0.07 | [Royal Army PTC Assoc. (Military)](/variants/s8/k59r3k6r3k8r15k2dy3~x2/) | tartans-authority |
 
@@ -1596,8 +1596,8 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Inverness](/variants/s8/r36db3w1db6g1k1g1r9~x2/) | weddslist |
 | 0.05 | [Inverness - 1829 (District)](/variants/s8/r36db3w1db6g1k1g1r9~x4/) | tartans-authority |
+| 0.05 | [Inverness District Tartan](/variants/s8/r36db3w1db6g1k1g1r9~x2/) | house-of-tartan |
 | 0.06 | [Inverness #2](/variants/s8/r114db10w3db16y3k3y3r28~x2/) | register-of-tartans |
 
 ### RWBGKWKW
@@ -1605,7 +1605,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Ailsa, Craig](/variants/s8/r5w2db20y2k16w18k2w5~x2/) | weddslist |
+| 0.06 | [Ailsa Craig Trade Tartan](/variants/s8/r5w2db20y2k16w18k2w5~x2/) | house-of-tartan |
 | 0.09 | [Culloden Dress](/variants/s8/r6lb3dp24y2k23w23k2w6~x2/) | register-of-tartans |
 | 0.09 | [Humming Bird (Fashion)](/variants/s8/r6lb3dp20y2k20w20k2w5~x2/) | tartans-authority |
 
@@ -1807,7 +1807,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Scotch Whisky, Heritage](/variants/s8/db73g16db10r8db10k4db10w2/) | weddslist |
+| 0.05 | [Scotch Whisky Heritage Corporate Tartan](/variants/s8/db73g16db10r8db10k4db10w2/) | house-of-tartan |
 | 0.07 | [Scotch Whisky Heritage Centre](/variants/s8/db73g16db10r8db10k4db10w2~x2/) | register-of-tartans |
 
 ### BGBWBWBG
@@ -1879,7 +1879,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Gillies](/variants/s8/db32k12db12g6r6g18k2y3~x2/) | weddslist |
+| 0.09 | [Gillies Clan Tartan](/variants/s8/db32k12db12g6r6g18k2y3~x2/) | house-of-tartan |
 | 0.11 | [Gillies (House of Edgar)](/variants/s8/t32k12t12g6r6g18k2y3~x2/) | register-of-tartans |
 
 ### BKBKBKGW

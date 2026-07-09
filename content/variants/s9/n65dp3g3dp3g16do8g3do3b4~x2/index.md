@@ -1,14 +1,16 @@
 ---
 title: "Scottish National (hunting)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish National (hunting)"
-  url: ""
+  url: "/setts/n65dp3g3dp3g16do8g3do3b4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n65dp3g3dp3g16do8g3do3b4/)
-(the same proportion at any scale), whose colour order is pattern [BBGBGBGBB](/stripes/bbgbgbgbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n65dp3g3dp3g16do8g3do3b4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBGBGBB](/stripes/bbgbgbgbb/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n66m3g3m3g16dr8g3dr3r4~x2/"><circle cx="341.0" cy="114.9" r="4" fill="#3465a4"><title>Scottish National Hunting</title></circle></a><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="438.8" cy="218.6" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="485.3" cy="233.3" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="411.9" cy="199.7" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><circle cx="453.2" cy="167.4" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="504.0" cy="169.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n66m3g3m3g16dr8g3dr3r4~x2/"><circle cx="341.0" cy="114.8" r="4" fill="#3465a4"><title>Scottish National Hunting</title></circle></a><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="438.8" cy="218.5" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="485.3" cy="233.2" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="412.0" cy="199.6" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><circle cx="453.2" cy="167.2" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="504.0" cy="169.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/

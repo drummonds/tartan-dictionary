@@ -1,14 +1,16 @@
 ---
 title: "Cavan Irish County Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cavan Irish County Tartan"
-  url: ""
+  url: "/setts/k3r9k14o3k14dg24k2o3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r9k14o3k14dg24k2o3/)
-(the same proportion at any scale), whose colour order is pattern [KRKKRKKGKR](/stripes/krkkrkkgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3r9k14o3k14dg24k2o3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKKRKKGKR](/stripes/krkkrkkgkr/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1996 One of a series of Irish District tartans designed by 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1996 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.2" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="166.9" cy="153.0" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/"><circle cx="93.7" cy="182.4" r="4" fill="#3465a4"><title>Tupper, Sir Charles</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.9" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.0" cy="146.1" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/"><circle cx="120.5" cy="179.9" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><circle cx="171.3" cy="173.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.8" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><circle cx="194.0" cy="159.6" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.6" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><circle cx="122.5" cy="152.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.1" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="166.9" cy="152.9" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/"><circle cx="93.7" cy="182.4" r="4" fill="#3465a4"><title>Tupper, Sir Charles</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.8" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.0" cy="146.0" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/"><circle cx="120.5" cy="179.8" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><circle cx="171.3" cy="173.1" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><circle cx="194.0" cy="159.5" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.5" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><circle cx="122.5" cy="152.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/

@@ -1,14 +1,16 @@
 ---
 title: "Quebec Centennial #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Quebec Centennial #2"
-  url: ""
+  url: "/setts/db16k4lb4db8lb24k2dr27k12lb6k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16k4lb4db8lb24k2dr27k12lb6k1/)
-(the same proportion at any scale), whose colour order is pattern [BKWBWKBKWK](/stripes/bkwbwkbkwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db16k4lb4db8lb24k2dr27k12lb6k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBWKBKWK](/stripes/bkwbwkbkwk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><circle cx="166.7" cy="107.6" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.7" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><circle cx="151.0" cy="126.8" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s10/db4k4db23k12g10k1w23dp2w2dp4~x2/"><circle cx="107.9" cy="117.9" r="4" fill="#3465a4"><title>Baird Dress</title></circle></a><a href="/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/"><circle cx="122.1" cy="123.9" r="4" fill="#3465a4"><title>MacDonald Dress (Irish)</title></circle></a><a href="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/"><circle cx="104.0" cy="116.6" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/variants/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/"><circle cx="159.0" cy="138.6" r="4" fill="#3465a4"><title>MacInroy (Wedding) (Personal)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.2" cy="126.3" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.6" cy="119.6" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/"><circle cx="121.0" cy="136.2" r="4" fill="#3465a4"><title>Dinarzh: (Fashion)</title></circle></a><circle cx="150.5" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><circle cx="166.7" cy="107.5" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.6" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><circle cx="151.0" cy="126.7" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s10/db4k4db23k12g10k1w23dp2w2dp4~x2/"><circle cx="107.9" cy="117.8" r="4" fill="#3465a4"><title>Baird Dress</title></circle></a><a href="/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/"><circle cx="122.1" cy="123.7" r="4" fill="#3465a4"><title>MacDonald Dress (Irish)</title></circle></a><a href="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/"><circle cx="104.0" cy="116.5" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/variants/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/"><circle cx="159.0" cy="138.5" r="4" fill="#3465a4"><title>MacInroy (Wedding) (Personal)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.2" cy="126.2" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.6" cy="119.5" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/"><circle cx="120.9" cy="136.1" r="4" fill="#3465a4"><title>Dinarzh: (Fashion)</title></circle></a><circle cx="150.5" cy="136.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db16k4lb4db8lb24k2dr27k12lb6k1~x2/

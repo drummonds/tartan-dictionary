@@ -1,6 +1,7 @@
 ---
 title: "Davidson of Tulloch"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Davidson of Tulloch"
   url: "/tartans/davidson-of-tulloch/"
 - name: "Davidson of Tulloch"
-  url: ""
+  url: "/setts/r6db35k36dbi36w6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6db35k36dbi36w6/)
-(the same proportion at any scale), whose colour order is pattern [RBKBW](/stripes/rbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r6db35k36dbi36w6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKBW](/stripes/rbkbw/).
 
 Part of the [Davidson of Tulloch](/tartans/davidson-of-tulloch/) tartan — the named design grouping this sett with its other cloths.
 
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.4" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.8" cy="248.5" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.4" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.5" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="169.2" cy="223.5" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="66.0" cy="265.3" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="96.8" cy="213.8" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="52.1" cy="234.3" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s6/b4dg25k24w3db24w4~x2/"><circle cx="102.3" cy="201.9" r="4" fill="#3465a4"><title>Herd</title></circle></a><circle cx="105.2" cy="235.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.4" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.9" cy="248.5" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.4" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="169.2" cy="223.4" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="66.1" cy="265.3" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="96.8" cy="213.7" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="52.1" cy="234.3" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s6/b4dg25k24w3db24w4~x2/"><circle cx="102.3" cy="201.9" r="4" fill="#3465a4"><title>Herd</title></circle></a><circle cx="105.2" cy="235.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/

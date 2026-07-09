@@ -1,5 +1,12 @@
 ---
 title: "Clark Clerk(e)"
-redirect: "/variants/s5/dr3k1g1k1db3~x16/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Clark Clerk(e)](/variants/s5/dr3k1g1k1db3~x16/).
+This is the **Clark Clerk(e)** sett — one scale-free proportion (`dr3k1g1k1db3`), colour order pattern
+[BKGKB](/stripes/bkgkb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×16 | [Clark Clerk(e)](/variants/s5/dr3k1g1k1db3~x16/) ★ | ~2016 | ![Clark Clerk(e) sett](/variants/s5/dr3k1g1k1db3~x16/sett.png) |

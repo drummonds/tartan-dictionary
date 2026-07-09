@@ -1,5 +1,12 @@
 ---
 title: "Twempy"
-redirect: "/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Twempy](/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/).
+This is the **Twempy** sett — one scale-free proportion (`k1dr4k1w3k1g7k2db16r2ly1`), colour order pattern
+[KBKWKGKBRY](/stripes/kbkwkgkbry/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Twempy](/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/) ★ | 2002 | ![Twempy sett](/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/sett.png) |

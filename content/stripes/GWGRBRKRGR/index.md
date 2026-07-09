@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/">Seton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><img src="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/sett.png" alt="Seton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/">Seton (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><img src="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/sett.png" alt="Seton (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/">Seton Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><img src="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/sett.png" alt="Seton Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

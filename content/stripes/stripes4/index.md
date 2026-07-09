@@ -234,16 +234,16 @@ weight: 4
 |---|---|---|
 | 0.07 | [Applecross](/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/) | register-of-tartans |
 | 0.08 | [Applecross (District)](/variants/s4/r18g7r2g18~x4/) | tartans-authority |
-| 0.08 | [Applecross, (MacDonald)](/variants/s4/r18g7r2g18~x2/) | weddslist |
+| 0.08 | [Applecross (MacDonald) District Tartan](/variants/s4/r18g7r2g18~x2/) | house-of-tartan |
 | 0.08 | [Duke of Windsor (Royal)](/variants/s4/g75r2g4r40~x2/) | tartans-authority |
 | 0.08 | [MacDonald Lord of the Isles](/variants/s4/r38g2r5g16/) | weddslist |
 | 0.08 | [MacDonald Lord of the Isles](/variants/s4/r38g2r5g16~x2/) | weddslist |
-| 0.08 | [MacDonald of Sleat](/variants/s4/r36g2r5g16~x2/) | register-of-tartans |
+| 0.08 | [MacDonald of Sleat Clan Tartan](/variants/s4/r36g2r5g16~x2/) | house-of-tartan |
 | 0.08 | [MacGregor of Glenstrae #2](/variants/s3/r17g9r2~x2/) | register-of-tartans |
 | 0.08 | [Middleton](/variants/s4/g16r1g2r11~x8/) | register-of-tartans |
 | 0.09 | [MacDonald of Sleat - 1810 (Clan)](/variants/s4/r36dg2r5dg16~x2/) | tartans-authority |
 | 0.10 | [Scania 1658](/variants/s4/r60y7r5y2~x2/) | register-of-tartans |
-| 0.11 | [Bryce](/variants/s4/r1g7r9y1~x4/) | weddslist |
+| 0.11 | [Bryce Family Tartan](/variants/s4/r1g7r9y1~x4/) | house-of-tartan |
 
 ### GKGK
 <a class="pat" href="/stripes/gkgk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">GKGK</span></a>
@@ -254,10 +254,10 @@ weight: 4
 | 0.06 | [Graham](/variants/s3/g12k4g1~x2/) | register-of-tartans |
 | 0.09 | [Justus](/variants/s3/k5y1k1~x12/) | weddslist |
 | 0.09 | [Raeburn](/variants/s4/k34y3k34y26~x2/) | register-of-tartans |
-| 0.09 | [Raeburn](/variants/s4/k6y1k6y6~x6/) | weddslist |
+| 0.09 | [Raeburn Family Tartan](/variants/s4/k6y1k6y6~x6/) | house-of-tartan |
 | 0.10 | [Scotch Tape 2 (Corporate)](/variants/s4/k3g15k20y3~x2/) | tartans-authority |
 | 0.10 | [Wallace Hunting](/variants/s4/k1g8k8y1/) | weddslist |
-| 0.10 | [Wallace, hunting](/variants/s4/k4g33k33y4~x2/) | weddslist |
+| 0.10 | [Wallace Hunting Clan Tartan](/variants/s4/k4g33k33y4~x2/) | house-of-tartan |
 
 ### BKBK
 <a class="pat" href="/stripes/bkbk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBK</span></a>
@@ -303,9 +303,9 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Barclay](/variants/s4/r1g16db16g1~x2/) | weddslist |
 | 0.09 | [Barclay Htg (Clan)](/variants/s4/r1g16db16g1~x4/) | tartans-authority |
 | 0.09 | [Barclay Hunting](/variants/s4/r1g16db16g1/) | weddslist |
+| 0.09 | [Barclay Hunting Clan Tartan](/variants/s4/r1g16db16g1~x2/) | house-of-tartan |
 | 0.10 | [Barclay](/variants/s4/r1g16db16g1~x2~r2109032-db1406275/) | register-of-tartans |
 | 0.12 | [McWilliams (2014)](/variants/s4/y22dp1g22r4~x4/) | tartans-authority |
 | 0.12 | [McWilliams Hunting (2014)](/variants/s4/dy22dp1g22r4~x4/) | register-of-tartans |
@@ -315,9 +315,9 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.01 | [Ettrick](/variants/s4/k6r31k31r6~x2/) | weddslist |
 | 0.01 | [Ettrick (District)](/variants/s4/k5r26k26r5~x4/) | register-of-tartans |
-| 0.01 | [Lendrum, or MacFarlane](/variants/s3/k67r32k6/) | weddslist |
+| 0.01 | [Ettrick District Tartan](/variants/s4/k6r31k31r6~x2/) | house-of-tartan |
+| 0.01 | [Lendrum or MacFarlane Clan Tartan](/variants/s3/k67r32k6/) | house-of-tartan |
 | 0.01 | [MacFarlane Red & Black (Artefact)](/variants/s3/k30r17k3~x4/) | tartans-authority |
 | 0.01 | [Masai Shuka 12 (Artefact)](/variants/s3/r25k5r1~x4/) | tartans-authority |
 | 0.06 | [Crombie House Check](/variants/s4/k19o7k26o3~x2/) | weddslist |
@@ -328,9 +328,9 @@ weight: 4
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.00 | [Lendrum (B&W)](/variants/s3/k7w6k1~x4/) | register-of-tartans |
+| 0.00 | [MacFarlane B/W or Lendrum Clan Tartan](/variants/s3/k7w6k1~x2/) | house-of-tartan |
 | 0.00 | [MacFarlane VS](/variants/s3/k7w6k1/) | weddslist |
-| 0.00 | [MacFarlane VS](/variants/s3/k7w6k1~x2/) | weddslist |
-| 0.00 | [MacPhee (Black and White)](/variants/s4/k22w3k3w22~x2/) | register-of-tartans |
+| 0.00 | [MacPhee (B&W) Clan Tartan](/variants/s4/k22w3k3w22~x2/) | house-of-tartan |
 | 0.04 | [Covenanter](/variants/s4/w30k1w1k2~x2/) | register-of-tartans |
 | 0.09 | [Shepherd or Falkirk](/variants/s2/k1lb1~x6/) | register-of-tartans |
 
@@ -396,8 +396,8 @@ weight: 4
 |---|---|---|
 | 0.07 | [One Account (Corporate)](/variants/s4/y6w5y12r2~x2/) | tartans-authority |
 | 0.08 | [MacLaine of Lochbuie](/variants/s4/r32g8w4y1/) | weddslist |
-| 0.13 | [MacLaine of Lochbuie](/variants/s4/r32g8lb4y1~x2/) | weddslist |
 | 0.13 | [MacLaine of Lochbuie](/variants/s4/r32g8lb4y1/) | weddslist |
+| 0.13 | [MacLaine of Lochbuie Clan Tartan](/variants/s4/r32g8lb4y1~x2/) | house-of-tartan |
 | 0.13 | [MacLaine of Lochbuie (Coburn)](/variants/s4/r32dg8lb4y1~x2/) | register-of-tartans |
 
 ### RBKW
@@ -447,7 +447,7 @@ weight: 4
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.06 | [Harbison (2015)](/variants/s4/db21g34r14w6~x2/) | tartans-authority |
-| 0.06 | [Thorntons Law (Corporate)](/variants/s4/db10g10r5w1~x2/) | tartans-authority |
+| 0.06 | [Thorntons Law Corporate Tartan](/variants/s4/db10g10r5w1~x2/) | house-of-tartan |
 | 0.07 | [Wilson's No.189](/variants/s4/dp4g10r1w1~x2~r2109032/) | register-of-tartans |
 | 0.07 | [Norwich University](/variants/s4/db39y8r3w1~x4/) | register-of-tartans |
 
@@ -625,7 +625,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Englehart](/variants/s4/g53r13db2y22~x2/) | weddslist |
+| 0.11 | [Englehart Commemorative Tartan](/variants/s4/g53r13db2y22~x2/) | house-of-tartan |
 | 0.12 | [Englehart, City of](/variants/s4/g27r9b2y14~x4/) | register-of-tartans |
 | 0.13 | [Stirling of Keir (Clan)](/variants/s4/dg1dr10r10dg1~x6/) | tartans-authority |
 
@@ -661,8 +661,8 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Connel](/variants/s4/y1k8r8w1~x2/) | weddslist |
 | 0.05 | [Connel (Clan)](/variants/s4/y1k8r8w1~x4/) | tartans-authority |
+| 0.05 | [Connel Clan Tartan](/variants/s4/y1k8r8w1~x2/) | house-of-tartan |
 | 0.05 | [Masai Shuka 18 (Artefact)](/variants/s4/y6k3r40w3~x2/) | tartans-authority |
 
 ### RGBW
@@ -1048,7 +1048,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Quaboos Pipers Plaid](/variants/s4/w9r23g23w9~x2/) | register-of-tartans |
+| 0.05 | [Quaboos Pipers Plaid Regimental Tartan](/variants/s4/w9r23g23w9~x2/) | house-of-tartan |
 | 0.09 | [Dunoon Irish](/variants/s4/w2dg13o13w2~x6/) | register-of-tartans |
 
 ### WGYW

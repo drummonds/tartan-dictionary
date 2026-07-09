@@ -1,5 +1,12 @@
 ---
 title: "Illinois St.Andrews Society"
-redirect: "/variants/s13/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Illinois St.Andrews Society](/variants/s13/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6~x2/).
+This is the **Illinois St.Andrews Society** sett — one scale-free proportion (`db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6`), colour order pattern
+[BBWBYWBWYWBBBBBWYWBWYBWB](/stripes/bbwbywbwywbbbbbwywbwybwb/). It is recorded as a single **variant**, below.
+First attested **1990**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Illinois St.Andrews Society](/variants/s13/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6~x2/) ★ | 1990 | ![Illinois St.Andrews Society sett](/variants/s13/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6~x2/sett.png) |

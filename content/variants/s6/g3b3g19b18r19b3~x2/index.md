@@ -1,14 +1,16 @@
 ---
 title: "MacNab 1"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNab 1"
-  url: ""
+  url: "/setts/g3b3g19b18r19b3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3b3g19b18r19b3/)
-(the same proportion at any scale), whose colour order is pattern [BRBGBG](/stripes/brbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g3b3g19b18r19b3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBGBG](/stripes/brbgbg/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.8" cy="225.0" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.3" cy="240.0" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="277.0" cy="222.8" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="194.1" cy="267.0" r="4" fill="#3465a4"><title>Tennant (Yules)</title></circle></a><a href="/variants/s7/r1do7g7db7g7db7r1~x4/"><circle cx="194.4" cy="266.8" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.2" cy="238.3" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/variants/s7/r6db2r2db21g20r4g4~x2/"><circle cx="259.0" cy="216.8" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.1" cy="296.5" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.1" cy="294.3" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><circle cx="250.1" cy="270.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.8" cy="224.9" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.3" cy="239.9" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="277.0" cy="222.7" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="194.2" cy="266.9" r="4" fill="#3465a4"><title>Tennant (Yules)</title></circle></a><a href="/variants/s7/r1do7g7db7g7db7r1~x4/"><circle cx="194.5" cy="266.8" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.2" cy="238.3" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/variants/s7/r6db2r2db21g20r4g4~x2/"><circle cx="259.0" cy="216.7" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.1" cy="296.5" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.2" cy="294.3" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><circle cx="250.2" cy="270.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g3b3g19b18r19b3~x2/

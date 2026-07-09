@@ -1,5 +1,12 @@
 ---
 title: "Rajput"
-redirect: "/variants/s6/db6dr39db10dr10db21y5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rajput](/variants/s6/db6dr39db10dr10db21y5~x2/).
+This is the **Rajput** sett — one scale-free proportion (`db6dr39db10dr10db21y5`), colour order pattern
+[BBBBBG](/stripes/bbbbbg/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Rajput](/variants/s6/db6dr39db10dr10db21y5~x2/) ★ | 2003 | ![Rajput sett](/variants/s6/db6dr39db10dr10db21y5~x2/sett.png) |

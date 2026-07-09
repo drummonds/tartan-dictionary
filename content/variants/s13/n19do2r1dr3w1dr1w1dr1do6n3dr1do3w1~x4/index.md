@@ -1,14 +1,16 @@
 ---
 title: "Leando Hunting (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Leando Hunting (Personal)"
-  url: ""
+  url: "/setts/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1/)
-(the same proportion at any scale), whose colour order is pattern [BBRBWBWBBBBBW](/stripes/bbrbwbwbbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBWBWBBBBBW](/stripes/bbrbwbwbbbbbw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.0" cy="123.7" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.3" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/"><circle cx="314.6" cy="104.3" r="4" fill="#3465a4"><title>Holyoke St. Patrick's</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.3" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><circle cx="342.6" cy="153.9" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/"><circle cx="343.9" cy="104.4" r="4" fill="#3465a4"><title>Barcelona English School</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/"><circle cx="343.9" cy="104.4" r="4" fill="#3465a4"><title>Barcelona English School (School)</title></circle></a><a href="/variants/s10/r18db2r2db2r3db14dg29y1dg2y4~x2~db1406275/"><circle cx="329.0" cy="118.1" r="4" fill="#3465a4"><title>Unidentified Lindley #2</title></circle></a><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><circle cx="271.2" cy="101.4" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.6" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><circle cx="335.0" cy="124.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.1" cy="123.6" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/"><circle cx="314.6" cy="104.1" r="4" fill="#3465a4"><title>Holyoke St. Patrick's</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.1" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><circle cx="342.6" cy="153.8" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/"><circle cx="343.9" cy="104.2" r="4" fill="#3465a4"><title>Barcelona English School</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/"><circle cx="343.9" cy="104.2" r="4" fill="#3465a4"><title>Barcelona English School (School)</title></circle></a><a href="/variants/s10/r18db2r2db2r3db14dg29y1dg2y4~x2~db1406275/"><circle cx="329.0" cy="117.9" r="4" fill="#3465a4"><title>Unidentified Lindley #2</title></circle></a><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><circle cx="271.3" cy="101.2" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.5" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><circle cx="335.0" cy="124.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/

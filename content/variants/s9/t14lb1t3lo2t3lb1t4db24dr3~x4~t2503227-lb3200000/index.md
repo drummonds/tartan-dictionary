@@ -1,16 +1,18 @@
 ---
 title: "Musselburgh"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Musselburgh"
   url: "/tartans/musselburgh/"
 - name: "Musselburgh"
-  url: ""
+  url: "/setts/t14lb1t3lo2t3lb1t4db24dr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t14lb1t3lo2t3lb1t4db24dr3/)
-(the same proportion at any scale), whose colour order is pattern [BBBWBYBWB](/stripes/bbbwbybwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t14lb1t3lo2t3lb1t4db24dr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBWBYBWB](/stripes/bbbwbybwb/).
 
 Part of the [Musselburgh](/tartans/musselburgh/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n8db1n1db24n2db1n2db5b20w5~x2/"><circle cx="343.7" cy="180.5" r="4" fill="#3465a4"><title>South Carolina</title></circle></a><a href="/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/"><circle cx="199.3" cy="141.0" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/"><circle cx="266.9" cy="172.9" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><circle cx="342.0" cy="177.0" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s7/db6lb2db2lb3db16t26dr2~x2/"><circle cx="358.0" cy="226.1" r="4" fill="#3465a4"><title>Federal Bureau of Investigation</title></circle></a><a href="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/"><circle cx="254.3" cy="181.3" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s6/db4b2dp3db24t24w3~x2~db1004274-b2308302-dp1105325-t2105244/"><circle cx="336.2" cy="221.7" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Arts</title></circle></a><a href="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t2503227-lr2800000/"><circle cx="291.2" cy="153.8" r="4" fill="#3465a4"><title>Heirloom Blue Alba</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.5" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s6/lg3db1b16db16b2lb2~x4/"><circle cx="360.5" cy="227.3" r="4" fill="#3465a4"><title>U.S.S. John Paul Jones #1</title></circle></a><circle cx="341.3" cy="165.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n8db1n1db24n2db1n2db5b20w5~x2/"><circle cx="343.7" cy="180.4" r="4" fill="#3465a4"><title>South Carolina</title></circle></a><a href="/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/"><circle cx="199.3" cy="140.9" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/"><circle cx="266.9" cy="172.8" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><circle cx="342.0" cy="176.9" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s7/db6lb2db2lb3db16t26dr2~x2/"><circle cx="358.0" cy="226.0" r="4" fill="#3465a4"><title>Federal Bureau of Investigation</title></circle></a><a href="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/"><circle cx="254.4" cy="181.2" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s6/db4b2dp3db24t24w3~x2~db1004274-b2308302-dp1105325-t2105244/"><circle cx="336.3" cy="221.6" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Arts</title></circle></a><a href="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t2503227-lr2800000/"><circle cx="291.2" cy="153.7" r="4" fill="#3465a4"><title>Heirloom Blue Alba</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.4" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s6/lg3db1b16db16b2lb2~x4/"><circle cx="360.5" cy="227.3" r="4" fill="#3465a4"><title>U.S.S. John Paul Jones #1</title></circle></a><circle cx="341.4" cy="165.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/t14lb1t3lo2t3lb1t4db24dr3~x4~t2503227-lb3200000/

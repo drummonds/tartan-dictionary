@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/">Duchess of Kent</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/"><img src="/variants/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/sett.png" alt="Duchess of Kent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/">Duchess of Kent</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><img src="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/sett.png" alt="Duchess of Kent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/">Duchess of Kent Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><img src="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/sett.png" alt="Duchess of Kent Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

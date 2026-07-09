@@ -1,14 +1,16 @@
 ---
 title: "Terry"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Terry"
-  url: ""
+  url: "/setts/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21/)
-(the same proportion at any scale), whose colour order is pattern [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1993 Designed by Thomas Terry of Geneseo, IL, USA. Register
 <ul>
 <li>01/01/1992 — Terry (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4096">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Thomas Terry of Geneseo, IL, USA. Registered with the Scottish Tartans Society 9-15-93. Info from Sue Miller, April 1995. With no evidence to the contrary it is assumed that all of the name 'Terry' can wear this tartan.</em></li>
 <li>1993 — Terry (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2204">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Thomas Terry of Geneseo, IL, USA. Registered with the Scottish Tartans Society 9-15-93. Info from Sue Miller, April 1995. With no evidence to the contrary it is assumed that all of the name 'Terry' can wear this tartan.</em></li>
-<li>undated — Terry Clan/Family Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2204">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span></li>
+<li>1993 — Terry Clan/Family Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2204">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span></li>
 </ul>
 </details>
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg20dgi2ly3dgi2dg32dgi32dg2r3dg2dgi32dg12~x2~dgi1605139/"><circle cx="482.6" cy="231.7" r="4" fill="#3465a4"><title>Galloway District Tartan</title></circle></a><circle cx="517.4" cy="176.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg20dgi2ly3dgi2dg32dgi32dg2r3dg2dgi32dg12~x2~dgi1605139/"><circle cx="482.7" cy="231.6" r="4" fill="#3465a4"><title>Galloway District Tartan</title></circle></a><circle cx="517.4" cy="176.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g1903114-dg1806142/

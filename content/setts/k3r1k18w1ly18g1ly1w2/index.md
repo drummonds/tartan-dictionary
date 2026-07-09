@@ -1,5 +1,12 @@
 ---
 title: "Dunlop Hunting"
-redirect: "/variants/s8/k3r1k18w1ly18g1ly1w2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dunlop Hunting](/variants/s8/k3r1k18w1ly18g1ly1w2~x4/).
+This is the **Dunlop Hunting** sett — one scale-free proportion (`k3r1k18w1ly18g1ly1w2`), colour order pattern
+[KRKWYGYW](/stripes/krkwygyw/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Dunlop Hunting](/variants/s8/k3r1k18w1ly18g1ly1w2~x4/) ★ | 1984 | ![Dunlop Hunting sett](/variants/s8/k3r1k18w1ly18g1ly1w2~x4/sett.png) |

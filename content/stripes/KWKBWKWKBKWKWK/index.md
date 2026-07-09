@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/">Drummond (Grey)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><img src="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/sett.png" alt="Drummond (Grey) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/">Drummond (Grey) Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><img src="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/sett.png" alt="Drummond (Grey) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

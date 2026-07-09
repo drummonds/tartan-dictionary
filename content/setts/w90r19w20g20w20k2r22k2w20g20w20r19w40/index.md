@@ -1,5 +1,12 @@
 ---
 title: "Border Sett"
-redirect: "/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Border Sett](/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/).
+This is the **Border Sett** sett — one scale-free proportion (`w90r19w20g20w20k2r22k2w20g20w20r19w40`), colour order pattern
+[WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Border Sett](/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/) ★ | ~2016 | ![Border Sett sett](/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png) |

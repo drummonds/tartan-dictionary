@@ -1,5 +1,12 @@
 ---
 title: "Hastings-Stephenson (Personal)"
-redirect: "/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hastings-Stephenson (Personal)](/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/).
+This is the **Hastings-Stephenson (Personal)** sett — one scale-free proportion (`g44db11g5t3g4db8g4w1`), colour order pattern
+[GBGBGBGW](/stripes/gbgbgbgw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hastings-Stephenson (Personal)](/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/) ★ | 2015 | ![Hastings-Stephenson (Personal) sett](/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/sett.png) |

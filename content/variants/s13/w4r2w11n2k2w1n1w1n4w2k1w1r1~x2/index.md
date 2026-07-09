@@ -1,16 +1,18 @@
 ---
 title: "Balmoral"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Balmoral"
   url: "/tartans/balmoral-2/"
 - name: "Balmoral"
-  url: ""
+  url: "/setts/w4r2w11n2k2w1n1w1n4w2k1w1r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4r2w11n2k2w1n1w1n4w2k1w1r1/)
-(the same proportion at any scale), whose colour order is pattern [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4r2w11n2k2w1n1w1n4w2k1w1r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/).
 
 Part of the [Balmoral](/tartans/balmoral-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -81,6 +83,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="161.4" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><circle cx="263.3" cy="137.8" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.4" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s15/k4lb2w15r6w25lb2k4lb2w15lb4k2lb4k2lb4k2~x2/"><circle cx="243.0" cy="122.1" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/variants/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="286.8" cy="138.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/"><circle cx="249.7" cy="123.3" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="229.1" cy="107.2" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/variants/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="233.3" cy="105.2" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan</title></circle></a><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="251.3" cy="103.3" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.3" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><circle cx="265.7" cy="139.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="161.3" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><circle cx="263.2" cy="137.7" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.3" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s15/k4lb2w15r6w25lb2k4lb2w15lb4k2lb4k2lb4k2~x2/"><circle cx="243.0" cy="122.0" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/variants/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="286.8" cy="138.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/"><circle cx="249.7" cy="123.1" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="229.1" cy="107.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/variants/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="233.3" cy="105.1" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan</title></circle></a><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="251.2" cy="103.2" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.1" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><circle cx="265.7" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w4r2w11n2k2w1n1w1n4w2k1w1r1~x2/

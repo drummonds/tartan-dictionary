@@ -1,5 +1,12 @@
 ---
 title: "WestJet"
-redirect: "/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [WestJet](/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/).
+This is the **WestJet** sett — one scale-free proportion (`y3lb6lg20db5g3db15ly3db3lg3`), colour order pattern
+[GWYBGBYBY](/stripes/gwybgbyby/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [WestJet](/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/) ★ | 2015 | ![WestJet sett](/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/sett.png) |

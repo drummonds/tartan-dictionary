@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/">Canadian Caledonian, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/"><img src="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/sett.png" alt="Canadian Caledonian, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/">Canadian Caledonian Hunting Canadian Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/"><img src="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/sett.png" alt="Canadian Caledonian Hunting Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

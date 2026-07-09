@@ -1,5 +1,12 @@
 ---
 title: "McCruden, Raymond (Personal)"
-redirect: "/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McCruden, Raymond (Personal)](/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/).
+This is the **McCruden, Raymond (Personal)** sett — one scale-free proportion (`k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2`), colour order pattern
+[KKKKKKBKGKBKKKW](/stripes/kkkkkkbkgkbkkkw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McCruden, Raymond (Personal)](/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/) ★ | 2013 | ![McCruden, Raymond (Personal) sett](/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/sett.png) |

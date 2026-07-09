@@ -1,5 +1,12 @@
 ---
 title: "Bartlett from El Paso, Texas"
-redirect: "/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bartlett from El Paso, Texas](/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/).
+This is the **Bartlett from El Paso, Texas** sett — one scale-free proportion (`r3w2db2lo1db39lo1db1ly2db1y15db1`), colour order pattern
+[BGBYBYBYBWR](/stripes/bgbybybybwr/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bartlett from El Paso, Texas](/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/) ★ | 2011 | ![Bartlett from El Paso, Texas sett](/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/sett.png) |

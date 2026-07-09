@@ -1,5 +1,12 @@
 ---
 title: "Wilson's No.045"
-redirect: "/variants/s4/g2k1g2lb1~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's No.045](/variants/s4/g2k1g2lb1~x8/).
+This is the **Wilson's No.045** sett — one scale-free proportion (`g2k1g2lb1`), colour order pattern
+[GKGW](/stripes/gkgw/). It is recorded as a single **variant**, below.
+First attested **1819**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Wilson's No.045](/variants/s4/g2k1g2lb1~x8/) ★ | 1819 | ![Wilson's No.045 sett](/variants/s4/g2k1g2lb1~x8/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Wilson's, No 5"
-redirect: "/variants/s6/r32lb5g17r4g5w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's, No 5](/variants/s6/r32lb5g17r4g5w2~x2/).
+This is the **Wilson's, No 5** sett — one scale-free proportion (`r32lb5g17r4g5w2`), colour order pattern
+[RWGRGW](/stripes/rwgrgw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's, No 5](/variants/s6/r32lb5g17r4g5w2~x2/) ★ | ~2016 | ![Wilson's, No 5 sett](/variants/s6/r32lb5g17r4g5w2~x2/sett.png) |

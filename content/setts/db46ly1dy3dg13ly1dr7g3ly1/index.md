@@ -1,5 +1,12 @@
 ---
 title: "Victorian Highland Pipe Band Assoc"
-redirect: "/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Victorian Highland Pipe Band Assoc](/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/).
+This is the **Victorian Highland Pipe Band Assoc** sett — one scale-free proportion (`db46ly1dy3dg13ly1dr7g3ly1`), colour order pattern
+[BYGGYBGY](/stripes/byggybgy/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Victorian Highland Pipe Band Assoc](/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/) ★ | 2014 | ![Victorian Highland Pipe Band Assoc sett](/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/sett.png) |

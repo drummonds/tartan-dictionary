@@ -1,6 +1,7 @@
 ---
 title: "Evans (Welsh Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Evans"
   url: "/tartans/evans/"
 - name: "Evans (Welsh Name)"
-  url: ""
+  url: "/setts/r2k3db30k2db4k2db30k36dr30k2lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k3db30k2db4k2db30k36dr30k2lb2/)
-(the same proportion at any scale), whose colour order is pattern [RKBKBKBKBKW](/stripes/rkbkbkbkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2k3db30k2db4k2db30k36dr30k2lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBKBKBKBKW](/stripes/rkbkbkbkbkw/).
 
 Part of the [Evans](/tartans/evans/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ri2k3db30k2db4k2db30k36r30k2lb2~ri2109032-r1706009/"><circle cx="233.2" cy="118.9" r="4" fill="#3465a4"><title>Evans Welsh Name Tartan</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db0805267-dbi1604274/"><circle cx="204.0" cy="185.3" r="4" fill="#3465a4"><title>Merchiston, Castle School</title></circle></a><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="250.7" cy="128.6" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="141.0" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="255.3" cy="152.8" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.3" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/"><circle cx="210.9" cy="148.4" r="4" fill="#3465a4"><title>D'Souza (Personal)</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.5" cy="132.6" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/variants/s10/dbi30db3dbi3db3dbi3db10k10dg20k2w4~x2~dbi1106275-db0903284/"><circle cx="211.7" cy="150.2" r="4" fill="#3465a4"><title>St. Kentigern College (Corporate)</title></circle></a><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><circle cx="229.2" cy="111.6" r="4" fill="#3465a4"><title>Westmeath County, Crest Range</title></circle></a><circle cx="254.9" cy="128.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ri2k3db30k2db4k2db30k36r30k2lb2~ri2109032-r1706009/"><circle cx="233.2" cy="118.7" r="4" fill="#3465a4"><title>Evans Welsh Name Tartan</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db0805267-dbi1604274/"><circle cx="204.1" cy="185.2" r="4" fill="#3465a4"><title>Merchiston, Castle School</title></circle></a><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="250.8" cy="128.5" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="140.9" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="255.4" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.2" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/"><circle cx="210.9" cy="148.3" r="4" fill="#3465a4"><title>D'Souza (Personal)</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.6" cy="132.4" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/variants/s10/dbi30db3dbi3db3dbi3db10k10dg20k2w4~x2~dbi1106275-db0903284/"><circle cx="211.7" cy="150.1" r="4" fill="#3465a4"><title>St. Kentigern College (Corporate)</title></circle></a><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><circle cx="229.2" cy="111.5" r="4" fill="#3465a4"><title>Westmeath County, Crest Range</title></circle></a><circle cx="254.9" cy="128.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/

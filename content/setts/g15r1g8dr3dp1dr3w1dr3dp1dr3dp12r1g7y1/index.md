@@ -1,5 +1,12 @@
 ---
 title: "Recycled Lamb, The"
-redirect: "/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Recycled Lamb, The](/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/).
+This is the **Recycled Lamb, The** sett — one scale-free proportion (`g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1`), colour order pattern
+[GGRBBBBWBBBGRG](/stripes/ggrbbbbwbbbgrg/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Recycled Lamb, The](/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/) ★ | 2013 | ![Recycled Lamb, The sett](/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/sett.png) |

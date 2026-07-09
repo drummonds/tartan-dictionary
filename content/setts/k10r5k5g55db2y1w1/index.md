@@ -1,5 +1,12 @@
 ---
 title: "Moeller, Karsten (Personal)"
-redirect: "/variants/s7/k10r5k5g55db2y1w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Moeller, Karsten (Personal)](/variants/s7/k10r5k5g55db2y1w1~x2/).
+This is the **Moeller, Karsten (Personal)** sett — one scale-free proportion (`k10r5k5g55db2y1w1`), colour order pattern
+[KRKGBGW](/stripes/krkgbgw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Moeller, Karsten (Personal)](/variants/s7/k10r5k5g55db2y1w1~x2/) ★ | 2015 | ![Moeller, Karsten (Personal) sett](/variants/s7/k10r5k5g55db2y1w1~x2/sett.png) |

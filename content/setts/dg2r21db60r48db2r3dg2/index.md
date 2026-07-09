@@ -1,5 +1,12 @@
 ---
 title: "Fraser, Isabella"
-redirect: "/variants/s7/dg2r21db60r48db2r3dg2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fraser, Isabella](/variants/s7/dg2r21db60r48db2r3dg2~x2/).
+This is the **Fraser, Isabella** sett — one scale-free proportion (`dg2r21db60r48db2r3dg2`), colour order pattern
+[GRBRBRG](/stripes/grbrbrg/). It is recorded as a single **variant**, below.
+First attested **1785**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fraser, Isabella](/variants/s7/dg2r21db60r48db2r3dg2~x2/) ★ | 1785 | ![Fraser, Isabella sett](/variants/s7/dg2r21db60r48db2r3dg2~x2/sett.png) |

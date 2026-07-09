@@ -1,14 +1,16 @@
 ---
 title: "Chattan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Chattan"
-  url: ""
+  url: "/setts/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2/)
-(the same proportion at any scale), whose colour order is pattern [WGRKBWGRKRGWGWKRW](/stripes/wgrkbwgrkrgwgwkrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGRKBWGRKRGWGWKRW](/stripes/wgrkbwgrkrgwgwkrw/).
 
 Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="81.0" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/"><circle cx="165.3" cy="54.0" r="4" fill="#3465a4"><title>Chattan Chief Clan Tartan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/"><circle cx="165.3" cy="54.0" r="4" fill="#3465a4"><title>Chattan, Chief of Clan</title></circle></a><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.3" cy="76.7" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.4" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/"><circle cx="134.3" cy="66.2" r="4" fill="#3465a4"><title>MacGlashan #3</title></circle></a><a href="/variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/"><circle cx="193.6" cy="68.5" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/"><circle cx="204.6" cy="73.3" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.6" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.1" cy="27.5" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><circle cx="164.4" cy="65.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="80.8" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/"><circle cx="165.2" cy="53.8" r="4" fill="#3465a4"><title>Chattan Chief Clan Tartan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/"><circle cx="165.2" cy="53.8" r="4" fill="#3465a4"><title>Chattan, Chief of Clan</title></circle></a><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.3" cy="76.5" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.2" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/"><circle cx="134.3" cy="66.0" r="4" fill="#3465a4"><title>MacGlashan #3</title></circle></a><a href="/variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/"><circle cx="193.6" cy="68.4" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/"><circle cx="204.6" cy="73.1" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.4" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.0" cy="27.3" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><circle cx="164.4" cy="65.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/

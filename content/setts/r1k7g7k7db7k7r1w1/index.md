@@ -1,5 +1,12 @@
 ---
 title: "Tennent (Personal)"
-redirect: "/variants/s8/r1k7g7k7db7k7r1w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tennent (Personal)](/variants/s8/r1k7g7k7db7k7r1w1~x4/).
+This is the **Tennent (Personal)** sett — one scale-free proportion (`r1k7g7k7db7k7r1w1`), colour order pattern
+[RKGKBKRW](/stripes/rkgkbkrw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Tennent (Personal)](/variants/s8/r1k7g7k7db7k7r1w1~x4/) ★ | 2004 | ![Tennent (Personal) sett](/variants/s8/r1k7g7k7db7k7r1w1~x4/sett.png) |

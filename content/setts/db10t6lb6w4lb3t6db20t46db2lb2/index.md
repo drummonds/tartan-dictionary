@@ -1,5 +1,12 @@
 ---
 title: "Saltire"
-redirect: "/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Saltire](/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/).
+This is the **Saltire** sett — one scale-free proportion (`db10t6lb6w4lb3t6db20t46db2lb2`), colour order pattern
+[BBWWWBBBBWBBBBWWWB](/stripes/bbwwwbbbbwbbbbwwwb/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Saltire](/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/) ★ | 2003 | ![Saltire sett](/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Bannockbane Hunting Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane Hunting"
   url: "/tartans/bannockbane-hunting/"
 - name: "Bannockbane Hunting Trade Tartan"
-  url: ""
+  url: "/setts/g2dy2g15dy1w1g15dy2g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2dy2g15dy1w1g15dy2g2/)
-(the same proportion at any scale), whose colour order is pattern [GGGGWGGG](/stripes/ggggwggg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g2dy2g15dy1w1g15dy2g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGWGGG](/stripes/ggggwggg/).
 
 Part of the [Bannockbane Hunting](/tartans/bannockbane-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: c.1984 Nothing
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>c.1984 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/"><circle cx="626.0" cy="223.7" r="4" fill="#3465a4"><title>Bannockbane, hunting</title></circle></a><a href="/variants/s8/dt30dy2dt1w1dt10w1dt2dy2~x2/"><circle cx="626.0" cy="165.6" r="4" fill="#3465a4"><title>Royal Warrant Holders (Corporate)</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.8" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.6" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.6" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s6/g3ly3g20ly20g20ly3~x2/"><circle cx="470.7" cy="313.8" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Yellow &amp; Green)</title></circle></a><a href="/variants/s6/g72k8g4dy16g7n2~x2/"><circle cx="493.1" cy="129.7" r="4" fill="#3465a4"><title>MacAndrew Hunting (Name)</title></circle></a><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/"><circle cx="626.0" cy="189.0" r="4" fill="#3465a4"><title>Pisniak (Personal)</title></circle></a><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><circle cx="516.3" cy="208.9" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/"><circle cx="622.7" cy="156.4" r="4" fill="#3465a4"><title>Holmston Primary (School)</title></circle></a><circle cx="626.0" cy="217.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/"><circle cx="626.0" cy="223.6" r="4" fill="#3465a4"><title>Bannockbane, hunting</title></circle></a><a href="/variants/s8/dt30dy2dt1w1dt10w1dt2dy2~x2/"><circle cx="626.0" cy="165.5" r="4" fill="#3465a4"><title>Royal Warrant Holders (Corporate)</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.7" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.5" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.5" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s6/g3ly3g20ly20g20ly3~x2/"><circle cx="470.7" cy="313.8" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Yellow &amp; Green)</title></circle></a><a href="/variants/s6/g72k8g4dy16g7n2~x2/"><circle cx="493.2" cy="129.6" r="4" fill="#3465a4"><title>MacAndrew Hunting (Name)</title></circle></a><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/"><circle cx="626.0" cy="188.8" r="4" fill="#3465a4"><title>Pisniak (Personal)</title></circle></a><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><circle cx="516.3" cy="208.8" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/"><circle cx="622.7" cy="156.3" r="4" fill="#3465a4"><title>Holmston Primary (School)</title></circle></a><circle cx="626.0" cy="217.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g2dy2g15dy1w1g15dy2g2~x2/

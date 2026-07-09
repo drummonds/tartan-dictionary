@@ -1,5 +1,12 @@
 ---
 title: "Lion Brand Sportswear"
-redirect: "/variants/s7/n4db1dr15db42dr6db4dy1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lion Brand Sportswear](/variants/s7/n4db1dr15db42dr6db4dy1~x2/).
+This is the **Lion Brand Sportswear** sett — one scale-free proportion (`n4db1dr15db42dr6db4dy1`), colour order pattern
+[BBBBBBG](/stripes/bbbbbbg/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lion Brand Sportswear](/variants/s7/n4db1dr15db42dr6db4dy1~x2/) ★ | 2016 | ![Lion Brand Sportswear sett](/variants/s7/n4db1dr15db42dr6db4dy1~x2/sett.png) |

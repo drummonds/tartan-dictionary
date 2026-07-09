@@ -1,5 +1,12 @@
 ---
 title: "Unidentified (NZ)"
-redirect: "/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified (NZ)](/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/).
+This is the **Unidentified (NZ)** sett — one scale-free proportion (`ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2`), colour order pattern
+[YKYKRKRKYKYKY](/stripes/ykykrkrkykyky/). It is recorded as a single **variant**, below.
+First attested **~2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified (NZ)](/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/) ★ | ~2011 | ![Unidentified (NZ) sett](/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/sett.png) |

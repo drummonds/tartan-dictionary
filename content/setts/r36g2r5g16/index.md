@@ -1,5 +1,14 @@
 ---
-title: "MacDonald of Sleat"
-redirect: "/variants/s4/r36g2r5g16~x2/"
+title: "MacDonald of Sleat Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDonald of Sleat](/variants/s4/r36g2r5g16~x2/).
+This is the **MacDonald of Sleat Clan Tartan** sett — one scale-free proportion (`r36g2r5g16`), colour order pattern
+[GRGR](/stripes/grgr/). It is recorded as a single **variant**, below.
+First attested **1908**.
+
+Part of the [MacDonald of Sleat](/tartans/macdonald-of-sleat/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDonald of Sleat Clan Tartan](/variants/s4/r36g2r5g16~x2/) ★ | 1908 | ![MacDonald of Sleat Clan Tartan sett](/variants/s4/r36g2r5g16~x2/sett.png) |

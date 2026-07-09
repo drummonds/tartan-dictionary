@@ -1,6 +1,7 @@
 ---
 title: "Yates Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Yates (Personal)"
   url: "/setts/k29r3db24n6k8w4n8o6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k29r3db24n6k8w4n8o6/)
-(the same proportion at any scale), whose colour order is pattern [KRBBKWBR](/stripes/krbbkwbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k29r3db24n6k8w4n8o6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRBBKWBR](/stripes/krbbkwbr/).
 
 Part of the [Yates](/tartans/yates/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2006 Tartan designed by Bill Yates, Shirley Banks, Gertrude
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2006 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~n1900000-o2500000/"><circle cx="128.2" cy="152.9" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><circle cx="117.7" cy="133.9" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.5" cy="157.9" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.2" cy="157.2" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lb2~x4/"><circle cx="145.6" cy="157.9" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="116.3" cy="182.5" r="4" fill="#3465a4"><title>Caie (2013)</title></circle></a><a href="/variants/s7/w10k52db52dg24y10dg5r5/"><circle cx="109.7" cy="162.1" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="160.6" cy="147.1" r="4" fill="#3465a4"><title>Loch Long One Design (Corporate)</title></circle></a><a href="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/"><circle cx="92.0" cy="129.0" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><circle cx="128.8" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~n1900000-o2500000/"><circle cx="128.2" cy="152.8" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.6" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><circle cx="117.7" cy="133.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.6" cy="157.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.3" cy="157.1" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lb2~x4/"><circle cx="145.6" cy="157.8" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="116.3" cy="182.5" r="4" fill="#3465a4"><title>Caie (2013)</title></circle></a><a href="/variants/s7/w10k52db52dg24y10dg5r5/"><circle cx="109.7" cy="162.0" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="160.6" cy="147.0" r="4" fill="#3465a4"><title>Loch Long One Design (Corporate)</title></circle></a><a href="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/"><circle cx="92.0" cy="128.9" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><circle cx="128.8" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000/

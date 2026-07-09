@@ -1,6 +1,7 @@
 ---
 title: "MacDuff Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "MacDuff"
   url: "/setts/r8db3k4g6r4k1r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8db3k4g6r4k1r4/)
-(the same proportion at any scale), whose colour order is pattern [RBKGRKR](/stripes/rbkgrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r8db3k4g6r4k1r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKGRKR](/stripes/rbkgrkr/).
 
 Part of the [MacDuff](/tartans/macduff/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1831 According to D.C.Stewart, "It will be observed that th
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1831 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r8db3k4g6r4k1r4~x2/"><circle cx="196.7" cy="221.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s7/r8lb3k4g6r4k1r4~x2/"><circle cx="193.5" cy="221.2" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/variants/s7/r36db9k12g17r10k3r10~x2/"><circle cx="258.1" cy="178.9" r="4" fill="#3465a4"><title>MacDuff #6</title></circle></a><a href="/variants/s7/r36db9k12dg17r10k3r10~x2/"><circle cx="265.0" cy="179.2" r="4" fill="#3465a4"><title>MacDuff - 1819 (Clan)</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="233.0" cy="206.2" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.7" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.6" cy="282.0" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s7/y6k8g7r6k2r18w6~x4/"><circle cx="133.3" cy="187.9" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="281.3" cy="173.8" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.7" cy="202.6" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><circle cx="196.7" cy="221.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r8db3k4g6r4k1r4~x2/"><circle cx="196.7" cy="221.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s7/r8lb3k4g6r4k1r4~x2/"><circle cx="193.5" cy="221.1" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/variants/s7/r36db9k12g17r10k3r10~x2/"><circle cx="258.1" cy="178.8" r="4" fill="#3465a4"><title>MacDuff #6</title></circle></a><a href="/variants/s7/r36db9k12dg17r10k3r10~x2/"><circle cx="265.0" cy="179.1" r="4" fill="#3465a4"><title>MacDuff - 1819 (Clan)</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="233.0" cy="206.1" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.6" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.6" cy="282.0" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s7/y6k8g7r6k2r18w6~x4/"><circle cx="133.3" cy="187.8" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="281.3" cy="173.8" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.8" cy="202.5" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><circle cx="196.7" cy="221.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r8db3k4g6r4k1r4~x4/

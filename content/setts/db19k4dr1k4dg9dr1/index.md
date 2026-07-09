@@ -1,5 +1,14 @@
 ---
 title: "Monarchs"
-redirect: "/variants/s6/db19k4dr1k4dg9dr1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Monarchs](/variants/s6/db19k4dr1k4dg9dr1~x4/).
+This is the **Monarchs** sett — one scale-free proportion (`db19k4dr1k4dg9dr1`), colour order pattern
+[BGKBKB](/stripes/bgkbkb/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+Part of the [Monarchs](/tartans/monarchs/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Monarchs](/variants/s6/db19k4dr1k4dg9dr1~x4/) ★ | 1996 | ![Monarchs sett](/variants/s6/db19k4dr1k4dg9dr1~x4/sett.png) |

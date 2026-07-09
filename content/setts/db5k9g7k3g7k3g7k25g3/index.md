@@ -1,5 +1,12 @@
 ---
 title: "Menez Du"
-redirect: "/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Menez Du](/variants/s9/db5k9g7k3g7k3g7k25g3~x2/).
+This is the **Menez Du** sett — one scale-free proportion (`db5k9g7k3g7k3g7k25g3`), colour order pattern
+[BKGKGKGKG](/stripes/bkgkgkgkg/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Menez Du](/variants/s9/db5k9g7k3g7k3g7k25g3~x2/) ★ | 2004 | ![Menez Du sett](/variants/s9/db5k9g7k3g7k3g7k25g3~x2/sett.png) |

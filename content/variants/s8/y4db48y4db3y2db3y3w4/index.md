@@ -1,14 +1,16 @@
 ---
 title: "Morris of Wales"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Morris of Wales"
-  url: ""
+  url: "/setts/y4db48y4db3y2db3y3w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4db48y4db3y2db3y3w4/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBGW](/stripes/gbgbgbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y4db48y4db3y2db3y3w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBGW](/stripes/gbgbgbgw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><circle cx="506.3" cy="144.5" r="4" fill="#3465a4"><title>Morris (Welsh Name)</title></circle></a><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><circle cx="462.5" cy="152.4" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="495.9" cy="110.6" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="125.8" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/"><circle cx="603.2" cy="124.3" r="4" fill="#3465a4"><title>University of Delaware (Corporate)</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.8" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="549.8" cy="110.5" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.9" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.3" cy="162.4" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><circle cx="535.8" cy="145.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><circle cx="506.3" cy="144.4" r="4" fill="#3465a4"><title>Morris (Welsh Name)</title></circle></a><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><circle cx="462.5" cy="152.2" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="495.9" cy="110.5" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="125.7" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/"><circle cx="603.2" cy="124.2" r="4" fill="#3465a4"><title>University of Delaware (Corporate)</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.7" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="549.8" cy="110.4" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.2" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.7" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.3" cy="162.3" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><circle cx="535.8" cy="145.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y4db48y4db3y2db3y3w4/

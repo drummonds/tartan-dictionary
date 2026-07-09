@@ -1,5 +1,12 @@
 ---
 title: "Wcwm 1290"
-redirect: "/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wcwm 1290](/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/).
+This is the **Wcwm 1290** sett — one scale-free proportion (`dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3`), colour order pattern
+[GWGYGWGKYBW](/stripes/gwgygwgkybw/). It is recorded as a single **variant**, below.
+First attested **1979**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wcwm 1290](/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/) ★ | 1979 | ![Wcwm 1290 sett](/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/sett.png) |

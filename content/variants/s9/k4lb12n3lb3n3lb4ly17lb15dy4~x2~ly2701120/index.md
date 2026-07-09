@@ -1,14 +1,16 @@
 ---
 title: "Cotswolds Distillery"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cotswolds Distillery"
-  url: ""
+  url: "/setts/k4lb12n3lb3n3lb4ly17lb15dy4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4lb12n3lb3n3lb4ly17lb15dy4/)
-(the same proportion at any scale), whose colour order is pattern [GWYWBWBWK](/stripes/gwywbwbwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4lb12n3lb3n3lb4ly17lb15dy4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWYWBWBWK](/stripes/gwywbwbwk/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"><circle cx="131.2" cy="186.7" r="4" fill="#3465a4"><title>U.S. Postal Service</title></circle></a><a href="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/"><circle cx="214.7" cy="172.9" r="4" fill="#3465a4"><title>Gouranga (Corporate)</title></circle></a><a href="/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="235.6" cy="169.5" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/"><circle cx="228.3" cy="220.9" r="4" fill="#3465a4"><title>Jaggy Thistle (Fashion)</title></circle></a><a href="/variants/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="236.6" cy="166.6" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="225.6" cy="188.7" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="237.7" cy="176.7" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><circle cx="217.0" cy="137.8" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><circle cx="211.6" cy="205.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"><circle cx="131.2" cy="186.6" r="4" fill="#3465a4"><title>U.S. Postal Service</title></circle></a><a href="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/"><circle cx="214.7" cy="172.8" r="4" fill="#3465a4"><title>Gouranga (Corporate)</title></circle></a><a href="/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="235.6" cy="169.4" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/"><circle cx="228.3" cy="220.8" r="4" fill="#3465a4"><title>Jaggy Thistle (Fashion)</title></circle></a><a href="/variants/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="236.6" cy="166.5" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="225.6" cy="188.6" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="237.7" cy="176.6" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><circle cx="217.0" cy="137.7" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.1" r="4" fill="#3465a4"><title>Breifne</title></circle></a><circle cx="211.6" cy="205.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/

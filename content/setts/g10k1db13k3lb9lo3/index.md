@@ -1,5 +1,12 @@
 ---
 title: "Inverary"
-redirect: "/variants/s6/g10k1db13k3lb9lo3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Inverary](/variants/s6/g10k1db13k3lb9lo3~x2/).
+This is the **Inverary** sett — one scale-free proportion (`g10k1db13k3lb9lo3`), colour order pattern
+[GKBKWY](/stripes/gkbkwy/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Inverary](/variants/s6/g10k1db13k3lb9lo3~x2/) ★ | 2002 | ![Inverary sett](/variants/s6/g10k1db13k3lb9lo3~x2/sett.png) |

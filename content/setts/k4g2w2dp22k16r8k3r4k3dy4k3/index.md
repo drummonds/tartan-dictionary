@@ -1,5 +1,12 @@
 ---
 title: "Hines Snr, Raymond Lee (Personal)"
-redirect: "/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hines Snr, Raymond Lee (Personal)](/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/).
+This is the **Hines Snr, Raymond Lee (Personal)** sett — one scale-free proportion (`k4g2w2dp22k16r8k3r4k3dy4k3`), colour order pattern
+[KGKRKRKBWGK](/stripes/kgkrkrkbwgk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hines Snr, Raymond Lee (Personal)](/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/) ★ | 2015 | ![Hines Snr, Raymond Lee (Personal) sett](/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/sett.png) |

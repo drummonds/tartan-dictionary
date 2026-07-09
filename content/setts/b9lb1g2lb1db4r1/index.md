@@ -1,5 +1,12 @@
 ---
 title: "McIntosh, Georgina (Personal)"
-redirect: "/variants/s6/b9lb1g2lb1db4r1~x12/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McIntosh, Georgina (Personal)](/variants/s6/b9lb1g2lb1db4r1~x12/).
+This is the **McIntosh, Georgina (Personal)** sett — one scale-free proportion (`b9lb1g2lb1db4r1`), colour order pattern
+[BWGWBR](/stripes/bwgwbr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×12 | [McIntosh, Georgina (Personal)](/variants/s6/b9lb1g2lb1db4r1~x12/) ★ | 2003 | ![McIntosh, Georgina (Personal) sett](/variants/s6/b9lb1g2lb1db4r1~x12/sett.png) |

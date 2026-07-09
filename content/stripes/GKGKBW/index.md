@@ -32,8 +32,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s6/y1k1g9k9db8w1~x4/"><img src="/variants/s6/y1k1g9k9db8w1~x4/sett.png" alt="MacNeil 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/y1k5g12k12db12w1~x4/">MacNeil 5</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/y1k5g12k12db12w1~x4/"><img src="/variants/s6/y1k5g12k12db12w1~x4/sett.png" alt="MacNeil 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y3k2g12k12db14w3/">MacNeil 6</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y3k2g12k12db14w3/"><img src="/variants/s6/y3k2g12k12db14w3/sett.png" alt="MacNeil 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/y3k2g12k12db14w3/">MacNeil of Barra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/y3k2g12k12db14w3/"><img src="/variants/s6/y3k2g12k12db14w3/sett.png" alt="MacNeil of Barra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/y3k1g20k20db18lb3~x2/">Smith</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/y3k1g20k20db18lb3~x2/"><img src="/variants/s6/y3k1g20k20db18lb3~x2/sett.png" alt="Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

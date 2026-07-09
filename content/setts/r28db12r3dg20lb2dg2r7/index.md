@@ -1,5 +1,12 @@
 ---
 title: "Carrick (Strathmore) District Tartan"
-redirect: "/variants/s7/r28db12r3dg20lb2dg2r7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Carrick (Strathmore) District Tartan](/variants/s7/r28db12r3dg20lb2dg2r7~x2/).
+This is the **Carrick (Strathmore) District Tartan** sett — one scale-free proportion (`r28db12r3dg20lb2dg2r7`), colour order pattern
+[RBRGWGR](/stripes/rbrgwgr/). It is recorded as a single **variant**, below.
+First attested **~1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Carrick (Strathmore) District Tartan](/variants/s7/r28db12r3dg20lb2dg2r7~x2/) ★ | ~1999 | ![Carrick (Strathmore) District Tartan sett](/variants/s7/r28db12r3dg20lb2dg2r7~x2/sett.png) |

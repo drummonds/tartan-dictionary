@@ -1,5 +1,12 @@
 ---
 title: "Rose, Danny and Hanna (Personal)"
-redirect: "/variants/s5/lg11db19dt38dr7k7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rose, Danny and Hanna (Personal)](/variants/s5/lg11db19dt38dr7k7~x2/).
+This is the **Rose, Danny and Hanna (Personal)** sett — one scale-free proportion (`lg11db19dt38dr7k7`), colour order pattern
+[KBBBY](/stripes/kbbby/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Rose, Danny and Hanna (Personal)](/variants/s5/lg11db19dt38dr7k7~x2/) ★ | 2015 | ![Rose, Danny and Hanna (Personal) sett](/variants/s5/lg11db19dt38dr7k7~x2/sett.png) |

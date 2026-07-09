@@ -1,5 +1,12 @@
 ---
 title: "St. Eloi"
-redirect: "/variants/s4/dr3lo2k10w1~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Eloi](/variants/s4/dr3lo2k10w1~x6/).
+This is the **St. Eloi** sett — one scale-free proportion (`dr3lo2k10w1`), colour order pattern
+[BYKWKY](/stripes/bykwky/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [St. Eloi](/variants/s4/dr3lo2k10w1~x6/) ★ | 1997 | ![St. Eloi sett](/variants/s4/dr3lo2k10w1~x6/sett.png) |

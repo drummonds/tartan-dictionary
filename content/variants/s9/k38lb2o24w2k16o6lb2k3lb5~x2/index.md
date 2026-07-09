@@ -1,14 +1,16 @@
 ---
 title: "Universal Scientific Indust (Corp.)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Universal Scientific Indust (Corp.)"
-  url: ""
+  url: "/setts/k38lb2o24w2k16o6lb2k3lb5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k38lb2o24w2k16o6lb2k3lb5/)
-(the same proportion at any scale), whose colour order is pattern [KWRWKRWKW](/stripes/kwrwkrwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k38lb2o24w2k16o6lb2k3lb5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWRWKRWKW](/stripes/kwrwkrwkw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/"><circle cx="273.5" cy="126.6" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="133.2" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="126.1" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="309.8" cy="123.5" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.1" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="273.4" cy="135.6" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.3" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="290.7" cy="100.8" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.5" cy="120.7" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="337.7" cy="98.2" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><circle cx="284.8" cy="120.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/"><circle cx="273.5" cy="126.5" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="133.1" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="125.9" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="309.8" cy="123.3" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.0" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="273.5" cy="135.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.1" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="290.7" cy="100.7" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.5" cy="120.6" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="337.8" cy="98.0" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><circle cx="284.8" cy="120.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/

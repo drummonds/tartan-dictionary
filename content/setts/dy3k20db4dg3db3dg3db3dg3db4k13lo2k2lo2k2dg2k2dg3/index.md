@@ -1,5 +1,12 @@
 ---
 title: "Fermanagh, County"
-redirect: "/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fermanagh, County](/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/).
+This is the **Fermanagh, County** sett — one scale-free proportion (`dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3`), colour order pattern
+[GKBGBGBGBKYKYKGKG](/stripes/gkbgbgbgbkykykgkg/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fermanagh, County](/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/) ★ | 1996 | ![Fermanagh, County sett](/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/sett.png) |

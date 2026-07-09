@@ -1,16 +1,18 @@
 ---
 title: "Coffield-Limesand (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Coffield-Limesand"
   url: "/tartans/coffield-limesand/"
 - name: "Coffield-Limesand (Personal)"
-  url: ""
+  url: "/setts/dp8k1dg2k1dy2k6dg8k1w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp8k1dg2k1dy2k6dg8k1w2/)
-(the same proportion at any scale), whose colour order is pattern [BKGKGKGKW](/stripes/bkgkgkgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp8k1dg2k1dy2k6dg8k1w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGKGKGKW](/stripes/bkgkgkgkw/).
 
 Part of the [Coffield-Limesand](/tartans/coffield-limesand/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="92.5" cy="173.8" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.6" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><circle cx="107.8" cy="180.7" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.0" cy="168.8" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="126.6" cy="188.8" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="116.3" cy="182.5" r="4" fill="#3465a4"><title>Caie (2013)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.7" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="101.0" cy="178.4" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.1" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/"><circle cx="90.6" cy="168.7" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><circle cx="120.5" cy="179.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="92.5" cy="173.7" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.5" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><circle cx="107.8" cy="180.6" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.1" cy="168.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="126.6" cy="188.7" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="116.3" cy="182.5" r="4" fill="#3465a4"><title>Caie (2013)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.6" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="101.0" cy="178.3" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.0" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/"><circle cx="90.7" cy="168.6" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><circle cx="120.5" cy="179.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/

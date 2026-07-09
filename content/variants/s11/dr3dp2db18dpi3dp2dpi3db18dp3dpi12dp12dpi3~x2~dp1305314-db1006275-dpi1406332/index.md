@@ -1,14 +1,16 @@
 ---
 title: "Royal Delight"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Delight"
-  url: ""
+  url: "/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBB](/stripes/bbbbbbbbbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBB](/stripes/bbbbbbbbbbb/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

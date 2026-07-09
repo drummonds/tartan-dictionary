@@ -1,5 +1,12 @@
 ---
 title: "Children's Wish Foundation of Canada, The"
-redirect: "/variants/s8/y5k2w16k5lb29k2y5k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Children's Wish Foundation of Canada, The](/variants/s8/y5k2w16k5lb29k2y5k2~x2/).
+This is the **Children's Wish Foundation of Canada, The** sett — one scale-free proportion (`y5k2w16k5lb29k2y5k2`), colour order pattern
+[GKWKWKGK](/stripes/gkwkwkgk/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Children's Wish Foundation of Canada, The](/variants/s8/y5k2w16k5lb29k2y5k2~x2/) ★ | 2013 | ![Children's Wish Foundation of Canada, The sett](/variants/s8/y5k2w16k5lb29k2y5k2~x2/sett.png) |

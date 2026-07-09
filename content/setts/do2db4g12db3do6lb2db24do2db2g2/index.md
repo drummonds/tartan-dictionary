@@ -1,5 +1,12 @@
 ---
 title: "Wicklow"
-redirect: "/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wicklow](/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/).
+This is the **Wicklow** sett — one scale-free proportion (`do2db4g12db3do6lb2db24do2db2g2`), colour order pattern
+[BBGBBWBBBG](/stripes/bbgbbwbbbg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wicklow](/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/) ★ | ~2016 | ![Wicklow sett](/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/sett.png) |

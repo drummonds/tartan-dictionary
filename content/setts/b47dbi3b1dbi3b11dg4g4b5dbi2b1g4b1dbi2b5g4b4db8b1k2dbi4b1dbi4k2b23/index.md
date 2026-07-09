@@ -1,5 +1,12 @@
 ---
 title: "Hebrides Inner"
-redirect: "/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hebrides Inner](/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/).
+This is the **Hebrides Inner** sett — one scale-free proportion (`b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23`), colour order pattern
+[BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hebrides Inner](/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/) ★ | ~2016 | ![Hebrides Inner sett](/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/sett.png) |

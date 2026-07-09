@@ -1,5 +1,12 @@
 ---
 title: "Fraser Gathering, dress"
-redirect: "/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fraser Gathering, dress](/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/).
+This is the **Fraser Gathering, dress** sett — one scale-free proportion (`r2db12dg2b11dg4db5b2w24g2`), colour order pattern
+[GWBBGBGBR](/stripes/gwbbgbgbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fraser Gathering, dress](/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/) ★ | ~2016 | ![Fraser Gathering, dress sett](/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/sett.png) |

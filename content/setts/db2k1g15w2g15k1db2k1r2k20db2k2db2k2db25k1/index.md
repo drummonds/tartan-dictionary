@@ -1,5 +1,12 @@
 ---
 title: "Rankin, John (Personal)"
-redirect: "/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rankin, John (Personal)](/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/).
+This is the **Rankin, John (Personal)** sett — one scale-free proportion (`db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1`), colour order pattern
+[BKGWGKBKRKBKBKBK](/stripes/bkgwgkbkrkbkbkbk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Rankin, John (Personal)](/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/) ★ | 2015 | ![Rankin, John (Personal) sett](/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/sett.png) |

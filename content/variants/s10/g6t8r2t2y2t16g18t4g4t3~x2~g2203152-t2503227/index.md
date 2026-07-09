@@ -1,16 +1,18 @@
 ---
 title: "Blue Ridge"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Blue Ridge"
   url: "/tartans/blue-ridge/"
 - name: "Blue Ridge"
-  url: ""
+  url: "/setts/g6t8r2t2y2t16g18t4g4t3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6t8r2t2y2t16g18t4g4t3/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBGBRBG](/stripes/bgbgbgbrbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6t8r2t2y2t16g18t4g4t3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGBRBG](/stripes/bgbgbgbrbg/).
 
 Part of the [Blue Ridge](/tartans/blue-ridge/) tartan — the named design grouping this sett with its other cloths.
 

@@ -2,13 +2,13 @@
 title: "Scottish Heather"
 date: 2023-03-18
 ---
-The **Scottish Heather** tartan is one sett proportion (`db1b1g3dp6db2k32db2dp12w1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BBGBBKBBW](/stripes/bbgbbkbbw/); each scale below is its own sett page. First attested **2001**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Scottish Heather** sett — one scale-free proportion (`db1b1g3dp6db2k32db2dp12w1`), colour order pattern
+[BBGBBKBBW](/stripes/bbgbbkbbw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **2001**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [Scottish Heather (Fashion)](/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2/) ★ | 2001 | ![Scottish Heather (Fashion) sett](/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2/sett.png) |
 | ×2 | [Scottish Heather](/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2~db1406275-dp1105325/) | 2001 | ![Scottish Heather sett](/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2~db1406275-dp1105325/sett.png) |

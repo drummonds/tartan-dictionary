@@ -1,14 +1,16 @@
 ---
 title: "Lewis, Magenta (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lewis, Magenta (Dance)"
-  url: ""
+  url: "/setts/w4dp31w35lb4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4dp31w35lb4/)
-(the same proportion at any scale), whose colour order is pattern [WBWW](/stripes/wbww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4dp31w35lb4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWW](/stripes/wbww/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="367.0" cy="288.3" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s4/w20db20w3db3~x2/"><circle cx="385.6" cy="284.5" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="421.7" cy="297.1" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="241.4" cy="185.8" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s5/w3dr27w16db27ly3~x2/"><circle cx="216.0" cy="258.9" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/variants/s5/dp37w9dp3dy9w3~x2/"><circle cx="402.8" cy="208.6" r="4" fill="#3465a4"><title>Glen App Trade Tartan</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.8" cy="228.8" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="362.2" cy="257.9" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="346.4" cy="248.7" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><circle cx="342.0" cy="271.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="367.0" cy="288.3" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s4/w20db20w3db3~x2/"><circle cx="385.6" cy="284.4" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="421.7" cy="297.1" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="241.4" cy="185.7" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="298.0" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s5/w3dr27w16db27ly3~x2/"><circle cx="216.0" cy="258.9" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/variants/s5/dp37w9dp3dy9w3~x2/"><circle cx="402.8" cy="208.5" r="4" fill="#3465a4"><title>Glen App Trade Tartan</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.8" cy="228.7" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="362.2" cy="257.8" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="346.5" cy="248.7" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><circle cx="342.0" cy="271.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/w4dp31w35lb4~x2/

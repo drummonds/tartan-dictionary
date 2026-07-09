@@ -37,7 +37,7 @@ weight: 31
 | 0.06 | [MacRae](/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/) | weddslist |
 | 0.06 | [MacRae](/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4~x2/) | weddslist |
 | 0.06 | [MacRae (Red)](/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4~x4/) | register-of-tartans |
-| 0.07 | [MacRae](/variants/s31/dg4r1dg4r4dg1r1dg1r4w1r1db4r1db4r1w1r4db1r1db1r1db1r4db1r1db1r1db1r4dg4r1dg4~x4/) | weddslist |
+| 0.07 | [MacRae Clan Tartan](/variants/s31/dg4r1dg4r4dg1r1dg1r4w1r1db4r1db4r1w1r4db1r1db1r1db1r4db1r1db1r1db1r4dg4r1dg4~x4/) | house-of-tartan |
 | 0.08 | [Ross #3](/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/) | register-of-tartans |
 
 ### RKGKBKWKBKGKGKGKGKGKBKWKBKGKGKR
@@ -103,7 +103,7 @@ weight: 31
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [MacDonald Dress #3](/variants/s31/k4w2r1w7lb3w23lb3w7r1w2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4~x2/) | register-of-tartans |
+| 0.07 | [MacDonald Dress Clan Tartan](/variants/s31/k4w2r1w7lb3w23lb3w7r1w2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4~x2/) | house-of-tartan |
 
 ### BRBRGRGRGRGRGRGRWRBRBRWRGRGRGRG
 <a class="pat" href="/stripes/brbrgrgrgrgrgrgrwrbrbrwrgrgrgrg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRBRGRGRGRGRGRGRWRBRBRWRGRGRGRG</span></a>

@@ -97,7 +97,7 @@ weight: 21
 | 0.06 | [MacLeod of Tullibardine](/variants/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/) | register-of-tartans |
 | 0.06 | [Murray of Tullibardine](/variants/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3~x2/) | register-of-tartans |
 | 0.06 | [Murray of Tullibardine](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1/) | weddslist |
-| 0.06 | [Murray of Tullibardine #2](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1~x2/) | register-of-tartans |
+| 0.06 | [Murray of Tullibardine Family Tartan](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1~x2/) | house-of-tartan |
 | 0.07 | [Murray of Tullibardine - 1820 (Clan)](/variants/s21/db7r2db2r5db24r6db2r2k8r2db2r50db50r10dg10r50dg50r30db22r24k3/) | tartans-authority |
 
 ### GRGBRGRGRGRGRGBRGRGRG
@@ -390,7 +390,7 @@ weight: 21
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Matheson Hunting (STS incomplete sett)](/variants/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/) | register-of-tartans |
+| 0.09 | [Matheson Hunting (Red) Clan Tartan](/variants/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/) | house-of-tartan |
 
 ### GRKRGRGRKRKRGRKRKRKRK
 <a class="pat" href="/stripes/grkrgrgrkrkrgrkrkrkrk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">GRKRGRGRKRKRGRKRKRKRK</span></a>

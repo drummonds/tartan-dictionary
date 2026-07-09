@@ -1,5 +1,12 @@
 ---
 title: "Ancient Universal (Fashion?)"
-redirect: "/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ancient Universal (Fashion?)](/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/).
+This is the **Ancient Universal (Fashion?)** sett — one scale-free proportion (`y12dg2y2dg2y2dy8g8dy1`), colour order pattern
+[GGGGGGGG](/stripes/gggggggg/). It is recorded as a single **variant**, below.
+First attested **~1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ancient Universal (Fashion?)](/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/) ★ | ~1985 | ![Ancient Universal (Fashion?) sett](/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/sett.png) |

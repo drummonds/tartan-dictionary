@@ -1,5 +1,12 @@
 ---
 title: "Unidentified, Sett"
-redirect: "/variants/s9/b2o1r10oi12o10b6r10o1b2~x2~o2102055-oi2104058/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified, Sett](/variants/s9/b2o1r10oi12o10b6r10o1b2~x2~o2102055-oi2104058/).
+This is the **Unidentified, Sett** sett — one scale-free proportion (`b2o1r10oi12o10b6r10o1b2`), colour order pattern
+[BRRBRRRRB](/stripes/brrbrrrrb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified, Sett](/variants/s9/b2o1r10oi12o10b6r10o1b2~x2~o2102055-oi2104058/) ★ | ~2016 | ![Unidentified, Sett sett](/variants/s9/b2o1r10oi12o10b6r10o1b2~x2~o2102055-oi2104058/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Miyuki, Check Red, 1002A"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Miyuki, Check Red, 1002A"
-  url: ""
+  url: "/setts/r40w1r1k8r1w1r6w1r1k8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r40w1r1k8r1w1r6w1r1k8/)
-(the same proportion at any scale), whose colour order is pattern [KRWRWRKRWR](/stripes/krwrwrkrwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r40w1r1k8r1w1r6w1r1k8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRWRWRKRWR](/stripes/krwrwrkrwr/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="516.4" cy="36.7" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="447.7" cy="79.4" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="494.8" cy="43.0" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co Ltd</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s10/r4k4r3k8w3r3k20r40w2r4/"><circle cx="332.2" cy="108.7" r="4" fill="#3465a4"><title>University of South Carolina (Corp)</title></circle></a><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><circle cx="492.7" cy="74.5" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/variants/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/"><circle cx="447.8" cy="82.9" r="4" fill="#3465a4"><title>Valour</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="95.0" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.1" cy="92.9" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.1" cy="64.9" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><circle cx="454.4" cy="62.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="516.4" cy="36.5" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="447.7" cy="79.3" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="494.7" cy="42.9" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co Ltd</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s10/r4k4r3k8w3r3k20r40w2r4/"><circle cx="332.1" cy="108.6" r="4" fill="#3465a4"><title>University of South Carolina (Corp)</title></circle></a><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><circle cx="492.7" cy="74.4" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/variants/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/"><circle cx="447.8" cy="82.7" r="4" fill="#3465a4"><title>Valour</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="94.8" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.1" cy="92.8" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.1" cy="64.8" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><circle cx="454.4" cy="62.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r40w1r1k8r1w1r6w1r1k8~x2/

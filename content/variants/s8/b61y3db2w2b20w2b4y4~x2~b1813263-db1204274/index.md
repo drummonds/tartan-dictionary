@@ -1,16 +1,18 @@
 ---
 title: "Royal Warrant Holders"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Warrant Holders"
   url: "/tartans/royal-warrant-holders/"
 - name: "Royal Warrant Holders"
-  url: ""
+  url: "/setts/b61y3db2w2b20w2b4y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b61y3db2w2b20w2b4y4/)
-(the same proportion at any scale), whose colour order is pattern [BGBWBWBG](/stripes/bgbwbwbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b61y3db2w2b20w2b4y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWBWBG](/stripes/bgbwbwbg/).
 
 Part of the [Royal Warrant Holders](/tartans/royal-warrant-holders/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/"><circle cx="566.7" cy="156.8" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.5" cy="179.2" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.8" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/"><circle cx="547.3" cy="101.5" r="4" fill="#3465a4"><title>Worsoff (Personal)</title></circle></a><a href="/variants/s6/lt13r2b13r2b70lt3~x2~lt3304230-b1511266/"><circle cx="563.6" cy="144.1" r="4" fill="#3465a4"><title>Agua</title></circle></a><a href="/variants/s6/t4db2t1db23lb2t2~x2~t2405244-lb3103284/"><circle cx="621.2" cy="181.4" r="4" fill="#3465a4"><title>Covenant College (Corporate)</title></circle></a><circle cx="626.0" cy="135.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/"><circle cx="566.8" cy="156.7" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.6" cy="179.1" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.7" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/"><circle cx="547.3" cy="101.4" r="4" fill="#3465a4"><title>Worsoff (Personal)</title></circle></a><a href="/variants/s6/lt13r2b13r2b70lt3~x2~lt3304230-b1511266/"><circle cx="563.6" cy="144.0" r="4" fill="#3465a4"><title>Agua</title></circle></a><a href="/variants/s6/t4db2t1db23lb2t2~x2~t2405244-lb3103284/"><circle cx="621.2" cy="181.3" r="4" fill="#3465a4"><title>Covenant College (Corporate)</title></circle></a><circle cx="626.0" cy="134.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/b61y3db2w2b20w2b4y4~x2~b1813263-db1204274/

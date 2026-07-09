@@ -1,5 +1,12 @@
 ---
 title: "Arbroath Smokie"
-redirect: "/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Arbroath Smokie](/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/).
+This is the **Arbroath Smokie** sett — one scale-free proportion (`ly1dr45dt23w1dt6r2ly1r2ly1`), colour order pattern
+[YBBWBRYRY](/stripes/ybbwbryry/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Arbroath Smokie](/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/) ★ | 2005 | ![Arbroath Smokie sett](/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/sett.png) |

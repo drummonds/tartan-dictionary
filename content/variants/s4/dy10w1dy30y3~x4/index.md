@@ -1,14 +1,16 @@
 ---
 title: "Pasteur"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pasteur"
-  url: ""
+  url: "/setts/dy10w1dy30y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy10w1dy30y3/)
-(the same proportion at any scale), whose colour order is pattern [GGWG](/stripes/ggwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy10w1dy30y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGWG](/stripes/ggwg/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/ly60do3ly4r3~x2/"><circle cx="626.0" cy="198.0" r="4" fill="#3465a4"><title>Rabbie's Dram (Fashion)</title></circle></a><a href="/variants/s5/k200dy3lo3dy3lo3/"><circle cx="626.0" cy="103.6" r="4" fill="#3465a4"><title>SmartWool</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.4" cy="135.9" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s6/y40r8y4w2y4ly5~x2~y2203076-ly3307090/"><circle cx="579.8" cy="183.7" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.7" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><a href="/variants/s6/dy45lb2r4y1dp2n2~x4/"><circle cx="593.1" cy="94.4" r="4" fill="#3465a4"><title>Windy Meadows (Fashion)</title></circle></a><a href="/variants/s4/ly24r1w1db1~x11/"><circle cx="626.0" cy="172.8" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/variants/s6/dy9lb3dy6lb3dy20y2~x2/"><circle cx="529.5" cy="233.5" r="4" fill="#3465a4"><title>Oman Sultanate of.. Regimental Tartan</title></circle></a><a href="/variants/s5/o2r1dp30w1y2~x2/"><circle cx="593.3" cy="114.9" r="4" fill="#3465a4"><title>Wedding</title></circle></a><circle cx="626.0" cy="212.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/ly60do3ly4r3~x2/"><circle cx="626.0" cy="198.0" r="4" fill="#3465a4"><title>Rabbie's Dram (Fashion)</title></circle></a><a href="/variants/s5/k200dy3lo3dy3lo3/"><circle cx="626.0" cy="103.5" r="4" fill="#3465a4"><title>SmartWool</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.4" cy="135.8" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s6/y40r8y4w2y4ly5~x2~y2203076-ly3307090/"><circle cx="579.8" cy="183.6" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.7" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><a href="/variants/s6/dy45lb2r4y1dp2n2~x4/"><circle cx="593.2" cy="94.2" r="4" fill="#3465a4"><title>Windy Meadows (Fashion)</title></circle></a><a href="/variants/s4/ly24r1w1db1~x11/"><circle cx="626.0" cy="172.8" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/variants/s6/dy9lb3dy6lb3dy20y2~x2/"><circle cx="529.5" cy="233.5" r="4" fill="#3465a4"><title>Oman Sultanate of.. Regimental Tartan</title></circle></a><a href="/variants/s5/o2r1dp30w1y2~x2/"><circle cx="593.3" cy="114.8" r="4" fill="#3465a4"><title>Wedding</title></circle></a><circle cx="626.0" cy="212.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dy10w1dy30y3~x4/

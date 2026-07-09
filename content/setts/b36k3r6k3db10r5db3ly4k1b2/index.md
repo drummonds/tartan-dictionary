@@ -1,5 +1,12 @@
 ---
 title: "Mead (Personal)"
-redirect: "/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mead (Personal)](/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/).
+This is the **Mead (Personal)** sett — one scale-free proportion (`b36k3r6k3db10r5db3ly4k1b2`), colour order pattern
+[BKRKBRBYKB](/stripes/bkrkbrbykb/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mead (Personal)](/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/) ★ | 2012 | ![Mead (Personal) sett](/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/sett.png) |

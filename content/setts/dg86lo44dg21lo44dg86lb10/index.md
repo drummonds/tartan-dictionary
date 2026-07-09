@@ -1,5 +1,12 @@
 ---
 title: "Special Saffron"
-redirect: "/variants/s6/dg86lo44dg21lo44dg86lb10/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Special Saffron](/variants/s6/dg86lo44dg21lo44dg86lb10/).
+This is the **Special Saffron** sett — one scale-free proportion (`dg86lo44dg21lo44dg86lb10`), colour order pattern
+[GYGYGW](/stripes/gygygw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Special Saffron](/variants/s6/dg86lo44dg21lo44dg86lb10/) ★ | 2002 | ![Special Saffron sett](/variants/s6/dg86lo44dg21lo44dg86lb10/sett.png) |

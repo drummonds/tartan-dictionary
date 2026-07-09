@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/setts/g7k6t7k1t2/">Campbell of Glenlyon</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/g7k6t7k1t2/"><img src="/variants/s5/g7k6t7k1t2~x2/sett.png" alt="Campbell of Glenlyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/g7k6db7k1db2~x2/">Campbell of Glenlyon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g7k6db7k1db2~x2/"><img src="/variants/s5/g7k6db7k1db2~x2/sett.png" alt="Campbell of Glenlyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g7k6db7k1db2~x2/">Campbell of Glenlyon Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g7k6db7k1db2~x2/"><img src="/variants/s5/g7k6db7k1db2~x2/sett.png" alt="Campbell of Glenlyon Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s5/dp27k10dp27k35y6/">Moorlands (Corporate)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/dp27k10dp27k35y6/"><img src="/variants/s5/dp27k10dp27k35y6/sett.png" alt="Moorlands (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

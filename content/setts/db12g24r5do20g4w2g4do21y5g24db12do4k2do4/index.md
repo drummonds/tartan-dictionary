@@ -1,5 +1,12 @@
 ---
 title: "Hyndman (Personal)"
-redirect: "/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hyndman (Personal)](/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/).
+This is the **Hyndman (Personal)** sett — one scale-free proportion (`db12g24r5do20g4w2g4do21y5g24db12do4k2do4`), colour order pattern
+[BGRBGWGBGGBBKB](/stripes/bgrbgwgbggbbkb/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hyndman (Personal)](/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/) ★ | 2002 | ![Hyndman (Personal) sett](/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Harley Davidson (Corporate)"
-redirect: "/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Harley Davidson (Corporate)](/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/).
+This is the **Harley Davidson (Corporate)** sett — one scale-free proportion (`oi4n6k4o8k49oi2`), colour order pattern
+[RBKRKR](/stripes/rbkrkr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Harley Davidson (Corporate)](/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/) ★ | 2003 | ![Harley Davidson (Corporate) sett](/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/sett.png) |

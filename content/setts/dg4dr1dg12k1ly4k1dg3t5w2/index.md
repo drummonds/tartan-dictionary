@@ -1,5 +1,12 @@
 ---
 title: "Lees-McRae College"
-redirect: "/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lees-McRae College](/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/).
+This is the **Lees-McRae College** sett — one scale-free proportion (`dg4dr1dg12k1ly4k1dg3t5w2`), colour order pattern
+[GBGKYKGBW](/stripes/gbgkykgbw/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lees-McRae College](/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/) ★ | 1999 | ![Lees-McRae College sett](/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/sett.png) |

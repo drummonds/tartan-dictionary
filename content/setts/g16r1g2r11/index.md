@@ -1,5 +1,12 @@
 ---
 title: "Middleton"
-redirect: "/variants/s4/g16r1g2r11~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Middleton](/variants/s4/g16r1g2r11~x8/).
+This is the **Middleton** sett — one scale-free proportion (`g16r1g2r11`), colour order pattern
+[GRGR](/stripes/grgr/). It is recorded as a single **variant**, below.
+First attested **1906**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Middleton](/variants/s4/g16r1g2r11~x8/) ★ | 1906 | ![Middleton sett](/variants/s4/g16r1g2r11~x8/sett.png) |

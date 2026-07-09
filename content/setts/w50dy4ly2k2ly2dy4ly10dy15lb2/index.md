@@ -1,5 +1,12 @@
 ---
 title: "Australian Dress District Tartan"
-redirect: "/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Australian Dress District Tartan](/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/).
+This is the **Australian Dress District Tartan** sett — one scale-free proportion (`w50dy4ly2k2ly2dy4ly10dy15lb2`), colour order pattern
+[WGYGYKYGW](/stripes/wgygykygw/). It is recorded as a single **variant**, below.
+First attested **1987**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Australian Dress District Tartan](/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/) ★ | 1987 | ![Australian Dress District Tartan sett](/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Edinburgh Crystal (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Edinburgh Crystal"
   url: "/tartans/edinburgh-crystal/"
 - name: "Edinburgh Crystal (Corporate)"
-  url: ""
+  url: "/setts/dt30w2k6db3r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt30w2k6db3r3/)
-(the same proportion at any scale), whose colour order is pattern [BWKBR](/stripes/bwkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dt30w2k6db3r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKBR](/stripes/bwkbr/).
 
 Part of the [Edinburgh Crystal](/tartans/edinburgh-crystal/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="394.9" cy="157.4" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4~db1406275/"><circle cx="281.8" cy="130.9" r="4" fill="#3465a4"><title>Edinburgh Crystal Corporate Tartan</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.7" cy="192.0" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="177.2" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.3" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.1" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.7" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/"><circle cx="417.3" cy="150.2" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.1" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><circle cx="376.9" cy="151.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="395.0" cy="157.3" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4~db1406275/"><circle cx="281.8" cy="130.8" r="4" fill="#3465a4"><title>Edinburgh Crystal Corporate Tartan</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.7" cy="191.9" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.8" cy="177.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.2" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.0" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.6" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/"><circle cx="417.4" cy="150.1" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.0" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.5" r="4" fill="#3465a4"><title>Avalon</title></circle></a><circle cx="376.9" cy="151.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dt30w2k6db3r3~x4/

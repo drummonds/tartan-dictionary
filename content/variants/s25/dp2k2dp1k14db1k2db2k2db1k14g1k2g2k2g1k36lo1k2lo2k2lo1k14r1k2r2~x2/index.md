@@ -1,14 +1,16 @@
 ---
 title: "Same Sex Marriage"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Same Sex Marriage"
-  url: ""
+  url: "/setts/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKGKGKGKKKKKKKYKYKYKRKR](/stripes/bkbkbkbkbkgkgkgkkkkkkkykykykrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKGKGKGKKKKKKKYKYKYKRKR](/stripes/bkbkbkbkbkgkgkgkkkkkkkykykykrkr/).
 
 Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 

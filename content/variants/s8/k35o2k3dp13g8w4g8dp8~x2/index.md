@@ -1,14 +1,16 @@
 ---
 title: "SheBoom"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "SheBoom"
-  url: ""
+  url: "/setts/k35o2k3dp13g8w4g8dp8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k35o2k3dp13g8w4g8dp8/)
-(the same proportion at any scale), whose colour order is pattern [BGWGBKRK](/stripes/bgwgbkrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k35o2k3dp13g8w4g8dp8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWGBKRK](/stripes/bgwgbkrk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/"><circle cx="184.3" cy="131.3" r="4" fill="#3465a4"><title>Luker (Personal)</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.2" cy="112.2" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.5" cy="148.4" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="182.6" cy="117.4" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="151.0" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.4" cy="120.8" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s8/k3g2k21w11g1dy21dg2dy3~x2/"><circle cx="160.8" cy="122.6" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.6" cy="151.9" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="184.1" cy="150.4" r="4" fill="#3465a4"><title>Bennett, John Paul Personal Tartan</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.6" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><circle cx="194.3" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/"><circle cx="184.3" cy="131.2" r="4" fill="#3465a4"><title>Luker (Personal)</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.2" cy="112.1" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.6" cy="148.3" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="182.6" cy="117.3" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="150.9" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.5" cy="120.7" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s8/k3g2k21w11g1dy21dg2dy3~x2/"><circle cx="160.9" cy="122.5" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.7" cy="151.8" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="184.2" cy="150.3" r="4" fill="#3465a4"><title>Bennett, John Paul Personal Tartan</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.5" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><circle cx="194.3" cy="128.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k35o2k3dp13g8w4g8dp8~x2/

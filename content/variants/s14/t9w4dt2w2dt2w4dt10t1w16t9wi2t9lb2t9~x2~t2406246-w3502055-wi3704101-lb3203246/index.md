@@ -1,14 +1,16 @@
 ---
 title: "Balamory Fancy Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Balamory Fancy Tartan"
-  url: ""
+  url: "/setts/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBWBBWBWBWB](/stripes/bwbwbwbbwbwbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBWBWBWB](/stripes/bwbwbwbbwbwbwb/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2005 Archies kilt
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/"><circle cx="245.8" cy="189.5" r="4" fill="#3465a4"><title>Balamory</title></circle></a><a href="/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><circle cx="271.7" cy="193.0" r="4" fill="#3465a4"><title>MacHinery Dress (Fashion)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.7" cy="205.2" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1406275-db1204274/"><circle cx="201.3" cy="186.2" r="4" fill="#3465a4"><title>St. Andrews Dress, Earl of</title></circle></a><a href="/variants/s11/dr3t2lb7t3lb20db4dbi8t20dr3t7w2~x2~db1106275-dbi1404245/"><circle cx="233.2" cy="200.9" r="4" fill="#3465a4"><title>Royal Air Force</title></circle></a><a href="/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/"><circle cx="222.6" cy="183.8" r="4" fill="#3465a4"><title>Portree, Blue (Dance)</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.5" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/"><circle cx="323.3" cy="188.0" r="4" fill="#3465a4"><title>Portree Blue (Dance)</title></circle></a><a href="/variants/s7/w20dbi14t14w4db2lb2t7~x2~dbi1406275-db1404245/"><circle cx="207.7" cy="235.4" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress (Dance)</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/"><circle cx="232.7" cy="210.4" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><circle cx="263.7" cy="194.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/"><circle cx="245.8" cy="189.4" r="4" fill="#3465a4"><title>Balamory</title></circle></a><a href="/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><circle cx="271.7" cy="192.9" r="4" fill="#3465a4"><title>MacHinery Dress (Fashion)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.7" cy="205.1" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1406275-db1204274/"><circle cx="201.3" cy="186.1" r="4" fill="#3465a4"><title>St. Andrews Dress, Earl of</title></circle></a><a href="/variants/s11/dr3t2lb7t3lb20db4dbi8t20dr3t7w2~x2~db1106275-dbi1404245/"><circle cx="233.2" cy="200.8" r="4" fill="#3465a4"><title>Royal Air Force</title></circle></a><a href="/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/"><circle cx="222.6" cy="183.7" r="4" fill="#3465a4"><title>Portree, Blue (Dance)</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.4" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/"><circle cx="323.3" cy="187.9" r="4" fill="#3465a4"><title>Portree Blue (Dance)</title></circle></a><a href="/variants/s7/w20dbi14t14w4db2lb2t7~x2~dbi1406275-db1404245/"><circle cx="207.8" cy="235.4" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress (Dance)</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/"><circle cx="232.7" cy="210.4" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><circle cx="263.7" cy="194.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9~x2~t2406246-w3502055-wi3704101-lb3203246/

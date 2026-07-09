@@ -1,16 +1,18 @@
 ---
 title: "Cornish Hunting District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cornish Hunting"
   url: "/tartans/cornish-hunting/"
 - name: "Cornish Hunting District Tartan"
-  url: ""
+  url: "/setts/w5k26y2dg24db7k3r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5k26y2dg24db7k3r3/)
-(the same proportion at any scale), whose colour order is pattern [RKBGGKW](/stripes/rkbggkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w5k26y2dg24db7k3r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBGGKW](/stripes/rkbggkw/).
 
 Part of the [Cornish Hunting](/tartans/cornish-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1984 The Cornish Hunting tartan was first produced in 1984,
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1984 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><circle cx="150.8" cy="136.2" r="4" fill="#3465a4"><title>Cornish, hunting</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.2" cy="139.9" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s6/b8k11w3k11dg22dr2~x2/"><circle cx="153.7" cy="193.0" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="151.0" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="182.6" cy="117.4" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="181.5" cy="169.3" r="4" fill="#3465a4"><title>New England (Fashion)</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.4" cy="120.8" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="163.0" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="155.4" cy="150.1" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.3" cy="174.4" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><circle cx="154.6" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><circle cx="150.9" cy="136.1" r="4" fill="#3465a4"><title>Cornish, hunting</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.2" cy="139.8" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s6/b8k11w3k11dg22dr2~x2/"><circle cx="153.8" cy="192.9" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="150.9" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="182.6" cy="117.3" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="181.6" cy="169.3" r="4" fill="#3465a4"><title>New England (Fashion)</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.5" cy="120.7" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="162.9" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="155.4" cy="150.0" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.4" cy="174.3" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><circle cx="154.6" cy="139.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w5k26y2dg24db7k3r3~x2/

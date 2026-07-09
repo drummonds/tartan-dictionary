@@ -1,5 +1,12 @@
 ---
 title: "Eastern Western Motor Group, Dalbraith"
-redirect: "/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Eastern Western Motor Group, Dalbraith](/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/).
+This is the **Eastern Western Motor Group, Dalbraith** sett — one scale-free proportion (`dy28g2dy4db18g23db2g3ly4`), colour order pattern
+[GGGBGBGY](/stripes/gggbgbgy/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Eastern Western Motor Group, Dalbraith](/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/) ★ | 2002 | ![Eastern Western Motor Group, Dalbraith sett](/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/sett.png) |

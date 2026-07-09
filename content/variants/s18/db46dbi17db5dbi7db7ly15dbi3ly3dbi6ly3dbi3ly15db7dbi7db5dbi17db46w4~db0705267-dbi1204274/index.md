@@ -1,14 +1,16 @@
 ---
 title: "Rhys of Wales"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Rhys of Wales"
-  url: ""
+  url: "/setts/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBYBYBYBYBBBBBW](/stripes/bbbbbybybybybbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBYBYBYBYBBBBBW](/stripes/bbbbbybybybybbbbbw/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi1204274-db0705267/"><circle cx="318.7" cy="181.2" r="4" fill="#3465a4"><title>Rhys Welsh Name Tartan</title></circle></a><a href="/variants/s19/dr16db4ly2lyi2db4ly6db4lyi2ly2db16dr3db3lyi3db3dr3db16ly2lyi2db3~x2~ly2505093-lyi2806085/"><circle cx="327.1" cy="199.5" r="4" fill="#3465a4"><title>Longniddry</title></circle></a><a href="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/"><circle cx="360.6" cy="159.2" r="4" fill="#3465a4"><title>Meiji Rugby 1923</title></circle></a><circle cx="320.2" cy="160.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi1204274-db0705267/"><circle cx="318.7" cy="181.1" r="4" fill="#3465a4"><title>Rhys Welsh Name Tartan</title></circle></a><a href="/variants/s19/dr16db4ly2lyi2db4ly6db4lyi2ly2db16dr3db3lyi3db3dr3db16ly2lyi2db3~x2~ly2505093-lyi2806085/"><circle cx="327.1" cy="199.4" r="4" fill="#3465a4"><title>Longniddry</title></circle></a><a href="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/"><circle cx="360.6" cy="159.0" r="4" fill="#3465a4"><title>Meiji Rugby 1923</title></circle></a><circle cx="320.2" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/

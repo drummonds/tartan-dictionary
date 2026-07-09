@@ -1,5 +1,12 @@
 ---
 title: "Harmony 5"
-redirect: "/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Harmony 5](/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/).
+This is the **Harmony 5** sett — one scale-free proportion (`g9r3g4dy3g3dy4g3o11ly30r3ly4g3`), colour order pattern
+[GRGGGGGRYRYG](/stripes/grgggggryryg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Harmony 5](/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/) ★ | ~2016 | ![Harmony 5 sett](/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/sett.png) |

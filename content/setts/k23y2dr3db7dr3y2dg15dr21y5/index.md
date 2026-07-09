@@ -1,5 +1,12 @@
 ---
 title: "Land's End (Unnamed Maroon)"
-redirect: "/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Land's End (Unnamed Maroon)](/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/).
+This is the **Land's End (Unnamed Maroon)** sett — one scale-free proportion (`k23y2dr3db7dr3y2dg15dr21y5`), colour order pattern
+[GBGGBBBGK](/stripes/gbggbbbgk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Land's End (Unnamed Maroon)](/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/) ★ | ~2016 | ![Land's End (Unnamed Maroon) sett](/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/sett.png) |

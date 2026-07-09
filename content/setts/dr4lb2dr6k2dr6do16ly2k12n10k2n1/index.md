@@ -1,5 +1,12 @@
 ---
 title: "Caledonian (WCWM)"
-redirect: "/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Caledonian (WCWM)](/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/).
+This is the **Caledonian (WCWM)** sett — one scale-free proportion (`dr4lb2dr6k2dr6do16ly2k12n10k2n1`), colour order pattern
+[BKBKYBBKBWB](/stripes/bkbkybbkbwb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Caledonian (WCWM)](/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/) ★ | ~2016 | ![Caledonian (WCWM) sett](/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/sett.png) |

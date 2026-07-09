@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/">Stephenson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><img src="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/sett.png" alt="Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/">Stephenson Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><img src="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/sett.png" alt="Stephenson Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/">Stevenson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><img src="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

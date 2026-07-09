@@ -1,14 +1,16 @@
 ---
 title: "James Welsh Name Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "James Welsh Name Tartan"
-  url: ""
+  url: "/setts/db11k1r3db6k1db6r3db4r7db11ly1db11r7ly2k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db11k1r3db6k1db6r3db4r7db11ly1db11r7ly2k4/)
-(the same proportion at any scale), whose colour order is pattern [BKRBKBRBRBYBRYK](/stripes/bkrbkbrbrbybryk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db11k1r3db6k1db6r3db4r7db11ly1db11r7ly2k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKRBKBRBRBYBRYK](/stripes/bkrbkbrbrbybryk/).
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4~x2/"><circle cx="340.2" cy="187.5" r="4" fill="#3465a4"><title>James (Welsh Name)</title></circle></a><a href="/variants/s15/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4/"><circle cx="323.9" cy="162.8" r="4" fill="#3465a4"><title>James of Wales</title></circle></a><a href="/variants/s15/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2~x2/"><circle cx="400.2" cy="111.8" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/"><circle cx="272.5" cy="152.8" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><a href="/variants/s12/dg4w1b4dr4k2b12k2b12k2dr4k4b4~x2/"><circle cx="239.8" cy="154.7" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/"><circle cx="273.8" cy="168.7" r="4" fill="#3465a4"><title>Fleming /Frisken/Flanders</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.0" cy="167.8" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><circle cx="269.1" cy="153.5" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><circle cx="282.6" cy="170.5" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><circle cx="240.5" cy="151.8" r="4" fill="#3465a4"><title>Skarpathiotakis, George (Personal)</title></circle></a><circle cx="285.2" cy="164.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4~x2/"><circle cx="340.2" cy="187.4" r="4" fill="#3465a4"><title>James (Welsh Name)</title></circle></a><a href="/variants/s15/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4/"><circle cx="323.9" cy="162.7" r="4" fill="#3465a4"><title>James of Wales</title></circle></a><a href="/variants/s15/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2~x2/"><circle cx="400.2" cy="111.6" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/"><circle cx="272.5" cy="152.6" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><a href="/variants/s12/dg4w1b4dr4k2b12k2b12k2dr4k4b4~x2/"><circle cx="239.8" cy="154.5" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/"><circle cx="273.8" cy="168.6" r="4" fill="#3465a4"><title>Fleming /Frisken/Flanders</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.1" cy="167.6" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><circle cx="269.1" cy="153.3" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><circle cx="282.6" cy="170.4" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><circle cx="240.5" cy="151.7" r="4" fill="#3465a4"><title>Skarpathiotakis, George (Personal)</title></circle></a><circle cx="285.2" cy="163.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db11k1r3db6k1db6r3db4r7db11ly1db11r7ly2k4~x2/

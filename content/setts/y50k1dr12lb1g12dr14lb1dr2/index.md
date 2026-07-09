@@ -1,5 +1,14 @@
 ---
 title: "MacByrd (Personal)"
-redirect: "/variants/s8/y50k1dr12lb1g12dr14lb1dr2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacByrd (Personal)](/variants/s8/y50k1dr12lb1g12dr14lb1dr2~x4/).
+This is the **MacByrd (Personal)** sett — one scale-free proportion (`y50k1dr12lb1g12dr14lb1dr2`), colour order pattern
+[BWBGWBKG](/stripes/bwbgwbkg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [MacByrd](/tartans/macbyrd/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacByrd (Personal)](/variants/s8/y50k1dr12lb1g12dr14lb1dr2~x4/) ★ | ~2016 | ![MacByrd (Personal) sett](/variants/s8/y50k1dr12lb1g12dr14lb1dr2~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Wcwm 1716"
-redirect: "/variants/s6/g6ly3g26dg10dt30w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wcwm 1716](/variants/s6/g6ly3g26dg10dt30w3~x2/).
+This is the **Wcwm 1716** sett — one scale-free proportion (`g6ly3g26dg10dt30w3`), colour order pattern
+[GYGGBW](/stripes/gyggbw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wcwm 1716](/variants/s6/g6ly3g26dg10dt30w3~x2/) ★ | 2002 | ![Wcwm 1716 sett](/variants/s6/g6ly3g26dg10dt30w3~x2/sett.png) |

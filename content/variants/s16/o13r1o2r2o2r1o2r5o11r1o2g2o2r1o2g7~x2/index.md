@@ -1,14 +1,16 @@
 ---
 title: "Sarna"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sarna"
-  url: ""
+  url: "/setts/o13r1o2r2o2r1o2r5o11r1o2g2o2r1o2g7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o13r1o2r2o2r1o2r5o11r1o2g2o2r1o2g7/)
-(the same proportion at any scale), whose colour order is pattern [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o13r1o2r2o2r1o2r5o11r1o2g2o2r1o2g7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/).
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

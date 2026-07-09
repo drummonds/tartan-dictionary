@@ -1,14 +1,16 @@
 ---
 title: "Longford"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Longford"
-  url: ""
+  url: "/setts/db8k3db18g6k8g6o12r5o12r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8k3db18g6k8g6o12r5o12r3/)
-(the same proportion at any scale), whose colour order is pattern [BKBGKGRRRR](/stripes/bkbgkgrrrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db8k3db18g6k8g6o12r5o12r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBGKGRRRR](/stripes/bkbgkgrrrr/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.4" cy="192.1" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="71.9" cy="208.2" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2~t2105244/"><circle cx="97.4" cy="189.0" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.6" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2/"><circle cx="91.0" cy="188.1" r="4" fill="#3465a4"><title>Bowie (Name)</title></circle></a><a href="/variants/s8/y8g4db16g4k14y14db4t3~x2/"><circle cx="86.2" cy="222.8" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="179.3" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.2" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="182.0" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s12/r6k20y4dy10t21k4t21dy10y4k20r6t3~x2/"><circle cx="87.9" cy="181.5" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><circle cx="76.7" cy="213.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.5" cy="192.0" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="72.0" cy="208.1" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2~t2105244/"><circle cx="97.4" cy="188.9" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.5" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2/"><circle cx="91.0" cy="188.0" r="4" fill="#3465a4"><title>Bowie (Name)</title></circle></a><a href="/variants/s8/y8g4db16g4k14y14db4t3~x2/"><circle cx="86.3" cy="222.7" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="179.3" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.1" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="181.9" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s12/r6k20y4dy10t21k4t21dy10y4k20r6t3~x2/"><circle cx="87.9" cy="181.4" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><circle cx="76.7" cy="213.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/

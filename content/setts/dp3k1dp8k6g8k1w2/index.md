@@ -1,5 +1,12 @@
 ---
 title: "Baillie (Highland Society)"
-redirect: "/variants/s7/dp3k1dp8k6g8k1w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Baillie (Highland Society)](/variants/s7/dp3k1dp8k6g8k1w2~x2/).
+This is the **Baillie (Highland Society)** sett — one scale-free proportion (`dp3k1dp8k6g8k1w2`), colour order pattern
+[BKBKGKW](/stripes/bkbkgkw/). It is recorded as a single **variant**, below.
+First attested **1815**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Baillie (Highland Society)](/variants/s7/dp3k1dp8k6g8k1w2~x2/) ★ | 1815 | ![Baillie (Highland Society) sett](/variants/s7/dp3k1dp8k6g8k1w2~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Wcwm 9275-1572-1"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wcwm 9275-1572-1"
-  url: ""
+  url: "/setts/g112dp2k4dp2g6lo1g2dr2lb2dr2g2lo1g6dp2k4dp2g6dr2lb6k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g112dp2k4dp2g6lo1g2dr2lb2dr2g2lo1g6dp2k4dp2g6dr2lb6k4/)
-(the same proportion at any scale), whose colour order is pattern [GBKBGYGBWBGYGBKBGBWK](/stripes/gbkbgygbwbgygbkbgbwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g112dp2k4dp2g6lo1g2dr2lb2dr2g2lo1g6dp2k4dp2g6dr2lb6k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBGYGBWBGYGBKBGBWK](/stripes/gbkbgygbwbgygbkbgbwk/).
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

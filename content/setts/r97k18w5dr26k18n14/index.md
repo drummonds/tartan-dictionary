@@ -1,5 +1,12 @@
 ---
 title: "Bradley University"
-redirect: "/variants/s6/r97k18w5dr26k18n14/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bradley University](/variants/s6/r97k18w5dr26k18n14/).
+This is the **Bradley University** sett — one scale-free proportion (`r97k18w5dr26k18n14`), colour order pattern
+[BKBWKR](/stripes/bkbwkr/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Bradley University](/variants/s6/r97k18w5dr26k18n14/) ★ | 2015 | ![Bradley University sett](/variants/s6/r97k18w5dr26k18n14/sett.png) |

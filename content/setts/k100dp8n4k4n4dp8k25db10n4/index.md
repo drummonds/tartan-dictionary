@@ -1,5 +1,12 @@
 ---
 title: "CI (Corporate)"
-redirect: "/variants/s9/k100dp8n4k4n4dp8k25db10n4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [CI (Corporate)](/variants/s9/k100dp8n4k4n4dp8k25db10n4/).
+This is the **CI (Corporate)** sett — one scale-free proportion (`k100dp8n4k4n4dp8k25db10n4`), colour order pattern
+[BBKBBKBBK](/stripes/bbkbbkbbk/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [CI (Corporate)](/variants/s9/k100dp8n4k4n4dp8k25db10n4/) ★ | ~2008 | ![CI (Corporate) sett](/variants/s9/k100dp8n4k4n4dp8k25db10n4/sett.png) |

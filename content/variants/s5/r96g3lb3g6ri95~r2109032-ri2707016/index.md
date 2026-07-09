@@ -1,16 +1,18 @@
 ---
 title: "MacNab - 1800 (Portrait)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNab"
   url: "/tartans/macnab/"
 - name: "MacNab - 1800 (Portrait)"
-  url: ""
+  url: "/setts/r96g3lb3g6ri95/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r96g3lb3g6ri95/)
-(the same proportion at any scale), whose colour order is pattern [RGWGR](/stripes/rgwgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r96g3lb3g6ri95/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGWGR](/stripes/rgwgr/).
 
 Part of the [MacNab](/tartans/macnab/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r24g1lb1g2ri24~x4~r1807008-ri2109032/"><circle cx="510.9" cy="217.8" r="4" fill="#3465a4"><title>MacNab (Smith)</title></circle></a><a href="/variants/s5/r24g1lb1g2ri24~x2~r1707016-ri2008029/"><circle cx="509.2" cy="218.3" r="4" fill="#3465a4"><title>MacNab 4</title></circle></a><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><circle cx="446.5" cy="199.8" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/variants/s4/dg1dr10r10dg1~x6/"><circle cx="375.3" cy="254.7" r="4" fill="#3465a4"><title>Stirling of Keir (Clan)</title></circle></a><a href="/variants/s5/o1dr4r10y2w1~x4/"><circle cx="339.7" cy="200.8" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/variants/s5/dy5r21y21w2db1~x2/"><circle cx="324.8" cy="188.5" r="4" fill="#3465a4"><title>Haughey (2015)</title></circle></a><a href="/variants/s3/dr104dg39lo4~x2/"><circle cx="577.6" cy="284.0" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s6/g3k3ly2dr28dy28r1~x2/"><circle cx="365.5" cy="152.9" r="4" fill="#3465a4"><title>Passchendaele (Commemorative)</title></circle></a><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.7" cy="257.0" r="4" fill="#3465a4"><title>Eglington</title></circle></a><circle cx="516.5" cy="199.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r24g1lb1g2ri24~x4~r1807008-ri2109032/"><circle cx="510.9" cy="217.7" r="4" fill="#3465a4"><title>MacNab (Smith)</title></circle></a><a href="/variants/s5/r24g1lb1g2ri24~x2~r1707016-ri2008029/"><circle cx="509.3" cy="218.2" r="4" fill="#3465a4"><title>MacNab 4</title></circle></a><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><circle cx="446.6" cy="199.7" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/variants/s4/dg1dr10r10dg1~x6/"><circle cx="375.3" cy="254.7" r="4" fill="#3465a4"><title>Stirling of Keir (Clan)</title></circle></a><a href="/variants/s5/o1dr4r10y2w1~x4/"><circle cx="339.8" cy="200.8" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/variants/s5/dy5r21y21w2db1~x2/"><circle cx="324.8" cy="188.4" r="4" fill="#3465a4"><title>Haughey (2015)</title></circle></a><a href="/variants/s3/dr104dg39lo4~x2/"><circle cx="577.6" cy="283.9" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s6/g3k3ly2dr28dy28r1~x2/"><circle cx="365.6" cy="152.8" r="4" fill="#3465a4"><title>Passchendaele (Commemorative)</title></circle></a><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.7" cy="257.0" r="4" fill="#3465a4"><title>Eglington</title></circle></a><circle cx="516.6" cy="199.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r96g3lb3g6ri95~r2109032-ri2707016/

@@ -1,14 +1,16 @@
 ---
 title: "Blackdown Hills Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Blackdown Hills Corporate Tartan"
-  url: ""
+  url: "/setts/k4n4lo1n4r4db4w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4n4lo1n4r4db4w1/)
-(the same proportion at any scale), whose colour order is pattern [KBYBRBW](/stripes/kbybrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4n4lo1n4r4db4w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBYBRBW](/stripes/kbybrbw/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1991 The Blackdown Hills on the Devon/Somerset border were 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1991 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.4" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="182.0" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.6" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s7/n5db4y1db4k4dr4w1~x4/"><circle cx="69.7" cy="238.4" r="4" fill="#3465a4"><title>Devon Companion District Tartan</title></circle></a><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><circle cx="108.2" cy="201.6" r="4" fill="#3465a4"><title>Sustainability (Fashion)</title></circle></a><a href="/variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi3203246-lb3200000/"><circle cx="42.7" cy="226.2" r="4" fill="#3465a4"><title>DunBroch (Corporate)</title></circle></a><a href="/variants/s7/n5db4y1db4k4dy4w1~x4/"><circle cx="68.9" cy="239.3" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.7" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><circle cx="50.3" cy="243.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.3" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="182.0" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.7" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s7/n5db4y1db4k4dr4w1~x4/"><circle cx="69.7" cy="238.3" r="4" fill="#3465a4"><title>Devon Companion District Tartan</title></circle></a><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><circle cx="108.3" cy="201.5" r="4" fill="#3465a4"><title>Sustainability (Fashion)</title></circle></a><a href="/variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi3203246-lb3200000/"><circle cx="42.7" cy="226.2" r="4" fill="#3465a4"><title>DunBroch (Corporate)</title></circle></a><a href="/variants/s7/n5db4y1db4k4dy4w1~x4/"><circle cx="68.9" cy="239.3" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.6" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><circle cx="50.3" cy="243.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k4w3k4n9r1~x4/">Oban Grey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k4w3k4n9r1~x4/"><img src="/variants/s5/k4w3k4n9r1~x4/sett.png" alt="Oban Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k4w3k4n9r1~x4/">Oban Grey District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k4w3k4n9r1~x4/"><img src="/variants/s5/k4w3k4n9r1~x4/sett.png" alt="Oban Grey District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

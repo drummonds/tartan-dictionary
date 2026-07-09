@@ -1,14 +1,16 @@
 ---
 title: "Devon Companion"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Devon Companion"
-  url: ""
+  url: "/setts/n5db4y1db4k4dy4w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n5db4y1db4k4dy4w1/)
-(the same proportion at any scale), whose colour order is pattern [BBGBKGW](/stripes/bbgbkgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n5db4y1db4k4dy4w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBKGW](/stripes/bbgbkgw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n5db4y1db4k4dr4w1~x4/"><circle cx="69.7" cy="238.4" r="4" fill="#3465a4"><title>Devon Companion District Tartan</title></circle></a><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.4" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s7/t2db3k1db3n3g4r1~x8/"><circle cx="78.6" cy="261.5" r="4" fill="#3465a4"><title>New York City</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.3" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="116.0" cy="211.7" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.7" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.4" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.6" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.3" cy="243.0" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/"><circle cx="60.7" cy="230.3" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><circle cx="68.9" cy="239.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n5db4y1db4k4dr4w1~x4/"><circle cx="69.7" cy="238.3" r="4" fill="#3465a4"><title>Devon Companion District Tartan</title></circle></a><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.3" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s7/t2db3k1db3n3g4r1~x8/"><circle cx="78.7" cy="261.5" r="4" fill="#3465a4"><title>New York City</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.3" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="116.0" cy="211.7" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.6" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.5" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.3" cy="243.0" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/"><circle cx="60.7" cy="230.3" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><circle cx="68.9" cy="239.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n5db4y1db4k4dy4w1~x4/

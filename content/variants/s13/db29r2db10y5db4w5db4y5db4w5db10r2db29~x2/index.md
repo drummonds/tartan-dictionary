@@ -1,16 +1,18 @@
 ---
 title: "Clackson (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clackson"
   url: "/tartans/clackson/"
 - name: "Clackson (Personal)"
-  url: ""
+  url: "/setts/db29r2db10y5db4w5db4y5db4w5db10r2db29/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db29r2db10y5db4w5db4y5db4w5db10r2db29/)
-(the same proportion at any scale), whose colour order is pattern [BRBGBWBGBWBRB](/stripes/brbgbwbgbwbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db29r2db10y5db4w5db4y5db4w5db10r2db29/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBGBWBGBWBRB](/stripes/brbgbwbgbwbrb/).
 
 Part of the [Clackson](/tartans/clackson/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db24r2db8y5db4w5db4y5db4w5db8r2db24~x2/"><circle cx="411.1" cy="160.7" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s15/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2~x2/"><circle cx="400.2" cy="111.8" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.9" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s12/db4r2db25lb7w1db5w2db5w1lb7db26r2~x2/"><circle cx="440.7" cy="119.2" r="4" fill="#3465a4"><title>Glasgow Caledonian University (Corp)</title></circle></a><a href="/variants/s13/db15w2db15y2db15r2db15y2db15w2db15r4k2~x2/"><circle cx="447.0" cy="166.7" r="4" fill="#3465a4"><title>Royal National Lifeboat Inst. (Corp)</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.9" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="475.0" cy="122.1" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="129.0" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/"><circle cx="425.5" cy="161.5" r="4" fill="#3465a4"><title>Ikelman #5 (Personal)</title></circle></a><a href="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/"><circle cx="428.5" cy="116.5" r="4" fill="#3465a4"><title>Wanless (Personal)</title></circle></a><circle cx="449.9" cy="148.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db24r2db8y5db4w5db4y5db4w5db8r2db24~x2/"><circle cx="411.1" cy="160.6" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s15/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2~x2/"><circle cx="400.2" cy="111.6" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.8" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s12/db4r2db25lb7w1db5w2db5w1lb7db26r2~x2/"><circle cx="440.7" cy="119.1" r="4" fill="#3465a4"><title>Glasgow Caledonian University (Corp)</title></circle></a><a href="/variants/s13/db15w2db15y2db15r2db15y2db15w2db15r4k2~x2/"><circle cx="447.0" cy="166.5" r="4" fill="#3465a4"><title>Royal National Lifeboat Inst. (Corp)</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.8" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="475.0" cy="121.9" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="128.9" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/"><circle cx="425.5" cy="161.4" r="4" fill="#3465a4"><title>Ikelman #5 (Personal)</title></circle></a><a href="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/"><circle cx="428.5" cy="116.3" r="4" fill="#3465a4"><title>Wanless (Personal)</title></circle></a><circle cx="449.9" cy="147.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db29r2db10y5db4w5db4y5db4w5db10r2db29~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Galego"
-redirect: "/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Galego](/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/).
+This is the **Galego** sett — one scale-free proportion (`db16r4db2y4db8w8db2w24lb2w1lb8`), colour order pattern
+[BRBGBWBWWWW](/stripes/brbgbwbwwww/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Galego](/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/) ★ | 2007 | ![Galego sett](/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/sett.png) |

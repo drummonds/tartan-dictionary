@@ -1,14 +1,16 @@
 ---
 title: "Kinloch Anderson, Romance of"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kinloch Anderson, Romance of"
-  url: ""
+  url: "/setts/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/)
-(the same proportion at any scale), whose colour order is pattern [BWYWYRWRWYWY](/stripes/bwywyrwrwywy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWYWYRWRWYWY](/stripes/bwywyrwrwywy/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

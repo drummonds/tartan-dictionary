@@ -1,14 +1,16 @@
 ---
 title: "Historic Scotland Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Historic Scotland Corporate Tartan"
-  url: ""
+  url: "/setts/k2g7k1g9dy21n2dy1n1dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2g7k1g9dy21n2dy1n1dy2/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGGKGK](/stripes/gbgbggkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2g7k1g9dy21n2dy1n1dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGGKGK](/stripes/gbgbggkgk/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1988 Custodians at Historic Scotland properties throughout 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1988 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><circle cx="346.2" cy="168.5" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><a href="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/"><circle cx="345.0" cy="135.1" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="340.6" cy="140.8" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/"><circle cx="323.8" cy="111.0" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="131.1" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s15/g21k1r4k1dy21g3dy3g3dy21g3y4g21dy3g3dy3~x2/"><circle cx="292.7" cy="124.5" r="4" fill="#3465a4"><title>Ensign of Ontario Canadian Tartan</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.1" cy="132.9" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/"><circle cx="346.4" cy="152.7" r="4" fill="#3465a4"><title>Beard</title></circle></a><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><circle cx="343.4" cy="114.7" r="4" fill="#3465a4"><title>Proctor Name Tartan</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="351.3" cy="158.1" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><circle cx="335.9" cy="144.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><circle cx="346.2" cy="168.4" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><a href="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/"><circle cx="345.0" cy="135.0" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="340.6" cy="140.7" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/"><circle cx="323.8" cy="110.8" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="130.9" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s15/g21k1r4k1dy21g3dy3g3dy21g3y4g21dy3g3dy3~x2/"><circle cx="292.7" cy="124.4" r="4" fill="#3465a4"><title>Ensign of Ontario Canadian Tartan</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.2" cy="132.8" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/"><circle cx="346.4" cy="152.6" r="4" fill="#3465a4"><title>Beard</title></circle></a><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><circle cx="343.4" cy="114.6" r="4" fill="#3465a4"><title>Proctor Name Tartan</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="351.3" cy="158.0" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><circle cx="335.9" cy="144.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/

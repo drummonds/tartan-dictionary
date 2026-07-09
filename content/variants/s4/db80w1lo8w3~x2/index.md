@@ -1,14 +1,16 @@
 ---
 title: "Weir Minerals (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Weir Minerals (Corporate)"
-  url: ""
+  url: "/setts/db80w1lo8w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db80w1lo8w3/)
-(the same proportion at any scale), whose colour order is pattern [BWYW](/stripes/bwyw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db80w1lo8w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWYW](/stripes/bwyw/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="535.7" cy="216.2" r="4" fill="#3465a4"><title>Westfield (Corporate?)</title></circle></a><a href="/variants/s4/db39ly8dr3w1~x4/"><circle cx="541.6" cy="174.4" r="4" fill="#3465a4"><title>Norwich University (Corporate)</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.7" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="529.4" cy="152.8" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/w1n12dp1w1~x4/"><circle cx="584.3" cy="235.2" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><a href="/variants/s4/db140r11db14y11/"><circle cx="626.0" cy="216.8" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/variants/s4/db32r3db4y3~x2/"><circle cx="619.1" cy="225.7" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="532.4" cy="229.8" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="431.3" cy="198.5" r="4" fill="#3465a4"><title>Hsu (Personal)</title></circle></a><circle cx="626.0" cy="169.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.2" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="535.7" cy="216.2" r="4" fill="#3465a4"><title>Westfield (Corporate?)</title></circle></a><a href="/variants/s4/db39ly8dr3w1~x4/"><circle cx="541.7" cy="174.4" r="4" fill="#3465a4"><title>Norwich University (Corporate)</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.6" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="529.5" cy="152.7" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/w1n12dp1w1~x4/"><circle cx="584.3" cy="235.2" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><a href="/variants/s4/db140r11db14y11/"><circle cx="626.0" cy="216.7" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/variants/s4/db32r3db4y3~x2/"><circle cx="619.1" cy="225.6" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="532.5" cy="229.8" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="431.3" cy="198.4" r="4" fill="#3465a4"><title>Hsu (Personal)</title></circle></a><circle cx="626.0" cy="169.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db80w1lo8w3~x2/

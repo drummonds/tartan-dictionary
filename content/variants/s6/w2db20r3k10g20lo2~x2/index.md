@@ -1,14 +1,16 @@
 ---
 title: "Morris of Eddergoll (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Morris of Eddergoll (Personal)"
-  url: ""
+  url: "/setts/w2db20r3k10g20lo2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2db20r3k10g20lo2/)
-(the same proportion at any scale), whose colour order is pattern [WBRKGY](/stripes/wbrkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2db20r3k10g20lo2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBRKGY](/stripes/wbrkgy/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="81.9" cy="169.3" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="138.4" cy="141.5" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.4" cy="142.9" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.6" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.1" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.8" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="119.9" cy="169.8" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="138.3" cy="196.6" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="192.1" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="72.3" cy="169.4" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><circle cx="109.7" cy="169.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="81.9" cy="169.2" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="138.5" cy="141.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.5" cy="142.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.5" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.0" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.2" cy="168.7" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="119.9" cy="169.7" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="138.3" cy="196.6" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="192.0" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="72.4" cy="169.3" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><circle cx="109.8" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w2db20r3k10g20lo2~x2/

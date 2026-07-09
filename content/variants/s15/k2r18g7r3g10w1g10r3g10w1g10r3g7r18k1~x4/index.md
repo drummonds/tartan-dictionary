@@ -1,14 +1,16 @@
 ---
 title: "MacAulay"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacAulay"
-  url: ""
+  url: "/setts/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1/)
-(the same proportion at any scale), whose colour order is pattern [KRGRGWGRGWGRGRK](/stripes/krgrgwgrgwgrgrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRGRGWGRGWGRGRK](/stripes/krgrgwgrgwgrgrk/).
 
 Sourced from logan-1831.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **MacAulay** name adjusted Logan's counts: [MacAulay](/setts/s6/k2r16g6r3g8w1~g006818-k101010-rc80000-wc0c0c0~x2/); [MacAulay (MacGregor)](/setts/s9/r96b1g24b1r10b1g12k1w4~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/); [MacAulay of Lewis](/setts/s8/g6k16r3k16g28k4g12w3~g006818-k101010-rc80000-wf8f8f8~x2/); [MacAulay Hunting](/setts/s8/g6k16w1k16g8k4g12r2~g006818-k101010-rc80000-wfcfcfc~x2/). Compare their thread counts with Logan's above.
+Later records of the **MacAulay** name adjusted Logan's counts: [MacAulay](/variants/s6/k2r16g6r3g8lb1~x2/); [MacAulay (MacGregor)](/variants/s9/r96db1g24db1r10db1g12k1w4~x2/); [MacAulay of Lewis](/variants/s8/g6k16r3k16g28k4g12w3~x2/); [MacAulay Hunting](/variants/s8/g6k16w1k16g8k4g12r2~x2/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/"><circle cx="266.0" cy="107.6" r="4" fill="#3465a4"><title>Oriel #1</title></circle></a><a href="/variants/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/"><circle cx="288.6" cy="129.3" r="4" fill="#3465a4"><title>Bruce Hunting (Clan)</title></circle></a><a href="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/"><circle cx="293.6" cy="130.9" r="4" fill="#3465a4"><title>Bruce Hunting</title></circle></a><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="280.5" cy="165.8" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/"><circle cx="231.4" cy="130.7" r="4" fill="#3465a4"><title>Grant, Piper to the Laird of</title></circle></a><a href="/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/"><circle cx="346.2" cy="157.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="307.1" cy="106.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="346.3" cy="157.5" r="4" fill="#3465a4"><title>Livingstone #2</title></circle></a><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><circle cx="302.8" cy="111.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s14/r6g4y2g17r2g2r2g8r26g6r4k2r4w6~x2/"><circle cx="242.4" cy="125.5" r="4" fill="#3465a4"><title>Hay</title></circle></a><circle cx="282.5" cy="142.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/"><circle cx="266.0" cy="107.5" r="4" fill="#3465a4"><title>Oriel #1</title></circle></a><a href="/variants/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/"><circle cx="288.6" cy="129.2" r="4" fill="#3465a4"><title>Bruce Hunting (Clan)</title></circle></a><a href="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/"><circle cx="293.6" cy="130.8" r="4" fill="#3465a4"><title>Bruce Hunting</title></circle></a><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="280.5" cy="165.7" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/"><circle cx="231.4" cy="130.5" r="4" fill="#3465a4"><title>Grant, Piper to the Laird of</title></circle></a><a href="/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/"><circle cx="346.2" cy="157.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="307.1" cy="106.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="346.3" cy="157.4" r="4" fill="#3465a4"><title>Livingstone #2</title></circle></a><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><circle cx="302.7" cy="111.2" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s14/r6g4y2g17r2g2r2g8r26g6r4k2r4w6~x2/"><circle cx="242.4" cy="125.4" r="4" fill="#3465a4"><title>Hay</title></circle></a><circle cx="282.5" cy="142.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1~x4/

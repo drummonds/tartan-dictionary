@@ -1,5 +1,14 @@
 ---
 title: "Longniddry Green Error (Dance)"
-redirect: "/variants/s8/g42y1w2y1g5dg12w32g4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Longniddry Green Error (Dance)](/variants/s8/g42y1w2y1g5dg12w32g4~x2/).
+This is the **Longniddry Green Error (Dance)** sett — one scale-free proportion (`g42y1w2y1g5dg12w32g4`), colour order pattern
+[GGWGGGWG](/stripes/ggwgggwg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+Part of the [Longniddry](/tartans/longniddry/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Longniddry Green Error (Dance)](/variants/s8/g42y1w2y1g5dg12w32g4~x2/) ★ | 2002 | ![Longniddry Green Error (Dance) sett](/variants/s8/g42y1w2y1g5dg12w32g4~x2/sett.png) |

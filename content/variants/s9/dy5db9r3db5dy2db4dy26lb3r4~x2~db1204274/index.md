@@ -1,6 +1,7 @@
 ---
 title: "Bracken"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Bracken"
   url: "/setts/dy5db9r3db5dy2db4dy26lb3r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5db9r3db5dy2db4dy26lb3r4/)
-(the same proportion at any scale), whose colour order is pattern [GBRBGBGWR](/stripes/gbrbgbgwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy5db9r3db5dy2db4dy26lb3r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBRBGBGWR](/stripes/gbrbgbgwr/).
 
 Part of the [Bracken](/tartans/bracken/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/"><circle cx="347.3" cy="182.8" r="4" fill="#3465a4"><title>Bracken (Fashion)</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.8" cy="183.6" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/"><circle cx="325.0" cy="173.4" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><circle cx="348.6" cy="187.4" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.8" cy="187.1" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/"><circle cx="324.3" cy="186.0" r="4" fill="#3465a4"><title>Great Dane, The (Corporate)</title></circle></a><a href="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/"><circle cx="368.0" cy="206.0" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><circle cx="394.6" cy="152.5" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/"><circle cx="347.5" cy="193.5" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><circle cx="353.2" cy="184.5" r="4" fill="#3465a4"><title>Glenfarclas Distillery</title></circle></a><circle cx="361.9" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/"><circle cx="347.3" cy="182.7" r="4" fill="#3465a4"><title>Bracken (Fashion)</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.8" cy="183.5" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/"><circle cx="325.0" cy="173.3" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><circle cx="348.6" cy="187.2" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.9" cy="187.0" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/"><circle cx="324.4" cy="185.9" r="4" fill="#3465a4"><title>Great Dane, The (Corporate)</title></circle></a><a href="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/"><circle cx="368.1" cy="205.9" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><circle cx="394.6" cy="152.4" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/"><circle cx="347.5" cy="193.4" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><circle cx="353.3" cy="184.4" r="4" fill="#3465a4"><title>Glenfarclas Distillery</title></circle></a><circle cx="361.9" cy="187.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/

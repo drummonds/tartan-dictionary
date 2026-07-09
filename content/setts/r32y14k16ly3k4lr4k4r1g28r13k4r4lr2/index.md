@@ -1,5 +1,12 @@
 ---
 title: "Carolina, States of (District)"
-redirect: "/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Carolina, States of (District)](/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/).
+This is the **Carolina, States of (District)** sett — one scale-free proportion (`r32y14k16ly3k4lr4k4r1g28r13k4r4lr2`), colour order pattern
+[RGKYKYKRGRKRY](/stripes/rgkykykrgrkry/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Carolina, States of (District)](/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/) ★ | 1980 | ![Carolina, States of (District) sett](/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Louisville Spaulding (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Louisville Spaulding (Personal)"
-  url: ""
+  url: "/setts/k20db50dg50r3k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k20db50dg50r3k3/)
-(the same proportion at any scale), whose colour order is pattern [KBGRK](/stripes/kbgrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k20db50dg50r3k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGRK](/stripes/kbgrk/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="265.1" cy="143.5" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.9" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="334.7" cy="230.9" r="4" fill="#3465a4"><title>Dallard Personal Tartan</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/"><circle cx="340.2" cy="187.3" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s6/db19k4b1k4dg9b1~x4/"><circle cx="324.0" cy="182.6" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><circle cx="318.3" cy="171.9" r="4" fill="#3465a4"><title>Monarchs Corporate Sport Tartan</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.5" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.3" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="193.3" cy="191.9" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="217.6" cy="193.2" r="4" fill="#3465a4"><title>Leahy, Thomas Francis &amp; Mary (Australia)</title></circle></a><circle cx="284.1" cy="207.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="265.1" cy="143.4" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.8" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="334.7" cy="230.9" r="4" fill="#3465a4"><title>Dallard Personal Tartan</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/"><circle cx="340.2" cy="187.2" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s6/db19k4b1k4dg9b1~x4/"><circle cx="324.0" cy="182.5" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><circle cx="318.4" cy="171.8" r="4" fill="#3465a4"><title>Monarchs Corporate Sport Tartan</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.6" cy="167.2" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.2" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="193.4" cy="191.9" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="217.6" cy="193.1" r="4" fill="#3465a4"><title>Leahy, Thomas Francis &amp; Mary (Australia)</title></circle></a><circle cx="284.1" cy="207.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k20db50dg50r3k3~x2/

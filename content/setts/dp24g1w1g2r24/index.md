@@ -1,5 +1,12 @@
 ---
 title: "MacNab WI1"
-redirect: "/variants/s5/dp24g1w1g2r24/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacNab WI1](/variants/s5/dp24g1w1g2r24/).
+This is the **MacNab WI1** sett — one scale-free proportion (`dp24g1w1g2r24`), colour order pattern
+[BGWGRGWG](/stripes/bgwgrgwg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [MacNab WI1](/variants/s5/dp24g1w1g2r24/) ★ | ~2016 | ![MacNab WI1 sett](/variants/s5/dp24g1w1g2r24/sett.png) |

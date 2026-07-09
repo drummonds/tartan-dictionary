@@ -1,16 +1,18 @@
 ---
 title: "Manx Laxey (Red)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Manx Laxey"
   url: "/tartans/manx-laxey/"
 - name: "Manx Laxey (Red)"
-  url: ""
+  url: "/setts/r24ly2n3dy2w10r4n3dy3w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24ly2n3dy2w10r4n3dy3w2/)
-(the same proportion at any scale), whose colour order is pattern [RYBGWRBGW](/stripes/rybgwrbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r24ly2n3dy2w10r4n3dy3w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RYBGWRBGW](/stripes/rybgwrbgw/).
 
 Part of the [Manx Laxey](/tartans/manx-laxey/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.8" cy="147.7" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/"><circle cx="272.6" cy="142.2" r="4" fill="#3465a4"><title>Manx Laxey Red District Tartan</title></circle></a><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="240.2" cy="145.4" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><circle cx="352.7" cy="109.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress #3</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.9" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.9" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/"><circle cx="239.5" cy="138.9" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.1" cy="148.9" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.3" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="284.8" cy="140.1" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><circle cx="280.5" cy="145.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.8" cy="147.6" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/"><circle cx="272.6" cy="142.1" r="4" fill="#3465a4"><title>Manx Laxey Red District Tartan</title></circle></a><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="240.2" cy="145.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><circle cx="352.7" cy="109.1" r="4" fill="#3465a4"><title>Drummond of Perth Dress #3</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.8" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.8" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/"><circle cx="239.5" cy="138.8" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.1" cy="148.8" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.1" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="284.8" cy="140.0" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><circle cx="280.5" cy="145.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r24ly2n3dy2w10r4n3dy3w2~x2~ly3307090-dy1603076/

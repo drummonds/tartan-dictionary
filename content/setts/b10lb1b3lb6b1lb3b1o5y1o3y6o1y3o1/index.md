@@ -1,5 +1,12 @@
 ---
 title: "MacGlashan"
-redirect: "/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacGlashan](/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/).
+This is the **MacGlashan** sett — one scale-free proportion (`b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1`), colour order pattern
+[BWBWBWBRGRGRGR](/stripes/bwbwbwbrgrgrgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacGlashan](/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/) ★ | ~2016 | ![MacGlashan sett](/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/sett.png) |

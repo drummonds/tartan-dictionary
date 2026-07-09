@@ -1,5 +1,12 @@
 ---
 title: "Black Watch (Pendleton)"
-redirect: "/variants/s6/t3k2t8db8g8db2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Black Watch (Pendleton)](/variants/s6/t3k2t8db8g8db2~x2/).
+This is the **Black Watch (Pendleton)** sett — one scale-free proportion (`t3k2t8db8g8db2`), colour order pattern
+[BGBBKB](/stripes/bgbbkb/). It is recorded as a single **variant**, below.
+First attested **1967**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Black Watch (Pendleton)](/variants/s6/t3k2t8db8g8db2~x2/) ★ | 1967 | ![Black Watch (Pendleton) sett](/variants/s6/t3k2t8db8g8db2~x2/sett.png) |

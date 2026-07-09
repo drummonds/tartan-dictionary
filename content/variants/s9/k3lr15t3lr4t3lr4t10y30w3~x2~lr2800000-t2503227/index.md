@@ -1,14 +1,16 @@
 ---
 title: "Highland Road (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Road (Fashion)"
-  url: ""
+  url: "/setts/k3lr15t3lr4t3lr4t10y30w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3lr15t3lr4t3lr4t10y30w3/)
-(the same proportion at any scale), whose colour order is pattern [KYBYBYBGW](/stripes/kybybybgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3lr15t3lr4t3lr4t10y30w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYBYBYBGW](/stripes/kybybybgw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/"><circle cx="225.3" cy="225.6" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.2" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.1" cy="178.0" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.4" cy="194.2" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.2" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/"><circle cx="225.1" cy="192.0" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><a href="/variants/s9/lo2n28k2w2k2t26n3t5lo2~x2/"><circle cx="294.7" cy="155.5" r="4" fill="#3465a4"><title>Clyde (WCWM Fashion)</title></circle></a><a href="/variants/s7/r3n20k2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="247.3" cy="218.2" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.7" cy="207.5" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/"><circle cx="228.8" cy="171.2" r="4" fill="#3465a4"><title>Callum, Blue (Fashion)</title></circle></a><circle cx="250.2" cy="187.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/"><circle cx="225.4" cy="225.6" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.1" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.2" cy="177.9" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.4" cy="194.1" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.1" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/"><circle cx="225.1" cy="191.9" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><a href="/variants/s9/lo2n28k2w2k2t26n3t5lo2~x2/"><circle cx="294.8" cy="155.4" r="4" fill="#3465a4"><title>Clyde (WCWM Fashion)</title></circle></a><a href="/variants/s7/r3n20k2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="247.3" cy="218.2" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.8" cy="207.4" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/"><circle cx="228.8" cy="171.1" r="4" fill="#3465a4"><title>Callum, Blue (Fashion)</title></circle></a><circle cx="250.3" cy="187.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/

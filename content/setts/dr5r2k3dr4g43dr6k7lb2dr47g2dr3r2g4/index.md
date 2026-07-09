@@ -1,5 +1,12 @@
 ---
 title: "Glen Coe (District)"
-redirect: "/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glen Coe (District)](/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/).
+This is the **Glen Coe (District)** sett — one scale-free proportion (`dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4`), colour order pattern
+[BRKBGBKWBGBRG](/stripes/brkbgbkwbgbrg/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glen Coe (District)](/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/) ★ | ~2002 | ![Glen Coe (District) sett](/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/sett.png) |

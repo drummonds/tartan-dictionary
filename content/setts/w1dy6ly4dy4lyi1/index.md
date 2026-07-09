@@ -1,5 +1,12 @@
 ---
 title: "Amber Rose (Fashion)"
-redirect: "/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Amber Rose (Fashion)](/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/).
+This is the **Amber Rose (Fashion)** sett — one scale-free proportion (`w1dy6ly4dy4lyi1`), colour order pattern
+[WGYGY](/stripes/wgygy/). It is recorded as a single **variant**, below.
+First attested **1972**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×10 | [Amber Rose (Fashion)](/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/) ★ | 1972 | ![Amber Rose (Fashion) sett](/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/sett.png) |

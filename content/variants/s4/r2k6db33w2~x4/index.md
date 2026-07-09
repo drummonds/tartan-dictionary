@@ -1,14 +1,16 @@
 ---
 title: "McCallie"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McCallie"
-  url: ""
+  url: "/setts/r2k6db33w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k6db33w2/)
-(the same proportion at any scale), whose colour order is pattern [RKBW](/stripes/rkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2k6db33w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBW](/stripes/rkbw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.2" cy="193.2" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s4/db31k8dp4w2~x4/"><circle cx="409.8" cy="186.1" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="516.5" cy="128.9" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="165.0" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/"><circle cx="417.3" cy="150.2" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.7" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="384.9" cy="164.5" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.8" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.5" cy="211.2" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.0" cy="166.5" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><circle cx="458.3" cy="161.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.3" cy="193.1" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s4/db31k8dp4w2~x4/"><circle cx="409.9" cy="186.0" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="516.5" cy="128.8" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="164.9" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/"><circle cx="417.4" cy="150.1" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.6" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="385.0" cy="164.4" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.6" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.5" cy="211.1" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.1" cy="166.4" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><circle cx="458.3" cy="161.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r2k6db33w2~x4/

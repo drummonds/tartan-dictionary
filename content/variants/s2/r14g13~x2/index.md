@@ -1,16 +1,18 @@
 ---
 title: "Moncreiffe (MacLachlan) Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Moncreiffe"
   url: "/tartans/moncreiffe/"
 - name: "Moncreiffe (MacLachlan) Clan Tartan"
-  url: ""
+  url: "/setts/r14g13/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r14g13/)
-(the same proportion at any scale), whose colour order is pattern [GR](/stripes/gr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r14g13/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GR](/stripes/gr/).
 
 Part of the [Moncreiffe](/tartans/moncreiffe/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1819 Sir Iain Moncreiffe of that Ilk, acquired the MacLachl
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1819 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/r1g1~x80/"><circle cx="233.6" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon (District)</title></circle></a><a href="/variants/s2/r1g1~x50/"><circle cx="233.6" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><a href="/variants/s2/r1g1~x100/"><circle cx="233.6" cy="366.0" r="4" fill="#3465a4"><title>Moncrieffe Lachlan (Clan)</title></circle></a><a href="/variants/s2/r1g1/"><circle cx="233.6" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><a href="/variants/s2/dg14r13~x2~dg1605139-r2109032/"><circle cx="279.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.099</title></circle></a><a href="/variants/s2/r3g1~x14/"><circle cx="488.1" cy="361.6" r="4" fill="#3465a4"><title>Wilson's, No 134</title></circle></a><a href="/variants/s3/r4g2lb1~x4/"><circle cx="325.0" cy="319.6" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><a href="/variants/s3/k11g9r10~x2/"><circle cx="43.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.204</title></circle></a><a href="/variants/s3/r10k11g9~x2/"><circle cx="43.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 204</title></circle></a><a href="/variants/s3/k1g1r1~x8~r2109032/"><circle cx="72.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.187</title></circle></a><circle cx="250.4" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/r1g1~x80/"><circle cx="233.7" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon (District)</title></circle></a><a href="/variants/s2/r1g1~x50/"><circle cx="233.7" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><a href="/variants/s2/r1g1~x100/"><circle cx="233.7" cy="366.0" r="4" fill="#3465a4"><title>Moncrieffe Lachlan (Clan)</title></circle></a><a href="/variants/s2/r1g1/"><circle cx="233.7" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><a href="/variants/s2/dg14r13~x2~dg1605139-r2109032/"><circle cx="279.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.099</title></circle></a><a href="/variants/s2/r3g1~x14/"><circle cx="488.1" cy="361.6" r="4" fill="#3465a4"><title>Wilson's, No 134</title></circle></a><a href="/variants/s3/r4g2lb1~x4/"><circle cx="325.0" cy="319.6" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><a href="/variants/s3/k11g9r10~x2/"><circle cx="43.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.204</title></circle></a><a href="/variants/s3/r10k11g9~x2/"><circle cx="43.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 204</title></circle></a><a href="/variants/s3/k1g1r1~x8~r2109032/"><circle cx="72.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.187</title></circle></a><circle cx="250.4" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s2/r14g13~x2/

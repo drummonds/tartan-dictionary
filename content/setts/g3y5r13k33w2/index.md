@@ -1,5 +1,12 @@
 ---
 title: "Papua New Guinea Pipes and Drums"
-redirect: "/variants/s5/g3y5r13k33w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Papua New Guinea Pipes and Drums](/variants/s5/g3y5r13k33w2~x2/).
+This is the **Papua New Guinea Pipes and Drums** sett — one scale-free proportion (`g3y5r13k33w2`), colour order pattern
+[GGRKW](/stripes/ggrkw/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Papua New Guinea Pipes and Drums](/variants/s5/g3y5r13k33w2~x2/) ★ | 2007 | ![Papua New Guinea Pipes and Drums sett](/variants/s5/g3y5r13k33w2~x2/sett.png) |

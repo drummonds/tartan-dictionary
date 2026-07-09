@@ -1,14 +1,16 @@
 ---
 title: "Special Saffron"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Special Saffron"
-  url: ""
+  url: "/setts/dg86lo44dg21lo44dg86lb10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg86lo44dg21lo44dg86lb10/)
-(the same proportion at any scale), whose colour order is pattern [GYGYGW](/stripes/gygygw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg86lo44dg21lo44dg86lb10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGYGW](/stripes/gygygw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/do6g3do3g11do1g2~x4/"><circle cx="463.9" cy="280.1" r="4" fill="#3465a4"><title>Carnet (Fashion)</title></circle></a><a href="/variants/s4/dg21lo44dg86lb10/"><circle cx="392.5" cy="268.4" r="4" fill="#3465a4"><title>Special Saffron (Fashion)</title></circle></a><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><circle cx="414.6" cy="273.4" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.2" cy="233.6" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/"><circle cx="313.1" cy="245.7" r="4" fill="#3465a4"><title>Crossnor School</title></circle></a><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/"><circle cx="306.5" cy="263.0" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/variants/s4/dy12ly6dy2y1~x4/"><circle cx="414.7" cy="242.0" r="4" fill="#3465a4"><title>Loch Garth Tartan</title></circle></a><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/"><circle cx="341.8" cy="277.1" r="4" fill="#3465a4"><title>Amber Rose (Fashion)</title></circle></a><a href="/variants/s6/dy21g28db24g72w16g20/"><circle cx="333.2" cy="282.6" r="4" fill="#3465a4"><title>Meath County, Crest Range</title></circle></a><a href="/variants/s6/ly21g28db24g72w16g20/"><circle cx="336.5" cy="285.6" r="4" fill="#3465a4"><title>Meath County Crest (Fashion)</title></circle></a><circle cx="376.5" cy="265.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/do6g3do3g11do1g2~x4/"><circle cx="463.9" cy="280.1" r="4" fill="#3465a4"><title>Carnet (Fashion)</title></circle></a><a href="/variants/s4/dg21lo44dg86lb10/"><circle cx="392.5" cy="268.4" r="4" fill="#3465a4"><title>Special Saffron (Fashion)</title></circle></a><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><circle cx="414.6" cy="273.4" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.2" cy="233.5" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/"><circle cx="313.1" cy="245.7" r="4" fill="#3465a4"><title>Crossnor School</title></circle></a><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/"><circle cx="306.5" cy="263.0" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/variants/s4/dy12ly6dy2y1~x4/"><circle cx="414.7" cy="241.9" r="4" fill="#3465a4"><title>Loch Garth Tartan</title></circle></a><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/"><circle cx="341.8" cy="277.1" r="4" fill="#3465a4"><title>Amber Rose (Fashion)</title></circle></a><a href="/variants/s6/dy21g28db24g72w16g20/"><circle cx="333.3" cy="282.5" r="4" fill="#3465a4"><title>Meath County, Crest Range</title></circle></a><a href="/variants/s6/ly21g28db24g72w16g20/"><circle cx="336.5" cy="285.6" r="4" fill="#3465a4"><title>Meath County Crest (Fashion)</title></circle></a><circle cx="376.6" cy="265.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dg86lo44dg21lo44dg86lb10/

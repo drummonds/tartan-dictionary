@@ -1,6 +1,7 @@
 ---
 title: "Fraser Arisaid"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Fraser Arisaid"
   url: "/tartans/fraser-arisaid/"
 - name: "Fraser Arisaid"
-  url: ""
+  url: "/setts/db14lb2db3lb2g10lb32g10db10lb2db3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db14lb2db3lb2g10lb32g10db10lb2db3/)
-(the same proportion at any scale), whose colour order is pattern [BWBGWGWBWB](/stripes/bwbgwgwbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db14lb2db3lb2g10lb32g10db10lb2db3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBGWGWBWB](/stripes/bwbgwgwbwb/).
 
 Part of the [Fraser Arisaid](/tartans/fraser-arisaid/) tartan — the named design grouping this sett with its other cloths.
 
@@ -68,6 +70,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db14w2db3w2g10w32g10db10w2db3~x2/"><circle cx="257.1" cy="188.2" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/"><circle cx="233.9" cy="211.3" r="4" fill="#3465a4"><title>Sutherland #3</title></circle></a><a href="/variants/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/"><circle cx="343.6" cy="153.2" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles Hunting #2</title></circle></a><a href="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/"><circle cx="254.3" cy="181.3" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="248.9" cy="199.5" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.7" cy="204.1" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.9" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="311.0" cy="185.7" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s13/b24w1b2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="335.5" cy="147.9" r="4" fill="#3465a4"><title>MacDonald, Lord Of the Isles hunting</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.8" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><circle cx="282.3" cy="195.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db14w2db3w2g10w32g10db10w2db3~x2/"><circle cx="257.1" cy="188.1" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/"><circle cx="233.9" cy="211.3" r="4" fill="#3465a4"><title>Sutherland #3</title></circle></a><a href="/variants/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/"><circle cx="343.6" cy="153.0" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles Hunting #2</title></circle></a><a href="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/"><circle cx="254.4" cy="181.2" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="249.0" cy="199.5" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.7" cy="204.0" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="311.0" cy="185.6" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s13/b24w1b2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="335.5" cy="147.7" r="4" fill="#3465a4"><title>MacDonald, Lord Of the Isles hunting</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.5" cy="190.7" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><circle cx="282.3" cy="195.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/

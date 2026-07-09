@@ -1,14 +1,16 @@
 ---
 title: "Lanark (Fashion #1)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lanark (Fashion #1)"
-  url: ""
+  url: "/setts/r1db3dr1g3dr5lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1db3dr1g3dr5lb1/)
-(the same proportion at any scale), whose colour order is pattern [RBBGBW](/stripes/rbbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r1db3dr1g3dr5lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBBGBW](/stripes/rbbgbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1g7r3db7lb1~x2/"><circle cx="194.1" cy="248.3" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="236.7" cy="263.2" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><circle cx="225.0" cy="247.5" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="248.6" cy="240.7" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.8" cy="242.6" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.9" cy="274.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/r1o8r2db8lb1~x2/"><circle cx="244.1" cy="230.2" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="263.1" cy="239.8" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="184.2" cy="250.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1g7r3db7lb1~x2/"><circle cx="194.1" cy="248.3" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="236.7" cy="263.1" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><circle cx="225.1" cy="247.5" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="248.6" cy="240.7" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.9" cy="242.5" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="148.0" cy="274.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/r1o8r2db8lb1~x2/"><circle cx="244.1" cy="230.1" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="263.2" cy="239.8" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="184.3" cy="250.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r1db3dr1g3dr5lb1~x4/

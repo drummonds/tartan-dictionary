@@ -1,14 +1,16 @@
 ---
 title: "MacKessog Glebe (Commemorative)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKessog Glebe (Commemorative)"
-  url: ""
+  url: "/setts/r1dy8ly2dy2db6w1db6dy2ly2dy8b1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1dy8ly2dy2db6w1db6dy2ly2dy8b1/)
-(the same proportion at any scale), whose colour order is pattern [BGYGBWBGYGR](/stripes/bgygbwbgygr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r1dy8ly2dy2db6w1db6dy2ly2dy8b1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGYGBWBGYGR](/stripes/bgygbwbgygr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="196.4" cy="191.9" r="4" fill="#3465a4"><title>Patel Name Tartan</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/"><circle cx="266.3" cy="177.8" r="4" fill="#3465a4"><title>O Savaaoo</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/"><circle cx="278.0" cy="183.8" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/"><circle cx="228.9" cy="199.8" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s11/dg18ri4dg4r6dg28dp28r4lb3y4lb13r6~ri2806019-r2109032/"><circle cx="175.4" cy="164.2" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="256.0" cy="187.4" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s8/y8do2y13dr4y12db22y5o3~x2/"><circle cx="289.7" cy="184.4" r="4" fill="#3465a4"><title>Kildare, County</title></circle></a><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/"><circle cx="248.5" cy="135.5" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.3" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="212.6" r="4" fill="#3465a4"><title>United Services Planning Assoc Corporate Tartan</title></circle></a><circle cx="223.0" cy="179.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="196.5" cy="191.9" r="4" fill="#3465a4"><title>Patel Name Tartan</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/"><circle cx="266.3" cy="177.6" r="4" fill="#3465a4"><title>O Savaaoo</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/"><circle cx="278.1" cy="183.7" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/"><circle cx="228.9" cy="199.7" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s11/dg18ri4dg4r6dg28dp28r4lb3y4lb13r6~ri2806019-r2109032/"><circle cx="175.4" cy="164.0" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="256.0" cy="187.3" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s8/y8do2y13dr4y12db22y5o3~x2/"><circle cx="289.7" cy="184.3" r="4" fill="#3465a4"><title>Kildare, County</title></circle></a><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/"><circle cx="248.5" cy="135.3" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.2" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="212.6" r="4" fill="#3465a4"><title>United Services Planning Assoc Corporate Tartan</title></circle></a><circle cx="223.0" cy="179.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r1dy8ly2dy2db6w1db6dy2ly2dy8b1~x4/

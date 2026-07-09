@@ -15,7 +15,7 @@ The **Manx Dress** tartan groups 2 setts — the same named design recorded as d
 <tbody>
 <tr><td><a href="/setts/g4w28dp8dy2db17g4/">Manx Dress</a> ★</td><td><code>G/8 W56 DP16 DY4 DB34 G/8</code></td><td>236</td><td>1981</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g4w28dp8dy2db17g4/"><img src="/variants/s6/g4w28dp8dy2db17g4~x2/sett.png" alt="Manx Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g4w28dp8y2db17g4/">Manx, dress</a></td><td><code>G/8 W56 DP16 Y4 DB34 G/8</code></td><td>236</td><td>—</td></tr>
+<tr><td><a href="/setts/g4w28dp8y2db17g4/">Manx, dress</a></td><td><code>G/8 W56 DP16 Y4 DB34 G/8</code></td><td>236</td><td>1984</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g4w28dp8y2db17g4/"><img src="/variants/s6/g4w28dp8y2db17g4~x2/sett.png" alt="Manx, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

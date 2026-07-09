@@ -1,14 +1,16 @@
 ---
 title: "Confrerie de Vouvray Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Confrerie de Vouvray Corporate Tartan"
-  url: ""
+  url: "/setts/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3/)
-(the same proportion at any scale), whose colour order is pattern [BRGRBGBBBGBGBGBGBGBGBGBGBGBBBGBRGR](/stripes/brgrbgbbbgbgbgbgbgbgbgbgbgbbbgbrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGRBGBBBGBGBGBGBGBGBGBGBGBBBGBRGR](/stripes/brgrbgbbbgbgbgbgbgbgbgbgbgbbbgbrgr/).
 
 Sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2003 The Confrerie de Vouvray tartan was created for the Fr
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db8r4y18r4dr19y4dr19db6dr4g1dr4g1dr4g1dr4g1dr4~x2/"><circle cx="333.6" cy="137.9" r="4" fill="#3465a4"><title>Confrerie de Vouvray</title></circle></a><a href="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/"><circle cx="268.9" cy="101.7" r="4" fill="#3465a4"><title>Huntly (District)</title></circle></a><a href="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/"><circle cx="258.0" cy="103.3" r="4" fill="#3465a4"><title>Marchioness of Huntly's</title></circle></a><circle cx="335.4" cy="105.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db8r4y18r4dr19y4dr19db6dr4g1dr4g1dr4g1dr4g1dr4~x2/"><circle cx="333.6" cy="137.7" r="4" fill="#3465a4"><title>Confrerie de Vouvray</title></circle></a><a href="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/"><circle cx="268.9" cy="101.6" r="4" fill="#3465a4"><title>Huntly (District)</title></circle></a><a href="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/"><circle cx="257.9" cy="103.1" r="4" fill="#3465a4"><title>Marchioness of Huntly's</title></circle></a><circle cx="335.3" cy="105.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s34/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3~x2/

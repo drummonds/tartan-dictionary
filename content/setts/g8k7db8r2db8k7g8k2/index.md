@@ -1,5 +1,12 @@
 ---
 title: "Denholm"
-redirect: "/variants/s8/g8k7db8r2db8k7g8k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Denholm](/variants/s8/g8k7db8r2db8k7g8k2~x2/).
+This is the **Denholm** sett — one scale-free proportion (`g8k7db8r2db8k7g8k2`), colour order pattern
+[GKBRBKGK](/stripes/gkbrbkgk/). It is recorded as a single **variant**, below.
+First attested **1847**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Denholm](/variants/s8/g8k7db8r2db8k7g8k2~x2/) ★ | 1847 | ![Denholm sett](/variants/s8/g8k7db8r2db8k7g8k2~x2/sett.png) |

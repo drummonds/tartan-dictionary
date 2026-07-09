@@ -1,5 +1,12 @@
 ---
 title: "Afternoon Tea / Milk Tea"
-redirect: "/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Afternoon Tea / Milk Tea](/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/).
+This is the **Afternoon Tea / Milk Tea** sett — one scale-free proportion (`w15ly98dy72r25dy8lg15`), colour order pattern
+[WYGRGY](/stripes/wygrgy/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Afternoon Tea / Milk Tea](/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/) ★ | 2015 | ![Afternoon Tea / Milk Tea sett](/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/sett.png) |

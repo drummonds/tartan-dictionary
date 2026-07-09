@@ -1,5 +1,12 @@
 ---
-title: "Queens University, of Ontario"
-redirect: "/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"
+title: "Queens University of Ontario Corporate Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Queens University, of Ontario](/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/).
+This is the **Queens University of Ontario Corporate Tartan** sett — one scale-free proportion (`db54y9db16y2dp3w3dp3r27db13y3g5w2`), colour order pattern
+[BGBGBWBRBGGW](/stripes/bgbgbwbrbggw/). It is recorded as a single **variant**, below.
+First attested **1966**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Queens University of Ontario Corporate Tartan](/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/) ★ | 1966 | ![Queens University of Ontario Corporate Tartan sett](/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Joy's Fancy, Allen (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Joy's Fancy, Allen (Personal)"
-  url: ""
+  url: "/setts/k15lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k15lb1/)
-(the same proportion at any scale), whose colour order is pattern [KW](/stripes/kw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k15lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KW](/stripes/kw/).
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/db1k12db1~x10/"><circle cx="626.0" cy="243.1" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/variants/s3/k20w2lb1~x6/"><circle cx="544.6" cy="176.7" r="4" fill="#3465a4"><title>Fily (Verneuil L'tang) (Personal)</title></circle></a><a href="/variants/s3/k20w2db1~x6/"><circle cx="544.7" cy="174.1" r="4" fill="#3465a4"><title>Fily (Verneuil L'tang) (Personal)</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="164.0" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s3/dg1k20dg1~x6~dg1804158/"><circle cx="626.0" cy="203.1" r="4" fill="#3465a4"><title>Stirling of Keir</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="384.9" cy="164.5" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/variants/s4/r3lb12k50ly3~x2/"><circle cx="399.4" cy="156.0" r="4" fill="#3465a4"><title>Rogues, The (Corporate)</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.0" cy="166.5" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/variants/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="121.7" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="433.7" cy="159.3" r="4" fill="#3465a4"><title>Dhillon (Personal)</title></circle></a><circle cx="626.0" cy="243.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/db1k12db1~x10/"><circle cx="626.0" cy="243.1" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/variants/s3/k20w2lb1~x6/"><circle cx="544.7" cy="176.6" r="4" fill="#3465a4"><title>Fily (Verneuil L'tang) (Personal)</title></circle></a><a href="/variants/s3/k20w2db1~x6/"><circle cx="544.7" cy="174.0" r="4" fill="#3465a4"><title>Fily (Verneuil L'tang) (Personal)</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="163.9" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s3/dg1k20dg1~x6~dg1804158/"><circle cx="626.0" cy="203.1" r="4" fill="#3465a4"><title>Stirling of Keir</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="385.0" cy="164.4" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/variants/s4/r3lb12k50ly3~x2/"><circle cx="399.5" cy="155.9" r="4" fill="#3465a4"><title>Rogues, The (Corporate)</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.1" cy="166.4" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/variants/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="121.6" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="433.7" cy="159.2" r="4" fill="#3465a4"><title>Dhillon (Personal)</title></circle></a><circle cx="626.0" cy="243.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s2/k15lb1~x12/

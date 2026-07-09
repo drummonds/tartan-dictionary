@@ -1,15 +1,17 @@
 ---
 title: "Unidentified Cant #03"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Cant #03"
-  url: ""
+  url: "/setts/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5g5w1dbi4db3w1g4w1db3dbi4w1g5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1/"
 slug_full: "dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5g5w1dbi4db3w1g4w1db3dbi4w1g5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1~x2~dbi1406275-db1106275-r2109032-dgi1605139-ri2806019"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5g5w1dbi4db3w1g4w1db3dbi4w1g5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1/)
-(the same proportion at any scale), whose colour order is pattern [BBWBBWBWBRWRBWBWBBWBBWGGGWBBWGWBBWGGGWBBWBBWBWBRWRBWBWBBWBBWRRWRRW](/stripes/bbwbbwbwbrwrbwbwbbwbbwgggwbbwgwbbwgggwbbwbbwbwbrwrbwbwbbwbbwrrwrrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5g5w1dbi4db3w1g4w1db3dbi4w1g5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBBWBWBRWRBWBWBBWBBWGGGWBBWGWBBWGGGWBBWBBWBWBRWRBWBWBBWBBWRRWRRW](/stripes/bbwbbwbwbrwrbwbwbbwbbwgggwbbwgwbbwgggwbbwbbwbwbrwrbwbwbbwbbwrrwrrw/).
 
 Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 

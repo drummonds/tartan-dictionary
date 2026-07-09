@@ -1,5 +1,12 @@
 ---
 title: "Sverker"
-redirect: "/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sverker](/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/).
+This is the **Sverker** sett — one scale-free proportion (`w2t4dy3dt3dy3dt20dy3t16dt8lb2`), colour order pattern
+[WBBGBGBGBW](/stripes/wbbgbgbgbw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Sverker](/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/) ★ | 2016 | ![Sverker sett](/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Loch Katrine"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Katrine"
-  url: ""
+  url: "/setts/lb8dbi11w3dbi11db12g10dr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb8dbi11w3dbi11db12g10dr2/)
-(the same proportion at any scale), whose colour order is pattern [BGBBWBW](/stripes/bgbbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb8dbi11w3dbi11db12g10dr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBWBW](/stripes/bgbbwbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><circle cx="162.7" cy="267.3" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.3" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.2" cy="255.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/db5dy2dg4n3w1lb5~x8/"><circle cx="60.6" cy="273.9" r="4" fill="#3465a4"><title>Heriot Bay Local (Quadra Island, British Columbia)</title></circle></a><a href="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi1604274-db0805267/"><circle cx="159.8" cy="235.2" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/"><circle cx="78.8" cy="224.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.3" cy="229.0" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi1406275-db1204274/"><circle cx="168.3" cy="236.9" r="4" fill="#3465a4"><title>Blue Family Tartan</title></circle></a><a href="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/"><circle cx="195.6" cy="228.0" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6/"><circle cx="70.3" cy="223.9" r="4" fill="#3465a4"><title>Northern College (Corporate)</title></circle></a><circle cx="127.3" cy="260.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><circle cx="162.7" cy="267.2" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.2" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.2" cy="255.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/db5dy2dg4n3w1lb5~x8/"><circle cx="60.7" cy="273.9" r="4" fill="#3465a4"><title>Heriot Bay Local (Quadra Island, British Columbia)</title></circle></a><a href="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi1604274-db0805267/"><circle cx="159.8" cy="235.1" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/"><circle cx="78.8" cy="224.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.3" cy="228.9" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi1406275-db1204274/"><circle cx="168.3" cy="236.8" r="4" fill="#3465a4"><title>Blue Family Tartan</title></circle></a><a href="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/"><circle cx="195.6" cy="227.9" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6/"><circle cx="70.3" cy="223.8" r="4" fill="#3465a4"><title>Northern College (Corporate)</title></circle></a><circle cx="127.4" cy="260.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/

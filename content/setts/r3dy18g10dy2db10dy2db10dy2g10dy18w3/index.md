@@ -1,5 +1,12 @@
 ---
 title: "Fraser Hunting"
-redirect: "/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fraser Hunting](/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/).
+This is the **Fraser Hunting** sett — one scale-free proportion (`r3dy18g10dy2db10dy2db10dy2g10dy18w3`), colour order pattern
+[RGGGBGBGGGW](/stripes/rgggbgbgggw/). It is recorded as a single **variant**, below.
+First attested **1842**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fraser Hunting](/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/) ★ | 1842 | ![Fraser Hunting sett](/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/sett.png) |

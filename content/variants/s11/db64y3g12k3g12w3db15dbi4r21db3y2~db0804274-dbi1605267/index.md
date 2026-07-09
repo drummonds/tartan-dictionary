@@ -1,14 +1,16 @@
 ---
 title: "Allison (1882)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Allison"
   url: "/setts/db64y3g12k3g12w3db15dbi4r21db3y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db64y3g12k3g12w3db15dbi4r21db3y2/)
-(the same proportion at any scale), whose colour order is pattern [BGGKGWBBRBG](/stripes/bggkgwbbrbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db64y3g12k3g12w3db15dbi4r21db3y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGKGWBBRBG](/stripes/bggkgwbbrbg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0805267-dbi1604274/"><circle cx="262.2" cy="51.6" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db1204274-dbi1406275/"><circle cx="283.9" cy="57.3" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="282.8" cy="50.1" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><circle cx="287.9" cy="47.1" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.3" cy="75.8" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><a href="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/"><circle cx="244.0" cy="71.7" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.7" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="246.2" cy="40.8" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/"><circle cx="246.4" cy="40.5" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><circle cx="266.3" cy="51.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0805267-dbi1604274/"><circle cx="262.2" cy="51.4" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db1204274-dbi1406275/"><circle cx="283.9" cy="57.1" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="282.8" cy="49.9" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><circle cx="287.9" cy="46.9" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.3" cy="75.6" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><a href="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/"><circle cx="244.0" cy="71.5" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.7" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.6" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="246.2" cy="40.6" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/"><circle cx="246.4" cy="40.4" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><circle cx="266.3" cy="51.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/

@@ -1,5 +1,12 @@
 ---
 title: "Victoria, County of (District)"
-redirect: "/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Victoria, County of (District)](/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/).
+This is the **Victoria, County of (District)** sett — one scale-free proportion (`n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6`), colour order pattern
+[BYGYRBWGYRBWBRYYGYYWR](/stripes/bygyrbwgyrbwbryygyywr/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Victoria, County of (District)](/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/) ★ | 1984 | ![Victoria, County of (District) sett](/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/sett.png) |

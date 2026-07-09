@@ -1,5 +1,12 @@
 ---
 title: "Maxwell Variant"
-redirect: "/variants/s9/r40k15r6g32r6g32r40g2r20/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Maxwell Variant](/variants/s9/r40k15r6g32r6g32r40g2r20/).
+This is the **Maxwell Variant** sett — one scale-free proportion (`r40k15r6g32r6g32r40g2r20`), colour order pattern
+[RGRGRGRKR](/stripes/rgrgrgrkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Maxwell Variant](/variants/s9/r40k15r6g32r6g32r40g2r20/) ★ | ~2016 | ![Maxwell Variant sett](/variants/s9/r40k15r6g32r6g32r40g2r20/sett.png) |

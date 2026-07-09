@@ -1,16 +1,18 @@
 ---
 title: "Danareth (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Danareth"
   url: "/tartans/danareth/"
 - name: "Danareth (Corporate)"
-  url: ""
+  url: "/setts/k7g6ly3k12dr19k12g62k62g12dr7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k7g6ly3k12dr19k12g62k62g12dr7/)
-(the same proportion at any scale), whose colour order is pattern [BGKGKBKYGK](/stripes/bgkgkbkygk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k7g6ly3k12dr19k12g62k62g12dr7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKGKBKYGK](/stripes/bgkgkbkygk/).
 
 Part of the [Danareth](/tartans/danareth/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.8" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="276.2" cy="160.5" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.2" cy="146.3" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="261.0" cy="145.8" r="4" fill="#3465a4"><title>Manitoba Cue (Corporate)</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="222.3" cy="157.9" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.3" cy="135.0" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><circle cx="243.7" cy="116.9" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><circle cx="261.3" cy="110.8" r="4" fill="#3465a4"><title>Malone (2016)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><circle cx="233.4" cy="129.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.7" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="276.2" cy="160.4" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.3" cy="146.2" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="261.0" cy="145.7" r="4" fill="#3465a4"><title>Manitoba Cue (Corporate)</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="222.3" cy="157.8" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.3" cy="134.9" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><circle cx="243.7" cy="116.7" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><circle cx="261.3" cy="110.6" r="4" fill="#3465a4"><title>Malone (2016)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.6" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.1" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><circle cx="233.4" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/

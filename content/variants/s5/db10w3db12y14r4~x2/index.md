@@ -1,6 +1,7 @@
 ---
 title: "MacLeod, of Argentina"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "MacLeod of Argentina"
   url: "/tartans/macleod-of-argentina/"
 - name: "MacLeod, of Argentina"
-  url: ""
+  url: "/setts/db10w3db12y14r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10w3db12y14r4/)
-(the same proportion at any scale), whose colour order is pattern [BWBGR](/stripes/bwbgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db10w3db12y14r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBGR](/stripes/bwbgr/).
 
 Part of the [MacLeod of Argentina](/tartans/macleod-of-argentina/) tartan — the named design grouping this sett with its other cloths.
 
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.6" cy="273.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.7" cy="288.5" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="170.6" cy="282.8" r="4" fill="#3465a4"><title>Doohan (New South Wales), Andrew</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.5" cy="221.1" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="204.9" cy="216.1" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2/"><circle cx="206.6" cy="261.6" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2~db1406275/"><circle cx="181.1" cy="244.6" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="170.0" cy="275.5" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="221.9" cy="222.1" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><circle cx="225.1" cy="279.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.6" cy="273.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.7" cy="288.5" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="170.7" cy="282.8" r="4" fill="#3465a4"><title>Doohan (New South Wales), Andrew</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.5" cy="221.1" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="204.9" cy="216.0" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2/"><circle cx="206.6" cy="261.6" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2~db1406275/"><circle cx="181.1" cy="244.6" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="170.0" cy="275.4" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="222.0" cy="222.0" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><circle cx="225.2" cy="279.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db10w3db12y14r4~x2/

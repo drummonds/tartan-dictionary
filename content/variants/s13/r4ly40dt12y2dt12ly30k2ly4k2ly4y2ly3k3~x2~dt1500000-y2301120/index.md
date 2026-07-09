@@ -1,14 +1,16 @@
 ---
 title: "Bartlett, Chris (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bartlett, Chris (Personal)"
-  url: ""
+  url: "/setts/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3/)
-(the same proportion at any scale), whose colour order is pattern [KYGYKYKYBGBYR](/stripes/kygykykybgbyr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYGYKYKYBGBYR](/stripes/kygykykybgbyr/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3~x2~n1900000-o2500000/"><circle cx="346.3" cy="94.8" r="4" fill="#3465a4"><title>Bartlett (Personal)</title></circle></a><a href="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/"><circle cx="309.9" cy="66.5" r="4" fill="#3465a4"><title>Australian District Tartan</title></circle></a><a href="/variants/s11/ly30r2ly2k5ly3y2ly3y22ly3k2ly3~x2~ly3307090-y2203076/"><circle cx="306.9" cy="128.0" r="4" fill="#3465a4"><title>Dunbarton (Quebec)</title></circle></a><a href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/"><circle cx="341.7" cy="135.7" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><circle cx="311.4" cy="133.5" r="4" fill="#3465a4"><title>Ulster Irish District Tartan</title></circle></a><a href="/variants/s14/ly34g10ly5r2k8t2w3t2k8r2ly5g10ly28k3~x2/"><circle cx="226.8" cy="89.4" r="4" fill="#3465a4"><title>Lambert Hunting (Personal)</title></circle></a><a href="/variants/s12/ly10w1ly12k7w2k7ly12w1r4w1ly12k2~x2/"><circle cx="277.9" cy="162.7" r="4" fill="#3465a4"><title>Unidentified (GMG 2002)</title></circle></a><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/"><circle cx="405.7" cy="79.2" r="4" fill="#3465a4"><title>Bourbon, Sebastien (Personal)</title></circle></a><a href="/variants/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/"><circle cx="288.6" cy="129.3" r="4" fill="#3465a4"><title>Bruce Hunting (Clan)</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.8" cy="119.1" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><circle cx="336.0" cy="91.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3~x2~n1900000-o2500000/"><circle cx="346.3" cy="94.6" r="4" fill="#3465a4"><title>Bartlett (Personal)</title></circle></a><a href="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/"><circle cx="309.8" cy="66.3" r="4" fill="#3465a4"><title>Australian District Tartan</title></circle></a><a href="/variants/s11/ly30r2ly2k5ly3y2ly3y22ly3k2ly3~x2~ly3307090-y2203076/"><circle cx="306.9" cy="127.8" r="4" fill="#3465a4"><title>Dunbarton (Quebec)</title></circle></a><a href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/"><circle cx="341.7" cy="135.6" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><circle cx="311.4" cy="133.4" r="4" fill="#3465a4"><title>Ulster Irish District Tartan</title></circle></a><a href="/variants/s14/ly34g10ly5r2k8t2w3t2k8r2ly5g10ly28k3~x2/"><circle cx="226.8" cy="89.2" r="4" fill="#3465a4"><title>Lambert Hunting (Personal)</title></circle></a><a href="/variants/s12/ly10w1ly12k7w2k7ly12w1r4w1ly12k2~x2/"><circle cx="277.9" cy="162.6" r="4" fill="#3465a4"><title>Unidentified (GMG 2002)</title></circle></a><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/"><circle cx="405.7" cy="79.0" r="4" fill="#3465a4"><title>Bourbon, Sebastien (Personal)</title></circle></a><a href="/variants/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/"><circle cx="288.6" cy="129.2" r="4" fill="#3465a4"><title>Bruce Hunting (Clan)</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.8" cy="119.0" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><circle cx="336.0" cy="91.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3~x2~dt1500000-y2301120/

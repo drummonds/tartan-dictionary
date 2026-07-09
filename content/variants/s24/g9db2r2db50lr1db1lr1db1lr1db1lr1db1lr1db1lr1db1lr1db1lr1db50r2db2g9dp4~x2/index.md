@@ -1,14 +1,16 @@
 ---
 title: "G8 Summit Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "G8 Summit Corporate Tartan"
-  url: ""
+  url: "/setts/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4/)
-(the same proportion at any scale), whose colour order is pattern [BGBRBYBYBYBYBYBYBYBYBRBG](/stripes/bgbrbybybybybybybybybrbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBRBYBYBYBYBYBYBYBYBRBG](/stripes/bgbrbybybybybybybybybrbg/).
 
 Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2004 December Designed on behalf of the Scottish Tartans Au
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2004 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/"><circle cx="513.6" cy="46.9" r="4" fill="#3465a4"><title>G8 Summit</title></circle></a><a href="/variants/s34/db2w1db28lo1db4r4db1g2db1r8db1n2db1n2db1n2db1n2db1n2db1n2db1r8db1g2db1r4db4lo1db56w1db2w2~x2/"><circle cx="427.5" cy="14.0" r="4" fill="#3465a4"><title>New York Tartan Day Parade (Corp.)</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.5" cy="79.0" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><a href="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/"><circle cx="439.2" cy="69.5" r="4" fill="#3465a4"><title>Oxford University Dress</title></circle></a><circle cx="509.9" cy="22.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/"><circle cx="513.6" cy="46.7" r="4" fill="#3465a4"><title>G8 Summit</title></circle></a><a href="/variants/s34/db2w1db28lo1db4r4db1g2db1r8db1n2db1n2db1n2db1n2db1n2db1n2db1r8db1g2db1r4db4lo1db56w1db2w2~x2/"><circle cx="427.5" cy="14.0" r="4" fill="#3465a4"><title>New York Tartan Day Parade (Corp.)</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.5" cy="78.8" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><a href="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/"><circle cx="439.2" cy="69.3" r="4" fill="#3465a4"><title>Oxford University Dress</title></circle></a><circle cx="509.9" cy="21.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4~x2/

@@ -1,14 +1,16 @@
 ---
 title: "MacAllum of Berwick (Clan?)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacAllum of Berwick (Clan?)"
-  url: ""
+  url: "/setts/db10r7db31k25dg23k8db7r8ly5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10r7db31k25dg23k8db7r8ly5/)
-(the same proportion at any scale), whose colour order is pattern [BRBKGKBRY](/stripes/brbkgkbry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db10r7db31k25dg23k8db7r8ly5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKGKBRY](/stripes/brbkgkbry/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><circle cx="151.7" cy="210.0" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.7" cy="189.5" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="133.9" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><circle cx="107.8" cy="180.7" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.6" cy="172.6" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="190.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.3" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.4" cy="192.1" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><circle cx="119.0" cy="183.6" r="4" fill="#3465a4"><title>Huntley Fire Protection District</title></circle></a><circle cx="122.0" cy="202.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.2" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><circle cx="151.8" cy="209.9" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.8" cy="189.4" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="134.0" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><circle cx="107.8" cy="180.6" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.7" cy="172.5" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="189.9" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.5" cy="192.0" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><circle cx="119.1" cy="183.5" r="4" fill="#3465a4"><title>Huntley Fire Protection District</title></circle></a><circle cx="122.0" cy="202.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/

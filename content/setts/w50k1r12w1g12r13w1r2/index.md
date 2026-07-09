@@ -1,5 +1,12 @@
 ---
 title: "Unidentified Blanket"
-redirect: "/variants/s8/w50k1r12w1g12r13w1r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified Blanket](/variants/s8/w50k1r12w1g12r13w1r2~x2/).
+This is the **Unidentified Blanket** sett — one scale-free proportion (`w50k1r12w1g12r13w1r2`), colour order pattern
+[RWRGWRKW](/stripes/rwrgwrkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified Blanket](/variants/s8/w50k1r12w1g12r13w1r2~x2/) ★ | ~2016 | ![Unidentified Blanket sett](/variants/s8/w50k1r12w1g12r13w1r2~x2/sett.png) |

@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s6/r6k14r6g14w27k4/">Fraser Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r6k14r6g14w27k4/"><img src="/variants/s6/r6k14r6g14w27k4/sett.png" alt="Fraser Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r25k7r3g13lb1k2~x4/">MacPhail</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><img src="/variants/s6/r25k7r3g13lb1k2~x4/sett.png" alt="MacPhail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r25k7r3g13lb1k2~x4/">MacPhail Red Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><img src="/variants/s6/r25k7r3g13lb1k2~x4/sett.png" alt="MacPhail Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

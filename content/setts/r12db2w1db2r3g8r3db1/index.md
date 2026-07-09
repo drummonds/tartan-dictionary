@@ -2,15 +2,15 @@
 title: "Chisholm"
 date: 2023-03-18
 ---
-The **Chisholm** tartan is one sett proportion (`r12db2w1db2r3g8r3db1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRGRBWBR](/stripes/brgrbwbr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Chisholm** sett — one scale-free proportion (`r12db2w1db2r3g8r3db1`), colour order pattern
+[BRGRBWBR](/stripes/brgrbwbr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1800**.
 
-Part of the [Chisholm](/tartans/chisholm/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Chisholm](/tartans/chisholm/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [Chisholm](/variants/s8/r12db2w1db2r3g8r3db1/) ★ | ~2016 | ![Chisholm sett](/variants/s8/r12db2w1db2r3g8r3db1/sett.png) |
-| ×2 | [Chisholm, The](/variants/s8/r12db2w1db2r3g8r3db1~x2/) | ~2016 | ![Chisholm, The sett](/variants/s8/r12db2w1db2r3g8r3db1~x2/sett.png) |
+| ×2 | [Chisholm (Portrait) The.. Clan Tartan](/variants/s8/r12db2w1db2r3g8r3db1~x2/) ★ | 1800 | ![Chisholm (Portrait) The.. Clan Tartan sett](/variants/s8/r12db2w1db2r3g8r3db1~x2/sett.png) |
+| ×1 | [Chisholm](/variants/s8/r12db2w1db2r3g8r3db1/) | ~2016 | ![Chisholm sett](/variants/s8/r12db2w1db2r3g8r3db1/sett.png) |

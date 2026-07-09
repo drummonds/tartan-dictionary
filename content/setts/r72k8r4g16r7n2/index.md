@@ -1,5 +1,12 @@
 ---
 title: "MacAndrew Dress (Name)"
-redirect: "/variants/s6/r72k8r4g16r7n2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacAndrew Dress (Name)](/variants/s6/r72k8r4g16r7n2~x2/).
+This is the **MacAndrew Dress (Name)** sett — one scale-free proportion (`r72k8r4g16r7n2`), colour order pattern
+[BRGRKR](/stripes/brgrkr/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacAndrew Dress (Name)](/variants/s6/r72k8r4g16r7n2~x2/) ★ | ~2008 | ![MacAndrew Dress (Name) sett](/variants/s6/r72k8r4g16r7n2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Holland & Sherry (Corporate)"
-redirect: "/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Holland & Sherry (Corporate)](/variants/s9/db20b3db4r3db3k10g21k4r20~x2/).
+This is the **Holland & Sherry (Corporate)** sett — one scale-free proportion (`db20b3db4r3db3k10g21k4r20`), colour order pattern
+[BBBRBKGKR](/stripes/bbbrbkgkr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Holland & Sherry (Corporate)](/variants/s9/db20b3db4r3db3k10g21k4r20~x2/) ★ | 2008 | ![Holland & Sherry (Corporate) sett](/variants/s9/db20b3db4r3db3k10g21k4r20~x2/sett.png) |

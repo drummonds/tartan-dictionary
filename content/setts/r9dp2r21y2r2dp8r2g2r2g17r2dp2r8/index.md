@@ -1,5 +1,12 @@
 ---
 title: "London Caledonian Games Association"
-redirect: "/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [London Caledonian Games Association](/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/).
+This is the **London Caledonian Games Association** sett — one scale-free proportion (`r9dp2r21y2r2dp8r2g2r2g17r2dp2r8`), colour order pattern
+[RBRGRBRGRGRBR](/stripes/rbrgrbrgrgrbr/). It is recorded as a single **variant**, below.
+First attested **1933**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [London Caledonian Games Association](/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/) ★ | 1933 | ![London Caledonian Games Association sett](/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/sett.png) |

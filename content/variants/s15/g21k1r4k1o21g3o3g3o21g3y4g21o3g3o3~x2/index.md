@@ -1,14 +1,16 @@
 ---
 title: "Ensign, of Ontario"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ensign, of Ontario"
-  url: ""
+  url: "/setts/g21k1r4k1o21g3o3g3o21g3y4g21o3g3o3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g21k1r4k1o21g3o3g3o21g3y4g21o3g3o3/)
-(the same proportion at any scale), whose colour order is pattern [GKRKRGRGRGGGRGR](/stripes/gkrkrgrgrgggrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g21k1r4k1o21g3o3g3o21g3y4g21o3g3o3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRKRGRGRGGGRGR](/stripes/gkrkrgrgrgggrgr/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/"><circle cx="295.9" cy="123.1" r="4" fill="#3465a4"><title>Ontario</title></circle></a><a href="/variants/s15/b4dg1o21g18o2g3o2g18o21b2dg1g3b2dg1g3~x2/"><circle cx="391.8" cy="170.3" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/variants/s16/y15r3y3r1y35g5w2db2g35r1g3r3g15y5w2db2~x2/"><circle cx="386.2" cy="126.8" r="4" fill="#3465a4"><title>Keilar (2013)</title></circle></a><circle cx="356.9" cy="145.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/"><circle cx="295.9" cy="123.0" r="4" fill="#3465a4"><title>Ontario</title></circle></a><a href="/variants/s15/b4dg1o21g18o2g3o2g18o21b2dg1g3b2dg1g3~x2/"><circle cx="391.8" cy="170.2" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/variants/s16/y15r3y3r1y35g5w2db2g35r1g3r3g15y5w2db2~x2/"><circle cx="386.2" cy="126.7" r="4" fill="#3465a4"><title>Keilar (2013)</title></circle></a><circle cx="356.9" cy="145.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/g21k1r4k1o21g3o3g3o21g3y4g21o3g3o3~x2/

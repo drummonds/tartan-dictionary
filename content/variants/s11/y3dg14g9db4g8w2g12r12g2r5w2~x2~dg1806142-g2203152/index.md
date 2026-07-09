@@ -1,14 +1,16 @@
 ---
 title: "Muirhead (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Muirhead (Clan)"
-  url: ""
+  url: "/setts/y3dg14g9db4g8w2g12r12g2r5w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3dg14g9db4g8w2g12r12g2r5w2/)
-(the same proportion at any scale), whose colour order is pattern [GGGBGWGRGRW](/stripes/gggbgwgrgrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y3dg14g9db4g8w2g12r12g2r5w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGBGWGRGRW](/stripes/gggbgwgrgrw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><circle cx="187.8" cy="229.8" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><circle cx="166.5" cy="196.8" r="4" fill="#3465a4"><title>Swiss Highlander (Corporate)</title></circle></a><a href="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/"><circle cx="199.5" cy="221.2" r="4" fill="#3465a4"><title>Wcwm 1243</title></circle></a><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><circle cx="167.8" cy="180.0" r="4" fill="#3465a4"><title>Meath Irish County Tartan</title></circle></a><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="191.0" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s12/dg11lb3dg4y3dg3y4dg3o13b3lb3b4dg3~x2/"><circle cx="170.6" cy="230.2" r="4" fill="#3465a4"><title>Harmony, 2 &amp; 3</title></circle></a><a href="/variants/s9/lyi5g23t21ly30k10ly4g4ly16w3~x2~lyi2705081-ly2503076/"><circle cx="176.4" cy="187.9" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x8/"><circle cx="186.3" cy="221.9" r="4" fill="#3465a4"><title>Maple Leaf Canadian District Tartan</title></circle></a><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/"><circle cx="186.3" cy="221.9" r="4" fill="#3465a4"><title>Maple Leaf MINI Canadian District Tartan</title></circle></a><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="227.2" cy="195.7" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><circle cx="182.3" cy="210.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><circle cx="187.8" cy="229.8" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><circle cx="166.5" cy="196.8" r="4" fill="#3465a4"><title>Swiss Highlander (Corporate)</title></circle></a><a href="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/"><circle cx="199.5" cy="221.1" r="4" fill="#3465a4"><title>Wcwm 1243</title></circle></a><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><circle cx="167.9" cy="179.9" r="4" fill="#3465a4"><title>Meath Irish County Tartan</title></circle></a><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="190.9" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s12/dg11lb3dg4y3dg3y4dg3o13b3lb3b4dg3~x2/"><circle cx="170.6" cy="230.1" r="4" fill="#3465a4"><title>Harmony, 2 &amp; 3</title></circle></a><a href="/variants/s9/lyi5g23t21ly30k10ly4g4ly16w3~x2~lyi2705081-ly2503076/"><circle cx="176.4" cy="187.8" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x8/"><circle cx="186.3" cy="221.8" r="4" fill="#3465a4"><title>Maple Leaf Canadian District Tartan</title></circle></a><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/"><circle cx="186.3" cy="221.8" r="4" fill="#3465a4"><title>Maple Leaf MINI Canadian District Tartan</title></circle></a><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="227.3" cy="195.6" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><circle cx="182.3" cy="210.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/

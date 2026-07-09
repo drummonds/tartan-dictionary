@@ -1,5 +1,12 @@
 ---
 title: "Merrick, Camel"
-redirect: "/variants/s7/r1lb5k8o18lb1k1lb1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Merrick, Camel](/variants/s7/r1lb5k8o18lb1k1lb1~x4/).
+This is the **Merrick, Camel** sett — one scale-free proportion (`r1lb5k8o18lb1k1lb1`), colour order pattern
+[RWKRWKW](/stripes/rwkrwkw/). It is recorded as a single **variant**, below.
+First attested **1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Merrick, Camel](/variants/s7/r1lb5k8o18lb1k1lb1~x4/) ★ | 1985 | ![Merrick, Camel sett](/variants/s7/r1lb5k8o18lb1k1lb1~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Copar a'Beannichte Dress Family Tartan"
-redirect: "/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Copar a'Beannichte Dress Family Tartan](/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/).
+This is the **Copar a'Beannichte Dress Family Tartan** sett — one scale-free proportion (`w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6`), colour order pattern
+[GGGWBWBBBRBBBWBW](/stripes/gggwbwbbbrbbbwbw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Copar a'Beannichte Dress Family Tartan](/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/) ★ | 2004 | ![Copar a'Beannichte Dress Family Tartan sett](/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/sett.png) |

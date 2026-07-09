@@ -1,5 +1,12 @@
 ---
 title: "Gayre (Clan)"
-redirect: "/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gayre (Clan)](/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/).
+This is the **Gayre (Clan)** sett — one scale-free proportion (`ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4`), colour order pattern
+[KRGWGRKWGRGWKGR](/stripes/krgwgrkwgrgwkgr/). It is recorded as a single **variant**, below.
+First attested **1981**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gayre (Clan)](/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/) ★ | 1981 | ![Gayre (Clan) sett](/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/sett.png) |

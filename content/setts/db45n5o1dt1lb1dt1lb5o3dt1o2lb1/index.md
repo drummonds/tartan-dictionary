@@ -1,5 +1,12 @@
 ---
 title: "Mingulay (Fashion)"
-redirect: "/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mingulay (Fashion)](/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/).
+This is the **Mingulay (Fashion)** sett — one scale-free proportion (`db45n5o1dt1lb1dt1lb5o3dt1o2lb1`), colour order pattern
+[BBRBWBWRBRW](/stripes/bbrbwbwrbrw/). It is recorded as a single **variant**, below.
+First attested **1986**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Mingulay (Fashion)](/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/) ★ | 1986 | ![Mingulay (Fashion) sett](/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/sett.png) |

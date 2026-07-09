@@ -1,5 +1,12 @@
 ---
 title: "Cairngorm"
-redirect: "/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cairngorm](/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/).
+This is the **Cairngorm** sett — one scale-free proportion (`n2w2y7o14n2w2`), colour order pattern
+[BWGRBW](/stripes/bwgrbw/). It is recorded as a single **variant**, below.
+First attested **1963**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cairngorm](/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/) ★ | 1963 | ![Cairngorm sett](/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/sett.png) |

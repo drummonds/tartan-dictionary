@@ -1,5 +1,12 @@
 ---
 title: "Budge (Personal)"
-redirect: "/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Budge (Personal)](/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/).
+This is the **Budge (Personal)** sett — one scale-free proportion (`t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7`), colour order pattern
+[BBYBYBYBYBBRB](/stripes/bbybybybybbrb/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Budge (Personal)](/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/) ★ | 2008 | ![Budge (Personal) sett](/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/sett.png) |

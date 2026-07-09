@@ -1,5 +1,12 @@
 ---
 title: "Perthshire Clayquhat District Tartan"
-redirect: "/variants/s7/r23k1g9r3db1lb1r1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Perthshire Clayquhat District Tartan](/variants/s7/r23k1g9r3db1lb1r1~x4/).
+This is the **Perthshire Clayquhat District Tartan** sett — one scale-free proportion (`r23k1g9r3db1lb1r1`), colour order pattern
+[RKGRBWR](/stripes/rkgrbwr/). It is recorded as a single **variant**, below.
+First attested **~1739**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Perthshire Clayquhat District Tartan](/variants/s7/r23k1g9r3db1lb1r1~x4/) ★ | ~1739 | ![Perthshire Clayquhat District Tartan sett](/variants/s7/r23k1g9r3db1lb1r1~x4/sett.png) |

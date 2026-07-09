@@ -19,7 +19,7 @@ The **MacMillan Hunting** tartan groups 3 setts — the same named design record
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db3y1db12k4y2k4dg8r2dg8r1/"><img src="/variants/s10/db3y1db12k4y2k4dg8r2dg8r1~x4/sett.png" alt="MacMillan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/db3y1db12k4y2k4g8r2g8r1/">MacMillan Hunting</a></td><td><code>DB/6 Y2 DB24 K8 Y4 K8 G16 R4 G16 R/2</code></td><td>172</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db3y1db12k4y2k4g8r2g8r1/"><img src="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/sett.png" alt="MacMillan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db6dy2db18k6dy3k6g14r3g10r2/">Clan Tartan</a></td><td><code>DB/12 DY4 DB36 K12 DY6 K12 G28 R6 G20 R/4</code></td><td>264</td><td>—</td></tr>
+<tr><td><a href="/setts/db6dy2db18k6dy3k6g14r3g10r2/">Clan Tartan</a></td><td><code>DB/12 DY4 DB36 K12 DY6 K12 G28 R6 G20 R/4</code></td><td>264</td><td>1906</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db6dy2db18k6dy3k6g14r3g10r2/"><img src="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

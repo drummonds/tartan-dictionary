@@ -1,14 +1,16 @@
 ---
 title: "Poulain League (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Poulain League (Corporate)"
-  url: ""
+  url: "/setts/dy6lb38k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6lb38k3/)
-(the same proportion at any scale), whose colour order is pattern [GWK](/stripes/gwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy6lb38k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWK](/stripes/gwk/).
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/db23w4r4~x4/"><circle cx="354.3" cy="245.9" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.9" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/w80db30lo5y4~x2/"><circle cx="407.3" cy="194.4" r="4" fill="#3465a4"><title>Tarbh Deargh (Red Bull)</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="165.0" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="516.5" cy="128.9" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s5/y6b38k3b38y6~x2/"><circle cx="574.0" cy="225.7" r="4" fill="#3465a4"><title>The Poulain League</title></circle></a><a href="/variants/s4/w14t5r1lb1~x8/"><circle cx="413.6" cy="211.1" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/lb9db1w1y1~x20/"><circle cx="507.2" cy="237.4" r="4" fill="#3465a4"><title>Varrie Commemorative Tartan</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="334.7" cy="176.4" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><circle cx="479.9" cy="206.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/db23w4r4~x4/"><circle cx="354.3" cy="245.9" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.8" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/w80db30lo5y4~x2/"><circle cx="407.3" cy="194.3" r="4" fill="#3465a4"><title>Tarbh Deargh (Red Bull)</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="164.9" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="516.5" cy="128.8" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s5/y6b38k3b38y6~x2/"><circle cx="574.0" cy="225.7" r="4" fill="#3465a4"><title>The Poulain League</title></circle></a><a href="/variants/s4/w14t5r1lb1~x8/"><circle cx="413.6" cy="211.0" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/lb9db1w1y1~x20/"><circle cx="507.2" cy="237.4" r="4" fill="#3465a4"><title>Varrie Commemorative Tartan</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="334.7" cy="176.3" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><circle cx="479.9" cy="206.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/dy6lb38k3~x2/

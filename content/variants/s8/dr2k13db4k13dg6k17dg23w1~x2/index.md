@@ -1,14 +1,16 @@
 ---
 title: "Meiklejohn (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Meiklejohn (Personal)"
-  url: ""
+  url: "/setts/dr2k13db4k13dg6k17dg23w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2k13db4k13dg6k17dg23w1/)
-(the same proportion at any scale), whose colour order is pattern [BKBKGKGW](/stripes/bkbkgkgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr2k13db4k13dg6k17dg23w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGKGW](/stripes/bkbkgkgw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="260.8" cy="124.4" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s7/db18k1db2k18y2g16k16/"><circle cx="224.6" cy="177.2" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db18k1db2k18y2g16k16~x2/"><circle cx="224.6" cy="177.2" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db26k1db2k18y2g16k16~x2/"><circle cx="227.7" cy="160.8" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/"><circle cx="275.5" cy="211.6" r="4" fill="#3465a4"><title>Granger Family Tartan</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.3" cy="84.1" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/variants/s6/k43dg8k8dt21dg10w2~x2/"><circle cx="325.0" cy="173.5" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="295.9" cy="120.8" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><circle cx="307.0" cy="159.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.1" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.6" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="260.9" cy="124.2" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s7/db18k1db2k18y2g16k16/"><circle cx="224.6" cy="177.1" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db18k1db2k18y2g16k16~x2/"><circle cx="224.6" cy="177.1" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db26k1db2k18y2g16k16~x2/"><circle cx="227.8" cy="160.7" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/"><circle cx="275.6" cy="211.5" r="4" fill="#3465a4"><title>Granger Family Tartan</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.3" cy="84.0" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/variants/s6/k43dg8k8dt21dg10w2~x2/"><circle cx="325.0" cy="173.4" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="295.9" cy="120.6" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><circle cx="307.0" cy="159.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr2k13db4k13dg6k17dg23w1~x2/

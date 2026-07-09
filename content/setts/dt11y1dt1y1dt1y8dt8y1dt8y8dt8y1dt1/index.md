@@ -1,5 +1,12 @@
 ---
 title: "Tyneside Scottish (Khaki)"
-redirect: "/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tyneside Scottish (Khaki)](/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/).
+This is the **Tyneside Scottish (Khaki)** sett — one scale-free proportion (`dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1`), colour order pattern
+[BGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgb/). It is recorded as a single **variant**, below.
+First attested **1914**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Tyneside Scottish (Khaki)](/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/) ★ | 1914 | ![Tyneside Scottish (Khaki) sett](/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/sett.png) |

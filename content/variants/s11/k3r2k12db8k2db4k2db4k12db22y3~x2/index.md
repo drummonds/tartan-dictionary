@@ -1,14 +1,16 @@
 ---
 title: "Caledonian Dragon (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Dragon (Corporate)"
-  url: ""
+  url: "/setts/k3r2k12db8k2db4k2db4k12db22y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r2k12db8k2db4k2db4k12db22y3/)
-(the same proportion at any scale), whose colour order is pattern [GBKBKBKBKRK](/stripes/gbkbkbkbkrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3r2k12db8k2db4k2db4k12db22y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBKBKBKRK](/stripes/gbkbkbkbkrk/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="254.9" cy="128.3" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/"><circle cx="281.9" cy="188.5" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle F.C Corporate Weavers Tartan</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.2" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s8/k8r1k1r1k4db11y1db2~x6/"><circle cx="253.1" cy="168.5" r="4" fill="#3465a4"><title>Rutherford</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.5" cy="177.5" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><circle cx="302.0" cy="154.0" r="4" fill="#3465a4"><title>Bredillet (Personal)</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.7" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/"><circle cx="279.8" cy="139.0" r="4" fill="#3465a4"><title>Slanj Dress</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="161.0" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><circle cx="282.6" cy="170.5" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><circle cx="281.2" cy="166.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="254.9" cy="128.2" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/"><circle cx="281.9" cy="188.4" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle F.C Corporate Weavers Tartan</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.1" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s8/k8r1k1r1k4db11y1db2~x6/"><circle cx="253.1" cy="168.4" r="4" fill="#3465a4"><title>Rutherford</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.6" cy="177.4" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><circle cx="302.1" cy="153.9" r="4" fill="#3465a4"><title>Bredillet (Personal)</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.6" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/"><circle cx="279.9" cy="138.8" r="4" fill="#3465a4"><title>Slanj Dress</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="160.9" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><circle cx="282.6" cy="170.4" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><circle cx="281.2" cy="166.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k3r2k12db8k2db4k2db4k12db22y3~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Rangers 1989 (Sports)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Rangers 1989 (Sports)"
-  url: ""
+  url: "/setts/r3db16k12t34k12db2k2db2k2db7r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db16k12t34k12db2k2db2k2db7r3/)
-(the same proportion at any scale), whose colour order is pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3db16k12t34k12db2k2db2k2db7r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3db16k12dbi34k12db2k2db2k2db7r3~x2~db0906265-dbi1605267/"><circle cx="222.7" cy="147.5" r="4" fill="#3465a4"><title>Rangers Football Club</title></circle></a><a href="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/"><circle cx="193.9" cy="138.6" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/"><circle cx="179.5" cy="151.0" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.6" cy="119.6" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db9k1db1~x4/"><circle cx="171.4" cy="139.3" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/variants/s9/k2db3g16b1k13b1db18k2db2~x2/"><circle cx="207.5" cy="149.3" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s9/k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="202.1" cy="147.6" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/"><circle cx="154.2" cy="172.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db8k1db1~x4/"><circle cx="166.7" cy="139.3" r="4" fill="#3465a4"><title>Riddoch (Name)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/"><circle cx="176.4" cy="147.0" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><circle cx="182.7" cy="138.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3db16k12dbi34k12db2k2db2k2db7r3~x2~db0906265-dbi1605267/"><circle cx="222.7" cy="147.4" r="4" fill="#3465a4"><title>Rangers Football Club</title></circle></a><a href="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/"><circle cx="193.9" cy="138.4" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/"><circle cx="179.6" cy="150.9" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.6" cy="119.5" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db9k1db1~x4/"><circle cx="171.4" cy="139.1" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/variants/s9/k2db3g16b1k13b1db18k2db2~x2/"><circle cx="207.5" cy="149.2" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s9/k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="202.1" cy="147.4" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/"><circle cx="154.3" cy="172.1" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db8k1db1~x4/"><circle cx="166.7" cy="139.2" r="4" fill="#3465a4"><title>Riddoch (Name)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/"><circle cx="176.4" cy="146.9" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><circle cx="182.7" cy="137.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r3db16k12t34k12db2k2db2k2db7r3~x2/

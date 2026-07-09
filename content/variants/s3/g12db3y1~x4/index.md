@@ -1,14 +1,16 @@
 ---
 title: "Unidentified pattern #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified pattern #2"
-  url: ""
+  url: "/setts/g12db3y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12db3y1/)
-(the same proportion at any scale), whose colour order is pattern [GBG](/stripes/gbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g12db3y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBG](/stripes/gbg/).
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.1" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.6" cy="241.7" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s3/g12db3g1~x2/"><circle cx="487.2" cy="272.7" r="4" fill="#3465a4"><title>Montgomerie</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.0" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.3" cy="204.6" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.5" cy="206.8" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s3/g6db2g1~x4/"><circle cx="423.3" cy="315.4" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.3" cy="340.1" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="504.9" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><circle cx="534.1" cy="277.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.0" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.6" cy="241.7" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s3/g12db3g1~x2/"><circle cx="487.3" cy="272.6" r="4" fill="#3465a4"><title>Montgomerie</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.1" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.3" cy="204.5" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.8" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.5" cy="206.7" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s3/g6db2g1~x4/"><circle cx="423.4" cy="315.4" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.3" cy="340.2" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="505.0" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><circle cx="534.1" cy="277.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/g12db3y1~x4/

@@ -1,16 +1,18 @@
 ---
 title: "McPeek (Fictitious clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McPeek"
   url: "/tartans/mcpeek/"
 - name: "McPeek (Fictitious clan)"
-  url: ""
+  url: "/setts/r63k16y5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r63k16y5/)
-(the same proportion at any scale), whose colour order is pattern [GKKR](/stripes/gkkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r63k16y5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKKR](/stripes/gkkr/).
 
 Part of the [McPeek](/tartans/mcpeek/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.2" cy="215.7" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s4/y6k3r40w3~x2/"><circle cx="479.3" cy="161.7" r="4" fill="#3465a4"><title>Masai Shuka 18 (Artefact)</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.8" cy="189.5" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.7" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="123.1" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="422.7" cy="83.5" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.8" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="540.3" cy="182.5" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/variants/s5/r30g12k5w8r30/"><circle cx="339.7" cy="225.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="425.4" cy="153.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.2" cy="215.7" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s4/y6k3r40w3~x2/"><circle cx="479.3" cy="161.6" r="4" fill="#3465a4"><title>Masai Shuka 18 (Artefact)</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.8" cy="189.5" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.2" cy="176.6" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="123.0" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="422.7" cy="83.3" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.7" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="540.3" cy="182.4" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/variants/s5/r30g12k5w8r30/"><circle cx="339.7" cy="225.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="425.4" cy="153.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/r63k16y5~x2/

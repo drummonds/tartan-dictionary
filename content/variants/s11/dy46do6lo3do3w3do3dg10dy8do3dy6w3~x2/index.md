@@ -1,6 +1,7 @@
 ---
 title: "Williams"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Williams"
   url: "/tartans/williams/"
 - name: "Williams"
-  url: ""
+  url: "/setts/dy46do6lo3do3w3do3dg10dy8do3dy6w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy46do6lo3do3w3do3dg10dy8do3dy6w3/)
-(the same proportion at any scale), whose colour order is pattern [GBYBWBGGBGW](/stripes/gbybwbggbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy46do6lo3do3w3do3dg10dy8do3dy6w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBYBWBGGBGW](/stripes/gbybwbggbgw/).
 
 Part of the [Williams](/tartans/williams/) tartan — the named design grouping this sett with its other cloths.
 
@@ -67,6 +69,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/"><circle cx="455.5" cy="144.1" r="4" fill="#3465a4"><title>Yarrow</title></circle></a><a href="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/"><circle cx="424.0" cy="157.9" r="4" fill="#3465a4"><title>Glen Moy #2</title></circle></a><a href="/variants/s13/do17doi3do2doi1do1doi1do1doi1r3ly2do1ly2ri1~x4~do1103038-doi1402055-r1506019-ri2806019/"><circle cx="390.0" cy="118.7" r="4" fill="#3465a4"><title>Kinnaird (1984)</title></circle></a><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/"><circle cx="404.2" cy="175.2" r="4" fill="#3465a4"><title>Glendronach Distillery</title></circle></a><circle cx="430.9" cy="155.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/"><circle cx="455.5" cy="143.9" r="4" fill="#3465a4"><title>Yarrow</title></circle></a><a href="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/"><circle cx="424.0" cy="157.8" r="4" fill="#3465a4"><title>Glen Moy #2</title></circle></a><a href="/variants/s13/do17doi3do2doi1do1doi1do1doi1r3ly2do1ly2ri1~x4~do1103038-doi1402055-r1506019-ri2806019/"><circle cx="390.0" cy="118.6" r="4" fill="#3465a4"><title>Kinnaird (1984)</title></circle></a><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/"><circle cx="404.2" cy="175.1" r="4" fill="#3465a4"><title>Glendronach Distillery</title></circle></a><circle cx="430.9" cy="155.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2/

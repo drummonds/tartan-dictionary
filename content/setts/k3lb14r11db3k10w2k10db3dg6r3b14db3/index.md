@@ -1,5 +1,12 @@
 ---
 title: "Cascade Summers, (The Resort at the Mountain)"
-redirect: "/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cascade Summers, (The Resort at the Mountain)](/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/).
+This is the **Cascade Summers, (The Resort at the Mountain)** sett — one scale-free proportion (`k3lb14r11db3k10w2k10db3dg6r3b14db3`), colour order pattern
+[BBRGBKWKBRWK](/stripes/bbrgbkwkbrwk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cascade Summers, (The Resort at the Mountain)](/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/) ★ | ~2016 | ![Cascade Summers, (The Resort at the Mountain) sett](/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/sett.png) |

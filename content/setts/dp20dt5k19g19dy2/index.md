@@ -1,5 +1,12 @@
 ---
 title: "Martin Hunting"
-redirect: "/variants/s5/dp20dt5k19g19dy2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Martin Hunting](/variants/s5/dp20dt5k19g19dy2~x2/).
+This is the **Martin Hunting** sett — one scale-free proportion (`dp20dt5k19g19dy2`), colour order pattern
+[BBKGG](/stripes/bbkgg/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Martin Hunting](/variants/s5/dp20dt5k19g19dy2~x2/) ★ | 2001 | ![Martin Hunting sett](/variants/s5/dp20dt5k19g19dy2~x2/sett.png) |

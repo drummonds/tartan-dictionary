@@ -1,14 +1,16 @@
 ---
 title: "Conroy (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Conroy (Personal)"
   url: "/setts/dr64k10lo4r5lb2k2db3lo4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr64k10lo4r5lb2k2db3lo4/)
-(the same proportion at any scale), whose colour order is pattern [BKYRWKBY](/stripes/bkyrwkby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr64k10lo4r5lb2k2db3lo4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKYRWKBY](/stripes/bkyrwkby/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2~lb3300000/"><circle cx="395.9" cy="59.6" r="4" fill="#3465a4"><title>Conroy (Personal)</title></circle></a><a href="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/"><circle cx="324.5" cy="98.9" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s11/y1k1db2w1y1t3r31k2y5k2t1~x2~db1204274-t2205244/"><circle cx="341.3" cy="34.7" r="4" fill="#3465a4"><title>Scottish Banner, The</title></circle></a><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="515.7" cy="38.0" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="515.6" cy="39.2" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/"><circle cx="425.1" cy="85.7" r="4" fill="#3465a4"><title>Inches, of Perth</title></circle></a><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><circle cx="299.4" cy="88.0" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2008029-r1707016/"><circle cx="392.9" cy="50.6" r="4" fill="#3465a4"><title>Conroy</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2109032-r1807008/"><circle cx="390.2" cy="49.3" r="4" fill="#3465a4"><title>Conroy Family Tartan</title></circle></a><a href="/variants/s6/g4r52k20dy9g2y1~x2/"><circle cx="331.5" cy="77.1" r="4" fill="#3465a4"><title>Jack, John (Fife) (Personal)</title></circle></a><circle cx="396.8" cy="59.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2~lb3300000/"><circle cx="395.9" cy="59.4" r="4" fill="#3465a4"><title>Conroy (Personal)</title></circle></a><a href="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/"><circle cx="324.5" cy="98.7" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s11/y1k1db2w1y1t3r31k2y5k2t1~x2~db1204274-t2205244/"><circle cx="341.3" cy="34.5" r="4" fill="#3465a4"><title>Scottish Banner, The</title></circle></a><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="515.8" cy="37.8" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="515.6" cy="39.0" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/"><circle cx="425.1" cy="85.6" r="4" fill="#3465a4"><title>Inches, of Perth</title></circle></a><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><circle cx="299.5" cy="87.9" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2008029-r1707016/"><circle cx="393.0" cy="50.4" r="4" fill="#3465a4"><title>Conroy</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2109032-r1807008/"><circle cx="390.3" cy="49.1" r="4" fill="#3465a4"><title>Conroy Family Tartan</title></circle></a><a href="/variants/s6/g4r52k20dy9g2y1~x2/"><circle cx="331.5" cy="77.0" r="4" fill="#3465a4"><title>Jack, John (Fife) (Personal)</title></circle></a><circle cx="396.8" cy="59.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr64k10lo4r5lb2k2db3lo4~x2/

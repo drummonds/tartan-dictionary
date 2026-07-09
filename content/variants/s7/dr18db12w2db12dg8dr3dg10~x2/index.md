@@ -1,14 +1,16 @@
 ---
 title: "Brough (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brough (Name)"
-  url: ""
+  url: "/setts/dr18db12w2db12dg8dr3dg10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr18db12w2db12dg8dr3dg10/)
-(the same proportion at any scale), whose colour order is pattern [BBWBGBG](/stripes/bbwbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr18db12w2db12dg8dr3dg10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBGBG](/stripes/bbwbgbg/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr25g10db30w4db30g10dr25w2~x2/"><circle cx="279.1" cy="228.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004)</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><circle cx="422.4" cy="251.8" r="4" fill="#3465a4"><title>Edinburgh Monarchs</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.9" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.9" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><circle cx="346.5" cy="277.9" r="4" fill="#3465a4"><title>Cathro</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s9/y7n6lt1dy6n1dy6n6lt1y6~x8~y2400000-lt3304230/"><circle cx="264.1" cy="291.0" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><circle cx="281.8" cy="284.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr25g10db30w4db30g10dr25w2~x2/"><circle cx="279.1" cy="228.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004)</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><circle cx="422.4" cy="251.7" r="4" fill="#3465a4"><title>Edinburgh Monarchs</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.8" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.8" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><circle cx="346.6" cy="277.9" r="4" fill="#3465a4"><title>Cathro</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.3" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s9/y7n6lt1dy6n1dy6n6lt1y6~x8~y2400000-lt3304230/"><circle cx="264.1" cy="291.0" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><circle cx="281.9" cy="283.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr18db12w2db12dg8dr3dg10~x2/

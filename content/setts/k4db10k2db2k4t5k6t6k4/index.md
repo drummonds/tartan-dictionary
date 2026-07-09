@@ -1,5 +1,12 @@
 ---
 title: "Saul (Personal)"
-redirect: "/variants/s9/k4db10k2db2k4t5k6t6k4~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Saul (Personal)](/variants/s9/k4db10k2db2k4t5k6t6k4~x4/).
+This is the **Saul (Personal)** sett — one scale-free proportion (`k4db10k2db2k4t5k6t6k4`), colour order pattern
+[KBKBKBKBK](/stripes/kbkbkbkbk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Saul (Personal)](/variants/s9/k4db10k2db2k4t5k6t6k4~x4/) ★ | 2002 | ![Saul (Personal) sett](/variants/s9/k4db10k2db2k4t5k6t6k4~x4/sett.png) |

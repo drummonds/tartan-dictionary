@@ -1,5 +1,12 @@
 ---
 title: "Ballindalloch (Estate Check)"
-redirect: "/variants/s2/dg1ly1~x8~dg1405139/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ballindalloch (Estate Check)](/variants/s2/dg1ly1~x8~dg1405139/).
+This is the **Ballindalloch (Estate Check)** sett — one scale-free proportion (`dg1ly1`), colour order pattern
+[GYGYGYGY](/stripes/gygygygy/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Ballindalloch (Estate Check)](/variants/s2/dg1ly1~x8~dg1405139/) ★ | ~2002 | ![Ballindalloch (Estate Check) sett](/variants/s2/dg1ly1~x8~dg1405139/sett.png) |

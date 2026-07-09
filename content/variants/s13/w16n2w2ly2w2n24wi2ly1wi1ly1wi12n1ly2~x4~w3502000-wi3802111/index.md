@@ -1,14 +1,16 @@
 ---
 title: "Fiona"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fiona"
-  url: ""
+  url: "/setts/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2/)
-(the same proportion at any scale), whose colour order is pattern [WBWYWBWYWYWBY](/stripes/wbwywbwywywby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWYWBWYWYWBY](/stripes/wbwywbwywywby/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

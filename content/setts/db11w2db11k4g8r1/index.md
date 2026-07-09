@@ -1,5 +1,12 @@
 ---
 title: "Dalmeny - 2002 (Fashion)"
-redirect: "/variants/s6/db11w2db11k4g8r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dalmeny - 2002 (Fashion)](/variants/s6/db11w2db11k4g8r1~x2/).
+This is the **Dalmeny - 2002 (Fashion)** sett — one scale-free proportion (`db11w2db11k4g8r1`), colour order pattern
+[BWBKGRGKBW](/stripes/bwbkgrgkbw/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dalmeny - 2002 (Fashion)](/variants/s6/db11w2db11k4g8r1~x2/) ★ | ~2002 | ![Dalmeny - 2002 (Fashion) sett](/variants/s6/db11w2db11k4g8r1~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "KIltwalk, The (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "KIltwalk, The (Corporate)"
-  url: ""
+  url: "/setts/dy2lb2ly4dy5ly5dy46ly7dy1w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy2lb2ly4dy5ly5dy46ly7dy1w2/)
-(the same proportion at any scale), whose colour order is pattern [GWYGYGYGW](/stripes/gwygygygw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy2lb2ly4dy5ly5dy46ly7dy1w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWYGYGYGW](/stripes/gwygygygw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

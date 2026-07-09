@@ -1,16 +1,18 @@
 ---
 title: "Akins Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Akins"
   url: "/tartans/akins/"
 - name: "Akins Clan Tartan"
-  url: ""
+  url: "/setts/dr12r4dr4r4dr4db11dg12lb4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr12r4dr4r4dr4db11dg12lb4/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBBGW](/stripes/brbrbbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr12r4dr4r4dr4db11dg12lb4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBBGW](/stripes/brbrbbgw/).
 
 Part of the [Akins](/tartans/akins/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1822 This is the `Approved` tartan for the Akins Clan
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1822 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="180.6" cy="204.9" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.7" cy="208.0" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s8/r21ri3r3ri3r3db19g22lb3~x2~r1807008-ri2108022/"><circle cx="177.1" cy="198.1" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.2" cy="226.8" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.2" cy="250.3" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/"><circle cx="46.8" cy="238.0" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/variants/s7/db4lr3db4lr3o3n11o3~x2/"><circle cx="172.4" cy="279.0" r="4" fill="#3465a4"><title>Stevens #2</title></circle></a><a href="/variants/s9/dy2n1dy1o3n3db3dy2r2db1~x4/"><circle cx="120.5" cy="302.6" r="4" fill="#3465a4"><title>Titanic</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="181.0" cy="239.1" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="172.9" cy="236.7" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><circle cx="140.8" cy="274.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="180.6" cy="204.8" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.7" cy="207.9" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s8/r21ri3r3ri3r3db19g22lb3~x2~r1807008-ri2108022/"><circle cx="177.2" cy="198.1" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.3" cy="226.8" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.3" cy="250.2" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/"><circle cx="46.8" cy="238.0" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/variants/s7/db4lr3db4lr3o3n11o3~x2/"><circle cx="172.5" cy="279.0" r="4" fill="#3465a4"><title>Stevens #2</title></circle></a><a href="/variants/s9/dy2n1dy1o3n3db3dy2r2db1~x4/"><circle cx="120.5" cy="302.5" r="4" fill="#3465a4"><title>Titanic</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="181.0" cy="239.1" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="173.0" cy="236.7" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><circle cx="140.8" cy="274.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr12r4dr4r4dr4db11dg12lb4~x2/

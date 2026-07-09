@@ -1,5 +1,12 @@
 ---
 title: "Earl of St. Andrews (Fashion)"
-redirect: "/variants/s7/g5t14b10w2b1w1g4~x4~t2205244-b2409265/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Earl of St. Andrews (Fashion)](/variants/s7/g5t14b10w2b1w1g4~x4~t2205244-b2409265/).
+This is the **Earl of St. Andrews (Fashion)** sett — one scale-free proportion (`g5t14b10w2b1w1g4`), colour order pattern
+[GBBWBWG](/stripes/gbbwbwg/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Earl of St. Andrews (Fashion)](/variants/s7/g5t14b10w2b1w1g4~x4~t2205244-b2409265/) ★ | ~2002 | ![Earl of St. Andrews (Fashion) sett](/variants/s7/g5t14b10w2b1w1g4~x4~t2205244-b2409265/sett.png) |

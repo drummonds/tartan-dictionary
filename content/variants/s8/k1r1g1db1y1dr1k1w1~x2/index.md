@@ -1,14 +1,16 @@
 ---
 title: "Rainbow"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Rainbow"
-  url: ""
+  url: "/setts/k1r1g1db1y1dr1k1w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1r1g1db1y1dr1k1w1/)
-(the same proportion at any scale), whose colour order is pattern [KRGBGBKW](/stripes/krgbgbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k1r1g1db1y1dr1k1w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRGBGBKW](/stripes/krgbgbkw/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><circle cx="22.7" cy="317.2" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/variants/s6/dg2y1b1r1dp1db1~x36/"><circle cx="53.7" cy="325.8" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s5/dp1lb1g1w1r1~x16/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Daughter of Mull</title></circle></a><a href="/variants/s6/db12y8r5k6db7g5~x4/"><circle cx="82.3" cy="293.7" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/variants/s4/dg1r1w1db1~x20/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Algarve</title></circle></a><a href="/variants/s4/dp1k1dy1r1~x4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bowater (Estate Check)</title></circle></a><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><circle cx="36.9" cy="315.6" r="4" fill="#3465a4"><title>Lytley Formal (Personal)</title></circle></a><a href="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/"><circle cx="54.4" cy="321.1" r="4" fill="#3465a4"><title>Lytley alias Parsons Formal (Personal)</title></circle></a><a href="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri2806019-r2108022/"><circle cx="14.0" cy="315.3" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/variants/s8/dbi11db11dbii11g11dgi11dg11w3r5~x2~dbi1106275-db1004274-dbii1406275-g2408144-dgi1806142/"><circle cx="14.0" cy="264.0" r="4" fill="#3465a4"><title>Reid (Mill City) (Name)</title></circle></a><circle cx="14.0" cy="344.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><circle cx="22.7" cy="317.2" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/variants/s6/dg2y1b1r1dp1db1~x36/"><circle cx="53.8" cy="325.8" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s5/dp1lb1g1w1r1~x16/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Daughter of Mull</title></circle></a><a href="/variants/s6/db12y8r5k6db7g5~x4/"><circle cx="82.4" cy="293.7" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/variants/s4/dg1r1w1db1~x20/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Algarve</title></circle></a><a href="/variants/s4/dp1k1dy1r1~x4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bowater (Estate Check)</title></circle></a><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><circle cx="37.0" cy="315.6" r="4" fill="#3465a4"><title>Lytley Formal (Personal)</title></circle></a><a href="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/"><circle cx="54.4" cy="321.1" r="4" fill="#3465a4"><title>Lytley alias Parsons Formal (Personal)</title></circle></a><a href="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri2806019-r2108022/"><circle cx="14.0" cy="315.3" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/variants/s8/dbi11db11dbii11g11dgi11dg11w3r5~x2~dbi1106275-db1004274-dbii1406275-g2408144-dgi1806142/"><circle cx="14.0" cy="263.9" r="4" fill="#3465a4"><title>Reid (Mill City) (Name)</title></circle></a><circle cx="14.0" cy="344.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k1r1g1db1y1dr1k1w1~x2/

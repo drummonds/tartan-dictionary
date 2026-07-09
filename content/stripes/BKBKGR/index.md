@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s6/dr2k1db6k2g6o2~x4/">MacEachain (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><img src="/variants/s6/dr2k1db6k2g6o2~x4/sett.png" alt="MacEachain (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db2k2db12k8g11r2~x2/">Murray #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2k2db12k8g11r2~x2/"><img src="/variants/s6/db2k2db12k8g11r2~x2/sett.png" alt="Murray #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db2k2db12k8g11r2~x2/">Murray (Variation) Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db2k2db12k8g11r2~x2/"><img src="/variants/s6/db2k2db12k8g11r2~x2/sett.png" alt="Murray (Variation) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "Unidentified, Silk Plaid"
-redirect: "/variants/s5/db7dg8g15b6y3~x10/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified, Silk Plaid](/variants/s5/db7dg8g15b6y3~x10/).
+This is the **Unidentified, Silk Plaid** sett — one scale-free proportion (`db7dg8g15b6y3`), colour order pattern
+[BGGBG](/stripes/bggbg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×10 | [Unidentified, Silk Plaid](/variants/s5/db7dg8g15b6y3~x10/) ★ | ~2016 | ![Unidentified, Silk Plaid sett](/variants/s5/db7dg8g15b6y3~x10/sett.png) |

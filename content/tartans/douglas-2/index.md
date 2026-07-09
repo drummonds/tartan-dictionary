@@ -25,7 +25,7 @@ The **Douglas** tartan groups 7 setts — the same named design recorded as diff
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k1lb1g8db8w1/"><img src="/variants/s5/k1lb1g8db8w1~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k2w2g8db8w1/">Douglas</a></td><td><code>K/2 W2 G8 DB8 W/1</code></td><td>39</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k2w2g8db8w1/"><img src="/variants/s5/k2w2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3db3g23db21w2/">Clan Tartan</a></td><td><code>K/6 DB6 G46 DB42 W/4</code></td><td>198</td><td>—</td></tr>
+<tr><td><a href="/setts/k3db3g23db21w2/">Clan Tartan</a></td><td><code>K/6 DB6 G46 DB42 W/4</code></td><td>198</td><td>1831</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k3db3g23db21w2/"><img src="/variants/s5/k3db3g23db21w2~x2~db1406275/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k4w2g8db8w1/">Green</a></td><td><code>K/4 W2 G8 DB8 W/1</code></td><td>41</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k4w2g8db8w1/"><img src="/variants/s5/k4w2g8db8w1/sett.png" alt="Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

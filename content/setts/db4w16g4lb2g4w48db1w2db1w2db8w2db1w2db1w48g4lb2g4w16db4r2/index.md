@@ -1,5 +1,12 @@
 ---
 title: "Unidentified Scarlett #5"
-redirect: "/variants/s22/db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2~x2~r2109013/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified Scarlett #5](/variants/s22/db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2~x2~r2109013/).
+This is the **Unidentified Scarlett #5** sett — one scale-free proportion (`db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2`), colour order pattern
+[BWGWGWBWBWBWBWBWGWGWBR](/stripes/bwgwgwbwbwbwbwbwgwgwbr/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified Scarlett #5](/variants/s22/db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2~x2~r2109013/) ★ | 2004 | ![Unidentified Scarlett #5 sett](/variants/s22/db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2~x2~r2109013/sett.png) |

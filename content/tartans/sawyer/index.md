@@ -15,7 +15,7 @@ The **Sawyer** tartan groups 2 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/setts/r2lb1r8k4db1g10lr1g2/">Sawyer</a> ★</td><td><code>R/8 LB4 R32 K16 DB4 G40 LR4 G/8</code></td><td>216</td><td>1994</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r2lb1r8k4db1g10lr1g2/"><img src="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/sett.png" alt="Sawyer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r2lb1r8k4db1g10w1g2/">Sawyer</a></td><td><code>R/8 LB4 R32 K16 DB4 G40 W4 G/8</code></td><td>216</td><td>—</td></tr>
+<tr><td><a href="/setts/r2lb1r8k4db1g10w1g2/">Sawyer</a></td><td><code>R/8 LB4 R32 K16 DB4 G40 W4 G/8</code></td><td>216</td><td>1994</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r2lb1r8k4db1g10w1g2/"><img src="/variants/s8/r2lb1r8k4db1g10w1g2~x4/sett.png" alt="Sawyer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

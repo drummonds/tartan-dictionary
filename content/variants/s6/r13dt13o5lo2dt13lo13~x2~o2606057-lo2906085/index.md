@@ -1,14 +1,16 @@
 ---
 title: "Torana"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Torana"
-  url: ""
+  url: "/setts/r13dt13o5lo2dt13lo13/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r13dt13o5lo2dt13lo13/)
-(the same proportion at any scale), whose colour order is pattern [RBRYBY](/stripes/rbryby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r13dt13o5lo2dt13lo13/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRYBY](/stripes/rbryby/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy1r7dy4g7dy1g1~x4/"><circle cx="230.3" cy="245.0" r="4" fill="#3465a4"><title>Dewar</title></circle></a><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="210.8" cy="238.2" r="4" fill="#3465a4"><title>MacKintosh-Geddes (Personal?)</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.5" cy="262.1" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.7" cy="299.7" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.5" cy="278.9" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="163.5" cy="257.3" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="285.3" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.9" cy="247.9" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><circle cx="198.7" cy="271.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy1r7dy4g7dy1g1~x4/"><circle cx="230.3" cy="245.0" r="4" fill="#3465a4"><title>Dewar</title></circle></a><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="210.8" cy="238.2" r="4" fill="#3465a4"><title>MacKintosh-Geddes (Personal?)</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.5" cy="262.1" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.7" cy="299.7" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.5" cy="278.9" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="163.5" cy="257.2" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="285.2" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.9" cy="247.8" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><circle cx="198.7" cy="271.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/

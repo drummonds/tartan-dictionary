@@ -1,16 +1,18 @@
 ---
 title: "Clunie (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clunie"
   url: "/tartans/clunie/"
 - name: "Clunie (Personal)"
-  url: ""
+  url: "/setts/w12db48k13n22k3y6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w12db48k13n22k3y6/)
-(the same proportion at any scale), whose colour order is pattern [GKBKBW](/stripes/gkbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w12db48k13n22k3y6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBKBW](/stripes/gkbkbw/).
 
 Part of the [Clunie](/tartans/clunie/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.8" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.8" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.8" cy="187.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.9" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.1" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.9" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.2" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><circle cx="192.8" cy="148.0" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/variants/s7/db3lb24k11db20w2db5y3~x2/"><circle cx="162.9" cy="166.5" r="4" fill="#3465a4"><title>Icelandair</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="179.0" cy="168.8" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><circle cx="189.4" cy="160.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.7" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.7" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.9" cy="187.1" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.8" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.0" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.8" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.1" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><circle cx="192.8" cy="147.9" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/variants/s7/db3lb24k11db20w2db5y3~x2/"><circle cx="162.9" cy="166.4" r="4" fill="#3465a4"><title>Icelandair</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="179.0" cy="168.7" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><circle cx="189.4" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w12db48k13n22k3y6/

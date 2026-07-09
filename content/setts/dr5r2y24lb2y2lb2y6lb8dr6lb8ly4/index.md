@@ -1,5 +1,12 @@
 ---
 title: "Tasmanian"
-redirect: "/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tasmanian](/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/).
+This is the **Tasmanian** sett — one scale-free proportion (`dr5r2y24lb2y2lb2y6lb8dr6lb8ly4`), colour order pattern
+[BRGWGWGWBWY](/stripes/brgwgwgwbwy/). It is recorded as a single **variant**, below.
+First attested **1988**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tasmanian](/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/) ★ | 1988 | ![Tasmanian sett](/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/sett.png) |

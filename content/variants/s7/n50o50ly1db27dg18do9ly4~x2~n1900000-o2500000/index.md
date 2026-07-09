@@ -1,14 +1,16 @@
 ---
 title: "Lachance (Commemorative)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lachance (Commemorative)"
-  url: ""
+  url: "/setts/n50o50ly1db27dg18do9ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n50o50ly1db27dg18do9ly4/)
-(the same proportion at any scale), whose colour order is pattern [BRYBGBY](/stripes/brybgby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n50o50ly1db27dg18do9ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRYBGBY](/stripes/brybgby/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="223.3" cy="149.8" r="4" fill="#3465a4"><title>Lachance (Canada) (Personal)</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="192.3" cy="192.3" r="4" fill="#3465a4"><title>Ontex</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.4" cy="219.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s5/lb30db1w4n10y18~x2/"><circle cx="281.1" cy="172.1" r="4" fill="#3465a4"><title>Alloway Primary School (Ayr)</title></circle></a><a href="/variants/s6/db74g54dr44w2dp15y10/"><circle cx="250.7" cy="172.4" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><circle cx="231.4" cy="140.4" r="4" fill="#3465a4"><title>George Heriot's School</title></circle></a><a href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2/"><circle cx="260.8" cy="168.6" r="4" fill="#3465a4"><title>Harding (Name)</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.3" cy="175.6" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><circle cx="270.1" cy="137.2" r="4" fill="#3465a4"><title>Norwegian Migration Period (Artefact</title></circle></a><circle cx="256.3" cy="154.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="223.3" cy="149.7" r="4" fill="#3465a4"><title>Lachance (Canada) (Personal)</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="192.4" cy="192.2" r="4" fill="#3465a4"><title>Ontex</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.5" cy="219.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s5/lb30db1w4n10y18~x2/"><circle cx="281.1" cy="172.0" r="4" fill="#3465a4"><title>Alloway Primary School (Ayr)</title></circle></a><a href="/variants/s6/db74g54dr44w2dp15y10/"><circle cx="250.7" cy="172.3" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><circle cx="231.4" cy="140.3" r="4" fill="#3465a4"><title>George Heriot's School</title></circle></a><a href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2/"><circle cx="260.9" cy="168.5" r="4" fill="#3465a4"><title>Harding (Name)</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.4" cy="175.5" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><circle cx="270.2" cy="137.1" r="4" fill="#3465a4"><title>Norwegian Migration Period (Artefact</title></circle></a><circle cx="256.4" cy="154.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n50o50ly1db27dg18do9ly4~x2~n1900000-o2500000/

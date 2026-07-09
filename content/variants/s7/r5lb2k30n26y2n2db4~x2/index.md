@@ -1,14 +1,16 @@
 ---
 title: "Milne-Murtaugh (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Milne-Murtaugh (Personal)"
-  url: ""
+  url: "/setts/r5lb2k30n26y2n2db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5lb2k30n26y2n2db4/)
-(the same proportion at any scale), whose colour order is pattern [BBGBKWR](/stripes/bbgbkwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r5lb2k30n26y2n2db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBKWR](/stripes/bbgbkwr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><circle cx="197.9" cy="126.7" r="4" fill="#3465a4"><title>Milne-Murtagh (2009)</title></circle></a><a href="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/"><circle cx="168.0" cy="116.4" r="4" fill="#3465a4"><title>Real Mary King's Close, The</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="182.6" cy="117.4" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.3" cy="112.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.5" cy="148.4" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="201.2" cy="125.0" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/k33y4w3db33r2g2~x2/"><circle cx="209.6" cy="127.5" r="4" fill="#3465a4"><title>Atlantic Police Academy (Corporate)</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.4" cy="120.8" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.6" cy="151.9" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.3" cy="169.1" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><circle cx="192.3" cy="124.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><circle cx="197.9" cy="126.6" r="4" fill="#3465a4"><title>Milne-Murtagh (2009)</title></circle></a><a href="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/"><circle cx="168.0" cy="116.2" r="4" fill="#3465a4"><title>Real Mary King's Close, The</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="182.6" cy="117.3" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.4" cy="112.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.6" cy="148.3" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="201.3" cy="124.9" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/k33y4w3db33r2g2~x2/"><circle cx="209.6" cy="127.4" r="4" fill="#3465a4"><title>Atlantic Police Academy (Corporate)</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.5" cy="120.7" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.7" cy="151.8" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.4" cy="169.0" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><circle cx="192.4" cy="124.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r5lb2k30n26y2n2db4~x2/

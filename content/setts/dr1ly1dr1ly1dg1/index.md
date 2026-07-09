@@ -1,5 +1,12 @@
 ---
 title: "Ballindalloch Check"
-redirect: "/variants/s5/dr1ly1dr1ly1dg1~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ballindalloch Check](/variants/s5/dr1ly1dr1ly1dg1~x8/).
+This is the **Ballindalloch Check** sett — one scale-free proportion (`dr1ly1dr1ly1dg1`), colour order pattern
+[BYBYG](/stripes/bybyg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Ballindalloch Check](/variants/s5/dr1ly1dr1ly1dg1~x8/) ★ | ~2016 | ![Ballindalloch Check sett](/variants/s5/dr1ly1dr1ly1dg1~x8/sett.png) |

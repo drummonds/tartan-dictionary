@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/setts/r13k2r3g10r5k3r3k12db2k3db2k3db12/">Bonnar (Name)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r13k2r3g10r5k3r3k12db2k3db2k3db12/"><img src="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/sett.png" alt="Bonnar (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/">Bonner, (Bonnar)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><img src="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/sett.png" alt="Bonner, (Bonnar) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/">Bonner (Bonnar) Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><img src="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/sett.png" alt="Bonner (Bonnar) Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

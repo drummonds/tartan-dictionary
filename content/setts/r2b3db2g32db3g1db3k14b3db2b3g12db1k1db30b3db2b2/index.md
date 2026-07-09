@@ -1,5 +1,12 @@
 ---
 title: "Cooper"
-redirect: "/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cooper](/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/).
+This is the **Cooper** sett — one scale-free proportion (`r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2`), colour order pattern
+[BBBBKBGBBBKBGBGBBR](/stripes/bbbbkbgbbbkbgbgbbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cooper](/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/) ★ | ~2016 | ![Cooper sett](/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Titanium"
-redirect: "/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Titanium](/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/).
+This is the **Titanium** sett — one scale-free proportion (`dt44y8dt8y22lb4y4lb11y2w2`), colour order pattern
+[BGBGWGWGW](/stripes/bgbgwgwgw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Titanium](/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/) ★ | 2013 | ![Titanium sett](/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/sett.png) |

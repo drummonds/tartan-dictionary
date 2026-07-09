@@ -1,14 +1,16 @@
 ---
 title: "MacKerrell, of Hillhouse hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKerrell, of Hillhouse hunting"
-  url: ""
+  url: "/setts/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4/)
-(the same proportion at any scale), whose colour order is pattern [BBGBBWBBRBBW](/stripes/bbgbbwbbrbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBBWBBRBBW](/stripes/bbgbbwbbrbbw/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><circle cx="382.6" cy="223.8" r="4" fill="#3465a4"><title>Brash</title></circle></a><a href="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/"><circle cx="306.2" cy="197.9" r="4" fill="#3465a4"><title>Ayre Robinson (Personal)</title></circle></a><circle cx="387.4" cy="191.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><circle cx="382.6" cy="223.7" r="4" fill="#3465a4"><title>Brash</title></circle></a><a href="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/"><circle cx="306.2" cy="197.8" r="4" fill="#3465a4"><title>Ayre Robinson (Personal)</title></circle></a><circle cx="387.4" cy="191.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/

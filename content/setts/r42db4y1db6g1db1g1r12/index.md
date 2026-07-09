@@ -1,5 +1,12 @@
 ---
-title: "Inverness Earl of"
-redirect: "/variants/s8/r42db4y1db6g1db1g1r12~x2/"
+title: "Inverness Earl of... District Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Inverness Earl of](/variants/s8/r42db4y1db6g1db1g1r12~x2/).
+This is the **Inverness Earl of... District Tartan** sett — one scale-free proportion (`r42db4y1db6g1db1g1r12`), colour order pattern
+[RBGBGBGR](/stripes/rbgbgbgr/). It is recorded as a single **variant**, below.
+First attested **1831**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Inverness Earl of... District Tartan](/variants/s8/r42db4y1db6g1db1g1r12~x2/) ★ | 1831 | ![Inverness Earl of... District Tartan sett](/variants/s8/r42db4y1db6g1db1g1r12~x2/sett.png) |

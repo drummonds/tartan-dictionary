@@ -165,7 +165,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Culloden Dress Ancient](/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/) | register-of-tartans |
+| 0.09 | [Culloden Dress Old Tartan](/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/) | house-of-tartan |
 
 ### RBGRGBGR
 <a class="pat" href="/stripes/rbgrgbgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBGRGBGR</span></a>
@@ -438,7 +438,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Ancient Caledonian Society](/variants/s8/r40g16y2k8lb4w1db5w2~x2/) | register-of-tartans |
+| 0.09 | [Caledonian Society Ancient Artifact Tartan](/variants/s8/r40g16y2k8lb4w1db5w2~x2/) | house-of-tartan |
 
 ### RGGRGWGR
 <a class="pat" href="/stripes/rggrgwgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGGRGWGR</span></a>
@@ -501,7 +501,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Gigha Lilac](/variants/s8/r4w2r1w18dp18o18g3o4~x2/) | register-of-tartans |
+| 0.09 | [Gigha Lilac Fashion Tartan](/variants/s8/r4w2r1w18dp18o18g3o4~x2/) | house-of-tartan |
 
 ### RGRGBBBW
 <a class="pat" href="/stripes/rgrgbbbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGRGBBBW</span></a>
@@ -669,7 +669,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Hislop hunting](/variants/s8/r2k8y1k8g8db8k2w2~x2/) | weddslist |
+| 0.07 | [Hislop Family Tartan](/variants/s8/r2k8y1k8g8db8k2w2~x2/) | house-of-tartan |
 
 ### RKGKGBYR
 <a class="pat" href="/stripes/rkgkgbyr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">RKGKGBYR</span></a>
@@ -837,7 +837,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Spens](/variants/s8/r56w2db6w2g32r11db6w5/) | weddslist |
+| 0.06 | [Spens Family Tartan](/variants/s8/r56w2db6w2g32r11db6w5/) | house-of-tartan |
 
 ### RWBWKGKY
 <a class="pat" href="/stripes/rwbwkgky/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RWBWKGKY</span></a>
@@ -858,7 +858,7 @@ weight: 8
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [St. Piran Dress](/variants/s8/r4w19dg2w8dg2w8k38w4~x2/) | register-of-tartans |
+| 0.04 | [St Piran Dress District Tartan](/variants/s8/r4w19dg2w8dg2w8k38w4~x2/) | house-of-tartan |
 
 ### RWRGBKBY
 <a class="pat" href="/stripes/rwrgbkby/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RWRGBKBY</span></a>

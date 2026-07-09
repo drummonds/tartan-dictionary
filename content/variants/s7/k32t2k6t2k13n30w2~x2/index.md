@@ -1,14 +1,16 @@
 ---
 title: "Mountain Rescue Association Honor Guard"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mountain Rescue Association Honor Guard"
-  url: ""
+  url: "/setts/k32t2k6t2k13n30w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k32t2k6t2k13n30w2/)
-(the same proportion at any scale), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k32t2k6t2k13n30w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="159.3" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.5" cy="151.4" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s5/k3w2n27k31lp3~x2/"><circle cx="276.8" cy="169.1" r="4" fill="#3465a4"><title>Kelley Oliphint (Commemorative)</title></circle></a><a href="/variants/s5/k3w2n27k31o3~x2/"><circle cx="271.8" cy="164.3" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.8" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.3" cy="197.8" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s8/k76db11k3y6k3db13k11n76/"><circle cx="271.6" cy="122.4" r="4" fill="#3465a4"><title>Kunbi</title></circle></a><a href="/variants/s6/o4k28t3k3t25k3~x2/"><circle cx="267.0" cy="190.2" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><circle cx="304.4" cy="153.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="159.2" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.6" cy="151.3" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.0" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s5/k3w2n27k31lp3~x2/"><circle cx="276.8" cy="169.0" r="4" fill="#3465a4"><title>Kelley Oliphint (Commemorative)</title></circle></a><a href="/variants/s5/k3w2n27k31o3~x2/"><circle cx="271.8" cy="164.2" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.7" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.4" cy="197.7" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.6" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s8/k76db11k3y6k3db13k11n76/"><circle cx="271.6" cy="122.2" r="4" fill="#3465a4"><title>Kunbi</title></circle></a><a href="/variants/s6/o4k28t3k3t25k3~x2/"><circle cx="267.0" cy="190.1" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><circle cx="304.4" cy="152.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k32t2k6t2k13n30w2~x2/

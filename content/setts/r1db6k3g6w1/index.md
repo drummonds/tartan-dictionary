@@ -2,15 +2,15 @@
 title: "Davidson of Tulloch"
 date: 2023-03-18
 ---
-The **Davidson of Tulloch** tartan is one sett proportion (`r1db6k3g6w1`) recorded at 3 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[RBKGW](/stripes/rbkgw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Davidson of Tulloch** sett — one scale-free proportion (`r1db6k3g6w1`), colour order pattern
+[RBKGW](/stripes/rbkgw/). It is recorded as **3 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [Davidson of Tulloch](/tartans/davidson-of-tulloch/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Davidson of Tulloch](/tartans/davidson-of-tulloch/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [Davidson of Tulloch](/variants/s5/r1db6k3g6w1/) ★ | ~2016 | ![Davidson of Tulloch sett](/variants/s5/r1db6k3g6w1/sett.png) |
 | ×2 | [Davidson of Tulloch](/variants/s5/r1db6k3g6w1~x2/) | ~2016 | ![Davidson of Tulloch sett](/variants/s5/r1db6k3g6w1~x2/sett.png) |

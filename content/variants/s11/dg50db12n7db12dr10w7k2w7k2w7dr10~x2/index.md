@@ -1,14 +1,16 @@
 ---
 title: "Norham and Ladykirk"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Norham and Ladykirk"
-  url: ""
+  url: "/setts/dg50db12n7db12dr10w7k2w7k2w7dr10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg50db12n7db12dr10w7k2w7k2w7dr10/)
-(the same proportion at any scale), whose colour order is pattern [BWKWKWBBBBG](/stripes/bwkwkwbbbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg50db12n7db12dr10w7k2w7k2w7dr10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWKWBBBBG](/stripes/bwkwkwbbbbg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr2db24lb6k6g6ly4g2ly2g2ly1~x2/"><circle cx="166.6" cy="92.3" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.0" cy="114.4" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/"><circle cx="141.6" cy="114.8" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><a href="/variants/s10/r3db36w10k8g13y6g3y3g3y1~x2/"><circle cx="169.0" cy="78.9" r="4" fill="#3465a4"><title>Crookdake Cheng</title></circle></a><a href="/variants/s10/dr3db36w10k8g13y6g3y3g3y1~x2/"><circle cx="169.7" cy="79.6" r="4" fill="#3465a4"><title>Crookdake Cheng Family Tartan</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.5" cy="115.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.5" cy="97.1" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.6" cy="93.7" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/variants/s12/db4lb1db2lb16y2k8y2g16k1db24k1w4~x2/"><circle cx="125.2" cy="90.4" r="4" fill="#3465a4"><title>Tanzania</title></circle></a><a href="/variants/s8/dp8n44k32lp2o53lb8n8lb4~n1900000-o2500000/"><circle cx="154.6" cy="119.9" r="4" fill="#3465a4"><title>Silver Wedding (Fashion)</title></circle></a><circle cx="161.5" cy="99.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr2db24lb6k6g6ly4g2ly2g2ly1~x2/"><circle cx="166.6" cy="92.2" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.0" cy="114.3" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/"><circle cx="141.6" cy="114.7" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><a href="/variants/s10/r3db36w10k8g13y6g3y3g3y1~x2/"><circle cx="169.0" cy="78.7" r="4" fill="#3465a4"><title>Crookdake Cheng</title></circle></a><a href="/variants/s10/dr3db36w10k8g13y6g3y3g3y1~x2/"><circle cx="169.7" cy="79.4" r="4" fill="#3465a4"><title>Crookdake Cheng Family Tartan</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.6" cy="115.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.6" cy="96.9" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.6" cy="93.5" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/variants/s12/db4lb1db2lb16y2k8y2g16k1db24k1w4~x2/"><circle cx="125.2" cy="90.3" r="4" fill="#3465a4"><title>Tanzania</title></circle></a><a href="/variants/s8/dp8n44k32lp2o53lb8n8lb4~n1900000-o2500000/"><circle cx="154.7" cy="119.8" r="4" fill="#3465a4"><title>Silver Wedding (Fashion)</title></circle></a><circle cx="161.5" cy="98.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/

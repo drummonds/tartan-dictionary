@@ -1,16 +1,18 @@
 ---
 title: "Binder Wedding (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Binder Wedding"
   url: "/tartans/binder-wedding/"
 - name: "Binder Wedding (Personal)"
-  url: ""
+  url: "/setts/g1b1k1b30k30w2b5lo1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1b1k1b30k30w2b5lo1/)
-(the same proportion at any scale), whose colour order is pattern [GBKBKWBY](/stripes/gbkbkwby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g1b1k1b30k30w2b5lo1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBKWBY](/stripes/gbkbkwby/).
 
 Part of the [Binder Wedding](/tartans/binder-wedding/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/"><circle cx="310.8" cy="95.4" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="250.3" cy="90.2" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.6" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s6/r1t1k17t17k1w1~x4/"><circle cx="269.6" cy="147.0" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.0" cy="94.6" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="269.8" cy="86.6" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.4" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="118.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="294.4" cy="99.7" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><circle cx="281.7" cy="80.5" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><circle cx="284.8" cy="88.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/"><circle cx="310.8" cy="95.3" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="250.3" cy="90.0" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.5" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s6/r1t1k17t17k1w1~x4/"><circle cx="269.6" cy="146.9" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.0" cy="94.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="269.9" cy="86.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.2" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="117.9" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="294.4" cy="99.5" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><circle cx="281.7" cy="80.4" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><circle cx="284.8" cy="88.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g1b1k1b30k30w2b5lo1~x2/

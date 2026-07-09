@@ -1,14 +1,16 @@
 ---
 title: "Southwell (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Southwell (Personal)"
-  url: ""
+  url: "/setts/dg39r2w1r2db14w14dg2g10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg39r2w1r2db14w14dg2g10/)
-(the same proportion at any scale), whose colour order is pattern [GGWBRWRGRWRBWG](/stripes/ggwbrwrgrwrbwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg39r2w1r2db14w14dg2g10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGWBRWRGRWRBWG](/stripes/ggwbrwrgrwrbwg/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb13dg16r5w5r5dg34lb21g13r3w2r1g9~x2/"><circle cx="194.9" cy="126.8" r="4" fill="#3465a4"><title>SYHA Hostelling Scotland</title></circle></a><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/"><circle cx="259.5" cy="118.3" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.8" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.4" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085/"><circle cx="133.7" cy="93.3" r="4" fill="#3465a4"><title>Anstey in New Scotland (Personal)</title></circle></a><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4/"><circle cx="134.3" cy="93.4" r="4" fill="#3465a4"><title>Anstey (Personal)</title></circle></a><a href="/variants/s19/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12~x2/"><circle cx="216.0" cy="96.5" r="4" fill="#3465a4"><title>O'Kelly Family (Personal)</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.4" cy="72.9" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/"><circle cx="180.4" cy="90.2" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.6" r="4" fill="#3465a4"><title>Currie</title></circle></a><circle cx="183.6" cy="90.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb13dg16r5w5r5dg34lb21g13r3w2r1g9~x2/"><circle cx="194.9" cy="126.7" r="4" fill="#3465a4"><title>SYHA Hostelling Scotland</title></circle></a><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/"><circle cx="259.6" cy="118.2" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.6" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.3" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085/"><circle cx="133.7" cy="93.1" r="4" fill="#3465a4"><title>Anstey in New Scotland (Personal)</title></circle></a><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4/"><circle cx="134.3" cy="93.2" r="4" fill="#3465a4"><title>Anstey (Personal)</title></circle></a><a href="/variants/s19/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12~x2/"><circle cx="216.0" cy="96.3" r="4" fill="#3465a4"><title>O'Kelly Family (Personal)</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.3" cy="72.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/"><circle cx="180.4" cy="90.0" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.5" r="4" fill="#3465a4"><title>Currie</title></circle></a><circle cx="183.6" cy="90.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/

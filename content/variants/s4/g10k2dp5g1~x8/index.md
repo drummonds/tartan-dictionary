@@ -1,14 +1,16 @@
 ---
 title: "Bumbee #1 (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bumbee #1 (Fashion)"
-  url: ""
+  url: "/setts/g10k2dp5g1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10k2dp5g1/)
-(the same proportion at any scale), whose colour order is pattern [GBKG](/stripes/gbkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g10k2dp5g1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKG](/stripes/gbkg/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="349.6" cy="224.2" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s3/g12k4g1~x2/"><circle cx="344.6" cy="233.9" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s3/g30k20g3~x2/"><circle cx="336.9" cy="267.2" r="4" fill="#3465a4"><title>Scotch Tape (Corporate)</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.7" cy="225.8" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/"><circle cx="371.6" cy="231.0" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2/"><circle cx="377.4" cy="233.0" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="343.6" cy="267.8" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s5/g7db1g2k3g2~x4/"><circle cx="366.3" cy="243.9" r="4" fill="#3465a4"><title>Peterhead</title></circle></a><a href="/variants/s5/g3dr1k14g14lo1~x4/"><circle cx="263.4" cy="181.6" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.2" cy="223.6" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><circle cx="323.5" cy="233.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="349.6" cy="224.2" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s3/g12k4g1~x2/"><circle cx="344.6" cy="233.9" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s3/g30k20g3~x2/"><circle cx="336.9" cy="267.2" r="4" fill="#3465a4"><title>Scotch Tape (Corporate)</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.7" cy="225.7" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/"><circle cx="371.7" cy="230.9" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2/"><circle cx="377.5" cy="233.0" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="343.6" cy="267.8" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s5/g7db1g2k3g2~x4/"><circle cx="366.3" cy="243.8" r="4" fill="#3465a4"><title>Peterhead</title></circle></a><a href="/variants/s5/g3dr1k14g14lo1~x4/"><circle cx="263.4" cy="181.5" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.2" cy="223.6" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><circle cx="323.6" cy="233.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/g10k2dp5g1~x8/

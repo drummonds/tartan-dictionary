@@ -2,16 +2,16 @@
 title: "Abercrombie"
 date: 2023-03-18
 ---
-The **Abercrombie** tartan is one sett proportion (`g14w1g7k7db2k2db2k2db7`) recorded at 3 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKBKGWG](/stripes/bkbkbkgwg/); each scale below is its own sett page. First attested **1805**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Abercrombie** sett — one scale-free proportion (`g14w1g7k7db2k2db2k2db7`), colour order pattern
+[BKBKBKGWG](/stripes/bkbkbkgwg/). It is recorded as **3 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1805**.
 
-Part of the [Abercrombie](/tartans/abercrombie/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Abercrombie](/tartans/abercrombie/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Abercrombie](/variants/s9/g14w1g7k7db2k2db2k2db7~x4/) ★ | 1805 | ![Abercrombie sett](/variants/s9/g14w1g7k7db2k2db2k2db7~x4/sett.png) |
 | ×1 | [Abercrombie](/variants/s9/g14w1g7k7db2k2db2k2db7/) | ~2016 | ![Abercrombie sett](/variants/s9/g14w1g7k7db2k2db2k2db7/sett.png) |
-| ×2 | [Abercrombie](/variants/s9/g14w1g7k7db2k2db2k2db7~x2/) | ~2016 | ![Abercrombie sett](/variants/s9/g14w1g7k7db2k2db2k2db7~x2/sett.png) |
+| ×2 | [Abercrombie Family Tartan](/variants/s9/g14w1g7k7db2k2db2k2db7~x2/) | 1831 | ![Abercrombie Family Tartan sett](/variants/s9/g14w1g7k7db2k2db2k2db7~x2/sett.png) |

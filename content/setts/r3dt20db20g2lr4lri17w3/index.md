@@ -1,5 +1,12 @@
 ---
 title: "Silversea"
-redirect: "/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Silversea](/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/).
+This is the **Silversea** sett — one scale-free proportion (`r3dt20db20g2lr4lri17w3`), colour order pattern
+[RBBGYYW](/stripes/rbbgyyw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Silversea](/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/) ★ | 2004 | ![Silversea sett](/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/sett.png) |

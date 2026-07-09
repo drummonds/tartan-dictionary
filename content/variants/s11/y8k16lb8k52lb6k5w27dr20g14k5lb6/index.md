@@ -1,14 +1,16 @@
 ---
 title: "Sligo County, Crest Range"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sligo County, Crest Range"
-  url: ""
+  url: "/setts/y8k16lb8k52lb6k5w27dr20g14k5lb6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y8k16lb8k52lb6k5w27dr20g14k5lb6/)
-(the same proportion at any scale), whose colour order is pattern [GKWKWKWBGKW](/stripes/gkwkwkwbgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y8k16lb8k52lb6k5w27dr20g14k5lb6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWKWKWBGKW](/stripes/gkwkwkwbgkw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/"><circle cx="118.6" cy="127.6" r="4" fill="#3465a4"><title>Sligo County Crest (Fashion)</title></circle></a><a href="/variants/s11/ly9k8ly30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><circle cx="132.0" cy="114.7" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.3" cy="112.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s12/dr4k2g13dy3k22dr2k2w13k7dr3k7w4~x2/"><circle cx="151.1" cy="137.6" r="4" fill="#3465a4"><title>Tyrone County, Crest Range</title></circle></a><a href="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/"><circle cx="151.1" cy="138.2" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><a href="/variants/s11/r2k8y2k7y1k1w3k2g9db8r2~x2/"><circle cx="77.8" cy="149.0" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/"><circle cx="155.5" cy="97.7" r="4" fill="#3465a4"><title>Bird Family (Personal)</title></circle></a><a href="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/"><circle cx="148.2" cy="126.1" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><circle cx="126.3" cy="140.6" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.5" cy="126.5" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><circle cx="119.1" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/"><circle cx="118.6" cy="127.5" r="4" fill="#3465a4"><title>Sligo County Crest (Fashion)</title></circle></a><a href="/variants/s11/ly9k8ly30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><circle cx="132.0" cy="114.6" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.4" cy="112.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s12/dr4k2g13dy3k22dr2k2w13k7dr3k7w4~x2/"><circle cx="151.2" cy="137.5" r="4" fill="#3465a4"><title>Tyrone County, Crest Range</title></circle></a><a href="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/"><circle cx="151.1" cy="138.1" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><a href="/variants/s11/r2k8y2k7y1k1w3k2g9db8r2~x2/"><circle cx="77.9" cy="148.9" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/"><circle cx="155.5" cy="97.5" r="4" fill="#3465a4"><title>Bird Family (Personal)</title></circle></a><a href="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/"><circle cx="148.2" cy="126.0" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><circle cx="126.3" cy="140.5" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.5" cy="126.4" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><circle cx="119.1" cy="128.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y8k16lb8k52lb6k5w27dr20g14k5lb6/

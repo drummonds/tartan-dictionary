@@ -1,14 +1,16 @@
 ---
 title: "Wallace Memorial Centenary"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wallace Memorial Centenary"
-  url: ""
+  url: "/setts/dr1r12dg1n9dy1db12lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr1r12dg1n9dy1db12lb1/)
-(the same proportion at any scale), whose colour order is pattern [BRGBGBW](/stripes/brgbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr1r12dg1n9dy1db12lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGBGBW](/stripes/brgbgbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="145.9" cy="189.9" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s7/dbi8y4w2db25dy25dbii2r5~x2~dbi1404245-db1106275-dbii1406275/"><circle cx="201.9" cy="169.1" r="4" fill="#3465a4"><title>Kildrummie (Name)</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="127.3" cy="206.7" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/"><circle cx="181.3" cy="144.4" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/"><circle cx="134.4" cy="154.9" r="4" fill="#3465a4"><title>Meath</title></circle></a><a href="/variants/s7/r24w3y4dg18dp18dy3lb4~x2~dg1104144-dy1703114/"><circle cx="124.0" cy="183.2" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/variants/s5/db15r2ri15t6lb1~x2~ri2109032-t2205244/"><circle cx="234.1" cy="196.4" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="192.3" cy="192.3" r="4" fill="#3465a4"><title>Ontex</title></circle></a><a href="/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/"><circle cx="220.0" cy="168.5" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><circle cx="178.6" cy="159.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="146.0" cy="189.8" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s7/dbi8y4w2db25dy25dbii2r5~x2~dbi1404245-db1106275-dbii1406275/"><circle cx="202.0" cy="169.0" r="4" fill="#3465a4"><title>Kildrummie (Name)</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="127.4" cy="206.7" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/"><circle cx="181.3" cy="144.3" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/"><circle cx="134.5" cy="154.8" r="4" fill="#3465a4"><title>Meath</title></circle></a><a href="/variants/s7/r24w3y4dg18dp18dy3lb4~x2~dg1104144-dy1703114/"><circle cx="124.1" cy="183.1" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/variants/s5/db15r2ri15t6lb1~x2~ri2109032-t2205244/"><circle cx="234.2" cy="196.4" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="192.4" cy="192.2" r="4" fill="#3465a4"><title>Ontex</title></circle></a><a href="/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/"><circle cx="220.0" cy="168.4" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><circle cx="178.6" cy="159.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr1r12dg1n9dy1db12lb1~x4/

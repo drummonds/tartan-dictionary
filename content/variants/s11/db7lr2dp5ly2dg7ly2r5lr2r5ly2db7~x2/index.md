@@ -1,14 +1,16 @@
 ---
 title: "Unnamed C19th (Silk Sash)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unnamed C19th (Silk Sash)"
-  url: ""
+  url: "/setts/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7/)
-(the same proportion at any scale), whose colour order is pattern [BYBYGYRYRYB](/stripes/bybygyryryb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBYGYRYRYB](/stripes/bybygyryryb/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/"><circle cx="29.5" cy="226.0" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/"><circle cx="46.8" cy="238.0" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><circle cx="108.2" cy="201.6" r="4" fill="#3465a4"><title>Sustainability (Fashion)</title></circle></a><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/"><circle cx="102.0" cy="220.5" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/variants/s9/lb3g6lb1db1dr5db2r5db1lb3~x4/"><circle cx="80.3" cy="229.7" r="4" fill="#3465a4"><title>Wombles 7 (Corporate)</title></circle></a><a href="/variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi3203246-lb3200000/"><circle cx="42.7" cy="226.2" r="4" fill="#3465a4"><title>DunBroch (Corporate)</title></circle></a><a href="/variants/s8/dr12r4dr4r4dr4db11dg12lb4~x2/"><circle cx="140.8" cy="274.6" r="4" fill="#3465a4"><title>Akins Clan Tartan</title></circle></a><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/"><circle cx="49.4" cy="251.7" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/variants/s6/dt3db5n2dg5r11w3~x4/"><circle cx="111.0" cy="224.6" r="4" fill="#3465a4"><title>Nicolson of Lewis (Clan?)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="44.9" cy="236.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/"><circle cx="29.5" cy="225.9" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/"><circle cx="46.8" cy="238.0" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><circle cx="108.3" cy="201.5" r="4" fill="#3465a4"><title>Sustainability (Fashion)</title></circle></a><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/"><circle cx="102.0" cy="220.5" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/variants/s9/lb3g6lb1db1dr5db2r5db1lb3~x4/"><circle cx="80.3" cy="229.7" r="4" fill="#3465a4"><title>Wombles 7 (Corporate)</title></circle></a><a href="/variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi3203246-lb3200000/"><circle cx="42.7" cy="226.2" r="4" fill="#3465a4"><title>DunBroch (Corporate)</title></circle></a><a href="/variants/s8/dr12r4dr4r4dr4db11dg12lb4~x2/"><circle cx="140.8" cy="274.6" r="4" fill="#3465a4"><title>Akins Clan Tartan</title></circle></a><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/"><circle cx="49.4" cy="251.7" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/variants/s6/dt3db5n2dg5r11w3~x4/"><circle cx="111.1" cy="224.5" r="4" fill="#3465a4"><title>Nicolson of Lewis (Clan?)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="44.9" cy="236.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/

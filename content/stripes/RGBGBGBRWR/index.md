@@ -30,12 +30,12 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/setts/r6w1r24db6g2db1g2db1g12r1/">Chisholm</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r6w1r24db6g2db1g2db1g12r1/"><img src="/variants/s10/r6w1r24db6g2db1g2db1g12r1/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/">Chisholm Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><img src="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/sett.png" alt="Chisholm Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/">Chisholm Hunting (HSL) Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><img src="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/sett.png" alt="Chisholm Hunting (HSL) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/">Chisholm of Strathglass</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><img src="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/sett.png" alt="Chisholm of Strathglass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/">Chisholm of Strathglass</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><img src="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/sett.png" alt="Chisholm of Strathglass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/">Chisholm of Strathglass Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><img src="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/sett.png" alt="Chisholm of Strathglass Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/setts/r6w1r24dr6g2dr1g2dr1g12r1/">Chisholm D</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r6w1r24dr6g2dr1g2dr1g12r1/"><img src="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/sett.png" alt="Chisholm D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

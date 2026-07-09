@@ -1,5 +1,12 @@
 ---
 title: "Caledon (Corporate)"
-redirect: "/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Caledon (Corporate)](/variants/s9/db8w3db25k3db4k8r31y2r5~x2/).
+This is the **Caledon (Corporate)** sett — one scale-free proportion (`db8w3db25k3db4k8r31y2r5`), colour order pattern
+[BWBKBKRGR](/stripes/bwbkbkrgr/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Caledon (Corporate)](/variants/s9/db8w3db25k3db4k8r31y2r5~x2/) ★ | 2007 | ![Caledon (Corporate) sett](/variants/s9/db8w3db25k3db4k8r31y2r5~x2/sett.png) |

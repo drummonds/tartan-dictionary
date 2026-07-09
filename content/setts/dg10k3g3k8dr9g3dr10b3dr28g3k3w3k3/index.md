@@ -1,5 +1,12 @@
 ---
 title: "Clifford"
-redirect: "/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Clifford](/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/).
+This is the **Clifford** sett — one scale-free proportion (`dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3`), colour order pattern
+[GKGKBGBBBGKWK](/stripes/gkgkbgbbbgkwk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Clifford](/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/) ★ | ~2016 | ![Clifford sett](/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/sett.png) |

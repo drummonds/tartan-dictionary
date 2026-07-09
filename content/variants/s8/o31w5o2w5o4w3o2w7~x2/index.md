@@ -1,14 +1,16 @@
 ---
 title: "Menzies, Brown & White"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Menzies, Brown & White"
-  url: ""
+  url: "/setts/o31w5o2w5o4w3o2w7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o31w5o2w5o4w3o2w7/)
-(the same proportion at any scale), whose colour order is pattern [RWRWRWRW](/stripes/rwrwrwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o31w5o2w5o4w3o2w7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWRWRWRW](/stripes/rwrwrwrw/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><circle cx="462.5" cy="164.4" r="4" fill="#3465a4"><title>Walk the Walk (Corporate)</title></circle></a><a href="/variants/s6/lo4k6lo1k1lo16k2~x2/"><circle cx="406.5" cy="173.6" r="4" fill="#3465a4"><title>Monoch Airline</title></circle></a><a href="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/"><circle cx="394.1" cy="156.4" r="4" fill="#3465a4"><title>Schranz-Gritte</title></circle></a><a href="/variants/s6/o3w17o11w2o11w2~x4/"><circle cx="357.0" cy="257.1" r="4" fill="#3465a4"><title>Fallow Deer, The</title></circle></a><a href="/variants/s5/o38w9o3do9w3~x2/"><circle cx="413.1" cy="204.6" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s6/lo24k5lo4k2lo3k2~x2/"><circle cx="456.0" cy="175.4" r="4" fill="#3465a4"><title>Schranz-Gritte (Corporate)</title></circle></a><circle cx="454.6" cy="184.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><circle cx="462.5" cy="164.3" r="4" fill="#3465a4"><title>Walk the Walk (Corporate)</title></circle></a><a href="/variants/s6/lo4k6lo1k1lo16k2~x2/"><circle cx="406.5" cy="173.5" r="4" fill="#3465a4"><title>Monoch Airline</title></circle></a><a href="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/"><circle cx="394.1" cy="156.3" r="4" fill="#3465a4"><title>Schranz-Gritte</title></circle></a><a href="/variants/s6/o3w17o11w2o11w2~x4/"><circle cx="357.0" cy="257.1" r="4" fill="#3465a4"><title>Fallow Deer, The</title></circle></a><a href="/variants/s5/o38w9o3do9w3~x2/"><circle cx="413.1" cy="204.5" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s6/lo24k5lo4k2lo3k2~x2/"><circle cx="456.0" cy="175.3" r="4" fill="#3465a4"><title>Schranz-Gritte (Corporate)</title></circle></a><circle cx="454.6" cy="184.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/o31w5o2w5o4w3o2w7~x2/

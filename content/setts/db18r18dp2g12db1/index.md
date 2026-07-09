@@ -1,5 +1,12 @@
 ---
 title: "Wyeth (Personal)"
-redirect: "/variants/s5/db18r18dp2g12db1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wyeth (Personal)](/variants/s5/db18r18dp2g12db1~x4/).
+This is the **Wyeth (Personal)** sett — one scale-free proportion (`db18r18dp2g12db1`), colour order pattern
+[BRBGBGBR](/stripes/brbgbgbr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wyeth (Personal)](/variants/s5/db18r18dp2g12db1~x4/) ★ | 2003 | ![Wyeth (Personal) sett](/variants/s5/db18r18dp2g12db1~x4/sett.png) |

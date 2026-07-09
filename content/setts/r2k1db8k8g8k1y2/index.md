@@ -1,5 +1,12 @@
 ---
 title: "Campbell of Cawdor Clan Tartan"
-redirect: "/variants/s7/r2k1db8k8g8k1y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Campbell of Cawdor Clan Tartan](/variants/s7/r2k1db8k8g8k1y2~x2/).
+This is the **Campbell of Cawdor Clan Tartan** sett — one scale-free proportion (`r2k1db8k8g8k1y2`), colour order pattern
+[GKGKBKR](/stripes/gkgkbkr/). It is recorded as a single **variant**, below.
+First attested **1798**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Campbell of Cawdor Clan Tartan](/variants/s7/r2k1db8k8g8k1y2~x2/) ★ | 1798 | ![Campbell of Cawdor Clan Tartan sett](/variants/s7/r2k1db8k8g8k1y2~x2/sett.png) |

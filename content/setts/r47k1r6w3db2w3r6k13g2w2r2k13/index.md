@@ -1,5 +1,12 @@
 ---
 title: "Trevison"
-redirect: "/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Trevison](/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/).
+This is the **Trevison** sett — one scale-free proportion (`r47k1r6w3db2w3r6k13g2w2r2k13`), colour order pattern
+[KRWGKRWBWRKR](/stripes/krwgkrwbwrkr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Trevison](/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/) ★ | 2003 | ![Trevison sett](/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/sett.png) |

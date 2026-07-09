@@ -1,14 +1,16 @@
 ---
 title: "Londonderry, County"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Londonderry, County"
-  url: ""
+  url: "/setts/o6k2dg12ly8o5k2dg3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o6k2dg12ly8o5k2dg3/)
-(the same proportion at any scale), whose colour order is pattern [GKRYGKR](/stripes/gkrygkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o6k2dg12ly8o5k2dg3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRYGKR](/stripes/gkrygkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.7" cy="241.8" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="74.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.3" cy="219.0" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="91.8" cy="208.2" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><circle cx="135.7" cy="228.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.7" cy="241.7" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="74.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.4" cy="219.0" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="91.8" cy="208.1" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><circle cx="135.7" cy="228.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/o6k2dg12ly8o5k2dg3~x4/

@@ -1,16 +1,18 @@
 ---
 title: "Wilson's No.033 #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.033"
   url: "/tartans/wilson-s-no-033/"
 - name: "Wilson's No.033 #2"
-  url: ""
+  url: "/setts/g17lb3r3lb3k19w2g17r4g17w2k19lb3r3lb3g17db8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g17lb3r3lb3k19w2g17r4g17w2k19lb3r3lb3g17db8/)
-(the same proportion at any scale), whose colour order is pattern [BGWRWKWGRGWKWRWG](/stripes/bgwrwkwgrgwkwrwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g17lb3r3lb3k19w2g17r4g17w2k19lb3r3lb3g17db8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWRWKWGRGWKWRWG](/stripes/bgwrwkwgrgwkwrwg/).
 
 Part of the [Wilson's No.033](/tartans/wilson-s-no-033/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/g17lb3r3lb3k19y2g17r4g17y2k19lb3r3lb3g17db8~x2/"><circle cx="133.5" cy="133.4" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19w2g17r4~x2/"><circle cx="149.4" cy="156.3" r="4" fill="#3465a4"><title>Wilson's, No 2/33</title></circle></a><a href="/variants/s9/dg16g2dp13lb2k6ly2dg16lb2k12~x2~dg1806142-g1903114-ly3307090/"><circle cx="119.2" cy="147.1" r="4" fill="#3465a4"><title>Wilson's No.225</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="99.9" cy="136.5" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s12/g30w3g4y5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.2" cy="137.0" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/"><circle cx="110.8" cy="152.6" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/variants/s16/g5k24g12k16g26w4g24w4g26k16db4k4db4k4dbi28g3~db1404245-dbi1406275/"><circle cx="145.2" cy="153.0" r="4" fill="#3465a4"><title>O'Conner Irish Family Tartan</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.5" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><circle cx="139.8" cy="138.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/g17lb3r3lb3k19y2g17r4g17y2k19lb3r3lb3g17db8~x2/"><circle cx="133.5" cy="133.3" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19w2g17r4~x2/"><circle cx="149.4" cy="156.2" r="4" fill="#3465a4"><title>Wilson's, No 2/33</title></circle></a><a href="/variants/s9/dg16g2dp13lb2k6ly2dg16lb2k12~x2~dg1806142-g1903114-ly3307090/"><circle cx="119.2" cy="147.0" r="4" fill="#3465a4"><title>Wilson's No.225</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.1" cy="149.6" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.1" cy="149.6" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="99.9" cy="136.4" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s12/g30w3g4y5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.2" cy="136.9" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/"><circle cx="110.8" cy="152.5" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/variants/s16/g5k24g12k16g26w4g24w4g26k16db4k4db4k4dbi28g3~db1404245-dbi1406275/"><circle cx="145.2" cy="152.8" r="4" fill="#3465a4"><title>O'Conner Irish Family Tartan</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.4" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><circle cx="139.8" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/g17lb3r3lb3k19w2g17r4g17w2k19lb3r3lb3g17db8~x2/

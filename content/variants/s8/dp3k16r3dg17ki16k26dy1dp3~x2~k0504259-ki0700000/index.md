@@ -1,14 +1,16 @@
 ---
 title: "Barton-Watson de Bavidge (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Barton-Watson de Bavidge (Personal)"
-  url: ""
+  url: "/setts/dp3k16r3dg17ki16k26dy1dp3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3k16r3dg17ki16k26dy1dp3/)
-(the same proportion at any scale), whose colour order is pattern [BGKKGRKB](/stripes/bgkkgrkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp3k16r3dg17ki16k26dy1dp3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKKGRKB](/stripes/bgkkgrkb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp3ki16r3dg17k16ki26y1dp3~x2~ki0604259/"><circle cx="284.8" cy="146.5" r="4" fill="#3465a4"><title>Barton-Watson, de</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.2" cy="150.3" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/"><circle cx="251.4" cy="142.5" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/"><circle cx="281.3" cy="231.6" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.7" cy="226.1" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.4" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.6" cy="171.2" r="4" fill="#3465a4"><title>Laurie</title></circle></a><circle cx="343.0" cy="168.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp3ki16r3dg17k16ki26y1dp3~x2~ki0604259/"><circle cx="284.9" cy="146.4" r="4" fill="#3465a4"><title>Barton-Watson, de</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.3" cy="150.2" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/"><circle cx="251.5" cy="142.3" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/"><circle cx="281.3" cy="231.6" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.8" cy="226.0" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.3" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.1" r="4" fill="#3465a4"><title>Laurie</title></circle></a><circle cx="343.1" cy="168.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dp3k16r3dg17ki16k26dy1dp3~x2~k0504259-ki0700000/

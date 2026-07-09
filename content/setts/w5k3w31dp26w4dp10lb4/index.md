@@ -1,5 +1,12 @@
 ---
 title: "MacPherson Dress Purple"
-redirect: "/variants/s7/w5k3w31dp26w4dp10lb4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacPherson Dress Purple](/variants/s7/w5k3w31dp26w4dp10lb4~x2/).
+This is the **MacPherson Dress Purple** sett — one scale-free proportion (`w5k3w31dp26w4dp10lb4`), colour order pattern
+[WBWBWKW](/stripes/wbwbwkw/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacPherson Dress Purple](/variants/s7/w5k3w31dp26w4dp10lb4~x2/) ★ | 1980 | ![MacPherson Dress Purple sett](/variants/s7/w5k3w31dp26w4dp10lb4~x2/sett.png) |

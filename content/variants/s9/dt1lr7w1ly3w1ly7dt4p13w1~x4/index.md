@@ -1,14 +1,16 @@
 ---
 title: "Wcwm 1893-11"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wcwm 1893-11"
-  url: ""
+  url: "/setts/dt1lr7w1ly3w1ly7dt4p13w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt1lr7w1ly3w1ly7dt4p13w1/)
-(the same proportion at any scale), whose colour order is pattern [BYWYWYBBW](/stripes/bywywybbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dt1lr7w1ly3w1ly7dt4p13w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYWYWYBBW](/stripes/bywywybbw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

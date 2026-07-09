@@ -1,5 +1,12 @@
 ---
 title: "Keith"
-redirect: "/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Keith](/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/).
+This is the **Keith** sett — one scale-free proportion (`t18r5t3r5t3k20g18dy4g18k20t20k6t6`), colour order pattern
+[BRBRBKGGGKBKBKBKGGGKBRBR](/stripes/brbrbkgggkbkbkbkgggkbrbr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Keith](/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/) ★ | 2003 | ![Keith sett](/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/sett.png) |

@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s5/k6db3dg20r20y3~x2/">Douglas of Roxburgh</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/k6db3dg20r20y3~x2/"><img src="/variants/s5/k6db3dg20r20y3~x2/sett.png" alt="Douglas of Roxburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k7db3g28r28y3~x2/">Turnbull, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k7db3g28r28y3~x2/"><img src="/variants/s5/k7db3g28r28y3~x2/sett.png" alt="Turnbull, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k7db3g28r28y3~x2/">Turnbull Dress Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k7db3g28r28y3~x2/"><img src="/variants/s5/k7db3g28r28y3~x2/sett.png" alt="Turnbull Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "Crowne Plaza (Corporate)"
-redirect: "/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Crowne Plaza (Corporate)](/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/).
+This is the **Crowne Plaza (Corporate)** sett — one scale-free proportion (`g27r2g3r3db3ly2db14r2db3ly3db3r2db14`), colour order pattern
+[BRBYBRBYBRGRG](/stripes/brbybrbybrgrg/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Crowne Plaza (Corporate)](/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/) ★ | ~2002 | ![Crowne Plaza (Corporate) sett](/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/sett.png) |

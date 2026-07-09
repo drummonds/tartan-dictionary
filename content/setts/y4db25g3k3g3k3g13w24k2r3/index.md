@@ -1,5 +1,12 @@
 ---
 title: "MacLeod, Californian"
-redirect: "/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacLeod, Californian](/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/).
+This is the **MacLeod, Californian** sett — one scale-free proportion (`y4db25g3k3g3k3g13w24k2r3`), colour order pattern
+[GBGKGKGWKR](/stripes/gbgkgkgwkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacLeod, Californian](/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/) ★ | ~2016 | ![MacLeod, Californian sett](/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/sett.png) |

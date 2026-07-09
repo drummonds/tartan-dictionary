@@ -1,5 +1,12 @@
 ---
 title: "Downie Dress"
-redirect: "/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Downie Dress](/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/).
+This is the **Downie Dress** sett — one scale-free proportion (`g3lb3g5r4g28db8w3db3w24r2k2`), colour order pattern
+[GWGRGBWBWRK](/stripes/gwgrgbwbwrk/). It is recorded as a single **variant**, below.
+First attested **1982**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Downie Dress](/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/) ★ | 1982 | ![Downie Dress sett](/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/sett.png) |

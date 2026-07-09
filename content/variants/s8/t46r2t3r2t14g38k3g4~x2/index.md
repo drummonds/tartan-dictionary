@@ -1,14 +1,16 @@
 ---
 title: "Greenlaw, American"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Greenlaw, American"
-  url: ""
+  url: "/setts/t46r2t3r2t14g38k3g4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t46r2t3r2t14g38k3g4/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBGKGKGBRBR](/stripes/brbrbgkgkgbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t46r2t3r2t14g38k3g4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBGKGKGBRBR](/stripes/brbrbgkgkgbrbr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.4" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/"><circle cx="350.6" cy="143.0" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/variants/s6/t52g21t6g16k4g16~x2/"><circle cx="407.0" cy="253.7" r="4" fill="#3465a4"><title>Milligan</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2~t2105244/"><circle cx="347.0" cy="122.4" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/"><circle cx="350.3" cy="143.8" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="171.2" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="181.2" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.7" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s6/dg4w1dg26t26k2t4~x4/"><circle cx="345.2" cy="168.7" r="4" fill="#3465a4"><title>Melville (Two black lines)</title></circle></a><a href="/variants/s10/r2g6dy2g3t4g14t36k2t3w2~x2/"><circle cx="361.9" cy="128.8" r="4" fill="#3465a4"><title>Sarasota - Dunfermline (Commemorat)</title></circle></a><circle cx="357.5" cy="146.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.3" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/"><circle cx="350.6" cy="142.8" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/variants/s6/t52g21t6g16k4g16~x2/"><circle cx="407.1" cy="253.6" r="4" fill="#3465a4"><title>Milligan</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2~t2105244/"><circle cx="347.0" cy="122.2" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/"><circle cx="350.3" cy="143.7" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="171.1" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="181.1" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.6" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s6/dg4w1dg26t26k2t4~x4/"><circle cx="345.2" cy="168.6" r="4" fill="#3465a4"><title>Melville (Two black lines)</title></circle></a><a href="/variants/s10/r2g6dy2g3t4g14t36k2t3w2~x2/"><circle cx="361.9" cy="128.7" r="4" fill="#3465a4"><title>Sarasota - Dunfermline (Commemorat)</title></circle></a><circle cx="357.5" cy="146.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/t46r2t3r2t14g38k3g4~x2/

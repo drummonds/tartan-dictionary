@@ -1,14 +1,16 @@
 ---
 title: "Hebrides Inner"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hebrides Inner"
-  url: ""
+  url: "/setts/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/).
 
 Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 

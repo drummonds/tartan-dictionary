@@ -1,5 +1,12 @@
 ---
 title: "MacQuarrie Ancient"
-redirect: "/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacQuarrie Ancient](/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/).
+This is the **MacQuarrie Ancient** sett — one scale-free proportion (`r2db1r10k4r2g8r2g8r7k1r2db1`), colour order pattern
+[BRKRGRGRKRBR](/stripes/brkrgrgrkrbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacQuarrie Ancient](/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/) ★ | ~2016 | ![MacQuarrie Ancient sett](/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/sett.png) |

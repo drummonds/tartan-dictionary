@@ -1,14 +1,16 @@
 ---
 title: "Wild Highlanders (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wild Highlanders"
   url: "/setts/k36w3k10w3dg28dr6k18/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k36w3k10w3dg28dr6k18/)
-(the same proportion at any scale), whose colour order is pattern [KBGWKWK](/stripes/kbgwkwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k36w3k10w3dg28dr6k18/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGWKWK](/stripes/kbgwkwk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.8" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="350.8" cy="148.5" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><circle cx="230.5" cy="152.1" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="338.0" cy="147.2" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="342.7" cy="149.6" r="4" fill="#3465a4"><title>Childers Regimental Tartan</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.8" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="198.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="195.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><circle cx="288.8" cy="196.7" r="4" fill="#3465a4"><title>London Community Gospel Choir</title></circle></a><circle cx="292.8" cy="176.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.7" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="350.8" cy="148.4" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><circle cx="230.5" cy="152.0" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="338.1" cy="147.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="342.7" cy="149.5" r="4" fill="#3465a4"><title>Childers Regimental Tartan</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.7" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.7" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.4" cy="198.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="195.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><circle cx="288.8" cy="196.7" r="4" fill="#3465a4"><title>London Community Gospel Choir</title></circle></a><circle cx="292.8" cy="175.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k36w3k10w3dg28dr6k18~x2/

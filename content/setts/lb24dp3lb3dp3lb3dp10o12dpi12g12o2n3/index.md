@@ -1,5 +1,12 @@
 ---
 title: "Isle of Skye (District)"
-redirect: "/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Isle of Skye (District)](/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/).
+This is the **Isle of Skye (District)** sett — one scale-free proportion (`lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3`), colour order pattern
+[BRGBRBWBWBW](/stripes/brgbrbwbwbw/). It is recorded as a single **variant**, below.
+First attested **1992**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Isle of Skye (District)](/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/) ★ | 1992 | ![Isle of Skye (District) sett](/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/sett.png) |

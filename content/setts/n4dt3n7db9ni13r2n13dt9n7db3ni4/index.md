@@ -1,5 +1,12 @@
 ---
 title: "Paul Henry (Personal)"
-redirect: "/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Paul Henry (Personal)](/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/).
+This is the **Paul Henry (Personal)** sett — one scale-free proportion (`n4dt3n7db9ni13r2n13dt9n7db3ni4`), colour order pattern
+[BBBBBRBBBBB](/stripes/bbbbbrbbbbb/). It is recorded as a single **variant**, below.
+First attested **1961**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Paul Henry (Personal)](/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/) ★ | 1961 | ![Paul Henry (Personal) sett](/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/sett.png) |

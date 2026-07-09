@@ -2,13 +2,13 @@
 title: "Abercrombie D"
 date: 2023-03-18
 ---
-The **Abercrombie D** tartan is one sett proportion (`db14k2db2k2db2k7g7w1g14`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKBKGWG](/stripes/bkbkbkgwg/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Abercrombie D** sett — one scale-free proportion (`db14k2db2k2db2k7g7w1g14`), colour order pattern
+[BKBKBKGWG](/stripes/bkbkbkgwg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [Abercrombie D](/variants/s9/db14k2db2k2db2k7g7w1g14/) ★ | ~2016 | ![Abercrombie D sett](/variants/s9/db14k2db2k2db2k7g7w1g14/sett.png) |
 | ×2 | [Abercrombie D](/variants/s9/db14k2db2k2db2k7g7w1g14~x2/) | ~2016 | ![Abercrombie D sett](/variants/s9/db14k2db2k2db2k7g7w1g14~x2/sett.png) |

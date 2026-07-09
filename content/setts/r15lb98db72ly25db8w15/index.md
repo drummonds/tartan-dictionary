@@ -1,5 +1,14 @@
 ---
 title: "Afternoon Tea / Earl Grey"
-redirect: "/variants/s6/r15lb98db72ly25db8w15/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Afternoon Tea / Earl Grey](/variants/s6/r15lb98db72ly25db8w15/).
+This is the **Afternoon Tea / Earl Grey** sett — one scale-free proportion (`r15lb98db72ly25db8w15`), colour order pattern
+[RWBYBW](/stripes/rwbybw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+Part of the [Afternoon Tea / Earl](/tartans/afternoon-tea-earl/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Afternoon Tea / Earl Grey](/variants/s6/r15lb98db72ly25db8w15/) ★ | 2015 | ![Afternoon Tea / Earl Grey sett](/variants/s6/r15lb98db72ly25db8w15/sett.png) |

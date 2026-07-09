@@ -1,5 +1,12 @@
 ---
 title: "Unidentified No 40"
-redirect: "/variants/s4/lb6db6g6r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified No 40](/variants/s4/lb6db6g6r1~x2/).
+This is the **Unidentified No 40** sett — one scale-free proportion (`lb6db6g6r1`), colour order pattern
+[RGBW](/stripes/rgbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified No 40](/variants/s4/lb6db6g6r1~x2/) ★ | ~2016 | ![Unidentified No 40 sett](/variants/s4/lb6db6g6r1~x2/sett.png) |

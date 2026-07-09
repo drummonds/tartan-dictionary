@@ -1,16 +1,18 @@
 ---
 title: "McGuigan, Julia (St Monans, Fife) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McGuigan, Julia"
   url: "/tartans/mcguigan-julia/"
 - name: "McGuigan, Julia (St Monans, Fife) (Personal)"
-  url: ""
+  url: "/setts/yi9g52dy15y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/yi9g52dy15y4/)
-(the same proportion at any scale), whose colour order is pattern [GGGG](/stripes/gggg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/yi9g52dy15y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGG](/stripes/gggg/).
 
 Part of the [McGuigan, Julia](/tartans/mcguigan-julia/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="504.9" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.2" cy="300.2" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s5/o62n17ly12y8dg8~x2/"><circle cx="411.7" cy="245.4" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><a href="/variants/s3/g81r10y20~x2/"><circle cx="577.2" cy="314.2" r="4" fill="#3465a4"><title>McMoosie</title></circle></a><a href="/variants/s4/g1y9g9lo1~x4/"><circle cx="538.4" cy="342.1" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><a href="/variants/s4/g9o20g40w5~x2/"><circle cx="449.3" cy="289.8" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/variants/s4/g27r9b2y14~x4/"><circle cx="384.0" cy="269.7" r="4" fill="#3465a4"><title>Englehart, City of</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.3" cy="340.1" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><circle cx="557.9" cy="288.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="505.0" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.2" cy="300.2" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s5/o62n17ly12y8dg8~x2/"><circle cx="411.8" cy="245.3" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><a href="/variants/s3/g81r10y20~x2/"><circle cx="577.3" cy="314.2" r="4" fill="#3465a4"><title>McMoosie</title></circle></a><a href="/variants/s4/g1y9g9lo1~x4/"><circle cx="538.4" cy="342.1" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><a href="/variants/s4/g9o20g40w5~x2/"><circle cx="449.4" cy="289.8" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/variants/s4/g27r9b2y14~x4/"><circle cx="384.1" cy="269.7" r="4" fill="#3465a4"><title>Englehart, City of</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.3" cy="340.2" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><circle cx="557.9" cy="288.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/

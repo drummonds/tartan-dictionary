@@ -76,7 +76,7 @@ weight: 7
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.07 | [Presbyterian College Band (Corp)](/variants/s7/r28k2p36k2w4k2p7~x2/) | tartans-authority |
-| 0.08 | [MacCorquodale](/variants/s7/r7k4db28k24lb24k4db4~x2/) | weddslist |
+| 0.08 | [MacCorquodale Clan Tartan](/variants/s7/r7k4db28k24lb24k4db4~x2/) | house-of-tartan |
 
 ### BKWKBKW
 <a class="pat" href="/stripes/bkwkbkw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKWKBKW</span></a>
@@ -124,7 +124,7 @@ weight: 7
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.04 | [Nike ACG Lunarstorm (Fashion)](/variants/s7/db8r2db18r1db2w10db4~x2/) | tartans-authority |
-| 0.10 | [Lochaber Old](/variants/s7/db3r1db35r1db16lb1db2~x4/) | register-of-tartans |
+| 0.10 | [Lochaber Old.. District Tartan](/variants/s7/db3r1db35r1db16lb1db2~x4/) | house-of-tartan |
 
 ### BRBWBWG
 <a class="pat" href="/stripes/brbwbwg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRBWBWG</span></a>
@@ -139,7 +139,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Ainslie, Lake](/variants/s7/db6w10g10r2y3r1db3~x2/) | weddslist |
+| 0.09 | [Ainslie Lake.. District Tartan](/variants/s7/db6w10g10r2y3r1db3~x2/) | house-of-tartan |
 | 0.09 | [Ainslie, Lake](/variants/s7/db6w10g10r2dy3r1db3~x2/) | register-of-tartans |
 
 ### BRKGKWG
@@ -204,7 +204,7 @@ weight: 7
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.14 | [Justus Dress (Personal)](/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/) | tartans-authority |
-| 0.16 | [Justus Dress (Personal)](/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/) | register-of-tartans |
+| 0.16 | [Justus Dress Personal Tartan](/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/) | house-of-tartan |
 
 ### BYKBKBG
 <a class="pat" href="/stripes/bykbkbg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BYKBKBG</span></a>
@@ -251,7 +251,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [John Telfar Dunbar Hunting](/variants/s7/g5k2g28k10dy26db4g4~x2/) | register-of-tartans |
+| 0.10 | [John Telfar Dunbar/Hunting Tartan](/variants/s7/g5k2g28k10dy26db4g4~x2/) | house-of-tartan |
 | 0.13 | [Baileville (Personal)](/variants/s7/y1k4y1k4y11dr1y1~x4/) | tartans-authority |
 
 ### GBGKRBW
@@ -291,7 +291,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [MacPherson, Blue & White](/variants/s7/w5r3w26db21w3db8y3~x2/) | weddslist |
+| 0.07 | [MacPherson Blue/White Clan Tartan](/variants/s7/w5r3w26db21w3db8y3~x2/) | house-of-tartan |
 | 0.09 | [MacPherson Dress, Blue (Dance)](/variants/s7/w5r3w26dt21w3dt8y3~x2/) | tartans-authority |
 
 ### GBWRGKR
@@ -307,7 +307,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Highlands Country Club](/variants/s7/g5db15lb11w2lb1w1dg4~x4/) | weddslist |
+| 0.11 | [Highlands Country Club Corporate Tartan](/variants/s7/g5db15lb11w2lb1w1dg4~x4/) | house-of-tartan |
 | 0.16 | [Highlands Country Club (Corporate)](/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/) | tartans-authority |
 
 ### GGBBBRW
@@ -348,7 +348,7 @@ weight: 7
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.08 | [MacKinnon Htg (Clan)](/variants/s7/g1dy8g8r1g8dy8w1~x4/) | tartans-authority |
-| 0.08 | [MacKinnon Hunting](/variants/s7/g1dy8g8r1g8dy8w1~x2/) | register-of-tartans |
+| 0.08 | [MacKinnon Hunting Clan Tartan](/variants/s7/g1dy8g8r1g8dy8w1~x2/) | house-of-tartan |
 
 ### GGGRGWY
 <a class="pat" href="/stripes/gggrgwy/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GGGRGWY</span></a>
@@ -387,7 +387,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Gala Water New](/variants/s7/r5k16lb7dp16w1g21y5~x2/) | register-of-tartans |
+| 0.10 | [Gallowater New District Tartan](/variants/s7/r5k16lb7dp16w1g21y5~x2/) | house-of-tartan |
 | 0.10 | [Gallowater, New (District)](/variants/s7/r11k33lb14dp32w2dg42y10/) | tartans-authority |
 
 ### GGWGWRW
@@ -403,7 +403,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Cape Breton](/variants/s7/y5k5g17k6n24k6y3~x2/) | weddslist |
+| 0.12 | [Cape Breton District Tartan](/variants/s7/y5k5g17k6n24k6y3~x2/) | house-of-tartan |
 | 0.15 | [Caledonian Canals (Corporate)](/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/) | register-of-tartans |
 
 ### GKBKGKW
@@ -460,7 +460,7 @@ weight: 7
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.07 | [East Kilbride](/variants/s7/y3r10g7db10r15k1w2~x2/) | weddslist |
-| 0.07 | [East Kilbride](/variants/s7/dy3r10g7db10r15k1w2~x2/) | register-of-tartans |
+| 0.07 | [East Kilbride (Original) District Tartan](/variants/s7/dy3r10g7db10r15k1w2~x2/) | house-of-tartan |
 
 ### GRGGGGR
 <a class="pat" href="/stripes/grggggr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRGGGGR</span></a>
@@ -484,7 +484,7 @@ weight: 7
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.05 | [Rhun (Fashion)](/variants/s7/r12db68w7k39g75r6g6/) | tartans-authority |
-| 0.05 | [Sinclair Hunting (VS)](/variants/s7/r2db16w1k16g30r1g2~x2/) | register-of-tartans |
+| 0.05 | [Sinclair Hunting Clan Tartan](/variants/s7/r2db16w1k16g30r1g2~x2/) | house-of-tartan |
 
 ### GRGKWKR
 <a class="pat" href="/stripes/grgkwkr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRGKWKR</span></a>
@@ -523,7 +523,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [MacLachlan #4](/variants/s7/r24w2y3g16k16w2y3~x2/) | register-of-tartans |
+| 0.07 | [MacLachlan Old Clan Tartan](/variants/s7/r24w2y3g16k16w2y3~x2/) | house-of-tartan |
 | 0.07 | [MacLachlan W](/variants/s7/r24w2y3g16k16w2y3/) | weddslist |
 
 ### GYGKWYG
@@ -595,7 +595,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [MacCaskill](/variants/s7/k2r1g15k15db15y1k2~x2/) | weddslist |
+| 0.09 | [MacCaskill Family Tartan](/variants/s7/k2r1g15k15db15y1k2~x2/) | house-of-tartan |
 | 0.09 | [MacCaskill (Personal)](/variants/s7/k2r1dg15k15db15y1k2~x2/) | register-of-tartans |
 
 ### KGBWWRY
@@ -684,7 +684,7 @@ weight: 7
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.09 | [Brodie Hunting](/variants/s7/r2k8y1k8g8db8r2~x4/) | register-of-tartans |
-| 0.09 | [Brodie hunting](/variants/s7/r2k8y1k8g8db8r2~x2/) | weddslist |
+| 0.09 | [Brodie Hunting Clan Tartan](/variants/s7/r2k8y1k8g8db8r2~x2/) | house-of-tartan |
 
 ### RBKGGGW
 <a class="pat" href="/stripes/rbkgggw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBKGGGW</span></a>
@@ -795,7 +795,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Buccleuch](/variants/s7/r107k9r5db41r5g51r14/) | weddslist |
+| 0.06 | [Buccleuch Family Tartan](/variants/s7/r107k9r5db41r5g51r14/) | house-of-tartan |
 | 0.08 | [Buccleuch](/variants/s7/r107k9r5dp41r5g51r14/) | register-of-tartans |
 
 ### RGRGRGR
@@ -819,7 +819,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [MacKintosh #5](/variants/s7/r75g12r3k2r2k2r36~x2/) | register-of-tartans |
+| 0.05 | [MacKintosh (Moy Hall) Clan Tartan](/variants/s7/r75g12r3k2r2k2r36~x2/) | house-of-tartan |
 | 0.05 | [MacQuarrie #7](/variants/s7/r4g5r2k6r18k2r4~x2/) | register-of-tartans |
 
 ### RKGBRBW

@@ -1,5 +1,12 @@
 ---
 title: "Ceredigion (Personal)"
-redirect: "/variants/s5/g5n1g1n12r1~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ceredigion (Personal)](/variants/s5/g5n1g1n12r1~x8/).
+This is the **Ceredigion (Personal)** sett — one scale-free proportion (`g5n1g1n12r1`), colour order pattern
+[GBGBR](/stripes/gbgbr/). It is recorded as a single **variant**, below.
+First attested **1986**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Ceredigion (Personal)](/variants/s5/g5n1g1n12r1~x8/) ★ | 1986 | ![Ceredigion (Personal) sett](/variants/s5/g5n1g1n12r1~x8/sett.png) |

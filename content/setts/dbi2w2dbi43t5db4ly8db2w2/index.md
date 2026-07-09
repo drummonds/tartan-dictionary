@@ -1,5 +1,14 @@
 ---
 title: "Fife Flyers (Corporate)"
-redirect: "/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fife Flyers (Corporate)](/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/).
+This is the **Fife Flyers (Corporate)** sett — one scale-free proportion (`dbi2w2dbi43t5db4ly8db2w2`), colour order pattern
+[BWBBBYBW](/stripes/bwbbbybw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+Part of the [Fife Flyers](/tartans/fife-flyers/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fife Flyers (Corporate)](/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/) ★ | 2002 | ![Fife Flyers (Corporate) sett](/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Gaudet-Hillan (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gaudet-Hillan (Personal)"
-  url: ""
+  url: "/setts/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1/)
-(the same proportion at any scale), whose colour order is pattern [RBKGWKBWKRKRKBW](/stripes/rbkgwkbwkrkrkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKGWKBWKRKRKBW](/stripes/rbkgwkbwkrkrkbw/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.1" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/"><circle cx="133.8" cy="67.0" r="4" fill="#3465a4"><title>Canadian Dental Association (Corp.)</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.5" cy="96.3" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.8" cy="91.7" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"><circle cx="177.6" cy="72.7" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4dg32r50lb6r8k3/"><circle cx="137.2" cy="97.0" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/variants/s23/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/"><circle cx="159.4" cy="40.8" r="4" fill="#3465a4"><title>Hay &amp; Leith - 1800 (Clan)</title></circle></a><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/"><circle cx="128.9" cy="63.6" r="4" fill="#3465a4"><title>Tweedbank (Corporate)</title></circle></a><a href="/variants/s15/db6k3r4k2r27k12db10k3y2k3g12r10w2r3k3~x2/"><circle cx="134.6" cy="97.9" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/variants/s15/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2~x2/"><circle cx="152.8" cy="78.6" r="4" fill="#3465a4"><title>Mars Exploration</title></circle></a><circle cx="144.0" cy="64.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.0" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/"><circle cx="133.8" cy="66.9" r="4" fill="#3465a4"><title>Canadian Dental Association (Corp.)</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.5" cy="96.2" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.8" cy="91.6" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"><circle cx="177.6" cy="72.6" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4dg32r50lb6r8k3/"><circle cx="137.2" cy="96.9" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/variants/s23/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/"><circle cx="159.4" cy="40.6" r="4" fill="#3465a4"><title>Hay &amp; Leith - 1800 (Clan)</title></circle></a><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/"><circle cx="128.9" cy="63.4" r="4" fill="#3465a4"><title>Tweedbank (Corporate)</title></circle></a><a href="/variants/s15/db6k3r4k2r27k12db10k3y2k3g12r10w2r3k3~x2/"><circle cx="134.6" cy="97.7" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/variants/s15/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2~x2/"><circle cx="152.8" cy="78.4" r="4" fill="#3465a4"><title>Mars Exploration</title></circle></a><circle cx="144.0" cy="64.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/

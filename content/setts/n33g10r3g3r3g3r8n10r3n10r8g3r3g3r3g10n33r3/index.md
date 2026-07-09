@@ -1,5 +1,12 @@
 ---
 title: "Gray (Personal)"
-redirect: "/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gray (Personal)](/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/).
+This is the **Gray (Personal)** sett — one scale-free proportion (`n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3`), colour order pattern
+[BGRGRGRBRBRGRGRGBR](/stripes/bgrgrgrbrbrgrgrgbr/). It is recorded as a single **variant**, below.
+First attested **1986**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gray (Personal)](/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/) ★ | 1986 | ![Gray (Personal) sett](/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/sett.png) |

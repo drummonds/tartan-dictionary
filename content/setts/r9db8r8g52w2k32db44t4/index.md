@@ -1,5 +1,12 @@
 ---
 title: "Highland Wedding (Fashion)"
-redirect: "/variants/s8/r9db8r8g52w2k32db44t4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highland Wedding (Fashion)](/variants/s8/r9db8r8g52w2k32db44t4/).
+This is the **Highland Wedding (Fashion)** sett — one scale-free proportion (`r9db8r8g52w2k32db44t4`), colour order pattern
+[BBKWGRBR](/stripes/bbkwgrbr/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Highland Wedding (Fashion)](/variants/s8/r9db8r8g52w2k32db44t4/) ★ | 2007 | ![Highland Wedding (Fashion) sett](/variants/s8/r9db8r8g52w2k32db44t4/sett.png) |

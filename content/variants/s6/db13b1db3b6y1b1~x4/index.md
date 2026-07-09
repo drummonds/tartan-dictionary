@@ -1,16 +1,18 @@
 ---
 title: "Hepburn"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hepburn"
   url: "/tartans/hepburn/"
 - name: "Hepburn"
-  url: ""
+  url: "/setts/db13b1db3b6y1b1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db13b1db3b6y1b1/)
-(the same proportion at any scale), whose colour order is pattern [BBBBGB](/stripes/bbbbgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db13b1db3b6y1b1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBGB](/stripes/bbbbgb/).
 
 Part of the [Hepburn](/tartans/hepburn/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.4" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s6/y3b40db27b3db3b3/"><circle cx="492.6" cy="241.3" r="4" fill="#3465a4"><title>Keeper of the Quaich</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.5" cy="179.2" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.4" cy="263.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.2" cy="196.3" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db0805267-dbi1604274/"><circle cx="400.6" cy="172.5" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/"><circle cx="423.0" cy="164.1" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.3" cy="201.0" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.6" cy="233.1" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><circle cx="513.5" cy="245.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.0" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.3" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s6/y3b40db27b3db3b3/"><circle cx="492.7" cy="241.3" r="4" fill="#3465a4"><title>Keeper of the Quaich</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.6" cy="179.1" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.5" cy="263.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.2" cy="196.2" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db0805267-dbi1604274/"><circle cx="400.6" cy="172.4" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/"><circle cx="423.1" cy="164.0" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.3" cy="200.9" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.6" cy="233.0" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><circle cx="513.5" cy="245.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db13b1db3b6y1b1~x4/

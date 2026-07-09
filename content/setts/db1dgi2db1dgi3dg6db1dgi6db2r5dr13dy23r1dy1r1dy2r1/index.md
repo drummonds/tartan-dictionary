@@ -1,5 +1,12 @@
 ---
 title: "Langerman (Anchorage)"
-redirect: "/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Langerman (Anchorage)](/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/).
+This is the **Langerman (Anchorage)** sett — one scale-free proportion (`db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1`), colour order pattern
+[BGBGGBGBRBGRGRGR](/stripes/bgbggbgbrbgrgrgr/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Langerman (Anchorage)](/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/) ★ | 2010 | ![Langerman (Anchorage) sett](/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/sett.png) |

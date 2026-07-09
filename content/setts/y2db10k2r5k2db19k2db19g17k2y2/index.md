@@ -1,5 +1,12 @@
 ---
 title: "Montreat"
-redirect: "/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Montreat](/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/).
+This is the **Montreat** sett — one scale-free proportion (`y2db10k2r5k2db19k2db19g17k2y2`), colour order pattern
+[GBKRKBKBGKG](/stripes/gbkrkbkbgkg/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Montreat](/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/) ★ | 1998 | ![Montreat sett](/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/sett.png) |

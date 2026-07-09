@@ -1,5 +1,12 @@
 ---
 title: "Wilson-Blyth"
-redirect: "/variants/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson-Blyth](/variants/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/).
+This is the **Wilson-Blyth** sett — one scale-free proportion (`db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15`), colour order pattern
+[BWBGBGBGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgbkwk/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson-Blyth](/variants/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/) ★ | 2014 | ![Wilson-Blyth sett](/variants/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/sett.png) |

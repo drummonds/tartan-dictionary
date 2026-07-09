@@ -1,5 +1,12 @@
 ---
 title: "MacKeane (Clan?)"
-redirect: "/variants/s7/r4k8r4k8r12k1y1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKeane (Clan?)](/variants/s7/r4k8r4k8r12k1y1~x2/).
+This is the **MacKeane (Clan?)** sett — one scale-free proportion (`r4k8r4k8r12k1y1`), colour order pattern
+[GKRKRKR](/stripes/gkrkrkr/). It is recorded as a single **variant**, below.
+First attested **1842**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacKeane (Clan?)](/variants/s7/r4k8r4k8r12k1y1~x2/) ★ | 1842 | ![MacKeane (Clan?) sett](/variants/s7/r4k8r4k8r12k1y1~x2/sett.png) |

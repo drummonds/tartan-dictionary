@@ -16,7 +16,7 @@ The **Tune Hotels** tartan groups 2 setts — the same named design recorded as 
 <tr><td><a href="/setts/ri3r18dr6ri15r4ri3r4ri7w2/">Tune Hotels</a> ★</td><td><code>Ri/6 R36 DR12 Ri30 R8 Ri6 R8 Ri14 W/4</code></td><td>238</td><td>2012</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/ri3r18dr6ri15r4ri3r4ri7w2/"><img src="/variants/s9/ri3r18dr6ri15r4ri3r4ri7w2~x2~ri2509032-r1807025/sett.png" alt="Tune Hotels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/ri3r18dr6ri15r4ri3r4ri7w2~x2~ri2406019-r2109032/">(Corporate)</a> · <a href="/variants/s9/ri3r18dr6ri15r4ri3r4ri7w2~x2~ri2509032-r1807025/">Tune Hotels</a></td></tr>
-<tr><td><a href="/setts/ri3r18dr6ri15r4ri3r4ri7k2/">Corporate Tartan</a></td><td><code>Ri/6 R36 DR12 Ri30 R8 Ri6 R8 Ri14 K/4</code></td><td>238</td><td>—</td></tr>
+<tr><td><a href="/setts/ri3r18dr6ri15r4ri3r4ri7k2/">Corporate Tartan</a></td><td><code>Ri/6 R36 DR12 Ri30 R8 Ri6 R8 Ri14 K/4</code></td><td>238</td><td>2012</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/ri3r18dr6ri15r4ri3r4ri7k2/"><img src="/variants/s9/ri3r18dr6ri15r4ri3r4ri7k2~x2~ri2509032-r1807025/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -1,14 +1,16 @@
 ---
 title: "Wilson's No.232"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.232"
-  url: ""
+  url: "/setts/t18k7g5r4g7k1y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t18k7g5r4g7k1y2/)
-(the same proportion at any scale), whose colour order is pattern [BKGRGKGKGRGK](/stripes/bkgrgkgkgrgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t18k7g5r4g7k1y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGRGKGKGRGK](/stripes/bkgrgkgkgrgk/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/"><circle cx="126.6" cy="148.6" r="4" fill="#3465a4"><title>Wells, Greg #2 (Personal)</title></circle></a><a href="/variants/s12/g16dg3g4dg6g24lo2k27t24k6t4k3t16~x2~g2408144-dg1806142/"><circle cx="114.6" cy="155.6" r="4" fill="#3465a4"><title>Macallan (1980s) (Corporate)</title></circle></a><a href="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/"><circle cx="129.9" cy="126.0" r="4" fill="#3465a4"><title>Fleming of Castle Carrick (Personal)</title></circle></a><a href="/variants/s15/g5dg22g13k5w4k7g5k2dy7k2dg2g6dg1k2w2~x2/"><circle cx="128.0" cy="115.4" r="4" fill="#3465a4"><title>Ireland's National</title></circle></a><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/"><circle cx="92.6" cy="161.9" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.7" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s12/db9r3db3r5db16r2k17g16r5g3y1g9~x2/"><circle cx="111.6" cy="142.8" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.4" cy="148.9" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/"><circle cx="161.8" cy="131.9" r="4" fill="#3465a4"><title>Hibernian Football Club (2004)</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.8" cy="138.5" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><circle cx="122.6" cy="144.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/"><circle cx="126.6" cy="148.5" r="4" fill="#3465a4"><title>Wells, Greg #2 (Personal)</title></circle></a><a href="/variants/s12/g16dg3g4dg6g24lo2k27t24k6t4k3t16~x2~g2408144-dg1806142/"><circle cx="114.6" cy="155.5" r="4" fill="#3465a4"><title>Macallan (1980s) (Corporate)</title></circle></a><a href="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/"><circle cx="129.9" cy="125.9" r="4" fill="#3465a4"><title>Fleming of Castle Carrick (Personal)</title></circle></a><a href="/variants/s15/g5dg22g13k5w4k7g5k2dy7k2dg2g6dg1k2w2~x2/"><circle cx="128.0" cy="115.3" r="4" fill="#3465a4"><title>Ireland's National</title></circle></a><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/"><circle cx="92.7" cy="161.8" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.6" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s12/db9r3db3r5db16r2k17g16r5g3y1g9~x2/"><circle cx="111.7" cy="142.7" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.4" cy="148.8" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/"><circle cx="161.8" cy="131.7" r="4" fill="#3465a4"><title>Hibernian Football Club (2004)</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.8" cy="138.4" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><circle cx="122.6" cy="144.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/t18k7g5r4g7k1y2~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Callanish (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Callanish (District)"
-  url: ""
+  url: "/setts/ly2o2n2g2o6g3o3n3g2o2ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly2o2n2g2o6g3o3n3g2o2ly2/)
-(the same proportion at any scale), whose colour order is pattern [YRBGRGRBGRY](/stripes/yrbgrgrbgry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly2o2n2g2o6g3o3n3g2o2ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YRBGRGRBGRY](/stripes/yrbgrgrbgry/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

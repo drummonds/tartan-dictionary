@@ -1,5 +1,12 @@
 ---
 title: "Houston"
-redirect: "/variants/s12/y2o2y12dg2y32o2y1g2y1o2y1g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Houston](/variants/s12/y2o2y12dg2y32o2y1g2y1o2y1g2~x2/).
+This is the **Houston** sett — one scale-free proportion (`y2o2y12dg2y32o2y1g2y1o2y1g2`), colour order pattern
+[GGRGGGRGGGRG](/stripes/ggrgggrgggrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Houston](/variants/s12/y2o2y12dg2y32o2y1g2y1o2y1g2~x2/) ★ | ~2016 | ![Houston sett](/variants/s12/y2o2y12dg2y32o2y1g2y1o2y1g2~x2/sett.png) |

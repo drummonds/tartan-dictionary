@@ -1,5 +1,12 @@
 ---
 title: "St. Lawrence #2"
-redirect: "/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Lawrence #2](/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/).
+This is the **St. Lawrence #2** sett — one scale-free proportion (`g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1`), colour order pattern
+[GGYBKGBGBGKBYG](/stripes/ggybkgbgbgkbyg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [St. Lawrence #2](/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/) ★ | 2002 | ![St. Lawrence #2 sett](/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/sett.png) |

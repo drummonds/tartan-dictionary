@@ -1,5 +1,12 @@
 ---
 title: "Inman (2016)"
-redirect: "/variants/s7/r2g24k2g12y6k1r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Inman (2016)](/variants/s7/r2g24k2g12y6k1r2~x2/).
+This is the **Inman (2016)** sett — one scale-free proportion (`r2g24k2g12y6k1r2`), colour order pattern
+[RGKGGKR](/stripes/rgkggkr/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Inman (2016)](/variants/s7/r2g24k2g12y6k1r2~x2/) ★ | 2016 | ![Inman (2016) sett](/variants/s7/r2g24k2g12y6k1r2~x2/sett.png) |

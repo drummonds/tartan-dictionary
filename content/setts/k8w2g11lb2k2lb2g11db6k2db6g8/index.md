@@ -1,5 +1,12 @@
 ---
 title: "Wilson's, No 149"
-redirect: "/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's, No 149](/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/).
+This is the **Wilson's, No 149** sett — one scale-free proportion (`k8w2g11lb2k2lb2g11db6k2db6g8`), colour order pattern
+[GBKBGWKWGWK](/stripes/gbkbgwkwgwk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's, No 149](/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/) ★ | ~2016 | ![Wilson's, No 149 sett](/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/sett.png) |

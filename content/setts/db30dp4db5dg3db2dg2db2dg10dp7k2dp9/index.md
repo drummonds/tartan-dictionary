@@ -1,5 +1,12 @@
 ---
 title: "Paxton Tartan"
-redirect: "/variants/s11/db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Paxton Tartan](/variants/s11/db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2/).
+This is the **Paxton Tartan** sett — one scale-free proportion (`db30dp4db5dg3db2dg2db2dg10dp7k2dp9`), colour order pattern
+[BBBGBGBGBKB](/stripes/bbbgbgbgbkb/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Paxton Tartan](/variants/s11/db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2/) ★ | 2004 | ![Paxton Tartan sett](/variants/s11/db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2/sett.png) |

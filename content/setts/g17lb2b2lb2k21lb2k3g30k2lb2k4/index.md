@@ -1,5 +1,12 @@
 ---
 title: "Fort William"
-redirect: "/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fort William](/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/).
+This is the **Fort William** sett — one scale-free proportion (`g17lb2b2lb2k21lb2k3g30k2lb2k4`), colour order pattern
+[GWBWKWKGKWK](/stripes/gwbwkwkgkwk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fort William](/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/) ★ | ~2016 | ![Fort William sett](/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/sett.png) |

@@ -1,6 +1,7 @@
 ---
 title: "Lloyd of Astargus"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Lloyd of Astargus"
   url: "/tartans/lloyd-of-astargus/"
 - name: "Lloyd of Astargus"
-  url: ""
+  url: "/setts/r2db61k13w2n20ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2db61k13w2n20ly2/)
-(the same proportion at any scale), whose colour order is pattern [RBKWBY](/stripes/rbkwby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2db61k13w2n20ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKWBY](/stripes/rbkwby/).
 
 Part of the [Lloyd of Astargus](/tartans/lloyd-of-astargus/) tartan — the named design grouping this sett with its other cloths.
 
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.2" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.8" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="229.9" cy="140.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="247.7" cy="106.0" r="4" fill="#3465a4"><title>Alan Stone Family (Personal)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.3" cy="125.1" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="177.2" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="344.0" cy="107.8" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.3" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><circle cx="341.5" cy="104.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.1" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.6" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="247.7" cy="105.9" r="4" fill="#3465a4"><title>Alan Stone Family (Personal)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.4" cy="125.0" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.8" cy="177.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="344.0" cy="107.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.2" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><circle cx="341.5" cy="104.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r2db61k13w2n20ly2~x2/

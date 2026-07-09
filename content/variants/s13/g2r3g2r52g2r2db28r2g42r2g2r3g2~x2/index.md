@@ -1,6 +1,7 @@
 ---
 title: "MacQuarrie #3"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "MacQuarrie #3"
   url: "/setts/g2r3g2r52g2r2db28r2g42r2g2r3g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2r3g2r52g2r2db28r2g42r2g2r3g2/)
-(the same proportion at any scale), whose colour order is pattern [GRGRGRBRGRGRG](/stripes/grgrgrbrgrgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g2r3g2r52g2r2db28r2g42r2g2r3g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGRBRGRGRG](/stripes/grgrgrbrgrgrg/).
 
 Part of the [MacQuarrie 1815](/tartans/macquarrie-1815/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2/"><circle cx="322.2" cy="118.1" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/variants/s13/g1r2g1r26g1r1db14r1g21r1g1r2g1/"><circle cx="324.7" cy="119.0" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/variants/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/"><circle cx="286.3" cy="123.0" r="4" fill="#3465a4"><title>Fraser of Altyre</title></circle></a><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/"><circle cx="356.7" cy="121.1" r="4" fill="#3465a4"><title>Bruce - 1819 (Old)</title></circle></a><a href="/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/"><circle cx="281.1" cy="114.8" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><circle cx="290.7" cy="153.0" r="4" fill="#3465a4"><title>Drummond #2</title></circle></a><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><circle cx="311.5" cy="104.5" r="4" fill="#3465a4"><title>Grant and Drummond</title></circle></a><a href="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="306.6" cy="105.0" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/variants/s16/r3db2w1r2g24r4g2r2db8r2g2r24db2w1r2g2~x2/"><circle cx="301.6" cy="103.5" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><circle cx="270.4" cy="99.4" r="4" fill="#3465a4"><title>MacQuarrie #4</title></circle></a><circle cx="322.2" cy="118.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2/"><circle cx="322.2" cy="118.0" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/variants/s13/g1r2g1r26g1r1db14r1g21r1g1r2g1/"><circle cx="324.6" cy="118.9" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/variants/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/"><circle cx="286.3" cy="122.8" r="4" fill="#3465a4"><title>Fraser of Altyre</title></circle></a><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/"><circle cx="356.6" cy="121.0" r="4" fill="#3465a4"><title>Bruce - 1819 (Old)</title></circle></a><a href="/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/"><circle cx="281.1" cy="114.7" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><circle cx="290.7" cy="152.9" r="4" fill="#3465a4"><title>Drummond #2</title></circle></a><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><circle cx="311.5" cy="104.3" r="4" fill="#3465a4"><title>Grant and Drummond</title></circle></a><a href="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="306.6" cy="104.9" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/variants/s16/r3db2w1r2g24r4g2r2db8r2g2r24db2w1r2g2~x2/"><circle cx="301.6" cy="103.3" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><circle cx="270.4" cy="99.2" r="4" fill="#3465a4"><title>MacQuarrie #4</title></circle></a><circle cx="322.2" cy="118.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2~x2/

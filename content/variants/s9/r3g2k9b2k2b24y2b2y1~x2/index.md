@@ -1,6 +1,7 @@
 ---
 title: "Bell of the Borders."
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Bell of the Borders."
   url: "/tartans/bell-of-the-borders/"
 - name: "Bell of the Borders."
-  url: ""
+  url: "/setts/r3g2k9b2k2b24y2b2y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g2k9b2k2b24y2b2y1/)
-(the same proportion at any scale), whose colour order is pattern [GBGBKBKGR](/stripes/gbgbkbkgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3g2k9b2k2b24y2b2y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBKBKGR](/stripes/gbgbkbkgr/).
 
 Part of the [Bell of the Borders.](/tartans/bell-of-the-borders/) tartan — the named design grouping this sett with its other cloths.
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="88.0" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.8" cy="136.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s13/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2~x2/"><circle cx="264.5" cy="82.8" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="118.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="344.0" cy="107.8" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.1" cy="119.0" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.0" cy="118.9" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="269.8" cy="86.6" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="319.5" cy="68.6" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="327.4" cy="96.5" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><circle cx="301.0" cy="94.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="87.8" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.9" cy="136.4" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s13/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2~x2/"><circle cx="264.5" cy="82.6" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="117.9" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="344.0" cy="107.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.1" cy="118.9" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.1" cy="118.8" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="269.9" cy="86.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="319.5" cy="68.4" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="327.4" cy="96.3" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><circle cx="301.0" cy="94.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r3g2k9b2k2b24y2b2y1~x2/

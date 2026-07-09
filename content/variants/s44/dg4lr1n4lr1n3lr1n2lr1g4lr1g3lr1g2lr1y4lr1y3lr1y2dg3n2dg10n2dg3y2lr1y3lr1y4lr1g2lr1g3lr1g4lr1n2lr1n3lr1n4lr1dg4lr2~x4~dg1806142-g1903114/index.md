@@ -1,14 +1,16 @@
 ---
 title: "Kirkton"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kirkton"
-  url: ""
+  url: "/setts/dg4lr1n4lr1n3lr1n2lr1g4lr1g3lr1g2lr1y4lr1y3lr1y2dg3n2dg10n2dg3y2lr1y3lr1y4lr1g2lr1g3lr1g4lr1n2lr1n3lr1n4lr1dg4lr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4lr1n4lr1n3lr1n2lr1g4lr1g3lr1g2lr1y4lr1y3lr1y2dg3n2dg10n2dg3y2lr1y3lr1y4lr1g2lr1g3lr1g4lr1n2lr1n3lr1n4lr1dg4lr2/)
-(the same proportion at any scale), whose colour order is pattern [GYBYBYBYGYGYGYGYGYGGBGBGGYGYGYGYGYGYBYBYBYGY](/stripes/gybybybygygygygygyggbgbggygygygygygybybybygy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg4lr1n4lr1n3lr1n2lr1g4lr1g3lr1g2lr1y4lr1y3lr1y2dg3n2dg10n2dg3y2lr1y3lr1y4lr1g2lr1g3lr1g4lr1n2lr1n3lr1n4lr1dg4lr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYBYBYBYGYGYGYGYGYGGBGBGGYGYGYGYGYGYBYBYBYGY](/stripes/gybybybygygygygygyggbgbggygygygygygybybybygy/).
 
 Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 

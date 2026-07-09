@@ -2,13 +2,13 @@
 title: "U.S. Seabees"
 date: 2023-03-18
 ---
-The **U.S. Seabees** tartan is one sett proportion (`g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GYGBGBGGGBGYG](/stripes/gygbgbgggbgyg/); each scale below is its own sett page. First attested **1991**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **U.S. Seabees** sett — one scale-free proportion (`g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72`), colour order pattern
+[GYGBGBGGGBGYG](/stripes/gygbgbgggbgyg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1991**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [U.S. Seabees (Military)](/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/) ★ | 1991 | ![U.S. Seabees (Military) sett](/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/sett.png) |
 | ×2 | [U.S. Seabees](/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2~db1406275/) | ~2016 | ![U.S. Seabees sett](/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2~db1406275/sett.png) |

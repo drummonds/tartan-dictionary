@@ -1,5 +1,12 @@
 ---
 title: "Brighton & Hove"
-redirect: "/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Brighton & Hove](/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/).
+This is the **Brighton & Hove** sett — one scale-free proportion (`db16n8dy1n1w1n1lb6g3n1g3w1`), colour order pattern
+[BBGBWBWGBGW](/stripes/bbgbwbwgbgw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Brighton & Hove](/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/) ★ | 2016 | ![Brighton & Hove sett](/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/sett.png) |

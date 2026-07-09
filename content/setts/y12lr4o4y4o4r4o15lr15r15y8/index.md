@@ -1,5 +1,12 @@
 ---
 title: "Glasgow's Miles Better (Corporate)"
-redirect: "/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glasgow's Miles Better (Corporate)](/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/).
+This is the **Glasgow's Miles Better (Corporate)** sett — one scale-free proportion (`y12lr4o4y4o4r4o15lr15r15y8`), colour order pattern
+[GRYRRRGRYG](/stripes/gryrrrgryg/). It is recorded as a single **variant**, below.
+First attested **1988**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glasgow's Miles Better (Corporate)](/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/) ★ | 1988 | ![Glasgow's Miles Better (Corporate) sett](/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/sett.png) |

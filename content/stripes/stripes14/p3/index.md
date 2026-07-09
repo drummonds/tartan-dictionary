@@ -3,8 +3,22 @@ title: 14 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 14
 ---
-608 setts across 586 tartans with 14 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+610 setts across 588 tartans with 14 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes14/p2/">‹ prev</a> <a href="/stripes/stripes14/">1</a> <a href="/stripes/stripes14/p2/">2</a> <strong>3</strong> </nav>
+
+### WRGYGBGWWWWWWW
+<a class="pat" href="/stripes/wrgygbgwwwwwww/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRGYGBGWWWWWWW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Saint Joseph de Sorel (District)](/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/) | tartans-authority |
+
+### WRKRGKWKYKBWRW
+<a class="pat" href="/stripes/wrkrgkwkykbwrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRKRGKWKYKBWRW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Hay - Stewart (Fashion)](/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/) | tartans-authority |
 
 ### WRWGKRWRWRKGWW
 <a class="pat" href="/stripes/wrwgkrwrwrkgww/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRWGKRWRWRKGWW</span></a>

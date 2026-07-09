@@ -1,14 +1,16 @@
 ---
 title: "Wcwm 1713"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wcwm 1713"
-  url: ""
+  url: "/setts/dr3o26k12o3k16o4k16o3k12o26ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3o26k12o3k16o4k16o3k12o26ly3/)
-(the same proportion at any scale), whose colour order is pattern [BRKRKRKRKRY](/stripes/brkrkrkrkry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr3o26k12o3k16o4k16o3k12o26ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRKRKRKRKRY](/stripes/brkrkrkrkry/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k20r2k4r2k19lo17k10lo10k6lo5ly2lo2~x2/"><circle cx="247.0" cy="150.6" r="4" fill="#3465a4"><title>Malt, The</title></circle></a><a href="/variants/s12/k20r2k4r2k19o17k10o10k6o5y2o2~x2/"><circle cx="265.4" cy="155.6" r="4" fill="#3465a4"><title>Malt, The (Corporate)</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="231.2" cy="144.2" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/"><circle cx="260.7" cy="128.2" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/"><circle cx="225.5" cy="160.3" r="4" fill="#3465a4"><title>Braemar, Camel</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="173.2" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.5" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s5/o16k2o9k37o10~x2/"><circle cx="218.6" cy="142.9" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/"><circle cx="172.8" cy="199.5" r="4" fill="#3465a4"><title>MacDonald #8</title></circle></a><a href="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><circle cx="193.7" cy="132.4" r="4" fill="#3465a4"><title>MacDonald, Sir John A.</title></circle></a><circle cx="222.8" cy="170.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k20r2k4r2k19lo17k10lo10k6lo5ly2lo2~x2/"><circle cx="247.0" cy="150.5" r="4" fill="#3465a4"><title>Malt, The</title></circle></a><a href="/variants/s12/k20r2k4r2k19o17k10o10k6o5y2o2~x2/"><circle cx="265.4" cy="155.5" r="4" fill="#3465a4"><title>Malt, The (Corporate)</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="231.2" cy="144.1" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/"><circle cx="260.7" cy="128.0" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/"><circle cx="225.5" cy="160.2" r="4" fill="#3465a4"><title>Braemar, Camel</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="173.1" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.4" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s5/o16k2o9k37o10~x2/"><circle cx="218.6" cy="142.8" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/"><circle cx="172.8" cy="199.4" r="4" fill="#3465a4"><title>MacDonald #8</title></circle></a><a href="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><circle cx="193.7" cy="132.3" r="4" fill="#3465a4"><title>MacDonald, Sir John A.</title></circle></a><circle cx="222.9" cy="170.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr3o26k12o3k16o4k16o3k12o26ly3~x2/

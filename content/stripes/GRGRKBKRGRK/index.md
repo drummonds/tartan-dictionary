@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
+<tr><td><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/">MacNichol Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><img src="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/sett.png" alt="MacNichol Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/">MacNicol Dress (Clan) (Smiths)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><img src="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/sett.png" alt="MacNicol Dress (Clan) (Smiths) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/">MacNicol/Nicolson (W &amp; A Smith)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><img src="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/sett.png" alt="MacNicol/Nicolson (W &amp; A Smith) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

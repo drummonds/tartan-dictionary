@@ -1,14 +1,16 @@
 ---
 title: "Loch Rannoch Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Rannoch Trade Tartan"
-  url: ""
+  url: "/setts/do24g2do5ly14g2ly5dy17do2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do24g2do5ly14g2ly5dy17do2/)
-(the same proportion at any scale), whose colour order is pattern [BGBYGYGB](/stripes/bgbygygb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/do24g2do5ly14g2ly5dy17do2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBYGYGB](/stripes/bgbygygb/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1975 Nothing
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1975 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="237.5" cy="230.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.8" cy="225.7" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><circle cx="272.6" cy="202.8" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.5" cy="211.6" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/"><circle cx="284.0" cy="213.5" r="4" fill="#3465a4"><title>Redwood Dress (Fashion)</title></circle></a><a href="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="223.6" cy="226.1" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.5" cy="171.3" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s8/ly5g14dy4db4dy27g3dy4ly5~x2~ly3307090-dy1603076/"><circle cx="326.9" cy="223.0" r="4" fill="#3465a4"><title>Invertere (Daks #2) (Fashion)</title></circle></a><a href="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db1208266/"><circle cx="285.9" cy="169.8" r="4" fill="#3465a4"><title>Antrim County, Crest Range</title></circle></a><circle cx="264.0" cy="210.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="237.5" cy="230.2" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.8" cy="225.6" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><circle cx="272.6" cy="202.7" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.5" cy="211.5" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/"><circle cx="284.0" cy="213.5" r="4" fill="#3465a4"><title>Redwood Dress (Fashion)</title></circle></a><a href="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="223.6" cy="226.0" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.5" cy="171.2" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s8/ly5g14dy4db4dy27g3dy4ly5~x2~ly3307090-dy1603076/"><circle cx="326.9" cy="223.0" r="4" fill="#3465a4"><title>Invertere (Daks #2) (Fashion)</title></circle></a><a href="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db1208266/"><circle cx="285.9" cy="169.7" r="4" fill="#3465a4"><title>Antrim County, Crest Range</title></circle></a><circle cx="264.1" cy="210.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/do24g2do5ly14g2ly5dy17do2~x2/

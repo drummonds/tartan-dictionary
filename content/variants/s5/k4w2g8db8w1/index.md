@@ -1,6 +1,7 @@
 ---
 title: "Douglas Green"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Douglas"
   url: "/tartans/douglas-2/"
 - name: "Douglas Green"
-  url: ""
+  url: "/setts/k4w2g8db8w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w2g8db8w1/)
-(the same proportion at any scale), whose colour order is pattern [KWGBW](/stripes/kwgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4w2g8db8w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWGBW](/stripes/kwgbw/).
 
 Part of the [Douglas](/tartans/douglas-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k2w2g8db8w1/"><circle cx="161.2" cy="228.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.8" cy="226.2" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="116.8" cy="226.2" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.2" cy="217.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.2" cy="217.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="148.9" cy="213.0" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="142.0" cy="221.1" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="173.3" cy="266.9" r="4" fill="#3465a4"><title>Farooq in Livingston (Personal)</title></circle></a><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="91.0" cy="283.9" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><circle cx="129.1" cy="237.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k2w2g8db8w1/"><circle cx="161.3" cy="228.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.8" cy="226.1" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="116.8" cy="226.1" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="149.0" cy="213.0" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="142.1" cy="221.1" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="173.3" cy="266.8" r="4" fill="#3465a4"><title>Farooq in Livingston (Personal)</title></circle></a><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="91.0" cy="283.8" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.7" cy="227.7" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><circle cx="129.2" cy="237.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k4w2g8db8w1/

@@ -1,16 +1,18 @@
 ---
 title: "Pride of Lorient"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Lorient"
   url: "/tartans/pride-of-lorient/"
 - name: "Pride of Lorient"
-  url: ""
+  url: "/setts/r2lb8t1lb4t2lb3t3lb1t15dt1t4dt2t2dt4t1dt9w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2lb8t1lb4t2lb3t3lb1t15dt1t4dt2t2dt4t1dt9w2/)
-(the same proportion at any scale), whose colour order is pattern [RWBWBWBWBBBBBBBBW](/stripes/rwbwbwbwbbbbbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r2lb8t1lb4t2lb3t3lb1t15dt1t4dt2t2dt4t1dt9w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBWBWBWBBBBBBBBW](/stripes/rwbwbwbwbbbbbbbbw/).
 
 Part of the [Pride of Lorient](/tartans/pride-of-lorient/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r2lb8dbi1lb4dbi2lb3dbi3lb1dbi15db1dbi4db2dbi2db4dbi1db9w2~x2~dbi1406275-db1404245/"><circle cx="229.3" cy="146.5" r="4" fill="#3465a4"><title>Pride of Lorient (Fashion)</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/"><circle cx="195.0" cy="121.9" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><circle cx="229.6" cy="173.9" r="4" fill="#3465a4"><title>Toronto Blue Jays</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><circle cx="201.2" cy="125.5" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="211.5" cy="125.2" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.5" cy="194.6" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/"><circle cx="216.5" cy="144.0" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><a href="/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/"><circle cx="284.1" cy="139.8" r="4" fill="#3465a4"><title>Historic Scotland (1998)</title></circle></a><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><circle cx="246.3" cy="182.6" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan</title></circle></a><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/"><circle cx="260.2" cy="149.9" r="4" fill="#3465a4"><title>Pitlochry</title></circle></a><circle cx="249.4" cy="154.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r2lb8dbi1lb4dbi2lb3dbi3lb1dbi15db1dbi4db2dbi2db4dbi1db9w2~x2~dbi1406275-db1404245/"><circle cx="229.3" cy="146.3" r="4" fill="#3465a4"><title>Pride of Lorient (Fashion)</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/"><circle cx="195.0" cy="121.8" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><circle cx="229.6" cy="173.8" r="4" fill="#3465a4"><title>Toronto Blue Jays</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><circle cx="201.2" cy="125.3" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="211.5" cy="125.1" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.5" cy="194.5" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/"><circle cx="216.5" cy="143.8" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><a href="/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/"><circle cx="284.1" cy="139.6" r="4" fill="#3465a4"><title>Historic Scotland (1998)</title></circle></a><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><circle cx="246.3" cy="182.5" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan</title></circle></a><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/"><circle cx="260.2" cy="149.7" r="4" fill="#3465a4"><title>Pitlochry</title></circle></a><circle cx="249.4" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/r2lb8t1lb4t2lb3t3lb1t15dt1t4dt2t2dt4t1dt9w2~x2~t2002249-dt1301240/

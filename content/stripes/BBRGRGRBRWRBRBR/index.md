@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/">Grant</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/"><img src="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/">Grant or New Bruce</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/"><img src="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/sett.png" alt="Grant or New Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/">Grant or New Bruce Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/"><img src="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/sett.png" alt="Grant or New Bruce Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

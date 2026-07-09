@@ -1,5 +1,12 @@
 ---
 title: "College of New Caledonia (Corporate)"
-redirect: "/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [College of New Caledonia (Corporate)](/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/).
+This is the **College of New Caledonia (Corporate)** sett — one scale-free proportion (`t52y23g6dg5w1r1`), colour order pattern
+[BGGGWR](/stripes/bgggwr/). It is recorded as a single **variant**, below.
+First attested **~2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [College of New Caledonia (Corporate)](/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/) ★ | ~2010 | ![College of New Caledonia (Corporate) sett](/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/sett.png) |

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/">Islay Whisky Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><img src="/variants/s18/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/sett.png" alt="Islay Whisky Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/">Islay Whisky Club Corporate Weavers Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><img src="/variants/s18/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/sett.png" alt="Islay Whisky Club Corporate Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

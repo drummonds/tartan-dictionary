@@ -1,14 +1,16 @@
 ---
 title: "St. Matthews Check (School)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Matthews Check (School)"
-  url: ""
+  url: "/setts/db2ly21db11dbi21db1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2ly21db11dbi21db1/)
-(the same proportion at any scale), whose colour order is pattern [BBBYB](/stripes/bbbyb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db2ly21db11dbi21db1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBYB](/stripes/bbbyb/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w15lg98db72lb25db8ly15/"><circle cx="237.2" cy="222.2" r="4" fill="#3465a4"><title>Afternoon Tea / Mint Tea</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/"><circle cx="265.9" cy="244.7" r="4" fill="#3465a4"><title>Chindecella Gorse (Personal)</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="182.9" cy="209.7" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="260.1" cy="234.2" r="4" fill="#3465a4"><title>Wallace Blue (Fashion)</title></circle></a><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.5" cy="208.7" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.5" cy="241.7" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.8" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><circle cx="259.4" cy="199.7" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.6" cy="237.1" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><circle cx="286.3" cy="239.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w15lg98db72lb25db8ly15/"><circle cx="237.3" cy="222.1" r="4" fill="#3465a4"><title>Afternoon Tea / Mint Tea</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/"><circle cx="266.0" cy="244.7" r="4" fill="#3465a4"><title>Chindecella Gorse (Personal)</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="182.9" cy="209.6" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="260.1" cy="234.2" r="4" fill="#3465a4"><title>Wallace Blue (Fashion)</title></circle></a><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.5" cy="208.6" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.5" cy="241.6" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.5" cy="190.7" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><circle cx="259.4" cy="199.6" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.7" cy="237.0" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><circle cx="286.3" cy="239.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db2ly21db11dbi21db1~x2~db1004274-dbi1404245/

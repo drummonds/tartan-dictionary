@@ -1,14 +1,16 @@
 ---
 title: "Miyuki"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Miyuki"
-  url: ""
+  url: "/setts/db40ly1db1r9db1ly1db6ly1db1r9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db40ly1db1r9db1ly1db6ly1db1r9/)
-(the same proportion at any scale), whose colour order is pattern [BYBRBYBYBR](/stripes/bybrbybybr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db40ly1db1r9db1ly1db6ly1db1r9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBRBYBYBR](/stripes/bybrbybybr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db52lo2db2r2db12r6db2r3db2~x2/"><circle cx="611.0" cy="127.4" r="4" fill="#3465a4"><title>Loch Monar (Fashion)</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.9" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="153.0" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.8" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.6" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/"><circle cx="539.9" cy="65.2" r="4" fill="#3465a4"><title>Abaco Loyalist</title></circle></a><a href="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/"><circle cx="437.4" cy="78.3" r="4" fill="#3465a4"><title>International School of Aberdeen</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="164.3" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><circle cx="411.7" cy="182.2" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/variants/s9/db5r16db4k3db4k3db43r15w1~x2/"><circle cx="371.0" cy="95.5" r="4" fill="#3465a4"><title>Falkirk Football Club (Corporate)</title></circle></a><circle cx="491.6" cy="102.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db52lo2db2r2db12r6db2r3db2~x2/"><circle cx="611.0" cy="127.3" r="4" fill="#3465a4"><title>Loch Monar (Fashion)</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.8" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="152.9" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.7" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.5" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/"><circle cx="539.9" cy="65.0" r="4" fill="#3465a4"><title>Abaco Loyalist</title></circle></a><a href="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/"><circle cx="437.4" cy="78.1" r="4" fill="#3465a4"><title>International School of Aberdeen</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="164.2" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><circle cx="411.7" cy="182.1" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/variants/s9/db5r16db4k3db4k3db43r15w1~x2/"><circle cx="371.0" cy="95.3" r="4" fill="#3465a4"><title>Falkirk Football Club (Corporate)</title></circle></a><circle cx="491.6" cy="102.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/

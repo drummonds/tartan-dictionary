@@ -1,5 +1,12 @@
 ---
 title: "Unnamed C19th (Silk Sash)"
-redirect: "/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unnamed C19th (Silk Sash)](/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/).
+This is the **Unnamed C19th (Silk Sash)** sett — one scale-free proportion (`db7lr2dp5ly2dg7ly2r5lr2r5ly2db7`), colour order pattern
+[BYBYGYRYRYB](/stripes/bybygyryryb/). It is recorded as a single **variant**, below.
+First attested **~1900**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unnamed C19th (Silk Sash)](/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/) ★ | ~1900 | ![Unnamed C19th (Silk Sash) sett](/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/sett.png) |

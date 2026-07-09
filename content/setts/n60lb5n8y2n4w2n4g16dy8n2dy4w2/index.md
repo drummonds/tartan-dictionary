@@ -1,5 +1,12 @@
 ---
 title: "Stuart/Stewart Silver"
-redirect: "/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stuart/Stewart Silver](/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/).
+This is the **Stuart/Stewart Silver** sett — one scale-free proportion (`n60lb5n8y2n4w2n4g16dy8n2dy4w2`), colour order pattern
+[BWBGBWBGGBGW](/stripes/bwbgbwbggbgw/). It is recorded as a single **variant**, below.
+First attested **1977**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Stuart/Stewart Silver](/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/) ★ | 1977 | ![Stuart/Stewart Silver sett](/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Scottish Chieftain (Universal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Chieftain"
   url: "/tartans/scottish-chieftain/"
 - name: "Scottish Chieftain (Universal)"
-  url: ""
+  url: "/setts/k20r1dg3k8dg2k2dg20w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k20r1dg3k8dg2k2dg20w2/)
-(the same proportion at any scale), whose colour order is pattern [KRGKGKGW](/stripes/krgkgkgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k20r1dg3k8dg2k2dg20w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRGKGKGW](/stripes/krgkgkgw/).
 
 Part of the [Scottish Chieftain](/tartans/scottish-chieftain/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.3" cy="135.0" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="249.6" cy="158.0" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="309.8" cy="154.2" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/variants/s8/k22g11k2g4k2g6k58lb6~x2/"><circle cx="276.9" cy="130.6" r="4" fill="#3465a4"><title>Stewart of Bute Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.3" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="290.2" cy="199.8" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><circle cx="307.0" cy="159.6" r="4" fill="#3465a4"><title>Meiklejohn (Personal)</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.8" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.4" cy="129.3" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><circle cx="305.1" cy="142.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.3" cy="134.9" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.1" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="249.7" cy="157.9" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="309.9" cy="154.1" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/variants/s8/k22g11k2g4k2g6k58lb6~x2/"><circle cx="276.9" cy="130.5" r="4" fill="#3465a4"><title>Stewart of Bute Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.2" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="290.2" cy="199.7" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><circle cx="307.0" cy="159.5" r="4" fill="#3465a4"><title>Meiklejohn (Personal)</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.7" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.4" cy="129.1" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><circle cx="305.1" cy="142.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k20r1dg3k8dg2k2dg20w2~x2/

@@ -1,16 +1,18 @@
 ---
 title: "Kellogg College University of Oxford"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kellogg College University of Oxford"
   url: "/tartans/kellogg-college-university-of-oxford/"
 - name: "Kellogg College University of Oxford"
-  url: ""
+  url: "/setts/r21db61dy8w21/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r21db61dy8w21/)
-(the same proportion at any scale), whose colour order is pattern [RBGW](/stripes/rbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r21db61dy8w21/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBGW](/stripes/rbgw/).
 
 Part of the [Kellogg College University of Oxford](/tartans/kellogg-college-university-of-oxford/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.8" cy="238.7" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.1" cy="211.1" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s3/db23w4r4~x4/"><circle cx="354.3" cy="245.9" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="221.2" cy="231.9" r="4" fill="#3465a4"><title>Unidentified #17</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.1" cy="198.7" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="182.4" cy="259.3" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.2" cy="278.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.6" cy="215.6" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.3" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="202.1" cy="277.3" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><circle cx="255.7" cy="238.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.8" cy="238.6" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.1" cy="211.1" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s3/db23w4r4~x4/"><circle cx="354.3" cy="245.9" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="221.2" cy="231.9" r="4" fill="#3465a4"><title>Unidentified #17</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.2" cy="198.6" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="182.4" cy="259.2" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.3" cy="277.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.7" cy="215.6" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.4" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="202.1" cy="277.3" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><circle cx="255.8" cy="238.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r21db61dy8w21~x2/

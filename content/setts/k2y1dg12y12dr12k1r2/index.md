@@ -1,5 +1,12 @@
 ---
 title: "PSD: Operation Iraqi Freedom"
-redirect: "/variants/s7/k2y1dg12y12dr12k1r2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [PSD: Operation Iraqi Freedom](/variants/s7/k2y1dg12y12dr12k1r2~x4/).
+This is the **PSD: Operation Iraqi Freedom** sett — one scale-free proportion (`k2y1dg12y12dr12k1r2`), colour order pattern
+[KGGGBKR](/stripes/kgggbkr/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [PSD: Operation Iraqi Freedom](/variants/s7/k2y1dg12y12dr12k1r2~x4/) ★ | 2006 | ![PSD: Operation Iraqi Freedom sett](/variants/s7/k2y1dg12y12dr12k1r2~x4/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Flodden"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Flodden"
   url: "/tartans/flodden/"
 - name: "Flodden"
-  url: ""
+  url: "/setts/w2y1r3g20r1y1r3y2dy14ly2r2ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2y1r3g20r1y1r3y2dy14ly2r2ly2/)
-(the same proportion at any scale), whose colour order is pattern [WGRGRGRGGYRY](/stripes/wgrgrgrggyry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2y1r3g20r1y1r3y2dy14ly2r2ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGRGRGRGGYRY](/stripes/wgrgrgrggyry/).
 
 Part of the [Flodden](/tartans/flodden/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g2r2g2dy14y2r3y1r1dg20r3y1w2~x2/"><circle cx="224.3" cy="115.8" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="255.6" cy="151.3" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s16/db1g2db1g3dg6db1g6db2lo5r13dy23lo1dy1lo1dy2lo1~x2~g1903114-dg1806142/"><circle cx="211.4" cy="94.1" r="4" fill="#3465a4"><title>Langermann (Name)</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="185.4" cy="136.5" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s15/dy28r3do2n2do2r3n8ly2do8ly5do3w2do2ly3do1~x2/"><circle cx="219.6" cy="90.1" r="4" fill="#3465a4"><title>Caithness District Tartan</title></circle></a><a href="/variants/s12/o3n20r1n4r2n2r4n2r5g2dr20w3~x2~o2500000-n1900000/"><circle cx="260.4" cy="125.4" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.7" cy="167.9" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.6" cy="131.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/"><circle cx="199.8" cy="140.5" r="4" fill="#3465a4"><title>Isle of Skye</title></circle></a><a href="/variants/s11/ri3y1dp1ri20r2dp9r2g20dp1y1g3~x2~ri2108022-r1807033/"><circle cx="250.4" cy="129.8" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><circle cx="244.0" cy="120.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g2r2g2dy14y2r3y1r1dg20r3y1w2~x2/"><circle cx="224.4" cy="115.6" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="255.6" cy="151.2" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s16/db1g2db1g3dg6db1g6db2lo5r13dy23lo1dy1lo1dy2lo1~x2~g1903114-dg1806142/"><circle cx="211.4" cy="93.9" r="4" fill="#3465a4"><title>Langermann (Name)</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="185.4" cy="136.3" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s15/dy28r3do2n2do2r3n8ly2do8ly5do3w2do2ly3do1~x2/"><circle cx="219.7" cy="89.9" r="4" fill="#3465a4"><title>Caithness District Tartan</title></circle></a><a href="/variants/s12/o3n20r1n4r2n2r4n2r5g2dr20w3~x2~o2500000-n1900000/"><circle cx="260.4" cy="125.3" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.7" cy="167.8" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.7" cy="131.6" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/"><circle cx="199.8" cy="140.4" r="4" fill="#3465a4"><title>Isle of Skye</title></circle></a><a href="/variants/s11/ri3y1dp1ri20r2dp9r2g20dp1y1g3~x2~ri2108022-r1807033/"><circle cx="250.5" cy="129.7" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><circle cx="244.0" cy="120.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w2y1r3g20r1y1r3y2dy14ly2r2ly2~x2~g1903114-ly2706114/

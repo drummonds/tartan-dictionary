@@ -1,14 +1,16 @@
 ---
 title: "Earthrise"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Earthrise"
-  url: ""
+  url: "/setts/k4n6k4o4n29o6k64db10k4db6lb4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4n6k4o4n29o6k64db10k4db6lb4w2/)
-(the same proportion at any scale), whose colour order is pattern [KBKRBRKBKBWW](/stripes/kbkrbrkbkbww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4n6k4o4n29o6k64db10k4db6lb4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKRBRKBKBWW](/stripes/kbkrbrkbkbww/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4dt6k4n4dt29n6k68db10k4t6db4w2~dt0900000-n1700000-db1208266-t2205244/"><circle cx="303.7" cy="64.1" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/"><circle cx="231.2" cy="58.6" r="4" fill="#3465a4"><title>Voluntary Service Aberdeen</title></circle></a><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"><circle cx="228.0" cy="61.6" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.6" cy="39.7" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/"><circle cx="287.1" cy="37.6" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="282.8" cy="50.1" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.9" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/variants/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6y3k2y1k3y2k2w1~x2~lr3000000-dt1100000/"><circle cx="208.2" cy="27.2" r="4" fill="#3465a4"><title>Cornish Pascoe, The</title></circle></a><a href="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/"><circle cx="203.7" cy="37.7" r="4" fill="#3465a4"><title>Australian Federal Police</title></circle></a><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/"><circle cx="305.9" cy="38.6" r="4" fill="#3465a4"><title>RCACA</title></circle></a><circle cx="246.2" cy="51.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4dt6k4n4dt29n6k68db10k4t6db4w2~dt0900000-n1700000-db1208266-t2205244/"><circle cx="303.7" cy="63.9" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/"><circle cx="231.2" cy="58.4" r="4" fill="#3465a4"><title>Voluntary Service Aberdeen</title></circle></a><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"><circle cx="228.0" cy="61.4" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.6" cy="39.5" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/"><circle cx="287.1" cy="37.4" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="282.8" cy="49.9" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.7" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/variants/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6y3k2y1k3y2k2w1~x2~lr3000000-dt1100000/"><circle cx="208.2" cy="27.0" r="4" fill="#3465a4"><title>Cornish Pascoe, The</title></circle></a><a href="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/"><circle cx="203.7" cy="37.5" r="4" fill="#3465a4"><title>Australian Federal Police</title></circle></a><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/"><circle cx="305.9" cy="38.4" r="4" fill="#3465a4"><title>RCACA</title></circle></a><circle cx="246.2" cy="51.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/

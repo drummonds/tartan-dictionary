@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4w2k28db30k1db3~x2/">Ramsay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28db30k1db3~x2/"><img src="/variants/s6/k4w2k28db30k1db3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2k28db30k1db3~x2/">Ramsay Blue Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28db30k1db3~x2/"><img src="/variants/s6/k4w2k28db30k1db3~x2/sett.png" alt="Ramsay Blue Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k4lb2k28t30k1t3~x2/">Ramsay Blue Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><img src="/variants/s6/k4lb2k28t30k1t3~x2/sett.png" alt="Ramsay Blue Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k3w2k18b18k2b3~x4/">Swan</a></td></tr>

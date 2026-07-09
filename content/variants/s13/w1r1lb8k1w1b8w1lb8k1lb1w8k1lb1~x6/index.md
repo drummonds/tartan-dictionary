@@ -1,16 +1,18 @@
 ---
 title: "Euphoria (Universal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Euphoria"
   url: "/tartans/euphoria/"
 - name: "Euphoria (Universal)"
-  url: ""
+  url: "/setts/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1/)
-(the same proportion at any scale), whose colour order is pattern [WKWWKWWBWKWRW](/stripes/wkwwkwwbwkwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWWKWWBWKWRW](/stripes/wkwwkwwbwkwrw/).
 
 Part of the [Euphoria](/tartans/euphoria/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/"><circle cx="155.9" cy="148.9" r="4" fill="#3465a4"><title>Euphoria</title></circle></a><a href="/variants/s11/g4r1db8w1r1w1lb8w1lb8w1y1~x4/"><circle cx="168.1" cy="159.4" r="4" fill="#3465a4"><title>Texas Bluebonnet District Tartan</title></circle></a><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/"><circle cx="219.8" cy="136.0" r="4" fill="#3465a4"><title>Elsa Dance</title></circle></a><a href="/variants/s11/g5r1db10w1r1w1lb10w1lb10w1y1~x4/"><circle cx="191.0" cy="145.9" r="4" fill="#3465a4"><title>Texas Blue Bonnet</title></circle></a><a href="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/"><circle cx="205.2" cy="162.0" r="4" fill="#3465a4"><title>MacRae Grey (Fashion)</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="157.6" cy="158.4" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2dr2~x2/"><circle cx="189.9" cy="129.9" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s14/lb6k2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><circle cx="212.6" cy="155.4" r="4" fill="#3465a4"><title>MacHinery Dress</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.9" cy="113.2" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="151.5" cy="107.8" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><circle cx="173.9" cy="155.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/"><circle cx="155.9" cy="148.8" r="4" fill="#3465a4"><title>Euphoria</title></circle></a><a href="/variants/s11/g4r1db8w1r1w1lb8w1lb8w1y1~x4/"><circle cx="168.1" cy="159.3" r="4" fill="#3465a4"><title>Texas Bluebonnet District Tartan</title></circle></a><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/"><circle cx="219.8" cy="135.9" r="4" fill="#3465a4"><title>Elsa Dance</title></circle></a><a href="/variants/s11/g5r1db10w1r1w1lb10w1lb10w1y1~x4/"><circle cx="191.0" cy="145.8" r="4" fill="#3465a4"><title>Texas Blue Bonnet</title></circle></a><a href="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/"><circle cx="205.2" cy="161.9" r="4" fill="#3465a4"><title>MacRae Grey (Fashion)</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="157.7" cy="158.3" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2dr2~x2/"><circle cx="189.9" cy="129.8" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s14/lb6k2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><circle cx="212.6" cy="155.3" r="4" fill="#3465a4"><title>MacHinery Dress</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.8" cy="113.1" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="151.5" cy="107.7" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><circle cx="173.9" cy="155.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/

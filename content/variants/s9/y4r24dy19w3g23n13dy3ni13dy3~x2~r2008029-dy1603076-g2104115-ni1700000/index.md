@@ -1,16 +1,18 @@
 ---
 title: "Teallach"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Teallach"
   url: "/tartans/teallach/"
 - name: "Teallach"
-  url: ""
+  url: "/setts/y4r24dy19w3g23n13dy3ni13dy3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4r24dy19w3g23n13dy3ni13dy3/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGWGRG](/stripes/gbgbgwgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y4r24dy19w3g23n13dy3ni13dy3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGWGRG](/stripes/gbgbgwgrg/).
 
 Part of the [Teallach](/tartans/teallach/) tartan — the named design grouping this sett with its other cloths.
 

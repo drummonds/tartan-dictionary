@@ -1,14 +1,16 @@
 ---
 title: "Genet, Edmond Charles 'Citizen' (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Genet, Edmond Charles 'Citizen' (Personal)"
-  url: ""
+  url: "/setts/r4k9dg9db40r2db2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4k9dg9db40r2db2w2/)
-(the same proportion at any scale), whose colour order is pattern [RKGBRBW](/stripes/rkgbrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4k9dg9db40r2db2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGBRBW](/stripes/rkgbrbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.4" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="118.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.6" cy="131.7" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.3" cy="124.3" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s7/db35k10db4w2db3r2y2~x2/"><circle cx="411.9" cy="121.3" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.5" cy="170.6" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.1" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.4" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db1106275-dbi1406275/"><circle cx="309.1" cy="96.6" r="4" fill="#3465a4"><title>Law Enforcement Officers' Memorial</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="177.2" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><circle cx="337.4" cy="120.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.3" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="117.9" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.7" cy="131.6" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.3" cy="124.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s7/db35k10db4w2db3r2y2~x2/"><circle cx="411.9" cy="121.1" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.6" cy="170.6" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.0" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db1106275-dbi1406275/"><circle cx="309.1" cy="96.4" r="4" fill="#3465a4"><title>Law Enforcement Officers' Memorial</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.8" cy="177.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><circle cx="337.4" cy="120.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r4k9dg9db40r2db2w2~x2/

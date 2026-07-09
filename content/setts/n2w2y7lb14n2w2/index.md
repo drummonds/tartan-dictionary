@@ -1,5 +1,12 @@
 ---
 title: "Cairngorm Trade Tartan"
-redirect: "/variants/s6/n2w2y7lb14n2w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cairngorm Trade Tartan](/variants/s6/n2w2y7lb14n2w2~x2/).
+This is the **Cairngorm Trade Tartan** sett — one scale-free proportion (`n2w2y7lb14n2w2`), colour order pattern
+[BWGWBW](/stripes/bwgwbw/). It is recorded as a single **variant**, below.
+First attested **1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cairngorm Trade Tartan](/variants/s6/n2w2y7lb14n2w2~x2/) ★ | 1985 | ![Cairngorm Trade Tartan sett](/variants/s6/n2w2y7lb14n2w2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "MacDonald Hunting"
-redirect: "/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDonald Hunting](/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/).
+This is the **MacDonald Hunting** sett — one scale-free proportion (`g24w1g2w2do2w1do12w1do2w2do2w1dg12`), colour order pattern
+[GWBWBWBWBWGWG](/stripes/gwbwbwbwbwgwg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDonald Hunting](/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/) ★ | ~2016 | ![MacDonald Hunting sett](/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/sett.png) |

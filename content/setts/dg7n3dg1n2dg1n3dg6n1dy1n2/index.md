@@ -1,5 +1,12 @@
 ---
 title: "Twisted Kilt Society"
-redirect: "/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Twisted Kilt Society](/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/).
+This is the **Twisted Kilt Society** sett — one scale-free proportion (`dg7n3dg1n2dg1n3dg6n1dy1n2`), colour order pattern
+[BGBGBGBGBG](/stripes/bgbgbgbgbg/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Twisted Kilt Society](/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/) ★ | 2015 | ![Twisted Kilt Society sett](/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/sett.png) |

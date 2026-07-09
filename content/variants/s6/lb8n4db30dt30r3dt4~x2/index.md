@@ -1,14 +1,16 @@
 ---
 title: "Hutchesons' Grammar (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hutchesons' Grammar School"
   url: "/setts/lb8n4db30dt30r3dt4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb8n4db30dt30r3dt4/)
-(the same proportion at any scale), whose colour order is pattern [BRBBBW](/stripes/brbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb8n4db30dt30r3dt4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBBBW](/stripes/brbbbw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.2" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.9" cy="242.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="278.4" cy="184.3" r="4" fill="#3465a4"><title>Kilkenny, County (District)</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.8" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="210.9" cy="188.1" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/"><circle cx="229.7" cy="203.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.8" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s6/dg4db12r3db12dg32w4~x2/"><circle cx="328.7" cy="217.2" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.7" cy="242.2" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><circle cx="276.2" cy="215.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.1" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.9" cy="242.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="278.4" cy="184.3" r="4" fill="#3465a4"><title>Kilkenny, County (District)</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.7" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="211.0" cy="188.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/"><circle cx="229.7" cy="202.9" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.7" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s6/dg4db12r3db12dg32w4~x2/"><circle cx="328.8" cy="217.1" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.8" cy="242.1" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><circle cx="276.3" cy="215.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb8n4db30dt30r3dt4~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Cailean (Pendleton)"
-redirect: "/variants/s12/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cailean (Pendleton)](/variants/s12/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4~x2/).
+This is the **Cailean (Pendleton)** sett — one scale-free proportion (`dy4k12db2k2db2k2db2ly16dr3ly2w2ly4`), colour order pattern
+[GKBKBKBYBYWY](/stripes/gkbkbkbybywy/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cailean (Pendleton)](/variants/s12/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4~x2/) ★ | ~2016 | ![Cailean (Pendleton) sett](/variants/s12/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4~x2/sett.png) |

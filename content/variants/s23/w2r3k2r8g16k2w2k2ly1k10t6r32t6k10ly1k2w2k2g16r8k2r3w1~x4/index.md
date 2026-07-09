@@ -1,14 +1,16 @@
 ---
 title: "Stewart"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stewart"
-  url: ""
+  url: "/setts/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1/)
-(the same proportion at any scale), whose colour order is pattern [WRKRGKWKYKBRBKYKWKGRKRW](/stripes/wrkrgkwkykbrbkykwkgrkrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WRKRGKWKYKBRBKYKWKGRKRW](/stripes/wrkrgkwkykbrbkykwkgrkrw/).
 
 Sourced from logan-1831.  It is a [23 stripe tartan](/stripes/stripes23/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **Stewart** name adjusted Logan's counts: [Stewart](/setts/s30/b14k12b3g22g4k6y2k2b2k2g8r4k2r4w2r4k2r4g8k2b2k2y2k6g4g22b3k12b14k4~b00248c-g004c00-k000000-rc80000-wc0c0c0-ya08c28~x2/); [Stewart - Pr Ch Ed - Pendleton](/setts/s12/r32b2k8y1k2w2k2g18r10k2r2w2~b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800~x4/); [Stewart (King George VI)](/setts/s14/r2g11g2b2k3y1k1ya1k1g4r2k1r2ya1~b2474e8-g006818-k101010-r880000-ybc8c00-yab8b8b8~x4/); [Stewart (Silk Fragment)](/setts/s24/b4w2b2w1ba5y5g5w1g20w1b4ba4ga3w1ga3ba4b4w1y30b2ba2w1ba2b2~b2c2c80-ba5c8ca8-g006818-ga604000-we0e0e0-yd87c00~x2/). Compare their thread counts with Logan's above.
+Later records of the **Stewart** name adjusted Logan's counts: [Stewart](/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/); [Stewart - Pr Ch Ed - Pendleton](/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/); [Stewart (King George VI)](/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/); [Stewart (Silk Fragment)](/variants/s24/db4w2db2w1lb5lo5g5w1g20w1db4lb4dy3w1dy3lb4db4w1lo30db2lb2w1lb2db2~x2/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><circle cx="183.6" cy="25.8" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s12/k8r2k3lyi2k2w3k2ly12y22r2y2k1~x2~lyi3307090-y2203076/"><circle cx="138.9" cy="54.8" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/variants/s22/r8lb16k2r4k2lb51k8w8k6y4k4y4k12r4k12r4g16k2r4k2r16g8/"><circle cx="95.7" cy="50.6" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #1)</title></circle></a><a href="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/"><circle cx="75.5" cy="56.2" r="4" fill="#3465a4"><title>Wilson's No.017</title></circle></a><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/"><circle cx="124.2" cy="46.3" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/"><circle cx="168.3" cy="14.0" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/"><circle cx="133.8" cy="67.0" r="4" fill="#3465a4"><title>Canadian Dental Association (Corp.)</title></circle></a><a href="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/"><circle cx="78.7" cy="80.7" r="4" fill="#3465a4"><title>Wilson's No.073</title></circle></a><a href="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/"><circle cx="185.8" cy="57.9" r="4" fill="#3465a4"><title>Stewart/Stuart of Galloway (Wilsons)</title></circle></a><a href="/variants/s13/r32lb14k16y3k4w4k4r1g28r13k4r4w2~x2/"><circle cx="136.6" cy="72.5" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><circle cx="136.7" cy="38.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><circle cx="183.6" cy="25.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s12/k8r2k3lyi2k2w3k2ly12y22r2y2k1~x2~lyi3307090-y2203076/"><circle cx="138.9" cy="54.6" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/variants/s22/r8lb16k2r4k2lb51k8w8k6y4k4y4k12r4k12r4g16k2r4k2r16g8/"><circle cx="95.7" cy="50.4" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #1)</title></circle></a><a href="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/"><circle cx="75.5" cy="56.0" r="4" fill="#3465a4"><title>Wilson's No.017</title></circle></a><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/"><circle cx="124.2" cy="46.1" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/"><circle cx="168.3" cy="14.0" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/"><circle cx="133.8" cy="66.9" r="4" fill="#3465a4"><title>Canadian Dental Association (Corp.)</title></circle></a><a href="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/"><circle cx="78.7" cy="80.5" r="4" fill="#3465a4"><title>Wilson's No.073</title></circle></a><a href="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/"><circle cx="185.8" cy="57.7" r="4" fill="#3465a4"><title>Stewart/Stuart of Galloway (Wilsons)</title></circle></a><a href="/variants/s13/r32lb14k16y3k4w4k4r1g28r13k4r4w2~x2/"><circle cx="136.6" cy="72.3" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><circle cx="136.7" cy="38.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/

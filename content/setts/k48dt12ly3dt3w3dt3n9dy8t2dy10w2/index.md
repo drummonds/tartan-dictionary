@@ -1,5 +1,12 @@
 ---
 title: "Holyrood (Commemorative)"
-redirect: "/variants/s11/k48dt12ly3dt3w3dt3n9dy8t2dy10w2~x2~dt1703208-t2503227/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Holyrood (Commemorative)](/variants/s11/k48dt12ly3dt3w3dt3n9dy8t2dy10w2~x2~dt1703208-t2503227/).
+This is the **Holyrood (Commemorative)** sett — one scale-free proportion (`k48dt12ly3dt3w3dt3n9dy8t2dy10w2`), colour order pattern
+[KBYBWBBGBGW](/stripes/kbybwbbgbgw/). It is recorded as a single **variant**, below.
+First attested **1977**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Holyrood (Commemorative)](/variants/s11/k48dt12ly3dt3w3dt3n9dy8t2dy10w2~x2~dt1703208-t2503227/) ★ | 1977 | ![Holyrood (Commemorative) sett](/variants/s11/k48dt12ly3dt3w3dt3n9dy8t2dy10w2~x2~dt1703208-t2503227/sett.png) |

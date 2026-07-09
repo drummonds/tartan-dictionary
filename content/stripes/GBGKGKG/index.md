@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/">Baileville (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><img src="/variants/s7/y1k4y1k4y11dr1y1~x4/sett.png" alt="Baileville (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/">John Telfar Dunbar Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><img src="/variants/s7/g5k2g28k10dy26db4g4~x2/sett.png" alt="John Telfar Dunbar Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/">John Telfar Dunbar/Hunting Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><img src="/variants/s7/g5k2g28k10dy26db4g4~x2/sett.png" alt="John Telfar Dunbar/Hunting Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

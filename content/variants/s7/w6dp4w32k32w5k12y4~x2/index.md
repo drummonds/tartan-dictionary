@@ -1,6 +1,7 @@
 ---
 title: "MacPherson Dress Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "MacPherson Dress"
   url: "/tartans/macpherson-dress-3/"
 - name: "MacPherson Dress Clan Tartan"
-  url: ""
+  url: "/setts/w6dp4w32k32w5k12y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6dp4w32k32w5k12y4/)
-(the same proportion at any scale), whose colour order is pattern [BWKWKGKWKWBW](/stripes/bwkwkgkwkwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w6dp4w32k32w5k12y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWKGKWKWBW](/stripes/bwkwkgkwkwbw/).
 
 Part of the [MacPherson Dress](/tartans/macpherson-dress-3/) tartan — the named design grouping this sett with its other cloths.
 
@@ -29,7 +31,7 @@ Earliest known date: 1842 This version was recorded in the STS Sindex without th
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1842 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.9" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="205.3" cy="233.7" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="180.1" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.1" cy="181.6" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"><circle cx="155.2" cy="141.1" r="4" fill="#3465a4"><title>Hancock Personal Tartan</title></circle></a><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><circle cx="181.7" cy="125.3" r="4" fill="#3465a4"><title>Abergaveny (Fashion)</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.9" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.8" cy="191.2" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="250.9" cy="185.7" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><circle cx="192.8" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.8" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="205.3" cy="233.7" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="180.0" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.1" cy="181.6" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"><circle cx="155.2" cy="141.0" r="4" fill="#3465a4"><title>Hancock Personal Tartan</title></circle></a><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><circle cx="181.7" cy="125.2" r="4" fill="#3465a4"><title>Abergaveny (Fashion)</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.8" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.8" cy="191.1" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="250.9" cy="185.6" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><circle cx="192.8" cy="165.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w6dp4w32k32w5k12y4~x2/

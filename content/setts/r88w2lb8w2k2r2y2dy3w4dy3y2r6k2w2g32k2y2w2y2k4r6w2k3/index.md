@@ -1,5 +1,12 @@
 ---
 title: "MacLeod of Gesto Clan Tartan"
-redirect: "/variants/s23/r88w2lb8w2k2r2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacLeod of Gesto Clan Tartan](/variants/s23/r88w2lb8w2k2r2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3~x2/).
+This is the **MacLeod of Gesto Clan Tartan** sett — one scale-free proportion (`r88w2lb8w2k2r2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3`), colour order pattern
+[KWRKGWGKGWKRGGWGGRKWWWR](/stripes/kwrkgwgkgwkrggwggrkwwwr/). It is recorded as a single **variant**, below.
+First attested **~1850**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacLeod of Gesto Clan Tartan](/variants/s23/r88w2lb8w2k2r2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3~x2/) ★ | ~1850 | ![MacLeod of Gesto Clan Tartan sett](/variants/s23/r88w2lb8w2k2r2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3~x2/sett.png) |

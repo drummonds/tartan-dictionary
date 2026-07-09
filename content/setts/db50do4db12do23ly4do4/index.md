@@ -1,5 +1,12 @@
 ---
 title: "Sligo, County"
-redirect: "/variants/s6/db50do4db12do23ly4do4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sligo, County](/variants/s6/db50do4db12do23ly4do4~x2/).
+This is the **Sligo, County** sett — one scale-free proportion (`db50do4db12do23ly4do4`), colour order pattern
+[BBBBYB](/stripes/bbbbyb/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Sligo, County](/variants/s6/db50do4db12do23ly4do4~x2/) ★ | 1996 | ![Sligo, County sett](/variants/s6/db50do4db12do23ly4do4~x2/sett.png) |

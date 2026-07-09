@@ -1,16 +1,18 @@
 ---
 title: "Easton (2014)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Easton"
   url: "/tartans/easton/"
 - name: "Easton (2014)"
-  url: ""
+  url: "/setts/r3db2ly1db50w1db2lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db2ly1db50w1db2lb3/)
-(the same proportion at any scale), whose colour order is pattern [RBYBWBW](/stripes/rbybwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3db2ly1db50w1db2lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBYBWBW](/stripes/rbybwbw/).
 
 Part of the [Easton](/tartans/easton/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n3db2w1db50y1db2r3~x2~n2203265-db1003265/"><circle cx="626.0" cy="83.3" r="4" fill="#3465a4"><title>Easton (2014)</title></circle></a><a href="/variants/s5/db19w6db105y4db5/"><circle cx="626.0" cy="178.0" r="4" fill="#3465a4"><title>Greenock Morton F. C. (Corporate)</title></circle></a><a href="/variants/s7/w2db4r2db90w2db4r1~x2/"><circle cx="626.0" cy="103.1" r="4" fill="#3465a4"><title>Spirit of Ulster (Fashion)</title></circle></a><a href="/variants/s7/w2db4r2db90w2db4r1~x2~r2109032/"><circle cx="626.0" cy="103.5" r="4" fill="#3465a4"><title>Spirit of Ulster</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.4" cy="145.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s6/r3db2r1db18g1db2~x4/"><circle cx="577.0" cy="173.8" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><circle cx="409.9" cy="110.9" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.8" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s7/db8y2db8g7db57k3lb1~x2/"><circle cx="599.1" cy="91.3" r="4" fill="#3465a4"><title>Cullen (Christian Hill) (Personal)</title></circle></a><a href="/variants/s7/db8lo2db8dg7db57k3lb1~x2/"><circle cx="622.3" cy="98.4" r="4" fill="#3465a4"><title>Cullen (Christian Hill)</title></circle></a><circle cx="617.8" cy="76.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n3db2w1db50y1db2r3~x2~n2203265-db1003265/"><circle cx="626.0" cy="83.2" r="4" fill="#3465a4"><title>Easton (2014)</title></circle></a><a href="/variants/s5/db19w6db105y4db5/"><circle cx="626.0" cy="177.9" r="4" fill="#3465a4"><title>Greenock Morton F. C. (Corporate)</title></circle></a><a href="/variants/s7/w2db4r2db90w2db4r1~x2/"><circle cx="626.0" cy="102.9" r="4" fill="#3465a4"><title>Spirit of Ulster (Fashion)</title></circle></a><a href="/variants/s7/w2db4r2db90w2db4r1~x2~r2109032/"><circle cx="626.0" cy="103.4" r="4" fill="#3465a4"><title>Spirit of Ulster</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.4" cy="145.6" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s6/r3db2r1db18g1db2~x4/"><circle cx="577.0" cy="173.7" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><circle cx="409.9" cy="110.7" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.7" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s7/db8y2db8g7db57k3lb1~x2/"><circle cx="599.1" cy="91.1" r="4" fill="#3465a4"><title>Cullen (Christian Hill) (Personal)</title></circle></a><a href="/variants/s7/db8lo2db8dg7db57k3lb1~x2/"><circle cx="622.4" cy="98.3" r="4" fill="#3465a4"><title>Cullen (Christian Hill)</title></circle></a><circle cx="617.8" cy="76.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3db2ly1db50w1db2lb3~x2/

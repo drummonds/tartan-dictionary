@@ -1,5 +1,12 @@
 ---
 title: "Woodberry Forest School (Corporate)"
-redirect: "/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Woodberry Forest School (Corporate)](/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/).
+This is the **Woodberry Forest School (Corporate)** sett — one scale-free proportion (`o6k3w3k3w3k34o6g5o6k5`), colour order pattern
+[KRGRKWKWKR](/stripes/krgrkwkwkr/). It is recorded as a single **variant**, below.
+First attested **~2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Woodberry Forest School (Corporate)](/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/) ★ | ~2006 | ![Woodberry Forest School (Corporate) sett](/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/sett.png) |

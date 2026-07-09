@@ -1,5 +1,12 @@
 ---
 title: "Etive, Burgundy (Dance)"
-redirect: "/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Etive, Burgundy (Dance)](/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/).
+This is the **Etive, Burgundy (Dance)** sett — one scale-free proportion (`r15ri1g3k1w11r3g3ri3w1`), colour order pattern
+[RRGKWRGRW](/stripes/rrgkwrgrw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Etive, Burgundy (Dance)](/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/) ★ | 2008 | ![Etive, Burgundy (Dance) sett](/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Head of the Lakes"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Head of the Lakes"
-  url: ""
+  url: "/setts/b6w1k12g6dp2w1dp2w1k12lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b6w1k12g6dp2w1dp2w1k12lb1/)
-(the same proportion at any scale), whose colour order is pattern [BWKGBWBWKW](/stripes/bwkgbwbwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b6w1k12g6dp2w1dp2w1k12lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKGBWBWKW](/stripes/bwkgbwbwkw/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000/"><circle cx="128.8" cy="153.9" r="4" fill="#3465a4"><title>Yates Personal Tartan</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~n1900000-o2500000/"><circle cx="128.2" cy="152.9" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="217.3" cy="117.6" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="147.0" cy="108.6" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2dr1w2g8~x2~w4000000/"><circle cx="147.0" cy="108.8" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/"><circle cx="152.3" cy="138.2" r="4" fill="#3465a4"><title>van der Watt Personal)</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.6" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/"><circle cx="210.8" cy="115.6" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s13/db8k2db3k12dp3lb1dp3k16g3lb2dr1lb2g8~x2/"><circle cx="156.1" cy="111.5" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><circle cx="184.0" cy="121.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000/"><circle cx="128.8" cy="153.8" r="4" fill="#3465a4"><title>Yates Personal Tartan</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.6" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~n1900000-o2500000/"><circle cx="128.2" cy="152.8" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="217.3" cy="117.5" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="147.0" cy="108.4" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2dr1w2g8~x2~w4000000/"><circle cx="147.0" cy="108.7" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/"><circle cx="152.3" cy="138.0" r="4" fill="#3465a4"><title>van der Watt Personal)</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.5" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/"><circle cx="210.8" cy="115.5" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s13/db8k2db3k12dp3lb1dp3k16g3lb2dr1lb2g8~x2/"><circle cx="156.1" cy="111.4" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><circle cx="184.0" cy="121.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/

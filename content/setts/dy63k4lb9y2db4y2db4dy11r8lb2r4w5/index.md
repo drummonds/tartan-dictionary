@@ -1,5 +1,12 @@
 ---
-title: "Sellers/Sillars"
-redirect: "/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/"
+title: "Seller Sillar Family Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sellers/Sillars](/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/).
+This is the **Seller Sillar Family Tartan** sett — one scale-free proportion (`dy63k4lb9y2db4y2db4dy11r8lb2r4w5`), colour order pattern
+[GKWGBGBGRWRW](/stripes/gkwgbgbgrwrw/). It is recorded as a single **variant**, below.
+First attested **1978**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Seller Sillar Family Tartan](/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/) ★ | 1978 | ![Seller Sillar Family Tartan sett](/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/sett.png) |

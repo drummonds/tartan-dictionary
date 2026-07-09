@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/">Wellington or Waterloo</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/"><img src="/variants/s6/lb3g12k14lb11r3lb3~x2/sett.png" alt="Wellington or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/">Wellington, or Waterloo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><img src="/variants/s6/lb3g6k6lb4r1lb1~x2/sett.png" alt="Wellington, or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/">Wellington or Waterloo Commemorative Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><img src="/variants/s6/lb3g6k6lb4r1lb1~x2/sett.png" alt="Wellington or Waterloo Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "Stuart/Stewart Blue"
-redirect: "/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stuart/Stewart Blue](/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/).
+This is the **Stuart/Stewart Blue** sett — one scale-free proportion (`lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2`), colour order pattern
+[WBKBGKWKYKBW](/stripes/wbkbgkwkykbw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Stuart/Stewart Blue](/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/) ★ | 2002 | ![Stuart/Stewart Blue sett](/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/sett.png) |

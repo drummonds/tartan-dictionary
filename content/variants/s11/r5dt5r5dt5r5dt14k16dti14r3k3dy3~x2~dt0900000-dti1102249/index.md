@@ -1,14 +1,16 @@
 ---
 title: "MacDougall - 1970 (William) (Comm)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDougall - 1970 (William) (Comm)"
-  url: ""
+  url: "/setts/r5dt5r5dt5r5dt14k16dti14r3k3dy3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5dt5r5dt5r5dt14k16dti14r3k3dy3/)
-(the same proportion at any scale), whose colour order is pattern [GKRBKBRBRBR](/stripes/gkrbkbrbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r5dt5r5dt5r5dt14k16dti14r3k3dy3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRBKBRBRBR](/stripes/gkrbkbrbrbr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="101.0" cy="178.4" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/"><circle cx="93.7" cy="182.4" r="4" fill="#3465a4"><title>Tupper, Sir Charles</title></circle></a><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="169.2" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s6/dy2lr1dy5k4do5o1~x4~do1402055/"><circle cx="137.5" cy="235.7" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><circle cx="132.4" cy="188.9" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/"><circle cx="110.7" cy="180.7" r="4" fill="#3465a4"><title>Laois County, Crest Range</title></circle></a><a href="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/"><circle cx="120.5" cy="179.9" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.7" cy="189.5" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.6" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/"><circle cx="138.0" cy="236.0" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><circle cx="99.6" cy="203.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="101.0" cy="178.3" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/"><circle cx="93.7" cy="182.4" r="4" fill="#3465a4"><title>Tupper, Sir Charles</title></circle></a><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="169.1" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s6/dy2lr1dy5k4do5o1~x4~do1402055/"><circle cx="137.5" cy="235.7" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><circle cx="132.4" cy="188.8" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/"><circle cx="110.7" cy="180.6" r="4" fill="#3465a4"><title>Laois County, Crest Range</title></circle></a><a href="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/"><circle cx="120.5" cy="179.8" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.8" cy="189.4" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.5" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/"><circle cx="138.1" cy="235.9" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><circle cx="99.6" cy="203.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r5dt5r5dt5r5dt14k16dti14r3k3dy3~x2~dt0900000-dti1102249/

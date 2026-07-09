@@ -1,6 +1,7 @@
 ---
 title: "Payne"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Payne"
   url: "/tartans/payne/"
 - name: "Payne"
-  url: ""
+  url: "/setts/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1/)
-(the same proportion at any scale), whose colour order is pattern [BGBKBKBKBBBBKB](/stripes/bgbkbkbkbbbbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBKBKBKBBBBKB](/stripes/bgbkbkbkbbbbkb/).
 
 Part of the [Payne](/tartans/payne/) tartan — the named design grouping this sett with its other cloths.
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1~x2~dbi1406275-db1204274/"><circle cx="422.6" cy="113.0" r="4" fill="#3465a4"><title>Payne (Name)</title></circle></a><a href="/variants/s10/db2ki3db33k11ki3db3dp15db4lb1db2~x2~db1404245-ki0503284/"><circle cx="378.0" cy="113.7" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><circle cx="371.6" cy="94.0" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/"><circle cx="315.5" cy="89.5" r="4" fill="#3465a4"><title>Muir Homes</title></circle></a><a href="/variants/s10/ki6w1ki40dp1k12dg12dp6dg2b2dg4~x2~ki0604259/"><circle cx="347.1" cy="92.9" r="4" fill="#3465a4"><title>Scotland the Brave</title></circle></a><a href="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/"><circle cx="367.4" cy="92.0" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><a href="/variants/s10/ki76db22k1y3k1db3k1w2k1db10~x2~ki0604259/"><circle cx="481.7" cy="77.3" r="4" fill="#3465a4"><title>Canberra, City of District Tartan</title></circle></a><a href="/variants/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="343.9" cy="131.5" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/"><circle cx="312.3" cy="81.3" r="4" fill="#3465a4"><title>Doyel (Name)</title></circle></a><a href="/variants/s11/db4n21db8k4db4dy4db9n9db38k1w3~x2/"><circle cx="372.7" cy="108.1" r="4" fill="#3465a4"><title>Connaught Ancestry (Fashion)</title></circle></a><circle cx="385.9" cy="79.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1~x2~dbi1406275-db1204274/"><circle cx="422.6" cy="112.9" r="4" fill="#3465a4"><title>Payne (Name)</title></circle></a><a href="/variants/s10/db2ki3db33k11ki3db3dp15db4lb1db2~x2~db1404245-ki0503284/"><circle cx="378.0" cy="113.5" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><circle cx="371.6" cy="93.8" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/"><circle cx="315.5" cy="89.4" r="4" fill="#3465a4"><title>Muir Homes</title></circle></a><a href="/variants/s10/ki6w1ki40dp1k12dg12dp6dg2b2dg4~x2~ki0604259/"><circle cx="347.1" cy="92.7" r="4" fill="#3465a4"><title>Scotland the Brave</title></circle></a><a href="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/"><circle cx="367.4" cy="91.8" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><a href="/variants/s10/ki76db22k1y3k1db3k1w2k1db10~x2~ki0604259/"><circle cx="481.7" cy="77.2" r="4" fill="#3465a4"><title>Canberra, City of District Tartan</title></circle></a><a href="/variants/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="343.9" cy="131.4" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/"><circle cx="312.4" cy="81.1" r="4" fill="#3465a4"><title>Doyel (Name)</title></circle></a><a href="/variants/s11/db4n21db8k4db4dy4db9n9db38k1w3~x2/"><circle cx="372.7" cy="108.0" r="4" fill="#3465a4"><title>Connaught Ancestry (Fashion)</title></circle></a><circle cx="385.9" cy="79.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1~x2~dbi1604274-db0805267/

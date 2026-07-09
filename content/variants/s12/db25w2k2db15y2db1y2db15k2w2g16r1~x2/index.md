@@ -1,6 +1,7 @@
 ---
 title: "Quigley of Knockcroghery (Modern)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Quigley of Knockcroghery"
   url: "/tartans/quigley-of-knockcroghery/"
 - name: "Quigley of Knockcroghery (Modern)"
-  url: ""
+  url: "/setts/db25w2k2db15y2db1y2db15k2w2g16r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db25w2k2db15y2db1y2db15k2w2g16r1/)
-(the same proportion at any scale), whose colour order is pattern [BWKBGBGBKWGR](/stripes/bwkbgbgbkwgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db25w2k2db15y2db1y2db15k2w2g16r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKBGBGBKWGR](/stripes/bwkbgbgbkwgr/).
 
 Part of the [Quigley of Knockcroghery](/tartans/quigley-of-knockcroghery/) tartan — the named design grouping this sett with its other cloths.
 
@@ -83,6 +85,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.1" cy="92.9" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s11/b27w2b15y1b1y1b15k2w2g16r1~x2/"><circle cx="398.1" cy="102.5" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.3" cy="75.8" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.4" cy="78.6" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.3" cy="72.3" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/"><circle cx="326.7" cy="86.8" r="4" fill="#3465a4"><title>Pounds</title></circle></a><a href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"><circle cx="282.3" cy="69.4" r="4" fill="#3465a4"><title>Murison, Ina</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.2" cy="94.0" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="276.0" cy="103.0" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><circle cx="292.2" cy="70.7" r="4" fill="#3465a4"><title>Murison (2014)</title></circle></a><circle cx="325.1" cy="90.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.1" cy="92.8" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s11/b27w2b15y1b1y1b15k2w2g16r1~x2/"><circle cx="398.1" cy="102.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.3" cy="75.6" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.4" cy="78.4" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.3" cy="72.2" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/"><circle cx="326.7" cy="86.6" r="4" fill="#3465a4"><title>Pounds</title></circle></a><a href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"><circle cx="282.3" cy="69.2" r="4" fill="#3465a4"><title>Murison, Ina</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.2" cy="93.9" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="276.1" cy="102.8" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><circle cx="292.3" cy="70.6" r="4" fill="#3465a4"><title>Murison (2014)</title></circle></a><circle cx="325.1" cy="90.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/

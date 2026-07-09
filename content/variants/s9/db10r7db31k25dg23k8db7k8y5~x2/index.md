@@ -1,6 +1,7 @@
 ---
 title: "MacCallum of Berwick"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "MacCallum of Berwick"
   url: "/tartans/maccallum-of-berwick/"
 - name: "MacCallum of Berwick"
-  url: ""
+  url: "/setts/db10r7db31k25dg23k8db7k8y5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10r7db31k25dg23k8db7k8y5/)
-(the same proportion at any scale), whose colour order is pattern [BRBKGKBKG](/stripes/brbkgkbkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db10r7db31k25dg23k8db7k8y5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKGKBKG](/stripes/brbkgkbkg/).
 
 Part of the [MacCallum of Berwick](/tartans/maccallum-of-berwick/) tartan — the named design grouping this sett with its other cloths.
 
@@ -78,6 +80,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="122.0" cy="202.1" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.3" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="121.9" cy="240.9" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.1" cy="210.0" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="151.2" cy="208.2" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/variants/s13/db12k2r2k2r2k12dg11y2dg11k12db11k2r2~x2/"><circle cx="130.3" cy="186.8" r="4" fill="#3465a4"><title>Black Watch Plaid of Pipers</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="133.9" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="158.1" cy="213.4" r="4" fill="#3465a4"><title>Junior Chamber International (Corp)</title></circle></a><a href="/variants/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2~db1204274-t2503227/"><circle cx="154.6" cy="187.8" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><circle cx="151.7" cy="210.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.2" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="122.0" cy="202.0" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="122.0" cy="240.8" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.2" cy="209.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="151.2" cy="208.2" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/variants/s13/db12k2r2k2r2k12dg11y2dg11k12db11k2r2~x2/"><circle cx="130.4" cy="186.7" r="4" fill="#3465a4"><title>Black Watch Plaid of Pipers</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="134.0" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="158.2" cy="213.3" r="4" fill="#3465a4"><title>Junior Chamber International (Corp)</title></circle></a><a href="/variants/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2~db1204274-t2503227/"><circle cx="154.6" cy="187.7" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><circle cx="151.8" cy="209.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db10r7db31k25dg23k8db7k8y5~x2/

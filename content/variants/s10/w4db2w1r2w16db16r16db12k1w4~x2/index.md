@@ -1,14 +1,16 @@
 ---
 title: "Spirit of Russia, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Russia, The"
-  url: ""
+  url: "/setts/w4db2w1r2w16db16r16db12k1w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4db2w1r2w16db16r16db12k1w4/)
-(the same proportion at any scale), whose colour order is pattern [WBWRWBRBKW](/stripes/wbwrwbrbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4db2w1r2w16db16r16db12k1w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWRWBRBKW](/stripes/wbwrwbrbkw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb1dp3k2w1dp8w1k2w9k1w3lb1~x6/"><circle cx="169.4" cy="159.1" r="4" fill="#3465a4"><title>MacRae, Dress Purple (Dance)</title></circle></a><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><circle cx="153.6" cy="131.6" r="4" fill="#3465a4"><title>Ross Purple Dress Tartan</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="136.1" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="222.8" cy="173.5" r="4" fill="#3465a4"><title>Lennox Purple Dress District Tartan</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="195.1" cy="126.6" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/"><circle cx="132.6" cy="133.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="150.0" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2~dbi1406275-db1204274/"><circle cx="210.1" cy="164.8" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.8" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.2" cy="158.7" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><circle cx="181.6" cy="149.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb1dp3k2w1dp8w1k2w9k1w3lb1~x6/"><circle cx="169.4" cy="159.0" r="4" fill="#3465a4"><title>MacRae, Dress Purple (Dance)</title></circle></a><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><circle cx="153.6" cy="131.5" r="4" fill="#3465a4"><title>Ross Purple Dress Tartan</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="135.9" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="222.8" cy="173.4" r="4" fill="#3465a4"><title>Lennox Purple Dress District Tartan</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="195.1" cy="126.5" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/"><circle cx="132.6" cy="133.6" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="149.9" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2~dbi1406275-db1204274/"><circle cx="210.1" cy="164.7" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.7" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.2" cy="158.6" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><circle cx="181.5" cy="149.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w4db2w1r2w16db16r16db12k1w4~x2/

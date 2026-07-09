@@ -1,14 +1,16 @@
 ---
 title: "Lovell (2014)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lovell (2014)"
   url: "/setts/y2k2dbi14db4k5r2y5r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2k2dbi14db4k5r2y5r1/)
-(the same proportion at any scale), whose colour order is pattern [GKBBKRGR](/stripes/gkbbkrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y2k2dbi14db4k5r2y5r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBBKRGR](/stripes/gkbbkrgr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/"><circle cx="164.0" cy="154.1" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.7" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.1" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s8/db10r1db1r1db1k6y9t2~x2/"><circle cx="159.2" cy="165.8" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.6" cy="172.6" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.5" cy="132.6" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.9" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.6" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="153.9" cy="133.1" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><a href="/variants/s9/db40r4k16w3dy8dr4dy3dr8k10~x2/"><circle cx="176.1" cy="129.7" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><circle cx="174.7" cy="156.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/"><circle cx="164.1" cy="154.0" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.6" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.0" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s8/db10r1db1r1db1k6y9t2~x2/"><circle cx="159.3" cy="165.7" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.7" cy="172.5" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.6" cy="132.4" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.7" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.5" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="154.0" cy="133.0" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><a href="/variants/s9/db40r4k16w3dy8dr4dy3dr8k10~x2/"><circle cx="176.1" cy="129.6" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><circle cx="174.7" cy="156.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1406275-db1204274/

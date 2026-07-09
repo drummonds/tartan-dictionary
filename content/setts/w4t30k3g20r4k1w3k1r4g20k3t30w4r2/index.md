@@ -1,5 +1,12 @@
 ---
 title: "Scottish Prison Service"
-redirect: "/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scottish Prison Service](/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/).
+This is the **Scottish Prison Service** sett — one scale-free proportion (`w4t30k3g20r4k1w3k1r4g20k3t30w4r2`), colour order pattern
+[RWBKGRKWKRGKBW](/stripes/rwbkgrkwkrgkbw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scottish Prison Service](/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/) ★ | 2005 | ![Scottish Prison Service sett](/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/sett.png) |

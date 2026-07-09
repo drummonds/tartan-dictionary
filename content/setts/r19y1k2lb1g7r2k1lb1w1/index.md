@@ -1,5 +1,12 @@
 ---
-title: "Drummond Ancient"
-redirect: "/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"
+title: "Drummond Old Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Drummond Ancient](/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/).
+This is the **Drummond Old Clan Tartan** sett — one scale-free proportion (`r19y1k2lb1g7r2k1lb1w1`), colour order pattern
+[RGKWGRKWW](/stripes/rgkwgrkww/). It is recorded as a single **variant**, below.
+First attested **~1930**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Drummond Old Clan Tartan](/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/) ★ | ~1930 | ![Drummond Old Clan Tartan sett](/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/sett.png) |

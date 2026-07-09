@@ -1,5 +1,12 @@
 ---
 title: "Highland Burn (Fashion)"
-redirect: "/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highland Burn (Fashion)](/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/).
+This is the **Highland Burn (Fashion)** sett — one scale-free proportion (`dp10lb1dg2k2dg18r1n45k1`), colour order pattern
+[BWGKGRBK](/stripes/bwgkgrbk/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Highland Burn (Fashion)](/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/) ★ | 2008 | ![Highland Burn (Fashion) sett](/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Morris of Wales"
-redirect: "/variants/s8/y4db48y4db3y2db3y3w4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Morris of Wales](/variants/s8/y4db48y4db3y2db3y3w4/).
+This is the **Morris of Wales** sett — one scale-free proportion (`y4db48y4db3y2db3y3w4`), colour order pattern
+[GBGBGBGW](/stripes/gbgbgbgw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Morris of Wales](/variants/s8/y4db48y4db3y2db3y3w4/) ★ | 2002 | ![Morris of Wales sett](/variants/s8/y4db48y4db3y2db3y3w4/sett.png) |

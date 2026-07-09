@@ -1,14 +1,16 @@
 ---
 title: "Dunbar Plaid"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunbar Plaid"
-  url: ""
+  url: "/setts/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16/)
-(the same proportion at any scale), whose colour order is pattern [KWKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW](/stripes/kwkrkrkrkrkrkrkrkrkrkrkrkrkwkwkwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW](/stripes/kwkrkrkrkrkrkrkrkrkrkrkrkrkwkwkwkwkw/).
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 

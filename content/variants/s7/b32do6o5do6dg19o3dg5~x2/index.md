@@ -1,14 +1,16 @@
 ---
 title: "Roscommon"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Roscommon"
-  url: ""
+  url: "/setts/b32do6o5do6dg19o3dg5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b32do6o5do6dg19o3dg5/)
-(the same proportion at any scale), whose colour order is pattern [BBRBGRG](/stripes/bbrbgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b32do6o5do6dg19o3dg5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBGRG](/stripes/bbrbgrg/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.3" cy="175.6" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.2" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><circle cx="289.0" cy="215.5" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s7/dp9b4dp1b4dg15r4dp1~x2/"><circle cx="273.0" cy="207.7" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.4" cy="205.0" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.7" cy="242.2" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.8" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="293.4" cy="198.1" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="286.1" cy="216.4" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><circle cx="283.3" cy="220.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.4" cy="175.5" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.1" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><circle cx="289.0" cy="215.4" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s7/dp9b4dp1b4dg15r4dp1~x2/"><circle cx="273.0" cy="207.6" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.4" cy="204.9" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.8" cy="242.1" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.7" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="293.4" cy="198.1" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="286.1" cy="216.4" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><circle cx="283.4" cy="220.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/b32do6o5do6dg19o3dg5~x2/

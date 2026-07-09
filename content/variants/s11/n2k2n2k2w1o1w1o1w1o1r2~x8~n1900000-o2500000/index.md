@@ -1,14 +1,16 @@
 ---
 title: "Unidentified (2103)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified (2103)"
-  url: ""
+  url: "/setts/n2k2n2k2w1o1w1o1w1o1r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2k2n2k2w1o1w1o1w1o1r2/)
-(the same proportion at any scale), whose colour order is pattern [BKBKWRWRWRR](/stripes/bkbkwrwrwrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n2k2n2k2w1o1w1o1w1o1r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKWRWRWRR](/stripes/bkbkwrwrwrr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/"><circle cx="14.0" cy="246.7" r="4" fill="#3465a4"><title>Valley Forge Pipe Band</title></circle></a><a href="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/"><circle cx="14.0" cy="246.9" r="4" fill="#3465a4"><title>Davidson of Tulloch Dress</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/"><circle cx="14.0" cy="223.0" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><circle cx="14.0" cy="221.6" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.9" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><a href="/variants/s14/g10k6t10y4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="221.2" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/"><circle cx="14.0" cy="272.2" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><circle cx="14.0" cy="272.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/"><circle cx="14.0" cy="246.6" r="4" fill="#3465a4"><title>Valley Forge Pipe Band</title></circle></a><a href="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/"><circle cx="14.0" cy="246.9" r="4" fill="#3465a4"><title>Davidson of Tulloch Dress</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/"><circle cx="14.0" cy="223.0" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><circle cx="14.0" cy="221.5" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.8" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><a href="/variants/s14/g10k6t10y4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="221.1" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/"><circle cx="14.0" cy="272.2" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><circle cx="14.0" cy="272.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n2k2n2k2w1o1w1o1w1o1r2~x8~n1900000-o2500000/

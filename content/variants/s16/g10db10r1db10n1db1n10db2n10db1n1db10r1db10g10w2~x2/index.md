@@ -1,14 +1,16 @@
 ---
 title: "American Soc of Travel Agents Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "American Soc of Travel Agents Corporate Tartan"
-  url: ""
+  url: "/setts/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2/)
-(the same proportion at any scale), whose colour order is pattern [GBRBBBBBBBBBRBGW](/stripes/gbrbbbbbbbbbrbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBRBBBBBBBBBRBGW](/stripes/gbrbbbbbbbbbrbgw/).
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -23,7 +25,7 @@ Earliest known date: Pre 1995 Deisgned by Kinloch Anderson for the Scottish Tour
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>Pre 1995 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.4" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><circle cx="224.7" cy="190.0" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="256.0" cy="187.4" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.1" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.7" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/"><circle cx="209.7" cy="148.7" r="4" fill="#3465a4"><title>Hart of Scotland (Corporate)</title></circle></a><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><circle cx="279.1" cy="167.5" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/"><circle cx="199.3" cy="184.5" r="4" fill="#3465a4"><title>Army Benevolent Fund (Corporate)</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/"><circle cx="278.0" cy="183.8" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/"><circle cx="216.5" cy="144.0" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><circle cx="246.3" cy="182.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.3" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><circle cx="224.7" cy="189.9" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="256.0" cy="187.3" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.0" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.6" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/"><circle cx="209.7" cy="148.6" r="4" fill="#3465a4"><title>Hart of Scotland (Corporate)</title></circle></a><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><circle cx="279.2" cy="167.4" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/"><circle cx="199.3" cy="184.4" r="4" fill="#3465a4"><title>Army Benevolent Fund (Corporate)</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/"><circle cx="278.1" cy="183.7" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/"><circle cx="216.5" cy="143.8" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><circle cx="246.3" cy="182.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/

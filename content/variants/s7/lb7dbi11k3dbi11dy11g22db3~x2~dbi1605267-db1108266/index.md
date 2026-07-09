@@ -1,16 +1,18 @@
 ---
 title: "Scottish Odyssey"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Odyssey"
   url: "/tartans/scottish-odyssey/"
 - name: "Scottish Odyssey"
-  url: ""
+  url: "/setts/lb7dbi11k3dbi11dy11g22db3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb7dbi11k3dbi11dy11g22db3/)
-(the same proportion at any scale), whose colour order is pattern [BGGBKBW](/stripes/bggbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb7dbi11k3dbi11dy11g22db3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGBKBW](/stripes/bggbkbw/).
 
 Part of the [Scottish Odyssey](/tartans/scottish-odyssey/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db7b12k3b12dy12g25t3~x2/"><circle cx="131.4" cy="210.8" r="4" fill="#3465a4"><title>Scottish Odyssey (Fashion)</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/lr3t14k12dg12k2ly3~x4~t2205244-k0700000/"><circle cx="109.4" cy="222.6" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><a href="/variants/s7/r3g20k2n11k2db20lr2~x2/"><circle cx="133.8" cy="169.8" r="4" fill="#3465a4"><title>Grandfather Mountain Games American Corporate Tartan</title></circle></a><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/"><circle cx="141.0" cy="224.8" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.5" cy="188.3" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.4" cy="233.1" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/"><circle cx="114.4" cy="242.5" r="4" fill="#3465a4"><title>Parliament Trade Tartan</title></circle></a><a href="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="68.1" cy="197.0" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.1" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><circle cx="103.3" cy="214.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db7b12k3b12dy12g25t3~x2/"><circle cx="131.5" cy="210.7" r="4" fill="#3465a4"><title>Scottish Odyssey (Fashion)</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.5" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/lr3t14k12dg12k2ly3~x4~t2205244-k0700000/"><circle cx="109.5" cy="222.5" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><a href="/variants/s7/r3g20k2n11k2db20lr2~x2/"><circle cx="133.8" cy="169.7" r="4" fill="#3465a4"><title>Grandfather Mountain Games American Corporate Tartan</title></circle></a><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/"><circle cx="141.0" cy="224.7" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.6" cy="188.2" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.4" cy="233.1" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/"><circle cx="114.4" cy="242.4" r="4" fill="#3465a4"><title>Parliament Trade Tartan</title></circle></a><a href="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="68.1" cy="196.9" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.0" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><circle cx="103.3" cy="214.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb7dbi11k3dbi11dy11g22db3~x2~dbi1605267-db1108266/

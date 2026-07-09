@@ -1,5 +1,12 @@
 ---
 title: "Stewarton (Fashion)"
-redirect: "/variants/s8/k1o3lb3n3db3n3g3k1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stewarton (Fashion)](/variants/s8/k1o3lb3n3db3n3g3k1~x4/).
+This is the **Stewarton (Fashion)** sett — one scale-free proportion (`k1o3lb3n3db3n3g3k1`), colour order pattern
+[KGBBBWRK](/stripes/kgbbbwrk/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Stewarton (Fashion)](/variants/s8/k1o3lb3n3db3n3g3k1~x4/) ★ | 1997 | ![Stewarton (Fashion) sett](/variants/s8/k1o3lb3n3db3n3g3k1~x4/sett.png) |

@@ -3,15 +3,8 @@ title: 6 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 6
 ---
-1,378 setts across 1,307 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,377 setts across 1,306 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes6/p3/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p5/">next ›</a></nav>
-
-### BRBBRB
-<a class="pat" href="/stripes/brbbrb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">BRBBRB</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.16 | [Eglington](/variants/s6/dr2o2dr17dt17m2dt2~x4/) | register-of-tartans |
 
 ### BRBGBG
 <a class="pat" href="/stripes/brbgbg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRBGBG</span></a>
@@ -109,7 +102,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Denny, hunting](/variants/s6/k1g6k1g6r16db1~x2/) | weddslist |
+| 0.06 | [Denny Hunting Clan Tartan](/variants/s6/k1g6k1g6r16db1~x2/) | house-of-tartan |
 
 ### BRGKGR
 <a class="pat" href="/stripes/brgkgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRGKGR</span></a>
@@ -172,7 +165,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Skinner](/variants/s6/r8k8lo1k8r8db1~x4~db1406275/) | register-of-tartans |
+| 0.06 | [Skinner Family Tartan](/variants/s6/r8k8lo1k8r8db1~x4~db1406275/) | house-of-tartan |
 
 ### BRWBGR
 <a class="pat" href="/stripes/brwbgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRWBGR</span></a>
@@ -662,7 +655,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Dege of Saville Row](/variants/s6/dy11db1dy3dbi1db9r1~x4~db1204274-dbi1406275/) | register-of-tartans |
+| 0.09 | [Dege of Saville Row Corporate Tartan](/variants/s6/dy11db1dy3dbi1db9r1~x4~db1204274-dbi1406275/) | house-of-tartan |
 
 ### GBGBGW
 <a class="pat" href="/stripes/gbgbgw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GBGBGW</span></a>
@@ -1075,7 +1068,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Vancouver Centennial](/variants/s6/g4y2g24w12db26r1~x2/) | register-of-tartans |
+| 0.09 | [Vancouver Centennial Commemorative Tartan](/variants/s6/g4y2g24w12db26r1~x2/) | house-of-tartan |
 
 ### GGGWGW
 <a class="pat" href="/stripes/gggwgw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GGGWGW</span></a>
@@ -1201,7 +1194,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Inverary](/variants/s6/dg10k1db13k3w9y3~x2/) | weddslist |
+| 0.08 | [Inverary Clan Tartan](/variants/s6/dg10k1db13k3w9y3~x2/) | house-of-tartan |
 
 ### GKBKWY
 <a class="pat" href="/stripes/gkbkwy/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GKBKWY</span></a>
@@ -2006,7 +1999,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Dyce #3](/variants/s6/k2y1g6k6db6w1~x4/) | register-of-tartans |
+| 0.08 | [Dyce Family Tartan](/variants/s6/k2y1g6k6db6w1~x4/) | house-of-tartan |
 
 ### KGGKRK
 <a class="pat" href="/stripes/kggkrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">KGGKRK</span></a>
@@ -2105,5 +2098,12 @@ weight: 6
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.09 | [Pride of Glencoe](/variants/s6/k3g2m3db30dp32w3~x2/) | register-of-tartans |
+
+### KGRGKW
+<a class="pat" href="/stripes/kgrgkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KGRGKW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.04 | [Perratt (Personal)](/variants/s6/k83g4r4g10k1w3~x2/) | register-of-tartans |
 
 <nav class="pager"><a href="/stripes/stripes6/p3/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p5/">next ›</a></nav>

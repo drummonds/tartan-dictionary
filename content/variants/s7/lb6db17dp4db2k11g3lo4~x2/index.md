@@ -1,6 +1,7 @@
 ---
 title: "East Lothian"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "East Lothian"
   url: "/tartans/east-lothian/"
 - name: "East Lothian"
-  url: ""
+  url: "/setts/lb6db17dp4db2k11g3lo4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6db17dp4db2k11g3lo4/)
-(the same proportion at any scale), whose colour order is pattern [WBBBKGY](/stripes/wbbbkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb6db17dp4db2k11g3lo4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBBBKGY](/stripes/wbbbkgy/).
 
 Part of the [East Lothian](/tartans/east-lothian/) tartan — the named design grouping this sett with its other cloths.
 
@@ -67,6 +69,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.5" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="205.4" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><circle cx="73.3" cy="183.5" r="4" fill="#3465a4"><title>Ayrshire (International Tartans)</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.7" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.4" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.7" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~n1900000-o2500000/"><circle cx="128.2" cy="152.9" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.7" cy="169.6" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.6" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><circle cx="105.1" cy="173.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.4" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="205.3" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><circle cx="73.3" cy="183.4" r="4" fill="#3465a4"><title>Ayrshire (International Tartans)</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.6" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.3" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.6" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~n1900000-o2500000/"><circle cx="128.2" cy="152.8" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.6" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.8" cy="169.5" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.5" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><circle cx="105.1" cy="173.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb6db17dp4db2k11g3lo4~x2/

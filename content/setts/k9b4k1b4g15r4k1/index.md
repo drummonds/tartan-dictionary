@@ -1,5 +1,12 @@
 ---
 title: "Logan, Dark"
-redirect: "/variants/s7/k9b4k1b4g15r4k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Logan, Dark](/variants/s7/k9b4k1b4g15r4k1~x2/).
+This is the **Logan, Dark** sett — one scale-free proportion (`k9b4k1b4g15r4k1`), colour order pattern
+[KBKBGRK](/stripes/kbkbgrk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Logan, Dark](/variants/s7/k9b4k1b4g15r4k1~x2/) ★ | ~2016 | ![Logan, Dark sett](/variants/s7/k9b4k1b4g15r4k1~x2/sett.png) |

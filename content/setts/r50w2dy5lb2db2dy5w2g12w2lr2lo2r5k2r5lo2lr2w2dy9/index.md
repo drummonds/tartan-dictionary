@@ -1,5 +1,12 @@
 ---
 title: "New Loudoun"
-redirect: "/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [New Loudoun](/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/).
+This is the **New Loudoun** sett — one scale-free proportion (`r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9`), colour order pattern
+[GWYYRKRYYWGWGBWGWR](/stripes/gwyyrkryywgwgbwgwr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [New Loudoun](/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/) ★ | 2002 | ![New Loudoun sett](/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/sett.png) |

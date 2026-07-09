@@ -1,5 +1,12 @@
 ---
 title: "The Mary Erskine"
-redirect: "/variants/s6/k3r1k16r16k1r3~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [The Mary Erskine](/variants/s6/k3r1k16r16k1r3~x4/).
+This is the **The Mary Erskine** sett — one scale-free proportion (`k3r1k16r16k1r3`), colour order pattern
+[KRKRKR](/stripes/krkrkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [The Mary Erskine](/variants/s6/k3r1k16r16k1r3~x4/) ★ | ~2016 | ![The Mary Erskine sett](/variants/s6/k3r1k16r16k1r3~x4/sett.png) |

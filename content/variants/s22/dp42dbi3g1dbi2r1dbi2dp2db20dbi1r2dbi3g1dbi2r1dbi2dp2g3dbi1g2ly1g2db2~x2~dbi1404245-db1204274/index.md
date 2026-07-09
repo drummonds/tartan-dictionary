@@ -1,14 +1,16 @@
 ---
 title: "Monarch of the Glen"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Monarch of the Glen"
-  url: ""
+  url: "/setts/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2/)
-(the same proportion at any scale), whose colour order is pattern [BBGBRBBBBRBGBRBBGBGYGB](/stripes/bbgbrbbbbrbgbrbbgbgygb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBRBBBBRBGBRBBGBGYGB](/stripes/bbgbrbbbbrbgbrbbgbgygb/).
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

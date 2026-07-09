@@ -1,5 +1,12 @@
 ---
 title: "Noordermeer Personal Tartan"
-redirect: "/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Noordermeer Personal Tartan](/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/).
+This is the **Noordermeer Personal Tartan** sett — one scale-free proportion (`k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2`), colour order pattern
+[KRWRKRKRKRKRKRWRKW](/stripes/krwrkrkrkrkrkrwrkw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Noordermeer Personal Tartan](/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/) ★ | 2004 | ![Noordermeer Personal Tartan sett](/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/sett.png) |

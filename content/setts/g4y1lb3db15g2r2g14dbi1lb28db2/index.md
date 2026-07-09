@@ -1,5 +1,12 @@
 ---
 title: "Heriot Watt University"
-redirect: "/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db0805267-dbi1604274/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Heriot Watt University](/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db0805267-dbi1604274/).
+This is the **Heriot Watt University** sett — one scale-free proportion (`g4y1lb3db15g2r2g14dbi1lb28db2`), colour order pattern
+[BWBGRGBWGG](/stripes/bwbgrgbwgg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Heriot Watt University](/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db0805267-dbi1604274/) ★ | ~2016 | ![Heriot Watt University sett](/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db0805267-dbi1604274/sett.png) |

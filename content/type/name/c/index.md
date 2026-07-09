@@ -38,7 +38,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><img src="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/sett.png" alt="Childers" width="140"><br>Childers</a></li>
 <li><a class="tartan" href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><img src="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/sett.png" alt="Chindecella Gorse (Kemete Heil)" width="140"><br>Chindecella Gorse (Kemete Heil)</a></li>
 <li><a class="tartan" href="/variants/s8/dr9db4dr4db4dr24n19db19n4~x2/"><img src="/variants/s8/dr9db4dr4db4dr24n19db19n4~x2/sett.png" alt="Chindecella Ruadh (Kemete Heil)" width="140"><br>Chindecella Ruadh (Kemete Heil)</a></li>
-<li><a class="tartan" href="/variants/s16/r5g16r5db4w2db4w2db4r22db4w2db4r5g16r5db2~x4/"><img src="/variants/s16/r5g16r5db4w2db4w2db4r22db4w2db4r5g16r5db2~x4/sett.png" alt="Chisholm" width="140"><br>Chisholm</a></li>
+<li><a class="tartan" href="/variants/s14/r5g16r5db4w2db4r22db4w2db4r5g16r5db2~x4/"><img src="/variants/s14/r5g16r5db4w2db4r22db4w2db4r5g16r5db2~x4/sett.png" alt="Chisholm" width="140"><br>Chisholm</a></li>
 <li><a class="tartan" href="/variants/s8/k6y3k18g20k2db3k2g4~x2/"><img src="/variants/s8/k6y3k18g20k2db3k2g4~x2/sett.png" alt="Choinka Family (Inverness)" width="140"><br>Choinka Family (Inverness)</a></li>
 <li><a class="tartan" href="/variants/s5/db16r1k16w1r1~x4/"><img src="/variants/s5/db16r1k16w1r1~x4/sett.png" alt="Christie (2016)" width="140"><br>Christie (2016)</a></li>
 <li><a class="tartan" href="/variants/s6/y5k2g4lb18r25w5~x2/"><img src="/variants/s6/y5k2g4lb18r25w5~x2/sett.png" alt="Christie (London)" width="140"><br>Christie (London)</a></li>

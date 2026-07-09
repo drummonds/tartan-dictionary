@@ -1,5 +1,12 @@
 ---
-title: "Prince Edward Island #2"
-redirect: "/variants/s7/w2k1g16k12r12k1w2~x2/"
+title: "Prince Edward Island District Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Prince Edward Island #2](/variants/s7/w2k1g16k12r12k1w2~x2/).
+This is the **Prince Edward Island District Tartan** sett — one scale-free proportion (`w2k1g16k12r12k1w2`), colour order pattern
+[WKGKRKW](/stripes/wkgkrkw/). It is recorded as a single **variant**, below.
+First attested **1960**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Prince Edward Island District Tartan](/variants/s7/w2k1g16k12r12k1w2~x2/) ★ | 1960 | ![Prince Edward Island District Tartan sett](/variants/s7/w2k1g16k12r12k1w2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Unidentified No 29"
-redirect: "/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified No 29](/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/).
+This is the **Unidentified No 29** sett — one scale-free proportion (`db3g11t2db11ti6g3`), colour order pattern
+[BGBBBG](/stripes/bgbbbg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified No 29](/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/) ★ | ~2016 | ![Unidentified No 29 sett](/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/sett.png) |

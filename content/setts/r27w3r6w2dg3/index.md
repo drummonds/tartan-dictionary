@@ -2,13 +2,13 @@
 title: "Martin, Robert N (Personal)"
 date: 2023-03-18
 ---
-The **Martin, Robert N (Personal)** tartan is one sett proportion (`r27w3r6w2dg3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GWRWR](/stripes/gwrwr/); each scale below is its own sett page. First attested **2011**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Martin, Robert N (Personal)** sett — one scale-free proportion (`r27w3r6w2dg3`), colour order pattern
+[GWRWR](/stripes/gwrwr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **2011**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Martin, Robert N (Personal)](/variants/s5/r27w3r6w2dg3~x4/) ★ | 2011 | ![Martin, Robert N (Personal) sett](/variants/s5/r27w3r6w2dg3~x4/sett.png) |
-| ×4 | [Martin Family, Robert N Personal Tartan](/variants/s5/r27w3r6w2dg3~x4~r1506028/) | ~2016 | ![Martin Family, Robert N Personal Tartan sett](/variants/s5/r27w3r6w2dg3~x4~r1506028/sett.png) |
+| ×4 | [Martin Family, Robert N Personal Tartan](/variants/s5/r27w3r6w2dg3~x4~r1506028/) | 2011 | ![Martin Family, Robert N Personal Tartan sett](/variants/s5/r27w3r6w2dg3~x4~r1506028/sett.png) |

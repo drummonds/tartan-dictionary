@@ -424,7 +424,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Devon, Original](/variants/s7/n5g4w1g4o4dg4y1~x4/) | weddslist |
+| 0.14 | [Devon Original District Tartan](/variants/s7/n5g4w1g4o4dg4y1~x4/) | house-of-tartan |
 
 ### BGWKYBY
 <a class="pat" href="/stripes/bgwkyby/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BGWKYBY</span></a>
@@ -858,7 +858,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [MacNaughton (Logan)](/variants/s7/db5r17dg16k10db10r17db5~x2/) | register-of-tartans |
+| 0.07 | [MacNaughton Clan Tartan](/variants/s7/db5r17dg16k10db10r17db5~x2/) | house-of-tartan |
 
 ### BRBKRWR
 <a class="pat" href="/stripes/brbkrwr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRBKRWR</span></a>
@@ -1026,21 +1026,21 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Salvation Army, dress](/variants/s7/db80r21k2y4k2r16db10~x2/) | weddslist |
+| 0.07 | [Salvation Army Dress Corporate Tartan](/variants/s7/db80r21k2y4k2r16db10~x2/) | house-of-tartan |
 
 ### BRKGWWW
 <a class="pat" href="/stripes/brkgwww/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BRKGWWW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Unidentified #23](/variants/s7/db35r2k16y2lb25w2lb6~x2/) | register-of-tartans |
+| 0.08 | [US Forces (Thurso) Regimental Tartan](/variants/s7/db35r2k16y2lb25w2lb6~x2/) | house-of-tartan |
 
 ### BRKRWRW
 <a class="pat" href="/stripes/brkrwrw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BRKRWRW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.03 | [Cunningham Dress](/variants/s7/w5r2w34r34k2r2db4~x2/) | register-of-tartans |
+| 0.03 | [Cunningham Dress Clan Tartan](/variants/s7/w5r2w34r34k2r2db4~x2/) | house-of-tartan |
 
 ### BRKRWYR
 <a class="pat" href="/stripes/brkrwyr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRKRWYR</span></a>
@@ -1586,7 +1586,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [13, Legion Branch 50](/variants/s7/r68db9lb10db13y1db1y2~x2/) | weddslist |
+| 0.12 | [Canadian Legion Branch 50 Corporate Tartan](/variants/s7/r68db9lb10db13y1db1y2~x2/) | house-of-tartan |
 
 ### GBGBWGW
 <a class="pat" href="/stripes/gbgbwgw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GBGBWGW</span></a>
@@ -1635,7 +1635,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Fraser Yellow](/variants/s7/r2w2y27g14y2db14y2~x2/) | register-of-tartans |
+| 0.09 | [Fraser Yellow Tartan](/variants/s7/r2w2y27g14y2db14y2~x2/) | house-of-tartan |
 
 ### GBGGYKY
 <a class="pat" href="/stripes/gbggyky/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GBGGYKY</span></a>
@@ -2041,14 +2041,14 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Gordon of Esslemont](/variants/s7/y6g3y3g22k23dp23k4~x2/) | register-of-tartans |
+| 0.11 | [Gordon of Esslemont Family Tartan](/variants/s7/y6g3y3g22k23dp23k4~x2/) | house-of-tartan |
 
 ### GGGGKGR
 <a class="pat" href="/stripes/ggggkgr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GGGGKGR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Paton](/variants/s7/r3g24k28g19y3g3y3~x2/) | weddslist |
+| 0.08 | [Paton Family Tartan](/variants/s7/r3g24k28g19y3g3y3~x2/) | house-of-tartan |
 
 ### GGGGWGG
 <a class="pat" href="/stripes/ggggwgg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGGGWGG</span></a>

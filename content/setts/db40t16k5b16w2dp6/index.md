@@ -1,5 +1,12 @@
 ---
 title: "MacFarland-Collins (Name)"
-redirect: "/variants/s6/db40t16k5b16w2dp6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacFarland-Collins (Name)](/variants/s6/db40t16k5b16w2dp6~x2/).
+This is the **MacFarland-Collins (Name)** sett — one scale-free proportion (`db40t16k5b16w2dp6`), colour order pattern
+[BBKBWB](/stripes/bbkbwb/). It is recorded as a single **variant**, below.
+First attested **~2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacFarland-Collins (Name)](/variants/s6/db40t16k5b16w2dp6~x2/) ★ | ~2010 | ![MacFarland-Collins (Name) sett](/variants/s6/db40t16k5b16w2dp6~x2/sett.png) |

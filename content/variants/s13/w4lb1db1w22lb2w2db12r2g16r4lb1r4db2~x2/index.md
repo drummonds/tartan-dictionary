@@ -1,16 +1,18 @@
 ---
 title: "MacGillivray Dress, Janice"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacGillivray Dress, Janice"
   url: "/tartans/macgillivray-dress-janice/"
 - name: "MacGillivray Dress, Janice"
-  url: ""
+  url: "/setts/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2/)
-(the same proportion at any scale), whose colour order is pattern [BRWRGRBWWWBWW](/stripes/brwrgrbwwwbww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRWRGRBWWWBWW](/stripes/brwrgrbwwwbww/).
 
 Part of the [MacGillivray Dress, Janice](/tartans/macgillivray-dress-janice/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.2" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><circle cx="179.2" cy="128.1" r="4" fill="#3465a4"><title>Ross Hunting Dress</title></circle></a><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/"><circle cx="153.9" cy="106.7" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.8" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.4" cy="72.9" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/"><circle cx="141.6" cy="123.2" r="4" fill="#3465a4"><title>International Council for Commercial Arbitration</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.3" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/"><circle cx="160.0" cy="139.4" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/"><circle cx="171.7" cy="107.0" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="160.3" cy="139.3" r="4" fill="#3465a4"><title>Walker, Dress (Name)</title></circle></a><circle cx="171.0" cy="112.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><circle cx="179.2" cy="128.0" r="4" fill="#3465a4"><title>Ross Hunting Dress</title></circle></a><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/"><circle cx="153.9" cy="106.5" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.6" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.3" cy="72.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/"><circle cx="141.6" cy="123.1" r="4" fill="#3465a4"><title>International Council for Commercial Arbitration</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.2" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/"><circle cx="160.0" cy="139.3" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/"><circle cx="171.7" cy="106.9" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="160.3" cy="139.2" r="4" fill="#3465a4"><title>Walker, Dress (Name)</title></circle></a><circle cx="171.0" cy="112.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/

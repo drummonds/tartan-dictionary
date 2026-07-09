@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s6/r1w14k6w1k3y1~x4/">MacPherson #10</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r1w14k6w1k3y1~x4/"><img src="/variants/s6/r1w14k6w1k3y1~x4/sett.png" alt="MacPherson #10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r4lb28k6w12k12y3~x2/">MacTavish / Thom(p)son, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><img src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="MacTavish / Thom(p)son, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4lb28k6w12k12y3~x2/">MacTavish Dress Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><img src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="MacTavish Dress Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

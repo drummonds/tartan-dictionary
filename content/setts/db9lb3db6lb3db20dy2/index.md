@@ -1,5 +1,12 @@
 ---
 title: "Oman RAF, Sultanate of (Military)"
-redirect: "/variants/s6/db9lb3db6lb3db20dy2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Oman RAF, Sultanate of (Military)](/variants/s6/db9lb3db6lb3db20dy2~x2/).
+This is the **Oman RAF, Sultanate of (Military)** sett — one scale-free proportion (`db9lb3db6lb3db20dy2`), colour order pattern
+[BWBWBG](/stripes/bwbwbg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Oman RAF, Sultanate of (Military)](/variants/s6/db9lb3db6lb3db20dy2~x2/) ★ | ~2016 | ![Oman RAF, Sultanate of (Military) sett](/variants/s6/db9lb3db6lb3db20dy2~x2/sett.png) |

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/">Common Kilt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><img src="/variants/s8/r3k2db25k28g25k2r1db2~x2/sett.png" alt="Common Kilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/">Common Kilt Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><img src="/variants/s8/r3k2db25k28g25k2r1db2~x2/sett.png" alt="Common Kilt Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

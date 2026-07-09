@@ -1,14 +1,16 @@
 ---
 title: "Heart of the Highlands"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Heart of the Highlands"
-  url: ""
+  url: "/setts/o18k3o4lb3o4k18n20k2r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o18k3o4lb3o4k18n20k2r4/)
-(the same proportion at any scale), whose colour order is pattern [RKBKRWRKR](/stripes/rkbkrwrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o18k3o4lb3o4k18n20k2r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBKRWRKR](/stripes/rkbkrwrkr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><circle cx="102.2" cy="163.9" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.5" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="163.2" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="90.4" cy="160.1" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="182.0" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.0" cy="168.8" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2/"><circle cx="120.8" cy="170.6" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="119.1" cy="149.9" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="108.9" cy="153.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><circle cx="120.7" cy="160.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><circle cx="102.3" cy="163.8" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.4" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="163.1" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="90.4" cy="160.0" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="181.9" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.1" cy="168.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2/"><circle cx="120.8" cy="170.5" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="119.1" cy="149.8" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="108.9" cy="152.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><circle cx="120.7" cy="160.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/

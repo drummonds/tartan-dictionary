@@ -1,5 +1,12 @@
 ---
-title: "Donachie of Brockloch Htg (Clan)"
-redirect: "/variants/s10/g24dr2g2dg40g25dg2g2dr2g2dg20~x2/"
+title: "Donachie of Brockloch Hunting Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Donachie of Brockloch Htg (Clan)](/variants/s10/g24dr2g2dg40g25dg2g2dr2g2dg20~x2/).
+This is the **Donachie of Brockloch Hunting Clan Tartan** sett — one scale-free proportion (`g24dr2g2dg40g25dg2g2dr2g2dg20`), colour order pattern
+[GBGGGGGBGG](/stripes/gbgggggbgg/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Donachie of Brockloch Hunting Clan Tartan](/variants/s10/g24dr2g2dg40g25dg2g2dr2g2dg20~x2/) ★ | 2004 | ![Donachie of Brockloch Hunting Clan Tartan sett](/variants/s10/g24dr2g2dg40g25dg2g2dr2g2dg20~x2/sett.png) |

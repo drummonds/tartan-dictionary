@@ -1,5 +1,12 @@
 ---
 title: "Freedom of Scotland"
-redirect: "/variants/s6/k15n7k6n11k50n4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Freedom of Scotland](/variants/s6/k15n7k6n11k50n4~x2/).
+This is the **Freedom of Scotland** sett — one scale-free proportion (`k15n7k6n11k50n4`), colour order pattern
+[BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Freedom of Scotland](/variants/s6/k15n7k6n11k50n4~x2/) ★ | 2003 | ![Freedom of Scotland sett](/variants/s6/k15n7k6n11k50n4~x2/sett.png) |

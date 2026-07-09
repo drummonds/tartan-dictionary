@@ -1,5 +1,12 @@
 ---
 title: "Aberfeldy"
-redirect: "/variants/s14/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Aberfeldy](/variants/s14/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2~x2/).
+This is the **Aberfeldy** sett — one scale-free proportion (`w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2`), colour order pattern
+[WBKWBRBRKBGRGW](/stripes/wbkwbrbrkbgrgw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Aberfeldy](/variants/s14/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2~x2/) ★ | 2008 | ![Aberfeldy sett](/variants/s14/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2~x2/sett.png) |

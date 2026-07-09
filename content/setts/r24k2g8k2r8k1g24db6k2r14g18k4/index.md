@@ -1,5 +1,12 @@
 ---
 title: "Grant, Piper to the Laird of"
-redirect: "/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Grant, Piper to the Laird of](/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/).
+This is the **Grant, Piper to the Laird of** sett — one scale-free proportion (`r24k2g8k2r8k1g24db6k2r14g18k4`), colour order pattern
+[KGRKBGKRKGKR](/stripes/kgrkbgkrkgkr/). It is recorded as a single **variant**, below.
+First attested **1714**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Grant, Piper to the Laird of](/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/) ★ | 1714 | ![Grant, Piper to the Laird of sett](/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/sett.png) |

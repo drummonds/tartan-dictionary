@@ -1,14 +1,16 @@
 ---
 title: "Crookstoun (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Crookstoun (Personal)"
-  url: ""
+  url: "/setts/t53w27r5k19ly1g11/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t53w27r5k19ly1g11/)
-(the same proportion at any scale), whose colour order is pattern [BWRKYG](/stripes/bwrkyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t53w27r5k19ly1g11/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRKYG](/stripes/bwrkyg/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="192.4" cy="98.6" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="237.0" cy="115.9" r="4" fill="#3465a4"><title>Scottish Prison Service (Corporate)</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="177.9" cy="144.1" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S (Personal)</title></circle></a><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="181.2" cy="145.0" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S (Personal)</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.9" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="198.0" cy="149.2" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.0" cy="134.8" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.0" cy="135.2" r="4" fill="#3465a4"><title>Kinloch at Loch Awe (Personal)</title></circle></a><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><circle cx="276.2" cy="58.3" r="4" fill="#3465a4"><title>Pincock (Plockton), Dougie</title></circle></a><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><circle cx="274.3" cy="69.9" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><circle cx="190.9" cy="101.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="192.4" cy="98.5" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="237.0" cy="115.8" r="4" fill="#3465a4"><title>Scottish Prison Service (Corporate)</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="177.9" cy="144.0" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S (Personal)</title></circle></a><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="181.2" cy="144.9" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S (Personal)</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.8" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="198.0" cy="149.1" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.0" cy="134.7" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.0" cy="135.1" r="4" fill="#3465a4"><title>Kinloch at Loch Awe (Personal)</title></circle></a><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><circle cx="276.2" cy="58.1" r="4" fill="#3465a4"><title>Pincock (Plockton), Dougie</title></circle></a><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><circle cx="274.3" cy="69.8" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><circle cx="190.9" cy="101.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/t53w27r5k19ly1g11~x2/

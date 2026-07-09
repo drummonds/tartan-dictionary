@@ -1,5 +1,12 @@
 ---
 title: "Humming Bird (Fashion)"
-redirect: "/variants/s8/r6lb3dp20y2k20w20k2w5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Humming Bird (Fashion)](/variants/s8/r6lb3dp20y2k20w20k2w5~x2/).
+This is the **Humming Bird (Fashion)** sett — one scale-free proportion (`r6lb3dp20y2k20w20k2w5`), colour order pattern
+[RWBGKWKW](/stripes/rwbgkwkw/). It is recorded as a single **variant**, below.
+First attested **~1973**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Humming Bird (Fashion)](/variants/s8/r6lb3dp20y2k20w20k2w5~x2/) ★ | ~1973 | ![Humming Bird (Fashion) sett](/variants/s8/r6lb3dp20y2k20w20k2w5~x2/sett.png) |

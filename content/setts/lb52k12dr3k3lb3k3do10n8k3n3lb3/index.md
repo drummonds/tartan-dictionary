@@ -1,5 +1,12 @@
 ---
 title: "Stewart Dress, Grey #1 (Fashion)"
-redirect: "/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stewart Dress, Grey #1 (Fashion)](/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/).
+This is the **Stewart Dress, Grey #1 (Fashion)** sett — one scale-free proportion (`lb52k12dr3k3lb3k3do10n8k3n3lb3`), colour order pattern
+[WBKBBKWKBKW](/stripes/wbkbbkwkbkw/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Stewart Dress, Grey #1 (Fashion)](/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/) ★ | ~2002 | ![Stewart Dress, Grey #1 (Fashion) sett](/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/sett.png) |

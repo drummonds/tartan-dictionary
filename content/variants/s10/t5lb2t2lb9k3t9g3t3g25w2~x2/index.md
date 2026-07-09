@@ -1,14 +1,16 @@
 ---
 title: "Un-named (D C Dalgliesh) #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Un-named (D C Dalgliesh) #2"
-  url: ""
+  url: "/setts/t5lb2t2lb9k3t9g3t3g25w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t5lb2t2lb9k3t9g3t3g25w2/)
-(the same proportion at any scale), whose colour order is pattern [BWBWKBGBGW](/stripes/bwbwkbgbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t5lb2t2lb9k3t9g3t3g25w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWKBGBGW](/stripes/bwbwkbgbgw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.7" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/r4k2g36k2t18y3t18k2~x2/"><circle cx="266.4" cy="157.0" r="4" fill="#3465a4"><title>Fox Hunting</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.7" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="196.7" cy="156.5" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="171.2" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/"><circle cx="201.5" cy="143.4" r="4" fill="#3465a4"><title>Halcrow Howell (Name)</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.3" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="222.7" cy="177.3" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/variants/s10/t29db8g21r3g8t11w3db3w3g8~x2/"><circle cx="240.0" cy="206.3" r="4" fill="#3465a4"><title>Morneau, Richard (Personal)</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.8" cy="124.6" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><circle cx="230.8" cy="163.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.6" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/r4k2g36k2t18y3t18k2~x2/"><circle cx="266.5" cy="156.9" r="4" fill="#3465a4"><title>Fox Hunting</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.6" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="196.7" cy="156.4" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="171.1" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/"><circle cx="201.5" cy="143.3" r="4" fill="#3465a4"><title>Halcrow Howell (Name)</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.2" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="222.7" cy="177.2" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/variants/s10/t29db8g21r3g8t11w3db3w3g8~x2/"><circle cx="240.0" cy="206.2" r="4" fill="#3465a4"><title>Morneau, Richard (Personal)</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.8" cy="124.4" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><circle cx="230.8" cy="162.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/t5lb2t2lb9k3t9g3t3g25w2~x2/

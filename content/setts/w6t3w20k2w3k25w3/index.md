@@ -1,5 +1,12 @@
 ---
 title: "Forbes Dress (Clans Originaux)"
-redirect: "/variants/s7/w6t3w20k2w3k25w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Forbes Dress (Clans Originaux)](/variants/s7/w6t3w20k2w3k25w3~x2/).
+This is the **Forbes Dress (Clans Originaux)** sett — one scale-free proportion (`w6t3w20k2w3k25w3`), colour order pattern
+[WBWKWKW](/stripes/wbwkwkw/). It is recorded as a single **variant**, below.
+First attested **1880**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Forbes Dress (Clans Originaux)](/variants/s7/w6t3w20k2w3k25w3~x2/) ★ | 1880 | ![Forbes Dress (Clans Originaux) sett](/variants/s7/w6t3w20k2w3k25w3~x2/sett.png) |

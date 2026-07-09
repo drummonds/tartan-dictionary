@@ -1,16 +1,18 @@
 ---
 title: "Estes Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Estes"
   url: "/tartans/estes/"
 - name: "Estes Family Tartan"
-  url: ""
+  url: "/setts/r6g2r2g8k2y2k2y2k10db2k2db23w2db2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6g2r2g8k2y2k2y2k10db2k2db23w2db2w2/)
-(the same proportion at any scale), whose colour order is pattern [RGRGKGKGKBKBWBW](/stripes/rgrgkgkgkbkbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r6g2r2g8k2y2k2y2k10db2k2db23w2db2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRGKGKGKBKBWBW](/stripes/rgrgkgkgkbkbwbw/).
 
 Part of the [Estes](/tartans/estes/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1985 Woven by D.C.Dalgleish. Sample in STA's Johnston Colle
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1985 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2~x2/"><circle cx="119.9" cy="97.1" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s13/k5lb5y2lb5k5db25k5lb3dg5r2dg5lb3k5~x2/"><circle cx="87.2" cy="113.5" r="4" fill="#3465a4"><title>Liberton</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="145.4" cy="110.1" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="95.0" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"><circle cx="89.5" cy="112.9" r="4" fill="#3465a4"><title>MacNicol Hunting</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10~x2/"><circle cx="89.5" cy="112.9" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/variants/s16/db3r2lb2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/"><circle cx="111.4" cy="128.5" r="4" fill="#3465a4"><title>Annandale (Personal)</title></circle></a><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><circle cx="141.4" cy="107.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.8" cy="96.2" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/"><circle cx="144.5" cy="115.1" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><circle cx="115.0" cy="97.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2~x2/"><circle cx="120.0" cy="97.0" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s13/k5lb5y2lb5k5db25k5lb3dg5r2dg5lb3k5~x2/"><circle cx="87.2" cy="113.4" r="4" fill="#3465a4"><title>Liberton</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="145.4" cy="110.0" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="94.9" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"><circle cx="89.5" cy="112.7" r="4" fill="#3465a4"><title>MacNicol Hunting</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10~x2/"><circle cx="89.5" cy="112.7" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/variants/s16/db3r2lb2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/"><circle cx="111.4" cy="128.4" r="4" fill="#3465a4"><title>Annandale (Personal)</title></circle></a><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><circle cx="141.4" cy="106.9" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.8" cy="96.0" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/"><circle cx="144.5" cy="114.9" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><circle cx="115.0" cy="97.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r6g2r2g8k2y2k2y2k10db2k2db23w2db2w2~x2/

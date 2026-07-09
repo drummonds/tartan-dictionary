@@ -1,5 +1,14 @@
 ---
 title: "Douglas Variation"
-redirect: "/variants/s6/w4db25lb25db2lb5w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Douglas Variation](/variants/s6/w4db25lb25db2lb5w2~x2/).
+This is the **Douglas Variation** sett — one scale-free proportion (`w4db25lb25db2lb5w2`), colour order pattern
+[WBWBWW](/stripes/wbwbww/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Douglas Variation](/tartans/douglas-variation/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Douglas Variation](/variants/s6/w4db25lb25db2lb5w2~x2/) ★ | ~2016 | ![Douglas Variation sett](/variants/s6/w4db25lb25db2lb5w2~x2/sett.png) |

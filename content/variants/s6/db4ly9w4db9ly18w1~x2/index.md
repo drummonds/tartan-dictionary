@@ -1,16 +1,18 @@
 ---
 title: "WVU Mountaineer (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "WVU Mountaineer"
   url: "/tartans/wvu-mountaineer/"
 - name: "WVU Mountaineer (Corporate)"
-  url: ""
+  url: "/setts/db4ly9w4db9ly18w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4ly9w4db9ly18w1/)
-(the same proportion at any scale), whose colour order is pattern [BYWBYW](/stripes/bywbyw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4ly9w4db9ly18w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYWBYW](/stripes/bywbyw/).
 
 Part of the [WVU Mountaineer](/tartans/wvu-mountaineer/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db4dy9w4db9dy18w1~x2/"><circle cx="378.4" cy="227.3" r="4" fill="#3465a4"><title>WVU Mountaineer Tartan</title></circle></a><a href="/variants/s6/db1ly5db1ly5db2w1~x4/"><circle cx="378.8" cy="285.1" r="4" fill="#3465a4"><title>Tokharion</title></circle></a><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="394.3" cy="204.5" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.1" cy="198.5" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/variants/s5/ly38w9ly3do9w3~x2/"><circle cx="452.7" cy="240.5" r="4" fill="#3465a4"><title>Loch Tummel Trade Tartan</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.8" cy="228.8" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><a href="/variants/s3/y20db10w3~x2/"><circle cx="361.8" cy="301.7" r="4" fill="#3465a4"><title>Masai Shuka 04 (Artefact)</title></circle></a><circle cx="375.1" cy="238.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db4dy9w4db9dy18w1~x2/"><circle cx="378.4" cy="227.3" r="4" fill="#3465a4"><title>WVU Mountaineer Tartan</title></circle></a><a href="/variants/s6/db1ly5db1ly5db2w1~x4/"><circle cx="378.8" cy="285.1" r="4" fill="#3465a4"><title>Tokharion</title></circle></a><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="394.3" cy="204.4" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.1" cy="198.5" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/variants/s5/ly38w9ly3do9w3~x2/"><circle cx="452.7" cy="240.4" r="4" fill="#3465a4"><title>Loch Tummel Trade Tartan</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.8" cy="228.7" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><a href="/variants/s3/y20db10w3~x2/"><circle cx="361.9" cy="301.7" r="4" fill="#3465a4"><title>Masai Shuka 04 (Artefact)</title></circle></a><circle cx="375.1" cy="238.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db4ly9w4db9ly18w1~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Aboyne"
-redirect: "/variants/s13/lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Aboyne](/variants/s13/lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4~x2/).
+This is the **Aboyne** sett — one scale-free proportion (`lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4`), colour order pattern
+[BYBYKBYKYBYKY](/stripes/bybykbykybyky/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Aboyne](/variants/s13/lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4~x2/) ★ | ~2016 | ![Aboyne sett](/variants/s13/lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4~x2/sett.png) |

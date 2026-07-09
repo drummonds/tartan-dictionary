@@ -1,14 +1,16 @@
 ---
 title: "Bute Heather, Grey (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bute Heather, Grey (Fashion)"
-  url: ""
+  url: "/setts/lb13lr2n38k13n8k8n17k2n17k4o11/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb13lr2n38k13n8k8n17k2n17k4o11/)
-(the same proportion at any scale), whose colour order is pattern [RKBKBKBKBYW](/stripes/rkbkbkbkbyw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb13lr2n38k13n8k8n17k2n17k4o11/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBKBKBKBYW](/stripes/rkbkbkbkbyw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n12g3dt36k12dt8k8dt16k2dt18k4n10~dt1600000/"><circle cx="343.1" cy="171.6" r="4" fill="#3465a4"><title>Bute Heather, Hunting (Fashion)</title></circle></a><a href="/variants/s11/y6lb1n18k6n4k4n8k1n8k2y5~x2~y2400000-n1700000/"><circle cx="314.0" cy="158.8" r="4" fill="#3465a4"><title>Bute Heather, Grey</title></circle></a><a href="/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10~do1400000/"><circle cx="334.3" cy="168.8" r="4" fill="#3465a4"><title>Bute Heather, Midnight</title></circle></a><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><circle cx="352.5" cy="131.1" r="4" fill="#3465a4"><title>Apollo 12 (Commemorative)</title></circle></a><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/"><circle cx="220.2" cy="140.8" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/variants/s11/k4n4k4n18k9r2k9lb1n18db2k3~x2/"><circle cx="253.3" cy="124.7" r="4" fill="#3465a4"><title>Moggach (Strathspey)</title></circle></a><a href="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/"><circle cx="245.0" cy="129.6" r="4" fill="#3465a4"><title>Moggach (Strathspey)</title></circle></a><a href="/variants/s14/w3k1n15k6n5k3n8k2n5y3w2y4k1w3~x2/"><circle cx="223.1" cy="145.5" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/variants/s7/dy4t17k11r17t27k2w3~x2/"><circle cx="218.8" cy="167.7" r="4" fill="#3465a4"><title>MacNamara</title></circle></a><a href="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/"><circle cx="248.9" cy="125.7" r="4" fill="#3465a4"><title>MacInnes Homecoming (Clan)</title></circle></a><circle cx="270.3" cy="134.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n12g3dt36k12dt8k8dt16k2dt18k4n10~dt1600000/"><circle cx="343.1" cy="171.5" r="4" fill="#3465a4"><title>Bute Heather, Hunting (Fashion)</title></circle></a><a href="/variants/s11/y6lb1n18k6n4k4n8k1n8k2y5~x2~y2400000-n1700000/"><circle cx="314.0" cy="158.7" r="4" fill="#3465a4"><title>Bute Heather, Grey</title></circle></a><a href="/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10~do1400000/"><circle cx="334.3" cy="168.7" r="4" fill="#3465a4"><title>Bute Heather, Midnight</title></circle></a><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><circle cx="352.5" cy="131.0" r="4" fill="#3465a4"><title>Apollo 12 (Commemorative)</title></circle></a><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/"><circle cx="220.2" cy="140.7" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/variants/s11/k4n4k4n18k9r2k9lb1n18db2k3~x2/"><circle cx="253.3" cy="124.5" r="4" fill="#3465a4"><title>Moggach (Strathspey)</title></circle></a><a href="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/"><circle cx="245.0" cy="129.5" r="4" fill="#3465a4"><title>Moggach (Strathspey)</title></circle></a><a href="/variants/s14/w3k1n15k6n5k3n8k2n5y3w2y4k1w3~x2/"><circle cx="223.1" cy="145.4" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/variants/s7/dy4t17k11r17t27k2w3~x2/"><circle cx="218.9" cy="167.6" r="4" fill="#3465a4"><title>MacNamara</title></circle></a><a href="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/"><circle cx="248.9" cy="125.6" r="4" fill="#3465a4"><title>MacInnes Homecoming (Clan)</title></circle></a><circle cx="270.3" cy="134.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/

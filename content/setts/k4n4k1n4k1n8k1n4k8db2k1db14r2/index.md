@@ -1,5 +1,12 @@
 ---
 title: "Fowler"
-redirect: "/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fowler](/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/).
+This is the **Fowler** sett — one scale-free proportion (`k4n4k1n4k1n8k1n4k8db2k1db14r2`), colour order pattern
+[KBKBKBKBKBKBR](/stripes/kbkbkbkbkbkbr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fowler](/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/) ★ | 2008 | ![Fowler sett](/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/sett.png) |

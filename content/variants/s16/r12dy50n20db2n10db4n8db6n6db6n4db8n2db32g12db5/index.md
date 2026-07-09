@@ -1,14 +1,16 @@
 ---
 title: "Help for Heroes Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Help for Heroes Corporate Tartan"
-  url: ""
+  url: "/setts/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/)
-(the same proportion at any scale), whose colour order is pattern [BGBBBBBBBBBBBBGR](/stripes/bgbbbbbbbbbbbbgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBBBBBBBBBBBGR](/stripes/bgbbbbbbbbbbbbgr/).
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -23,7 +25,7 @@ Earliest known date: 20/01/2012 The use of the tartan is restricted in line with
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>20/01/2012 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4t4db1dg24db10r1db2dr5t3r2~x2/"><circle cx="319.2" cy="153.8" r="4" fill="#3465a4"><title>Rikaco Classic (Fashion)</title></circle></a><a href="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/"><circle cx="324.6" cy="139.4" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><circle cx="267.3" cy="159.5" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.3" cy="175.6" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/"><circle cx="287.3" cy="93.4" r="4" fill="#3465a4"><title>Glen Orchy (Fashion)</title></circle></a><a href="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="186.7" r="4" fill="#3465a4"><title>Frangord</title></circle></a><a href="/variants/s18/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2~x2~db1404245-dbi1406275/"><circle cx="269.1" cy="150.0" r="4" fill="#3465a4"><title>Glaz (Fashion)</title></circle></a><a href="/variants/s18/g10dg2db2o14dg2g2dg2g2dg2db25o8g4dg4db3dg1db3dg1db4~x2/"><circle cx="263.7" cy="128.4" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s18/g10dg2db2dy14dg2g2dg2g2dg2db25dy8g4dg4db3dg1db3dg1db4~x2/"><circle cx="324.1" cy="157.5" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s8/b26w2b3db15n26r2n3db4~x2/"><circle cx="291.0" cy="171.9" r="4" fill="#3465a4"><title>Scottish Highlander Universal Tartan</title></circle></a><circle cx="259.2" cy="140.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4t4db1dg24db10r1db2dr5t3r2~x2/"><circle cx="319.2" cy="153.7" r="4" fill="#3465a4"><title>Rikaco Classic (Fashion)</title></circle></a><a href="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/"><circle cx="324.6" cy="139.3" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><circle cx="267.3" cy="159.4" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.4" cy="175.5" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/"><circle cx="287.3" cy="93.2" r="4" fill="#3465a4"><title>Glen Orchy (Fashion)</title></circle></a><a href="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="186.6" r="4" fill="#3465a4"><title>Frangord</title></circle></a><a href="/variants/s18/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2~x2~db1404245-dbi1406275/"><circle cx="269.1" cy="149.8" r="4" fill="#3465a4"><title>Glaz (Fashion)</title></circle></a><a href="/variants/s18/g10dg2db2o14dg2g2dg2g2dg2db25o8g4dg4db3dg1db3dg1db4~x2/"><circle cx="263.7" cy="128.3" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s18/g10dg2db2dy14dg2g2dg2g2dg2db25dy8g4dg4db3dg1db3dg1db4~x2/"><circle cx="324.1" cy="157.3" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s8/b26w2b3db15n26r2n3db4~x2/"><circle cx="291.0" cy="171.8" r="4" fill="#3465a4"><title>Scottish Highlander Universal Tartan</title></circle></a><circle cx="259.2" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/

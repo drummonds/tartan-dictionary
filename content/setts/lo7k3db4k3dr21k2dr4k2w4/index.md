@@ -1,5 +1,12 @@
 ---
 title: "Castle Stewart (District)"
-redirect: "/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Castle Stewart (District)](/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/).
+This is the **Castle Stewart (District)** sett — one scale-free proportion (`lo7k3db4k3dr21k2dr4k2w4`), colour order pattern
+[WKBKBKBKY](/stripes/wkbkbkbky/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Castle Stewart (District)](/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/) ★ | ~2007 | ![Castle Stewart (District) sett](/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Lyon, Jeffrey M (Hunting) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lyon, Jeffrey M"
   url: "/tartans/lyon-jeffrey-m/"
 - name: "Lyon, Jeffrey M (Hunting) (Personal)"
-  url: ""
+  url: "/setts/lb30t1lb1t16g5r5ly2t2dy15t1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb30t1lb1t16g5r5ly2t2dy15t1/)
-(the same proportion at any scale), whose colour order is pattern [BGBYRGBWBW](/stripes/bgbyrgbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb30t1lb1t16g5r5ly2t2dy15t1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBYRGBWBW](/stripes/bgbyrgbwbw/).
 
 Part of the [Lyon, Jeffrey M](/tartans/lyon-jeffrey-m/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.4" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/variants/s10/r4db2dp14db12y1t32db12t14db2g4~x2~db1003265-t2503227/"><circle cx="272.9" cy="127.0" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.2" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><circle cx="270.1" cy="137.2" r="4" fill="#3465a4"><title>Norwegian Migration Period (Artefact</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="223.0" cy="148.4" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-lr2800000/"><circle cx="227.5" cy="118.8" r="4" fill="#3465a4"><title>O'Rourke (Name?)</title></circle></a><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/"><circle cx="238.0" cy="122.4" r="4" fill="#3465a4"><title>O'Rourke (Estimated threadcount)</title></circle></a><a href="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/"><circle cx="272.2" cy="136.3" r="4" fill="#3465a4"><title>The Climb (Fashion)</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.6" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.4" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><circle cx="243.1" cy="118.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.3" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/variants/s10/r4db2dp14db12y1t32db12t14db2g4~x2~db1003265-t2503227/"><circle cx="272.9" cy="126.9" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.1" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><circle cx="270.2" cy="137.1" r="4" fill="#3465a4"><title>Norwegian Migration Period (Artefact</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="223.0" cy="148.3" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-lr2800000/"><circle cx="227.5" cy="118.7" r="4" fill="#3465a4"><title>O'Rourke (Name?)</title></circle></a><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/"><circle cx="238.0" cy="122.2" r="4" fill="#3465a4"><title>O'Rourke (Estimated threadcount)</title></circle></a><a href="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/"><circle cx="272.3" cy="136.2" r="4" fill="#3465a4"><title>The Climb (Fashion)</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.5" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><circle cx="243.1" cy="118.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lb30t1lb1t16g5r5ly2t2dy15t1~x2~ly3307090-dy1603076/

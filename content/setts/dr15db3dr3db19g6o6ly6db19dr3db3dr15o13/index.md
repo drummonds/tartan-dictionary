@@ -1,5 +1,12 @@
 ---
 title: "Maple Leaf Blue"
-redirect: "/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Maple Leaf Blue](/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/).
+This is the **Maple Leaf Blue** sett — one scale-free proportion (`dr15db3dr3db19g6o6ly6db19dr3db3dr15o13`), colour order pattern
+[BBBBGRYBBBBR](/stripes/bbbbgrybbbbr/). It is recorded as a single **variant**, below.
+First attested **1964**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Maple Leaf Blue](/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/) ★ | 1964 | ![Maple Leaf Blue sett](/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/sett.png) |

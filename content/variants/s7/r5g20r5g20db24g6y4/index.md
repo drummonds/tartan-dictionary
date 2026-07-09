@@ -1,14 +1,16 @@
 ---
 title: "Cameron of Lochiel (Hunting) Clan/Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cameron of Lochiel (Hunting) Clan/Family Tartan"
-  url: ""
+  url: "/setts/r5g20r5g20db24g6y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5g20r5g20db24g6y4/)
-(the same proportion at any scale), whose colour order is pattern [GGBGRGR](/stripes/ggbgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r5g20r5g20db24g6y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGRGR](/stripes/ggbgrgr/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -23,7 +25,7 @@ Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two re
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/01/1940 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.5" cy="230.5" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="286.0" cy="236.5" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="216.0" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="324.9" cy="200.9" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="321.8" cy="177.6" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="244.9" cy="186.0" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.9" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x4/"><circle cx="317.0" cy="254.2" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><circle cx="273.8" cy="249.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.6" cy="230.4" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="286.0" cy="236.4" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="216.0" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.0" cy="200.8" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="321.9" cy="177.5" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="245.0" cy="185.9" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.8" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x4/"><circle cx="317.0" cy="254.1" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><circle cx="273.9" cy="249.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r5g20r5g20db24g6y4/

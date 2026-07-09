@@ -1,5 +1,12 @@
 ---
 title: "Massachusetts - The Bay State"
-redirect: "/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Massachusetts - The Bay State](/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/).
+This is the **Massachusetts - The Bay State** sett — one scale-free proportion (`g12db6g6db22w4db8g4r8db10r3db48lb4db8`), colour order pattern
+[BWBRBRGBWBGBG](/stripes/bwbrbrgbwbgbg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Massachusetts - The Bay State](/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/) ★ | 2002 | ![Massachusetts - The Bay State sett](/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/sett.png) |

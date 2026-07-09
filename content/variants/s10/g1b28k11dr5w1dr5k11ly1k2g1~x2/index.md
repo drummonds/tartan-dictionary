@@ -1,16 +1,18 @@
 ---
 title: "Scragg, Moran (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scragg Moran"
   url: "/tartans/scragg-moran/"
 - name: "Scragg, Moran (Personal)"
-  url: ""
+  url: "/setts/g1b28k11dr5w1dr5k11ly1k2g1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1b28k11dr5w1dr5k11ly1k2g1/)
-(the same proportion at any scale), whose colour order is pattern [GBKBWBKYKG](/stripes/gbkbwbkykg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g1b28k11dr5w1dr5k11ly1k2g1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBWBKYKG](/stripes/gbkbwbkykg/).
 
 Part of the [Scragg Moran](/tartans/scragg-moran/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/"><circle cx="206.3" cy="78.8" r="4" fill="#3465a4"><title>Scragg Moran (Personal)</title></circle></a><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><circle cx="202.4" cy="79.1" r="4" fill="#3465a4"><title>Heart of Oak</title></circle></a><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.5" cy="84.0" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s9/b16y3b8db12b1db6k32r1w2~x2/"><circle cx="175.1" cy="90.0" r="4" fill="#3465a4"><title>Wrens</title></circle></a><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><circle cx="165.8" cy="71.8" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/"><circle cx="156.9" cy="87.5" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><circle cx="198.1" cy="79.6" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="198.1" cy="89.9" r="4" fill="#3465a4"><title>Sidey Family (Dundee) (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="198.3" cy="79.5" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2g16k2r1~x2/"><circle cx="198.0" cy="89.9" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><circle cx="195.8" cy="79.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/"><circle cx="206.4" cy="78.6" r="4" fill="#3465a4"><title>Scragg Moran (Personal)</title></circle></a><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><circle cx="202.4" cy="79.0" r="4" fill="#3465a4"><title>Heart of Oak</title></circle></a><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.5" cy="83.9" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s9/b16y3b8db12b1db6k32r1w2~x2/"><circle cx="175.1" cy="89.9" r="4" fill="#3465a4"><title>Wrens</title></circle></a><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><circle cx="165.8" cy="71.6" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/"><circle cx="157.0" cy="87.3" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><circle cx="198.1" cy="79.4" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="198.1" cy="89.7" r="4" fill="#3465a4"><title>Sidey Family (Dundee) (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="198.4" cy="79.4" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2g16k2r1~x2/"><circle cx="198.0" cy="89.8" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><circle cx="195.8" cy="78.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/

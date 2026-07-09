@@ -1,14 +1,16 @@
 ---
 title: "Hay"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hay"
-  url: ""
+  url: "/setts/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6/)
-(the same proportion at any scale), whose colour order is pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
 
 Sourced from logan-1831.  It is a [23 stripe tartan](/stripes/stripes23/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **Hay** name adjusted Logan's counts: [Hay](/setts/s14/r6g4y2g17r2g2r2g8r26g6r4k2r4w6~g285800-k101010-rc80000-we0e0e0-yd8b000~x2/); [Hay & Leith #2](/setts/s42/k7r3y2r60g7r2y2r7g50w2k50r2b50r7y2r2b7r60k7y2r3k7r3y2k7r60b7r2y2r7b50r2k50w2g50r7y2r2g7r60y2r3~b003c64-g006818-k101010-rc80000-wfcfcfc-ye8c000/); [Hay or Leith](/setts/s22/b41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31b3r3y2r3~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/); [Hay or Stewart](/setts/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~g285800-k101010-rc80000-we0e0e0-ye8c000~x2/). Compare their thread counts with Logan's above.
+Later records of the **Hay** name adjusted Logan's counts: [Hay](/variants/s14/r6g4y2g17r2g2r2g8r26g6r4k2r4w6~x2/); [Hay & Leith #2](/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/); [Hay or Leith](/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/); [Hay or Stewart](/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"><circle cx="138.2" cy="16.0" r="4" fill="#3465a4"><title>Leith (Hay)</title></circle></a><a href="/variants/s23/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/"><circle cx="159.4" cy="40.8" r="4" fill="#3465a4"><title>Hay &amp; Leith - 1800 (Clan)</title></circle></a><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="127.1" cy="55.6" r="4" fill="#3465a4"><title>Hay or Leith Clan Tartan</title></circle></a><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="104.7" cy="42.8" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><circle cx="183.6" cy="25.8" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"><circle cx="198.5" cy="46.0" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><circle cx="136.7" cy="38.8" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/"><circle cx="198.1" cy="45.7" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><circle cx="122.4" cy="56.4" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="122.4" cy="56.4" r="4" fill="#3465a4"><title>Leith, (Hay)</title></circle></a><circle cx="168.3" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"><circle cx="138.2" cy="15.7" r="4" fill="#3465a4"><title>Leith (Hay)</title></circle></a><a href="/variants/s23/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/"><circle cx="159.4" cy="40.6" r="4" fill="#3465a4"><title>Hay &amp; Leith - 1800 (Clan)</title></circle></a><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="127.1" cy="55.4" r="4" fill="#3465a4"><title>Hay or Leith Clan Tartan</title></circle></a><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="104.7" cy="42.6" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><circle cx="183.6" cy="25.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"><circle cx="198.5" cy="45.8" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><circle cx="136.7" cy="38.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/"><circle cx="198.1" cy="45.5" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><circle cx="122.4" cy="56.2" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="122.4" cy="56.2" r="4" fill="#3465a4"><title>Leith, (Hay)</title></circle></a><circle cx="168.3" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/

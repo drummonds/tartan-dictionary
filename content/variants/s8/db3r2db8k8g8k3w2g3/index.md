@@ -1,6 +1,7 @@
 ---
 title: "Davidson Double"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Davidson Double"
   url: "/tartans/davidson-double/"
 - name: "Davidson Double"
-  url: ""
+  url: "/setts/db3r2db8k8g8k3w2g3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3r2db8k8g8k3w2g3/)
-(the same proportion at any scale), whose colour order is pattern [BRBKGKWG](/stripes/brbkgkwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3r2db8k8g8k3w2g3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKGKWG](/stripes/brbkgkwg/).
 
 Part of the [Davidson Double](/tartans/davidson-double/) tartan — the named design grouping this sett with its other cloths.
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="76.2" cy="271.1" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/variants/s8/y8g4db16g4k14y14db4t3~x2/"><circle cx="86.2" cy="222.8" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/variants/s6/r4g11k11g2db11dg3~x4/"><circle cx="73.3" cy="233.9" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.4" cy="224.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="106.6" cy="210.9" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.6" cy="221.3" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s6/k4g16k13db16lb3db3~x2/"><circle cx="118.3" cy="239.1" r="4" fill="#3465a4"><title>I Y</title></circle></a><circle cx="46.9" cy="231.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="227.5" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="227.5" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="76.2" cy="271.0" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/variants/s8/y8g4db16g4k14y14db4t3~x2/"><circle cx="86.3" cy="222.7" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/variants/s6/r4g11k11g2db11dg3~x4/"><circle cx="73.4" cy="233.9" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.4" cy="224.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="106.6" cy="210.9" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.6" cy="221.2" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s6/k4g16k13db16lb3db3~x2/"><circle cx="118.4" cy="239.1" r="4" fill="#3465a4"><title>I Y</title></circle></a><circle cx="46.9" cy="231.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db3r2db8k8g8k3w2g3/

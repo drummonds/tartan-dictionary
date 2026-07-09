@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/">Tooth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/"><img src="/variants/s8/g5y1r2g25k14db19w4g2~x2/sett.png" alt="Tooth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/">Tooth Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/"><img src="/variants/s8/g5y1r2g25k14db19w4g2~x2/sett.png" alt="Tooth Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

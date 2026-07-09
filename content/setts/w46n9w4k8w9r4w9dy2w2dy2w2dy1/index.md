@@ -1,5 +1,14 @@
 ---
 title: "Old England House Check"
-redirect: "/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Old England House Check](/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/).
+This is the **Old England House Check** sett — one scale-free proportion (`w46n9w4k8w9r4w9dy2w2dy2w2dy1`), colour order pattern
+[GWGWGWRWKWBW](/stripes/gwgwgwrwkwbw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+Part of the [Old England House Check](/tartans/old-england-house-check/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Old England House Check](/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/) ★ | 2014 | ![Old England House Check sett](/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/sett.png) |

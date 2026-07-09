@@ -1,16 +1,18 @@
 ---
 title: "Highland Spring"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Spring"
   url: "/tartans/highland-spring/"
 - name: "Highland Spring"
-  url: ""
+  url: "/setts/dp5g3dp19r5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp5g3dp19r5/)
-(the same proportion at any scale), whose colour order is pattern [BGBR](/stripes/bgbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp5g3dp19r5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBR](/stripes/bgbr/).
 
 Part of the [Highland Spring](/tartans/highland-spring/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp5g2dp19r5~x2/"><circle cx="536.4" cy="245.7" r="4" fill="#3465a4"><title>Highland Spring Corporate Tartan</title></circle></a><a href="/variants/s4/dp3g1dp9r3~x4/"><circle cx="548.4" cy="238.9" r="4" fill="#3465a4"><title>Highland Spring (1988)</title></circle></a><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.0" cy="201.2" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.6" cy="275.3" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.4" cy="214.9" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/r2dp20db9dp20g2~x2/"><circle cx="572.4" cy="260.7" r="4" fill="#3465a4"><title>Scottish Netball (1987) (Corporate)</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.8" cy="215.8" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><circle cx="491.1" cy="263.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp5g2dp19r5~x2/"><circle cx="536.4" cy="245.6" r="4" fill="#3465a4"><title>Highland Spring Corporate Tartan</title></circle></a><a href="/variants/s4/dp3g1dp9r3~x4/"><circle cx="548.5" cy="238.9" r="4" fill="#3465a4"><title>Highland Spring (1988)</title></circle></a><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.0" cy="201.1" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.6" cy="275.3" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.4" cy="214.9" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/r2dp20db9dp20g2~x2/"><circle cx="572.5" cy="260.6" r="4" fill="#3465a4"><title>Scottish Netball (1987) (Corporate)</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.8" cy="215.8" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><circle cx="491.1" cy="263.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dp5g3dp19r5~x2/

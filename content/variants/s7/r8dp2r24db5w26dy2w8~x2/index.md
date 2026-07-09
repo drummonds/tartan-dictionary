@@ -1,16 +1,18 @@
 ---
 title: "Lennox Dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lennox Dress"
   url: "/tartans/lennox-dress/"
 - name: "Lennox Dress"
-  url: ""
+  url: "/setts/r8dp2r24db5w26dy2w8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8dp2r24db5w26dy2w8/)
-(the same proportion at any scale), whose colour order is pattern [RBRBWGW](/stripes/rbrbwgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r8dp2r24db5w26dy2w8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBWGW](/stripes/rbrbwgw/).
 
 Part of the [Lennox Dress](/tartans/lennox-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r8dp2r24db5w26o2w8~x2/"><circle cx="239.2" cy="170.2" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="252.0" cy="185.0" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25o2w8~x2/"><circle cx="254.7" cy="185.8" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="291.1" cy="156.0" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/variants/s7/w5dp3w26r20w3r8y3~x2/"><circle cx="273.3" cy="196.8" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/variants/s7/w4r2w25ri21w3ri8y3~x2~r1506028-ri2008029/"><circle cx="283.1" cy="180.1" r="4" fill="#3465a4"><title>MacPherson, dress red</title></circle></a><a href="/variants/s7/w4dr2w25r21w3r8y3~x2/"><circle cx="287.7" cy="180.9" r="4" fill="#3465a4"><title>MacPherson Dress Red</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="162.1" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><circle cx="239.3" cy="185.8" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="240.2" cy="145.4" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><circle cx="236.6" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r8dp2r24db5w26o2w8~x2/"><circle cx="239.2" cy="170.1" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="252.0" cy="184.9" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25o2w8~x2/"><circle cx="254.7" cy="185.7" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="291.1" cy="155.9" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/variants/s7/w5dp3w26r20w3r8y3~x2/"><circle cx="273.3" cy="196.7" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/variants/s7/w4r2w25ri21w3ri8y3~x2~r1506028-ri2008029/"><circle cx="283.1" cy="180.0" r="4" fill="#3465a4"><title>MacPherson, dress red</title></circle></a><a href="/variants/s7/w4dr2w25r21w3r8y3~x2/"><circle cx="287.7" cy="180.8" r="4" fill="#3465a4"><title>MacPherson Dress Red</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="162.0" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><circle cx="239.3" cy="185.7" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="240.2" cy="145.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><circle cx="236.6" cy="169.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r8dp2r24db5w26dy2w8~x2/

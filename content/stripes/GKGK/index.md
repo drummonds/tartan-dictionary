@@ -34,8 +34,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s4/k3g15k20y3~x2/"><img src="/variants/s4/k3g15k20y3~x2/sett.png" alt="Scotch Tape 2 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s4/k1g8k8y1/">Wallace Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/k1g8k8y1/"><img src="/variants/s4/k1g8k8y1/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/k4g33k33y4~x2/">Wallace, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k4g33k33y4~x2/"><img src="/variants/s4/k4g33k33y4~x2/sett.png" alt="Wallace, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k4g33k33y4~x2/">Wallace Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k4g33k33y4~x2/"><img src="/variants/s4/k4g33k33y4~x2/sett.png" alt="Wallace Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s4/g22k3g25k4~x2/">Campbell Simpson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/g22k3g25k4~x2/"><img src="/variants/s4/g22k3g25k4~x2/sett.png" alt="Campbell Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
@@ -44,8 +44,8 @@ second parent, beside its family or clan).
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s4/k34y3k34y26~x2/">Raeburn</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/k34y3k34y26~x2/"><img src="/variants/s4/k34y3k34y26~x2/sett.png" alt="Raeburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/k6y1k6y6~x6/">Raeburn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k6y1k6y6~x6/"><img src="/variants/s4/k6y1k6y6~x6/sett.png" alt="Raeburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k6y1k6y6~x6/">Raeburn Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k6y1k6y6~x6/"><img src="/variants/s4/k6y1k6y6~x6/sett.png" alt="Raeburn Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

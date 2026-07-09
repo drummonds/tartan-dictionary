@@ -1,16 +1,18 @@
 ---
 title: "Glasgow, University of"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow, University of"
   url: "/tartans/glasgow-university-of/"
 - name: "Glasgow, University of"
-  url: ""
+  url: "/setts/k2db22g4k7b2k2w2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2db22g4k7b2k2w2db2/)
-(the same proportion at any scale), whose colour order is pattern [BWKBKGBK](/stripes/bwkbkgbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2db22g4k7b2k2w2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKBKGBK](/stripes/bwkbkgbk/).
 
 Part of the [Glasgow, University of](/tartans/glasgow-university-of/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2db22g4k7ly2k2w2db2~x2/"><circle cx="249.3" cy="136.5" r="4" fill="#3465a4"><title>Glasgow, University of</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.5" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="262.8" cy="147.3" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.8" cy="149.2" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.6" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="161.0" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.9" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s6/r4g2r2k5db22w2~x4/"><circle cx="273.4" cy="145.3" r="4" fill="#3465a4"><title>Reese (Personal)</title></circle></a><a href="/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2~db1108266-dbi1605267/"><circle cx="278.6" cy="147.8" r="4" fill="#3465a4"><title>Auto Docs</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.6" cy="131.7" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><circle cx="258.1" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2db22g4k7ly2k2w2db2~x2/"><circle cx="249.3" cy="136.4" r="4" fill="#3465a4"><title>Glasgow, University of</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.4" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="262.8" cy="147.2" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.9" cy="149.1" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.5" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="160.9" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.8" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s6/r4g2r2k5db22w2~x4/"><circle cx="273.4" cy="145.2" r="4" fill="#3465a4"><title>Reese (Personal)</title></circle></a><a href="/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2~db1108266-dbi1605267/"><circle cx="278.7" cy="147.6" r="4" fill="#3465a4"><title>Auto Docs</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.7" cy="131.6" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><circle cx="258.1" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k2db22g4k7b2k2w2db2~x2/

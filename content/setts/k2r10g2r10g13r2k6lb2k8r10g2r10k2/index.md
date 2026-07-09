@@ -2,15 +2,15 @@
 title: "MacNicol D"
 date: 2023-03-18
 ---
-The **MacNicol D** tartan is one sett proportion (`k2r10g2r10g13r2k6lb2k8r10g2r10k2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacNicol D** sett — one scale-free proportion (`k2r10g2r10g13r2k6lb2k8r10g2r10k2`), colour order pattern
+[KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [MacNicol D](/tartans/macnicol-d/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacNicol D](/tartans/macnicol-d/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [MacNicol D](/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2/) ★ | ~2016 | ![MacNicol D sett](/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2/sett.png) |
 | ×2 | [MacNicol D](/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2~x2/) | ~2016 | ![MacNicol D sett](/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2~x2/sett.png) |

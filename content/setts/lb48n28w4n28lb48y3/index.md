@@ -1,5 +1,12 @@
 ---
 title: "McKerrell of Hillhouse Dress"
-redirect: "/variants/s6/lb48n28w4n28lb48y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McKerrell of Hillhouse Dress](/variants/s6/lb48n28w4n28lb48y3~x2/).
+This is the **McKerrell of Hillhouse Dress** sett — one scale-free proportion (`lb48n28w4n28lb48y3`), colour order pattern
+[GWBWBW](/stripes/gwbwbw/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McKerrell of Hillhouse Dress](/variants/s6/lb48n28w4n28lb48y3~x2/) ★ | 1996 | ![McKerrell of Hillhouse Dress sett](/variants/s6/lb48n28w4n28lb48y3~x2/sett.png) |

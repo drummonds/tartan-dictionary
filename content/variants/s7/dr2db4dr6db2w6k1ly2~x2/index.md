@@ -1,14 +1,16 @@
 ---
 title: "Unidentified Printing"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Printing"
-  url: ""
+  url: "/setts/dr2db4dr6db2w6k1ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2db4dr6db2w6k1ly2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBWKY](/stripes/bbbbwky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr2db4dr6db2w6k1ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWKY](/stripes/bbbbwky/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><circle cx="122.2" cy="207.6" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><a href="/variants/s6/dr1dy6db2lb4k4lb1~x6/"><circle cx="91.0" cy="227.3" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/variants/s6/r2dy8db2lb4k4lb1~x6/"><circle cx="121.1" cy="209.0" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan</title></circle></a><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="66.4" cy="211.4" r="4" fill="#3465a4"><title>Edinburgh, Military Tattoo dress</title></circle></a><a href="/variants/s8/k6w11lb11r13db17w10k2w4~x2/"><circle cx="65.9" cy="211.2" r="4" fill="#3465a4"><title>Edinburgh Tatttoo Dress (Corporate)</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/"><circle cx="113.8" cy="193.3" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.6" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="71.9" cy="208.2" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><circle cx="82.2" cy="218.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><circle cx="122.2" cy="207.6" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><a href="/variants/s6/dr1dy6db2lb4k4lb1~x6/"><circle cx="91.1" cy="227.2" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/variants/s6/r2dy8db2lb4k4lb1~x6/"><circle cx="121.1" cy="208.9" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan</title></circle></a><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="66.4" cy="211.3" r="4" fill="#3465a4"><title>Edinburgh, Military Tattoo dress</title></circle></a><a href="/variants/s8/k6w11lb11r13db17w10k2w4~x2/"><circle cx="65.9" cy="211.1" r="4" fill="#3465a4"><title>Edinburgh Tatttoo Dress (Corporate)</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.7" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/"><circle cx="113.8" cy="193.2" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.6" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="72.0" cy="208.1" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><circle cx="82.2" cy="218.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr2db4dr6db2w6k1ly2~x2/

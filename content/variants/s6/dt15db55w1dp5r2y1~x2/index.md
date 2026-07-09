@@ -1,14 +1,16 @@
 ---
 title: "Venters (Edinburgh)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Venters (Edinburgh)"
-  url: ""
+  url: "/setts/dt15db55w1dp5r2y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt15db55w1dp5r2y1/)
-(the same proportion at any scale), whose colour order is pattern [BBWBRG](/stripes/bbwbrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dt15db55w1dp5r2y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBRG](/stripes/bbwbrg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><circle cx="599.2" cy="146.1" r="4" fill="#3465a4"><title>Venters (Personal)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.5" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><circle cx="449.5" cy="111.0" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><circle cx="436.3" cy="106.3" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="462.0" cy="185.7" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="128.0" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.1" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><circle cx="477.3" cy="148.7" r="4" fill="#3465a4"><title>British Energy</title></circle></a><circle cx="560.5" cy="128.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><circle cx="599.2" cy="145.9" r="4" fill="#3465a4"><title>Venters (Personal)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.2" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.4" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.6" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><circle cx="449.5" cy="110.8" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><circle cx="436.4" cy="106.1" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="462.0" cy="185.6" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="127.9" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.0" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><circle cx="477.3" cy="148.6" r="4" fill="#3465a4"><title>British Energy</title></circle></a><circle cx="560.5" cy="127.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dt15db55w1dp5r2y1~x2/

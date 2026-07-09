@@ -1,5 +1,12 @@
 ---
 title: "Dutch"
-redirect: "/variants/s6/w2db12b1k12b12k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dutch](/variants/s6/w2db12b1k12b12k1~x2/).
+This is the **Dutch** sett — one scale-free proportion (`w2db12b1k12b12k1`), colour order pattern
+[KBKBBW](/stripes/kbkbbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dutch](/variants/s6/w2db12b1k12b12k1~x2/) ★ | ~2016 | ![Dutch sett](/variants/s6/w2db12b1k12b12k1~x2/sett.png) |

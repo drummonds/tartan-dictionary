@@ -32,8 +32,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s9/k36r3db3r3k8db24r18y3r3~x2/"><img src="/variants/s9/k36r3db3r3k8db24r18y3r3~x2/sett.png" alt="Girl Guiding Scotland (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k36r3db3r3k8db24r18g3r3/">Grady (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/k36r3db3r3k8db24r18g3r3/"><img src="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db1406275/sett.png" alt="Grady (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/">Grady, Highlands</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/"><img src="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/sett.png" alt="Grady, Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/">Grady Highlands Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/"><img src="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/sett.png" alt="Grady Highlands Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

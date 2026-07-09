@@ -53,7 +53,7 @@ weight: 27
 |---|---|---|
 | 0.09 | [Ross](/variants/s27/g8r1g8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8g1r2g1r8g8r1g8~x2/) | weddslist |
 | 0.09 | [Ross](/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/) | weddslist |
-| 0.09 | [Ross #4](/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18~x2/) | register-of-tartans |
+| 0.09 | [Ross Clan Tartan](/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18~x2/) | house-of-tartan |
 
 ### GRKRBRRRBRGRYRYRGRBRRRBRKRG
 <a class="pat" href="/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GRKRBRRRBRGRYRYRGRBRRRBRKRG</span></a>
@@ -68,7 +68,7 @@ weight: 27
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [MacDougall - 1970 (H of E)](/variants/s27/r5g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/) | tartans-authority |
+| 0.08 | [MacDougall Clan Tartan](/variants/s27/r5g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/) | house-of-tartan |
 | 0.10 | [MacDougall D](/variants/s27/r5g10r2db2r30dr3r2w1r2dr3r30db2r2g10r10g10dr4r2dr4db10r4g2r4g30r2dr3w1~x2/) | weddslist |
 
 ### BRBRGRBRBRBBRBRBBRBRBRGRBRB
@@ -83,7 +83,7 @@ weight: 27
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Duchess of Albany](/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/) | weddslist |
+| 0.09 | [Duchess of Albany Family Tartan](/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/) | house-of-tartan |
 
 ### GRGRBRGRBRBRBRBRBRBRGRGRGRG
 <a class="pat" href="/stripes/grgrbrgrbrbrbrbrbrbrgrgrgrg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GRGRBRGRBRBRBRBRBRBRGRGRGRG</span></a>

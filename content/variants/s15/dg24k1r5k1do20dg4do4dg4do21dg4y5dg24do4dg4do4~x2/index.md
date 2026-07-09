@@ -1,16 +1,18 @@
 ---
 title: "Ontario Ensign of.. District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ontario, Ensign of"
   url: "/tartans/ontario-ensign-of/"
 - name: "Ontario Ensign of.. District Tartan"
-  url: ""
+  url: "/setts/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4/)
-(the same proportion at any scale), whose colour order is pattern [BGBGGGBGBGBKRKG](/stripes/bgbgggbgbgbkrkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGGGBGBGBKRKG](/stripes/bgbgggbgbgbkrkg/).
 
 Part of the [Ontario, Ensign of](/tartans/ontario-ensign-of/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1965 The Ensign tartan owes its inspiration to the Provinci
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1965 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g21k1r4k1o21g3o3g3o21g3y4g21o3g3o3~x2/"><circle cx="356.9" cy="145.9" r="4" fill="#3465a4"><title>Ensign, of Ontario</title></circle></a><a href="/variants/s15/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3~x2/"><circle cx="358.9" cy="201.8" r="4" fill="#3465a4"><title>Ontario, Ensign of</title></circle></a><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/"><circle cx="378.9" cy="209.3" r="4" fill="#3465a4"><title>Ontario, Ensign of (District)</title></circle></a><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/"><circle cx="404.0" cy="162.8" r="4" fill="#3465a4"><title>Ensign of Ontario (Fashion)</title></circle></a><a href="/variants/s11/dg18dgi4lb1dgi5dg6dgi3k1dy6k1dgi25lb1~x2~dg1103152-dgi1404130/"><circle cx="464.5" cy="179.1" r="4" fill="#3465a4"><title>Mack of Stoneywood Hunting (Personal)</title></circle></a><circle cx="452.8" cy="175.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g21k1r4k1o21g3o3g3o21g3y4g21o3g3o3~x2/"><circle cx="356.9" cy="145.7" r="4" fill="#3465a4"><title>Ensign, of Ontario</title></circle></a><a href="/variants/s15/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3~x2/"><circle cx="358.9" cy="201.7" r="4" fill="#3465a4"><title>Ontario, Ensign of</title></circle></a><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/"><circle cx="378.9" cy="209.2" r="4" fill="#3465a4"><title>Ontario, Ensign of (District)</title></circle></a><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/"><circle cx="404.1" cy="162.7" r="4" fill="#3465a4"><title>Ensign of Ontario (Fashion)</title></circle></a><a href="/variants/s11/dg18dgi4lb1dgi5dg6dgi3k1dy6k1dgi25lb1~x2~dg1103152-dgi1404130/"><circle cx="464.5" cy="178.9" r="4" fill="#3465a4"><title>Mack of Stoneywood Hunting (Personal)</title></circle></a><circle cx="452.9" cy="175.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/

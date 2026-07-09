@@ -1,14 +1,16 @@
 ---
 title: "Clydesdale Bank"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clydesdale Bank"
-  url: ""
+  url: "/setts/n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1/)
-(the same proportion at any scale), whose colour order is pattern [BWBRBWBWBWBWB](/stripes/bwbrbwbwbwbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBRBWBWBWBWB](/stripes/bwbrbwbwbwbwb/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

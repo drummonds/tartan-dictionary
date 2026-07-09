@@ -1,16 +1,18 @@
 ---
 title: "Bannockbane Blue #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane"
   url: "/tartans/bannockbane/"
 - name: "Bannockbane Blue #2"
-  url: ""
+  url: "/setts/db3dbi2db14dbi1lbi10lb16dbi2lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3dbi2db14dbi1lbi10lb16dbi2lb3/)
-(the same proportion at any scale), whose colour order is pattern [BBBBWWBW](/stripes/bbbbwwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3dbi2db14dbi1lbi10lb16dbi2lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWWBW](/stripes/bbbbwwbw/).
 
 Part of the [Bannockbane](/tartans/bannockbane/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/"><circle cx="351.9" cy="187.2" r="4" fill="#3465a4"><title>Bannockbane Blue #3</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db1204274-dbi1406275/"><circle cx="214.4" cy="184.0" r="4" fill="#3465a4"><title>Banff and Buchan District Tartan</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db0805267-dbi1604274/"><circle cx="199.5" cy="180.2" r="4" fill="#3465a4"><title>Banff, and Buchan</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><circle cx="259.4" cy="199.7" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.9" cy="224.4" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/variants/s8/db2b2db15b1w10b15db2b2~x2/"><circle cx="295.4" cy="221.1" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/dy15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.7" cy="217.0" r="4" fill="#3465a4"><title>Monaghan County, Crest Range</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="290.3" cy="221.6" r="4" fill="#3465a4"><title>Bannockbane Light Blue</title></circle></a><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/"><circle cx="246.7" cy="241.8" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><circle cx="250.1" cy="209.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/"><circle cx="351.9" cy="187.1" r="4" fill="#3465a4"><title>Bannockbane Blue #3</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db1204274-dbi1406275/"><circle cx="214.4" cy="183.9" r="4" fill="#3465a4"><title>Banff and Buchan District Tartan</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db0805267-dbi1604274/"><circle cx="199.5" cy="180.1" r="4" fill="#3465a4"><title>Banff, and Buchan</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><circle cx="259.4" cy="199.6" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.9" cy="224.4" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/variants/s8/db2b2db15b1w10b15db2b2~x2/"><circle cx="295.4" cy="221.0" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/dy15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.8" cy="216.9" r="4" fill="#3465a4"><title>Monaghan County, Crest Range</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="290.3" cy="221.6" r="4" fill="#3465a4"><title>Bannockbane Light Blue</title></circle></a><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/"><circle cx="246.7" cy="241.8" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><circle cx="250.1" cy="209.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/

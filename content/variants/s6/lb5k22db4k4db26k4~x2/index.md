@@ -1,14 +1,16 @@
 ---
 title: "Slanj, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Slanj, The"
-  url: ""
+  url: "/setts/lb5k22db4k4db26k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb5k22db4k4db26k4/)
-(the same proportion at any scale), whose colour order is pattern [KBKBKW](/stripes/kbkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb5k22db4k4db26k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKW](/stripes/kbkbkw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o4k28t3k3t25k3~x2/"><circle cx="267.0" cy="190.2" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="283.9" cy="197.4" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.4" cy="186.8" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s6/k3b16k4b3k12w2~x3/"><circle cx="243.3" cy="214.2" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.6" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="267.1" cy="196.6" r="4" fill="#3465a4"><title>Swan</title></circle></a><a href="/variants/s6/k3w2k18t18k2t3~x4/"><circle cx="263.0" cy="199.0" r="4" fill="#3465a4"><title>Swan (Name)</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.2" cy="249.8" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.5" cy="177.5" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><circle cx="258.0" cy="224.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o4k28t3k3t25k3~x2/"><circle cx="267.0" cy="190.1" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="284.0" cy="197.3" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.5" cy="186.7" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s6/k3b16k4b3k12w2~x3/"><circle cx="243.3" cy="214.1" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.5" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="267.1" cy="196.5" r="4" fill="#3465a4"><title>Swan</title></circle></a><a href="/variants/s6/k3w2k18t18k2t3~x4/"><circle cx="263.0" cy="198.9" r="4" fill="#3465a4"><title>Swan (Name)</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.3" cy="249.7" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.6" cy="177.4" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.4" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><circle cx="258.0" cy="224.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb5k22db4k4db26k4~x2/

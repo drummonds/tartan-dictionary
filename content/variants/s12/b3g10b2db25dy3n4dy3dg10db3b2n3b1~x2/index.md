@@ -1,16 +1,18 @@
 ---
 title: "Bowhunter"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bowhunter"
   url: "/tartans/bowhunter/"
 - name: "Bowhunter"
-  url: ""
+  url: "/setts/b3g10b2db25dy3n4dy3dg10db3b2n3b1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b3g10b2db25dy3n4dy3dg10db3b2n3b1/)
-(the same proportion at any scale), whose colour order is pattern [BBBBGGBGBBGB](/stripes/bbbbggbgbbgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b3g10b2db25dy3n4dy3dg10db3b2n3b1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBGGBGBBGB](/stripes/bbbbggbgbbgb/).
 
 Part of the [Bowhunter](/tartans/bowhunter/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/"><circle cx="307.3" cy="155.3" r="4" fill="#3465a4"><title>Bowhunter (Fashion)</title></circle></a><a href="/variants/s9/b4dg30dbi12g3db2lb3db26dp4db2~dg1806142-dbi1406275-g2408144-db1204274/"><circle cx="236.2" cy="166.1" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/"><circle cx="336.6" cy="119.0" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan</title></circle></a><a href="/variants/s13/g3dp3n2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="204.9" cy="166.6" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="202.0" cy="167.3" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><circle cx="267.3" cy="159.5" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/"><circle cx="236.7" cy="118.6" r="4" fill="#3465a4"><title>Greenshields Family Tartan</title></circle></a><a href="/variants/s10/db4t4db1dg24db10r1db2dr5t3r2~x2/"><circle cx="319.2" cy="153.8" r="4" fill="#3465a4"><title>Rikaco Classic (Fashion)</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.1" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.7" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><circle cx="275.2" cy="146.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/"><circle cx="307.4" cy="155.1" r="4" fill="#3465a4"><title>Bowhunter (Fashion)</title></circle></a><a href="/variants/s9/b4dg30dbi12g3db2lb3db26dp4db2~dg1806142-dbi1406275-g2408144-db1204274/"><circle cx="236.2" cy="166.0" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/"><circle cx="336.7" cy="118.8" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan</title></circle></a><a href="/variants/s13/g3dp3n2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="205.0" cy="166.5" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="202.0" cy="167.2" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><circle cx="267.3" cy="159.4" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/"><circle cx="236.7" cy="118.5" r="4" fill="#3465a4"><title>Greenshields Family Tartan</title></circle></a><a href="/variants/s10/db4t4db1dg24db10r1db2dr5t3r2~x2/"><circle cx="319.2" cy="153.7" r="4" fill="#3465a4"><title>Rikaco Classic (Fashion)</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.0" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.6" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><circle cx="275.2" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/

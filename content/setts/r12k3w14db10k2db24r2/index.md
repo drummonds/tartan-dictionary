@@ -1,5 +1,12 @@
 ---
 title: "Yusra Personal Tartan"
-redirect: "/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Yusra Personal Tartan](/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/).
+This is the **Yusra Personal Tartan** sett — one scale-free proportion (`r12k3w14db10k2db24r2`), colour order pattern
+[RBKBWKR](/stripes/rbkbwkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Yusra Personal Tartan](/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/) ★ | ~2016 | ![Yusra Personal Tartan sett](/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png) |

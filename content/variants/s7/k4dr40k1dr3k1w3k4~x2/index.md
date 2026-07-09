@@ -1,16 +1,18 @@
 ---
 title: "Salt Lake County"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Salt Lake County"
   url: "/tartans/salt-lake-county/"
 - name: "Salt Lake County"
-  url: ""
+  url: "/setts/k4dr40k1dr3k1w3k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dr40k1dr3k1w3k4/)
-(the same proportion at any scale), whose colour order is pattern [KBKBKWK](/stripes/kbkbkwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4dr40k1dr3k1w3k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKWK](/stripes/kbkbkwk/).
 
 Part of the [Salt Lake County](/tartans/salt-lake-county/) tartan — the named design grouping this sett with its other cloths.
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><circle cx="492.7" cy="74.5" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.4" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.0" cy="59.5" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="390.9" cy="104.5" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><circle cx="362.7" cy="135.8" r="4" fill="#3465a4"><title>Lougheed</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="397.4" cy="129.1" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="95.0" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.4" cy="87.4" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><circle cx="518.7" cy="91.7" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.9" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><circle cx="514.1" cy="90.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><circle cx="492.7" cy="74.4" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.2" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.0" cy="59.3" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="390.9" cy="104.4" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><circle cx="362.7" cy="135.7" r="4" fill="#3465a4"><title>Lougheed</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="397.4" cy="129.0" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="94.8" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.4" cy="87.2" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><circle cx="518.7" cy="91.5" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.8" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><circle cx="514.1" cy="90.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4dr40k1dr3k1w3k4~x2/

@@ -1,16 +1,18 @@
 ---
 title: "Dinwiddie Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dinwiddie"
   url: "/tartans/dinwiddie/"
 - name: "Dinwiddie Clan Tartan"
-  url: ""
+  url: "/setts/dy4n2k2n42k13g25n6k2r4k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy4n2k2n42k13g25n6k2r4k2/)
-(the same proportion at any scale), whose colour order is pattern [GBKBKGBKRK](/stripes/gbkbkgbkrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy4n2k2n42k13g25n6k2r4k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBKGBKRK](/stripes/gbkbkgbkrk/).
 
 Part of the [Dinwiddie](/tartans/dinwiddie/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddie
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2001 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="244.8" cy="115.6" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.4" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2~dg1502166-g2304144/"><circle cx="258.3" cy="107.5" r="4" fill="#3465a4"><title>Zorra Caledonian Society</title></circle></a><a href="/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/"><circle cx="216.3" cy="86.4" r="4" fill="#3465a4"><title>New Hampshire</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="201.8" cy="131.8" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.8" cy="92.8" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="124.1" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.5" cy="108.6" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4y3~x2/"><circle cx="211.6" cy="107.5" r="4" fill="#3465a4"><title>Cochrane (1984) Clan Tartan</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.1" cy="146.5" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><circle cx="248.0" cy="110.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="244.8" cy="115.5" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.3" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2~dg1502166-g2304144/"><circle cx="258.3" cy="107.3" r="4" fill="#3465a4"><title>Zorra Caledonian Society</title></circle></a><a href="/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/"><circle cx="216.3" cy="86.3" r="4" fill="#3465a4"><title>New Hampshire</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="201.8" cy="131.7" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.8" cy="92.6" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="124.0" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.5" cy="108.5" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4y3~x2/"><circle cx="211.6" cy="107.4" r="4" fill="#3465a4"><title>Cochrane (1984) Clan Tartan</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.1" cy="146.4" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><circle cx="248.0" cy="110.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dy4n2k2n42k13g25n6k2r4k2~x2/

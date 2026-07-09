@@ -1,14 +1,16 @@
 ---
 title: "Eire"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Eire"
-  url: ""
+  url: "/setts/g6lr2g10k3dr1k3lo10lr2lo6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6lr2g10k3dr1k3lo10lr2lo6/)
-(the same proportion at any scale), whose colour order is pattern [GYGKBKYYY](/stripes/gygkbkyyy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6lr2g10k3dr1k3lo10lr2lo6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGKBKYYY](/stripes/gygkbkyyy/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.4" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2/"><circle cx="155.3" cy="188.6" r="4" fill="#3465a4"><title>St. Andrews Bay Hotel (Corporate)</title></circle></a><a href="/variants/s6/r2ly8db2y4k4y1~x6/"><circle cx="102.5" cy="201.9" r="4" fill="#3465a4"><title>Thompson (J.C.'s Fancy) (Personal)</title></circle></a><a href="/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/"><circle cx="135.8" cy="152.9" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/"><circle cx="119.3" cy="148.1" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.7" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"><circle cx="131.2" cy="133.6" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="168.0" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.2" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.6" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><circle cx="123.5" cy="182.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.4" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2/"><circle cx="155.3" cy="188.5" r="4" fill="#3465a4"><title>St. Andrews Bay Hotel (Corporate)</title></circle></a><a href="/variants/s6/r2ly8db2y4k4y1~x6/"><circle cx="102.5" cy="201.8" r="4" fill="#3465a4"><title>Thompson (J.C.'s Fancy) (Personal)</title></circle></a><a href="/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/"><circle cx="135.8" cy="152.8" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/"><circle cx="119.3" cy="148.0" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"><circle cx="131.2" cy="133.5" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="167.9" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.1" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.5" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><circle cx="123.5" cy="182.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/

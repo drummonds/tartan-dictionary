@@ -1,14 +1,16 @@
 ---
 title: "Young (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Young"
   url: "/setts/db3lb3g30db25dp4r3y2dp1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3lb3g30db25dp4r3y2dp1/)
-(the same proportion at any scale), whose colour order is pattern [BGRBBGWB](/stripes/bgrbbgwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3lb3g30db25dp4r3y2dp1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRBBGWB](/stripes/bgrbbgwb/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.2" cy="117.1" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.9" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.2" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.1" cy="126.1" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="242.3" cy="126.8" r="4" fill="#3465a4"><title>Nova Scotia (Province)</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.9" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s8/db31y4g68w4db31r2k6r2~x2/"><circle cx="250.5" cy="94.7" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.2" cy="138.1" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="185.5" cy="134.6" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.9" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><circle cx="259.6" cy="117.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.3" cy="117.0" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.8" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.1" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.1" cy="126.0" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="242.3" cy="126.7" r="4" fill="#3465a4"><title>Nova Scotia (Province)</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.8" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s8/db31y4g68w4db31r2k6r2~x2/"><circle cx="250.5" cy="94.6" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.3" cy="138.0" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="185.5" cy="134.5" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.8" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><circle cx="259.6" cy="117.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db3lb3g30db25dp4r3y2dp1~x2/

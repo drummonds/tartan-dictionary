@@ -1,5 +1,12 @@
 ---
 title: "Grammar School at Leeds (School)"
-redirect: "/variants/s6/n32w4n4k24dp29k4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Grammar School at Leeds (School)](/variants/s6/n32w4n4k24dp29k4/).
+This is the **Grammar School at Leeds (School)** sett — one scale-free proportion (`n32w4n4k24dp29k4`), colour order pattern
+[BWBKBK](/stripes/bwbkbk/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Grammar School at Leeds (School)](/variants/s6/n32w4n4k24dp29k4/) ★ | 2006 | ![Grammar School at Leeds (School) sett](/variants/s6/n32w4n4k24dp29k4/sett.png) |

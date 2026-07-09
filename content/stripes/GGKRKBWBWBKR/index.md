@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r1k1db4w1db1w1db4k1r1k1g4y1~x4/">Dunedin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r1k1db4w1db1w1db4k1r1k1g4y1~x4/"><img src="/variants/s12/r1k1db4w1db1w1db4k1r1k1g4y1~x4/sett.png" alt="Dunedin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r1k1db4w1db1w1db4k1r1k1g4y1~x4/">Dunedin District (NZ) Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r1k1db4w1db1w1db4k1r1k1g4y1~x4/"><img src="/variants/s12/r1k1db4w1db1w1db4k1r1k1g4y1~x4/sett.png" alt="Dunedin District (NZ) Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

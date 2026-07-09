@@ -2,15 +2,15 @@
 title: "Seton"
 date: 2023-03-18
 ---
-The **Seton** tartan is one sett proportion (`g3w1g6r2dp2r1k2r10g1r2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GRKRBRGWGWGRBRKRGR](/stripes/grkrbrgwgwgrbrkrgr/); each scale below is its own sett page. First attested **1842**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Seton** sett — one scale-free proportion (`g3w1g6r2dp2r1k2r10g1r2`), colour order pattern
+[GRKRBRGWGWGRBRKRGR](/stripes/grkrbrgwgwgrbrkrgr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1842**.
 
-Part of the [Seton](/tartans/seton/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Seton](/tartans/seton/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×8 | [Seton (Clan)](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/) ★ | 1842 | ![Seton (Clan) sett](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/sett.png) |
 | ×8 | [Seton](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/) | 1842 | ![Seton sett](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/sett.png) |

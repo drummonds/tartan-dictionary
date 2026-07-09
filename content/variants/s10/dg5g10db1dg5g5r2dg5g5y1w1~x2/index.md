@@ -1,14 +1,16 @@
 ---
 title: "Mississippi District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mississippi District Tartan"
-  url: ""
+  url: "/setts/dg5g10db1dg5g5r2dg5g5y1w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5g10db1dg5g5r2dg5g5y1w1/)
-(the same proportion at any scale), whose colour order is pattern [GGBGGRGGGW](/stripes/ggbggrgggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg5g10db1dg5g5r2dg5g5y1w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGGRGGGW](/stripes/ggbggrgggw/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2005 Karen M Green of the Mississippi Gulf Coast Scottish H
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/"><circle cx="283.8" cy="155.7" r="4" fill="#3465a4"><title>Field Gun Association</title></circle></a><a href="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/"><circle cx="204.5" cy="201.0" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.6" cy="226.5" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="256.8" cy="190.4" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><circle cx="264.9" cy="183.1" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.5" cy="204.0" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/variants/s14/g8dg2w2dg6y2db14g4dg16g16r2g5w2g4dg7/"><circle cx="172.6" cy="181.9" r="4" fill="#3465a4"><title>Scott Hunting special</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16w2dg4~x2/"><circle cx="239.2" cy="194.6" r="4" fill="#3465a4"><title>Confessore Family Tartan</title></circle></a><a href="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.1" cy="200.9" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/"><circle cx="181.5" cy="225.5" r="4" fill="#3465a4"><title>Wilson's No.122</title></circle></a><circle cx="252.3" cy="202.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/"><circle cx="283.9" cy="155.6" r="4" fill="#3465a4"><title>Field Gun Association</title></circle></a><a href="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/"><circle cx="204.5" cy="200.9" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.6" cy="226.4" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="256.8" cy="190.4" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><circle cx="265.0" cy="183.0" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.5" cy="203.9" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/variants/s14/g8dg2w2dg6y2db14g4dg16g16r2g5w2g4dg7/"><circle cx="172.7" cy="181.8" r="4" fill="#3465a4"><title>Scott Hunting special</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16w2dg4~x2/"><circle cx="239.2" cy="194.5" r="4" fill="#3465a4"><title>Confessore Family Tartan</title></circle></a><a href="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.1" cy="200.8" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/"><circle cx="181.5" cy="225.4" r="4" fill="#3465a4"><title>Wilson's No.122</title></circle></a><circle cx="252.3" cy="202.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg5g10db1dg5g5r2dg5g5y1w1~x2/

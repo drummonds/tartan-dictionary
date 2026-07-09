@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s13/db20g4k4n20db4n20k3r6g4n4g4r4k4~x2/">Gayre Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/db20g4k4n20db4n20k3r6g4n4g4r4k4~x2/"><img src="/variants/s13/db20g4k4n20db4n20k3r6g4n4g4r4k4~x2/sett.png" alt="Gayre Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/">Gayre, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/"><img src="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/sett.png" alt="Gayre, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/">Gayre Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/"><img src="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/sett.png" alt="Gayre Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

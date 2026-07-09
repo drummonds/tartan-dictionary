@@ -1,14 +1,16 @@
 ---
 title: "Royal College of Physicians Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal College of Physicians Corporate Tartan"
-  url: ""
+  url: "/setts/g23r3k9r3db18r3k9r3g23y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g23r3k9r3db18r3k9r3g23y3/)
-(the same proportion at any scale), whose colour order is pattern [GGRKRBRKRG](/stripes/ggrkrbrkrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g23r3k9r3db18r3k9r3g23y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGRKRBRKRG](/stripes/ggrkrbrkrg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: September 1996 Full name is Royal College of Physicians, Ed
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>September 1996 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="143.9" cy="175.6" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/"><circle cx="142.8" cy="180.7" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.6" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.6" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.5" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.4" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="146.0" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="173.6" cy="175.8" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><circle cx="158.4" cy="171.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="143.9" cy="175.5" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.1" cy="149.6" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.1" cy="149.6" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/"><circle cx="142.8" cy="180.6" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.5" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.5" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.4" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.3" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="145.9" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="173.6" cy="175.7" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><circle cx="158.4" cy="171.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/

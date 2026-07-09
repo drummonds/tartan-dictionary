@@ -23,7 +23,7 @@ The **Hannay** tartan groups 5 setts — the same named design recorded as diffe
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k9w4k2w4k2w29k9w4db14y2/"><img src="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/sett.png" alt="Hannay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k9w4k2w4k2w30k9w4b14lo2/">(Clan)</a></td><td><code>K/18 W8 K4 W8 K4 W60 K18 W8 B28 LO/4</code></td><td>298</td><td>1788</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k9w4k2w4k2w30k9w4b14lo2/"><img src="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k9w4k2w4k2w30k9w4db14y2/">Hannay</a></td><td><code>K/18 W8 K4 W8 K4 W60 K18 W8 DB28 Y/4</code></td><td>298</td><td>—</td></tr>
+<tr><td><a href="/setts/k9w4k2w4k2w30k9w4db14y2/">Hannay</a></td><td><code>K/18 W8 K4 W8 K4 W60 K18 W8 DB28 Y/4</code></td><td>298</td><td>~1810</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k9w4k2w4k2w30k9w4db14y2/"><img src="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/sett.png" alt="Hannay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

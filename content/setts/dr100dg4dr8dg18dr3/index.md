@@ -1,5 +1,12 @@
 ---
 title: "KaDeWe"
-redirect: "/variants/s5/dr100dg4dr8dg18dr3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [KaDeWe](/variants/s5/dr100dg4dr8dg18dr3~x2/).
+This is the **KaDeWe** sett — one scale-free proportion (`dr100dg4dr8dg18dr3`), colour order pattern
+[BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.
+First attested **1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [KaDeWe](/variants/s5/dr100dg4dr8dg18dr3~x2/) ★ | 1989 | ![KaDeWe sett](/variants/s5/dr100dg4dr8dg18dr3~x2/sett.png) |

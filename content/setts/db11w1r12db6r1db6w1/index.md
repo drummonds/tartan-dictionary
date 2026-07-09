@@ -2,15 +2,15 @@
 title: "Coronation"
 date: 2023-03-18
 ---
-The **Coronation** tartan is one sett proportion (`db11w1r12db6r1db6w1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BWRBRBW](/stripes/bwrbrbw/); each scale below is its own sett page. First attested **2002**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Coronation** sett — one scale-free proportion (`db11w1r12db6r1db6w1`), colour order pattern
+[BWRBRBW](/stripes/bwrbrbw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **2002**.
 
-Part of the [Coronation](/tartans/coronation/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Coronation](/tartans/coronation/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Coronation (1936) #2](/variants/s7/db11w1r12db6r1db6w1~x4/) ★ | 2002 | ![Coronation (1936) #2 sett](/variants/s7/db11w1r12db6r1db6w1~x4/sett.png) |
 | ×2 | [Coronation](/variants/s7/db11w1r12db6r1db6w1~x2/) | ~2016 | ![Coronation sett](/variants/s7/db11w1r12db6r1db6w1~x2/sett.png) |

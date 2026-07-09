@@ -1,5 +1,12 @@
 ---
 title: "Glasgow High (School)"
-redirect: "/variants/s8/dy6y3t42w4dg18y2t12r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glasgow High (School)](/variants/s8/dy6y3t42w4dg18y2t12r3~x2/).
+This is the **Glasgow High (School)** sett — one scale-free proportion (`dy6y3t42w4dg18y2t12r3`), colour order pattern
+[GGBWGGBR](/stripes/ggbwggbr/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glasgow High (School)](/variants/s8/dy6y3t42w4dg18y2t12r3~x2/) ★ | 2007 | ![Glasgow High (School) sett](/variants/s8/dy6y3t42w4dg18y2t12r3~x2/sett.png) |

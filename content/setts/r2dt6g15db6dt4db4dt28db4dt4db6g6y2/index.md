@@ -1,5 +1,12 @@
 ---
 title: "Los Angeles Police Bagpipe Band"
-redirect: "/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Los Angeles Police Bagpipe Band](/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/).
+This is the **Los Angeles Police Bagpipe Band** sett — one scale-free proportion (`r2dt6g15db6dt4db4dt28db4dt4db6g6y2`), colour order pattern
+[GGBBBBBBBGBR](/stripes/ggbbbbbbbgbr/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Los Angeles Police Bagpipe Band](/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/) ★ | 1999 | ![Los Angeles Police Bagpipe Band sett](/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/sett.png) |

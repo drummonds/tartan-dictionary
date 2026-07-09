@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/">Anderson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/">Anderson 5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/sett.png" alt="Anderson 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/">Anderson Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/sett.png" alt="Anderson Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

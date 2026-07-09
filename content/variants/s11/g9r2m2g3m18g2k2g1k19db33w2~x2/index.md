@@ -1,14 +1,16 @@
 ---
 title: "Pride of Scotland"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Scotland"
-  url: ""
+  url: "/setts/g9r2m2g3m18g2k2g1k19db33w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9r2m2g3m18g2k2g1k19db33w2/)
-(the same proportion at any scale), whose colour order is pattern [GRRGRGKGKBW](/stripes/grrgrgkgkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g9r2m2g3m18g2k2g1k19db33w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRRGRGKGKBW](/stripes/grrgrgkgkbw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><circle cx="165.8" cy="71.8" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.5" cy="84.0" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s11/dg2db24ly1r2dg2r2ly1k24dg24w2db2~x2~dg1802166-db1204274-ly3307090/"><circle cx="161.6" cy="88.0" r="4" fill="#3465a4"><title>Smithsonian (Corporate) American Corporate Tartan</title></circle></a><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/"><circle cx="156.9" cy="87.5" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="168.2" cy="76.8" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2~t2003246/"><circle cx="169.7" cy="76.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/"><circle cx="195.8" cy="79.0" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/variants/s14/w4k1db24k1r8w2g8w2db8k1y2k8y2k1~x2/"><circle cx="154.5" cy="72.8" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><circle cx="198.1" cy="79.6" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="198.3" cy="79.5" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><circle cx="151.2" cy="71.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><circle cx="165.8" cy="71.6" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.5" cy="83.9" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s11/dg2db24ly1r2dg2r2ly1k24dg24w2db2~x2~dg1802166-db1204274-ly3307090/"><circle cx="161.7" cy="87.8" r="4" fill="#3465a4"><title>Smithsonian (Corporate) American Corporate Tartan</title></circle></a><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/"><circle cx="157.0" cy="87.3" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="168.2" cy="76.6" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2~t2003246/"><circle cx="169.7" cy="76.6" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/"><circle cx="195.8" cy="78.8" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/variants/s14/w4k1db24k1r8w2g8w2db8k1y2k8y2k1~x2/"><circle cx="154.5" cy="72.7" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><circle cx="198.1" cy="79.4" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="198.4" cy="79.4" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><circle cx="151.2" cy="71.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g9r2m2g3m18g2k2g1k19db33w2~x2/

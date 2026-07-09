@@ -1,14 +1,16 @@
 ---
 title: "MacCulloch Dress Clan/Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacCulloch Dress (Name)"
   url: "/setts/dy5k3g2r20db10w2g1dy1w20k4dy3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5k3g2r20db10w2g1dy1w20k4dy3/)
-(the same proportion at any scale), whose colour order is pattern [GKGRBWGGWKGKWGGWBRGK](/stripes/gkgrbwggwkgkwggwbrgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy5k3g2r20db10w2g1dy1w20k4dy3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGRBWGGWKGKWGGWBRGK](/stripes/gkgrbwggwkgkwggwbrgk/).
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2000 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="91.3" cy="93.9" r="4" fill="#3465a4"><title>MacCulloch Dress (Name)</title></circle></a><a href="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><circle cx="91.2" cy="65.9" r="4" fill="#3465a4"><title>Aberdeen (Johnston and Smith)</title></circle></a><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/"><circle cx="123.4" cy="64.3" r="4" fill="#3465a4"><title>Canadian Dental Association</title></circle></a><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/"><circle cx="70.9" cy="78.7" r="4" fill="#3465a4"><title>Westwood MacAndreas</title></circle></a><a href="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><circle cx="90.6" cy="66.8" r="4" fill="#3465a4"><title>Aberdeen Dress (Dance)</title></circle></a><a href="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/"><circle cx="94.3" cy="52.7" r="4" fill="#3465a4"><title>A J Gallacher</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/"><circle cx="85.9" cy="76.5" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.8" cy="75.8" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/variants/s22/r8lb16k2r4k2lb51k8w8k6y4k4y4k12r4k12r4g16k2r4k2r16g8/"><circle cx="95.7" cy="50.6" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #1)</title></circle></a><a href="/variants/s19/k3r1k2r2w20db3w3r8k2r2k2r2k8g2k2g2k2g8dy2~x2/"><circle cx="68.1" cy="68.3" r="4" fill="#3465a4"><title>Princess Beatrice Dress (1880)</title></circle></a><circle cx="88.2" cy="69.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="91.3" cy="93.8" r="4" fill="#3465a4"><title>MacCulloch Dress (Name)</title></circle></a><a href="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><circle cx="91.2" cy="65.7" r="4" fill="#3465a4"><title>Aberdeen (Johnston and Smith)</title></circle></a><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/"><circle cx="123.3" cy="64.1" r="4" fill="#3465a4"><title>Canadian Dental Association</title></circle></a><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/"><circle cx="70.9" cy="78.6" r="4" fill="#3465a4"><title>Westwood MacAndreas</title></circle></a><a href="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><circle cx="90.6" cy="66.6" r="4" fill="#3465a4"><title>Aberdeen Dress (Dance)</title></circle></a><a href="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/"><circle cx="94.2" cy="52.5" r="4" fill="#3465a4"><title>A J Gallacher</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/"><circle cx="85.9" cy="76.3" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.8" cy="75.6" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/variants/s22/r8lb16k2r4k2lb51k8w8k6y4k4y4k12r4k12r4g16k2r4k2r16g8/"><circle cx="95.7" cy="50.4" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #1)</title></circle></a><a href="/variants/s19/k3r1k2r2w20db3w3r8k2r2k2r2k8g2k2g2k2g8dy2~x2/"><circle cx="68.1" cy="68.1" r="4" fill="#3465a4"><title>Princess Beatrice Dress (1880)</title></circle></a><circle cx="88.2" cy="69.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2~db1406275/

@@ -1,5 +1,12 @@
 ---
 title: "Buccleuch (Fashion)"
-redirect: "/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Buccleuch (Fashion)](/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/).
+This is the **Buccleuch (Fashion)** sett — one scale-free proportion (`ly15k1ly2k1ly2k10g14w2`), colour order pattern
+[WGKYKYKY](/stripes/wgkykyky/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Buccleuch (Fashion)](/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/) ★ | ~2003 | ![Buccleuch (Fashion) sett](/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Dupplin Check"
-redirect: "/variants/s9/do1w1k1w1do1w1k1w1o1~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dupplin Check](/variants/s9/do1w1k1w1do1w1k1w1o1~x6/).
+This is the **Dupplin Check** sett — one scale-free proportion (`do1w1k1w1do1w1k1w1o1`), colour order pattern
+[BWKWBWKWR](/stripes/bwkwbwkwr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Dupplin Check](/variants/s9/do1w1k1w1do1w1k1w1o1~x6/) ★ | 2002 | ![Dupplin Check sett](/variants/s9/do1w1k1w1do1w1k1w1o1~x6/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Citylink Gold (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Citylink Gold (Corporate)"
-  url: ""
+  url: "/setts/dr25lb2dr3ly2dr3lb11w13ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr25lb2dr3ly2dr3lb11w13ly1/)
-(the same proportion at any scale), whose colour order is pattern [BWBYBWWY](/stripes/bwbybwwy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr25lb2dr3ly2dr3lb11w13ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBYBWWY](/stripes/bwbybwwy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr3lb10dr3lb4dr20w1~x4/"><circle cx="442.0" cy="210.5" r="4" fill="#3465a4"><title>Monica</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5lb12w32dp4~x2/"><circle cx="321.5" cy="165.1" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.7" cy="166.8" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><a href="/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"><circle cx="303.2" cy="154.4" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/variants/s8/w4lb30g6dr2g6dr28y2dr3~x2/"><circle cx="238.2" cy="165.8" r="4" fill="#3465a4"><title>Scotland 2000 Commemorative Tartan</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/"><circle cx="322.9" cy="165.5" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/"><circle cx="315.5" cy="166.3" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><a href="/variants/s9/w29db2w2db2w2db14dr31db2dr3~x2/"><circle cx="276.8" cy="186.6" r="4" fill="#3465a4"><title>Lindsay (Dance)</title></circle></a><a href="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/"><circle cx="369.9" cy="158.1" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><circle cx="364.7" cy="164.8" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><circle cx="324.2" cy="169.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr3lb10dr3lb4dr20w1~x4/"><circle cx="442.1" cy="210.5" r="4" fill="#3465a4"><title>Monica</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5lb12w32dp4~x2/"><circle cx="321.5" cy="165.0" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.7" cy="166.7" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><a href="/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"><circle cx="303.2" cy="154.3" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/variants/s8/w4lb30g6dr2g6dr28y2dr3~x2/"><circle cx="238.2" cy="165.7" r="4" fill="#3465a4"><title>Scotland 2000 Commemorative Tartan</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/"><circle cx="322.9" cy="165.4" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/"><circle cx="315.5" cy="166.2" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><a href="/variants/s9/w29db2w2db2w2db14dr31db2dr3~x2/"><circle cx="276.8" cy="186.5" r="4" fill="#3465a4"><title>Lindsay (Dance)</title></circle></a><a href="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/"><circle cx="369.9" cy="158.0" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><circle cx="364.7" cy="164.7" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><circle cx="324.3" cy="169.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/

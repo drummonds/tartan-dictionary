@@ -1,16 +1,18 @@
 ---
 title: "Brydon (Scottish Borders)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brydon"
   url: "/tartans/brydon/"
 - name: "Brydon (Scottish Borders)"
-  url: ""
+  url: "/setts/dp2dg16k16dt2k2dt2k2dt15db3y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2dg16k16dt2k2dt2k2dt15db3y2/)
-(the same proportion at any scale), whose colour order is pattern [BGKBKBKBBG](/stripes/bgkbkbkbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp2dg16k16dt2k2dt2k2dt15db3y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKBKBKBBG](/stripes/bgkbkbkbbg/).
 
 Part of the [Brydon](/tartans/brydon/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp2dg16k16db2k2db2k2db15dbi3y2~x2~db1204274-dbi1406275/"><circle cx="172.9" cy="169.7" r="4" fill="#3465a4"><title>Brydon (2013)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.6" cy="172.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.2" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17b4lb2~x2~db1108266-b1511266/"><circle cx="219.2" cy="155.3" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><circle cx="155.0" cy="173.9" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/"><circle cx="138.0" cy="166.6" r="4" fill="#3465a4"><title>Ithilien Commemorative Tartan</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.2" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.5" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/"><circle cx="202.9" cy="122.1" r="4" fill="#3465a4"><title>Bro-Vigouden (Corporate)</title></circle></a><a href="/variants/s8/db4k9dgi20dp2dg20k5db6w2~x2~dgi1404144-dg1002166/"><circle cx="134.1" cy="183.5" r="4" fill="#3465a4"><title>Linden Family Tartan</title></circle></a><circle cx="188.5" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp2dg16k16db2k2db2k2db15dbi3y2~x2~db1204274-dbi1406275/"><circle cx="172.9" cy="169.5" r="4" fill="#3465a4"><title>Brydon (2013)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.7" cy="171.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.0" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17b4lb2~x2~db1108266-b1511266/"><circle cx="219.3" cy="155.1" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><circle cx="155.0" cy="173.8" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/"><circle cx="138.1" cy="166.5" r="4" fill="#3465a4"><title>Ithilien Commemorative Tartan</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.1" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.4" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/"><circle cx="203.0" cy="121.9" r="4" fill="#3465a4"><title>Bro-Vigouden (Corporate)</title></circle></a><a href="/variants/s8/db4k9dgi20dp2dg20k5db6w2~x2~dgi1404144-dg1002166/"><circle cx="134.1" cy="183.5" r="4" fill="#3465a4"><title>Linden Family Tartan</title></circle></a><circle cx="188.5" cy="176.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dp2dg16k16dt2k2dt2k2dt15db3y2~x2~dt1102249-db1108266/

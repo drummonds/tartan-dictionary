@@ -1,14 +1,16 @@
 ---
 title: "Wiseman Dairies Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wiseman Dairies Corporate Tartan"
-  url: ""
+  url: "/setts/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2/)
-(the same proportion at any scale), whose colour order is pattern [BKWGWGWGWKWWWW](/stripes/bkwgwgwgwkwwww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWGWGWGWKWWWW](/stripes/bkwgwgwgwkwwww/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1997 The colours and the sett are inspired by the well know
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1997 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g4b3g3b4g4k8g3k9w29r2w4r2~x2/"><circle cx="149.4" cy="110.9" r="4" fill="#3465a4"><title>Ross, hunting dress</title></circle></a><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><circle cx="167.1" cy="106.8" r="4" fill="#3465a4"><title>Robert Wiseman Dairies, Golden Jubilee</title></circle></a><a href="/variants/s13/lb5w2lb2w4k27w2g2w2g6w2g2w22dr2~x2/"><circle cx="165.3" cy="83.9" r="4" fill="#3465a4"><title>Wiseman, Robert</title></circle></a><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><circle cx="134.0" cy="114.4" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="154.4" cy="122.7" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><circle cx="158.8" cy="119.4" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.3" cy="113.1" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><a href="/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"><circle cx="155.0" cy="91.9" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/"><circle cx="173.5" cy="95.5" r="4" fill="#3465a4"><title>Oromocto (District)</title></circle></a><a href="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><circle cx="118.7" cy="126.1" r="4" fill="#3465a4"><title>McCandlish Arisaid, Grey (Name)</title></circle></a><circle cx="168.6" cy="98.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g4b3g3b4g4k8g3k9w29r2w4r2~x2/"><circle cx="149.4" cy="110.7" r="4" fill="#3465a4"><title>Ross, hunting dress</title></circle></a><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><circle cx="167.1" cy="106.7" r="4" fill="#3465a4"><title>Robert Wiseman Dairies, Golden Jubilee</title></circle></a><a href="/variants/s13/lb5w2lb2w4k27w2g2w2g6w2g2w22dr2~x2/"><circle cx="165.2" cy="83.7" r="4" fill="#3465a4"><title>Wiseman, Robert</title></circle></a><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><circle cx="134.0" cy="114.3" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="154.4" cy="122.5" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><circle cx="158.8" cy="119.3" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.3" cy="112.9" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><a href="/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"><circle cx="155.1" cy="91.8" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/"><circle cx="173.5" cy="95.3" r="4" fill="#3465a4"><title>Oromocto (District)</title></circle></a><a href="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><circle cx="118.7" cy="126.0" r="4" fill="#3465a4"><title>McCandlish Arisaid, Grey (Name)</title></circle></a><circle cx="168.6" cy="98.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Gemmell Clan Tartan"
-redirect: "/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gemmell Clan Tartan](/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/).
+This is the **Gemmell Clan Tartan** sett — one scale-free proportion (`db4k1db1k1db1k5g6k1g6k6db3w1r1w1`), colour order pattern
+[BKBKBKGKGKBWRW](/stripes/bkbkbkgkgkbwrw/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Gemmell Clan Tartan](/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/) ★ | 2001 | ![Gemmell Clan Tartan sett](/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/sett.png) |

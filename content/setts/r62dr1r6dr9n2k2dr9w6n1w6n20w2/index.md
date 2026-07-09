@@ -1,5 +1,12 @@
 ---
 title: "Canfor"
-redirect: "/variants/s12/r62dr1r6dr9n2k2dr9w6n1w6n20w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Canfor](/variants/s12/r62dr1r6dr9n2k2dr9w6n1w6n20w2~x2/).
+This is the **Canfor** sett — one scale-free proportion (`r62dr1r6dr9n2k2dr9w6n1w6n20w2`), colour order pattern
+[RBRBBKBWBWBW](/stripes/rbrbbkbwbwbw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Canfor](/variants/s12/r62dr1r6dr9n2k2dr9w6n1w6n20w2~x2/) ★ | 2013 | ![Canfor sett](/variants/s12/r62dr1r6dr9n2k2dr9w6n1w6n20w2~x2/sett.png) |

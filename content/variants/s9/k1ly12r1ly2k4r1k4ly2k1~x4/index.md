@@ -1,14 +1,16 @@
 ---
 title: "MacLeod Snuffbox - 1829 (Artefact)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLeod Snuffbox - 1829 (Artefact)"
-  url: ""
+  url: "/setts/k1ly12r1ly2k4r1k4ly2k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1ly12r1ly2k4r1k4ly2k1/)
-(the same proportion at any scale), whose colour order is pattern [KYKRKYRYK](/stripes/kykrkyryk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k1ly12r1ly2k4r1k4ly2k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYKRKYRYK](/stripes/kykrkyryk/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/"><circle cx="295.4" cy="154.4" r="4" fill="#3465a4"><title>MacLeod (Snuffbox)</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="289.4" cy="109.0" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/"><circle cx="193.0" cy="170.6" r="4" fill="#3465a4"><title>Westwood MacStone (Fashion)</title></circle></a><a href="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/"><circle cx="221.7" cy="148.9" r="4" fill="#3465a4"><title>Braemar or Blair Atholl Trade Tartan</title></circle></a><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="232.5" cy="159.5" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="326.9" cy="174.6" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="284.1" cy="131.0" r="4" fill="#3465a4"><title>Wilbers #2 (Personal)</title></circle></a><a href="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/"><circle cx="283.2" cy="149.4" r="4" fill="#3465a4"><title>Johnston Orange/Black (Corporate)</title></circle></a><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><circle cx="255.1" cy="198.6" r="4" fill="#3465a4"><title>Blackberry (Fashion)</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="260.0" cy="199.1" r="4" fill="#3465a4"><title>Porter Drinkers (Commemorative)</title></circle></a><circle cx="275.0" cy="151.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/"><circle cx="295.4" cy="154.3" r="4" fill="#3465a4"><title>MacLeod (Snuffbox)</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="289.4" cy="108.9" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/"><circle cx="193.0" cy="170.5" r="4" fill="#3465a4"><title>Westwood MacStone (Fashion)</title></circle></a><a href="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/"><circle cx="221.7" cy="148.8" r="4" fill="#3465a4"><title>Braemar or Blair Atholl Trade Tartan</title></circle></a><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="232.4" cy="159.4" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="326.9" cy="174.6" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="284.1" cy="130.9" r="4" fill="#3465a4"><title>Wilbers #2 (Personal)</title></circle></a><a href="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/"><circle cx="283.2" cy="149.3" r="4" fill="#3465a4"><title>Johnston Orange/Black (Corporate)</title></circle></a><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><circle cx="255.1" cy="198.5" r="4" fill="#3465a4"><title>Blackberry (Fashion)</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="260.0" cy="199.1" r="4" fill="#3465a4"><title>Porter Drinkers (Commemorative)</title></circle></a><circle cx="275.0" cy="150.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/

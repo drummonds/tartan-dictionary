@@ -1,5 +1,12 @@
 ---
 title: "Ship Hector, The"
-redirect: "/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ship Hector, The](/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/).
+This is the **Ship Hector, The** sett — one scale-free proportion (`db10k5db16g3w16g5w3g5w16g3db16k5db10k3`), colour order pattern
+[BKBGWGWGWGBKBK](/stripes/bkbgwgwgwgbkbk/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ship Hector, The](/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/) ★ | 1999 | ![Ship Hector, The sett](/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Kelvinside Academy (School)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kelvinside Academy (School)"
-  url: ""
+  url: "/setts/w4n15db8k4db28k2db4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4n15db8k4db28k2db4w2/)
-(the same proportion at any scale), whose colour order is pattern [WBBKBKBW](/stripes/wbbkbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4n15db8k4db28k2db4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBBKBKBW](/stripes/wbbkbkbw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db9k1dbi4k1db18lb5k1lb1k1lb5db4~x2~db1204274-dbi1406275/"><circle cx="323.0" cy="130.3" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.8" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.6" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s6/y8w3db40k12w3y3~x2/"><circle cx="290.3" cy="159.6" r="4" fill="#3465a4"><title>Wolverine (Corporate)</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.1" cy="119.0" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.0" cy="118.9" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="118.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp3lb5~x2/"><circle cx="275.2" cy="191.6" r="4" fill="#3465a4"><title>Van Loo Tartan</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="281.0" cy="155.1" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><a href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/"><circle cx="273.8" cy="148.3" r="4" fill="#3465a4"><title>Detroit Lions</title></circle></a><circle cx="302.8" cy="159.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db9k1dbi4k1db18lb5k1lb1k1lb5db4~x2~db1204274-dbi1406275/"><circle cx="323.0" cy="130.2" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.7" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.5" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s6/y8w3db40k12w3y3~x2/"><circle cx="290.4" cy="159.6" r="4" fill="#3465a4"><title>Wolverine (Corporate)</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.1" cy="118.9" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.1" cy="118.8" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="117.9" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp3lb5~x2/"><circle cx="275.2" cy="191.5" r="4" fill="#3465a4"><title>Van Loo Tartan</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="281.1" cy="155.0" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><a href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/"><circle cx="273.8" cy="148.2" r="4" fill="#3465a4"><title>Detroit Lions</title></circle></a><circle cx="302.8" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w4n15db8k4db28k2db4w2/

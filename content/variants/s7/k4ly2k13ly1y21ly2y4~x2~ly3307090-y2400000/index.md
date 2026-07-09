@@ -1,14 +1,16 @@
 ---
 title: "Bannockbane Grey #3"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane Grey #3"
-  url: ""
+  url: "/setts/k4ly2k13ly1y21ly2y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4ly2k13ly1y21ly2y4/)
-(the same proportion at any scale), whose colour order is pattern [GYGYKYK](/stripes/gygykyk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4ly2k13ly1y21ly2y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGYKYK](/stripes/gygykyk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="289.7" cy="100.1" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="113.2" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.3" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/"><circle cx="299.8" cy="123.3" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1/"><circle cx="291.6" cy="118.7" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1~x2/"><circle cx="291.6" cy="118.7" r="4" fill="#3465a4"><title>MacPherson 6</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.5" cy="186.5" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s5/dy38w9dy3k9w3~x2/"><circle cx="348.5" cy="179.2" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="292.0" cy="193.7" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.6" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><circle cx="288.9" cy="152.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="289.7" cy="99.9" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="113.1" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.2" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/"><circle cx="299.8" cy="123.1" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1/"><circle cx="291.6" cy="118.6" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1~x2/"><circle cx="291.6" cy="118.6" r="4" fill="#3465a4"><title>MacPherson 6</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.6" cy="186.4" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s5/dy38w9dy3k9w3~x2/"><circle cx="348.5" cy="179.1" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="292.0" cy="193.6" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.5" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><circle cx="288.9" cy="152.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/

@@ -1,14 +1,16 @@
 ---
 title: "Argentine Flag"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Argentine Flag"
-  url: ""
+  url: "/setts/lb26w2y1w3y2w3y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb26w2y1w3y2w3y4/)
-(the same proportion at any scale), whose colour order is pattern [GWGWGWW](/stripes/gwgwgww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb26w2y1w3y2w3y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGWGWW](/stripes/gwgwgww/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

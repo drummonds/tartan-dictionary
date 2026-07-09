@@ -1,5 +1,12 @@
 ---
 title: "Lyon College (Corporate)"
-redirect: "/variants/s4/dr40t8dr1w2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lyon College (Corporate)](/variants/s4/dr40t8dr1w2~x4/).
+This is the **Lyon College (Corporate)** sett — one scale-free proportion (`dr40t8dr1w2`), colour order pattern
+[BBBWBB](/stripes/bbbwbb/). It is recorded as a single **variant**, below.
+First attested **1990**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Lyon College (Corporate)](/variants/s4/dr40t8dr1w2~x4/) ★ | 1990 | ![Lyon College (Corporate) sett](/variants/s4/dr40t8dr1w2~x4/sett.png) |

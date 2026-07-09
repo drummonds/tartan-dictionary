@@ -1,14 +1,16 @@
 ---
 title: "Afghanistan Memorial"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Afghanistan Memorial"
-  url: ""
+  url: "/setts/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2/)
-(the same proportion at any scale), whose colour order is pattern [BGYGYGRYBGYGW](/stripes/bgygygrybgygw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGYGYGRYBGYGW](/stripes/bgygygrybgygw/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/"><circle cx="350.0" cy="73.1" r="4" fill="#3465a4"><title>Morgan Jocelyn Osmélian Peregrine (Personal)</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/"><circle cx="306.1" cy="91.2" r="4" fill="#3465a4"><title>Bell's Whisky (Corporate)</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="323.2" cy="94.0" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><a href="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/"><circle cx="281.0" cy="86.0" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><circle cx="280.1" cy="66.8" r="4" fill="#3465a4"><title>Thomas McGurran</title></circle></a><a href="/variants/s11/k9n2ly2k2w18ly2k2w1k19ly33dr2~x2/"><circle cx="185.1" cy="82.6" r="4" fill="#3465a4"><title>Pride of Scotland Gold</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><circle cx="204.8" cy="65.7" r="4" fill="#3465a4"><title>MacGill of Jura (Clan?)</title></circle></a><a href="/variants/s15/w3lb2w3r4w16k2w2k2w3k10g35k2g2k1g2~x2/"><circle cx="196.8" cy="57.0" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills dress</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.7" cy="58.6" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><circle cx="278.9" cy="72.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/"><circle cx="350.0" cy="72.9" r="4" fill="#3465a4"><title>Morgan Jocelyn Osmélian Peregrine (Personal)</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/"><circle cx="306.1" cy="91.0" r="4" fill="#3465a4"><title>Bell's Whisky (Corporate)</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="323.2" cy="93.8" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><a href="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/"><circle cx="280.9" cy="85.8" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><circle cx="280.1" cy="66.6" r="4" fill="#3465a4"><title>Thomas McGurran</title></circle></a><a href="/variants/s11/k9n2ly2k2w18ly2k2w1k19ly33dr2~x2/"><circle cx="185.1" cy="82.4" r="4" fill="#3465a4"><title>Pride of Scotland Gold</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.0" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><circle cx="204.8" cy="65.6" r="4" fill="#3465a4"><title>MacGill of Jura (Clan?)</title></circle></a><a href="/variants/s15/w3lb2w3r4w16k2w2k2w3k10g35k2g2k1g2~x2/"><circle cx="196.7" cy="56.8" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills dress</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.7" cy="58.4" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><circle cx="278.9" cy="72.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/

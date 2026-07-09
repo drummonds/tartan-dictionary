@@ -1,5 +1,12 @@
 ---
 title: "Dallas"
-redirect: "/variants/s17/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dallas](/variants/s17/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2~x2/).
+This is the **Dallas** sett — one scale-free proportion (`t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2`), colour order pattern
+[BBBBWBBWGGWGGWBBW](/stripes/bbbbwbbwggwggwbbw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dallas](/variants/s17/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2~x2/) ★ | 2002 | ![Dallas sett](/variants/s17/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2~x2/sett.png) |

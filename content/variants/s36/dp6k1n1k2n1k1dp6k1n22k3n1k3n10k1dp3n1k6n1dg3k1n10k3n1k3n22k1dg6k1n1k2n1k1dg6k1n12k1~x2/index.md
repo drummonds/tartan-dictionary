@@ -1,14 +1,16 @@
 ---
 title: "Weiss-Halliwell (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Weiss-Halliwell (Personal)"
-  url: ""
+  url: "/setts/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKBBKBGKBKBKBKGKBKBKGKBK](/stripes/bkbkbkbkbkbkbkbbkbgkbkbkbkgkbkbkgkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBKBBKBGKBKBKBKGKBKBKGKBK](/stripes/bkbkbkbkbkbkbkbbkbgkbkbkbkgkbkbkgkbk/).
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><circle cx="242.3" cy="53.8" r="4" fill="#3465a4"><title>Hood</title></circle></a><a href="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/"><circle cx="277.6" cy="104.0" r="4" fill="#3465a4"><title>Matheson Hunting (Blue)</title></circle></a><a href="/variants/s21/k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><circle cx="248.1" cy="79.0" r="4" fill="#3465a4"><title>Hood (Artefact)</title></circle></a><circle cx="297.9" cy="69.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><circle cx="242.3" cy="53.6" r="4" fill="#3465a4"><title>Hood</title></circle></a><a href="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/"><circle cx="277.6" cy="103.8" r="4" fill="#3465a4"><title>Matheson Hunting (Blue)</title></circle></a><a href="/variants/s21/k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><circle cx="248.1" cy="78.8" r="4" fill="#3465a4"><title>Hood (Artefact)</title></circle></a><circle cx="297.8" cy="69.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/

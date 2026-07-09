@@ -1,5 +1,12 @@
 ---
 title: "van der Watt Personal)"
-redirect: "/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [van der Watt Personal)](/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/).
+This is the **van der Watt Personal)** sett — one scale-free proportion (`r1db6k1db1k8g1k8dp2g1k1g6lo1`), colour order pattern
+[RBKBKGKBGKGY](/stripes/rbkbkgkbgkgy/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [van der Watt Personal)](/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/) ★ | 2009 | ![van der Watt Personal) sett](/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/sett.png) |

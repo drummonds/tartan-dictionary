@@ -1,5 +1,12 @@
 ---
 title: "Dunfermline"
-redirect: "/variants/s6/dr11n3dr12k11t11w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dunfermline](/variants/s6/dr11n3dr12k11t11w1~x2/).
+This is the **Dunfermline** sett — one scale-free proportion (`dr11n3dr12k11t11w1`), colour order pattern
+[BBBKBW](/stripes/bbbkbw/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dunfermline](/variants/s6/dr11n3dr12k11t11w1~x2/) ★ | 2001 | ![Dunfermline sett](/variants/s6/dr11n3dr12k11t11w1~x2/sett.png) |

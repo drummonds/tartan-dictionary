@@ -1,5 +1,12 @@
 ---
 title: "Crieff & Strathearn #1"
-redirect: "/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Crieff & Strathearn #1](/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/).
+This is the **Crieff & Strathearn #1** sett — one scale-free proportion (`g55dbi7dr24g12db4dy3db4`), colour order pattern
+[BGBGBBG](/stripes/bgbgbbg/). It is recorded as a single **variant**, below.
+First attested **1988**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Crieff & Strathearn #1](/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/) ★ | 1988 | ![Crieff & Strathearn #1 sett](/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/sett.png) |

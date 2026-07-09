@@ -2,15 +2,15 @@
 title: "MacLeod"
 date: 2023-03-18
 ---
-The **MacLeod** tartan is one sett proportion (`r3k2g15k10db20k2y2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GKBKGKR](/stripes/gkbkgkr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacLeod** sett — one scale-free proportion (`r3k2g15k10db20k2y2`), colour order pattern
+[GKBKGKR](/stripes/gkbkgkr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1831**.
 
-Part of the [MacLeod](/tartans/macleod/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacLeod](/tartans/macleod/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [MacLeod](/variants/s7/r3k2g15k10db20k2y2/) ★ | ~2016 | ![MacLeod sett](/variants/s7/r3k2g15k10db20k2y2/sett.png) |
-| ×2 | [MacLeod, Macleod of Harris](/variants/s7/r3k2g15k10db20k2y2~x2/) | ~2016 | ![MacLeod, Macleod of Harris sett](/variants/s7/r3k2g15k10db20k2y2~x2/sett.png) |
+| ×2 | [MacLeod Clan Tartan](/variants/s7/r3k2g15k10db20k2y2~x2/) ★ | 1831 | ![MacLeod Clan Tartan sett](/variants/s7/r3k2g15k10db20k2y2~x2/sett.png) |
+| ×1 | [MacLeod](/variants/s7/r3k2g15k10db20k2y2/) | ~2016 | ![MacLeod sett](/variants/s7/r3k2g15k10db20k2y2/sett.png) |

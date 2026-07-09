@@ -1,5 +1,12 @@
 ---
 title: "Curnow of Kernow (Personal)"
-redirect: "/variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Curnow of Kernow (Personal)](/variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/).
+This is the **Curnow of Kernow (Personal)** sett — one scale-free proportion (`r3ly2dp26k13y2k8w3`), colour order pattern
+[RYBKGKW](/stripes/rybkgkw/). It is recorded as a single **variant**, below.
+First attested **1991**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Curnow of Kernow (Personal)](/variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/) ★ | 1991 | ![Curnow of Kernow (Personal) sett](/variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/sett.png) |

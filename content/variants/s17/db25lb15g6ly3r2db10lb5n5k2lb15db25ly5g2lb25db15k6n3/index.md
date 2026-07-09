@@ -1,16 +1,18 @@
 ---
 title: "Kennewell (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kennewell"
   url: "/tartans/kennewell/"
 - name: "Kennewell (Personal)"
-  url: ""
+  url: "/setts/db25lb15g6ly3r2db10lb5n5k2lb15db25ly5g2lb25db15k6n3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db25lb15g6ly3r2db10lb5n5k2lb15db25ly5g2lb25db15k6n3/)
-(the same proportion at any scale), whose colour order is pattern [BKBWGYBWKBWBRYGWB](/stripes/bkbwgybwkbwbrygwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db25lb15g6ly3r2db10lb5n5k2lb15db25ly5g2lb25db15k6n3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBWGYBWKBWBRYGWB](/stripes/bkbwgybwkbwbrygwb/).
 
 Part of the [Kennewell](/tartans/kennewell/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/"><circle cx="133.1" cy="108.9" r="4" fill="#3465a4"><title>Kennewell (Personal)</title></circle></a><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/"><circle cx="152.6" cy="93.3" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/variants/s13/b12db3n3w2n3db3b5k8db31lb5db8w4r6~x2/"><circle cx="165.9" cy="96.4" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/variants/s15/r3k2lb18db10lr3db2lr2db5lr2db2lr3db10lb18k2y3~x2/"><circle cx="130.6" cy="121.6" r="4" fill="#3465a4"><title>Citadel Military Academy</title></circle></a><a href="/variants/s15/r3k2lb18db11w3db2w2db5w2db2w3db11lb18k2y3~x2~db1204274/"><circle cx="121.4" cy="120.5" r="4" fill="#3465a4"><title>Citadel Military Academy Regimental Tartan</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/"><circle cx="141.4" cy="112.9" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s13/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20~x2/"><circle cx="92.8" cy="137.5" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><circle cx="142.4" cy="113.3" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s11/w4db8dr3db25k13b4lb29db3lb8db2dr3~x2/"><circle cx="127.6" cy="120.5" r="4" fill="#3465a4"><title>Air Force</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.4" cy="104.1" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><circle cx="130.8" cy="109.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/"><circle cx="133.1" cy="108.7" r="4" fill="#3465a4"><title>Kennewell (Personal)</title></circle></a><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/"><circle cx="152.6" cy="93.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/variants/s13/b12db3n3w2n3db3b5k8db31lb5db8w4r6~x2/"><circle cx="166.0" cy="96.2" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/variants/s15/r3k2lb18db10lr3db2lr2db5lr2db2lr3db10lb18k2y3~x2/"><circle cx="130.6" cy="121.5" r="4" fill="#3465a4"><title>Citadel Military Academy</title></circle></a><a href="/variants/s15/r3k2lb18db11w3db2w2db5w2db2w3db11lb18k2y3~x2~db1204274/"><circle cx="121.4" cy="120.3" r="4" fill="#3465a4"><title>Citadel Military Academy Regimental Tartan</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/"><circle cx="141.5" cy="112.8" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s13/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20~x2/"><circle cx="92.8" cy="137.3" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><circle cx="142.4" cy="113.2" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s11/w4db8dr3db25k13b4lb29db3lb8db2dr3~x2/"><circle cx="127.7" cy="120.3" r="4" fill="#3465a4"><title>Air Force</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.4" cy="104.0" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><circle cx="130.8" cy="109.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/db25lb15g6ly3r2db10lb5n5k2lb15db25ly5g2lb25db15k6n3/

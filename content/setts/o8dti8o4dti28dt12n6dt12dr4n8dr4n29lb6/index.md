@@ -1,5 +1,12 @@
 ---
 title: "Kinloch Anderson Granite (Corporate)"
-redirect: "/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kinloch Anderson Granite (Corporate)](/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/).
+This is the **Kinloch Anderson Granite (Corporate)** sett — one scale-free proportion (`o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6`), colour order pattern
+[RBRBBBBBBBBW](/stripes/rbrbbbbbbbbw/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Kinloch Anderson Granite (Corporate)](/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/) ★ | 2010 | ![Kinloch Anderson Granite (Corporate) sett](/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/sett.png) |

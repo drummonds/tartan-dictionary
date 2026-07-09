@@ -1,5 +1,12 @@
 ---
 title: "Wilson's Blanket Sett - Border"
-redirect: "/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's Blanket Sett - Border](/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/).
+This is the **Wilson's Blanket Sett - Border** sett — one scale-free proportion (`w100r14w13g13w13k1r14k1w13g13w13r12w100`), colour order pattern
+[WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/). It is recorded as a single **variant**, below.
+First attested **1819**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's Blanket Sett - Border](/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/) ★ | 1819 | ![Wilson's Blanket Sett - Border sett](/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png) |

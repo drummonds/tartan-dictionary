@@ -1,14 +1,16 @@
 ---
 title: "MacKenzie Hunting (Brown)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKenzie Hunting (Brown)"
-  url: ""
+  url: "/setts/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2/)
-(the same proportion at any scale), whose colour order is pattern [RKYKRKWKRKYKYKY](/stripes/rkykrkwkrkykyky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKYKRKWKRKYKYKY](/stripes/rkykrkwkrkykyky/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><circle cx="121.2" cy="156.9" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/"><circle cx="101.8" cy="146.4" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.7" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.4" cy="139.0" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/"><circle cx="169.4" cy="102.7" r="4" fill="#3465a4"><title>Brown-Wells (Personal)</title></circle></a><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/"><circle cx="124.0" cy="144.6" r="4" fill="#3465a4"><title>Van Ingelgem Htg (Personal)</title></circle></a><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.7" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/"><circle cx="87.9" cy="157.8" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2~g2408144/"><circle cx="170.9" cy="136.1" r="4" fill="#3465a4"><title>Bates</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.6" cy="132.4" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><circle cx="108.5" cy="125.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><circle cx="121.2" cy="156.8" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/"><circle cx="101.8" cy="146.3" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.6" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.4" cy="138.8" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/"><circle cx="169.4" cy="102.6" r="4" fill="#3465a4"><title>Brown-Wells (Personal)</title></circle></a><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/"><circle cx="124.0" cy="144.4" r="4" fill="#3465a4"><title>Van Ingelgem Htg (Personal)</title></circle></a><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/"><circle cx="87.9" cy="157.7" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2~g2408144/"><circle cx="170.9" cy="136.0" r="4" fill="#3465a4"><title>Bates</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.6" cy="132.3" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><circle cx="108.5" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Hopkins (Welsh Name)"
-redirect: "/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hopkins (Welsh Name)](/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/).
+This is the **Hopkins (Welsh Name)** sett — one scale-free proportion (`ki5k2ki2k2ki2db5k2db1n1db1k10ki3`), colour order pattern
+[KKBBBKBKKKKK](/stripes/kkbbbkbkkkkk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Hopkins (Welsh Name)](/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/) ★ | 2002 | ![Hopkins (Welsh Name) sett](/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/sett.png) |

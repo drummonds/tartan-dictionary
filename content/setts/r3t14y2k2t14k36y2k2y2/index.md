@@ -1,5 +1,12 @@
 ---
 title: "Ewbank"
-redirect: "/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ewbank](/variants/s9/r3t14y2k2t14k36y2k2y2~x2/).
+This is the **Ewbank** sett — one scale-free proportion (`r3t14y2k2t14k36y2k2y2`), colour order pattern
+[GKGKBKGBR](/stripes/gkgkbkgbr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ewbank](/variants/s9/r3t14y2k2t14k36y2k2y2~x2/) ★ | 2002 | ![Ewbank sett](/variants/s9/r3t14y2k2t14k36y2k2y2~x2/sett.png) |

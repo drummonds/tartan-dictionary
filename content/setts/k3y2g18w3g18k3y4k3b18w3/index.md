@@ -1,5 +1,12 @@
 ---
 title: "Forrester / Foster, hunting"
-redirect: "/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Forrester / Foster, hunting](/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/).
+This is the **Forrester / Foster, hunting** sett — one scale-free proportion (`k3y2g18w3g18k3y4k3b18w3`), colour order pattern
+[KGGWGKGKBW](/stripes/kggwgkgkbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Forrester / Foster, hunting](/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/) ★ | ~2016 | ![Forrester / Foster, hunting sett](/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/sett.png) |

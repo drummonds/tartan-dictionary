@@ -1,16 +1,18 @@
 ---
 title: "Ainslie"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ainslie"
   url: "/tartans/ainslie/"
 - name: "Ainslie"
-  url: ""
+  url: "/setts/db23k4db4r4db4r25w4k4w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db23k4db4r4db4r25w4k4w4/)
-(the same proportion at any scale), whose colour order is pattern [BKBRBRWKW](/stripes/bkbrbrwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db23k4db4r4db4r25w4k4w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBRBRWKW](/stripes/bkbrbrwkw/).
 
 Part of the [Ainslie](/tartans/ainslie/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="152.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.6" cy="150.4" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.9" cy="197.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s6/r3db3r20k20db20g3~x2/"><circle cx="139.0" cy="211.4" r="4" fill="#3465a4"><title>Unidentified #65</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.4" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="135.2" cy="148.0" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="160.9" cy="170.6" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.9" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><circle cx="173.5" cy="176.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="152.2" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.7" cy="150.3" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.9" cy="197.6" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s6/r3db3r20k20db20g3~x2/"><circle cx="139.1" cy="211.4" r="4" fill="#3465a4"><title>Unidentified #65</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.4" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="135.3" cy="147.9" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="160.9" cy="170.5" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.8" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><circle cx="173.5" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db23k4db4r4db4r25w4k4w4~x2/

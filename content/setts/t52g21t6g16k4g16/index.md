@@ -1,5 +1,12 @@
 ---
 title: "Milligan"
-redirect: "/variants/s6/t52g21t6g16k4g16~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Milligan](/variants/s6/t52g21t6g16k4g16~x2/).
+This is the **Milligan** sett — one scale-free proportion (`t52g21t6g16k4g16`), colour order pattern
+[BGBGKG](/stripes/bgbgkg/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Milligan](/variants/s6/t52g21t6g16k4g16~x2/) ★ | 2003 | ![Milligan sett](/variants/s6/t52g21t6g16k4g16~x2/sett.png) |

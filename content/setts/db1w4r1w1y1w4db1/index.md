@@ -1,5 +1,12 @@
 ---
 title: "Justus dress"
-redirect: "/variants/s7/db1w4r1w1y1w4db1~x12/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Justus dress](/variants/s7/db1w4r1w1y1w4db1~x12/).
+This is the **Justus dress** sett — one scale-free proportion (`db1w4r1w1y1w4db1`), colour order pattern
+[BWGWRWB](/stripes/bwgwrwb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×12 | [Justus dress](/variants/s7/db1w4r1w1y1w4db1~x12/) ★ | ~2016 | ![Justus dress sett](/variants/s7/db1w4r1w1y1w4db1~x12/sett.png) |

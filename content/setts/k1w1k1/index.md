@@ -1,5 +1,12 @@
 ---
 title: "Northumberland"
-redirect: "/variants/s3/k1w1k1~x10/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Northumberland](/variants/s3/k1w1k1~x10/).
+This is the **Northumberland** sett — one scale-free proportion (`k1w1k1`), colour order pattern
+[KWK](/stripes/kwk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×10 | [Northumberland](/variants/s3/k1w1k1~x10/) ★ | ~2016 | ![Northumberland sett](/variants/s3/k1w1k1~x10/sett.png) |

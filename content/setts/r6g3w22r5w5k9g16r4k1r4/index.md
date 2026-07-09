@@ -1,5 +1,12 @@
 ---
 title: "MacDuff Dress #3"
-redirect: "/variants/s10/r6g3w22r5w5k9g16r4k1r4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDuff Dress #3](/variants/s10/r6g3w22r5w5k9g16r4k1r4~x2/).
+This is the **MacDuff Dress #3** sett — one scale-free proportion (`r6g3w22r5w5k9g16r4k1r4`), colour order pattern
+[RGWRWKGRKR](/stripes/rgwrwkgrkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDuff Dress #3](/variants/s10/r6g3w22r5w5k9g16r4k1r4~x2/) ★ | ~2016 | ![MacDuff Dress #3 sett](/variants/s10/r6g3w22r5w5k9g16r4k1r4~x2/sett.png) |

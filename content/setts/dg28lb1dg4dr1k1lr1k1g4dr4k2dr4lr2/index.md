@@ -1,5 +1,12 @@
 ---
 title: "Carroll O'Reed"
-redirect: "/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Carroll O'Reed](/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/).
+This is the **Carroll O'Reed** sett — one scale-free proportion (`dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2`), colour order pattern
+[GWGBKYKGBKBY](/stripes/gwgbkykgbkby/). It is recorded as a single **variant**, below.
+First attested **1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Carroll O'Reed](/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/) ★ | 1985 | ![Carroll O'Reed sett](/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Falkirk"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Falkirk"
-  url: ""
+  url: "/setts/db8o27y2r3y2o27db22k2db4k2db4k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8o27y2r3y2o27db22k2db4k2db4k4/)
-(the same proportion at any scale), whose colour order is pattern [BRGRGRBKBKBK](/stripes/brgrgrbkbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db8o27y2r3y2o27db22k2db4k2db4k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGRGRBKBKBK](/stripes/brgrgrbkbkbk/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="120.0" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s12/dy3k19n2k2n2k2n18k3db3k3n23r3~x2/"><circle cx="254.2" cy="126.2" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><circle cx="204.9" cy="148.8" r="4" fill="#3465a4"><title>Boyle Family, Susan (Personal)</title></circle></a><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><circle cx="210.6" cy="114.2" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/"><circle cx="248.9" cy="125.7" r="4" fill="#3465a4"><title>MacInnes Homecoming (Clan)</title></circle></a><a href="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/"><circle cx="214.2" cy="112.0" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/"><circle cx="226.2" cy="105.9" r="4" fill="#3465a4"><title>Un-named fashion (2013)</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="189.6" cy="111.4" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/"><circle cx="183.7" cy="115.3" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.5" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><circle cx="260.3" cy="129.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="119.8" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s12/dy3k19n2k2n2k2n18k3db3k3n23r3~x2/"><circle cx="254.2" cy="126.0" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><circle cx="204.9" cy="148.7" r="4" fill="#3465a4"><title>Boyle Family, Susan (Personal)</title></circle></a><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><circle cx="210.6" cy="114.1" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/"><circle cx="248.9" cy="125.6" r="4" fill="#3465a4"><title>MacInnes Homecoming (Clan)</title></circle></a><a href="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/"><circle cx="214.2" cy="111.8" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/"><circle cx="226.2" cy="105.8" r="4" fill="#3465a4"><title>Un-named fashion (2013)</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="189.6" cy="111.3" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/"><circle cx="183.7" cy="115.1" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.4" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><circle cx="260.3" cy="129.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/

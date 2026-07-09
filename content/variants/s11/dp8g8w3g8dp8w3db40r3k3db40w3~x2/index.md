@@ -1,16 +1,18 @@
 ---
 title: "World Peace"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "World Peace"
   url: "/tartans/world-peace/"
 - name: "World Peace"
-  url: ""
+  url: "/setts/dp8g8w3g8dp8w3db40r3k3db40w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp8g8w3g8dp8w3db40r3k3db40w3/)
-(the same proportion at any scale), whose colour order is pattern [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp8g8w3g8dp8w3db40r3k3db40w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/).
 
 Part of the [World Peace](/tartans/world-peace/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><circle cx="240.9" cy="101.9" r="4" fill="#3465a4"><title>Me to You</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s10/g5db2k2db29dr2db2dr15ly2db4w2~x2/"><circle cx="289.7" cy="111.9" r="4" fill="#3465a4"><title>Bro-Naoned (Corporate)</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.1" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/"><circle cx="196.5" cy="127.8" r="4" fill="#3465a4"><title>Eljamel, Sam (Personal)</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/"><circle cx="260.4" cy="112.9" r="4" fill="#3465a4"><title>University of Edinburgh Business Sch</title></circle></a><a href="/variants/s15/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/"><circle cx="260.0" cy="78.6" r="4" fill="#3465a4"><title>Dickson (Personal)</title></circle></a><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.1" cy="92.9" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><circle cx="329.7" cy="87.2" r="4" fill="#3465a4"><title>Wupper Pipes &amp; Drums (Corporate)</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/"><circle cx="267.9" cy="113.5" r="4" fill="#3465a4"><title>University of Edinburgh Business School, The</title></circle></a><circle cx="286.7" cy="109.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><circle cx="241.0" cy="101.8" r="4" fill="#3465a4"><title>Me to You</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.6" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s10/g5db2k2db29dr2db2dr15ly2db4w2~x2/"><circle cx="289.7" cy="111.7" r="4" fill="#3465a4"><title>Bro-Naoned (Corporate)</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/"><circle cx="196.5" cy="127.7" r="4" fill="#3465a4"><title>Eljamel, Sam (Personal)</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/"><circle cx="260.4" cy="112.7" r="4" fill="#3465a4"><title>University of Edinburgh Business Sch</title></circle></a><a href="/variants/s15/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/"><circle cx="260.0" cy="78.4" r="4" fill="#3465a4"><title>Dickson (Personal)</title></circle></a><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.1" cy="92.8" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><circle cx="329.7" cy="87.0" r="4" fill="#3465a4"><title>Wupper Pipes &amp; Drums (Corporate)</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/"><circle cx="268.0" cy="113.4" r="4" fill="#3465a4"><title>University of Edinburgh Business School, The</title></circle></a><circle cx="286.8" cy="108.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/

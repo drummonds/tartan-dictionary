@@ -1,5 +1,12 @@
 ---
 title: "World Federation of Building Contractors"
-redirect: "/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [World Federation of Building Contractors](/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/).
+This is the **World Federation of Building Contractors** sett — one scale-free proportion (`w4lb44dbi19db44r2`), colour order pattern
+[RBBWW](/stripes/rbbww/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [World Federation of Building Contractors](/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/) ★ | 2000 | ![World Federation of Building Contractors sett](/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/sett.png) |

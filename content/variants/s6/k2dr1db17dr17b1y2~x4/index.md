@@ -1,16 +1,18 @@
 ---
 title: "Murdoch"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Murdoch"
   url: "/tartans/murdoch/"
 - name: "Murdoch"
-  url: ""
+  url: "/setts/k2dr1db17dr17b1y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2dr1db17dr17b1y2/)
-(the same proportion at any scale), whose colour order is pattern [GBBBBK](/stripes/gbbbbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2dr1db17dr17b1y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBBK](/stripes/gbbbbk/).
 
 Part of the [Murdoch](/tartans/murdoch/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="266.6" cy="133.2" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/"><circle cx="373.6" cy="184.9" r="4" fill="#3465a4"><title>Murdoch (Geoffrey)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.4" cy="219.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/"><circle cx="290.4" cy="160.8" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/"><circle cx="293.9" cy="142.9" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/variants/s7/dp2o1dp10db1n10k1n2~x4/"><circle cx="324.2" cy="193.6" r="4" fill="#3465a4"><title>Lennox Primary School</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="272.7" cy="147.7" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/"><circle cx="405.0" cy="139.9" r="4" fill="#3465a4"><title>Highland Prince (Fashion)</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.2" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.3" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><circle cx="336.0" cy="170.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="266.6" cy="133.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/"><circle cx="373.7" cy="184.8" r="4" fill="#3465a4"><title>Murdoch (Geoffrey)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.5" cy="219.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/"><circle cx="290.4" cy="160.7" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/"><circle cx="293.9" cy="142.7" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/variants/s7/dp2o1dp10db1n10k1n2~x4/"><circle cx="324.2" cy="193.5" r="4" fill="#3465a4"><title>Lennox Primary School</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="272.8" cy="147.6" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/"><circle cx="405.1" cy="139.7" r="4" fill="#3465a4"><title>Highland Prince (Fashion)</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.1" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.2" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><circle cx="336.0" cy="170.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k2dr1db17dr17b1y2~x4/

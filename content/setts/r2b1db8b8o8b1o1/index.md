@@ -1,5 +1,12 @@
 ---
 title: "Over Mountain"
-redirect: "/variants/s7/r2b1db8b8o8b1o1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Over Mountain](/variants/s7/r2b1db8b8o8b1o1~x2/).
+This is the **Over Mountain** sett — one scale-free proportion (`r2b1db8b8o8b1o1`), colour order pattern
+[RBBBRBR](/stripes/rbbbrbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Over Mountain](/variants/s7/r2b1db8b8o8b1o1~x2/) ★ | ~2016 | ![Over Mountain sett](/variants/s7/r2b1db8b8o8b1o1~x2/sett.png) |

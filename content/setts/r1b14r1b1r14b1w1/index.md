@@ -1,5 +1,12 @@
 ---
 title: "MacKintosh, Fragment"
-redirect: "/variants/s7/r1b14r1b1r14b1w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKintosh, Fragment](/variants/s7/r1b14r1b1r14b1w1~x2/).
+This is the **MacKintosh, Fragment** sett — one scale-free proportion (`r1b14r1b1r14b1w1`), colour order pattern
+[RBRBRBW](/stripes/rbrbrbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacKintosh, Fragment](/variants/s7/r1b14r1b1r14b1w1~x2/) ★ | ~2016 | ![MacKintosh, Fragment sett](/variants/s7/r1b14r1b1r14b1w1~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Bell of the Borders"
-redirect: "/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bell of the Borders](/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/).
+This is the **Bell of the Borders** sett — one scale-free proportion (`r3g2k9lg2k2lg24y2lg2y1`), colour order pattern
+[GYGYKYKGR](/stripes/gygykykgr/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Bell of the Borders](/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/) ★ | 1984 | ![Bell of the Borders sett](/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/sett.png) |

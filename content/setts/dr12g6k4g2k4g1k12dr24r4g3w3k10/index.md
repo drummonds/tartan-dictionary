@@ -1,5 +1,12 @@
 ---
 title: "Fullerton, Terence (Personal)"
-redirect: "/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fullerton, Terence (Personal)](/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/).
+This is the **Fullerton, Terence (Personal)** sett — one scale-free proportion (`dr12g6k4g2k4g1k12dr24r4g3w3k10`), colour order pattern
+[BGKGKGKBRGWK](/stripes/bgkgkgkbrgwk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fullerton, Terence (Personal)](/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/) ★ | 2015 | ![Fullerton, Terence (Personal) sett](/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/sett.png) |

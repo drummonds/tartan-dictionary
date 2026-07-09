@@ -1,14 +1,16 @@
 ---
 title: "MacPherson Turquoise Dress Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacPherson Turquoise Dress Tartan"
-  url: ""
+  url: "/setts/w4k2w26lb23w3lb8dp3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k2w26lb23w3lb8dp3/)
-(the same proportion at any scale), whose colour order is pattern [BWWWWKW](/stripes/bwwwwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4k2w26lb23w3lb8dp3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWWWWKW](/stripes/bwwwwkw/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.4" cy="189.1" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/"><circle cx="302.1" cy="156.1" r="4" fill="#3465a4"><title>Longniddry Turquoise (Dance)</title></circle></a><a href="/variants/s7/w8k2w26db5lb24db2lb8~x2/"><circle cx="258.3" cy="192.9" r="4" fill="#3465a4"><title>Lennox Turquoise Dress District Tartan</title></circle></a><a href="/variants/s8/lb42k2w2k2lb5b12w32lb4~x2/"><circle cx="312.5" cy="152.9" r="4" fill="#3465a4"><title>Longniddry, dress (Turquoise)</title></circle></a><a href="/variants/s6/db23w8lb2k5w44db4~x2/"><circle cx="316.7" cy="148.4" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><a href="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/"><circle cx="248.3" cy="185.3" r="4" fill="#3465a4"><title>Lennox Dress, Purple (Dance)</title></circle></a><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><circle cx="220.7" cy="154.0" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><circle cx="223.5" cy="154.5" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/"><circle cx="338.9" cy="169.4" r="4" fill="#3465a4"><title>Malmo Skyblue</title></circle></a><a href="/variants/s6/r3t2w35t35r2g3~x2/"><circle cx="301.0" cy="163.0" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><circle cx="304.8" cy="192.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.4" cy="189.0" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/"><circle cx="302.1" cy="156.0" r="4" fill="#3465a4"><title>Longniddry Turquoise (Dance)</title></circle></a><a href="/variants/s7/w8k2w26db5lb24db2lb8~x2/"><circle cx="258.3" cy="192.8" r="4" fill="#3465a4"><title>Lennox Turquoise Dress District Tartan</title></circle></a><a href="/variants/s8/lb42k2w2k2lb5b12w32lb4~x2/"><circle cx="312.5" cy="152.8" r="4" fill="#3465a4"><title>Longniddry, dress (Turquoise)</title></circle></a><a href="/variants/s6/db23w8lb2k5w44db4~x2/"><circle cx="316.7" cy="148.3" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><a href="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/"><circle cx="248.3" cy="185.2" r="4" fill="#3465a4"><title>Lennox Dress, Purple (Dance)</title></circle></a><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><circle cx="220.7" cy="153.9" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><circle cx="223.5" cy="154.4" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/"><circle cx="338.9" cy="169.3" r="4" fill="#3465a4"><title>Malmo Skyblue</title></circle></a><a href="/variants/s6/r3t2w35t35r2g3~x2/"><circle cx="301.0" cy="162.9" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><circle cx="304.8" cy="192.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w4k2w26lb23w3lb8dp3~x2/

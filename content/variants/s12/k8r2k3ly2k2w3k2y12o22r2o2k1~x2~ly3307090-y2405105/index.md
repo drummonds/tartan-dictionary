@@ -1,14 +1,16 @@
 ---
 title: "O'Keefe"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Keefe"
-  url: ""
+  url: "/setts/k8r2k3ly2k2w3k2y12o22r2o2k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8r2k3ly2k2w3k2y12o22r2o2k1/)
-(the same proportion at any scale), whose colour order is pattern [KRKYKWKGRRRK](/stripes/krkykwkgrrrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k8r2k3ly2k2w3k2y12o22r2o2k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKYKWKGRRRK](/stripes/krkykwkgrrrk/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="159.9" cy="76.8" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><a href="/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/"><circle cx="145.9" cy="74.7" r="4" fill="#3465a4"><title>Carolina, States of (District)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="80.0" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/"><circle cx="181.8" cy="79.9" r="4" fill="#3465a4"><title>Stewart of Galloway Clan Tartan</title></circle></a><a href="/variants/s12/db8g2k2ly2k2y2k2g18r2g2r29k3~x2/"><circle cx="169.1" cy="88.0" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/"><circle cx="136.3" cy="99.3" r="4" fill="#3465a4"><title>MacLean of Duart #3</title></circle></a><a href="/variants/s13/r32lb14k16y3k4w4k4r1g28r13k4r4w2~x2/"><circle cx="136.6" cy="72.5" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="81.0" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><circle cx="143.9" cy="77.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="159.9" cy="76.6" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><a href="/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/"><circle cx="145.9" cy="74.5" r="4" fill="#3465a4"><title>Carolina, States of (District)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="79.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/"><circle cx="181.8" cy="79.7" r="4" fill="#3465a4"><title>Stewart of Galloway Clan Tartan</title></circle></a><a href="/variants/s12/db8g2k2ly2k2y2k2g18r2g2r29k3~x2/"><circle cx="169.1" cy="87.9" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/"><circle cx="136.3" cy="99.2" r="4" fill="#3465a4"><title>MacLean of Duart #3</title></circle></a><a href="/variants/s13/r32lb14k16y3k4w4k4r1g28r13k4r4w2~x2/"><circle cx="136.6" cy="72.3" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="80.8" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><circle cx="143.9" cy="77.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2~ly3307090-y2405105/

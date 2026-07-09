@@ -1,5 +1,12 @@
 ---
 title: "Wcwm 972-2"
-redirect: "/variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wcwm 972-2](/variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/).
+This is the **Wcwm 972-2** sett — one scale-free proportion (`lb7k2n2k18lb2k4lb6k2lb1`), colour order pattern
+[WKKBKWKKKWKKW](/stripes/wkkbkwkkkwkkw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wcwm 972-2](/variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/) ★ | 2002 | ![Wcwm 972-2 sett](/variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/sett.png) |

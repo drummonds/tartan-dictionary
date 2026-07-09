@@ -1,6 +1,7 @@
 ---
 title: "Hughes"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Hughes"
   url: "/tartans/hughes/"
 - name: "Hughes"
-  url: ""
+  url: "/setts/g20dg14db9y2db9k1w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g20dg14db9y2db9k1w2/)
-(the same proportion at any scale), whose colour order is pattern [GGBGBKW](/stripes/ggbgbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g20dg14db9y2db9k1w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGBKW](/stripes/ggbgbkw/).
 
 Part of the [Hughes](/tartans/hughes/) tartan — the named design grouping this sett with its other cloths.
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g36dg24t18ly4t18k2w5~x2/"><circle cx="172.7" cy="179.7" r="4" fill="#3465a4"><title>Hughes (Inverbervie) (Personal)</title></circle></a><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="225.6" cy="164.0" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="176.5" cy="175.2" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.2" cy="138.1" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="185.5" cy="134.6" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.9" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s11/dr4g4k2g15do5g5do15g6w1db19dr2~x2/"><circle cx="175.3" cy="140.3" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.3" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><circle cx="163.3" cy="162.4" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.2" cy="133.9" r="4" fill="#3465a4"><title>Jones</title></circle></a><circle cx="170.2" cy="160.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g36dg24t18ly4t18k2w5~x2/"><circle cx="172.8" cy="179.6" r="4" fill="#3465a4"><title>Hughes (Inverbervie) (Personal)</title></circle></a><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="225.7" cy="163.9" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="176.5" cy="175.1" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.3" cy="138.0" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="185.5" cy="134.5" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.8" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s11/dr4g4k2g15do5g5do15g6w1db19dr2~x2/"><circle cx="175.3" cy="140.2" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.2" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><circle cx="163.3" cy="162.3" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.3" cy="133.8" r="4" fill="#3465a4"><title>Jones</title></circle></a><circle cx="170.3" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g20dg14db9y2db9k1w2~x4/

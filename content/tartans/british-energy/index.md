@@ -17,7 +17,7 @@ The **British Energy** tartan groups 3 setts — the same named design recorded 
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db52k12dp18dy1dp1dy4/"><img src="/variants/s6/db52k12dp18dy1dp1dy4~x2/sett.png" alt="British Energy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/b40k14dp22y1dp1y3/">British Energy</a></td><td><code>B/80 K28 DP44 Y2 DP2 Y/6</code></td><td>238</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/b40k14dp22y1dp1y3/"><img src="/variants/s6/b40k14dp22y1dp1y3~x2/sett.png" alt="British Energy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb40k14dp22y1dp1y3/">Corporate Tartan</a></td><td><code>LB/80 K28 DP44 Y2 DP2 Y/6</code></td><td>238</td><td>—</td></tr>
+<tr><td><a href="/setts/lb40k14dp22y1dp1y3/">Corporate Tartan</a></td><td><code>LB/80 K28 DP44 Y2 DP2 Y/6</code></td><td>238</td><td>1996</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/lb40k14dp22y1dp1y3/"><img src="/variants/s6/lb40k14dp22y1dp1y3~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

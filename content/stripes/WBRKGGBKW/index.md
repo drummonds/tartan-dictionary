@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w2db3r6k8g12y1db4k2w2/">National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w2db3r6k8g12y1db4k2w2/"><img src="/variants/s9/w2db3r6k8g12y1db4k2w2~x2/sett.png" alt="National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/">National Millennium</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><img src="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/sett.png" alt="National Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/">National Millennium</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/"><img src="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/sett.png" alt="National Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/w2db3r6k8g12y1db4k2w2/">National Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w2db3r6k8g12y1db4k2w2/"><img src="/variants/s9/w2db3r6k8g12y1db4k2w2~x2/sett.png" alt="National Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,14 +1,16 @@
 ---
 title: "Varrie Commemorative Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Varrie Commemorative Tartan"
-  url: ""
+  url: "/setts/lb9db1w1y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb9db1w1y1/)
-(the same proportion at any scale), whose colour order is pattern [GWBW](/stripes/gwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb9db1w1y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWBW](/stripes/gwbw/).
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2009 November I have designed this tartan in remembrance of
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2009 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb11db1w1y1~x20/"><circle cx="555.0" cy="227.3" r="4" fill="#3465a4"><title>Varrie</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2/"><circle cx="356.1" cy="214.3" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Htg (Clan)</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2~db1204274/"><circle cx="356.8" cy="212.4" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><a href="/variants/s4/w4lb34db60y3~x2/"><circle cx="373.0" cy="204.4" r="4" fill="#3465a4"><title>MacKerral Family Tartan</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="397.7" cy="202.1" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><a href="/variants/s4/w14t5r1lb1~x8/"><circle cx="413.6" cy="211.1" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.8" cy="163.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.1" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s4/w80db30lo5y4~x2/"><circle cx="407.3" cy="194.4" r="4" fill="#3465a4"><title>Tarbh Deargh (Red Bull)</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.6" cy="233.5" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><circle cx="507.2" cy="237.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb11db1w1y1~x20/"><circle cx="555.0" cy="227.3" r="4" fill="#3465a4"><title>Varrie</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2/"><circle cx="356.2" cy="214.2" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Htg (Clan)</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2~db1204274/"><circle cx="356.8" cy="212.4" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><a href="/variants/s4/w4lb34db60y3~x2/"><circle cx="373.0" cy="204.4" r="4" fill="#3465a4"><title>MacKerral Family Tartan</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="397.7" cy="202.1" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><a href="/variants/s4/w14t5r1lb1~x8/"><circle cx="413.6" cy="211.0" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.9" cy="163.5" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.0" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s4/w80db30lo5y4~x2/"><circle cx="407.3" cy="194.3" r="4" fill="#3465a4"><title>Tarbh Deargh (Red Bull)</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.7" cy="233.4" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><circle cx="507.2" cy="237.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/lb9db1w1y1~x20/

@@ -1,14 +1,16 @@
 ---
 title: "Kelly Dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kelly Dress"
   url: "/setts/y68dy4g9r2g3w3g3dy12y6g3y3w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y68dy4g9r2g3w3g3dy12y6g3y3w3/)
-(the same proportion at any scale), whose colour order is pattern [GGGRGWGGGGGW](/stripes/gggrgwgggggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y68dy4g9r2g3w3g3dy12y6g3y3w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGRGWGGGGGW](/stripes/gggrgwgggggw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/"><circle cx="465.7" cy="97.9" r="4" fill="#3465a4"><title>Kelly Dress (Name)</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="132.1" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="403.5" cy="100.8" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><circle cx="466.6" cy="92.2" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><circle cx="393.0" cy="124.8" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.0" cy="123.7" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.3" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><circle cx="454.8" cy="144.6" r="4" fill="#3465a4"><title>Galway Irish County Tartan</title></circle></a><a href="/variants/s12/n60lb5n8y2n4w2n4g16o8n2o4w2~x2/"><circle cx="493.8" cy="111.5" r="4" fill="#3465a4"><title>Stuart / Stewart, Silver</title></circle></a><circle cx="474.6" cy="99.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/"><circle cx="465.7" cy="97.7" r="4" fill="#3465a4"><title>Kelly Dress (Name)</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="132.0" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="403.5" cy="100.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><circle cx="466.6" cy="92.0" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><circle cx="393.0" cy="124.7" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.1" cy="123.6" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.2" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><circle cx="454.8" cy="144.5" r="4" fill="#3465a4"><title>Galway Irish County Tartan</title></circle></a><a href="/variants/s12/n60lb5n8y2n4w2n4g16o8n2o4w2~x2/"><circle cx="493.8" cy="111.3" r="4" fill="#3465a4"><title>Stuart / Stewart, Silver</title></circle></a><circle cx="474.6" cy="99.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2~g1903152/

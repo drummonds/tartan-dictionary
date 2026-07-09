@@ -1,5 +1,12 @@
 ---
 title: "Reece (Name)"
-redirect: "/variants/s7/w2ly44db8ly2db2ly3r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Reece (Name)](/variants/s7/w2ly44db8ly2db2ly3r1~x2/).
+This is the **Reece (Name)** sett — one scale-free proportion (`w2ly44db8ly2db2ly3r1`), colour order pattern
+[RYBYBYW](/stripes/rybybyw/). It is recorded as a single **variant**, below.
+First attested **~2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Reece (Name)](/variants/s7/w2ly44db8ly2db2ly3r1~x2/) ★ | ~2010 | ![Reece (Name) sett](/variants/s7/w2ly44db8ly2db2ly3r1~x2/sett.png) |

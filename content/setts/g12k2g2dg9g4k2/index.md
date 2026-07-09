@@ -2,13 +2,13 @@
 title: "Campbell-Simpson (Personal)"
 date: 2023-03-18
 ---
-The **Campbell-Simpson (Personal)** tartan is one sett proportion (`g12k2g2dg9g4k2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GKGGGK](/stripes/gkgggk/); each scale below is its own sett page. First attested **1974**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Campbell-Simpson (Personal)** sett — one scale-free proportion (`g12k2g2dg9g4k2`), colour order pattern
+[GKGGGK](/stripes/gkgggk/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1974**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Campbell-Simpson (Personal)](/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/) ★ | 1974 | ![Campbell-Simpson (Personal) sett](/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/sett.png) |
 | ×4 | [Campbell-Simpson (Personal)](/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/) | 1974 | ![Campbell-Simpson (Personal) sett](/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Chartered Institute of Bankers in Scotland"
-redirect: "/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Chartered Institute of Bankers in Scotland](/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/).
+This is the **Chartered Institute of Bankers in Scotland** sett — one scale-free proportion (`y5lb36n5lb5n56k5n8k5n5k34y5`), colour order pattern
+[GKBKBKBWBWG](/stripes/gkbkbkbwbwg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Chartered Institute of Bankers in Scotland](/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/) ★ | 2002 | ![Chartered Institute of Bankers in Scotland sett](/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/sett.png) |

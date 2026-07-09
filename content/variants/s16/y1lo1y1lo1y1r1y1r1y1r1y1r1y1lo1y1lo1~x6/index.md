@@ -1,14 +1,16 @@
 ---
 title: "Compaq"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Compaq"
-  url: ""
+  url: "/setts/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1/)
-(the same proportion at any scale), whose colour order is pattern [GYGYGRGRGRGRGYGY](/stripes/gygygrgrgrgrgygy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGYGRGRGRGRGYGY](/stripes/gygygrgrgrgrgygy/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -56,12 +58,12 @@ One full sett is **180 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">180</div><div class="nn-name nn-base"><a href="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/">Compaq</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1r1y1r1y1lo1y1lo1y1~x6&amp;base=y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">96</div><div class="nn-name nn-far"><a href="/variants/s9/y1r1y1r1y1lo1y1lo1y1~x6/">Compaq Check (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y1r1y1r1y1lo1y1lo1y1~x6/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">180</div><div class="nn-name nn-base"><a href="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/">Compaq</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1r1y1r1y1lo1y1lo1y1~x6&amp;base=y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">96</div><div class="nn-name nn-far"><a href="/variants/s9/y1r1y1r1y1lo1y1lo1y1~x6/">Compaq Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y1r1y1r1y1lo1y1lo1y1~x6/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y1r1y1r1y1lo1y1lo1y1~x6/"><circle cx="245.1" cy="366.0" r="4" fill="#3465a4"><title>Compaq Check (Corporate)</title></circle></a><circle cx="198.9" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y1r1y1r1y1lo1y1lo1y1~x6/"><circle cx="245.1" cy="366.0" r="4" fill="#3465a4"><title>Compaq Corporate Tartan</title></circle></a><circle cx="198.9" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/

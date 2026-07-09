@@ -1,5 +1,14 @@
 ---
 title: "Gorman Blue (Personal)"
-redirect: "/variants/s8/w4lb1y2lb22db20w2db4w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gorman Blue (Personal)](/variants/s8/w4lb1y2lb22db20w2db4w2~x2/).
+This is the **Gorman Blue (Personal)** sett — one scale-free proportion (`w4lb1y2lb22db20w2db4w2`), colour order pattern
+[WBWBWGWW](/stripes/wbwbwgww/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+Part of the [Gorman](/tartans/gorman/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gorman Blue (Personal)](/variants/s8/w4lb1y2lb22db20w2db4w2~x2/) ★ | 2011 | ![Gorman Blue (Personal) sett](/variants/s8/w4lb1y2lb22db20w2db4w2~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Caledonian Mist"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Mist"
-  url: ""
+  url: "/setts/dt27k5dp2n1dp1w1dp5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt27k5dp2n1dp1w1dp5/)
-(the same proportion at any scale), whose colour order is pattern [BKBBBWB](/stripes/bkbbbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dt27k5dp2n1dp1w1dp5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBBBWB](/stripes/bkbbbwb/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="394.0" cy="107.6" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="403.3" cy="129.5" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/"><circle cx="396.4" cy="114.8" r="4" fill="#3465a4"><title>Vonarb, Alfred (Personal)</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="173.0" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="400.1" cy="133.9" r="4" fill="#3465a4"><title>MacEdward (MacGregor Hastie)</title></circle></a><a href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><circle cx="391.0" cy="127.3" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><circle cx="383.5" cy="122.0" r="4" fill="#3465a4"><title>Methodist Church</title></circle></a><a href="/variants/s8/dg47y2dg5y2dg4k15db19r2~x2/"><circle cx="366.7" cy="136.1" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="128.0" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r2~x2/"><circle cx="404.3" cy="126.8" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><circle cx="445.0" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="394.0" cy="107.5" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="403.3" cy="129.4" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/"><circle cx="396.4" cy="114.6" r="4" fill="#3465a4"><title>Vonarb, Alfred (Personal)</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="173.0" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="400.1" cy="133.7" r="4" fill="#3465a4"><title>MacEdward (MacGregor Hastie)</title></circle></a><a href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><circle cx="391.0" cy="127.2" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><circle cx="383.6" cy="121.9" r="4" fill="#3465a4"><title>Methodist Church</title></circle></a><a href="/variants/s8/dg47y2dg5y2dg4k15db19r2~x2/"><circle cx="366.7" cy="135.9" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="127.9" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r2~x2/"><circle cx="404.4" cy="126.7" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><circle cx="445.1" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/

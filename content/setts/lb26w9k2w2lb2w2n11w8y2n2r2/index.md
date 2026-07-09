@@ -1,5 +1,14 @@
 ---
 title: "Manchester Blues Modern"
-redirect: "/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Manchester Blues Modern](/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/).
+This is the **Manchester Blues Modern** sett — one scale-free proportion (`lb26w9k2w2lb2w2n11w8y2n2r2`), colour order pattern
+[RBGWBWWWKWW](/stripes/rbgwbwwwkww/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+Part of the [Manchester Blues](/tartans/manchester-blues/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Manchester Blues Modern](/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/) ★ | 2010 | ![Manchester Blues Modern sett](/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/sett.png) |

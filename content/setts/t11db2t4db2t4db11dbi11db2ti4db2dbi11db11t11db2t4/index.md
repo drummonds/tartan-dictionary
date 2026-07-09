@@ -1,5 +1,12 @@
 ---
 title: "William Murdoch (Scottish Gas) Corporate Tartan"
-redirect: "/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [William Murdoch (Scottish Gas) Corporate Tartan](/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/).
+This is the **William Murdoch (Scottish Gas) Corporate Tartan** sett — one scale-free proportion (`t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4`), colour order pattern
+[BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/). It is recorded as a single **variant**, below.
+First attested **1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [William Murdoch (Scottish Gas) Corporate Tartan](/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/) ★ | 1985 | ![William Murdoch (Scottish Gas) Corporate Tartan sett](/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/sett.png) |

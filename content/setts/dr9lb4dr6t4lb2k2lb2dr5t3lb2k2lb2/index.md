@@ -1,5 +1,12 @@
 ---
 title: "Westgaard Ladies' (Personal)"
-redirect: "/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Westgaard Ladies' (Personal)](/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/).
+This is the **Westgaard Ladies' (Personal)** sett — one scale-free proportion (`dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2`), colour order pattern
+[BWBBWKWBBWKW](/stripes/bwbbwkwbbwkw/). It is recorded as a single **variant**, below.
+First attested **1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Westgaard Ladies' (Personal)](/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/) ★ | 1993 | ![Westgaard Ladies' (Personal) sett](/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/sett.png) |

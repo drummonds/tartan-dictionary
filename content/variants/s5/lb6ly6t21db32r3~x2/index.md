@@ -1,14 +1,16 @@
 ---
 title: "Jamieson, Robert (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Jamieson, Robert (Personal)"
-  url: ""
+  url: "/setts/lb6ly6t21db32r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6ly6t21db32r3/)
-(the same proportion at any scale), whose colour order is pattern [RBBYW](/stripes/rbbyw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb6ly6t21db32r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBBYW](/stripes/rbbyw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.9" cy="240.8" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s6/w2dbi15n2db20r9w2~x2~dbi1604274-db0805267/"><circle cx="193.0" cy="197.2" r="4" fill="#3465a4"><title>The Open Championship</title></circle></a><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/"><circle cx="291.9" cy="244.9" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/"><circle cx="217.6" cy="179.0" r="4" fill="#3465a4"><title>World Federation of Building Contractors</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.3" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"><circle cx="208.8" cy="221.9" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.2" cy="147.6" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="239.7" cy="221.9" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="201.2" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/lb8r3dbi29db29lb4~x2~dbi1605267-db1003265/"><circle cx="261.0" cy="236.7" r="4" fill="#3465a4"><title>Bryson</title></circle></a><circle cx="241.7" cy="212.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.9" cy="240.7" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s6/w2dbi15n2db20r9w2~x2~dbi1604274-db0805267/"><circle cx="193.1" cy="197.1" r="4" fill="#3465a4"><title>The Open Championship</title></circle></a><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/"><circle cx="291.9" cy="244.8" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/"><circle cx="217.7" cy="179.0" r="4" fill="#3465a4"><title>World Federation of Building Contractors</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.4" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"><circle cx="208.8" cy="221.8" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.5" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="239.7" cy="221.8" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.6" cy="201.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/lb8r3dbi29db29lb4~x2~dbi1605267-db1003265/"><circle cx="261.0" cy="236.7" r="4" fill="#3465a4"><title>Bryson</title></circle></a><circle cx="241.7" cy="212.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lb6ly6t21db32r3~x2/

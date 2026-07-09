@@ -1,5 +1,12 @@
 ---
 title: "Brown, Watch dress"
-redirect: "/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Brown, Watch dress](/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/).
+This is the **Brown, Watch dress** sett — one scale-free proportion (`o20do3o3do3o3do9w10do3w1do9o10do3o3`), colour order pattern
+[RBRBRBWBWBRBR](/stripes/rbrbrbwbwbrbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Brown, Watch dress](/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/) ★ | ~2016 | ![Brown, Watch dress sett](/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/sett.png) |

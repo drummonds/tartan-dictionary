@@ -1,5 +1,12 @@
 ---
 title: "Jones Htg (Name)"
-redirect: "/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Jones Htg (Name)](/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/).
+This is the **Jones Htg (Name)** sett — one scale-free proportion (`dp4lb2dp2lb8k3dp8dg3dp4dg24g2`), colour order pattern
+[BWBWKBGBGG](/stripes/bwbwkbgbgg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Jones Htg (Name)](/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/) ★ | 2002 | ![Jones Htg (Name) sett](/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/sett.png) |

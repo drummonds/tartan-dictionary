@@ -1,5 +1,14 @@
 ---
 title: "Pollard (2014)"
-redirect: "/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pollard (2014)](/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/).
+This is the **Pollard (2014)** sett — one scale-free proportion (`g5dg5dgi5db5dbi5dg10w2`), colour order pattern
+[GGGBBGW](/stripes/gggbbgw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+Part of the [Pollard](/tartans/pollard/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Pollard (2014)](/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/) ★ | 2014 | ![Pollard (2014) sett](/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/sett.png) |

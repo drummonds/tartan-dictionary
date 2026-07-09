@@ -1,5 +1,12 @@
 ---
 title: "Rainbow"
-redirect: "/variants/s14/db1w1lo1w1r1w1r1w1lo1w1y1w1g1w1~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rainbow](/variants/s14/db1w1lo1w1r1w1r1w1lo1w1y1w1g1w1~x6/).
+This is the **Rainbow** sett — one scale-free proportion (`db1w1lo1w1r1w1r1w1lo1w1y1w1g1w1`), colour order pattern
+[BWYWRWRWYWGWGW](/stripes/bwywrwrwywgwgw/). It is recorded as a single **variant**, below.
+First attested **1988**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Rainbow](/variants/s14/db1w1lo1w1r1w1r1w1lo1w1y1w1g1w1~x6/) ★ | 1988 | ![Rainbow sett](/variants/s14/db1w1lo1w1r1w1r1w1lo1w1y1w1g1w1~x6/sett.png) |

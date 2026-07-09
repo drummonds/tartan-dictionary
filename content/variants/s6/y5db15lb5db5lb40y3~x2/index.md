@@ -1,14 +1,16 @@
 ---
 title: "Legary"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Legary"
-  url: ""
+  url: "/setts/y5db15lb5db5lb40y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y5db15lb5db5lb40y3/)
-(the same proportion at any scale), whose colour order is pattern [GBWBWG](/stripes/gbwbwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y5db15lb5db5lb40y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBWBWG](/stripes/gbwbwg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.5" cy="235.6" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.5" cy="249.6" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.8" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="414.6" cy="214.8" r="4" fill="#3465a4"><title>Hepburn #2</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.5" cy="180.0" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.2" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.2" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s7/lb33r8db12g12lb8db2lb8~x2/"><circle cx="316.8" cy="195.5" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="318.8" cy="176.5" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><circle cx="388.6" cy="207.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.6" cy="235.5" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.6" cy="249.6" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.8" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="414.6" cy="214.7" r="4" fill="#3465a4"><title>Hepburn #2</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.5" cy="179.9" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.1" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.1" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s7/lb33r8db12g12lb8db2lb8~x2/"><circle cx="316.8" cy="195.4" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="318.8" cy="176.5" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><circle cx="388.6" cy="207.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y5db15lb5db5lb40y3~x2/

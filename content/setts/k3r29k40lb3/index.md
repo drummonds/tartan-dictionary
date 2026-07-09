@@ -1,5 +1,12 @@
 ---
 title: "Wallace Red Dress Tartan"
-redirect: "/variants/s4/k3r29k40lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wallace Red Dress Tartan](/variants/s4/k3r29k40lb3~x2/).
+This is the **Wallace Red Dress Tartan** sett — one scale-free proportion (`k3r29k40lb3`), colour order pattern
+[KRKKW](/stripes/krkkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wallace Red Dress Tartan](/variants/s4/k3r29k40lb3~x2/) ★ | ~2016 | ![Wallace Red Dress Tartan sett](/variants/s4/k3r29k40lb3~x2/sett.png) |

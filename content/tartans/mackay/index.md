@@ -18,7 +18,7 @@ The **MacKay** tartan groups 4 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/setts/k14g80k80g9dp82g14/">MacKay</a> ★</td><td><code>K/14 G80 K80 G9 DP82 G/14</code></td><td>530</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k14g80k80g9dp82g14/"><img src="/variants/s6/k14g80k80g9dp82g14/sett.png" alt="MacKay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3g14k14g2db14g3/">MacKay</a></td><td><code>K/3 G14 K14 G2 DB14 G/3</code></td><td>188</td><td>—</td></tr>
+<tr><td><a href="/setts/k3g14k14g2db14g3/">MacKay</a></td><td><code>K/3 G14 K14 G2 DB14 G/3</code></td><td>188</td><td>1816</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k3g14k14g2db14g3/"><img src="/variants/s6/k3g14k14g2db14g3~x2/sett.png" alt="MacKay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k3g14k14g2db14g3/">MacKay</a> · <a href="/variants/s6/k3g14k14g2db14g3~x2/">MacKay</a></td></tr>
 <tr><td><a href="/setts/k4dg23k23dg2db23dg4/">1800 (Clan)</a></td><td><code>K/8 DG46 K46 DG4 DB46 DG/8</code></td><td>300</td><td>1819</td></tr>

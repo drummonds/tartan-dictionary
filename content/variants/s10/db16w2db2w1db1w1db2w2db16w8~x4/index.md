@@ -1,14 +1,16 @@
 ---
 title: "Ikelman (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ikelman (Personal)"
-  url: ""
+  url: "/setts/db16w2db2w1db1w1db2w2db16w8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16w2db2w1db1w1db2w2db16w8/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBW](/stripes/bwbwbwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db16w2db2w1db1w1db2w2db16w8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBW](/stripes/bwbwbwbwbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db5w12db4w4db4w3db37w3db3r4~x2/"><circle cx="378.9" cy="157.3" r="4" fill="#3465a4"><title>Unidentified #26</title></circle></a><a href="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"><circle cx="310.5" cy="230.1" r="4" fill="#3465a4"><title>Yorkshire, The Spirit of</title></circle></a><a href="/variants/s8/db32w4db2w4db4w2db1w6~x2/"><circle cx="512.0" cy="168.4" r="4" fill="#3465a4"><title>Menzies Navy design Tartan</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.9" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/"><circle cx="449.0" cy="177.1" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.6" cy="219.7" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/"><circle cx="423.4" cy="158.3" r="4" fill="#3465a4"><title>Majewski-White (Personal)</title></circle></a><a href="/variants/s5/db72lb6db12lb17w6~x2/"><circle cx="498.1" cy="230.6" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><circle cx="484.6" cy="200.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db5w12db4w4db4w3db37w3db3r4~x2/"><circle cx="378.9" cy="157.2" r="4" fill="#3465a4"><title>Unidentified #26</title></circle></a><a href="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"><circle cx="310.5" cy="230.1" r="4" fill="#3465a4"><title>Yorkshire, The Spirit of</title></circle></a><a href="/variants/s8/db32w4db2w4db4w2db1w6~x2/"><circle cx="512.0" cy="168.3" r="4" fill="#3465a4"><title>Menzies Navy design Tartan</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="440.0" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/"><circle cx="449.0" cy="177.1" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.6" cy="219.6" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/"><circle cx="423.4" cy="158.2" r="4" fill="#3465a4"><title>Majewski-White (Personal)</title></circle></a><a href="/variants/s5/db72lb6db12lb17w6~x2/"><circle cx="498.2" cy="230.6" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><circle cx="484.6" cy="199.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/

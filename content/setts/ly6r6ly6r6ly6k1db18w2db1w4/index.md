@@ -1,5 +1,14 @@
 ---
 title: "Catalunya Escocia"
-redirect: "/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Catalunya Escocia](/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/).
+This is the **Catalunya Escocia** sett — one scale-free proportion (`ly6r6ly6r6ly6k1db18w2db1w4`), colour order pattern
+[WBWBKYRYRY](/stripes/wbwbkyryry/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+Part of the [Catalunya Escocia](/tartans/catalunya-escocia/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Catalunya Escocia](/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/) ★ | 2014 | ![Catalunya Escocia sett](/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/sett.png) |

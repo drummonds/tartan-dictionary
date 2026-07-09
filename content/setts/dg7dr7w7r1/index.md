@@ -1,5 +1,12 @@
 ---
 title: "MacKinnon Dress Hunting (Fashion)"
-redirect: "/variants/s4/dg7dr7w7r1~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKinnon Dress Hunting (Fashion)](/variants/s4/dg7dr7w7r1~x6/).
+This is the **MacKinnon Dress Hunting (Fashion)** sett — one scale-free proportion (`dg7dr7w7r1`), colour order pattern
+[GBWR](/stripes/gbwr/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [MacKinnon Dress Hunting (Fashion)](/variants/s4/dg7dr7w7r1~x6/) ★ | ~2002 | ![MacKinnon Dress Hunting (Fashion) sett](/variants/s4/dg7dr7w7r1~x6/sett.png) |

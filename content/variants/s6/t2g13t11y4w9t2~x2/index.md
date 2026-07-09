@@ -1,14 +1,16 @@
 ---
 title: "Loch Leven"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Leven"
-  url: ""
+  url: "/setts/t2g13t11y4w9t2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t2g13t11y4w9t2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGWB](/stripes/bgbgwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t2g13t11y4w9t2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGWB](/stripes/bgbgwb/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2g13db11lb4w9db2~x2/"><circle cx="165.9" cy="263.8" r="4" fill="#3465a4"><title>Loch Leven Check Trade Tartan</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.8" cy="225.0" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="253.0" cy="232.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s7/lb47g6t13dy20g6t6g28~x2/"><circle cx="225.9" cy="251.2" r="4" fill="#3465a4"><title>State Seal of North Carolina (Fash.)</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4/"><circle cx="354.7" cy="267.7" r="4" fill="#3465a4"><title>Bermuda (1986) (Fashion)</title></circle></a><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/"><circle cx="273.0" cy="275.3" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="288.9" cy="245.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower (Personal)</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.2" cy="255.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="301.0" cy="299.9" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><circle cx="218.9" cy="285.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2g13db11lb4w9db2~x2/"><circle cx="166.0" cy="263.7" r="4" fill="#3465a4"><title>Loch Leven Check Trade Tartan</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.8" cy="224.9" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="253.0" cy="232.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s7/lb47g6t13dy20g6t6g28~x2/"><circle cx="225.9" cy="251.2" r="4" fill="#3465a4"><title>State Seal of North Carolina (Fash.)</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4/"><circle cx="354.7" cy="267.7" r="4" fill="#3465a4"><title>Bermuda (1986) (Fashion)</title></circle></a><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/"><circle cx="273.0" cy="275.3" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="288.9" cy="245.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower (Personal)</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.2" cy="255.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="301.0" cy="299.9" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><circle cx="218.9" cy="285.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/t2g13t11y4w9t2~x2/

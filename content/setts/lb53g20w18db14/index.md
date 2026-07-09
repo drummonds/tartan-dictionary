@@ -1,5 +1,12 @@
 ---
 title: "Leutz (Name?)"
-redirect: "/variants/s4/lb53g20w18db14~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Leutz (Name?)](/variants/s4/lb53g20w18db14~x2/).
+This is the **Leutz (Name?)** sett — one scale-free proportion (`lb53g20w18db14`), colour order pattern
+[BWGW](/stripes/bwgw/). It is recorded as a single **variant**, below.
+First attested **~2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Leutz (Name?)](/variants/s4/lb53g20w18db14~x2/) ★ | ~2006 | ![Leutz (Name?) sett](/variants/s4/lb53g20w18db14~x2/sett.png) |

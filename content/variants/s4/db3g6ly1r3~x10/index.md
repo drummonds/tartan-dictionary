@@ -1,14 +1,16 @@
 ---
 title: "Delroeux (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Delroeux (Personal)"
-  url: ""
+  url: "/setts/db3g6ly1r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3g6ly1r3/)
-(the same proportion at any scale), whose colour order is pattern [BGYR](/stripes/bgyr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3g6ly1r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGYR](/stripes/bgyr/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="289.8" cy="311.5" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s3/g7lb2r4~x2/"><circle cx="289.6" cy="341.2" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="257.8" cy="328.1" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.1" cy="262.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.7" cy="299.7" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.3" cy="274.4" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><circle cx="216.5" cy="282.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="289.9" cy="311.5" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s3/g7lb2r4~x2/"><circle cx="289.7" cy="341.2" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="257.9" cy="328.1" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.1" cy="262.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.7" cy="299.7" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.3" cy="274.4" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><circle cx="216.5" cy="282.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db3g6ly1r3~x10/

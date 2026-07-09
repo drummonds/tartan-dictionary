@@ -1,5 +1,12 @@
 ---
 title: "Highland Titles (Corporate)"
-redirect: "/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highland Titles (Corporate)](/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/).
+This is the **Highland Titles (Corporate)** sett — one scale-free proportion (`r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25`), colour order pattern
+[BKBWBKBRBKBYBKBR](/stripes/bkbwbkbrbkbybkbr/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Highland Titles (Corporate)](/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/) ★ | 2011 | ![Highland Titles (Corporate) sett](/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/sett.png) |

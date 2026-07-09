@@ -1,5 +1,12 @@
 ---
 title: "Manhattan Ethnic"
-redirect: "/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Manhattan Ethnic](/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/).
+This is the **Manhattan Ethnic** sett — one scale-free proportion (`ly36do15ly9r31lyi5do4r16`), colour order pattern
+[RBYRYBY](/stripes/rbyryby/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Manhattan Ethnic](/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/) ★ | 1999 | ![Manhattan Ethnic sett](/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/sett.png) |

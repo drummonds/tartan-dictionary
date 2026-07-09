@@ -1,16 +1,18 @@
 ---
 title: "Pipers' Trail, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pipers' Trail, The"
   url: "/tartans/pipers-trail-the/"
 - name: "Pipers' Trail, The"
-  url: ""
+  url: "/setts/y4lb8dp4k53db54w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4lb8dp4k53db54w4/)
-(the same proportion at any scale), whose colour order is pattern [GWBKBW](/stripes/gwbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y4lb8dp4k53db54w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWBKBW](/stripes/gwbkbw/).
 
 Part of the [Pipers' Trail, The](/tartans/pipers-trail-the/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4db54k53dp4lb8ly4/"><circle cx="195.1" cy="138.4" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="237.7" cy="115.4" r="4" fill="#3465a4"><title>Pipers' Trail (Corporate)</title></circle></a><a href="/variants/s6/k33y4w3db33r2g2~x2/"><circle cx="209.6" cy="127.5" r="4" fill="#3465a4"><title>Atlantic Police Academy (Corporate)</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="201.2" cy="125.0" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="160.6" cy="147.1" r="4" fill="#3465a4"><title>Loch Long One Design (Corporate)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.3" cy="125.1" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="146.5" cy="191.9" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.5" cy="203.0" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="266.2" cy="114.9" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="180.1" cy="91.6" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><circle cx="199.6" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4db54k53dp4lb8ly4/"><circle cx="195.1" cy="138.2" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="237.8" cy="115.3" r="4" fill="#3465a4"><title>Pipers' Trail (Corporate)</title></circle></a><a href="/variants/s6/k33y4w3db33r2g2~x2/"><circle cx="209.6" cy="127.4" r="4" fill="#3465a4"><title>Atlantic Police Academy (Corporate)</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="201.3" cy="124.9" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="160.6" cy="147.0" r="4" fill="#3465a4"><title>Loch Long One Design (Corporate)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.4" cy="125.0" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="146.5" cy="191.8" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.6" cy="203.0" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="266.3" cy="114.8" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="180.2" cy="91.5" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><circle cx="199.7" cy="139.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y4lb8dp4k53db54w4/

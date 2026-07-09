@@ -1,16 +1,18 @@
 ---
 title: "O'Doherty (Glasgow) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Doherty"
   url: "/tartans/o-doherty/"
 - name: "O'Doherty (Glasgow) (Personal)"
-  url: ""
+  url: "/setts/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2/)
-(the same proportion at any scale), whose colour order is pattern [GKGGGGGKGBGBW](/stripes/gkgggggkgbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGGGGGKGBGBW](/stripes/gkgggggkgbgbw/).
 
 Part of the [O'Doherty](/tartans/o-doherty/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/"><circle cx="148.5" cy="117.2" r="4" fill="#3465a4"><title>O'Doherty (Name)</title></circle></a><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="166.5" cy="131.3" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="155.1" cy="134.9" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/"><circle cx="155.6" cy="126.1" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><a href="/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="161.5" cy="143.9" r="4" fill="#3465a4"><title>Clark of Ulva (Clan)</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="129.1" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.1" cy="137.4" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/"><circle cx="138.1" cy="146.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry - 1914 (Clan)</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.9" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s14/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/"><circle cx="132.7" cy="127.9" r="4" fill="#3465a4"><title>Farquharson (Clan)</title></circle></a><circle cx="166.1" cy="122.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/"><circle cx="148.5" cy="117.0" r="4" fill="#3465a4"><title>O'Doherty (Name)</title></circle></a><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="166.5" cy="131.2" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="155.2" cy="134.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/"><circle cx="155.6" cy="126.0" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><a href="/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="161.5" cy="143.7" r="4" fill="#3465a4"><title>Clark of Ulva (Clan)</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="129.0" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.1" cy="137.2" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/"><circle cx="138.2" cy="146.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry - 1914 (Clan)</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.8" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s14/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/"><circle cx="132.7" cy="127.8" r="4" fill="#3465a4"><title>Farquharson (Clan)</title></circle></a><circle cx="166.1" cy="122.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/

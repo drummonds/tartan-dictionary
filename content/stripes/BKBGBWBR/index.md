@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db65k9db21y8db21w8db35r35/">Maud, Mary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db65k9db21y8db21w8db35r35/"><img src="/variants/s8/db65k9db21y8db21w8db35r35/sett.png" alt="Maud, Mary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db65k9db21y8db21w8db35r35/">Maud Mary Irish Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db65k9db21y8db21w8db35r35/"><img src="/variants/s8/db65k9db21y8db21w8db35r35/sett.png" alt="Maud Mary Irish Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg10w2k10y5db35r6~x2/">Hatfield &amp; Mize (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><img src="/variants/s6/dg10w2k10y5db35r6~x2/sett.png" alt="Hatfield &amp; Mize (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/dg10w2k10dy10db35r6~x2/">Hatfield &amp; Mize (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><img src="/variants/s6/dg10w2k10dy10db35r6~x2/sett.png" alt="Hatfield &amp; Mize (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg10w2k10y5db35r6~x2/">Hatfield &amp; Mize (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><img src="/variants/s6/dg10w2k10y5db35r6~x2/sett.png" alt="Hatfield &amp; Mize (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

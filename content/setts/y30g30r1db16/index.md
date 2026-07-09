@@ -1,5 +1,12 @@
 ---
 title: "Barber Family 2011 (Personal)"
-redirect: "/variants/s4/y30g30r1db16~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Barber Family 2011 (Personal)](/variants/s4/y30g30r1db16~x2/).
+This is the **Barber Family 2011 (Personal)** sett — one scale-free proportion (`y30g30r1db16`), colour order pattern
+[BRGG](/stripes/brgg/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Barber Family 2011 (Personal)](/variants/s4/y30g30r1db16~x2/) ★ | 2011 | ![Barber Family 2011 (Personal) sett](/variants/s4/y30g30r1db16~x2/sett.png) |

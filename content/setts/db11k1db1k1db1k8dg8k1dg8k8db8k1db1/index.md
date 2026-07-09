@@ -1,5 +1,12 @@
 ---
 title: "Black Watch Regimental Tartan"
-redirect: "/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Black Watch Regimental Tartan](/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/).
+This is the **Black Watch Regimental Tartan** sett — one scale-free proportion (`db11k1db1k1db1k8dg8k1dg8k8db8k1db1`), colour order pattern
+[BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/). It is recorded as a single **variant**, below.
+First attested **1739**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Black Watch Regimental Tartan](/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/) ★ | 1739 | ![Black Watch Regimental Tartan sett](/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/sett.png) |

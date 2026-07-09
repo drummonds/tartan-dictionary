@@ -1,14 +1,16 @@
 ---
 title: "Buchanan Variant"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Buchanan Variant"
-  url: ""
+  url: "/setts/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6/)
-(the same proportion at any scale), whose colour order is pattern [KRWRKWKRWRKWKYKYKW](/stripes/krwrkwkrwrkwkykykw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRWRKWKRWRKWKYKYKW](/stripes/krwrkwkrwrkwkykykw/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3~x4/"><circle cx="14.0" cy="160.9" r="4" fill="#3465a4"><title>Buchanan Old Clan Tartan</title></circle></a><a href="/variants/s16/r2k2r5lb5k1lb1k1lb5g6y1g6r6w1r1k1r1~x2/"><circle cx="57.7" cy="152.3" r="4" fill="#3465a4"><title>Unidentified No 3</title></circle></a><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/"><circle cx="22.4" cy="179.4" r="4" fill="#3465a4"><title>Hovington (2014)</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.4" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s13/k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1~x4/"><circle cx="23.4" cy="129.6" r="4" fill="#3465a4"><title>BeeJay</title></circle></a><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="31.8" cy="148.2" r="4" fill="#3465a4"><title>Buchanan (Wilson)</title></circle></a><a href="/variants/s18/y6k1db4k1r8w1r8k1db4k1g6db4g6k1db4k1y6k1~x2/"><circle cx="31.8" cy="148.2" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/"><circle cx="31.8" cy="148.2" r="4" fill="#3465a4"><title>Buchanan Clan Tartan</title></circle></a><a href="/variants/s18/g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="32.7" cy="146.8" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/"><circle cx="36.9" cy="145.0" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><circle cx="14.6" cy="141.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3~x4/"><circle cx="14.0" cy="160.8" r="4" fill="#3465a4"><title>Buchanan Old Clan Tartan</title></circle></a><a href="/variants/s16/r2k2r5lb5k1lb1k1lb5g6y1g6r6w1r1k1r1~x2/"><circle cx="57.7" cy="152.2" r="4" fill="#3465a4"><title>Unidentified No 3</title></circle></a><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/"><circle cx="22.4" cy="179.3" r="4" fill="#3465a4"><title>Hovington (2014)</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s13/k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1~x4/"><circle cx="23.4" cy="129.5" r="4" fill="#3465a4"><title>BeeJay</title></circle></a><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="31.8" cy="148.0" r="4" fill="#3465a4"><title>Buchanan (Wilson)</title></circle></a><a href="/variants/s18/y6k1db4k1r8w1r8k1db4k1g6db4g6k1db4k1y6k1~x2/"><circle cx="31.8" cy="148.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/"><circle cx="31.8" cy="148.0" r="4" fill="#3465a4"><title>Buchanan Clan Tartan</title></circle></a><a href="/variants/s18/g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="32.7" cy="146.7" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/"><circle cx="36.9" cy="144.9" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><circle cx="14.6" cy="141.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/

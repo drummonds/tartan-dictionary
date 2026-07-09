@@ -1,14 +1,16 @@
 ---
 title: "Colville (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Colville (Personal)"
-  url: ""
+  url: "/setts/ri16r3k12dy10k3ri3y3k3db2ri2w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri16r3k12dy10k3ri3y3k3db2ri2w1/)
-(the same proportion at any scale), whose colour order is pattern [RRKGKRGKBRW](/stripes/rrkgkrgkbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ri16r3k12dy10k3ri3y3k3db2ri2w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRKGKRGKBRW](/stripes/rrkgkrgkbrw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2db2k3y3r3k3dy10k12dr3r16w1~x2/"><circle cx="108.0" cy="98.1" r="4" fill="#3465a4"><title>Unnamed 18th century plaid (Carlisle Museum)</title></circle></a><a href="/variants/s12/dr6lb5dr23k20rii6k3r4k10dr14ri45k7ri6~rii2806019-r1807033-ri2109032/"><circle cx="130.4" cy="109.1" r="4" fill="#3465a4"><title>Sweetheart (Fashion)</title></circle></a><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/"><circle cx="134.5" cy="109.8" r="4" fill="#3465a4"><title>Sweetheart, The</title></circle></a><a href="/variants/s11/r30w4y2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="83.5" cy="96.8" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/variants/s10/y2dp16k1r5k1o8k1r5k16g2~x4/"><circle cx="120.2" cy="112.0" r="4" fill="#3465a4"><title>Tribal #2</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="102.5" cy="106.3" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/"><circle cx="51.0" cy="109.0" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><circle cx="145.0" cy="100.7" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/variants/s10/db4k1w2k3y1n12o1k12o12r4~x2/"><circle cx="63.1" cy="119.3" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/"><circle cx="93.4" cy="124.3" r="4" fill="#3465a4"><title>King, Garry (Personal)</title></circle></a><circle cx="111.0" cy="99.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2db2k3y3r3k3dy10k12dr3r16w1~x2/"><circle cx="108.0" cy="97.9" r="4" fill="#3465a4"><title>Unnamed 18th century plaid (Carlisle Museum)</title></circle></a><a href="/variants/s12/dr6lb5dr23k20rii6k3r4k10dr14ri45k7ri6~rii2806019-r1807033-ri2109032/"><circle cx="130.4" cy="109.0" r="4" fill="#3465a4"><title>Sweetheart (Fashion)</title></circle></a><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/"><circle cx="134.6" cy="109.6" r="4" fill="#3465a4"><title>Sweetheart, The</title></circle></a><a href="/variants/s11/r30w4y2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="83.5" cy="96.6" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/variants/s10/y2dp16k1r5k1o8k1r5k16g2~x4/"><circle cx="120.2" cy="111.8" r="4" fill="#3465a4"><title>Tribal #2</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="102.5" cy="106.2" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/"><circle cx="51.0" cy="108.9" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><circle cx="145.0" cy="100.6" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/variants/s10/db4k1w2k3y1n12o1k12o12r4~x2/"><circle cx="63.2" cy="119.2" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/"><circle cx="93.4" cy="124.2" r="4" fill="#3465a4"><title>King, Garry (Personal)</title></circle></a><circle cx="111.0" cy="98.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/

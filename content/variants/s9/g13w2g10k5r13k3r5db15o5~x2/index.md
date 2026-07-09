@@ -1,14 +1,16 @@
 ---
 title: "Glen Chalmadale"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glen Chalmadale"
-  url: ""
+  url: "/setts/g13w2g10k5r13k3r5db15o5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g13w2g10k5r13k3r5db15o5/)
-(the same proportion at any scale), whose colour order is pattern [GWGKRKRBR](/stripes/gwgkrkrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g13w2g10k5r13k3r5db15o5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGKRKRBR](/stripes/gwgkrkrbr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><circle cx="25.6" cy="181.2" r="4" fill="#3465a4"><title>Manderson Family Tartan</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="159.3" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/"><circle cx="51.9" cy="158.4" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/variants/s10/k8n30dg16k24dr8dg32lb32dr7lb12lbi4~lb3103284-lbi3200000/"><circle cx="37.7" cy="181.8" r="4" fill="#3465a4"><title>Manderson (Personal)</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.7" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="71.9" cy="208.2" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.1" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="19.1" cy="216.9" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.9" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><circle cx="36.2" cy="165.8" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><circle cx="55.1" cy="186.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><circle cx="25.7" cy="181.1" r="4" fill="#3465a4"><title>Manderson Family Tartan</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="159.2" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/"><circle cx="51.9" cy="158.3" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/variants/s10/k8n30dg16k24dr8dg32lb32dr7lb12lbi4~lb3103284-lbi3200000/"><circle cx="37.7" cy="181.7" r="4" fill="#3465a4"><title>Manderson (Personal)</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.6" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="72.0" cy="208.1" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.0" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="19.1" cy="216.9" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><circle cx="36.2" cy="165.7" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><circle cx="55.1" cy="186.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g13w2g10k5r13k3r5db15o5~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Meath"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Meath"
-  url: ""
+  url: "/setts/o5db2r14do9b8lb3r3lb3r3lb3b19w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o5db2r14do9b8lb3r3lb3r3lb3b19w3/)
-(the same proportion at any scale), whose colour order is pattern [RBRBBWRWRWBW](/stripes/rbrbbwrwrwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o5db2r14do9b8lb3r3lb3r3lb3b19w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBBWRWRWBW](/stripes/rbrbbwrwrwbw/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y9g7db3r28db4g7db5lb4db5dg7db3w6~x2~g1903114-dg1806142/"><circle cx="101.4" cy="148.2" r="4" fill="#3465a4"><title>Mayo County Crest (Fashion)</title></circle></a><a href="/variants/s13/r12b2o5b2n9y2lb8w1lb3w1lb3w1lb8~x2/"><circle cx="167.8" cy="153.9" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"><circle cx="127.7" cy="159.3" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><circle cx="121.8" cy="135.7" r="4" fill="#3465a4"><title>Man, Isle of</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6~x2/"><circle cx="157.3" cy="146.4" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s13/t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000/"><circle cx="148.9" cy="156.0" r="4" fill="#3465a4"><title>Saint Joseph de Sorel #2</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6~x2/"><circle cx="147.4" cy="142.7" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s7/r24w3y4dg18dp18g3lb4~x2/"><circle cx="103.7" cy="166.3" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/"><circle cx="181.3" cy="144.4" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.4" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><circle cx="134.4" cy="154.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y9g7db3r28db4g7db5lb4db5dg7db3w6~x2~g1903114-dg1806142/"><circle cx="101.5" cy="148.1" r="4" fill="#3465a4"><title>Mayo County Crest (Fashion)</title></circle></a><a href="/variants/s13/r12b2o5b2n9y2lb8w1lb3w1lb3w1lb8~x2/"><circle cx="167.8" cy="153.8" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"><circle cx="127.7" cy="159.2" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><circle cx="121.8" cy="135.5" r="4" fill="#3465a4"><title>Man, Isle of</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6~x2/"><circle cx="157.3" cy="146.2" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s13/t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000/"><circle cx="148.9" cy="155.9" r="4" fill="#3465a4"><title>Saint Joseph de Sorel #2</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6~x2/"><circle cx="147.4" cy="142.6" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s7/r24w3y4dg18dp18g3lb4~x2/"><circle cx="103.7" cy="166.2" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/"><circle cx="181.3" cy="144.3" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.3" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><circle cx="134.5" cy="154.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/

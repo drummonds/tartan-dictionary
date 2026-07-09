@@ -1,14 +1,16 @@
 ---
 title: "Norwich University Regimental Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Norwich University Regimental Tartan"
-  url: ""
+  url: "/setts/db39y8dr3w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db39y8dr3w1/)
-(the same proportion at any scale), whose colour order is pattern [BGBW](/stripes/bgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db39y8dr3w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBW](/stripes/bgbw/).
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2012 The tartan was designed for use by the Norwich Univers
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2012 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="529.4" cy="152.8" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db39ly8dr3w1~x4/"><circle cx="541.6" cy="174.4" r="4" fill="#3465a4"><title>Norwich University (Corporate)</title></circle></a><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/"><circle cx="463.8" cy="104.8" r="4" fill="#3465a4"><title>Ravetta, Phil (Fife)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="423.3" cy="184.8" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.1" cy="183.1" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s6/db80r7w1r7y20db15~x2/"><circle cx="505.5" cy="126.4" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/variants/s6/db80r8w1r8y20db15~x2/"><circle cx="494.5" cy="127.4" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><circle cx="568.8" cy="174.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="529.5" cy="152.7" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db39ly8dr3w1~x4/"><circle cx="541.7" cy="174.4" r="4" fill="#3465a4"><title>Norwich University (Corporate)</title></circle></a><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/"><circle cx="463.8" cy="104.7" r="4" fill="#3465a4"><title>Ravetta, Phil (Fife)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.2" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="423.3" cy="184.7" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.6" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.2" cy="183.1" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s6/db80r7w1r7y20db15~x2/"><circle cx="505.6" cy="126.2" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/variants/s6/db80r8w1r8y20db15~x2/"><circle cx="494.6" cy="127.2" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><circle cx="568.8" cy="174.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db39y8dr3w1~x4/

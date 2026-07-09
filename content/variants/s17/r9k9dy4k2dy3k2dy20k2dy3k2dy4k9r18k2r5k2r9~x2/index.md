@@ -1,14 +1,16 @@
 ---
 title: "Aubigny Auld Alliance District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Aubigny Auld Alliance District Tartan"
-  url: ""
+  url: "/setts/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9/)
-(the same proportion at any scale), whose colour order is pattern [RKGKGKGKGKGKRKRKR](/stripes/rkgkgkgkgkgkrkrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGKGKGKGKGKRKRKR](/stripes/rkgkgkgkgkgkrkrkr/).
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1994 The Aubigny Auld Alliance tartan was created using the
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1994 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="159.1" cy="184.7" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="213.3" cy="169.5" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/"><circle cx="190.0" cy="167.4" r="4" fill="#3465a4"><title>Wcwm 9285 4906-1</title></circle></a><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="148.2" cy="161.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/"><circle cx="133.4" cy="174.5" r="4" fill="#3465a4"><title>Balmoral Hotel (Corporate)</title></circle></a><a href="/variants/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="147.8" cy="143.3" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="154.3" cy="127.6" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.8" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.7" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="205.1" cy="153.3" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><circle cx="189.4" cy="155.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="159.1" cy="184.6" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="213.2" cy="169.4" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/"><circle cx="190.0" cy="167.3" r="4" fill="#3465a4"><title>Wcwm 9285 4906-1</title></circle></a><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="148.2" cy="161.8" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/"><circle cx="133.4" cy="174.4" r="4" fill="#3465a4"><title>Balmoral Hotel (Corporate)</title></circle></a><a href="/variants/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="147.8" cy="143.2" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="154.3" cy="127.5" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.7" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.6" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="205.1" cy="153.2" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><circle cx="189.4" cy="155.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9~x2/

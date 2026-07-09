@@ -1,5 +1,12 @@
 ---
 title: "McEachern, Andrew"
-redirect: "/variants/s6/n7w1r6db10dg10w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McEachern, Andrew](/variants/s6/n7w1r6db10dg10w1~x4/).
+This is the **McEachern, Andrew** sett — one scale-free proportion (`n7w1r6db10dg10w1`), colour order pattern
+[BWRBGW](/stripes/bwrbgw/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [McEachern, Andrew](/variants/s6/n7w1r6db10dg10w1~x4/) ★ | 2012 | ![McEachern, Andrew sett](/variants/s6/n7w1r6db10dg10w1~x4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Toorak Chapler (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Toorak Chapler (Fashion)"
-  url: ""
+  url: "/setts/dy3ly1lb1dy1ly1dy3lb3lyi6dr1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy3ly1lb1dy1ly1dy3lb3lyi6dr1/)
-(the same proportion at any scale), whose colour order is pattern [BYWGYGWYG](/stripes/bywgygwyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy3ly1lb1dy1ly1dy3lb3lyi6dr1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYWGYGWYG](/stripes/bywgygwyg/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2n1ly1dg6w3ly4n1/"><circle cx="125.0" cy="243.2" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="175.1" cy="238.5" r="4" fill="#3465a4"><title>Tinkler, Andrew (Stobart Group)</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s8/g3lb2g2lb13dg3lb2dr10gi3~x2~g2203152-dg1806142-gi2408144/"><circle cx="210.3" cy="220.0" r="4" fill="#3465a4"><title>Manitoba Dress (Dance)</title></circle></a><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/"><circle cx="178.3" cy="236.7" r="4" fill="#3465a4"><title>Tinkler (Corporate)</title></circle></a><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="156.4" cy="215.4" r="4" fill="#3465a4"><title>Elwyn Glen (Corporate)</title></circle></a><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><circle cx="198.4" cy="226.5" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><circle cx="121.4" cy="234.7" r="4" fill="#3465a4"><title>Black Watch Dress, Brown/Grey (Fash)</title></circle></a><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/"><circle cx="178.7" cy="185.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/"><circle cx="119.7" cy="206.7" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan</title></circle></a><circle cx="157.5" cy="231.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2n1ly1dg6w3ly4n1/"><circle cx="125.0" cy="243.2" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="175.2" cy="238.5" r="4" fill="#3465a4"><title>Tinkler, Andrew (Stobart Group)</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s8/g3lb2g2lb13dg3lb2dr10gi3~x2~g2203152-dg1806142-gi2408144/"><circle cx="210.3" cy="219.9" r="4" fill="#3465a4"><title>Manitoba Dress (Dance)</title></circle></a><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/"><circle cx="178.3" cy="236.6" r="4" fill="#3465a4"><title>Tinkler (Corporate)</title></circle></a><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="156.4" cy="215.3" r="4" fill="#3465a4"><title>Elwyn Glen (Corporate)</title></circle></a><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><circle cx="198.4" cy="226.4" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><circle cx="121.4" cy="234.6" r="4" fill="#3465a4"><title>Black Watch Dress, Brown/Grey (Fash)</title></circle></a><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/"><circle cx="178.7" cy="185.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/"><circle cx="119.8" cy="206.7" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan</title></circle></a><circle cx="157.5" cy="231.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/

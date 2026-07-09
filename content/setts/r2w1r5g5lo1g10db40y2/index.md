@@ -1,5 +1,12 @@
 ---
 title: "St. Andrew Quebec City (Corporate)"
-redirect: "/variants/s8/r2w1r5g5lo1g10db40y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Andrew Quebec City (Corporate)](/variants/s8/r2w1r5g5lo1g10db40y2~x2/).
+This is the **St. Andrew Quebec City (Corporate)** sett — one scale-free proportion (`r2w1r5g5lo1g10db40y2`), colour order pattern
+[GBGYGRWR](/stripes/gbgygrwr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [St. Andrew Quebec City (Corporate)](/variants/s8/r2w1r5g5lo1g10db40y2~x2/) ★ | 2002 | ![St. Andrew Quebec City (Corporate) sett](/variants/s8/r2w1r5g5lo1g10db40y2~x2/sett.png) |

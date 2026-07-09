@@ -1,5 +1,12 @@
 ---
 title: "Snoozzzeee"
-redirect: "/variants/s9/w6r3db36r4db12w24r72w8db4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Snoozzzeee](/variants/s9/w6r3db36r4db12w24r72w8db4/).
+This is the **Snoozzzeee** sett — one scale-free proportion (`w6r3db36r4db12w24r72w8db4`), colour order pattern
+[RBRBWRWBWRWBRBRW](/stripes/rbrbwrwbwrwbrbrw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Snoozzzeee](/variants/s9/w6r3db36r4db12w24r72w8db4/) ★ | 2004 | ![Snoozzzeee sett](/variants/s9/w6r3db36r4db12w24r72w8db4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Dundee, Green"
-redirect: "/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dundee, Green](/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/).
+This is the **Dundee, Green** sett — one scale-free proportion (`g3w2g3r1g6r3g3r1g2w3`), colour order pattern
+[GWGRGRGRGW](/stripes/gwgrgrgrgw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dundee, Green](/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/) ★ | ~2016 | ![Dundee, Green sett](/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/sett.png) |

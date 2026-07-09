@@ -1,5 +1,12 @@
 ---
 title: "Harry (Welsh Name)"
-redirect: "/variants/s10/db6n3db3n15r7db7r5db17r46n4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Harry (Welsh Name)](/variants/s10/db6n3db3n15r7db7r5db17r46n4/).
+This is the **Harry (Welsh Name)** sett — one scale-free proportion (`db6n3db3n15r7db7r5db17r46n4`), colour order pattern
+[BBBBRBRBRB](/stripes/bbbbrbrbrb/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Harry (Welsh Name)](/variants/s10/db6n3db3n15r7db7r5db17r46n4/) ★ | ~2008 | ![Harry (Welsh Name) sett](/variants/s10/db6n3db3n15r7db7r5db17r46n4/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Westminster College"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Westminster College"
   url: "/tartans/westminster-college/"
 - name: "Westminster College"
-  url: ""
+  url: "/setts/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2/)
-(the same proportion at any scale), whose colour order is pattern [BBYBBBKBGRBKBKB](/stripes/bbybbbkbgrbkbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBYBBBKBGRBKBKB](/stripes/bbybbbkbgrbkbkb/).
 
 Part of the [Westminster College](/tartans/westminster-college/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/"><circle cx="310.3" cy="50.3" r="4" fill="#3465a4"><title>Westminster College (Corporate)</title></circle></a><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/"><circle cx="292.0" cy="56.5" r="4" fill="#3465a4"><title>Scottish Heritage Society (Corporate</title></circle></a><a href="/variants/s10/db5w1db44dp1g12k12dp5k2o2k3~x2~db1204274/"><circle cx="291.5" cy="36.5" r="4" fill="#3465a4"><title>Heart of Scotland (Lochcarron)</title></circle></a><a href="/variants/s10/db5w1db44dp1g12k12dp5k2o2k3~x2/"><circle cx="302.4" cy="57.9" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.3" cy="72.3" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"><circle cx="289.5" cy="52.6" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.2" cy="70.7" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><a href="/variants/s14/lr2db1t2db2k1t12db2k11db28t1db3t2db3w1~x2/"><circle cx="295.4" cy="79.1" r="4" fill="#3465a4"><title>Northfield Academy Corporate Tartan</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="268.4" cy="85.3" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/"><circle cx="257.3" cy="45.3" r="4" fill="#3465a4"><title>Swedish District Tartan</title></circle></a><circle cx="304.5" cy="48.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/"><circle cx="310.3" cy="50.1" r="4" fill="#3465a4"><title>Westminster College (Corporate)</title></circle></a><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/"><circle cx="292.0" cy="56.3" r="4" fill="#3465a4"><title>Scottish Heritage Society (Corporate</title></circle></a><a href="/variants/s10/db5w1db44dp1g12k12dp5k2o2k3~x2~db1204274/"><circle cx="291.5" cy="36.3" r="4" fill="#3465a4"><title>Heart of Scotland (Lochcarron)</title></circle></a><a href="/variants/s10/db5w1db44dp1g12k12dp5k2o2k3~x2/"><circle cx="302.4" cy="57.7" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.3" cy="72.2" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"><circle cx="289.6" cy="52.4" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.2" cy="70.6" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><a href="/variants/s14/lr2db1t2db2k1t12db2k11db28t1db3t2db3w1~x2/"><circle cx="295.4" cy="78.9" r="4" fill="#3465a4"><title>Northfield Academy Corporate Tartan</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="268.4" cy="85.2" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/"><circle cx="257.3" cy="45.1" r="4" fill="#3465a4"><title>Swedish District Tartan</title></circle></a><circle cx="304.5" cy="48.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/

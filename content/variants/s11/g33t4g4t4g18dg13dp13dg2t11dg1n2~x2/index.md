@@ -1,14 +1,16 @@
 ---
 title: "Highlander"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Highlander"
-  url: ""
+  url: "/setts/g33t4g4t4g18dg13dp13dg2t11dg1n2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g33t4g4t4g18dg13dp13dg2t11dg1n2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBGGBGBG](/stripes/bgbgbggbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g33t4g4t4g18dg13dp13dg2t11dg1n2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGGBGBG](/stripes/bgbgbggbgbg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g6ti22g6dy20y1g45t1w5~x2~ti2503227-t2405244/"><circle cx="359.9" cy="138.5" r="4" fill="#3465a4"><title>Elbrick Hunting (Personal)</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.1" cy="187.8" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/"><circle cx="406.6" cy="162.2" r="4" fill="#3465a4"><title>O'Neill (Personal)</title></circle></a><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><circle cx="333.1" cy="191.2" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"><circle cx="352.0" cy="137.7" r="4" fill="#3465a4"><title>All Irish Green Irish District Tartan</title></circle></a><a href="/variants/s6/g20dg11n6dr2dp3n1~x2/"><circle cx="341.2" cy="214.2" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/variants/s10/dr5g25w3t5n15t5ly3t44n1w4~x2/"><circle cx="365.9" cy="139.1" r="4" fill="#3465a4"><title>State Seal of Texas (Fashion)</title></circle></a><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/"><circle cx="350.6" cy="143.0" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/"><circle cx="322.9" cy="133.9" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/variants/s12/db6y2db15g12dg39w3dg39g12db15y2db6r3~x2~dg1605139/"><circle cx="296.6" cy="148.9" r="4" fill="#3465a4"><title>Wagland</title></circle></a><circle cx="360.4" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g6ti22g6dy20y1g45t1w5~x2~ti2503227-t2405244/"><circle cx="359.9" cy="138.4" r="4" fill="#3465a4"><title>Elbrick Hunting (Personal)</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.1" cy="187.7" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/"><circle cx="406.6" cy="162.1" r="4" fill="#3465a4"><title>O'Neill (Personal)</title></circle></a><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><circle cx="333.1" cy="191.1" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"><circle cx="352.0" cy="137.6" r="4" fill="#3465a4"><title>All Irish Green Irish District Tartan</title></circle></a><a href="/variants/s6/g20dg11n6dr2dp3n1~x2/"><circle cx="341.3" cy="214.1" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/variants/s10/dr5g25w3t5n15t5ly3t44n1w4~x2/"><circle cx="365.9" cy="139.0" r="4" fill="#3465a4"><title>State Seal of Texas (Fashion)</title></circle></a><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/"><circle cx="350.6" cy="142.8" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/"><circle cx="322.9" cy="133.8" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/variants/s12/db6y2db15g12dg39w3dg39g12db15y2db6r3~x2~dg1605139/"><circle cx="296.6" cy="148.8" r="4" fill="#3465a4"><title>Wagland</title></circle></a><circle cx="360.4" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g33t4g4t4g18dg13dp13dg2t11dg1n2~x2/

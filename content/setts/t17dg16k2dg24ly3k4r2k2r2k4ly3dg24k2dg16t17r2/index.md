@@ -1,5 +1,12 @@
 ---
 title: "Shanahan"
-redirect: "/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Shanahan](/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/).
+This is the **Shanahan** sett — one scale-free proportion (`t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2`), colour order pattern
+[BGKGYKRKRKYGKGBR](/stripes/bgkgykrkrkygkgbr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Shanahan](/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/) ★ | 2003 | ![Shanahan sett](/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/sett.png) |

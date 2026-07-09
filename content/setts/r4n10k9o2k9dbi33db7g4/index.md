@@ -1,5 +1,12 @@
 ---
 title: "Anne Arundel County"
-redirect: "/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Anne Arundel County](/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/).
+This is the **Anne Arundel County** sett — one scale-free proportion (`r4n10k9o2k9dbi33db7g4`), colour order pattern
+[GBBKRKBR](/stripes/gbbkrkbr/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Anne Arundel County](/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/) ★ | 1998 | ![Anne Arundel County sett](/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/sett.png) |

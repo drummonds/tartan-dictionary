@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/">Unidentified #23</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><img src="/variants/s7/db35r2k16y2lb25w2lb6~x2/sett.png" alt="Unidentified #23 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/">US Forces (Thurso) Regimental Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><img src="/variants/s7/db35r2k16y2lb25w2lb6~x2/sett.png" alt="US Forces (Thurso) Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

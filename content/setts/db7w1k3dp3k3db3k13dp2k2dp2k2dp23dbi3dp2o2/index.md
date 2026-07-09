@@ -1,5 +1,12 @@
 ---
 title: "Passion of Scotland, Purple (Fashion"
-redirect: "/variants/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2~x2~db1004274-dbi1106275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Passion of Scotland, Purple (Fashion](/variants/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2~x2~db1004274-dbi1106275/).
+This is the **Passion of Scotland, Purple (Fashion** sett — one scale-free proportion (`db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2`), colour order pattern
+[BWKBKBKBKBKBBBR](/stripes/bwkbkbkbkbkbbbr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Passion of Scotland, Purple (Fashion](/variants/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2~x2~db1004274-dbi1106275/) ★ | 2008 | ![Passion of Scotland, Purple (Fashion sett](/variants/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2~x2~db1004274-dbi1106275/sett.png) |

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/">Teall of Teallach (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/"><img src="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/sett.png" alt="Teall of Teallach (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/">Teall of Teallach Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/"><img src="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/sett.png" alt="Teall of Teallach Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "Barbecue Plaid (Fashion)"
-redirect: "/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Barbecue Plaid (Fashion)](/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/).
+This is the **Barbecue Plaid (Fashion)** sett — one scale-free proportion (`y2k2r2w8k14r1k1r1k1r1`), colour order pattern
+[GKRWKRKRKR](/stripes/gkrwkrkrkr/). It is recorded as a single **variant**, below.
+First attested **~1964**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Barbecue Plaid (Fashion)](/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/) ★ | ~1964 | ![Barbecue Plaid (Fashion) sett](/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/sett.png) |

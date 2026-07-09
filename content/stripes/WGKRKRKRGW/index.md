@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/">Kiernan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><img src="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/sett.png" alt="Kiernan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/">Keirnan Irish Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><img src="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/sett.png" alt="Keirnan Irish Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

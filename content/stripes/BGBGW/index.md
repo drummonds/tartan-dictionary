@@ -32,8 +32,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s5/db8g2db8g15lb2~x4/"><img src="/variants/s5/db8g2db8g15lb2~x4/sett.png" alt="Hamilton Green Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/db11g2db15g18w2~x2/">Hamilton Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/db11g2db15g18w2~x2/"><img src="/variants/s5/db11g2db15g18w2~x2/sett.png" alt="Hamilton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db5g2db5g8w1~x8/">Hamilton, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db5g2db5g8w1~x8/"><img src="/variants/s5/db5g2db5g8w1~x8/sett.png" alt="Hamilton, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db5g2db5g8w1~x8/">Hamilton Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db5g2db5g8w1~x8/"><img src="/variants/s5/db5g2db5g8w1~x8/sett.png" alt="Hamilton Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s5/dp23dg8dp23dg35w5~x2/">Baru</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><img src="/variants/s5/dp23dg8dp23dg35w5~x2/sett.png" alt="Baru sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

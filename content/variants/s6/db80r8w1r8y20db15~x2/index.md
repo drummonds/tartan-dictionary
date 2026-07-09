@@ -1,16 +1,18 @@
 ---
 title: "Auchtermuchty Tartan Army"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Auchtermuchty Tartan Army"
   url: "/tartans/auchtermuchty-tartan-army/"
 - name: "Auchtermuchty Tartan Army"
-  url: ""
+  url: "/setts/db80r8w1r8y20db15/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db80r8w1r8y20db15/)
-(the same proportion at any scale), whose colour order is pattern [BGRWRB](/stripes/bgrwrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db80r8w1r8y20db15/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRWRB](/stripes/bgrwrb/).
 
 Part of the [Auchtermuchty Tartan Army](/tartans/auchtermuchty-tartan-army/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db80r7w1r7y20db15~x2/"><circle cx="505.5" cy="126.4" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="445.5" cy="167.9" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="529.4" cy="152.8" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.7" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.2" cy="132.9" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="542.7" cy="114.8" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="550.9" cy="114.4" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s6/y2r5y2r5db49w2~x2/"><circle cx="497.9" cy="128.1" r="4" fill="#3465a4"><title>Balmer (Personal)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><circle cx="494.5" cy="127.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db80r7w1r7y20db15~x2/"><circle cx="505.6" cy="126.2" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.2" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="445.5" cy="167.8" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="529.5" cy="152.7" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.6" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.3" cy="132.8" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="542.7" cy="114.6" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="550.9" cy="114.2" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s6/y2r5y2r5db49w2~x2/"><circle cx="497.9" cy="128.0" r="4" fill="#3465a4"><title>Balmer (Personal)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><circle cx="494.6" cy="127.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db80r8w1r8y20db15~x2/

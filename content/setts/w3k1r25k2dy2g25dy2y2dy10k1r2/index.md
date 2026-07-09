@@ -1,5 +1,12 @@
 ---
 title: "Bicknell, The Hamish (Personal)"
-redirect: "/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bicknell, The Hamish (Personal)](/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/).
+This is the **Bicknell, The Hamish (Personal)** sett — one scale-free proportion (`w3k1r25k2dy2g25dy2y2dy10k1r2`), colour order pattern
+[RKGGGGGKRKW](/stripes/rkgggggkrkw/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bicknell, The Hamish (Personal)](/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/) ★ | 2010 | ![Bicknell, The Hamish (Personal) sett](/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/sett.png) |

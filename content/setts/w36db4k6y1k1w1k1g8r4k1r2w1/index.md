@@ -2,15 +2,15 @@
 title: "Stewart Dress"
 date: 2023-03-18
 ---
-The **Stewart Dress** tartan is one sett proportion (`w36db4k6y1k1w1k1g8r4k1r2w1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[WBKGKWKGRKRW](/stripes/wbkgkwkgrkrw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Stewart Dress** sett — one scale-free proportion (`w36db4k6y1k1w1k1g8r4k1r2w1`), colour order pattern
+[WBKGKWKGRKRW](/stripes/wbkgkwkgrkrw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [Stewart Dress](/tartans/stewart-dress/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Stewart Dress](/tartans/stewart-dress/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [Stewart Dress](/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/) ★ | ~2016 | ![Stewart Dress sett](/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/sett.png) |
 | ×2 | [Stewart Dress](/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/) | ~2016 | ![Stewart Dress sett](/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/sett.png) |

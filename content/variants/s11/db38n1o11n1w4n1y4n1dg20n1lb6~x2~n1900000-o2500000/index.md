@@ -1,14 +1,16 @@
 ---
 title: "Manx Hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Manx Hunting"
-  url: ""
+  url: "/setts/db38n1o11n1w4n1y4n1dg20n1lb6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db38n1o11n1w4n1y4n1dg20n1lb6/)
-(the same proportion at any scale), whose colour order is pattern [BBRBWBGBGBW](/stripes/bbrbwbgbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db38n1o11n1w4n1y4n1dg20n1lb6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBWBGBGBW](/stripes/bbrbwbgbgbw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/"><circle cx="238.2" cy="74.4" r="4" fill="#3465a4"><title>Coldstream</title></circle></a><a href="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/"><circle cx="200.9" cy="94.8" r="4" fill="#3465a4"><title>Queen of the South Football Club</title></circle></a><a href="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/"><circle cx="239.7" cy="84.9" r="4" fill="#3465a4"><title>Manx, hunting</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.8" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/"><circle cx="243.1" cy="95.3" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><a href="/variants/s11/lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="184.4" cy="86.5" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/variants/s10/dp3n1db4g2r2g21n3dp21db25w3~x2/"><circle cx="200.5" cy="124.5" r="4" fill="#3465a4"><title>Accenture</title></circle></a><a href="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/"><circle cx="322.4" cy="123.2" r="4" fill="#3465a4"><title>Nickel Lodge Centennial (Corporate)</title></circle></a><a href="/variants/s11/g12db1dp4db30b3w2b3w2b3w10r4~x2/"><circle cx="187.7" cy="92.4" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/"><circle cx="256.1" cy="135.7" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="229.3" cy="73.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/"><circle cx="238.2" cy="74.3" r="4" fill="#3465a4"><title>Coldstream</title></circle></a><a href="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/"><circle cx="200.9" cy="94.7" r="4" fill="#3465a4"><title>Queen of the South Football Club</title></circle></a><a href="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/"><circle cx="239.7" cy="84.7" r="4" fill="#3465a4"><title>Manx, hunting</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.6" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/"><circle cx="243.2" cy="95.1" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><a href="/variants/s11/lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="184.4" cy="86.3" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/variants/s10/dp3n1db4g2r2g21n3dp21db25w3~x2/"><circle cx="200.5" cy="124.3" r="4" fill="#3465a4"><title>Accenture</title></circle></a><a href="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/"><circle cx="322.4" cy="123.0" r="4" fill="#3465a4"><title>Nickel Lodge Centennial (Corporate)</title></circle></a><a href="/variants/s11/g12db1dp4db30b3w2b3w2b3w10r4~x2/"><circle cx="187.7" cy="92.3" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/"><circle cx="256.2" cy="135.6" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="229.3" cy="73.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/

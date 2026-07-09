@@ -1,5 +1,12 @@
 ---
 title: "One Account (Corporate)"
-redirect: "/variants/s4/y6w5y12r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [One Account (Corporate)](/variants/s4/y6w5y12r2~x2/).
+This is the **One Account (Corporate)** sett — one scale-free proportion (`y6w5y12r2`), colour order pattern
+[GWGR](/stripes/gwgr/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [One Account (Corporate)](/variants/s4/y6w5y12r2~x2/) ★ | 2001 | ![One Account (Corporate) sett](/variants/s4/y6w5y12r2~x2/sett.png) |

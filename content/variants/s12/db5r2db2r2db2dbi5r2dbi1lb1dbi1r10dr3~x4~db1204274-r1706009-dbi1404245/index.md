@@ -1,14 +1,16 @@
 ---
 title: "Richards (Welsh Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Richards (Welsh Name)"
-  url: ""
+  url: "/setts/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBBRBWBRB](/stripes/brbrbbrbwbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBBRBWBRB](/stripes/brbrbbrbwbrb/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi1406275-db1404245/"><circle cx="310.1" cy="217.3" r="4" fill="#3465a4"><title>Great Scot</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.7" cy="223.9" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3~x4~db1204274-dbi1404245/"><circle cx="298.6" cy="213.0" r="4" fill="#3465a4"><title>Richards Welsh Name Tartan</title></circle></a><a href="/variants/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2~x4~db1204274-dbi1406275/"><circle cx="303.9" cy="195.2" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/"><circle cx="347.5" cy="193.5" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/"><circle cx="260.1" cy="230.2" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/"><circle cx="317.9" cy="220.3" r="4" fill="#3465a4"><title>Caledonian Club</title></circle></a><circle cx="310.4" cy="206.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi1406275-db1404245/"><circle cx="310.1" cy="217.2" r="4" fill="#3465a4"><title>Great Scot</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.7" cy="223.9" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3~x4~db1204274-dbi1404245/"><circle cx="298.7" cy="212.9" r="4" fill="#3465a4"><title>Richards Welsh Name Tartan</title></circle></a><a href="/variants/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2~x4~db1204274-dbi1406275/"><circle cx="303.9" cy="195.1" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/"><circle cx="347.5" cy="193.4" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/"><circle cx="260.1" cy="230.2" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/"><circle cx="317.9" cy="220.2" r="4" fill="#3465a4"><title>Caledonian Club</title></circle></a><circle cx="310.4" cy="206.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3~x4~db1204274-r1706009-dbi1404245/

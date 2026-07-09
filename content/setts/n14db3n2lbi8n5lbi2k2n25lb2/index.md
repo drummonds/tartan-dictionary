@@ -1,5 +1,12 @@
 ---
 title: "Turnberry Scotland"
-redirect: "/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Turnberry Scotland](/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/).
+This is the **Turnberry Scotland** sett — one scale-free proportion (`n14db3n2lbi8n5lbi2k2n25lb2`), colour order pattern
+[BBBWBWKBW](/stripes/bbbwbwkbw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Turnberry Scotland](/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/) ★ | 2013 | ![Turnberry Scotland sett](/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/sett.png) |

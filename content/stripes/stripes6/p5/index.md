@@ -3,22 +3,15 @@ title: 6 stripes tartan setts (page 5)
 date: 2023-03-18
 weight: 6
 ---
-1,378 setts across 1,307 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,377 setts across 1,306 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes6/p4/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <a href="/stripes/stripes6/p4/">4</a> <strong>5</strong> </nav>
-
-### KGRGKW
-<a class="pat" href="/stripes/kgrgkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KGRGKW</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.04 | [Perratt (Personal)](/variants/s6/k83g4r4g10k1w3~x2/) | register-of-tartans |
 
 ### KGWKWR
 <a class="pat" href="/stripes/kgwkwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGWKWR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Loch Ness](/variants/s6/r10w2k10w10dy35k5~x2/) | register-of-tartans |
+| 0.05 | [Loch Ness Trade Tartan](/variants/s6/r10w2k10w10dy35k5~x2/) | house-of-tartan |
 
 ### KGYKRK
 <a class="pat" href="/stripes/kgykrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">KGYKRK</span></a>
@@ -543,7 +536,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Irving of Glentulchan](/variants/s6/r1g9db9k1db1w1~x6/) | weddslist |
+| 0.05 | [Irving of Glentulchan Family Tartan](/variants/s6/r1g9db9k1db1w1~x6/) | house-of-tartan |
 
 ### RGBRBW
 <a class="pat" href="/stripes/rgbrbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGBRBW</span></a>
@@ -753,7 +746,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.03 | [Meg, Merrilees](/variants/s6/w23db6w6r5k35r10~x2/) | weddslist |
+| 0.03 | [Meg Merrilees Fancy Tartan](/variants/s6/w23db6w6r5k35r10~x2/) | house-of-tartan |
 
 ### RKRWKW
 <a class="pat" href="/stripes/rkrwkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKRWKW</span></a>

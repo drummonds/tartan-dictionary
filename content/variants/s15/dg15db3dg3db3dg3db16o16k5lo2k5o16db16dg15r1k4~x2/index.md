@@ -1,16 +1,18 @@
 ---
 title: "Loseby, Luke (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Loseby, Luke"
   url: "/tartans/loseby-luke/"
 - name: "Loseby, Luke (Personal)"
-  url: ""
+  url: "/setts/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBRKYKRBGRK](/stripes/gbgbgbrkykrbgrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBRKYKRBGRK](/stripes/gbgbgbrkykrbgrk/).
 
 Part of the [Loseby, Luke](/tartans/loseby-luke/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/"><circle cx="100.2" cy="130.9" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><a href="/variants/s13/db8r2db2r4db8g2k10g10k4g2y2g4w1~x2~db1605267-g1903114-k0503265/"><circle cx="107.3" cy="165.4" r="4" fill="#3465a4"><title>McCrann, Julian David (Personal)</title></circle></a><a href="/variants/s14/do18k2do2k2do9g10dy2g10dp11k9dp2k2dp1r3~x2/"><circle cx="140.6" cy="125.8" r="4" fill="#3465a4"><title>Hay Gray (Personal)</title></circle></a><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/"><circle cx="153.8" cy="140.0" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/"><circle cx="129.6" cy="117.0" r="4" fill="#3465a4"><title>Paget (Personal)</title></circle></a><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/"><circle cx="112.0" cy="141.6" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/variants/s14/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3~x2/"><circle cx="76.9" cy="148.2" r="4" fill="#3465a4"><title>Humble, Gordon (Personal)</title></circle></a><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/"><circle cx="89.8" cy="124.4" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/"><circle cx="119.3" cy="120.1" r="4" fill="#3465a4"><title>Paget Family Tartan</title></circle></a><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><circle cx="123.7" cy="123.3" r="4" fill="#3465a4"><title>Renton (Personal)</title></circle></a><circle cx="121.2" cy="134.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/"><circle cx="100.3" cy="130.8" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><a href="/variants/s13/db8r2db2r4db8g2k10g10k4g2y2g4w1~x2~db1605267-g1903114-k0503265/"><circle cx="107.3" cy="165.3" r="4" fill="#3465a4"><title>McCrann, Julian David (Personal)</title></circle></a><a href="/variants/s14/do18k2do2k2do9g10dy2g10dp11k9dp2k2dp1r3~x2/"><circle cx="140.6" cy="125.6" r="4" fill="#3465a4"><title>Hay Gray (Personal)</title></circle></a><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/"><circle cx="153.8" cy="139.9" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/"><circle cx="129.6" cy="116.9" r="4" fill="#3465a4"><title>Paget (Personal)</title></circle></a><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/"><circle cx="112.0" cy="141.5" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/variants/s14/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3~x2/"><circle cx="76.9" cy="148.1" r="4" fill="#3465a4"><title>Humble, Gordon (Personal)</title></circle></a><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/"><circle cx="89.9" cy="124.2" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/"><circle cx="119.4" cy="120.0" r="4" fill="#3465a4"><title>Paget Family Tartan</title></circle></a><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><circle cx="123.7" cy="123.2" r="4" fill="#3465a4"><title>Renton (Personal)</title></circle></a><circle cx="121.2" cy="134.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/

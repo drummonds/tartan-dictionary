@@ -1,14 +1,16 @@
 ---
 title: "Brook (Estate Check)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brook (Estate Check)"
-  url: ""
+  url: "/setts/n4lr4do4lr4n4lr4do4lr4dr1n4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n4lr4do4lr4n4lr4do4lr4dr1n4/)
-(the same proportion at any scale), whose colour order is pattern [BBYBYBYBYB](/stripes/bbybybybyb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n4lr4do4lr4n4lr4do4lr4dr1n4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBYBYBYBYB](/stripes/bbybybybyb/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

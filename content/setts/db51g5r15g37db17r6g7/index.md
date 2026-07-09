@@ -1,5 +1,14 @@
 ---
 title: "Cadence Design Systems (Corporate)"
-redirect: "/variants/s7/db51g5r15g37db17r6g7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cadence Design Systems (Corporate)](/variants/s7/db51g5r15g37db17r6g7~x2/).
+This is the **Cadence Design Systems (Corporate)** sett — one scale-free proportion (`db51g5r15g37db17r6g7`), colour order pattern
+[BGRGBRG](/stripes/bgrgbrg/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+Part of the [Cadence Design Systems](/tartans/cadence-design-systems/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cadence Design Systems (Corporate)](/variants/s7/db51g5r15g37db17r6g7~x2/) ★ | 1998 | ![Cadence Design Systems (Corporate) sett](/variants/s7/db51g5r15g37db17r6g7~x2/sett.png) |

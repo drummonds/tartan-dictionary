@@ -1,5 +1,12 @@
 ---
 title: "Maier (Personal)"
-redirect: "/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Maier (Personal)](/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/).
+This is the **Maier (Personal)** sett — one scale-free proportion (`r7k3r3k22r3k3r3k37dy2k4`), colour order pattern
+[KGKRKRKRKR](/stripes/kgkrkrkrkr/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Maier (Personal)](/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/) ★ | 2003 | ![Maier (Personal) sett](/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/sett.png) |

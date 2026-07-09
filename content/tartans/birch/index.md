@@ -19,7 +19,7 @@ The **Birch** tartan groups 3 setts — the same named design recorded as differ
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g2dp2g10k6r2k6lb10k1w2/"><img src="/variants/s9/g2dp2g10k6r2k6lb10k1w2~x2/sett.png" alt="Birch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/g3dp2g25k6r2k6lb20k1w2/">(Name)</a></td><td><code>G/6 DP4 G50 K12 R4 K12 LB40 K2 W/4</code></td><td>258</td><td>1993</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g3dp2g25k6r2k6lb20k1w2/"><img src="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g3dp4g23k10r2k10lb18k1w3/">Birch</a></td><td><code>G/6 DP8 G46 K20 R4 K20 LB36 K2 W/6</code></td><td>284</td><td>—</td></tr>
+<tr><td><a href="/setts/g3dp4g23k10r2k10lb18k1w3/">Birch</a></td><td><code>G/6 DP8 G46 K20 R4 K20 LB36 K2 W/6</code></td><td>284</td><td>1993</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g3dp4g23k10r2k10lb18k1w3/"><img src="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/sett.png" alt="Birch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

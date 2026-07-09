@@ -1,5 +1,12 @@
 ---
 title: "Bodog.com"
-redirect: "/variants/s5/r3k25r25k10lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bodog.com](/variants/s5/r3k25r25k10lb3~x2/).
+This is the **Bodog.com** sett — one scale-free proportion (`r3k25r25k10lb3`), colour order pattern
+[RKRKW](/stripes/rkrkw/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bodog.com](/variants/s5/r3k25r25k10lb3~x2/) ★ | 2006 | ![Bodog.com sett](/variants/s5/r3k25r25k10lb3~x2/sett.png) |

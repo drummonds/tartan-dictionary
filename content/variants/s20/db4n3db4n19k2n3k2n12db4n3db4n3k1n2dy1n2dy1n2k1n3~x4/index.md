@@ -1,14 +1,16 @@
 ---
 title: "Washington Stockmens"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Washington Stockmens"
-  url: ""
+  url: "/setts/db4n3db4n19k2n3k2n12db4n3db4n3k1n2dy1n2dy1n2k1n3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4n3db4n19k2n3k2n12db4n3db4n3k1n2dy1n2dy1n2k1n3/)
-(the same proportion at any scale), whose colour order is pattern [BBBBKBKBBBBBKBGBGBKBKBGBGBKBBBBBKBKBBB](/stripes/bbbbkbkbbbbbkbgbgbkbkbgbgbkbbbbbkbkbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4n3db4n19k2n3k2n12db4n3db4n3k1n2dy1n2dy1n2k1n3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBKBKBBBBBKBGBGBKBKBGBGBKBBBBBKBKBBB](/stripes/bbbbkbkbbbbbkbgbgbkbkbgbgbkbbbbbkbkbbb/).
 
 Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/"><circle cx="413.6" cy="122.8" r="4" fill="#3465a4"><title>Washington, Stockman</title></circle></a><circle cx="406.3" cy="95.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/"><circle cx="413.6" cy="122.7" r="4" fill="#3465a4"><title>Washington, Stockman</title></circle></a><circle cx="406.3" cy="95.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2dy1n2dy1n2k1n3~x4/

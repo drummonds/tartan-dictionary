@@ -1,5 +1,12 @@
 ---
 title: "Henry, W.A."
-redirect: "/variants/s9/o24r24w3g21y2r1y2o6r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Henry, W.A.](/variants/s9/o24r24w3g21y2r1y2o6r2~x2/).
+This is the **Henry, W.A.** sett — one scale-free proportion (`o24r24w3g21y2r1y2o6r2`), colour order pattern
+[RRGRGGWRR](/stripes/rrgrggwrr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Henry, W.A.](/variants/s9/o24r24w3g21y2r1y2o6r2~x2/) ★ | ~2016 | ![Henry, W.A. sett](/variants/s9/o24r24w3g21y2r1y2o6r2~x2/sett.png) |

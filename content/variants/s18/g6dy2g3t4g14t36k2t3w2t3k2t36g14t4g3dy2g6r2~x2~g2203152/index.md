@@ -1,16 +1,18 @@
 ---
 title: "Sarasota - Dunfermline"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sarasota"
   url: "/tartans/sarasota/"
 - name: "Sarasota - Dunfermline"
-  url: ""
+  url: "/setts/g6dy2g3t4g14t36k2t3w2t3k2t36g14t4g3dy2g6r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6dy2g3t4g14t36k2t3w2t3k2t36g14t4g3dy2g6r2/)
-(the same proportion at any scale), whose colour order is pattern [GGGBGBKBWBKBGBGGGR](/stripes/gggbgbkbwbkbgbgggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6dy2g3t4g14t36k2t3w2t3k2t36g14t4g3dy2g6r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGBGBKBWBKBGBGGGR](/stripes/gggbgbkbwbkbgbgggr/).
 
 Part of the [Sarasota](/tartans/sarasota/) tartan — the named design grouping this sett with its other cloths.
 

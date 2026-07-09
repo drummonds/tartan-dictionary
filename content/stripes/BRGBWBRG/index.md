@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/">MacHardy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><img src="/variants/s8/db3r3g18db16w2db26r3g3~x2/sett.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/">MacHardy Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><img src="/variants/s8/db3r3g18db16w2db26r3g3~x2/sett.png" alt="MacHardy Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/">MacHardy, Blue</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><img src="/variants/s8/db6r3g26db26w4db26r5g5~x2/sett.png" alt="MacHardy, Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

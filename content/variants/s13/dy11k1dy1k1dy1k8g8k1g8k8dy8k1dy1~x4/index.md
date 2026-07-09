@@ -1,6 +1,7 @@
 ---
 title: "Brown Watch Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Brown Watch"
   url: "/tartans/brown-watch/"
 - name: "Brown Watch Trade Tartan"
-  url: ""
+  url: "/setts/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1/)
-(the same proportion at any scale), whose colour order is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/).
 
 Part of the [Brown Watch](/tartans/brown-watch/) tartan — the named design grouping this sett with its other cloths.
 
@@ -29,7 +31,7 @@ Earliest known date: pre 1986 Product of J & D Paton of Tillicoultry, one of man
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1986 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/"><circle cx="162.0" cy="212.5" r="4" fill="#3465a4"><title>Campbell Collegiate</title></circle></a><a href="/variants/s13/do12k2do2k2do2k10g12k3g12k10do12k2do2~x2/"><circle cx="159.5" cy="212.8" r="4" fill="#3465a4"><title>Brown Watch (Fashion)</title></circle></a><a href="/variants/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/"><circle cx="172.6" cy="169.2" r="4" fill="#3465a4"><title>Brown, Watch</title></circle></a><a href="/variants/s16/dg7k2dg7ly1k2ly1k10ly3dr10ly3k10ly1dg11k2dg3k2~x2/"><circle cx="149.7" cy="159.9" r="4" fill="#3465a4"><title>Blackburn Appalachian Htg (Personal)</title></circle></a><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="141.9" cy="177.4" r="4" fill="#3465a4"><title>74th Regiment of Foot (Mil.)</title></circle></a><a href="/variants/s13/dt16k3dt3k3dt3k16g15k3g15k16dt15k3dt3~x2/"><circle cx="163.4" cy="220.5" r="4" fill="#3465a4"><title>42nd Regiment (Military)</title></circle></a><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/"><circle cx="212.2" cy="184.6" r="4" fill="#3465a4"><title>Royal Regiment of Scotland (Mltry)</title></circle></a><a href="/variants/s18/dr3g20k2db3k12db3k2dr20g3dr20k2db3k12db3k2g20dr3db2~x2/"><circle cx="147.7" cy="148.1" r="4" fill="#3465a4"><title>Matthew Gloag Corporate Tartan</title></circle></a><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="240.5" cy="164.9" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/variants/s11/dg2t16dg2t4k4dg2k7t2k4dg17t2~x2/"><circle cx="201.7" cy="191.4" r="4" fill="#3465a4"><title>Blackwater (Fashion)</title></circle></a><circle cx="195.9" cy="179.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/"><circle cx="162.0" cy="212.5" r="4" fill="#3465a4"><title>Campbell Collegiate</title></circle></a><a href="/variants/s13/do12k2do2k2do2k10g12k3g12k10do12k2do2~x2/"><circle cx="159.5" cy="212.7" r="4" fill="#3465a4"><title>Brown Watch (Fashion)</title></circle></a><a href="/variants/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/"><circle cx="172.6" cy="169.1" r="4" fill="#3465a4"><title>Brown, Watch</title></circle></a><a href="/variants/s16/dg7k2dg7ly1k2ly1k10ly3dr10ly3k10ly1dg11k2dg3k2~x2/"><circle cx="149.7" cy="159.8" r="4" fill="#3465a4"><title>Blackburn Appalachian Htg (Personal)</title></circle></a><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="141.9" cy="177.3" r="4" fill="#3465a4"><title>74th Regiment of Foot (Mil.)</title></circle></a><a href="/variants/s13/dt16k3dt3k3dt3k16g15k3g15k16dt15k3dt3~x2/"><circle cx="163.4" cy="220.4" r="4" fill="#3465a4"><title>42nd Regiment (Military)</title></circle></a><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/"><circle cx="212.2" cy="184.5" r="4" fill="#3465a4"><title>Royal Regiment of Scotland (Mltry)</title></circle></a><a href="/variants/s18/dr3g20k2db3k12db3k2dr20g3dr20k2db3k12db3k2g20dr3db2~x2/"><circle cx="147.7" cy="147.9" r="4" fill="#3465a4"><title>Matthew Gloag Corporate Tartan</title></circle></a><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="240.5" cy="164.8" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/variants/s11/dg2t16dg2t4k4dg2k7t2k4dg17t2~x2/"><circle cx="201.7" cy="191.3" r="4" fill="#3465a4"><title>Blackwater (Fashion)</title></circle></a><circle cx="195.9" cy="179.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/

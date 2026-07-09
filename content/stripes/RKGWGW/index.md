@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/w52g22w6g8k1r3~x2/">MacGregor Dress Green (Dance)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/w52g22w6g8k1r3~x2/"><img src="/variants/s6/w52g22w6g8k1r3~x2/sett.png" alt="MacGregor Dress Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w47g20w6g8k1r3~x2/">MacGregor, Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w47g20w6g8k1r3~x2/"><img src="/variants/s6/w47g20w6g8k1r3~x2/sett.png" alt="MacGregor, Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w47g20w6g8k1r3~x2/">MacGregor Dress Green Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w47g20w6g8k1r3~x2/"><img src="/variants/s6/w47g20w6g8k1r3~x2/sett.png" alt="MacGregor Dress Green Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

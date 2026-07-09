@@ -1,5 +1,12 @@
 ---
 title: "Dorward/Dogwood"
-redirect: "/variants/s7/dy7r3dy9g15db19dy14r4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dorward/Dogwood](/variants/s7/dy7r3dy9g15db19dy14r4~x2/).
+This is the **Dorward/Dogwood** sett — one scale-free proportion (`dy7r3dy9g15db19dy14r4`), colour order pattern
+[GRGGBGR](/stripes/grggbgr/). It is recorded as a single **variant**, below.
+First attested **1930**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dorward/Dogwood](/variants/s7/dy7r3dy9g15db19dy14r4~x2/) ★ | 1930 | ![Dorward/Dogwood sett](/variants/s7/dy7r3dy9g15db19dy14r4~x2/sett.png) |

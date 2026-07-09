@@ -1,5 +1,12 @@
 ---
 title: "Casey (Dress) Fashion Tartan"
-redirect: "/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Casey (Dress) Fashion Tartan](/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/).
+This is the **Casey (Dress) Fashion Tartan** sett — one scale-free proportion (`w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3`), colour order pattern
+[KRKRKRWRKRKRKWRWKWKWKWKWGW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwgw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Casey (Dress) Fashion Tartan](/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/) ★ | 2005 | ![Casey (Dress) Fashion Tartan sett](/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/sett.png) |

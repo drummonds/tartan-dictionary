@@ -1,5 +1,12 @@
 ---
 title: "Dawson-Nunes (Personal)"
-redirect: "/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dawson-Nunes (Personal)](/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/).
+This is the **Dawson-Nunes (Personal)** sett — one scale-free proportion (`db32k3db4k3db4k11dt4k2w3k2dt11`), colour order pattern
+[BKBKBKBKWKB](/stripes/bkbkbkbkwkb/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dawson-Nunes (Personal)](/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/) ★ | 2009 | ![Dawson-Nunes (Personal) sett](/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/sett.png) |

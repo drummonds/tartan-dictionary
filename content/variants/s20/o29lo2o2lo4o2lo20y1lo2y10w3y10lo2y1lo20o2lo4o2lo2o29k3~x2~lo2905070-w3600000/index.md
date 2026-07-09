@@ -1,14 +1,16 @@
 ---
 title: "Shenzhen"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Shenzhen"
-  url: ""
+  url: "/setts/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3/)
-(the same proportion at any scale), whose colour order is pattern [KRYRYRYGYGWGYGYRYRYR](/stripes/kryryrygygwgygyryryr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRYRYRYGYGWGYGYRYRYR](/stripes/kryryrygygwgygyryryr/).
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

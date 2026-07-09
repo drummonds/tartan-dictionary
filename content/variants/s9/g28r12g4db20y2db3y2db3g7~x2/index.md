@@ -1,14 +1,16 @@
 ---
 title: "Cork"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cork"
-  url: ""
+  url: "/setts/g28r12g4db20y2db3y2db3g7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g28r12g4db20y2db3y2db3g7/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBGRG](/stripes/gbgbgbgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g28r12g4db20y2db3y2db3g7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBGRG](/stripes/gbgbgbgrg/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.5" cy="196.7" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="167.0" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="176.1" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="194.2" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.1" cy="189.2" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.9" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.3" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><circle cx="300.2" cy="170.0" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="164.2" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><circle cx="278.0" cy="182.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.6" cy="196.6" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="166.9" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="176.0" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.8" cy="194.1" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.1" cy="189.1" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.8" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.2" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><circle cx="300.2" cy="169.9" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="164.1" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><circle cx="278.0" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g28r12g4db20y2db3y2db3g7~x2/

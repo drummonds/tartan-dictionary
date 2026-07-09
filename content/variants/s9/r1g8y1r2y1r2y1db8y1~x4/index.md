@@ -1,16 +1,18 @@
 ---
 title: "Stevenson Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stevenson"
   url: "/tartans/stevenson/"
 - name: "Stevenson Family Tartan"
-  url: ""
+  url: "/setts/r1g8y1r2y1r2y1db8y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1g8y1r2y1r2y1db8y1/)
-(the same proportion at any scale), whose colour order is pattern [GBGRGRGGR](/stripes/gbgrgrggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r1g8y1r2y1r2y1db8y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGRGRGGR](/stripes/gbgrgrggr/).
 
 Part of the [Stevenson](/tartans/stevenson/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1980 Charles Stevenson of Glasgow emigrated to America in 1
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1980 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/"><circle cx="159.9" cy="225.0" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="193.1" cy="203.3" r="4" fill="#3465a4"><title>Bonnie Brae School</title></circle></a><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="197.7" cy="223.1" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="200.2" cy="214.9" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><circle cx="193.5" cy="186.1" r="4" fill="#3465a4"><title>Roxburgh Red</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.2" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="182.8" cy="222.4" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="180.6" cy="204.9" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.7" cy="208.0" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s15/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2~x2/"><circle cx="205.8" cy="198.4" r="4" fill="#3465a4"><title>Kerry</title></circle></a><circle cx="190.0" cy="201.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/"><circle cx="160.0" cy="225.0" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="193.1" cy="203.3" r="4" fill="#3465a4"><title>Bonnie Brae School</title></circle></a><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="197.7" cy="223.1" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="200.3" cy="214.8" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><circle cx="193.5" cy="186.0" r="4" fill="#3465a4"><title>Roxburgh Red</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.1" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="182.8" cy="222.3" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="180.6" cy="204.8" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.7" cy="207.9" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s15/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2~x2/"><circle cx="205.8" cy="198.3" r="4" fill="#3465a4"><title>Kerry</title></circle></a><circle cx="190.0" cy="201.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r1g8y1r2y1r2y1db8y1~x4/

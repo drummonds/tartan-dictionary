@@ -1,16 +1,18 @@
 ---
 title: "Fair Trade"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fair Trade"
   url: "/tartans/fair-trade/"
 - name: "Fair Trade"
-  url: ""
+  url: "/setts/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4/)
-(the same proportion at any scale), whose colour order is pattern [KBKBKWKWKWKWKGK](/stripes/kbkbkwkwkwkwkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKWKWKWKWKGK](/stripes/kbkbkwkwkwkwkgk/).
 
 Part of the [Fair Trade](/tartans/fair-trade/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="172.1" cy="100.3" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/"><circle cx="209.5" cy="119.9" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.6" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s16/k2db18lb1k13lb1g16db3k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="183.3" cy="129.3" r="4" fill="#3465a4"><title>Hebrides #10</title></circle></a><a href="/variants/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/"><circle cx="163.3" cy="113.7" r="4" fill="#3465a4"><title>Stewart, Old - 1819 (Clan)</title></circle></a><a href="/variants/s17/g34db2k2db2g34r3db34r2db34r3k33db2g2db2g2db2k33~x2/"><circle cx="167.4" cy="115.8" r="4" fill="#3465a4"><title>Lumsden Hunting</title></circle></a><a href="/variants/s8/g28r2k15db2k2db2k2db18~x2/"><circle cx="181.9" cy="122.7" r="4" fill="#3465a4"><title>Riddoch Personal Tartan</title></circle></a><a href="/variants/s12/k4db2g24r1g2r1g2k20db24k1db2k4~x2/"><circle cx="185.7" cy="107.9" r="4" fill="#3465a4"><title>Jedforest</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="156.5" cy="100.6" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="152.7" cy="101.6" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><circle cx="178.5" cy="99.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="172.1" cy="100.2" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/"><circle cx="209.6" cy="119.8" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.4" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s16/k2db18lb1k13lb1g16db3k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="183.3" cy="129.1" r="4" fill="#3465a4"><title>Hebrides #10</title></circle></a><a href="/variants/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/"><circle cx="163.3" cy="113.6" r="4" fill="#3465a4"><title>Stewart, Old - 1819 (Clan)</title></circle></a><a href="/variants/s17/g34db2k2db2g34r3db34r2db34r3k33db2g2db2g2db2k33~x2/"><circle cx="167.4" cy="115.7" r="4" fill="#3465a4"><title>Lumsden Hunting</title></circle></a><a href="/variants/s8/g28r2k15db2k2db2k2db18~x2/"><circle cx="181.9" cy="122.6" r="4" fill="#3465a4"><title>Riddoch Personal Tartan</title></circle></a><a href="/variants/s12/k4db2g24r1g2r1g2k20db24k1db2k4~x2/"><circle cx="185.7" cy="107.7" r="4" fill="#3465a4"><title>Jedforest</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="156.5" cy="100.5" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="152.7" cy="101.4" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><circle cx="178.5" cy="98.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Strathyre dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathyre dress"
-  url: ""
+  url: "/setts/w49dg11r2dg3w2do10m9dg2m6w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w49dg11r2dg3w2do10m9dg2m6w2/)
-(the same proportion at any scale), whose colour order is pattern [WGRGWBRGRW](/stripes/wgrgwbrgrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w49dg11r2dg3w2do10m9dg2m6w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGRGWBRGRW](/stripes/wgrgwbrgrw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/"><circle cx="292.9" cy="73.5" r="4" fill="#3465a4"><title>Canna (Fashion)</title></circle></a><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><circle cx="294.3" cy="73.4" r="4" fill="#3465a4"><title>Canna</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.3" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"><circle cx="334.4" cy="85.0" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.3" cy="72.9" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.4" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/"><circle cx="275.3" cy="91.6" r="4" fill="#3465a4"><title>Australian Dress District Tartan</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.7" cy="97.8" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="293.9" cy="74.3" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><circle cx="278.0" cy="95.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/"><circle cx="292.9" cy="73.4" r="4" fill="#3465a4"><title>Canna (Fashion)</title></circle></a><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><circle cx="294.3" cy="73.3" r="4" fill="#3465a4"><title>Canna</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.0" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"><circle cx="334.4" cy="84.9" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.3" cy="72.7" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.2" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/"><circle cx="275.3" cy="91.5" r="4" fill="#3465a4"><title>Australian Dress District Tartan</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.7" cy="97.7" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="293.9" cy="74.1" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><circle cx="278.0" cy="95.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/

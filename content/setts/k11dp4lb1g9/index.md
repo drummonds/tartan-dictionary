@@ -1,5 +1,12 @@
 ---
 title: "Wilson's, No 228"
-redirect: "/variants/s4/k11dp4lb1g9~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's, No 228](/variants/s4/k11dp4lb1g9~x4/).
+This is the **Wilson's, No 228** sett — one scale-free proportion (`k11dp4lb1g9`), colour order pattern
+[GWBK](/stripes/gwbk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Wilson's, No 228](/variants/s4/k11dp4lb1g9~x4/) ★ | ~2016 | ![Wilson's, No 228 sett](/variants/s4/k11dp4lb1g9~x4/sett.png) |

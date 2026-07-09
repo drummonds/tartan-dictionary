@@ -1,5 +1,12 @@
 ---
 title: "St. Patrick (Fashion)"
-redirect: "/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Patrick (Fashion)](/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/).
+This is the **St. Patrick (Fashion)** sett — one scale-free proportion (`dy4dg2w3dg40w3dg3w4dg3w13dg4`), colour order pattern
+[GGWGWGWGWG](/stripes/ggwgwgwgwg/). It is recorded as a single **variant**, below.
+First attested **1971**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [St. Patrick (Fashion)](/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/) ★ | 1971 | ![St. Patrick (Fashion) sett](/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/sett.png) |

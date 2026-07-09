@@ -1,16 +1,18 @@
 ---
 title: "Dutch Friendship (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dutch Friendship"
   url: "/tartans/dutch-friendship/"
 - name: "Dutch Friendship (Fashion)"
-  url: ""
+  url: "/setts/k3dy14lo4dy9lo14k14y14g14k1o3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3dy14lo4dy9lo14k14y14g14k1o3/)
-(the same proportion at any scale), whose colour order is pattern [KGYGYKGGKR](/stripes/kgygykggkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3dy14lo4dy9lo14k14y14g14k1o3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGYGYKGGKR](/stripes/kgygykggkr/).
 
 Part of the [Dutch Friendship](/tartans/dutch-friendship/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/"><circle cx="55.8" cy="152.7" r="4" fill="#3465a4"><title>Teddy Bear 111th Anniversary</title></circle></a><a href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/"><circle cx="82.5" cy="157.8" r="4" fill="#3465a4"><title>Teddy Bear 111th Anniversary</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="159.3" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.5" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/"><circle cx="51.9" cy="158.4" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/variants/s12/lr3k15n10o10k1g5k1lo10k10g8k1n2~x2/"><circle cx="76.1" cy="130.3" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/"><circle cx="82.1" cy="150.0" r="4" fill="#3465a4"><title>Kildare County, Crest Range</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.1" cy="186.9" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/"><circle cx="32.4" cy="118.9" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/variants/s12/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7~x2~lb3200000-dp1105325-t2503227-ly3307090/"><circle cx="69.2" cy="138.8" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><circle cx="40.7" cy="160.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/"><circle cx="55.8" cy="152.6" r="4" fill="#3465a4"><title>Teddy Bear 111th Anniversary</title></circle></a><a href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/"><circle cx="82.6" cy="157.7" r="4" fill="#3465a4"><title>Teddy Bear 111th Anniversary</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="159.2" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.5" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/"><circle cx="51.9" cy="158.3" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/variants/s12/lr3k15n10o10k1g5k1lo10k10g8k1n2~x2/"><circle cx="76.1" cy="130.2" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/"><circle cx="82.1" cy="149.8" r="4" fill="#3465a4"><title>Kildare County, Crest Range</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.1" cy="186.8" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/"><circle cx="32.4" cy="118.8" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/variants/s12/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7~x2~lb3200000-dp1105325-t2503227-ly3307090/"><circle cx="69.2" cy="138.7" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><circle cx="40.7" cy="160.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/

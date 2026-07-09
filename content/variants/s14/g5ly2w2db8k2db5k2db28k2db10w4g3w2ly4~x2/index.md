@@ -1,14 +1,16 @@
 ---
 title: "Carstairs"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Carstairs"
-  url: ""
+  url: "/setts/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4/)
-(the same proportion at any scale), whose colour order is pattern [GYWBKBKBKBWGWY](/stripes/gywbkbkbkbwgwy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYWBKBKBKBWGWY](/stripes/gywbkbkbkbwgwy/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"><circle cx="282.3" cy="69.4" r="4" fill="#3465a4"><title>Murison, Ina</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="314.7" cy="131.1" r="4" fill="#3465a4"><title>California Riverside, Uni. (Corp)</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"><circle cx="327.0" cy="134.2" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><circle cx="262.0" cy="98.1" r="4" fill="#3465a4"><title>Rankin #2</title></circle></a><a href="/variants/s13/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2~x2/"><circle cx="264.5" cy="82.8" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/variants/s13/db5w5db5w5db15w1lo2w1db21y2db5k2y4~x2/"><circle cx="330.9" cy="103.2" r="4" fill="#3465a4"><title>Jouy (La Chapelle Saint Sulpice) (Personal)</title></circle></a><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/"><circle cx="321.1" cy="101.5" r="4" fill="#3465a4"><title>Hope Vere / Weir</title></circle></a><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><circle cx="292.2" cy="70.7" r="4" fill="#3465a4"><title>Murison (2014)</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.5" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.0" cy="78.1" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><circle cx="284.7" cy="106.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"><circle cx="282.3" cy="69.2" r="4" fill="#3465a4"><title>Murison, Ina</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="314.7" cy="131.0" r="4" fill="#3465a4"><title>California Riverside, Uni. (Corp)</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"><circle cx="327.0" cy="134.1" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><circle cx="262.0" cy="98.0" r="4" fill="#3465a4"><title>Rankin #2</title></circle></a><a href="/variants/s13/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2~x2/"><circle cx="264.5" cy="82.6" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/variants/s13/db5w5db5w5db15w1lo2w1db21y2db5k2y4~x2/"><circle cx="330.9" cy="103.1" r="4" fill="#3465a4"><title>Jouy (La Chapelle Saint Sulpice) (Personal)</title></circle></a><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/"><circle cx="321.1" cy="101.3" r="4" fill="#3465a4"><title>Hope Vere / Weir</title></circle></a><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><circle cx="292.3" cy="70.6" r="4" fill="#3465a4"><title>Murison (2014)</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.4" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.0" cy="77.9" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><circle cx="284.7" cy="106.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Mitsukoshi (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mitsukoshi (Corporate)"
-  url: ""
+  url: "/setts/lb12k3w3k3lb13t6k17r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb12k3w3k3lb13t6k17r3/)
-(the same proportion at any scale), whose colour order is pattern [RKBWKWKW](/stripes/rkbwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb12k3w3k3lb13t6k17r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBWKWKW](/stripes/rkbwkwkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.9" cy="197.1" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s7/k3r3k3w16k3g3k3/"><circle cx="162.0" cy="188.2" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="121.1" cy="186.8" r="4" fill="#3465a4"><title>Kile (Red line) (Personal)</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.7" cy="201.1" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s7/lb5k26y4lb24dp8k3r4~x2/"><circle cx="135.4" cy="166.4" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.7" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><circle cx="108.8" cy="196.6" r="4" fill="#3465a4"><title>Brodie Hunting (Clan)</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="111.6" cy="200.8" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/variants/s7/dr2db4dr6db2w6k1ly2~x2/"><circle cx="82.2" cy="218.6" r="4" fill="#3465a4"><title>Unidentified Printing</title></circle></a><circle cx="113.8" cy="193.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.9" cy="197.0" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s7/k3r3k3w16k3g3k3/"><circle cx="162.0" cy="188.1" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="121.1" cy="186.7" r="4" fill="#3465a4"><title>Kile (Red line) (Personal)</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.7" cy="201.0" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s7/lb5k26y4lb24dp8k3r4~x2/"><circle cx="135.4" cy="166.3" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.7" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.6" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><circle cx="108.8" cy="196.6" r="4" fill="#3465a4"><title>Brodie Hunting (Clan)</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="111.6" cy="200.7" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/variants/s7/dr2db4dr6db2w6k1ly2~x2/"><circle cx="82.2" cy="218.6" r="4" fill="#3465a4"><title>Unidentified Printing</title></circle></a><circle cx="113.8" cy="193.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/

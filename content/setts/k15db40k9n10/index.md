@@ -1,5 +1,12 @@
 ---
 title: "Omega Delta Sigma, National Veterans Fraternity"
-redirect: "/variants/s4/k15db40k9n10~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Omega Delta Sigma, National Veterans Fraternity](/variants/s4/k15db40k9n10~x2/).
+This is the **Omega Delta Sigma, National Veterans Fraternity** sett — one scale-free proportion (`k15db40k9n10`), colour order pattern
+[BKBK](/stripes/bkbk/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Omega Delta Sigma, National Veterans Fraternity](/variants/s4/k15db40k9n10~x2/) ★ | 2014 | ![Omega Delta Sigma, National Veterans Fraternity sett](/variants/s4/k15db40k9n10~x2/sett.png) |

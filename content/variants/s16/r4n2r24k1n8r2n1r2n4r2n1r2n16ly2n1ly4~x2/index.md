@@ -1,14 +1,16 @@
 ---
 title: "Brian Boru 1014 (Commemorative)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brian Boru 1014 (Commemorative)"
-  url: ""
+  url: "/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4/)
-(the same proportion at any scale), whose colour order is pattern [RBRKBRBRBRBRBYBY](/stripes/rbrkbrbrbrbrbyby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRKBRBRBRBRBYBY](/stripes/rbrkbrbrbrbrbyby/).
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4~x2/"><circle cx="399.3" cy="124.8" r="4" fill="#3465a4"><title>Brian Boru 2014</title></circle></a><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/"><circle cx="292.7" cy="103.0" r="4" fill="#3465a4"><title>Internationale, The</title></circle></a><a href="/variants/s9/k3y6n13r2n2r32n1r2n2~x2/"><circle cx="412.1" cy="115.4" r="4" fill="#3465a4"><title>Fueglistal (Aargau) (Personal)</title></circle></a><a href="/variants/s18/ri12r2ri2g2ri4g2ri4db12r6ri2r6g12ri12g12ri2db1ri36r4~x2~ri2008029-r1707016/"><circle cx="370.8" cy="107.7" r="4" fill="#3465a4"><title>MacCoul</title></circle></a><a href="/variants/s18/ri12r2ri2g2ri4g2ri4db12r6ri2r6g12ri12g12ri2db1ri36r4~x2~ri2109032-r1807008/"><circle cx="367.2" cy="105.9" r="4" fill="#3465a4"><title>MacCoul Clan Tartan</title></circle></a><a href="/variants/s18/r12ri2r2dg2r4dg2r4dp12ri6r2ri6dg12r12dg12r2dp1r36ri4~x2~r2109032-ri2307033/"><circle cx="391.2" cy="111.4" r="4" fill="#3465a4"><title>MacCoul</title></circle></a><a href="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/"><circle cx="406.4" cy="106.7" r="4" fill="#3465a4"><title>Drummond of Megginch - 2023 BertieLexa</title></circle></a><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/"><circle cx="391.7" cy="101.6" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt (faded)</title></circle></a><a href="/variants/s15/r6t2r2g24r2g2r2t8r2lb1r32t2r2t1r6~x2/"><circle cx="396.2" cy="100.4" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="358.8" cy="110.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4~x2/"><circle cx="399.3" cy="124.7" r="4" fill="#3465a4"><title>Brian Boru 2014</title></circle></a><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/"><circle cx="292.7" cy="102.8" r="4" fill="#3465a4"><title>Internationale, The</title></circle></a><a href="/variants/s9/k3y6n13r2n2r32n1r2n2~x2/"><circle cx="412.1" cy="115.2" r="4" fill="#3465a4"><title>Fueglistal (Aargau) (Personal)</title></circle></a><a href="/variants/s18/ri12r2ri2g2ri4g2ri4db12r6ri2r6g12ri12g12ri2db1ri36r4~x2~ri2008029-r1707016/"><circle cx="370.8" cy="107.5" r="4" fill="#3465a4"><title>MacCoul</title></circle></a><a href="/variants/s18/ri12r2ri2g2ri4g2ri4db12r6ri2r6g12ri12g12ri2db1ri36r4~x2~ri2109032-r1807008/"><circle cx="367.2" cy="105.8" r="4" fill="#3465a4"><title>MacCoul Clan Tartan</title></circle></a><a href="/variants/s18/r12ri2r2dg2r4dg2r4dp12ri6r2ri6dg12r12dg12r2dp1r36ri4~x2~r2109032-ri2307033/"><circle cx="391.2" cy="111.2" r="4" fill="#3465a4"><title>MacCoul</title></circle></a><a href="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/"><circle cx="406.4" cy="106.5" r="4" fill="#3465a4"><title>Drummond of Megginch - 2023 BertieLexa</title></circle></a><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/"><circle cx="391.7" cy="101.5" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt (faded)</title></circle></a><a href="/variants/s15/r6t2r2g24r2g2r2t8r2lb1r32t2r2t1r6~x2/"><circle cx="396.2" cy="100.2" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="358.8" cy="110.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4~x2/

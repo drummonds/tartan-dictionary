@@ -1,14 +1,16 @@
 ---
 title: "Correctional Service Canada"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Correctional Service Canada"
-  url: ""
+  url: "/setts/y4db5lb2db30k1db4k4db1k15r6w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4db5lb2db30k1db4k4db1k15r6w3/)
-(the same proportion at any scale), whose colour order is pattern [GBWBKBKBKRW](/stripes/gbwbkbkbkrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y4db5lb2db30k1db4k4db1k15r6w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBWBKBKBKRW](/stripes/gbwbkbkbkrw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k6r2k6r12w2db36y1g3~x2/"><circle cx="257.8" cy="70.2" r="4" fill="#3465a4"><title>Fremont Presbyterian Church (P)</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="274.8" cy="91.2" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.0" cy="78.1" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/"><circle cx="195.8" cy="79.0" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="268.4" cy="85.3" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"><circle cx="289.5" cy="52.6" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan</title></circle></a><a href="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/"><circle cx="206.3" cy="78.8" r="4" fill="#3465a4"><title>Scragg Moran (Personal)</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="269.1" cy="99.0" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.5" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/"><circle cx="292.0" cy="56.5" r="4" fill="#3465a4"><title>Scottish Heritage Society (Corporate</title></circle></a><circle cx="244.0" cy="71.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k6r2k6r12w2db36y1g3~x2/"><circle cx="257.8" cy="70.0" r="4" fill="#3465a4"><title>Fremont Presbyterian Church (P)</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="274.8" cy="91.0" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.0" cy="77.9" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/"><circle cx="195.8" cy="78.8" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="268.4" cy="85.2" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/variants/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"><circle cx="289.6" cy="52.4" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan</title></circle></a><a href="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/"><circle cx="206.4" cy="78.6" r="4" fill="#3465a4"><title>Scragg Moran (Personal)</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="269.1" cy="98.9" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.3" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/"><circle cx="292.0" cy="56.3" r="4" fill="#3465a4"><title>Scottish Heritage Society (Corporate</title></circle></a><circle cx="244.0" cy="71.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/

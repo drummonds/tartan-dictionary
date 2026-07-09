@@ -1,5 +1,12 @@
 ---
 title: "Argyll Campbell"
-redirect: "/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Argyll Campbell](/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/).
+This is the **Argyll Campbell** sett — one scale-free proportion (`k3db17k20g18w4g18k20db18k2db2`), colour order pattern
+[BKBKGWGKBK](/stripes/bkbkgwgkbk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Argyll Campbell](/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/) ★ | ~2016 | ![Argyll Campbell sett](/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Boyle, Cameron (Personal)"
-redirect: "/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Boyle, Cameron (Personal)](/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/).
+This is the **Boyle, Cameron (Personal)** sett — one scale-free proportion (`g5db20g20db2g2db2g25r2g2r17k8g2w2`), colour order pattern
+[GBGBGBGRGRKGW](/stripes/gbgbgbgrgrkgw/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Boyle, Cameron (Personal)](/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/) ★ | 2010 | ![Boyle, Cameron (Personal) sett](/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/sett.png) |

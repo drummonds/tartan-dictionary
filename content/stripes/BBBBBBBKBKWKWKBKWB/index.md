@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s18/dp4w6k1dp2k1w14k3w3k2dp2k2dp2db4dp2db6dp2db6dp2/">Royal Canadian Air Force</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s18/dp4w6k1dp2k1w14k3w3k2dp2k2dp2db4dp2db6dp2db6dp2/"><img src="/variants/s18/dp4w6k1dp2k1w14k3w3k2dp2k2dp2db4dp2db6dp2db6dp2/sett.png" alt="Royal Canadian Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/">Royal Canadian Air Force</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/"><img src="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/sett.png" alt="Royal Canadian Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/">Royal Canadian Air Force Regimental Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/"><img src="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/sett.png" alt="Royal Canadian Air Force Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,14 +1,16 @@
 ---
 title: "MacIntosh, Blanket"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacIntosh, Blanket"
-  url: ""
+  url: "/setts/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBGBRWRRGBWBWBGBRW](/stripes/bwbwbgbrwrrgbwbwbgbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBGBRWRRGBWBWBGBRW](/stripes/bwbwbgbrwrrgbwbwbgbrw/).
 
 Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w37dy1r4dg6r7w2r3w2r7dg6ri4dy1w64dy1r4g6r7w2r3w2r7~x2~r2208029-ri2209032/"><circle cx="337.6" cy="15.8" r="4" fill="#3465a4"><title>MacIntosh Blanket</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.4" cy="59.4" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s18/dg6dy2dg3lb4dg14lb36k2lb3w2lb3k2lb36dg14lb4dg3dy2dg6r1~x2/"><circle cx="304.3" cy="49.1" r="4" fill="#3465a4"><title>Sarasota - Dunfermline District Tartan</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.4" cy="49.9" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"><circle cx="349.9" cy="25.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.2" cy="86.9" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><circle cx="335.8" cy="19.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w37dy1r4dg6r7w2r3w2r7dg6ri4dy1w64dy1r4g6r7w2r3w2r7~x2~r2208029-ri2209032/"><circle cx="337.6" cy="15.6" r="4" fill="#3465a4"><title>MacIntosh Blanket</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.4" cy="59.2" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s18/dg6dy2dg3lb4dg14lb36k2lb3w2lb3k2lb36dg14lb4dg3dy2dg6r1~x2/"><circle cx="304.3" cy="48.9" r="4" fill="#3465a4"><title>Sarasota - Dunfermline District Tartan</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.4" cy="49.7" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"><circle cx="349.9" cy="24.8" r="4" fill="#3465a4"><title>Druid</title></circle></a><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.2" cy="86.7" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><circle cx="335.8" cy="19.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/

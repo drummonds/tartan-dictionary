@@ -1,5 +1,12 @@
 ---
 title: "Crichton (Clan)"
-redirect: "/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Crichton (Clan)](/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/).
+This is the **Crichton (Clan)** sett — one scale-free proportion (`k80dg1k2dr4lb1n5k8ly2dg2`), colour order pattern
+[GYKBWBKGK](/stripes/gykbwbkgk/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Crichton (Clan)](/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/) ★ | 2008 | ![Crichton (Clan) sett](/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/sett.png) |

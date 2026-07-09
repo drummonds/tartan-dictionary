@@ -1,14 +1,16 @@
 ---
 title: "Hyland Evening (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hyland Evening (Personal)"
-  url: ""
+  url: "/setts/dp3lo2r19o4dpi6k36dpi2lo3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3lo2r19o4dpi6k36dpi2lo3/)
-(the same proportion at any scale), whose colour order is pattern [BYRRBKBYBKBRRY](/stripes/byrrbkbybkbrry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp3lo2r19o4dpi6k36dpi2lo3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYRRBKBYBKBRRY](/stripes/byrrbkbybkbrry/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="167.8" cy="70.5" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/"><circle cx="199.5" cy="67.5" r="4" fill="#3465a4"><title>Scottish Register of Tartans (Corp)</title></circle></a><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.1" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/"><circle cx="238.2" cy="61.2" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="148.9" cy="83.9" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/variants/s15/db6k3r4k2r27k12db10k3y2k3g12r10w2r3k3~x2/"><circle cx="134.6" cy="97.9" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.7" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="239.5" cy="86.0" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/variants/s15/dr22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="202.4" cy="85.2" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s11/r7k6r62k15r20n15dy10k16db10k3w6/"><circle cx="211.1" cy="86.3" r="4" fill="#3465a4"><title>Cork County, Crest Range</title></circle></a><circle cx="199.6" cy="76.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="167.9" cy="70.3" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/"><circle cx="199.5" cy="67.3" r="4" fill="#3465a4"><title>Scottish Register of Tartans (Corp)</title></circle></a><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.0" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/"><circle cx="238.2" cy="61.0" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="148.9" cy="83.7" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/variants/s15/db6k3r4k2r27k12db10k3y2k3g12r10w2r3k3~x2/"><circle cx="134.6" cy="97.7" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.6" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="239.5" cy="85.9" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/variants/s15/dr22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="202.4" cy="85.0" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s11/r7k6r62k15r20n15dy10k16db10k3w6/"><circle cx="211.1" cy="86.2" r="4" fill="#3465a4"><title>Cork County, Crest Range</title></circle></a><circle cx="199.6" cy="76.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/

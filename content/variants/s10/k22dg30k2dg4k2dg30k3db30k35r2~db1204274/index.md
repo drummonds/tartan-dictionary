@@ -1,14 +1,16 @@
 ---
 title: "Phillips Welsh Name Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Phillips Welsh Name Tartan"
-  url: ""
+  url: "/setts/k22dg30k2dg4k2dg30k3db30k35r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k22dg30k2dg4k2dg30k3db30k35r2/)
-(the same proportion at any scale), whose colour order is pattern [KKGKGKGKBKR](/stripes/kkgkgkgkbkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k22dg30k2dg4k2dg30k3db30k35r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KKGKGKGKBKR](/stripes/kkgkgkgkbkr/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2002 The tartan for this Welsh surname and its variations, 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/"><circle cx="288.6" cy="163.4" r="4" fill="#3465a4"><title>Phillips (Welsh Name)</title></circle></a><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/"><circle cx="202.9" cy="142.1" r="4" fill="#3465a4"><title>Bonner (Name)</title></circle></a><a href="/variants/s15/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3~x2/"><circle cx="233.6" cy="146.1" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.2" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s13/db24k2db2k2db2k20dg20dy3dg20k20db24k2dr4~x2/"><circle cx="211.2" cy="170.0" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #2 (Mil</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.5" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s13/y2ki2dg2y2dg3y1dg10ki16dg4k2dg4k10w2~x2~ki0700000-k0504259/"><circle cx="216.9" cy="151.6" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/"><circle cx="259.5" cy="162.6" r="4" fill="#3465a4"><title>Maine Acadia</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.5" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/"><circle cx="247.6" cy="138.2" r="4" fill="#3465a4"><title>Phillips of Wales</title></circle></a><circle cx="248.2" cy="148.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/"><circle cx="288.6" cy="163.3" r="4" fill="#3465a4"><title>Phillips (Welsh Name)</title></circle></a><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/"><circle cx="202.9" cy="141.9" r="4" fill="#3465a4"><title>Bonner (Name)</title></circle></a><a href="/variants/s15/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3~x2/"><circle cx="233.6" cy="146.0" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.0" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s13/db24k2db2k2db2k20dg20dy3dg20k20db24k2dr4~x2/"><circle cx="211.2" cy="169.8" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #2 (Mil</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.4" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s13/y2ki2dg2y2dg3y1dg10ki16dg4k2dg4k10w2~x2~ki0700000-k0504259/"><circle cx="216.9" cy="151.5" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/"><circle cx="259.5" cy="162.4" r="4" fill="#3465a4"><title>Maine Acadia</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.6" cy="167.2" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/"><circle cx="247.6" cy="138.1" r="4" fill="#3465a4"><title>Phillips of Wales</title></circle></a><circle cx="248.3" cy="148.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/

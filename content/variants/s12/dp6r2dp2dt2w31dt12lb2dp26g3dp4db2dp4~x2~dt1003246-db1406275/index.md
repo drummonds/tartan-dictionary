@@ -1,14 +1,16 @@
 ---
 title: "MacDonald of Glencoe (Dance) Fashion Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDonald of Glencoe (Dance) Fashion Tartan"
-  url: ""
+  url: "/setts/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4/)
-(the same proportion at any scale), whose colour order is pattern [BBBGBWBWBBRB](/stripes/bbbgbwbwbbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBGBWBWBBRB](/stripes/bbbgbwbwbbrb/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: 01/01/2005 Threadcount taken from DC Dalgliesh Dancers' Swa
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>01/01/2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp6r2dp2db2w35db12n2dp25g3dp4db2dp4~x2/"><circle cx="188.1" cy="99.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe (Dance)</title></circle></a><a href="/variants/s9/dp1g1db2y1db16lb16db1w2r1~x4/"><circle cx="223.2" cy="102.5" r="4" fill="#3465a4"><title>Eastern States Exposition-West Springfield</title></circle></a><a href="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/"><circle cx="127.9" cy="112.6" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella (Commemor)</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.4" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/"><circle cx="220.9" cy="133.9" r="4" fill="#3465a4"><title>Japan–Scotland Society, The</title></circle></a><a href="/variants/s17/lb24lg2lb4b2lg2lb4b4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="154.8" cy="75.8" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/variants/s11/w50dbi3w8dbi8db12r4db12g16dg12n4w4~dbi1406275-db1204274/"><circle cx="157.9" cy="108.2" r="4" fill="#3465a4"><title>Fothergill (Personal)</title></circle></a><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/"><circle cx="99.5" cy="97.0" r="4" fill="#3465a4"><title>MacLean (Dress)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="184.4" cy="119.3" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/variants/s12/r5w2db2w2y5w2lb2w2k7db14lb30w4~x2/"><circle cx="141.2" cy="98.1" r="4" fill="#3465a4"><title>St. Andrews Management School (Corp)</title></circle></a><circle cx="171.3" cy="92.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp6r2dp2db2w35db12n2dp25g3dp4db2dp4~x2/"><circle cx="188.1" cy="99.4" r="4" fill="#3465a4"><title>MacDonald of Glencoe (Dance)</title></circle></a><a href="/variants/s9/dp1g1db2y1db16lb16db1w2r1~x4/"><circle cx="223.2" cy="102.3" r="4" fill="#3465a4"><title>Eastern States Exposition-West Springfield</title></circle></a><a href="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/"><circle cx="127.9" cy="112.5" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella (Commemor)</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.3" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/"><circle cx="220.9" cy="133.7" r="4" fill="#3465a4"><title>Japan–Scotland Society, The</title></circle></a><a href="/variants/s17/lb24lg2lb4b2lg2lb4b4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="154.8" cy="75.6" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/variants/s11/w50dbi3w8dbi8db12r4db12g16dg12n4w4~dbi1406275-db1204274/"><circle cx="157.9" cy="108.1" r="4" fill="#3465a4"><title>Fothergill (Personal)</title></circle></a><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/"><circle cx="99.6" cy="96.9" r="4" fill="#3465a4"><title>MacLean (Dress)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="184.4" cy="119.1" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/variants/s12/r5w2db2w2y5w2lb2w2k7db14lb30w4~x2/"><circle cx="141.2" cy="98.0" r="4" fill="#3465a4"><title>St. Andrews Management School (Corp)</title></circle></a><circle cx="171.3" cy="92.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4~x2~dt1003246-db1406275/

@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/db9k9db9k9db42lb5~x2/">Dollar Academy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><img src="/variants/s6/db9k9db9k9db42lb5~x2/sett.png" alt="Dollar Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db9k9db9k9db42w5~x2/">Dollar Academy (1930s) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db9k9db9k9db42w5~x2/"><img src="/variants/s6/db9k9db9k9db42w5~x2/sett.png" alt="Dollar Academy (1930s) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db9k9db9k9db42w5~x2/">Dollar Academy Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db9k9db9k9db42w5~x2/"><img src="/variants/s6/db9k9db9k9db42w5~x2/sett.png" alt="Dollar Academy Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/b40k4b12k21b17w4~x2/">Granger</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/b40k4b12k21b17w4~x2/"><img src="/variants/s6/b40k4b12k21b17w4~x2/sett.png" alt="Granger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db5k2db14k14db2lp2~x2/">Royal Scotsman Train (Corporate)</a></td></tr>

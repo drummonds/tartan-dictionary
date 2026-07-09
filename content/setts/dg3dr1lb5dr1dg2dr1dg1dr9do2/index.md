@@ -1,5 +1,14 @@
 ---
 title: "Redwood Dress (Fashion)"
-redirect: "/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Redwood Dress (Fashion)](/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/).
+This is the **Redwood Dress (Fashion)** sett — one scale-free proportion (`dg3dr1lb5dr1dg2dr1dg1dr9do2`), colour order pattern
+[BBGBGBWBG](/stripes/bbgbgbwbg/). It is recorded as a single **variant**, below.
+First attested **~1972**.
+
+Part of the [Redwood Dress](/tartans/redwood-dress/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Redwood Dress (Fashion)](/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/) ★ | ~1972 | ![Redwood Dress (Fashion) sett](/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/sett.png) |

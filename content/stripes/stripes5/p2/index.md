@@ -11,7 +11,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Gala Water Old](/variants/s5/k19lb10dp19g40y10/) | register-of-tartans |
+| 0.13 | [Gallowater Old District Tartan](/variants/s5/k19lb10dp19g40y10/) | house-of-tartan |
 | 0.13 | [Wellington, No 122](/variants/s5/k4lb3dp11g14y2~x2/) | weddslist |
 
 ### GGKBR
@@ -51,7 +51,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Romsdal](/variants/s5/g40k10r7k10r7/) | weddslist |
+| 0.05 | [Romsdal District Tartan](/variants/s5/g40k10r7k10r7/) | house-of-tartan |
 | 0.07 | [MacKeane](/variants/s5/r4k8r12k1y1~x2/) | register-of-tartans |
 
 ### GKWBR
@@ -91,7 +91,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Turnbull, dress](/variants/s5/k7db3g28r28y3~x2/) | weddslist |
+| 0.09 | [Turnbull Dress Clan Tartan](/variants/s5/k7db3g28r28y3~x2/) | house-of-tartan |
 | 0.09 | [Douglas of Roxburgh](/variants/s5/k6db3dg20r20y3~x2/) | register-of-tartans |
 
 ### GRGRW
@@ -203,7 +203,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Turnbull, hunting](/variants/s5/k7y3g28db28w3~x2/) | weddslist |
+| 0.08 | [Turnbull Hunting Clan Tartan](/variants/s5/k7y3g28db28w3~x2/) | house-of-tartan |
 | 0.08 | [Turnbull Hunting (1983) #2](/variants/s5/k2dy1g10db10w1~x6/) | register-of-tartans |
 
 ### KGKWR
@@ -275,7 +275,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Dalmeny](/variants/s5/r4g15k15db15w4~x2/) | weddslist |
+| 0.05 | [Dalmeny (Wlison's) Family Tartan](/variants/s5/r4g15k15db15w4~x2/) | house-of-tartan |
 | 0.09 | [Dalmeny #1](/variants/s5/r4dg15k15db15lb4~x2/) | register-of-tartans |
 
 ### RGKWR
@@ -339,7 +339,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Loch Morar](/variants/s5/r38w9r3do9w3~x2/) | weddslist |
+| 0.07 | [Loch Morar Trade Tartan](/variants/s5/r38w9r3do9w3~x2/) | house-of-tartan |
 | 0.11 | [Loch Tummel](/variants/s5/o38w9o3do9w3~x2/) | weddslist |
 
 ### WBGBY
@@ -396,7 +396,7 @@ weight: 5
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.00 | [MacLeod Black & White](/variants/s5/w14k2w14k19w2~x2/) | register-of-tartans |
-| 0.00 | [MacLeod, Black & White](/variants/s5/w8k1w8k12w1~x2/) | weddslist |
+| 0.00 | [MacLeod Black & White Clan Tartan](/variants/s5/w8k1w8k12w1~x2/) | house-of-tartan |
 
 ### WRGGY
 <a class="pat" href="/stripes/wrggy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WRGGY</span></a>
@@ -986,7 +986,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Timespan](/variants/s5/n6r1k6r1g6~x6/) | register-of-tartans |
+| 0.08 | [Timespan (MacKay) Corporate Tartan](/variants/s5/n6r1k6r1g6~x6/) | house-of-tartan |
 
 ### BRKWR
 <a class="pat" href="/stripes/brkwr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">BRKWR</span></a>
@@ -1070,7 +1070,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Jahore](/variants/s5/n57w5g20n5y10/) | weddslist |
+| 0.12 | [Jahore District Tartan](/variants/s5/n57w5g20n5y10/) | house-of-tartan |
 
 ### BWGBR
 <a class="pat" href="/stripes/bwgbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BWGBR</span></a>
@@ -1154,7 +1154,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Glenshee](/variants/s5/r12w1r2lb1n3~x4/) | register-of-tartans |
+| 0.09 | [Glenshee Trade Tartan](/variants/s5/r12w1r2lb1n3~x4/) | house-of-tartan |
 
 ### BWWGR
 <a class="pat" href="/stripes/bwwgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BWWGR</span></a>
@@ -1420,7 +1420,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Glenshee #2](/variants/s5/r37dy9r3g9dy3~x2/) | register-of-tartans |
+| 0.11 | [Glen Shee Trade Tartan](/variants/s5/r37dy9r3g9dy3~x2/) | house-of-tartan |
 
 ### GGRWR
 <a class="pat" href="/stripes/ggrwr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">GGRWR</span></a>
@@ -1546,7 +1546,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [MacGregor of Glenstrae](/variants/s5/g8r2g9r16g1~x2/) | register-of-tartans |
+| 0.08 | [MacGregor of Glen Straye Htg Clan Tartan](/variants/s5/g8r2g9r16g1~x2/) | house-of-tartan |
 
 ### GRGRR
 <a class="pat" href="/stripes/grgrr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRGRR</span></a>
@@ -1770,7 +1770,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Harvie](/variants/s5/k4r11k32y1k4~x2/) | register-of-tartans |
+| 0.07 | [Harvie Family Tartan](/variants/s5/k4r11k32y1k4~x2/) | house-of-tartan |
 
 ### KGRGR
 <a class="pat" href="/stripes/kgrgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGRGR</span></a>

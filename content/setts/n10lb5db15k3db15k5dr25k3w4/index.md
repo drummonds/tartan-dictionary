@@ -1,5 +1,12 @@
 ---
 title: "Galway County Crest (Fashion)"
-redirect: "/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Galway County Crest (Fashion)](/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/).
+This is the **Galway County Crest (Fashion)** sett — one scale-free proportion (`n10lb5db15k3db15k5dr25k3w4`), colour order pattern
+[BWBKBKBKW](/stripes/bwbkbkbkw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Galway County Crest (Fashion)](/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/) ★ | 2004 | ![Galway County Crest (Fashion) sett](/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/sett.png) |

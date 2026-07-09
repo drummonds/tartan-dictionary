@@ -1,5 +1,12 @@
 ---
 title: "Dunedin (USA) (District)"
-redirect: "/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dunedin (USA) (District)](/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/).
+This is the **Dunedin (USA) (District)** sett — one scale-free proportion (`w3lb25dr3r3dr3r8g21dr3k2`), colour order pattern
+[KBGRBRBWW](/stripes/kbgrbrbww/). It is recorded as a single **variant**, below.
+First attested **1986**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dunedin (USA) (District)](/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/) ★ | 1986 | ![Dunedin (USA) (District) sett](/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/sett.png) |

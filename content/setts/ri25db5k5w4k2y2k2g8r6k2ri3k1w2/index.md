@@ -1,5 +1,12 @@
 ---
 title: "Mary Stewart, Queen of Scots"
-redirect: "/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mary Stewart, Queen of Scots](/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/).
+This is the **Mary Stewart, Queen of Scots** sett — one scale-free proportion (`ri25db5k5w4k2y2k2g8r6k2ri3k1w2`), colour order pattern
+[RBKWKGKGRKRKW](/stripes/rbkwkgkgrkrkw/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mary Stewart, Queen of Scots](/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/) ★ | 2006 | ![Mary Stewart, Queen of Scots sett](/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/sett.png) |

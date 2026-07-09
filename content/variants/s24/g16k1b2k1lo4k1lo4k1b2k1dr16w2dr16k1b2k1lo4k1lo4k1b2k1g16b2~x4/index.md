@@ -1,14 +1,16 @@
 ---
 title: "Baxter Clan/Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Baxter Clan/Family Tartan"
-  url: ""
+  url: "/setts/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2/)
-(the same proportion at any scale), whose colour order is pattern [BGKBKYKYKBKBWBKBKYKYKBKG](/stripes/bgkbkykykbkbwbkbkykykbkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKBKYKYKBKBWBKBKYKYKBKG](/stripes/bgkbkykykbkbwbkbkykykbkg/).
 
 Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1856 This Baxter tartan is recorded by Logan (c.1832) as "B
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1856 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/r4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/"><circle cx="81.8" cy="80.3" r="4" fill="#3465a4"><title>Murtaugh Hunting</title></circle></a><a href="/variants/s20/dy10k1r1k3r1k1dy1r1dy3r1dy1y1dg3y1dg1ly1y3ly1y1ly10~x4~dy1201180-dg1501120/"><circle cx="79.5" cy="96.3" r="4" fill="#3465a4"><title>Spice of Life</title></circle></a><a href="/variants/s13/y2w1y12dt6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="95.5" cy="92.1" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial</title></circle></a><a href="/variants/s21/dr4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2dr4k2~x2/"><circle cx="86.0" cy="84.1" r="4" fill="#3465a4"><title>Murtaugh Hunting Tartan</title></circle></a><a href="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/"><circle cx="122.4" cy="41.3" r="4" fill="#3465a4"><title>Goldstraw (Personal)</title></circle></a><a href="/variants/s30/w2r8w2k15g4w2lb5w2dg20w2r32w2dg20g3y3r2w2r2y3g3dg20g2dg20w2lb5w2k15w2r8w2~x2~g2408144-dg1806142/"><circle cx="83.6" cy="53.8" r="4" fill="#3465a4"><title>Hunter (Wilsons)</title></circle></a><a href="/variants/s19/k3dr1g2dr2w20db3w3dr7k2dr2k2dr2k7g2k2g2k2g8dy3~x4/"><circle cx="67.6" cy="73.9" r="4" fill="#3465a4"><title>Princess Beatrice Dress (Dance)</title></circle></a><a href="/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/"><circle cx="108.4" cy="95.4" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/"><circle cx="78.7" cy="80.7" r="4" fill="#3465a4"><title>Wilson's No.073</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.6" cy="103.4" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><circle cx="101.9" cy="70.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/r4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/"><circle cx="81.8" cy="80.1" r="4" fill="#3465a4"><title>Murtaugh Hunting</title></circle></a><a href="/variants/s20/dy10k1r1k3r1k1dy1r1dy3r1dy1y1dg3y1dg1ly1y3ly1y1ly10~x4~dy1201180-dg1501120/"><circle cx="79.5" cy="96.1" r="4" fill="#3465a4"><title>Spice of Life</title></circle></a><a href="/variants/s13/y2w1y12dt6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="95.4" cy="92.0" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial</title></circle></a><a href="/variants/s21/dr4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2dr4k2~x2/"><circle cx="86.0" cy="83.9" r="4" fill="#3465a4"><title>Murtaugh Hunting Tartan</title></circle></a><a href="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/"><circle cx="122.4" cy="41.1" r="4" fill="#3465a4"><title>Goldstraw (Personal)</title></circle></a><a href="/variants/s30/w2r8w2k15g4w2lb5w2dg20w2r32w2dg20g3y3r2w2r2y3g3dg20g2dg20w2lb5w2k15w2r8w2~x2~g2408144-dg1806142/"><circle cx="83.6" cy="53.6" r="4" fill="#3465a4"><title>Hunter (Wilsons)</title></circle></a><a href="/variants/s19/k3dr1g2dr2w20db3w3dr7k2dr2k2dr2k7g2k2g2k2g8dy3~x4/"><circle cx="67.6" cy="73.7" r="4" fill="#3465a4"><title>Princess Beatrice Dress (Dance)</title></circle></a><a href="/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/"><circle cx="108.5" cy="95.3" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/"><circle cx="78.7" cy="80.5" r="4" fill="#3465a4"><title>Wilson's No.073</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.6" cy="103.2" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><circle cx="101.9" cy="70.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/

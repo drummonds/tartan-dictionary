@@ -1,5 +1,12 @@
 ---
 title: "State Seal of Illinois (Fashion)"
-redirect: "/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [State Seal of Illinois (Fashion)](/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/).
+This is the **State Seal of Illinois (Fashion)** sett — one scale-free proportion (`g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3`), colour order pattern
+[GBGGBGGGGGWBY](/stripes/gbggbgggggwby/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [State Seal of Illinois (Fashion)](/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/) ★ | 2013 | ![State Seal of Illinois (Fashion) sett](/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/sett.png) |

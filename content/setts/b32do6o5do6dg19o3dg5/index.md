@@ -1,5 +1,12 @@
 ---
 title: "Roscommon"
-redirect: "/variants/s7/b32do6o5do6dg19o3dg5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Roscommon](/variants/s7/b32do6o5do6dg19o3dg5~x2/).
+This is the **Roscommon** sett — one scale-free proportion (`b32do6o5do6dg19o3dg5`), colour order pattern
+[BBRBGRG](/stripes/bbrbgrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Roscommon](/variants/s7/b32do6o5do6dg19o3dg5~x2/) ★ | ~2016 | ![Roscommon sett](/variants/s7/b32do6o5do6dg19o3dg5~x2/sett.png) |

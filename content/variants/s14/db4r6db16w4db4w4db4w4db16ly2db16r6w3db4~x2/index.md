@@ -1,14 +1,16 @@
 ---
 title: "Parker (USA)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Parker (USA)"
-  url: ""
+  url: "/setts/db4r6db16w4db4w4db4w4db16ly2db16r6w3db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4r6db16w4db4w4db4w4db16ly2db16r6w3db4/)
-(the same proportion at any scale), whose colour order is pattern [BRBWBWBWBYBRWB](/stripes/brbwbwbwbybrwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4r6db16w4db4w4db4w4db16ly2db16r6w3db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBWBWBWBYBRWB](/stripes/brbwbwbwbybrwb/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="314.5" cy="187.8" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="181.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s26/r6db16w4db4w4db4w4db16y2db16r6w3db4w3r6db16y2db16w4db4w4db4w4db16r6db4~x2/"><circle cx="295.1" cy="159.8" r="4" fill="#3465a4"><title>Parker Personal Tartan</title></circle></a><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><circle cx="365.8" cy="197.5" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/variants/s13/db24r2db8y5db4w5db4y5db4w5db8r2db24~x2/"><circle cx="411.1" cy="160.7" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s13/db29r2db10y5db4w5db4y5db4w5db10r2db29~x2/"><circle cx="449.9" cy="148.1" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/"><circle cx="313.1" cy="144.4" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="391.0" cy="176.8" r="4" fill="#3465a4"><title>Eidart</title></circle></a><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/"><circle cx="286.0" cy="154.7" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><circle cx="320.2" cy="184.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="314.5" cy="187.7" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.9" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.4" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s26/r6db16w4db4w4db4w4db16y2db16r6w3db4w3r6db16y2db16w4db4w4db4w4db16r6db4~x2/"><circle cx="295.1" cy="159.7" r="4" fill="#3465a4"><title>Parker Personal Tartan</title></circle></a><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><circle cx="365.8" cy="197.4" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/variants/s13/db24r2db8y5db4w5db4y5db4w5db8r2db24~x2/"><circle cx="411.1" cy="160.6" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s13/db29r2db10y5db4w5db4y5db4w5db10r2db29~x2/"><circle cx="449.9" cy="147.9" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/"><circle cx="313.1" cy="144.2" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="391.1" cy="176.7" r="4" fill="#3465a4"><title>Eidart</title></circle></a><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/"><circle cx="286.0" cy="154.6" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><circle cx="320.2" cy="184.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db4r6db16w4db4w4db4w4db16ly2db16r6w3db4~x2/

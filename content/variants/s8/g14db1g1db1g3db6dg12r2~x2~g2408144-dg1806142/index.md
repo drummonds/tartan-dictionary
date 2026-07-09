@@ -1,14 +1,16 @@
 ---
 title: "Cranstoun Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cranstoun Clan Tartan"
-  url: ""
+  url: "/setts/g14db1g1db1g3db6dg12r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14db1g1db1g3db6dg12r2/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBGR](/stripes/gbgbgbgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g14db1g1db1g3db6dg12r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBGR](/stripes/gbgbgbgr/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1842 References: The Setts No: 35. W & A K Johnston, 1906. 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1842 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/"><circle cx="272.1" cy="218.5" r="4" fill="#3465a4"><title>Valley of the Green (The ) Canadian Tartan</title></circle></a><a href="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/"><circle cx="332.2" cy="242.3" r="4" fill="#3465a4"><title>Valley of the Green</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.6" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.3" cy="230.3" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s8/dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144/"><circle cx="259.6" cy="239.3" r="4" fill="#3465a4"><title>Cranston</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.2" cy="217.0" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/"><circle cx="304.9" cy="183.7" r="4" fill="#3465a4"><title>MacNaughton Htg</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="363.5" cy="194.3" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.2" cy="188.7" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><circle cx="287.4" cy="202.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.2" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/"><circle cx="272.2" cy="218.5" r="4" fill="#3465a4"><title>Valley of the Green (The ) Canadian Tartan</title></circle></a><a href="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/"><circle cx="332.2" cy="242.2" r="4" fill="#3465a4"><title>Valley of the Green</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.3" cy="192.6" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.4" cy="230.2" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s8/dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144/"><circle cx="259.7" cy="239.3" r="4" fill="#3465a4"><title>Cranston</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.3" cy="217.0" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/"><circle cx="304.9" cy="183.6" r="4" fill="#3465a4"><title>MacNaughton Htg</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="363.5" cy="194.2" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.2" cy="188.7" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><circle cx="287.4" cy="202.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/

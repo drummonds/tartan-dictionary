@@ -1,5 +1,12 @@
 ---
 title: "Héritage Séquane"
-redirect: "/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Héritage Séquane](/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/).
+This is the **Héritage Séquane** sett — one scale-free proportion (`db5r2y7r2db42g28k5db10k15g5w3r3`), colour order pattern
+[BRGRBGKBKGWR](/stripes/brgrbgkbkgwr/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Héritage Séquane](/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/) ★ | 2012 | ![Héritage Séquane sett](/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Philadelphia Police and Fire P&D"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Philadelphia Police and Fire P&D"
-  url: ""
+  url: "/setts/db9y4db4lb41db4r4lb4r15lb4r4db41y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9y4db4lb41db4r4lb4r15lb4r4db41y4/)
-(the same proportion at any scale), whose colour order is pattern [BGBWBRWRWRBG](/stripes/bgbwbrwrwrbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db9y4db4lb41db4r4lb4r15lb4r4db41y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWBRWRWRBG](/stripes/bgbwbrwrwrbg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41w4~x2/"><circle cx="208.1" cy="144.0" r="4" fill="#3465a4"><title>Philadelphia Police and Fire Pipes and Drums</title></circle></a><a href="/variants/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/"><circle cx="184.5" cy="173.7" r="4" fill="#3465a4"><title>Mearns Castle High School</title></circle></a><a href="/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/"><circle cx="264.1" cy="139.7" r="4" fill="#3465a4"><title>Largs (1981) (District)</title></circle></a><a href="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/"><circle cx="214.7" cy="156.4" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/"><circle cx="174.0" cy="150.2" r="4" fill="#3465a4"><title>Callum Scotch House Trade Tartan</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.9" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="150.0" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/"><circle cx="213.5" cy="158.5" r="4" fill="#3465a4"><title>Grampian Trade Tartan</title></circle></a><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/"><circle cx="273.1" cy="131.3" r="4" fill="#3465a4"><title>Caleys Windsor (Corporate)</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.3" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><circle cx="227.2" cy="157.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41w4~x2/"><circle cx="208.1" cy="143.8" r="4" fill="#3465a4"><title>Philadelphia Police and Fire Pipes and Drums</title></circle></a><a href="/variants/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/"><circle cx="184.5" cy="173.6" r="4" fill="#3465a4"><title>Mearns Castle High School</title></circle></a><a href="/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/"><circle cx="264.1" cy="139.6" r="4" fill="#3465a4"><title>Largs (1981) (District)</title></circle></a><a href="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/"><circle cx="214.8" cy="156.3" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/"><circle cx="174.1" cy="150.1" r="4" fill="#3465a4"><title>Callum Scotch House Trade Tartan</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.8" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="149.9" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/"><circle cx="213.5" cy="158.4" r="4" fill="#3465a4"><title>Grampian Trade Tartan</title></circle></a><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/"><circle cx="273.1" cy="131.2" r="4" fill="#3465a4"><title>Caleys Windsor (Corporate)</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.2" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><circle cx="227.2" cy="157.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41y4~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Porcupine"
-redirect: "/variants/s11/n1r1n3o1n1do8y7g1n1lb1w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Porcupine](/variants/s11/n1r1n3o1n1do8y7g1n1lb1w1~x2/).
+This is the **Porcupine** sett — one scale-free proportion (`n1r1n3o1n1do8y7g1n1lb1w1`), colour order pattern
+[BRBRBBGGBWW](/stripes/brbrbbggbww/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Porcupine](/variants/s11/n1r1n3o1n1do8y7g1n1lb1w1~x2/) ★ | ~2016 | ![Porcupine sett](/variants/s11/n1r1n3o1n1do8y7g1n1lb1w1~x2/sett.png) |

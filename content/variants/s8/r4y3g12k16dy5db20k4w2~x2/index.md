@@ -1,14 +1,16 @@
 ---
 title: "Iowa"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Iowa"
-  url: ""
+  url: "/setts/r4y3g12k16dy5db20k4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4y3g12k16dy5db20k4w2/)
-(the same proportion at any scale), whose colour order is pattern [GGKGBKWKBGKGGR](/stripes/ggkgbkwkbgkggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4y3g12k16dy5db20k4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKGBKWKBGKGGR](/stripes/ggkgbkwkbgkggr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><circle cx="56.1" cy="136.7" r="4" fill="#3465a4"><title>Iowa American District Tartan</title></circle></a><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/"><circle cx="48.3" cy="141.1" r="4" fill="#3465a4"><title>Iowa Dress</title></circle></a><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/"><circle cx="69.6" cy="123.4" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="120.0" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/"><circle cx="80.9" cy="142.8" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/"><circle cx="84.5" cy="153.6" r="4" fill="#3465a4"><title>Wisconsin (US State)</title></circle></a><a href="/variants/s13/db1k5db9r3db9k10w1k10g6r3g6k4g1~x2/"><circle cx="47.4" cy="159.5" r="4" fill="#3465a4"><title>Redgate (Connecticut) #2</title></circle></a><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><circle cx="17.2" cy="142.9" r="4" fill="#3465a4"><title>Abel (2015)</title></circle></a><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/"><circle cx="64.7" cy="148.8" r="4" fill="#3465a4"><title>Redgate in Connecticut (Ulster-Scots)</title></circle></a><a href="/variants/s11/db6k2t2db8k18lo2dg20db8t3k10lb6~x2~t1903246-dg1806142/"><circle cx="94.5" cy="155.6" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><circle cx="56.1" cy="136.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><circle cx="56.1" cy="136.5" r="4" fill="#3465a4"><title>Iowa American District Tartan</title></circle></a><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/"><circle cx="48.3" cy="141.0" r="4" fill="#3465a4"><title>Iowa Dress</title></circle></a><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/"><circle cx="69.6" cy="123.3" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="119.9" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/"><circle cx="81.0" cy="142.7" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/"><circle cx="84.5" cy="153.5" r="4" fill="#3465a4"><title>Wisconsin (US State)</title></circle></a><a href="/variants/s13/db1k5db9r3db9k10w1k10g6r3g6k4g1~x2/"><circle cx="47.5" cy="159.4" r="4" fill="#3465a4"><title>Redgate (Connecticut) #2</title></circle></a><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><circle cx="17.2" cy="142.8" r="4" fill="#3465a4"><title>Abel (2015)</title></circle></a><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/"><circle cx="64.7" cy="148.7" r="4" fill="#3465a4"><title>Redgate in Connecticut (Ulster-Scots)</title></circle></a><a href="/variants/s11/db6k2t2db8k18lo2dg20db8t3k10lb6~x2~t1903246-dg1806142/"><circle cx="94.5" cy="155.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><circle cx="56.1" cy="136.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r4y3g12k16dy5db20k4w2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Unnamed C20th - National Archives"
-redirect: "/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unnamed C20th - National Archives](/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/).
+This is the **Unnamed C20th - National Archives** sett — one scale-free proportion (`lb8k1r22ly1r6k3dg10w1k3lb20w1`), colour order pattern
+[WKRYRKGWKWW](/stripes/wkryrkgwkww/). It is recorded as a single **variant**, below.
+First attested **~2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unnamed C20th - National Archives](/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/) ★ | ~2014 | ![Unnamed C20th - National Archives sett](/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/sett.png) |

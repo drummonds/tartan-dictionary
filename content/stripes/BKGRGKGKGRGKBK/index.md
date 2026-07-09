@@ -32,8 +32,8 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><img src="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/">Gillies</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><img src="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/">MacClellan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><img src="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/sett.png" alt="MacClellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/">MacClellan Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><img src="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/sett.png" alt="MacClellan Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/">MacLellan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/"><img src="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/sett.png" alt="MacLellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/">MacLellan Clan Tartan</a></td></tr>

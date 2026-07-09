@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/dg7db1dg1k4dp4k1~x4/">MacArthur of Milton Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><img src="/variants/s6/dg7db1dg1k4dp4k1~x4/sett.png" alt="MacArthur of Milton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g14db2g2k8dp9k2~x2/">MacArthur of Milton, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><img src="/variants/s6/g14db2g2k8dp9k2~x2/sett.png" alt="MacArthur of Milton, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g14db2g2k8dp9k2~x2/">MacArthur of Milton Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><img src="/variants/s6/g14db2g2k8dp9k2~x2/sett.png" alt="MacArthur of Milton Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

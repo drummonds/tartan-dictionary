@@ -15,7 +15,7 @@ The **Elphinstone** tartan groups 2 setts — the same named design recorded as 
 <tbody>
 <tr><td><a href="/setts/g12dp3g1/">Elphinstone</a> ★</td><td><code>G/24 DP6 G2 DP/6</code></td><td>38</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g12dp3g1/"><img src="/variants/s3/g12dp3g1~x2/sett.png" alt="Elphinstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g28dp10g3/">Clan Tartan</a></td><td><code>G/56 DP20 G6 DP/20</code></td><td>102</td><td>—</td></tr>
+<tr><td><a href="/setts/g28dp10g3/">Clan Tartan</a></td><td><code>G/56 DP20 G6 DP/20</code></td><td>102</td><td>1842</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g28dp10g3/"><img src="/variants/s3/g28dp10g3~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

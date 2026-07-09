@@ -1,5 +1,12 @@
 ---
 title: "Orkney Slate"
-redirect: "/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Orkney Slate](/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/).
+This is the **Orkney Slate** sett — one scale-free proportion (`dt8y74k8dt42y11k2y16dt4`), colour order pattern
+[BGKBGKGB](/stripes/bgkbgkgb/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Orkney Slate](/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/) ★ | 2011 | ![Orkney Slate sett](/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/sett.png) |

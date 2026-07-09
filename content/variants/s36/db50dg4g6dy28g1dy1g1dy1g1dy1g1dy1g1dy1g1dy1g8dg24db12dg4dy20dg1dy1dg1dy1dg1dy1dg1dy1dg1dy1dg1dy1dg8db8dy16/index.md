@@ -1,16 +1,18 @@
 ---
 title: "Nova Scotia #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Nova Scotia"
   url: "/tartans/nova-scotia/"
 - name: "Nova Scotia #2"
-  url: ""
+  url: "/setts/db50dg4g6dy28g1dy1g1dy1g1dy1g1dy1g1dy1g1dy1g8dg24db12dg4dy20dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg8db8dy16/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db50dg4g6dy28g1dy1g1dy1g1dy1g1dy1g1dy1g1dy1g8dg24db12dg4dy20dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg8db8dy16/)
-(the same proportion at any scale), whose colour order is pattern [BGGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGGGBG](/stripes/bgggggggggggggggggbgggggggggggggggbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db50dg4g6dy28g1dy1g1dy1g1dy1g1dy1g1dy1g1dy1g8dg24db12dg4dy20dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg8db8dy16/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGGGBG](/stripes/bgggggggggggggggggbgggggggggggggggbg/).
 
 Part of the [Nova Scotia](/tartans/nova-scotia/) tartan — the named design grouping this sett with its other cloths.
 

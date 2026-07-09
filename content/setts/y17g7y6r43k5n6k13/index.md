@@ -1,5 +1,12 @@
 ---
 title: "Keeling"
-redirect: "/variants/s7/y17g7y6r43k5n6k13~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Keeling](/variants/s7/y17g7y6r43k5n6k13~x2/).
+This is the **Keeling** sett — one scale-free proportion (`y17g7y6r43k5n6k13`), colour order pattern
+[GGGRKBK](/stripes/gggrkbk/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Keeling](/variants/s7/y17g7y6r43k5n6k13~x2/) ★ | 2009 | ![Keeling sett](/variants/s7/y17g7y6r43k5n6k13~x2/sett.png) |

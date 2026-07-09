@@ -1,14 +1,16 @@
 ---
 title: "Melrose of Alabama"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Melrose of Alabama"
-  url: ""
+  url: "/setts/k3db3r1db3k3g3y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3db3r1db3k3g3y1/)
-(the same proportion at any scale), whose colour order is pattern [GGKBRBK](/stripes/ggkbrbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3db3r1db3k3g3y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKBRBK](/stripes/ggkbrbk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3ki3r1ki3k3b3y1~x8~ki0604259/"><circle cx="62.0" cy="271.1" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/variants/s8/k12db12r4db12k12db11g12y4~x2/"><circle cx="96.2" cy="274.8" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><circle cx="52.3" cy="241.0" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/variants/s5/k1g3k3db3r1~x4/"><circle cx="86.0" cy="287.6" r="4" fill="#3465a4"><title>Durham District Tartan</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s5/k2g8k7db8r2~x2/"><circle cx="95.4" cy="269.4" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/variants/s5/k5g20k18db20r5~x2/"><circle cx="97.0" cy="269.1" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db1406275/"><circle cx="116.3" cy="229.0" r="4" fill="#3465a4"><title>Forbo Nairn Corporate Tartan</title></circle></a><a href="/variants/s5/k4g8k7db8r4~x2/"><circle cx="47.3" cy="324.7" r="4" fill="#3465a4"><title>Durham</title></circle></a><circle cx="59.5" cy="275.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3ki3r1ki3k3b3y1~x8~ki0604259/"><circle cx="62.0" cy="271.0" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/variants/s8/k12db12r4db12k12db11g12y4~x2/"><circle cx="96.2" cy="274.7" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><circle cx="52.3" cy="240.9" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/variants/s5/k1g3k3db3r1~x4/"><circle cx="86.0" cy="287.6" r="4" fill="#3465a4"><title>Durham District Tartan</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="227.5" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="227.5" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s5/k2g8k7db8r2~x2/"><circle cx="95.4" cy="269.4" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/variants/s5/k5g20k18db20r5~x2/"><circle cx="97.0" cy="269.1" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db1406275/"><circle cx="116.3" cy="229.0" r="4" fill="#3465a4"><title>Forbo Nairn Corporate Tartan</title></circle></a><a href="/variants/s5/k4g8k7db8r4~x2/"><circle cx="47.3" cy="324.7" r="4" fill="#3465a4"><title>Durham</title></circle></a><circle cx="59.5" cy="275.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k3db3r1db3k3g3y1~x8/

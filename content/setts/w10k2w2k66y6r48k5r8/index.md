@@ -1,5 +1,12 @@
 ---
 title: "Sutherland de Albergaria (Personal)"
-redirect: "/variants/s8/w10k2w2k66y6r48k5r8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sutherland de Albergaria (Personal)](/variants/s8/w10k2w2k66y6r48k5r8/).
+This is the **Sutherland de Albergaria (Personal)** sett — one scale-free proportion (`w10k2w2k66y6r48k5r8`), colour order pattern
+[KWKGRKRKRGKWKW](/stripes/kwkgrkrkrgkwkw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Sutherland de Albergaria (Personal)](/variants/s8/w10k2w2k66y6r48k5r8/) ★ | 2004 | ![Sutherland de Albergaria (Personal) sett](/variants/s8/w10k2w2k66y6r48k5r8/sett.png) |

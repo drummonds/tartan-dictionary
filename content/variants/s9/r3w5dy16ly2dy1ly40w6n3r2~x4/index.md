@@ -1,16 +1,18 @@
 ---
 title: "Bell's Whisky (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bell's Whisky"
   url: "/tartans/bell-s-whisky/"
 - name: "Bell's Whisky (Corporate)"
-  url: ""
+  url: "/setts/r3w5dy16ly2dy1ly40w6n3r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3w5dy16ly2dy1ly40w6n3r2/)
-(the same proportion at any scale), whose colour order is pattern [RBWYGYGWR](/stripes/rbwygygwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3w5dy16ly2dy1ly40w6n3r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBWYGYGWR](/stripes/rbwygygwr/).
 
 Part of the [Bell's Whisky](/tartans/bell-s-whisky/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="323.2" cy="94.0" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><a href="/variants/s8/ly50k1dr12lb1g12dr14lb1dr2~x4/"><circle cx="310.5" cy="80.3" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="268.1" cy="138.8" r="4" fill="#3465a4"><title>Comrie, Gold (Dance)</title></circle></a><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><circle cx="346.0" cy="134.3" r="4" fill="#3465a4"><title>Sutherland de Albergaria Dress (Personal)</title></circle></a><a href="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/"><circle cx="278.9" cy="72.1" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/variants/s9/ly62dr12g1dgi4dg2dgi4g1dr12dg12~x2~g2408144-dgi1806142/"><circle cx="353.0" cy="91.4" r="4" fill="#3465a4"><title>Roast Den, The</title></circle></a><a href="/variants/s10/ly36k3r6k3dy10r5dy3y4k1ly2~x2/"><circle cx="250.9" cy="70.3" r="4" fill="#3465a4"><title>Mead (Tennessee) Hunting (Personal)</title></circle></a><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><circle cx="294.3" cy="73.4" r="4" fill="#3465a4"><title>Canna</title></circle></a><a href="/variants/s7/r4ly27dy9w2t2dy2t4~x3/"><circle cx="301.1" cy="137.9" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><circle cx="204.8" cy="65.7" r="4" fill="#3465a4"><title>MacGill of Jura (Clan?)</title></circle></a><circle cx="306.1" cy="91.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="323.2" cy="93.8" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><a href="/variants/s8/ly50k1dr12lb1g12dr14lb1dr2~x4/"><circle cx="310.5" cy="80.2" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="268.1" cy="138.7" r="4" fill="#3465a4"><title>Comrie, Gold (Dance)</title></circle></a><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><circle cx="346.0" cy="134.2" r="4" fill="#3465a4"><title>Sutherland de Albergaria Dress (Personal)</title></circle></a><a href="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/"><circle cx="278.9" cy="72.0" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/variants/s9/ly62dr12g1dgi4dg2dgi4g1dr12dg12~x2~g2408144-dgi1806142/"><circle cx="353.0" cy="91.2" r="4" fill="#3465a4"><title>Roast Den, The</title></circle></a><a href="/variants/s10/ly36k3r6k3dy10r5dy3y4k1ly2~x2/"><circle cx="250.9" cy="70.2" r="4" fill="#3465a4"><title>Mead (Tennessee) Hunting (Personal)</title></circle></a><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><circle cx="294.3" cy="73.3" r="4" fill="#3465a4"><title>Canna</title></circle></a><a href="/variants/s7/r4ly27dy9w2t2dy2t4~x3/"><circle cx="301.1" cy="137.8" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><circle cx="204.8" cy="65.6" r="4" fill="#3465a4"><title>MacGill of Jura (Clan?)</title></circle></a><circle cx="306.1" cy="91.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/

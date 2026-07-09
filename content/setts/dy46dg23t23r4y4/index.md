@@ -1,5 +1,12 @@
 ---
 title: "McMoosie Htg (Fashion)"
-redirect: "/variants/s5/dy46dg23t23r4y4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McMoosie Htg (Fashion)](/variants/s5/dy46dg23t23r4y4~x2/).
+This is the **McMoosie Htg (Fashion)** sett — one scale-free proportion (`dy46dg23t23r4y4`), colour order pattern
+[GGBRG](/stripes/ggbrg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McMoosie Htg (Fashion)](/variants/s5/dy46dg23t23r4y4~x2/) ★ | 2002 | ![McMoosie Htg (Fashion) sett](/variants/s5/dy46dg23t23r4y4~x2/sett.png) |

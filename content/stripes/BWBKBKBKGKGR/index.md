@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/">Urquhart</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/"><img src="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db4w2db24k3db3k3db8k24g48k3g3r2/">Urquhart, White Line</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db4w2db24k3db3k3db8k24g48k3g3r2/"><img src="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/sett.png" alt="Urquhart, White Line sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db4w2db24k3db3k3db8k24g48k3g3r2/">Urquhart (White Line)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db4w2db24k3db3k3db8k24g48k3g3r2/"><img src="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/sett.png" alt="Urquhart (White Line) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

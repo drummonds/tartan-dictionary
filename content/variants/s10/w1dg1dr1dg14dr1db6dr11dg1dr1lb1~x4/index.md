@@ -1,6 +1,7 @@
 ---
 title: "Glen Tilt #1 (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Glen Tilt"
   url: "/tartans/glen-tilt/"
 - name: "Glen Tilt #1 (District)"
-  url: ""
+  url: "/setts/w1dg1dr1dg14dr1db6dr11dg1dr1lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1dg1dr1dg14dr1db6dr11dg1dr1lb1/)
-(the same proportion at any scale), whose colour order is pattern [WBGBBBGBGW](/stripes/wbgbbbgbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w1dg1dr1dg14dr1db6dr11dg1dr1lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGBBBGBGW](/stripes/wbgbbbgbgw/).
 
 Part of the [Glen Tilt](/tartans/glen-tilt/) tartan — the named design grouping this sett with its other cloths.
 
@@ -81,6 +83,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/"><circle cx="345.4" cy="181.5" r="4" fill="#3465a4"><title>Michael from Appin (Personal)</title></circle></a><a href="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/"><circle cx="376.0" cy="196.5" r="4" fill="#3465a4"><title>Waddell (Fife), Greg</title></circle></a><a href="/variants/s8/dr3dy15g4db6w2dr30db6y3~x2/"><circle cx="320.6" cy="179.9" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.5" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.3" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s8/g7ly2g5dg37db6dr16db5t2~x2/"><circle cx="312.9" cy="173.4" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><a href="/variants/s13/dr3r1db1dr1dg13dr3db4lb1dr16dg2dr2r1dg3~x2/"><circle cx="388.7" cy="165.3" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/"><circle cx="292.7" cy="163.6" r="4" fill="#3465a4"><title>Robbie (Stirling) (Personal)</title></circle></a><a href="/variants/s13/db4dr4dbi44w6dbi5dy4dbi3dy8dbi3dy16db4dr22w4~db1106275-dbi1204274/"><circle cx="278.1" cy="160.2" r="4" fill="#3465a4"><title>Largs District Tartan</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.1" cy="209.4" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><circle cx="331.1" cy="181.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/"><circle cx="345.4" cy="181.4" r="4" fill="#3465a4"><title>Michael from Appin (Personal)</title></circle></a><a href="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/"><circle cx="376.0" cy="196.4" r="4" fill="#3465a4"><title>Waddell (Fife), Greg</title></circle></a><a href="/variants/s8/dr3dy15g4db6w2dr30db6y3~x2/"><circle cx="320.6" cy="179.8" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.4" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.2" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s8/g7ly2g5dg37db6dr16db5t2~x2/"><circle cx="313.0" cy="173.3" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><a href="/variants/s13/dr3r1db1dr1dg13dr3db4lb1dr16dg2dr2r1dg3~x2/"><circle cx="388.7" cy="165.2" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/"><circle cx="292.7" cy="163.5" r="4" fill="#3465a4"><title>Robbie (Stirling) (Personal)</title></circle></a><a href="/variants/s13/db4dr4dbi44w6dbi5dy4dbi3dy8dbi3dy16db4dr22w4~db1106275-dbi1204274/"><circle cx="278.1" cy="160.1" r="4" fill="#3465a4"><title>Largs District Tartan</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.1" cy="209.3" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><circle cx="331.2" cy="180.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w1dg1dr1dg14dr1db6dr11dg1dr1lb1~x4/

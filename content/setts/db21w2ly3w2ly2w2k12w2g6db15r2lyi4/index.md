@@ -1,5 +1,12 @@
 ---
 title: "Robitaille, Jean-Francois (Personal)"
-redirect: "/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Robitaille, Jean-Francois (Personal)](/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/).
+This is the **Robitaille, Jean-Francois (Personal)** sett — one scale-free proportion (`db21w2ly3w2ly2w2k12w2g6db15r2lyi4`), colour order pattern
+[BWYWYWKWGBRY](/stripes/bwywywkwgbry/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Robitaille, Jean-Francois (Personal)](/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/) ★ | 2012 | ![Robitaille, Jean-Francois (Personal) sett](/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "MacDougall - 1970 (William) (Comm)"
-redirect: "/variants/s11/r5dt5r5dt5r5dt14k16dti14r3k3dy3~x2~dt0900000-dti1102249/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDougall - 1970 (William) (Comm)](/variants/s11/r5dt5r5dt5r5dt14k16dti14r3k3dy3~x2~dt0900000-dti1102249/).
+This is the **MacDougall - 1970 (William) (Comm)** sett — one scale-free proportion (`r5dt5r5dt5r5dt14k16dti14r3k3dy3`), colour order pattern
+[GKRBKBRBRBR](/stripes/gkrbkbrbrbr/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDougall - 1970 (William) (Comm)](/variants/s11/r5dt5r5dt5r5dt14k16dti14r3k3dy3~x2~dt0900000-dti1102249/) ★ | ~2002 | ![MacDougall - 1970 (William) (Comm) sett](/variants/s11/r5dt5r5dt5r5dt14k16dti14r3k3dy3~x2~dt0900000-dti1102249/sett.png) |

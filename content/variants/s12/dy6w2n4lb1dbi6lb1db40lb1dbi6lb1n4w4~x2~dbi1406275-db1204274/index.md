@@ -1,16 +1,18 @@
 ---
 title: "Moskyok-Collins (Portland) (Personal"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Moskyok-Collins"
   url: "/tartans/moskyok-collins/"
 - name: "Moskyok-Collins (Portland) (Personal"
-  url: ""
+  url: "/setts/dy6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4/)
-(the same proportion at any scale), whose colour order is pattern [GWBWBWBWBWBW](/stripes/gwbwbwbwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWBWBWBWBWBW](/stripes/gwbwbwbwbwbw/).
 
 Part of the [Moskyok-Collins](/tartans/moskyok-collins/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/"><circle cx="334.1" cy="95.5" r="4" fill="#3465a4"><title>Brighton Mac Dermotte</title></circle></a><a href="/variants/s12/y6w2n4lb1dt6lb1t40lb1dt6lb1n4w4~x2~dt1102249-t2105244/"><circle cx="356.6" cy="96.6" r="4" fill="#3465a4"><title>Moskyok-Collins (Personal)</title></circle></a><a href="/variants/s12/db54ly9db16ly2dp3w3dp3dr27db13ly3g5w2~x2/"><circle cx="339.8" cy="107.8" r="4" fill="#3465a4"><title>Queen's University Ont. (Corporate)</title></circle></a><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/"><circle cx="347.0" cy="102.7" r="4" fill="#3465a4"><title>State Seal of New York (Fashion)</title></circle></a><a href="/variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/"><circle cx="336.6" cy="119.0" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.4" cy="87.1" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><circle cx="336.4" cy="119.2" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.1" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="388.9" cy="122.4" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><a href="/variants/s12/db68lb4dr10y2dr3w3dr3g11db8dr3db3w3~x2/"><circle cx="407.1" cy="76.2" r="4" fill="#3465a4"><title>Shaughnessy (Fashion)</title></circle></a><circle cx="341.8" cy="85.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/"><circle cx="334.1" cy="95.4" r="4" fill="#3465a4"><title>Brighton Mac Dermotte</title></circle></a><a href="/variants/s12/y6w2n4lb1dt6lb1t40lb1dt6lb1n4w4~x2~dt1102249-t2105244/"><circle cx="356.6" cy="96.5" r="4" fill="#3465a4"><title>Moskyok-Collins (Personal)</title></circle></a><a href="/variants/s12/db54ly9db16ly2dp3w3dp3dr27db13ly3g5w2~x2/"><circle cx="339.8" cy="107.7" r="4" fill="#3465a4"><title>Queen's University Ont. (Corporate)</title></circle></a><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/"><circle cx="347.1" cy="102.5" r="4" fill="#3465a4"><title>State Seal of New York (Fashion)</title></circle></a><a href="/variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/"><circle cx="336.7" cy="118.8" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.4" cy="86.9" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><circle cx="336.4" cy="119.1" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.0" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="388.9" cy="122.2" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><a href="/variants/s12/db68lb4dr10y2dr3w3dr3g11db8dr3db3w3~x2/"><circle cx="407.2" cy="76.0" r="4" fill="#3465a4"><title>Shaughnessy (Fashion)</title></circle></a><circle cx="341.8" cy="85.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dy6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4~x2~dbi1406275-db1204274/

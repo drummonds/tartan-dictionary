@@ -1,5 +1,12 @@
 ---
 title: "Grotto Dove (Dance)"
-redirect: "/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Grotto Dove (Dance)](/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/).
+This is the **Grotto Dove (Dance)** sett — one scale-free proportion (`w102dp20w4dp4w4dp4dg20r18dp3r10w4`), colour order pattern
+[WBWBWBGRBRW](/stripes/wbwbwbgrbrw/). It is recorded as a single **variant**, below.
+First attested **1991**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Grotto Dove (Dance)](/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/) ★ | 1991 | ![Grotto Dove (Dance) sett](/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/sett.png) |

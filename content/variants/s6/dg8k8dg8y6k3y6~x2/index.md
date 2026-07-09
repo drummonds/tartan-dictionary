@@ -1,14 +1,16 @@
 ---
 title: "Hage-West (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hage-West (Personal)"
-  url: ""
+  url: "/setts/dg8k8dg8y6k3y6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg8k8dg8y6k3y6/)
-(the same proportion at any scale), whose colour order is pattern [GKGGKG](/stripes/gkggkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg8k8dg8y6k3y6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGGKG](/stripes/gkggkg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3k3dr3g6k2~x2/"><circle cx="124.6" cy="313.4" r="4" fill="#3465a4"><title>Austin WI</title></circle></a><a href="/variants/s5/dr3k3dr3g6k2/"><circle cx="124.6" cy="313.4" r="4" fill="#3465a4"><title>Austin WI</title></circle></a><a href="/variants/s5/k5g8ly5g3ly5~x4/"><circle cx="116.5" cy="331.2" r="4" fill="#3465a4"><title>Angle Dress (Fashion)</title></circle></a><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><circle cx="184.6" cy="266.0" r="4" fill="#3465a4"><title>Brown Watch (single tramlines)</title></circle></a><a href="/variants/s5/k5g14k16db12g4~x2/"><circle cx="149.6" cy="289.5" r="4" fill="#3465a4"><title>Unidentified #29</title></circle></a><a href="/variants/s5/dy4g7k4g7db4~x2/"><circle cx="142.3" cy="342.5" r="4" fill="#3465a4"><title>Daks (House)</title></circle></a><a href="/variants/s5/db4g7k4g7y4~x2/"><circle cx="141.6" cy="343.0" r="4" fill="#3465a4"><title>DAKS House (C.6700.040)</title></circle></a><a href="/variants/s5/dp3k3dp3g6y2~x2/"><circle cx="100.5" cy="303.4" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.8" cy="255.3" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"><circle cx="121.8" cy="285.3" r="4" fill="#3465a4"><title>Norwich No.064</title></circle></a><circle cx="134.8" cy="334.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3k3dr3g6k2~x2/"><circle cx="124.6" cy="313.4" r="4" fill="#3465a4"><title>Austin WI</title></circle></a><a href="/variants/s5/dr3k3dr3g6k2/"><circle cx="124.6" cy="313.4" r="4" fill="#3465a4"><title>Austin WI</title></circle></a><a href="/variants/s5/k5g8ly5g3ly5~x4/"><circle cx="116.5" cy="331.3" r="4" fill="#3465a4"><title>Angle Dress (Fashion)</title></circle></a><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><circle cx="184.7" cy="266.0" r="4" fill="#3465a4"><title>Brown Watch (single tramlines)</title></circle></a><a href="/variants/s5/k5g14k16db12g4~x2/"><circle cx="149.6" cy="289.5" r="4" fill="#3465a4"><title>Unidentified #29</title></circle></a><a href="/variants/s5/dy4g7k4g7db4~x2/"><circle cx="142.4" cy="342.5" r="4" fill="#3465a4"><title>Daks (House)</title></circle></a><a href="/variants/s5/db4g7k4g7y4~x2/"><circle cx="141.6" cy="343.0" r="4" fill="#3465a4"><title>DAKS House (C.6700.040)</title></circle></a><a href="/variants/s5/dp3k3dp3g6y2~x2/"><circle cx="100.5" cy="303.4" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.8" cy="255.3" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"><circle cx="121.8" cy="285.3" r="4" fill="#3465a4"><title>Norwich No.064</title></circle></a><circle cx="134.8" cy="334.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dg8k8dg8y6k3y6~x2/

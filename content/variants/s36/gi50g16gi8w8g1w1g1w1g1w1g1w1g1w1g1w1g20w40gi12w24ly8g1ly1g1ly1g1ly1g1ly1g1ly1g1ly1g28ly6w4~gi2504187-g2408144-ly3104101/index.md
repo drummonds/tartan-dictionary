@@ -1,14 +1,16 @@
 ---
 title: "Saskatchewan (CIDD 28105)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Saskatchewan (CIDD 28105)"
-  url: ""
+  url: "/setts/gi50g16gi8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40gi12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/gi50g16gi8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40gi12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/)
-(the same proportion at any scale), whose colour order is pattern [GGGWGWGWGWGWGWGWGWGWYGYGYGYGYGYGYGYW](/stripes/gggwgwgwgwgwgwgwgwgwygygygygygygygyw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/gi50g16gi8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40gi12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGWGWGWGWGWGWGWGWGWYGYGYGYGYGYGYGYW](/stripes/gggwgwgwgwgwgwgwgwgwygygygygygygygyw/).
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 

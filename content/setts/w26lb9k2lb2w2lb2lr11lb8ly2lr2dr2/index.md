@@ -1,5 +1,12 @@
 ---
 title: "Manchester Blues Dress"
-redirect: "/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Manchester Blues Dress](/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2~x2/).
+This is the **Manchester Blues Dress** sett — one scale-free proportion (`w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2`), colour order pattern
+[BYYWYWWWKWW](/stripes/byywywwwkww/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Manchester Blues Dress](/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2~x2/) ★ | 2010 | ![Manchester Blues Dress sett](/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2~x2/sett.png) |

@@ -89,7 +89,7 @@ weight: 23
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Abbotsford](/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/) | weddslist |
+| 0.07 | [Abbotsford Commemorative Tartan](/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/) | house-of-tartan |
 | 0.07 | [Abbotsford Check](/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/) | register-of-tartans |
 
 ### KGKGKGBRBRBRBRBRBGKGKYK
@@ -163,14 +163,14 @@ weight: 23
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Cumming/Comyn/Buchan](/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/) | register-of-tartans |
+| 0.06 | [Cumming Comyn Buchan Clan Tartan](/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/) | house-of-tartan |
 
 ### BKRGRKRGRKBRGRKRKBRKRGR
 <a class="pat" href="/stripes/bkrgrkrgrkbrgrkrkbrkrgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BKRGRKRGRKBRGRKRKBRKRGR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Buchan](/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/) | register-of-tartans |
+| 0.06 | [Buchan Cumming MacIntyre District Tartan](/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/) | house-of-tartan |
 
 ### BKRKBKRGRGRWGRGWRKBKRKB
 <a class="pat" href="/stripes/bkrkbkrgrgrwgrgwrkbkrkb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">BKRKBKRGRGRWGRGWRKBKRKB</span></a>
@@ -373,7 +373,7 @@ weight: 23
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Lasting](/variants/s23/w2dp7w2lb6w2y4w2dp4w2y4w2g19w2dp7w2dp7w2r19w4r3lb2r3w2~x2/) | weddslist |
+| 0.11 | [Lasting Family Tartan](/variants/s23/w2dp7w2lb6w2y4w2dp4w2y4w2g19w2dp7w2dp7w2r19w4r3lb2r3w2~x2/) | house-of-tartan |
 
 ### WKWKWBWGWWWBWGWRWBWKWKW
 <a class="pat" href="/stripes/wkwkwbwgwwwbwgwrwbwkwkw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WKWKWBWGWWWBWGWRWBWKWKW</span></a>

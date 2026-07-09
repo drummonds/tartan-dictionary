@@ -1,16 +1,18 @@
 ---
 title: "Highlands School (N. Carolina) Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Highlands School"
   url: "/tartans/highlands-school/"
 - name: "Highlands School (N. Carolina) Corporate Tartan"
-  url: ""
+  url: "/setts/dy12dbi2dy2dbi30db3dbi2db13w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy12dbi2dy2dbi30db3dbi2db13w4/)
-(the same proportion at any scale), whose colour order is pattern [GBGBBBBW](/stripes/gbgbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy12dbi2dy2dbi30db3dbi2db13w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBBBBW](/stripes/gbgbbbbw/).
 
 Part of the [Highlands School](/tartans/highlands-school/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1990 Highlands in North Carolina is the home of the Scottis
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1990 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/"><circle cx="320.9" cy="189.6" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi1406275-db1004274/"><circle cx="374.0" cy="160.1" r="4" fill="#3465a4"><title>Royal Scottish Corporation</title></circle></a><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><circle cx="330.5" cy="216.5" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s8/db4g5dp3g5db46dp42w4dp4/"><circle cx="368.2" cy="192.2" r="4" fill="#3465a4"><title>Clans of Caledonia</title></circle></a><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/"><circle cx="355.7" cy="179.7" r="4" fill="#3465a4"><title>BABC</title></circle></a><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~x2~db1404245-dbi1406275/"><circle cx="355.7" cy="179.7" r="4" fill="#3465a4"><title>B.A.B.C. (Corporate)</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.4" cy="262.5" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><circle cx="353.6" cy="191.0" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/"><circle cx="325.0" cy="187.7" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.4" cy="214.1" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><circle cx="379.4" cy="210.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/"><circle cx="321.0" cy="189.5" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi1406275-db1004274/"><circle cx="374.0" cy="160.0" r="4" fill="#3465a4"><title>Royal Scottish Corporation</title></circle></a><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><circle cx="330.6" cy="216.4" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s8/db4g5dp3g5db46dp42w4dp4/"><circle cx="368.3" cy="192.1" r="4" fill="#3465a4"><title>Clans of Caledonia</title></circle></a><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/"><circle cx="355.7" cy="179.6" r="4" fill="#3465a4"><title>BABC</title></circle></a><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~x2~db1404245-dbi1406275/"><circle cx="355.7" cy="179.6" r="4" fill="#3465a4"><title>B.A.B.C. (Corporate)</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.4" cy="262.4" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><circle cx="353.7" cy="190.9" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/"><circle cx="325.0" cy="187.6" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.4" cy="214.0" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><circle cx="379.4" cy="210.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dy12dbi2dy2dbi30db3dbi2db13w4~x2~dbi1406275-db1204274/

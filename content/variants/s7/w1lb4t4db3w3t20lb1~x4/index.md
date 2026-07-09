@@ -1,14 +1,16 @@
 ---
 title: "Starr (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Starr"
   url: "/setts/w1lb4t4db3w3t20lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1lb4t4db3w3t20lb1/)
-(the same proportion at any scale), whose colour order is pattern [WBWBBWW](/stripes/wbwbbww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w1lb4t4db3w3t20lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWBBWW](/stripes/wbwbbww/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w1lb4t4db3w3t20lb1~x4~t2205244-db1406275/"><circle cx="471.9" cy="197.6" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.5" cy="247.2" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="581.2" cy="206.9" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/"><circle cx="451.7" cy="230.0" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ American Corporate Tartan</title></circle></a><a href="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/"><circle cx="380.7" cy="205.6" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.4" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/"><circle cx="431.3" cy="145.5" r="4" fill="#3465a4"><title>Fife Flyers (Corporate)</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.8" cy="163.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/db128dr8lb41dt4lb4dt4/"><circle cx="480.9" cy="156.1" r="4" fill="#3465a4"><title>French Freemasons' Pride</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.8" cy="213.9" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><circle cx="470.1" cy="199.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w1lb4t4db3w3t20lb1~x4~t2205244-db1406275/"><circle cx="471.9" cy="197.6" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.5" cy="247.1" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="581.2" cy="206.9" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/"><circle cx="451.7" cy="230.0" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ American Corporate Tartan</title></circle></a><a href="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/"><circle cx="380.7" cy="205.5" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.3" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/"><circle cx="431.3" cy="145.4" r="4" fill="#3465a4"><title>Fife Flyers (Corporate)</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.9" cy="163.5" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/db128dr8lb41dt4lb4dt4/"><circle cx="481.0" cy="156.0" r="4" fill="#3465a4"><title>French Freemasons' Pride</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.8" cy="213.8" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><circle cx="470.2" cy="199.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w1lb4t4db3w3t20lb1~x4/

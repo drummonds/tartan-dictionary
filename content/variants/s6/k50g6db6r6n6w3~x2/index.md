@@ -1,16 +1,18 @@
 ---
 title: "Friends of Nordegg"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Friends of Nordegg"
   url: "/tartans/friends-of-nordegg/"
 - name: "Friends of Nordegg"
-  url: ""
+  url: "/setts/k50g6db6r6n6w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k50g6db6r6n6w3/)
-(the same proportion at any scale), whose colour order is pattern [KGBRBW](/stripes/kgbrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k50g6db6r6n6w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGBRBW](/stripes/kgbrbw/).
 
 Part of the [Friends of Nordegg](/tartans/friends-of-nordegg/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.2" cy="128.2" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.8" cy="89.3" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s5/r2g2k20w1db1~x6/"><circle cx="423.2" cy="109.8" r="4" fill="#3465a4"><title>Fily, Sylvain Roger</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.7" cy="136.9" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.3" cy="95.6" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s6/k75r10g7y3db2w5~x2/"><circle cx="390.6" cy="57.8" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="399.0" cy="55.5" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="387.9" cy="59.4" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.1" cy="82.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><circle cx="298.5" cy="105.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.3" cy="128.1" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.9" cy="89.2" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s5/r2g2k20w1db1~x6/"><circle cx="423.3" cy="109.7" r="4" fill="#3465a4"><title>Fily, Sylvain Roger</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.8" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.5" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.3" cy="95.5" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s6/k75r10g7y3db2w5~x2/"><circle cx="390.7" cy="57.7" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="399.0" cy="55.4" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="388.0" cy="59.3" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.1" cy="82.7" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><circle cx="298.5" cy="105.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k50g6db6r6n6w3~x2/

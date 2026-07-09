@@ -1,5 +1,12 @@
 ---
 title: "Milne-Murtaugh (Personal)"
-redirect: "/variants/s7/r5lb2k30n26y2n2db4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Milne-Murtaugh (Personal)](/variants/s7/r5lb2k30n26y2n2db4~x2/).
+This is the **Milne-Murtaugh (Personal)** sett — one scale-free proportion (`r5lb2k30n26y2n2db4`), colour order pattern
+[BBGBKWR](/stripes/bbgbkwr/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Milne-Murtaugh (Personal)](/variants/s7/r5lb2k30n26y2n2db4~x2/) ★ | 2009 | ![Milne-Murtaugh (Personal) sett](/variants/s7/r5lb2k30n26y2n2db4~x2/sett.png) |

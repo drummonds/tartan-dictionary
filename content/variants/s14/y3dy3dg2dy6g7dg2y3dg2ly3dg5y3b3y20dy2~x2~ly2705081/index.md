@@ -1,14 +1,16 @@
 ---
 title: "Stewart Camel (Lochcarron)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stewart Camel (Lochcarron)"
-  url: ""
+  url: "/setts/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2/)
-(the same proportion at any scale), whose colour order is pattern [GGBGGYGGGGGGGG](/stripes/ggbggygggggggg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGGYGGGGGGGG](/stripes/ggbggygggggggg/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245/"><circle cx="264.6" cy="180.7" r="4" fill="#3465a4"><title>Harmony 2</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4b2y8b2y4g7dg2g2dg16w2dg4~x2~dg1304144-g2104115/"><circle cx="298.6" cy="222.3" r="4" fill="#3465a4"><title>Confessore</title></circle></a><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/"><circle cx="241.3" cy="164.7" r="4" fill="#3465a4"><title>Harmony, 2</title></circle></a><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><circle cx="303.5" cy="205.8" r="4" fill="#3465a4"><title>Roddy's Highland Spirit (Fashion)</title></circle></a><a href="/variants/s18/n2db9y1db4y2db2y4n1y15g1y3g3y2g4y1g7ly1r2~x2/"><circle cx="242.7" cy="142.1" r="4" fill="#3465a4"><title>Norwegian Night (Fashion)</title></circle></a><a href="/variants/s11/g3n16dy11n2ly11n2ly11n2dy11n16w3~x2~dy1502083-ly2806085/"><circle cx="272.1" cy="241.4" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="255.6" cy="151.3" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11lo12/"><circle cx="288.5" cy="205.0" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="290.6" cy="144.8" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/"><circle cx="286.8" cy="192.0" r="4" fill="#3465a4"><title>Portree</title></circle></a><circle cx="284.6" cy="187.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245/"><circle cx="264.6" cy="180.6" r="4" fill="#3465a4"><title>Harmony 2</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4b2y8b2y4g7dg2g2dg16w2dg4~x2~dg1304144-g2104115/"><circle cx="298.6" cy="222.2" r="4" fill="#3465a4"><title>Confessore</title></circle></a><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/"><circle cx="241.3" cy="164.6" r="4" fill="#3465a4"><title>Harmony, 2</title></circle></a><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><circle cx="303.5" cy="205.8" r="4" fill="#3465a4"><title>Roddy's Highland Spirit (Fashion)</title></circle></a><a href="/variants/s18/n2db9y1db4y2db2y4n1y15g1y3g3y2g4y1g7ly1r2~x2/"><circle cx="242.7" cy="142.0" r="4" fill="#3465a4"><title>Norwegian Night (Fashion)</title></circle></a><a href="/variants/s11/g3n16dy11n2ly11n2ly11n2dy11n16w3~x2~dy1502083-ly2806085/"><circle cx="272.1" cy="241.3" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="255.6" cy="151.2" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11lo12/"><circle cx="288.5" cy="204.9" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="290.6" cy="144.7" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/"><circle cx="286.8" cy="191.9" r="4" fill="#3465a4"><title>Portree</title></circle></a><circle cx="284.6" cy="187.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2~x2~ly2705081/

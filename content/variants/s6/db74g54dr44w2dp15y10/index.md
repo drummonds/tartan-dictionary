@@ -1,16 +1,18 @@
 ---
 title: "Palazzo Bloise (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Palazzo Bloise"
   url: "/tartans/palazzo-bloise/"
 - name: "Palazzo Bloise (Personal)"
-  url: ""
+  url: "/setts/db74g54dr44w2dp15y10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db74g54dr44w2dp15y10/)
-(the same proportion at any scale), whose colour order is pattern [BGBWBG](/stripes/bgbwbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db74g54dr44w2dp15y10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWBG](/stripes/bgbwbg/).
 
 Part of the [Palazzo Bloise](/tartans/palazzo-bloise/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db37g27dr22w1dp6ly5~x2/"><circle cx="240.0" cy="165.3" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.7" cy="247.7" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="223.3" cy="149.8" r="4" fill="#3465a4"><title>Lachance (Canada) (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.9" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.2" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.1" cy="166.4" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.9" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.2" cy="117.1" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2/"><circle cx="259.6" cy="117.2" r="4" fill="#3465a4"><title>Young (Clan)</title></circle></a><a href="/variants/s8/db20y1w1ly3g14n4y1dp4~x2/"><circle cx="221.6" cy="139.8" r="4" fill="#3465a4"><title>St. Columba (one green)</title></circle></a><circle cx="250.7" cy="172.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db37g27dr22w1dp6ly5~x2/"><circle cx="240.0" cy="165.2" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.8" cy="247.6" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="223.3" cy="149.7" r="4" fill="#3465a4"><title>Lachance (Canada) (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.8" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.1" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.1" cy="166.3" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.8" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.3" cy="117.0" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2/"><circle cx="259.6" cy="117.1" r="4" fill="#3465a4"><title>Young (Clan)</title></circle></a><a href="/variants/s8/db20y1w1ly3g14n4y1dp4~x2/"><circle cx="221.7" cy="139.6" r="4" fill="#3465a4"><title>St. Columba (one green)</title></circle></a><circle cx="250.7" cy="172.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db74g54dr44w2dp15y10/

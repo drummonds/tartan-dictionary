@@ -1,16 +1,18 @@
 ---
 title: "Capercaillie Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Capercaillie"
   url: "/tartans/capercaillie/"
 - name: "Capercaillie Corporate Tartan"
-  url: ""
+  url: "/setts/n4o3n4o2n4dt8n30k4dt4k36n4r2k4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n4o3n4o2n4dt8n30k4dt4k36n4r2k4w2/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBBBKBKBRKW](/stripes/brbrbbbkbkbrkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n4o3n4o2n4dt8n30k4dt4k36n4r2k4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBBBKBKBRKW](/stripes/brbrbbbkbkbrkw/).
 
 Part of the [Capercaillie](/tartans/capercaillie/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2005 RSPB Scotland will receive a 7% royalty on all product
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/"><circle cx="186.2" cy="105.1" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan</title></circle></a><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/"><circle cx="197.2" cy="111.2" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2/"><circle cx="214.6" cy="85.4" r="4" fill="#3465a4"><title>Capercaillie (Corporate)</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/"><circle cx="215.3" cy="85.7" r="4" fill="#3465a4"><title>Capercaillie</title></circle></a><a href="/variants/s15/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6~dt1102249-db1605267-t2003208/"><circle cx="180.5" cy="65.2" r="4" fill="#3465a4"><title>AIS Group</title></circle></a><a href="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/"><circle cx="168.0" cy="116.4" r="4" fill="#3465a4"><title>Real Mary King's Close, The</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="95.0" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="118.1" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><circle cx="207.4" cy="94.8" r="4" fill="#3465a4"><title>Spotsylvania County, Sherrif's Office of</title></circle></a><a href="/variants/s11/db2r2db2r2db20k24g12y1k2g2lb2~x2/"><circle cx="160.4" cy="85.2" r="4" fill="#3465a4"><title>Unidentified #7</title></circle></a><circle cx="185.3" cy="77.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/"><circle cx="186.2" cy="104.9" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan</title></circle></a><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/"><circle cx="197.2" cy="111.1" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2/"><circle cx="214.6" cy="85.3" r="4" fill="#3465a4"><title>Capercaillie (Corporate)</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/"><circle cx="215.3" cy="85.5" r="4" fill="#3465a4"><title>Capercaillie</title></circle></a><a href="/variants/s15/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6~dt1102249-db1605267-t2003208/"><circle cx="180.5" cy="65.0" r="4" fill="#3465a4"><title>AIS Group</title></circle></a><a href="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/"><circle cx="168.0" cy="116.2" r="4" fill="#3465a4"><title>Real Mary King's Close, The</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="94.9" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="117.9" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><circle cx="207.4" cy="94.7" r="4" fill="#3465a4"><title>Spotsylvania County, Sherrif's Office of</title></circle></a><a href="/variants/s11/db2r2db2r2db20k24g12y1k2g2lb2~x2/"><circle cx="160.4" cy="85.1" r="4" fill="#3465a4"><title>Unidentified #7</title></circle></a><circle cx="185.3" cy="77.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/n4o3n4o2n4dt8n30k4dt4k36n4r2k4w2~dt1602277-r2109032/

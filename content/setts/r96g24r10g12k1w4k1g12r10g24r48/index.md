@@ -1,5 +1,12 @@
 ---
 title: "MacGregor"
-redirect: "/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacGregor](/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/).
+This is the **MacGregor** sett — one scale-free proportion (`r96g24r10g12k1w4k1g12r10g24r48`), colour order pattern
+[RGRGKWKGRGR](/stripes/rgrgkwkgrgr/). It is recorded as a single **variant**, below.
+First attested **1831**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacGregor](/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/) ★ | 1831 | ![MacGregor sett](/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/sett.png) |

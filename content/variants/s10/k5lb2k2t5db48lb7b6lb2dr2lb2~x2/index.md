@@ -1,14 +1,16 @@
 ---
 title: "Gemmell Blue (2001) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gemmell Blue (2001) (Personal)"
-  url: ""
+  url: "/setts/k5lb2k2t5db48lb7b6lb2dr2lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5lb2k2t5db48lb7b6lb2dr2lb2/)
-(the same proportion at any scale), whose colour order is pattern [KWKBBWBWBW](/stripes/kwkbbwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k5lb2k2t5db48lb7b6lb2dr2lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKBBWBWBW](/stripes/kwkbbwbwbw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><circle cx="298.3" cy="53.1" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/variants/s11/db42n2db2n4y4ly2y6k9y2k2r2~x2~y2204115-ly3206085/"><circle cx="289.6" cy="73.2" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/variants/s11/db42n2db2n4g4ly2g6k9g2k2r2~x2/"><circle cx="282.8" cy="73.1" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><circle cx="287.9" cy="47.1" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.2" cy="70.7" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><a href="/variants/s11/db90k10y2k4w2k4t14r12k2r5w4/"><circle cx="322.1" cy="29.6" r="4" fill="#3465a4"><title>Lanyard Blue (Fashion)</title></circle></a><a href="/variants/s14/lr2db1t2db2k1t12db2k11db28t1db3t2db3w1~x2/"><circle cx="295.4" cy="79.1" r="4" fill="#3465a4"><title>Northfield Academy Corporate Tartan</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.5" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.2" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db1106275-dbi1406275/"><circle cx="309.1" cy="96.6" r="4" fill="#3465a4"><title>Law Enforcement Officers' Memorial</title></circle></a><circle cx="303.9" cy="71.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><circle cx="298.3" cy="53.0" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/variants/s11/db42n2db2n4y4ly2y6k9y2k2r2~x2~y2204115-ly3206085/"><circle cx="289.6" cy="73.1" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/variants/s11/db42n2db2n4g4ly2g6k9g2k2r2~x2/"><circle cx="282.8" cy="72.9" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><circle cx="287.9" cy="46.9" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.2" cy="70.6" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><a href="/variants/s11/db90k10y2k4w2k4t14r12k2r5w4/"><circle cx="322.1" cy="29.4" r="4" fill="#3465a4"><title>Lanyard Blue (Fashion)</title></circle></a><a href="/variants/s14/lr2db1t2db2k1t12db2k11db28t1db3t2db3w1~x2/"><circle cx="295.4" cy="78.9" r="4" fill="#3465a4"><title>Northfield Academy Corporate Tartan</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.3" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.2" cy="81.6" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db1106275-dbi1406275/"><circle cx="309.1" cy="96.4" r="4" fill="#3465a4"><title>Law Enforcement Officers' Memorial</title></circle></a><circle cx="303.9" cy="71.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/

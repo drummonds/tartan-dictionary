@@ -1,5 +1,12 @@
 ---
 title: "Haughdale"
-redirect: "/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Haughdale](/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/).
+This is the **Haughdale** sett — one scale-free proportion (`k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2`), colour order pattern
+[KBWBWBBBGBGBWBWBK](/stripes/kbwbwbbbgbgbwbwbk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Haughdale](/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/) ★ | 2002 | ![Haughdale sett](/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/sett.png) |

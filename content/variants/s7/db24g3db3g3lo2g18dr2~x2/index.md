@@ -1,14 +1,16 @@
 ---
 title: "Greenways Marketing Intl (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Greenways Marketing Intl (Corporate)"
-  url: ""
+  url: "/setts/db24g3db3g3lo2g18dr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db24g3db3g3lo2g18dr2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGYGB](/stripes/bgbgygb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db24g3db3g3lo2g18dr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGYGB](/stripes/bgbgygb/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.9" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/g2db15n5g2db2g7w2~x4/"><circle cx="277.8" cy="235.6" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.1" cy="235.0" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.7" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="201.0" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/"><circle cx="378.5" cy="196.1" r="4" fill="#3465a4"><title>Land's End Blue</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.3" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="194.2" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.2" cy="272.2" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><circle cx="334.7" cy="206.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.1" cy="189.3" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.8" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/g2db15n5g2db2g7w2~x4/"><circle cx="277.8" cy="235.6" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.2" cy="234.9" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.1" cy="207.6" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="200.9" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/"><circle cx="378.5" cy="196.0" r="4" fill="#3465a4"><title>Land's End Blue</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.2" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.8" cy="194.1" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.3" cy="272.2" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><circle cx="334.8" cy="206.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db24g3db3g3lo2g18dr2~x2/

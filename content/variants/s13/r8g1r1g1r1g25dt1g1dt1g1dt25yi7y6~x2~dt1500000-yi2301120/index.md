@@ -1,14 +1,16 @@
 ---
 title: "Johansson (Aneby, Sweden), Christian (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Johansson (Aneby, Sweden), Christian (Personal)"
-  url: ""
+  url: "/setts/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6/)
-(the same proportion at any scale), whose colour order is pattern [GGBGBGBGRGRGR](/stripes/ggbgbgbgrgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGBGBGRGRGR](/stripes/ggbgbgbgrgrgr/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr8g1dr1g1dr1g25n1g1n1g1n25o7ly6~x2~n1900000-o2500000/"><circle cx="298.2" cy="136.2" r="4" fill="#3465a4"><title>Johansson (Personal)</title></circle></a><a href="/variants/s9/n66m3g3m3g16dr8g3dr3r4~x2/"><circle cx="341.0" cy="114.9" r="4" fill="#3465a4"><title>Scottish National Hunting</title></circle></a><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><circle cx="277.2" cy="177.0" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="290.6" cy="144.8" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><a href="/variants/s16/y15r3y3r1y35g5w2db2g35r1g3r3g15y5w2db2~x2/"><circle cx="386.2" cy="126.8" r="4" fill="#3465a4"><title>Keilar (2013)</title></circle></a><a href="/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/"><circle cx="276.2" cy="108.4" r="4" fill="#3465a4"><title>Sheffield, City of</title></circle></a><a href="/variants/s12/w2y1r3g20r1y1r3y2dy14ly2r2ly2~x2~g1903114-ly2706114/"><circle cx="244.0" cy="120.9" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/variants/s7/y23o4dy6dg6y4lb1y4~x4/"><circle cx="353.1" cy="166.3" r="4" fill="#3465a4"><title>Tricor</title></circle></a><a href="/variants/s12/g9b3g4o3g3o4g3dg11oi30b3oi4g3~x2~o2102055-oi2104058/"><circle cx="318.4" cy="197.9" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><circle cx="308.5" cy="136.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr8g1dr1g1dr1g25n1g1n1g1n25o7ly6~x2~n1900000-o2500000/"><circle cx="298.2" cy="136.1" r="4" fill="#3465a4"><title>Johansson (Personal)</title></circle></a><a href="/variants/s9/n66m3g3m3g16dr8g3dr3r4~x2/"><circle cx="341.0" cy="114.8" r="4" fill="#3465a4"><title>Scottish National Hunting</title></circle></a><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><circle cx="277.2" cy="176.8" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="290.6" cy="144.7" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><a href="/variants/s16/y15r3y3r1y35g5w2db2g35r1g3r3g15y5w2db2~x2/"><circle cx="386.2" cy="126.7" r="4" fill="#3465a4"><title>Keilar (2013)</title></circle></a><a href="/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/"><circle cx="276.2" cy="108.3" r="4" fill="#3465a4"><title>Sheffield, City of</title></circle></a><a href="/variants/s12/w2y1r3g20r1y1r3y2dy14ly2r2ly2~x2~g1903114-ly2706114/"><circle cx="244.0" cy="120.7" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/variants/s7/y23o4dy6dg6y4lb1y4~x4/"><circle cx="353.1" cy="166.2" r="4" fill="#3465a4"><title>Tricor</title></circle></a><a href="/variants/s12/g9b3g4o3g3o4g3dg11oi30b3oi4g3~x2~o2102055-oi2104058/"><circle cx="318.4" cy="197.8" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><circle cx="308.6" cy="136.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/

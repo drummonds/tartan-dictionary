@@ -1,5 +1,12 @@
 ---
 title: "International Bear Pride"
-redirect: "/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [International Bear Pride](/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/).
+This is the **International Bear Pride** sett — one scale-free proportion (`k35do11n3w1ly3y1dy5k5n2w2do22`), colour order pattern
+[BWBKGGYWBBK](/stripes/bwbkggywbbk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [International Bear Pride](/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/) ★ | 2015 | ![International Bear Pride sett](/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/sett.png) |

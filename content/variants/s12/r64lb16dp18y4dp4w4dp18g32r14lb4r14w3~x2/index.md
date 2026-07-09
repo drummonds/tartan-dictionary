@@ -1,14 +1,16 @@
 ---
 title: "Wilson's No 4"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No 4"
-  url: ""
+  url: "/setts/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3/)
-(the same proportion at any scale), whose colour order is pattern [RWBGBWBGRWRW](/stripes/rwbgbwbgrwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBGBWBGRWRW](/stripes/rwbgbwbgrwrw/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/"><circle cx="230.1" cy="118.2" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/"><circle cx="278.8" cy="113.2" r="4" fill="#3465a4"><title>MacNiven Family Tartan</title></circle></a><a href="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/"><circle cx="239.5" cy="138.9" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/"><circle cx="240.5" cy="93.6" r="4" fill="#3465a4"><title>North West Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s9/g18b2db5r45dbi3db18dbi3r5w2~db0805267-dbi1604274/"><circle cx="257.8" cy="107.4" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s12/yi12n2dy4y2dy3w3dy3w19r30yi2r4dy2~x2~yi2400000-n1700000/"><circle cx="180.3" cy="111.5" r="4" fill="#3465a4"><title>MacLean of Duart Dress #3</title></circle></a><a href="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/"><circle cx="196.2" cy="115.6" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.4" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.3" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s12/n12o2dy4ly2dy3w3dy3w19r30o2r4dy2~x2~n1900000-o2500000/"><circle cx="172.2" cy="108.2" r="4" fill="#3465a4"><title>MacLean of Duart Dress</title></circle></a><circle cx="236.3" cy="111.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/"><circle cx="230.1" cy="118.1" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/"><circle cx="278.8" cy="113.0" r="4" fill="#3465a4"><title>MacNiven Family Tartan</title></circle></a><a href="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/"><circle cx="239.5" cy="138.8" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/"><circle cx="240.5" cy="93.4" r="4" fill="#3465a4"><title>North West Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s9/g18b2db5r45dbi3db18dbi3r5w2~db0805267-dbi1604274/"><circle cx="257.8" cy="107.3" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s12/yi12n2dy4y2dy3w3dy3w19r30yi2r4dy2~x2~yi2400000-n1700000/"><circle cx="180.3" cy="111.3" r="4" fill="#3465a4"><title>MacLean of Duart Dress #3</title></circle></a><a href="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/"><circle cx="196.2" cy="115.4" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.3" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.1" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s12/n12o2dy4ly2dy3w3dy3w19r30o2r4dy2~x2~n1900000-o2500000/"><circle cx="172.2" cy="108.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress</title></circle></a><circle cx="236.3" cy="111.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/

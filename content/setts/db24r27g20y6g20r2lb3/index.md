@@ -1,5 +1,12 @@
 ---
 title: "Buchanhaven Heritage"
-redirect: "/variants/s7/db24r27g20y6g20r2lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Buchanhaven Heritage](/variants/s7/db24r27g20y6g20r2lb3~x2/).
+This is the **Buchanhaven Heritage** sett — one scale-free proportion (`db24r27g20y6g20r2lb3`), colour order pattern
+[BRGGGRW](/stripes/brgggrw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Buchanhaven Heritage](/variants/s7/db24r27g20y6g20r2lb3~x2/) ★ | 2015 | ![Buchanhaven Heritage sett](/variants/s7/db24r27g20y6g20r2lb3~x2/sett.png) |

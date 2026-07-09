@@ -1,16 +1,18 @@
 ---
 title: "Chieftain's (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Chieftain's"
   url: "/tartans/chieftain-s/"
 - name: "Chieftain's (Corporate)"
-  url: ""
+  url: "/setts/db8g8k1r1ly1db2g2k1r1ly1db8g8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8g8k1r1ly1db2g2k1r1ly1db8g8/)
-(the same proportion at any scale), whose colour order is pattern [BGKRYBGKRYBG](/stripes/bgkrybgkrybg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db8g8k1r1ly1db2g2k1r1ly1db8g8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKRYBGKRYBG](/stripes/bgkrybgkrybg/).
 
 Part of the [Chieftain's](/tartans/chieftain-s/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="152.0" cy="165.4" r="4" fill="#3465a4"><title>Scott #2</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="154.7" cy="167.1" r="4" fill="#3465a4"><title>Allen (1996)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/"><circle cx="155.7" cy="147.2" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="223.3" cy="160.5" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><circle cx="224.1" cy="134.0" r="4" fill="#3465a4"><title>Hay Hunting</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/"><circle cx="158.5" cy="148.1" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/"><circle cx="158.5" cy="148.1" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><circle cx="156.1" cy="147.3" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="158.1" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="146.0" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><circle cx="182.6" cy="164.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="152.0" cy="165.3" r="4" fill="#3465a4"><title>Scott #2</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="154.8" cy="167.0" r="4" fill="#3465a4"><title>Allen (1996)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/"><circle cx="155.7" cy="147.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="223.4" cy="160.4" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><circle cx="224.1" cy="133.9" r="4" fill="#3465a4"><title>Hay Hunting</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/"><circle cx="158.5" cy="148.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/"><circle cx="158.5" cy="148.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><circle cx="156.1" cy="147.2" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="158.0" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="145.9" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><circle cx="182.6" cy="164.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db8g8k1r1ly1db2g2k1r1ly1db8g8~x4/

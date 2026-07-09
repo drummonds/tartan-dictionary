@@ -1,16 +1,18 @@
 ---
 title: "MacShimsi Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacShimsi"
   url: "/tartans/macshimsi/"
 - name: "MacShimsi Personal Tartan"
-  url: ""
+  url: "/setts/m11dr5dg5k40lo3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/m11dr5dg5k40lo3/)
-(the same proportion at any scale), whose colour order is pattern [RBGKY](/stripes/rbgky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/m11dr5dg5k40lo3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBGKY](/stripes/rbgky/).
 
 Part of the [MacShimsi](/tartans/macshimsi/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2007 Designed for the MacShimsi Clan in Dundee
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2007 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/m11r5g5k40y3~x2~m2107016-r1706009/"><circle cx="298.9" cy="147.2" r="4" fill="#3465a4"><title>MacShimsi</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="298.5" cy="105.5" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.2" cy="128.2" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.4" cy="184.2" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="178.1" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s5/dp46k6g9lo9r4/"><circle cx="308.0" cy="158.2" r="4" fill="#3465a4"><title>Ayllu Thuban (Corporate)</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.2" cy="148.2" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s4/k62n24ly5w8~x2/"><circle cx="303.5" cy="185.6" r="4" fill="#3465a4"><title>Perry, Alex (Personal)</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.7" cy="136.9" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.1" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><circle cx="301.1" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/m11r5g5k40y3~x2~m2107016-r1706009/"><circle cx="298.9" cy="147.1" r="4" fill="#3465a4"><title>MacShimsi</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="298.5" cy="105.4" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.3" cy="128.1" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.5" cy="184.1" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="281.0" cy="178.1" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s5/dp46k6g9lo9r4/"><circle cx="308.0" cy="158.2" r="4" fill="#3465a4"><title>Ayllu Thuban (Corporate)</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.3" cy="148.1" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s4/k62n24ly5w8~x2/"><circle cx="303.6" cy="185.5" r="4" fill="#3465a4"><title>Perry, Alex (Personal)</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.8" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.0" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><circle cx="301.2" cy="146.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/m11dr5dg5k40lo3~x2/

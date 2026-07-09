@@ -1,5 +1,12 @@
 ---
 title: "Edinburgh Napier University (Corp.)"
-redirect: "/variants/s8/lb4lr4lb4lr5k8g2r19ly1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Edinburgh Napier University (Corp.)](/variants/s8/lb4lr4lb4lr5k8g2r19ly1~x2/).
+This is the **Edinburgh Napier University (Corp.)** sett — one scale-free proportion (`lb4lr4lb4lr5k8g2r19ly1`), colour order pattern
+[WYWYKGRY](/stripes/wywykgry/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Edinburgh Napier University (Corp.)](/variants/s8/lb4lr4lb4lr5k8g2r19ly1~x2/) ★ | 2009 | ![Edinburgh Napier University (Corp.) sett](/variants/s8/lb4lr4lb4lr5k8g2r19ly1~x2/sett.png) |

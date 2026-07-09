@@ -1,5 +1,14 @@
 ---
 title: "MacTavish #2"
-redirect: "/variants/s6/lb1dr6db1lb3k3lb1~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacTavish #2](/variants/s6/lb1dr6db1lb3k3lb1~x8/).
+This is the **MacTavish #2** sett — one scale-free proportion (`lb1dr6db1lb3k3lb1`), colour order pattern
+[WBBWKW](/stripes/wbbwkw/). It is recorded as a single **variant**, below.
+First attested **1906**.
+
+Part of the [MacTavish](/tartans/mactavish/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [MacTavish #2](/variants/s6/lb1dr6db1lb3k3lb1~x8/) ★ | 1906 | ![MacTavish #2 sett](/variants/s6/lb1dr6db1lb3k3lb1~x8/sett.png) |

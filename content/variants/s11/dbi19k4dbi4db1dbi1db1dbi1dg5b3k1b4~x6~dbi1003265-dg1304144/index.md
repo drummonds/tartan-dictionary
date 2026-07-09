@@ -1,14 +1,16 @@
 ---
 title: "Spirit of Scotland"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Scotland"
-  url: ""
+  url: "/setts/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4/)
-(the same proportion at any scale), whose colour order is pattern [BKBBBBBGBKB](/stripes/bkbbbbbgbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBBBBBGBKB](/stripes/bkbbbbbgbkb/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8~db0805267-dbi1604274/"><circle cx="314.9" cy="106.6" r="4" fill="#3465a4"><title>Bavidge</title></circle></a><a href="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db1204274-dbi1406275/"><circle cx="323.4" cy="137.3" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="403.3" cy="129.5" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><circle cx="374.9" cy="117.3" r="4" fill="#3465a4"><title>Rabbie Burns</title></circle></a><a href="/variants/s10/db2ki3db33k11ki3db3dp15db4lb1db2~x2~db1404245-ki0503284/"><circle cx="378.0" cy="113.7" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.8" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="304.9" cy="139.1" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/"><circle cx="326.3" cy="149.5" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/variants/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="343.9" cy="131.5" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="330.2" cy="147.0" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><circle cx="347.8" cy="132.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8~db0805267-dbi1604274/"><circle cx="315.0" cy="106.5" r="4" fill="#3465a4"><title>Bavidge</title></circle></a><a href="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db1204274-dbi1406275/"><circle cx="323.5" cy="137.1" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="403.3" cy="129.4" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><circle cx="374.9" cy="117.2" r="4" fill="#3465a4"><title>Rabbie Burns</title></circle></a><a href="/variants/s10/db2ki3db33k11ki3db3dp15db4lb1db2~x2~db1404245-ki0503284/"><circle cx="378.0" cy="113.5" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.7" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="304.9" cy="138.9" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/"><circle cx="326.3" cy="149.4" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/variants/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="343.9" cy="131.4" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="330.3" cy="146.9" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><circle cx="347.8" cy="132.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4~x6~dbi1003265-dg1304144/

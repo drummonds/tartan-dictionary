@@ -1,5 +1,14 @@
 ---
 title: "Bailey Atlanta National"
-redirect: "/variants/s15/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3~x2~db0805267-dbi1604274/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bailey Atlanta National](/variants/s15/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3~x2~db0805267-dbi1604274/).
+This is the **Bailey Atlanta National** sett — one scale-free proportion (`db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3`), colour order pattern
+[BKBKBBGKGKGKGKB](/stripes/bkbkbbgkgkgkgkb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Bailey Atlanta National](/tartans/bailey-atlanta-national/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bailey Atlanta National](/variants/s15/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3~x2~db0805267-dbi1604274/) ★ | ~2016 | ![Bailey Atlanta National sett](/variants/s15/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3~x2~db0805267-dbi1604274/sett.png) |

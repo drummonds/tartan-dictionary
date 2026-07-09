@@ -1,5 +1,12 @@
 ---
 title: "Children In Need"
-redirect: "/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Children In Need](/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/).
+This is the **Children In Need** sett — one scale-free proportion (`k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1`), colour order pattern
+[KWKWKWKRKRKWKGKGKW](/stripes/kwkwkwkrkrkwkgkgkw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Children In Need](/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/) ★ | 2008 | ![Children In Need sett](/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/sett.png) |

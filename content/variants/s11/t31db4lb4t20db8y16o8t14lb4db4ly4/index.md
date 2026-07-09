@@ -1,14 +1,16 @@
 ---
 title: "Cian Clan Irish Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cian Clan Irish Family Tartan"
-  url: ""
+  url: "/setts/t31db4lb4t20db8y16o8t14lb4db4ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t31db4lb4t20db8y16o8t14lb4db4ly4/)
-(the same proportion at any scale), whose colour order is pattern [BBWBBGRBWBY](/stripes/bbwbbgrbwby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t31db4lb4t20db8y16o8t14lb4db4ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBBGRBWBY](/stripes/bbwbbgrbwby/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1983 Registered with the Chief Herald of Ireland in 1983. N
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1983 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/"><circle cx="234.4" cy="242.0" r="4" fill="#3465a4"><title>Healy (Name)</title></circle></a><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><circle cx="317.4" cy="214.3" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/"><circle cx="318.0" cy="152.0" r="4" fill="#3465a4"><title>Kansai St Andrews Society (Corp)</title></circle></a><a href="/variants/s16/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3~x2~ly3307090-dy1603076/"><circle cx="205.7" cy="204.8" r="4" fill="#3465a4"><title>Hirter Karo (Corporate)</title></circle></a><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="299.6" cy="226.9" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.7" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/"><circle cx="230.6" cy="243.2" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.7" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.4" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.5" cy="194.6" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><circle cx="281.9" cy="201.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/"><circle cx="234.4" cy="241.9" r="4" fill="#3465a4"><title>Healy (Name)</title></circle></a><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><circle cx="317.4" cy="214.2" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/"><circle cx="318.0" cy="151.9" r="4" fill="#3465a4"><title>Kansai St Andrews Society (Corp)</title></circle></a><a href="/variants/s16/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3~x2~ly3307090-dy1603076/"><circle cx="205.7" cy="204.7" r="4" fill="#3465a4"><title>Hirter Karo (Corporate)</title></circle></a><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="299.6" cy="226.8" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.6" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/"><circle cx="230.6" cy="243.1" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.6" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.3" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.5" cy="194.5" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><circle cx="281.9" cy="201.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/

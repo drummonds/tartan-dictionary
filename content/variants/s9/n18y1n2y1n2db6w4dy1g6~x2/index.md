@@ -1,16 +1,18 @@
 ---
 title: "Nickel Lodge Centennial Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Nickel Lodge Centennial"
   url: "/tartans/nickel-lodge-centennial/"
 - name: "Nickel Lodge Centennial Corporate Tartan"
-  url: ""
+  url: "/setts/n18y1n2y1n2db6w4dy1g6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n18y1n2y1n2db6w4dy1g6/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBBWGG](/stripes/bgbgbbwgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n18y1n2y1n2db6w4dy1g6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBBWGG](/stripes/bgbgbbwgg/).
 
 Part of the [Nickel Lodge Centennial](/tartans/nickel-lodge-centennial/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1988 1989
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1988 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/"><circle cx="281.7" cy="158.9" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/"><circle cx="322.4" cy="123.2" r="4" fill="#3465a4"><title>Nickel Lodge Centennial (Corporate)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/"><circle cx="293.1" cy="140.5" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/variants/s9/y4ly2y39dt10n4dt4dr4dt25w3~x2~y2602166-ly3307090/"><circle cx="295.5" cy="150.3" r="4" fill="#3465a4"><title>Blue Blas Alba</title></circle></a><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/"><circle cx="293.4" cy="146.9" r="4" fill="#3465a4"><title>Hand, Edinburgh</title></circle></a><a href="/variants/s12/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1~x2/"><circle cx="282.0" cy="142.0" r="4" fill="#3465a4"><title>Hand Name Tartan</title></circle></a><a href="/variants/s11/w3n30dg3db3dr3dy3db8n3dy3db3w3~x2/"><circle cx="279.4" cy="153.7" r="4" fill="#3465a4"><title>Wee Course, Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="195.0" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><circle cx="280.2" cy="131.6" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/"><circle cx="322.8" cy="161.7" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><circle cx="310.8" cy="153.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/"><circle cx="281.7" cy="158.8" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/"><circle cx="322.4" cy="123.0" r="4" fill="#3465a4"><title>Nickel Lodge Centennial (Corporate)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/"><circle cx="293.1" cy="140.4" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/variants/s9/y4ly2y39dt10n4dt4dr4dt25w3~x2~y2602166-ly3307090/"><circle cx="295.6" cy="150.2" r="4" fill="#3465a4"><title>Blue Blas Alba</title></circle></a><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/"><circle cx="293.4" cy="146.8" r="4" fill="#3465a4"><title>Hand, Edinburgh</title></circle></a><a href="/variants/s12/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1~x2/"><circle cx="282.0" cy="141.9" r="4" fill="#3465a4"><title>Hand Name Tartan</title></circle></a><a href="/variants/s11/w3n30dg3db3dr3dy3db8n3dy3db3w3~x2/"><circle cx="279.4" cy="153.6" r="4" fill="#3465a4"><title>Wee Course, Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="194.9" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><circle cx="280.2" cy="131.5" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/"><circle cx="322.8" cy="161.6" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><circle cx="310.8" cy="153.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n18y1n2y1n2db6w4dy1g6~x2/

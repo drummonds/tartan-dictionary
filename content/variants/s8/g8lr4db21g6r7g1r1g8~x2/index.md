@@ -1,14 +1,16 @@
 ---
 title: "Cathcart"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cathcart"
-  url: ""
+  url: "/setts/g8lr4db21g6r7g1r1g8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8lr4db21g6r7g1r1g8/)
-(the same proportion at any scale), whose colour order is pattern [GRGRGBYG](/stripes/grgrgbyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g8lr4db21g6r7g1r1g8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGBYG](/stripes/grgrgbyg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.3" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.6" cy="127.6" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="225.6" cy="164.0" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.3" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.6" cy="171.1" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.1" cy="171.3" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><circle cx="242.5" cy="177.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.2" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.3" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.6" cy="127.5" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="225.7" cy="163.9" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.2" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.6" cy="171.0" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.2" cy="171.2" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><circle cx="242.5" cy="177.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g8lr4db21g6r7g1r1g8~x2/

@@ -1,16 +1,18 @@
 ---
 title: "Spencer (2013)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Spencer"
   url: "/tartans/spencer/"
 - name: "Spencer (2013)"
-  url: ""
+  url: "/setts/g55y4db15w3dr3w5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g55y4db15w3dr3w5/)
-(the same proportion at any scale), whose colour order is pattern [GGBWBW](/stripes/ggbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g55y4db15w3dr3w5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBWBW](/stripes/ggbwbw/).
 
 Part of the [Spencer](/tartans/spencer/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.1" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.3" cy="204.6" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.3" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.3" cy="160.3" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.0" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.8" cy="163.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><circle cx="359.1" cy="189.6" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="443.5" cy="138.4" r="4" fill="#3465a4"><title>Greenup (2015)</title></circle></a><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.1" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><circle cx="390.6" cy="164.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.0" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.3" cy="204.5" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.3" cy="160.2" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.1" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.9" cy="163.5" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.8" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><circle cx="359.2" cy="189.5" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="443.5" cy="138.3" r="4" fill="#3465a4"><title>Greenup (2015)</title></circle></a><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.0" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><circle cx="390.6" cy="164.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g55y4db15w3dr3w5~x2/

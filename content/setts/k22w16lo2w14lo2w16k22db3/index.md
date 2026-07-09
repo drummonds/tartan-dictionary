@@ -1,5 +1,12 @@
 ---
 title: "Kennison"
-redirect: "/variants/s8/k22w16lo2w14lo2w16k22db3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kennison](/variants/s8/k22w16lo2w14lo2w16k22db3~x2/).
+This is the **Kennison** sett — one scale-free proportion (`k22w16lo2w14lo2w16k22db3`), colour order pattern
+[BKWYWYWK](/stripes/bkwywywk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kennison](/variants/s8/k22w16lo2w14lo2w16k22db3~x2/) ★ | 2002 | ![Kennison sett](/variants/s8/k22w16lo2w14lo2w16k22db3~x2/sett.png) |

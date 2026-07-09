@@ -1,14 +1,16 @@
 ---
 title: "Glen Coe #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glen Coe #2"
-  url: ""
+  url: "/setts/k37w9k3g9w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k37w9k3g9w3/)
-(the same proportion at any scale), whose colour order is pattern [KWKGWGKW](/stripes/kwkgwgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k37w9k3g9w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKGWGKW](/stripes/kwkgwgkw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -71,6 +73,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="185.5" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.9" cy="198.5" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.6" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.9" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s6/k3n23k3n3k20lg3~x2/"><circle cx="260.1" cy="205.4" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.5" cy="155.6" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.9" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="261.5" cy="205.1" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.5" cy="186.5" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><circle cx="239.1" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="185.4" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.6" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.9" cy="198.4" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.5" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.8" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s6/k3n23k3n3k20lg3~x2/"><circle cx="260.2" cy="205.4" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.6" cy="155.5" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.8" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="261.5" cy="205.0" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.6" cy="186.4" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><circle cx="239.1" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k37w9k3g9w3~x2/

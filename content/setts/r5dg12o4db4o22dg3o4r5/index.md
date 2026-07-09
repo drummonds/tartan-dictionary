@@ -1,5 +1,12 @@
 ---
 title: "Invertere, (Daks)"
-redirect: "/variants/s8/r5dg12o4db4o22dg3o4r5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Invertere, (Daks)](/variants/s8/r5dg12o4db4o22dg3o4r5/).
+This is the **Invertere, (Daks)** sett — one scale-free proportion (`r5dg12o4db4o22dg3o4r5`), colour order pattern
+[RGRBRGRR](/stripes/rgrbrgrr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Invertere, (Daks)](/variants/s8/r5dg12o4db4o22dg3o4r5/) ★ | ~2016 | ![Invertere, (Daks) sett](/variants/s8/r5dg12o4db4o22dg3o4r5/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Holyrood Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Holyrood Corporate Tartan"
-  url: ""
+  url: "/setts/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2/)
-(the same proportion at any scale), whose colour order is pattern [BBGBWBGGBGW](/stripes/bbgbwbggbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBWBGGBGW](/stripes/bbgbwbggbgw/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1980 Holyrood is the Scottish equivalent of Buckingham Pala
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1980 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.1" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="388.9" cy="122.4" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/"><circle cx="347.0" cy="102.7" r="4" fill="#3465a4"><title>State Seal of New York (Fashion)</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.3" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/variants/s12/dy6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4~x2~dbi1406275-db1204274/"><circle cx="341.8" cy="85.9" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/"><circle cx="275.2" cy="146.5" r="4" fill="#3465a4"><title>Bowhunter</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.7" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/"><circle cx="334.1" cy="95.5" r="4" fill="#3465a4"><title>Brighton Mac Dermotte</title></circle></a><a href="/variants/s15/n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1~x2~dt1102249-t2308259/"><circle cx="337.7" cy="85.0" r="4" fill="#3465a4"><title>Northfield Academy</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.3" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><circle cx="336.6" cy="119.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.0" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="388.9" cy="122.2" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/"><circle cx="347.1" cy="102.5" r="4" fill="#3465a4"><title>State Seal of New York (Fashion)</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.1" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/variants/s12/dy6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4~x2~dbi1406275-db1204274/"><circle cx="341.8" cy="85.8" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/"><circle cx="275.2" cy="146.4" r="4" fill="#3465a4"><title>Bowhunter</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.6" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/"><circle cx="334.1" cy="95.4" r="4" fill="#3465a4"><title>Brighton Mac Dermotte</title></circle></a><a href="/variants/s15/n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1~x2~dt1102249-t2308259/"><circle cx="337.8" cy="84.9" r="4" fill="#3465a4"><title>Northfield Academy</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.2" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><circle cx="336.7" cy="118.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/

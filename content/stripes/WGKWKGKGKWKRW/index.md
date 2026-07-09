@@ -32,10 +32,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s13/w3r31k2lb4k2y8k2y8k2lb4k2g31lb3~x2/"><img src="/variants/s13/w3r31k2lb4k2y8k2y8k2lb4k2g31lb3~x2/sett.png" alt="Buchanan #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/">Buchanan #3</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"><img src="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/sett.png" alt="Buchanan #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/">Buchanan #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/"><img src="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/sett.png" alt="Buchanan #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/">Buchanan (Logan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/"><img src="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/sett.png" alt="Buchanan (Logan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/">Buchanan Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/"><img src="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/sett.png" alt="Buchanan Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1g16lb2~x2/">Buchanan D</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1g16lb2~x2/"><img src="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1g16lb2~x2/sett.png" alt="Buchanan D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

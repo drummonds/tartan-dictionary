@@ -1,14 +1,16 @@
 ---
 title: "Ferring Pharmaceuticals"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ferring Pharmaceuticals"
-  url: ""
+  url: "/setts/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4/)
-(the same proportion at any scale), whose colour order is pattern [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

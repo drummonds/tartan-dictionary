@@ -18,7 +18,7 @@ The **MacGregor** tartan groups 5 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r36g18r4g6k1w2/">MacGregor</a> ★</td><td><code>R/72 G36 R8 G12 K2 W/4</code></td><td>192</td><td>—</td></tr>
+<tr><td><a href="/setts/r36g18r4g6k1w2/">MacGregor</a> ★</td><td><code>R/72 G36 R8 G12 K2 W/4</code></td><td>192</td><td>1815</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r36g18r4g6k1w2/"><img src="/variants/s6/r36g18r4g6k1w2~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/r36g18r4g6k1w2/">MacGregor</a> · <a href="/variants/s6/r36g18r4g6k1w2~x2/">#3</a></td></tr>
 <tr><td><a href="/setts/r35g16r5g5w2k3/">MacGregor</a></td><td><code>R/70 G32 R10 G10 W4 K/6</code></td><td>188</td><td>—</td></tr>

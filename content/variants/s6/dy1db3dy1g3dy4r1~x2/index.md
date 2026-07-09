@@ -1,14 +1,16 @@
 ---
 title: "Fraser Hunting #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fraser Hunting #2"
-  url: ""
+  url: "/setts/dy1db3dy1g3dy4r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy1db3dy1g3dy4r1/)
-(the same proportion at any scale), whose colour order is pattern [GBGGGR](/stripes/gbgggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy1db3dy1g3dy4r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGGGR](/stripes/gbgggr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="289.7" cy="222.4" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/variants/s7/dy9g9y2g9dy9t9dy3~x2/"><circle cx="250.2" cy="327.3" r="4" fill="#3465a4"><title>MacKay - 1800 (Reay Coat) (Artefact)</title></circle></a><a href="/variants/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="220.9" cy="268.3" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="285.3" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.1" cy="294.3" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.5" cy="262.1" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/"><circle cx="299.5" cy="270.9" r="4" fill="#3465a4"><title>Arkansas (Unofficial)</title></circle></a><a href="/variants/s7/r1do7g7db7g7db7r1~x4/"><circle cx="194.4" cy="266.8" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="219.0" cy="282.9" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><circle cx="234.5" cy="291.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="289.7" cy="222.4" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/variants/s7/dy9g9y2g9dy9t9dy3~x2/"><circle cx="250.2" cy="327.3" r="4" fill="#3465a4"><title>MacKay - 1800 (Reay Coat) (Artefact)</title></circle></a><a href="/variants/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="220.9" cy="268.3" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="285.2" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.2" cy="294.3" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.5" cy="262.1" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/"><circle cx="299.5" cy="270.9" r="4" fill="#3465a4"><title>Arkansas (Unofficial)</title></circle></a><a href="/variants/s7/r1do7g7db7g7db7r1~x4/"><circle cx="194.5" cy="266.8" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="219.0" cy="282.9" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><circle cx="234.5" cy="291.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy1db3dy1g3dy4r1~x2/

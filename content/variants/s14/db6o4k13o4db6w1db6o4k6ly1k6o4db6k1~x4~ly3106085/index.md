@@ -1,14 +1,16 @@
 ---
 title: "Amnesty International Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Amnesty International Corporate Tartan"
-  url: ""
+  url: "/setts/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1/)
-(the same proportion at any scale), whose colour order is pattern [BRKRBWBRKYKRBK](/stripes/brkrbwbrkykrbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRKRBWBRKYKRBK](/stripes/brkrbwbrkykrbk/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2002 Bill Scobie of Amnesty International Dumbarton and Lom
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/"><circle cx="64.7" cy="148.8" r="4" fill="#3465a4"><title>Redgate in Connecticut (Ulster-Scots)</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.0" cy="138.1" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/"><circle cx="112.0" cy="165.0" r="4" fill="#3465a4"><title>Dutton, Stuart (Personal)</title></circle></a><a href="/variants/s12/db20lb6k8y2k4w4k4db13r7k4r4w2~x2~db0804274/"><circle cx="103.7" cy="136.1" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><a href="/variants/s13/db1k5db9r3db9k10w1k10g6r3g6k4g1~x2/"><circle cx="47.4" cy="159.5" r="4" fill="#3465a4"><title>Redgate (Connecticut) #2</title></circle></a><a href="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/"><circle cx="118.2" cy="131.0" r="4" fill="#3465a4"><title>European Congress of Immunology 2012</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1406275-db1204274/"><circle cx="79.3" cy="157.5" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><circle cx="92.5" cy="123.4" r="4" fill="#3465a4"><title>Watson - Kirby (Personal)</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/"><circle cx="126.3" cy="159.4" r="4" fill="#3465a4"><title>Glengoyne Distillery</title></circle></a><a href="/variants/s10/dp22r3k22g22y2g22k22r3dp22w3~x2/"><circle cx="80.6" cy="159.9" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><circle cx="107.4" cy="144.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/"><circle cx="64.7" cy="148.7" r="4" fill="#3465a4"><title>Redgate in Connecticut (Ulster-Scots)</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.0" cy="138.0" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/"><circle cx="112.0" cy="164.9" r="4" fill="#3465a4"><title>Dutton, Stuart (Personal)</title></circle></a><a href="/variants/s12/db20lb6k8y2k4w4k4db13r7k4r4w2~x2~db0804274/"><circle cx="103.8" cy="136.0" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><a href="/variants/s13/db1k5db9r3db9k10w1k10g6r3g6k4g1~x2/"><circle cx="47.5" cy="159.4" r="4" fill="#3465a4"><title>Redgate (Connecticut) #2</title></circle></a><a href="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/"><circle cx="118.2" cy="130.8" r="4" fill="#3465a4"><title>European Congress of Immunology 2012</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1406275-db1204274/"><circle cx="79.4" cy="157.4" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><circle cx="92.5" cy="123.3" r="4" fill="#3465a4"><title>Watson - Kirby (Personal)</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/"><circle cx="126.3" cy="159.3" r="4" fill="#3465a4"><title>Glengoyne Distillery</title></circle></a><a href="/variants/s10/dp22r3k22g22y2g22k22r3dp22w3~x2/"><circle cx="80.6" cy="159.8" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><circle cx="107.4" cy="144.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/

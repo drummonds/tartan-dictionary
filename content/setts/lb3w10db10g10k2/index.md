@@ -1,5 +1,12 @@
 ---
 title: "MacTeddy"
-redirect: "/variants/s5/lb3w10db10g10k2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacTeddy](/variants/s5/lb3w10db10g10k2~x4/).
+This is the **MacTeddy** sett — one scale-free proportion (`lb3w10db10g10k2`), colour order pattern
+[KGBWW](/stripes/kgbww/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacTeddy](/variants/s5/lb3w10db10g10k2~x4/) ★ | 2000 | ![MacTeddy sett](/variants/s5/lb3w10db10g10k2~x4/sett.png) |

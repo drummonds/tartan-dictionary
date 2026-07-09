@@ -1,14 +1,16 @@
 ---
 title: "Hong Kong St Andrew's Society"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hong Kong St Andrew's Society"
-  url: ""
+  url: "/setts/db75k4r25db6k6w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db75k4r25db6k6w2/)
-(the same proportion at any scale), whose colour order is pattern [BKRBKW](/stripes/bkrbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db75k4r25db6k6w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKRBKW](/stripes/bkrbkw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="448.1" cy="111.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="430.0" cy="103.5" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="478.5" cy="120.7" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.1" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="359.8" cy="130.2" r="4" fill="#3465a4"><title>Clan Gregor Tartan</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.2" cy="193.2" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="373.1" cy="119.3" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.9" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.1" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="352.5" cy="150.3" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><circle cx="424.9" cy="107.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="448.1" cy="111.5" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="430.0" cy="103.4" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="478.5" cy="120.5" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="359.8" cy="130.1" r="4" fill="#3465a4"><title>Clan Gregor Tartan</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.3" cy="193.1" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="373.1" cy="119.1" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.8" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="352.6" cy="150.2" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><circle cx="424.9" cy="107.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db75k4r25db6k6w2~x2/

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2~lb3203246/">Wrens (WRNS)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2~lb3203246/"><img src="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2~lb3203246/sett.png" alt="Wrens (WRNS) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2~lb3203246/">Wrens Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2~lb3203246/"><img src="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2~lb3203246/sett.png" alt="Wrens Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

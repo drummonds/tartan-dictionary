@@ -1,5 +1,12 @@
 ---
 title: "Clare County, Crest Range"
-redirect: "/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Clare County, Crest Range](/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/).
+This is the **Clare County, Crest Range** sett — one scale-free proportion (`db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8`), colour order pattern
+[BGKRBWGBKBGBBKW](/stripes/bgkrbwgbkbgbbkw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Clare County, Crest Range](/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/) ★ | 2005 | ![Clare County, Crest Range sett](/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/sett.png) |

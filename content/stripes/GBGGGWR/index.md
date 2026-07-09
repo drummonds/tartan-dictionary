@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2w2y27g14y2db14y2~x2/">Fraser Yellow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2w2y27g14y2db14y2~x2/"><img src="/variants/s7/r2w2y27g14y2db14y2~x2/sett.png" alt="Fraser Yellow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2w2y27g14y2db14y2~x2/">Fraser Yellow Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r2w2y27g14y2db14y2~x2/"><img src="/variants/s7/r2w2y27g14y2db14y2~x2/sett.png" alt="Fraser Yellow Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

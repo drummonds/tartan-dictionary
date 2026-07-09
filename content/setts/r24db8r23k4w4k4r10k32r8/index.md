@@ -1,5 +1,12 @@
 ---
 title: "Cameron of Locheil #3"
-redirect: "/variants/s9/r24db8r23k4w4k4r10k32r8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cameron of Locheil #3](/variants/s9/r24db8r23k4w4k4r10k32r8/).
+This is the **Cameron of Locheil #3** sett — one scale-free proportion (`r24db8r23k4w4k4r10k32r8`), colour order pattern
+[RBRKWKRKR](/stripes/rbrkwkrkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Cameron of Locheil #3](/variants/s9/r24db8r23k4w4k4r10k32r8/) ★ | ~2016 | ![Cameron of Locheil #3 sett](/variants/s9/r24db8r23k4w4k4r10k32r8/sett.png) |

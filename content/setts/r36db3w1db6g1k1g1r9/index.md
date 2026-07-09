@@ -2,16 +2,16 @@
 title: "Inverness"
 date: 2023-03-18
 ---
-The **Inverness** tartan is one sett proportion (`r36db3w1db6g1k1g1r9`) recorded at 3 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[RBWBGKGR](/stripes/rbwbgkgr/); each scale below is its own sett page. First attested **1829**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Inverness** sett — one scale-free proportion (`r36db3w1db6g1k1g1r9`), colour order pattern
+[RBWBGKGR](/stripes/rbwbgkgr/). It is recorded as **3 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1822**.
 
-Part of the [Inverness](/tartans/inverness/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Inverness](/tartans/inverness/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×4 | [Inverness - 1829 (District)](/variants/s8/r36db3w1db6g1k1g1r9~x4/) ★ | 1829 | ![Inverness - 1829 (District) sett](/variants/s8/r36db3w1db6g1k1g1r9~x4/sett.png) |
-| ×2 | [Inverness](/variants/s8/r36db3w1db6g1k1g1r9~x2/) | ~2016 | ![Inverness sett](/variants/s8/r36db3w1db6g1k1g1r9~x2/sett.png) |
+| ×2 | [Inverness District Tartan](/variants/s8/r36db3w1db6g1k1g1r9~x2/) ★ | 1822 | ![Inverness District Tartan sett](/variants/s8/r36db3w1db6g1k1g1r9~x2/sett.png) |
 | ×4 | [Inverness](/variants/s8/r36db3w1db6g1k1g1r9~x4~db1406275-w4000000/) | 1829 | ![Inverness sett](/variants/s8/r36db3w1db6g1k1g1r9~x4~db1406275-w4000000/sett.png) |
+| ×4 | [Inverness - 1829 (District)](/variants/s8/r36db3w1db6g1k1g1r9~x4/) | 1829 | ![Inverness - 1829 (District) sett](/variants/s8/r36db3w1db6g1k1g1r9~x4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Louisburg Canadian District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Louisburg Canadian District Tartan"
-  url: ""
+  url: "/setts/n22y10w3k8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n22y10w3k8/)
-(the same proportion at any scale), whose colour order is pattern [BGWK](/stripes/bgwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n22y10w3k8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWK](/stripes/bgwk/).
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1994 Louisburg is a tiny seaside town in Nova Scotia about 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1994 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k15y20w3~x2/"><circle cx="242.5" cy="269.3" r="4" fill="#3465a4"><title>Silvicola (Corporate)</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="180.6" cy="228.3" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s4/r5n32k31w5~x2/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/variants/s4/r5n32k31w5/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan</title></circle></a><a href="/variants/s4/dr5n32k31w5~x2/"><circle cx="196.4" cy="233.8" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="203.1" cy="248.8" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.3" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s4/y40db8k20g11~x2/"><circle cx="197.6" cy="255.6" r="4" fill="#3465a4"><title>Brun, Pierre Emmanuel (Personal)</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="213.7" cy="201.5" r="4" fill="#3465a4"><title>Greystone (Burberry Grey)</title></circle></a><a href="/variants/s5/k4lb4k4n15dr2~x4/"><circle cx="227.7" cy="213.1" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><circle cx="224.3" cy="242.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k15y20w3~x2/"><circle cx="242.6" cy="269.3" r="4" fill="#3465a4"><title>Silvicola (Corporate)</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="180.6" cy="228.2" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s4/r5n32k31w5~x2/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/variants/s4/r5n32k31w5/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan</title></circle></a><a href="/variants/s4/dr5n32k31w5~x2/"><circle cx="196.4" cy="233.7" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="203.1" cy="248.8" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.2" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s4/y40db8k20g11~x2/"><circle cx="197.6" cy="255.6" r="4" fill="#3465a4"><title>Brun, Pierre Emmanuel (Personal)</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="213.7" cy="201.5" r="4" fill="#3465a4"><title>Greystone (Burberry Grey)</title></circle></a><a href="/variants/s5/k4lb4k4n15dr2~x4/"><circle cx="227.7" cy="213.1" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><circle cx="224.3" cy="242.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/n22y10w3k8~x2/

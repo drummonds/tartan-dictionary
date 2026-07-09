@@ -1,14 +1,16 @@
 ---
 title: "Merida Dance"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Merida Dance"
-  url: ""
+  url: "/setts/w8k4w54db18r6db8r49w6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w8k4w54db18r6db8r49w6/)
-(the same proportion at any scale), whose colour order is pattern [WKWBRBRW](/stripes/wkwbrbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w8k4w54db18r6db8r49w6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWBRBRW](/stripes/wkwbrbrw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w8k6w54db16m6db8m49w6/"><circle cx="206.8" cy="171.6" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.2" cy="158.7" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><circle cx="195.2" cy="158.7" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="281.8" cy="158.6" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><a href="/variants/s11/lb1r3k2w1r8w1k2w9k1w3lb1~x6/"><circle cx="169.1" cy="153.2" r="4" fill="#3465a4"><title>MacRae, Dress Red (Dance)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="169.0" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><circle cx="239.3" cy="185.8" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="252.0" cy="185.0" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.0" cy="153.6" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/"><circle cx="250.0" cy="181.9" r="4" fill="#3465a4"><title>Lennox Dress District Tartan</title></circle></a><circle cx="220.5" cy="156.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w8k6w54db16m6db8m49w6/"><circle cx="206.8" cy="171.5" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.2" cy="158.6" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><circle cx="195.2" cy="158.6" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="281.8" cy="158.5" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><a href="/variants/s11/lb1r3k2w1r8w1k2w9k1w3lb1~x6/"><circle cx="169.1" cy="153.1" r="4" fill="#3465a4"><title>MacRae, Dress Red (Dance)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="169.0" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><circle cx="239.3" cy="185.7" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="252.0" cy="184.9" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.0" cy="153.5" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/"><circle cx="250.0" cy="181.8" r="4" fill="#3465a4"><title>Lennox Dress District Tartan</title></circle></a><circle cx="220.4" cy="156.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w8k4w54db18r6db8r49w6/

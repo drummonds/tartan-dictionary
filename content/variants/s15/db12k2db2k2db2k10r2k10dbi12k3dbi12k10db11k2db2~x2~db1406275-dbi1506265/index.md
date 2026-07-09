@@ -1,16 +1,18 @@
 ---
 title: "Mundigl Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mundigl"
   url: "/tartans/mundigl/"
 - name: "Mundigl Family Tartan"
-  url: ""
+  url: "/setts/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBKRKBKBKB](/stripes/bkbkbkbkrkbkbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKRKBKBKB](/stripes/bkbkbkbkrkbkbkb/).
 
 Part of the [Mundigl](/tartans/mundigl/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2003 We chose blue because we liked it
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/"><circle cx="130.5" cy="185.0" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><a href="/variants/s13/db11k2db2k2db2k8dp8lo2dp8k8db8k2db2~x4/"><circle cx="180.9" cy="217.4" r="4" fill="#3465a4"><title>Clemson University</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/"><circle cx="187.3" cy="188.1" r="4" fill="#3465a4"><title>Rogers Family (Kilkeel) (Personal)</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/"><circle cx="183.1" cy="181.8" r="4" fill="#3465a4"><title>77th Regiment</title></circle></a><a href="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/"><circle cx="195.2" cy="203.6" r="4" fill="#3465a4"><title>Westwood Gordon Pink (Fashion)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db0805267-dbi1604274/"><circle cx="204.0" cy="185.3" r="4" fill="#3465a4"><title>Merchiston, Castle School</title></circle></a><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><circle cx="153.0" cy="184.6" r="4" fill="#3465a4"><title>Westwood MacPoiret (Fashion)</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.3" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><circle cx="172.1" cy="209.5" r="4" fill="#3465a4"><title>92nd Regiment (Gordon) (Mil.)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db1204274-dbi1406275/"><circle cx="216.6" cy="188.8" r="4" fill="#3465a4"><title>Merchiston Castle School Corporate Tartan</title></circle></a><circle cx="182.1" cy="197.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/"><circle cx="130.5" cy="184.9" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><a href="/variants/s13/db11k2db2k2db2k8dp8lo2dp8k8db8k2db2~x4/"><circle cx="180.9" cy="217.4" r="4" fill="#3465a4"><title>Clemson University</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/"><circle cx="187.3" cy="187.9" r="4" fill="#3465a4"><title>Rogers Family (Kilkeel) (Personal)</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/"><circle cx="183.1" cy="181.7" r="4" fill="#3465a4"><title>77th Regiment</title></circle></a><a href="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/"><circle cx="195.2" cy="203.5" r="4" fill="#3465a4"><title>Westwood Gordon Pink (Fashion)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db0805267-dbi1604274/"><circle cx="204.1" cy="185.2" r="4" fill="#3465a4"><title>Merchiston, Castle School</title></circle></a><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><circle cx="153.0" cy="184.5" r="4" fill="#3465a4"><title>Westwood MacPoiret (Fashion)</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><circle cx="172.1" cy="209.4" r="4" fill="#3465a4"><title>92nd Regiment (Gordon) (Mil.)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db1204274-dbi1406275/"><circle cx="216.6" cy="188.7" r="4" fill="#3465a4"><title>Merchiston Castle School Corporate Tartan</title></circle></a><circle cx="182.1" cy="197.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2~x2~db1406275-dbi1506265/

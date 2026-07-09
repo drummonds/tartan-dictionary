@@ -1,5 +1,12 @@
 ---
 title: "Lawson, William"
-redirect: "/variants/s8/dy3g22dg13k15w3k16g1r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lawson, William](/variants/s8/dy3g22dg13k15w3k16g1r3~x2/).
+This is the **Lawson, William** sett — one scale-free proportion (`dy3g22dg13k15w3k16g1r3`), colour order pattern
+[GGGKWKGR](/stripes/gggkwkgr/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lawson, William](/variants/s8/dy3g22dg13k15w3k16g1r3~x2/) ★ | 2000 | ![Lawson, William sett](/variants/s8/dy3g22dg13k15w3k16g1r3~x2/sett.png) |

@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k1w1k1w1db1~x12/">Buccleuch, Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k1w1k1w1db1~x12/"><img src="/variants/s5/k1w1k1w1db1~x12/sett.png" alt="Buccleuch, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1w1k1w1db1~x12/">Buccleuch Check Regimental Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k1w1k1w1db1~x12/"><img src="/variants/s5/k1w1k1w1db1~x12/sett.png" alt="Buccleuch Check Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/k1w1k1w1t1~x12/">Haig Check (Estate Check)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/k1w1k1w1t1~x12/"><img src="/variants/s5/k1w1k1w1t1~x12/sett.png" alt="Haig Check (Estate Check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dp120w10k4w11k3w5k3w19/">Menzies Mauve and White</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp120w10k4w11k3w5k3w19/"><img src="/variants/s8/dp120w10k4w11k3w5k3w19/sett.png" alt="Menzies Mauve and White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp120w10k4w11k3w5k3w19/">Menzies Mauve Dress Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dp120w10k4w11k3w5k3w19/"><img src="/variants/s8/dp120w10k4w11k3w5k3w19/sett.png" alt="Menzies Mauve Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

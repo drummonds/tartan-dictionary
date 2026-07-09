@@ -1,5 +1,12 @@
 ---
 title: "MacDonald of Staffa #5"
-redirect: "/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDonald of Staffa #5](/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/).
+This is the **MacDonald of Staffa #5** sett — one scale-free proportion (`dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1`), colour order pattern
+[BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDonald of Staffa #5](/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/) ★ | ~2016 | ![MacDonald of Staffa #5 sett](/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/sett.png) |

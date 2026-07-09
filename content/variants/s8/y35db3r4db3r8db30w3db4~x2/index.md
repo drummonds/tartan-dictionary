@@ -1,16 +1,18 @@
 ---
 title: "Clemens and August (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clemens and August"
   url: "/tartans/clemens-and-august/"
 - name: "Clemens and August (Personal)"
-  url: ""
+  url: "/setts/y35db3r4db3r8db30w3db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y35db3r4db3r8db30w3db4/)
-(the same proportion at any scale), whose colour order is pattern [BWBRBRBG](/stripes/bwbrbrbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y35db3r4db3r8db30w3db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBRBRBG](/stripes/bwbrbrbg/).
 
 Part of the [Clemens and August](/tartans/clemens-and-august/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><circle cx="280.7" cy="182.0" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/"><circle cx="263.1" cy="174.0" r="4" fill="#3465a4"><title>Rannoch Moor (Fashion)</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.1" cy="145.7" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.2" cy="145.8" r="4" fill="#3465a4"><title>Mercer Personal Tartan</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="198.0" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.1" cy="187.2" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db0906265-dbi1208266/"><circle cx="210.5" cy="202.8" r="4" fill="#3465a4"><title>Unidentified #61</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.2" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="294.1" cy="169.6" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/"><circle cx="289.3" cy="164.6" r="4" fill="#3465a4"><title>Pacific</title></circle></a><circle cx="275.8" cy="179.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><circle cx="280.7" cy="182.0" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/"><circle cx="263.1" cy="173.9" r="4" fill="#3465a4"><title>Rannoch Moor (Fashion)</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.1" cy="145.5" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.2" cy="145.7" r="4" fill="#3465a4"><title>Mercer Personal Tartan</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="197.9" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.2" cy="187.1" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db0906265-dbi1208266/"><circle cx="210.5" cy="202.7" r="4" fill="#3465a4"><title>Unidentified #61</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.2" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="294.2" cy="169.5" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/"><circle cx="289.3" cy="164.5" r="4" fill="#3465a4"><title>Pacific</title></circle></a><circle cx="275.8" cy="178.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y35db3r4db3r8db30w3db4~x2/

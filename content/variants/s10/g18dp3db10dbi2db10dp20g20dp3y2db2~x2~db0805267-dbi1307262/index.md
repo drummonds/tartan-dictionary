@@ -1,14 +1,16 @@
 ---
 title: "Glasgow Cathedral"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow Cathedral"
   url: "/setts/g18dp3db10dbi2db10dp20g20dp3y2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g18dp3db10dbi2db10dp20g20dp3y2db2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBBBBBG](/stripes/bgbgbbbbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g18dp3db10dbi2db10dp20g20dp3y2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBBBBBG](/stripes/bgbgbbbbbg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.1" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.7" cy="191.6" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.4" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.9" cy="211.0" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><circle cx="247.0" cy="218.7" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.7" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="190.9" cy="208.0" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.2" cy="185.9" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.9" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.8" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><circle cx="230.4" cy="204.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.0" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.8" cy="191.5" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.3" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.9" cy="210.9" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><circle cx="247.0" cy="218.7" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.8" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="191.0" cy="207.9" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.3" cy="185.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.8" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><circle cx="219.7" cy="221.7" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><circle cx="230.4" cy="204.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/

@@ -1,5 +1,12 @@
 ---
 title: "Lytley Hunting (Personal)"
-redirect: "/variants/s5/dbi10r1ly1db3ly2~x5~dbi1406275-db1204274/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lytley Hunting (Personal)](/variants/s5/dbi10r1ly1db3ly2~x5~dbi1406275-db1204274/).
+This is the **Lytley Hunting (Personal)** sett — one scale-free proportion (`dbi10r1ly1db3ly2`), colour order pattern
+[BRYBY](/stripes/bryby/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×5 | [Lytley Hunting (Personal)](/variants/s5/dbi10r1ly1db3ly2~x5~dbi1406275-db1204274/) ★ | 2011 | ![Lytley Hunting (Personal) sett](/variants/s5/dbi10r1ly1db3ly2~x5~dbi1406275-db1204274/sett.png) |

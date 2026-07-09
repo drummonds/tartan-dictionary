@@ -1,14 +1,16 @@
 ---
 title: "Union Memorial Tartan (Military)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Union Memorial Tartan (Military)"
-  url: ""
+  url: "/setts/ly16r4ly4dy2db56r18dbi1db7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly16r4ly4dy2db56r18dbi1db7/)
-(the same proportion at any scale), whose colour order is pattern [BBRBGYRY](/stripes/bbrbgyry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly16r4ly4dy2db56r18dbi1db7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBGYRY](/stripes/bbrbgyry/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.8" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.0" cy="119.0" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/"><circle cx="379.8" cy="66.4" r="4" fill="#3465a4"><title>Chinese Scottish District Tartan</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.1" cy="67.4" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.4" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/"><circle cx="342.1" cy="94.1" r="4" fill="#3465a4"><title>College of New Caledonia</title></circle></a><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/"><circle cx="321.0" cy="90.2" r="4" fill="#3465a4"><title>Presley of Memphis</title></circle></a><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><circle cx="376.8" cy="129.4" r="4" fill="#3465a4"><title>Caithness Glass (Corporate)</title></circle></a><a href="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/"><circle cx="318.8" cy="89.3" r="4" fill="#3465a4"><title>St George</title></circle></a><a href="/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"><circle cx="383.1" cy="102.8" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><circle cx="345.7" cy="89.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.6" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.0" cy="118.9" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/"><circle cx="379.8" cy="66.3" r="4" fill="#3465a4"><title>Chinese Scottish District Tartan</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.1" cy="67.2" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.3" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/"><circle cx="342.1" cy="94.0" r="4" fill="#3465a4"><title>College of New Caledonia</title></circle></a><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/"><circle cx="321.0" cy="90.1" r="4" fill="#3465a4"><title>Presley of Memphis</title></circle></a><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><circle cx="376.8" cy="129.3" r="4" fill="#3465a4"><title>Caithness Glass (Corporate)</title></circle></a><a href="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/"><circle cx="318.8" cy="89.2" r="4" fill="#3465a4"><title>St George</title></circle></a><a href="/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"><circle cx="383.1" cy="102.7" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><circle cx="345.7" cy="89.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/

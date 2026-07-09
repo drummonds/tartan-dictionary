@@ -1,5 +1,12 @@
 ---
 title: "Newlands, Charlie (Personal)"
-redirect: "/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Newlands, Charlie (Personal)](/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/).
+This is the **Newlands, Charlie (Personal)** sett — one scale-free proportion (`db6k2dp9lb1dp9k2dt4k6dt24w1db6`), colour order pattern
+[BKBWBKBKBWB](/stripes/bkbwbkbkbwb/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Newlands, Charlie (Personal)](/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/) ★ | 2012 | ![Newlands, Charlie (Personal) sett](/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/sett.png) |

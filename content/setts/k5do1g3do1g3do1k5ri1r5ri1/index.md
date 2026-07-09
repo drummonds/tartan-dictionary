@@ -1,5 +1,12 @@
 ---
 title: "Murdoch (Dalgliesh)"
-redirect: "/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Murdoch (Dalgliesh)](/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/).
+This is the **Murdoch (Dalgliesh)** sett — one scale-free proportion (`k5do1g3do1g3do1k5ri1r5ri1`), colour order pattern
+[KBGBGBKRRR](/stripes/kbgbgbkrrr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Murdoch (Dalgliesh)](/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/) ★ | 2002 | ![Murdoch (Dalgliesh) sett](/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/sett.png) |

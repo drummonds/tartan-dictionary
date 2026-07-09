@@ -1,16 +1,18 @@
 ---
 title: "Scottish Hockey Union (Sports)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Hockey Union"
   url: "/tartans/scottish-hockey-union/"
 - name: "Scottish Hockey Union (Sports)"
-  url: ""
+  url: "/setts/db50k10db6k10db6g5lp5g5o8g23w5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db50k10db6k10db6g5lp5g5o8g23w5/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBGWGRGW](/stripes/bkbkbgwgrgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db50k10db6k10db6g5lp5g5o8g23w5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBGWGRGW](/stripes/bkbkbgwgrgw/).
 
 Part of the [Scottish Hockey Union](/tartans/scottish-hockey-union/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.5" cy="123.2" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s11/k3dg2k12db4t19dr3t19db4k12dg2lo3~x2/"><circle cx="145.4" cy="144.5" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.5" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="148.9" cy="136.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.0" cy="157.5" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="212.0" cy="135.3" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="118.1" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s12/y2db17k4w2k2y2k2db4g6k2g2w2~x2/"><circle cx="147.8" cy="141.3" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><circle cx="117.0" cy="138.2" r="4" fill="#3465a4"><title>Big Rory (Corporate)</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><circle cx="180.6" cy="134.7" r="4" fill="#3465a4"><title>Forth</title></circle></a><circle cx="163.4" cy="128.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.6" cy="123.1" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s11/k3dg2k12db4t19dr3t19db4k12dg2lo3~x2/"><circle cx="145.4" cy="144.3" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="148.9" cy="136.2" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.1" cy="157.4" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="212.0" cy="135.2" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="117.9" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s12/y2db17k4w2k2y2k2db4g6k2g2w2~x2/"><circle cx="147.8" cy="141.2" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><circle cx="117.0" cy="138.1" r="4" fill="#3465a4"><title>Big Rory (Corporate)</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><circle cx="180.7" cy="134.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><circle cx="163.4" cy="128.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db50k10db6k10db6g5lp5g5o8g23w5~x2/

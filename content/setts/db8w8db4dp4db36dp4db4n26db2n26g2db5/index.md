@@ -1,5 +1,12 @@
 ---
 title: "Historic Scotland (1998)"
-redirect: "/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Historic Scotland (1998)](/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/).
+This is the **Historic Scotland (1998)** sett — one scale-free proportion (`db8w8db4dp4db36dp4db4n26db2n26g2db5`), colour order pattern
+[BWBBBBBBBBGBGBBBBBBBBW](/stripes/bwbbbbbbbbgbgbbbbbbbbw/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Historic Scotland (1998)](/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/) ★ | 1998 | ![Historic Scotland (1998) sett](/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/sett.png) |

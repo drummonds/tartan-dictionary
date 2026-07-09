@@ -2,15 +2,15 @@
 title: "Gow"
 date: 2023-03-18
 ---
-The **Gow** tartan is one sett proportion (`r4db4r1g4r4`) recorded at 3 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[RBRGR](/stripes/rbrgr/); each scale below is its own sett page. First attested **2002**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Gow** sett — one scale-free proportion (`r4db4r1g4r4`), colour order pattern
+[RBRGR](/stripes/rbrgr/). It is recorded as **3 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **2002**.
 
-Part of the [Gow](/tartans/gow/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Gow](/tartans/gow/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×6 | [MacGowan](/variants/s5/r4db4r1g4r4~x6/) ★ | 2002 | ![MacGowan sett](/variants/s5/r4db4r1g4r4~x6/sett.png) |
 | ×1 | [Gow](/variants/s5/r4db4r1g4r4/) | ~2016 | ![Gow sett](/variants/s5/r4db4r1g4r4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "State Seal of Massachusetts Fash)"
-redirect: "/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [State Seal of Massachusetts Fash)](/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/).
+This is the **State Seal of Massachusetts Fash)** sett — one scale-free proportion (`k62t4k7db29k3ly4k3w4k11t16`), colour order pattern
+[BKWKYKBKBK](/stripes/bkwkykbkbk/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [State Seal of Massachusetts Fash)](/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/) ★ | 2013 | ![State Seal of Massachusetts Fash) sett](/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/sett.png) |

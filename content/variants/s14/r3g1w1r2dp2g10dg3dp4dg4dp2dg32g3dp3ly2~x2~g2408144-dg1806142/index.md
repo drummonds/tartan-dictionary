@@ -1,14 +1,16 @@
 ---
 title: "McGran (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McGran (Personal)"
-  url: ""
+  url: "/setts/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2/)
-(the same proportion at any scale), whose colour order is pattern [RGWRBGGBGBGGBY](/stripes/rgwrbggbgbggby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGWRBGGBGBGGBY](/stripes/rgwrbggbgbggby/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/"><circle cx="334.8" cy="66.3" r="4" fill="#3465a4"><title>McGran (Personal)</title></circle></a><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><circle cx="318.0" cy="97.2" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/"><circle cx="300.4" cy="126.3" r="4" fill="#3465a4"><title>Westmeath</title></circle></a><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><circle cx="280.1" cy="66.8" r="4" fill="#3465a4"><title>Thomas McGurran</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.3" cy="85.6" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/"><circle cx="317.8" cy="121.2" r="4" fill="#3465a4"><title>Lorne, Marquis of #2</title></circle></a><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><circle cx="379.4" cy="89.8" r="4" fill="#3465a4"><title>Schuster (Perosnal)</title></circle></a><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/"><circle cx="350.0" cy="73.1" r="4" fill="#3465a4"><title>Morgan Jocelyn Osmélian Peregrine (Personal)</title></circle></a><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/"><circle cx="425.5" cy="88.0" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/"><circle cx="370.6" cy="83.5" r="4" fill="#3465a4"><title>Morgan Jocelyn . . . (Personal)</title></circle></a><circle cx="330.0" cy="87.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/"><circle cx="334.8" cy="66.1" r="4" fill="#3465a4"><title>McGran (Personal)</title></circle></a><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><circle cx="318.0" cy="97.0" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/"><circle cx="300.4" cy="126.1" r="4" fill="#3465a4"><title>Westmeath</title></circle></a><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><circle cx="280.1" cy="66.6" r="4" fill="#3465a4"><title>Thomas McGurran</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.3" cy="85.4" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/"><circle cx="317.8" cy="121.1" r="4" fill="#3465a4"><title>Lorne, Marquis of #2</title></circle></a><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><circle cx="379.4" cy="89.7" r="4" fill="#3465a4"><title>Schuster (Perosnal)</title></circle></a><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/"><circle cx="350.0" cy="72.9" r="4" fill="#3465a4"><title>Morgan Jocelyn Osmélian Peregrine (Personal)</title></circle></a><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/"><circle cx="425.5" cy="87.9" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/"><circle cx="370.6" cy="83.3" r="4" fill="#3465a4"><title>Morgan Jocelyn . . . (Personal)</title></circle></a><circle cx="330.0" cy="87.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/

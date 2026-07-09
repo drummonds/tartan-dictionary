@@ -1,6 +1,7 @@
 ---
 title: "East Lothian"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "East Lothian"
   url: "/tartans/east-lothian/"
 - name: "East Lothian"
-  url: ""
+  url: "/setts/lb6db17dp4db2k11g33y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6db17dp4db2k11g33y4/)
-(the same proportion at any scale), whose colour order is pattern [GGKBBBW](/stripes/ggkbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb6db17dp4db2k11g33y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKBBBW](/stripes/ggkbbbw/).
 
 Part of the [East Lothian](/tartans/east-lothian/) tartan — the named design grouping this sett with its other cloths.
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.7" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s7/r4lb38k4lb6k41g62ly4/"><circle cx="155.2" cy="147.9" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.1" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><circle cx="128.0" cy="164.2" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><circle cx="142.2" cy="115.9" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.3" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.2" cy="133.9" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><circle cx="168.0" cy="158.0" r="4" fill="#3465a4"><title>Camelot (Corporate)</title></circle></a><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/"><circle cx="125.7" cy="121.9" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.2" cy="138.1" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><circle cx="158.6" cy="142.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.6" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s7/r4lb38k4lb6k41g62ly4/"><circle cx="155.3" cy="147.8" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.0" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><circle cx="128.1" cy="164.1" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><circle cx="142.2" cy="115.7" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.2" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.3" cy="133.8" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><circle cx="168.1" cy="157.9" r="4" fill="#3465a4"><title>Camelot (Corporate)</title></circle></a><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/"><circle cx="125.8" cy="121.8" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.3" cy="138.0" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><circle cx="158.7" cy="142.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb6db17dp4db2k11g33y4~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Stirling University #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stirling University #2"
-  url: ""
+  url: "/setts/g22r3w1g2r3lb16k3dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g22r3w1g2r3lb16k3dy2/)
-(the same proportion at any scale), whose colour order is pattern [GRWGRWKGKWRGWR](/stripes/grwgrwkgkwrgwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g22r3w1g2r3lb16k3dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRWGRWKGKWRGWR](/stripes/grwgrwkgkwrgwr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="207.7" cy="110.5" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan</title></circle></a><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/"><circle cx="181.4" cy="91.3" r="4" fill="#3465a4"><title>Wcwm 972-1</title></circle></a><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><circle cx="100.2" cy="87.2" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><circle cx="202.9" cy="68.7" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.9" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.0" cy="92.5" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><circle cx="209.9" cy="77.3" r="4" fill="#3465a4"><title>Ethiopia</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.0" cy="76.6" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/"><circle cx="176.7" cy="43.7" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/"><circle cx="220.6" cy="102.5" r="4" fill="#3465a4"><title>Cahaba Memorial (Commemorative)</title></circle></a><circle cx="163.1" cy="86.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="207.7" cy="110.4" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan</title></circle></a><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/"><circle cx="181.4" cy="91.1" r="4" fill="#3465a4"><title>Wcwm 972-1</title></circle></a><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><circle cx="100.2" cy="87.0" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><circle cx="202.9" cy="68.5" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.8" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.0" cy="92.3" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><circle cx="209.9" cy="77.2" r="4" fill="#3465a4"><title>Ethiopia</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.0" cy="76.5" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/"><circle cx="176.7" cy="43.5" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/"><circle cx="220.6" cy="102.4" r="4" fill="#3465a4"><title>Cahaba Memorial (Commemorative)</title></circle></a><circle cx="163.1" cy="86.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g22r3w1g2r3lb16k3dy2~x4/

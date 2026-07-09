@@ -1,5 +1,12 @@
 ---
 title: "Queen Margaret University (Corporate"
-redirect: "/variants/s7/k1w3db2w4db8w1db1~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Queen Margaret University (Corporate](/variants/s7/k1w3db2w4db8w1db1~x6/).
+This is the **Queen Margaret University (Corporate** sett — one scale-free proportion (`k1w3db2w4db8w1db1`), colour order pattern
+[BWBWBWK](/stripes/bwbwbwk/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Queen Margaret University (Corporate](/variants/s7/k1w3db2w4db8w1db1~x6/) ★ | ~2008 | ![Queen Margaret University (Corporate sett](/variants/s7/k1w3db2w4db8w1db1~x6/sett.png) |

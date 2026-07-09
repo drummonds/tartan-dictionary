@@ -1,5 +1,14 @@
 ---
 title: "Buchanan Dress, Blue (Dance)"
-redirect: "/variants/s6/w5db16w5db16w33r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Buchanan Dress, Blue (Dance)](/variants/s6/w5db16w5db16w33r3~x2/).
+This is the **Buchanan Dress, Blue (Dance)** sett — one scale-free proportion (`w5db16w5db16w33r3`), colour order pattern
+[RWBWBW](/stripes/rwbwbw/). It is recorded as a single **variant**, below.
+First attested **1983**.
+
+Part of the [Buchanan Dress](/tartans/buchanan-dress-2/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Buchanan Dress, Blue (Dance)](/variants/s6/w5db16w5db16w33r3~x2/) ★ | 1983 | ![Buchanan Dress, Blue (Dance) sett](/variants/s6/w5db16w5db16w33r3~x2/sett.png) |

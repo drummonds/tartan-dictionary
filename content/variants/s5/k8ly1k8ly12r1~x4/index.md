@@ -1,6 +1,7 @@
 ---
 title: "MacLeod of Lewis (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "MacLeod of Lewis"
   url: "/tartans/macleod-of-lewis/"
 - name: "MacLeod of Lewis (Clan)"
-  url: ""
+  url: "/setts/k8ly1k8ly12r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8ly1k8ly12r1/)
-(the same proportion at any scale), whose colour order is pattern [KYKYR](/stripes/kykyr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k8ly1k8ly12r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYKYR](/stripes/kykyr/).
 
 Part of the [MacLeod of Lewis](/tartans/macleod-of-lewis/) tartan — the named design grouping this sett with its other cloths.
 
@@ -83,6 +85,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="280.7" cy="208.3" r="4" fill="#3465a4"><title>MacLeod of Lewis (Vestiarium Scoticum)</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x2/"><circle cx="280.7" cy="208.3" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s5/k4y1k4y6r1~x4/"><circle cx="230.3" cy="246.3" r="4" fill="#3465a4"><title>MacLeod Dress Clan Tartan</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="250.7" cy="214.6" r="4" fill="#3465a4"><title>MacLeod #3</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k23y3k23w36r4~x2/"><circle cx="223.6" cy="192.8" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="240.3" cy="193.0" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="280.3" cy="202.9" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="260.0" cy="199.1" r="4" fill="#3465a4"><title>Porter Drinkers (Commemorative)</title></circle></a><a href="/variants/s5/k3w3k3y10r1~x6/"><circle cx="203.6" cy="195.3" r="4" fill="#3465a4"><title>(6) Burberry</title></circle></a><circle cx="262.3" cy="205.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="280.8" cy="208.2" r="4" fill="#3465a4"><title>MacLeod of Lewis (Vestiarium Scoticum)</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x2/"><circle cx="280.8" cy="208.2" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s5/k4y1k4y6r1~x4/"><circle cx="230.3" cy="246.2" r="4" fill="#3465a4"><title>MacLeod Dress Clan Tartan</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="250.7" cy="214.5" r="4" fill="#3465a4"><title>MacLeod #3</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.9" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k23y3k23w36r4~x2/"><circle cx="223.6" cy="192.8" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="240.3" cy="193.0" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="280.3" cy="202.8" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="260.0" cy="199.1" r="4" fill="#3465a4"><title>Porter Drinkers (Commemorative)</title></circle></a><a href="/variants/s5/k3w3k3y10r1~x6/"><circle cx="203.6" cy="195.2" r="4" fill="#3465a4"><title>(6) Burberry</title></circle></a><circle cx="262.3" cy="204.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k8ly1k8ly12r1~x4/

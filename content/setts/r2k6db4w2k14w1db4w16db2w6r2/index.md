@@ -1,5 +1,12 @@
 ---
 title: "McRae, Dress"
-redirect: "/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McRae, Dress](/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/).
+This is the **McRae, Dress** sett — one scale-free proportion (`r2k6db4w2k14w1db4w16db2w6r2`), colour order pattern
+[RKBWKWBWBWR](/stripes/rkbwkwbwbwr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McRae, Dress](/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/) ★ | ~2016 | ![McRae, Dress sett](/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "MacDonald Pattern of Plaids"
-redirect: "/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDonald Pattern of Plaids](/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/).
+This is the **MacDonald Pattern of Plaids** sett — one scale-free proportion (`db16r4db6r10db30r4k30w34r9w6r4w16`), colour order pattern
+[BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [MacDonald Pattern of Plaids](/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/) ★ | ~2016 | ![MacDonald Pattern of Plaids sett](/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/sett.png) |

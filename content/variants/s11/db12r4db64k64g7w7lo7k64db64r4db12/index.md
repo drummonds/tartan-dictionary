@@ -1,14 +1,16 @@
 ---
 title: "Sandhu (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sandhu (Name)"
-  url: ""
+  url: "/setts/db12r4db64k64g7w7lo7k64db64r4db12/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12r4db64k64g7w7lo7k64db64r4db12/)
-(the same proportion at any scale), whose colour order is pattern [BRBKGWYKBRB](/stripes/brbkgwykbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db12r4db64k64g7w7lo7k64db64r4db12/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKGWYKBRB](/stripes/brbkgwykbrb/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k17db24g3db3w3db3r3db24k17w1~x2/"><circle cx="278.8" cy="122.6" r="4" fill="#3465a4"><title>Al-Fadhli (Personal)</title></circle></a><a href="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/"><circle cx="294.8" cy="105.8" r="4" fill="#3465a4"><title>Al-Fadhli (Personal)</title></circle></a><a href="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/"><circle cx="233.2" cy="131.2" r="4" fill="#3465a4"><title>Hynett, William (Personal)</title></circle></a><a href="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="206.8" cy="121.4" r="4" fill="#3465a4"><title>Edgar (2014)</title></circle></a><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="196.4" cy="97.8" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/"><circle cx="214.6" cy="111.5" r="4" fill="#3465a4"><title>Presley of Lonmay #2</title></circle></a><a href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><circle cx="189.4" cy="135.5" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/"><circle cx="187.3" cy="135.0" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries (Corp.)</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="233.8" cy="106.8" r="4" fill="#3465a4"><title>Dugan (Personal)</title></circle></a><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/"><circle cx="204.5" cy="95.8" r="4" fill="#3465a4"><title>Sandhu (Personal)</title></circle></a><circle cx="229.7" cy="117.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k17db24g3db3w3db3r3db24k17w1~x2/"><circle cx="278.8" cy="122.4" r="4" fill="#3465a4"><title>Al-Fadhli (Personal)</title></circle></a><a href="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/"><circle cx="294.8" cy="105.7" r="4" fill="#3465a4"><title>Al-Fadhli (Personal)</title></circle></a><a href="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/"><circle cx="233.2" cy="131.0" r="4" fill="#3465a4"><title>Hynett, William (Personal)</title></circle></a><a href="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="206.8" cy="121.2" r="4" fill="#3465a4"><title>Edgar (2014)</title></circle></a><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="196.4" cy="97.6" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/"><circle cx="214.6" cy="111.4" r="4" fill="#3465a4"><title>Presley of Lonmay #2</title></circle></a><a href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><circle cx="189.4" cy="135.4" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/"><circle cx="187.4" cy="134.9" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries (Corp.)</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="233.8" cy="106.7" r="4" fill="#3465a4"><title>Dugan (Personal)</title></circle></a><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/"><circle cx="204.5" cy="95.6" r="4" fill="#3465a4"><title>Sandhu (Personal)</title></circle></a><circle cx="229.7" cy="117.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/

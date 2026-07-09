@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/setts/r4db4r1g4r4/">Gow</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r4db4r1g4r4/"><img src="/variants/s5/r4db4r1g4r4/sett.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r4dg4r1db4r4~x4/"><img src="/variants/s5/r4dg4r1db4r4~x4/sett.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/r3dg3r1db3r3~x12/">Gow (Portrait)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r3dg3r1db3r3~x12/"><img src="/variants/s5/r3dg3r1db3r3~x12/sett.png" alt="Gow (Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r4dg4r1db4r4~x4/">Gow Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r4dg4r1db4r4~x4/"><img src="/variants/s5/r4dg4r1db4r4~x4/sett.png" alt="Gow Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -1,5 +1,12 @@
 ---
 title: "Connell (Dalgliesh) (Personal)"
-redirect: "/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Connell (Dalgliesh) (Personal)](/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/).
+This is the **Connell (Dalgliesh) (Personal)** sett — one scale-free proportion (`r3g12r1g2r2g2r1g12r3k1`), colour order pattern
+[KRGRGRGRGR](/stripes/krgrgrgrgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Connell (Dalgliesh) (Personal)](/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/) ★ | ~2016 | ![Connell (Dalgliesh) (Personal) sett](/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png) |

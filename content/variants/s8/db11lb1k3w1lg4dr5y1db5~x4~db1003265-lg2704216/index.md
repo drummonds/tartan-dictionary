@@ -1,14 +1,16 @@
 ---
 title: "Wingtip"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wingtip"
-  url: ""
+  url: "/setts/db11lb1k3w1lg4dr5y1db5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db11lb1k3w1lg4dr5y1db5/)
-(the same proportion at any scale), whose colour order is pattern [BGBYWKWB](/stripes/bgbywkwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db11lb1k3w1lg4dr5y1db5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBYWKWB](/stripes/bgbywkwb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.5" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.2" cy="125.2" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="229.9" cy="140.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.7" cy="154.4" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s9/db40r4k16w3dy8dr4dy3dr8k10~x2/"><circle cx="176.1" cy="129.7" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="193.3" cy="109.4" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.2" cy="162.9" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.6" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.1" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/"><circle cx="164.3" cy="139.1" r="4" fill="#3465a4"><title>Young Enterprise Scotland</title></circle></a><circle cx="188.5" cy="150.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.4" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.3" cy="125.1" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s9/db40r4k16w3dy8dr4dy3dr8k10~x2/"><circle cx="176.1" cy="129.6" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="193.3" cy="109.2" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.2" cy="162.9" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.5" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.0" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/"><circle cx="164.4" cy="139.0" r="4" fill="#3465a4"><title>Young Enterprise Scotland</title></circle></a><circle cx="188.6" cy="150.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/

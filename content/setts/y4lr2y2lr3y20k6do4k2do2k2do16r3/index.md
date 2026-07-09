@@ -1,5 +1,12 @@
 ---
 title: "Scotch House 'Dorcas' (Fashion)"
-redirect: "/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scotch House 'Dorcas' (Fashion)](/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/).
+This is the **Scotch House 'Dorcas' (Fashion)** sett — one scale-free proportion (`y4lr2y2lr3y20k6do4k2do2k2do16r3`), colour order pattern
+[GYGYGKBKBKBR](/stripes/gygygkbkbkbr/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scotch House 'Dorcas' (Fashion)](/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/) ★ | 1980 | ![Scotch House 'Dorcas' (Fashion) sett](/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/sett.png) |

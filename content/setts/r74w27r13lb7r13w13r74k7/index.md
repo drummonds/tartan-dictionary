@@ -1,5 +1,12 @@
 ---
 title: "Cornell (Corporate)"
-redirect: "/variants/s8/r74w27r13lb7r13w13r74k7/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cornell (Corporate)](/variants/s8/r74w27r13lb7r13w13r74k7/).
+This is the **Cornell (Corporate)** sett — one scale-free proportion (`r74w27r13lb7r13w13r74k7`), colour order pattern
+[KRWRWRWR](/stripes/krwrwrwr/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Cornell (Corporate)](/variants/s8/r74w27r13lb7r13w13r74k7/) ★ | ~2008 | ![Cornell (Corporate) sett](/variants/s8/r74w27r13lb7r13w13r74k7/sett.png) |

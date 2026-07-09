@@ -1,14 +1,16 @@
 ---
 title: "Ontario"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ontario"
-  url: ""
+  url: "/setts/y14o2r2o2r2o2r2o2r2o2g25y8r4o4g3o1g3o1g4r10o2g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y14o2r2o2r2o2r2o2r2o2g25y8r4o4g3o1g3o1g4r10o2g2/)
-(the same proportion at any scale), whose colour order is pattern [GRRGRGRGRRGGRRRRRRRRRG](/stripes/grrgrgrgrrggrrrrrrrrrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y14o2r2o2r2o2r2o2r2o2g25y8r4o4g3o1g3o1g4r10o2g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRRGRGRGRRGGRRRRRRRRRG](/stripes/grrgrgrgrrggrrrrrrrrrg/).
 
 Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 

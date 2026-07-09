@@ -1,14 +1,16 @@
 ---
 title: "St Andrews, University of"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "St Andrews, University of"
-  url: ""
+  url: "/setts/k3db2y2db2y3dbi16g4k3g3db3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3db2y2db2y3dbi16g4k3g3db3/)
-(the same proportion at any scale), whose colour order is pattern [BGKGBGBGBK](/stripes/bgkgbgbgbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3db2y2db2y3dbi16g4k3g3db3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKGBGBGBK](/stripes/bgkgbgbgbk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/"><circle cx="189.6" cy="158.7" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><a href="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/"><circle cx="178.6" cy="155.1" r="4" fill="#3465a4"><title>Brady 60th (Personal)</title></circle></a><a href="/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2~x2~dbi1605267-db1003265/"><circle cx="157.8" cy="143.9" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.6" cy="172.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.6" cy="172.6" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/"><circle cx="151.7" cy="175.2" r="4" fill="#3465a4"><title>Pro Simon</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.1" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13b2db1~x4/"><circle cx="192.5" cy="159.8" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.1" cy="210.0" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s10/b13dg19k2dg7k2dg7k2db18r2b13~x2/"><circle cx="185.6" cy="191.3" r="4" fill="#3465a4"><title>South Australia</title></circle></a><circle cx="161.5" cy="172.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/"><circle cx="189.6" cy="158.6" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><a href="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/"><circle cx="178.6" cy="155.0" r="4" fill="#3465a4"><title>Brady 60th (Personal)</title></circle></a><a href="/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2~x2~dbi1605267-db1003265/"><circle cx="157.8" cy="143.8" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.7" cy="171.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.7" cy="172.5" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/"><circle cx="151.7" cy="175.1" r="4" fill="#3465a4"><title>Pro Simon</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.0" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13b2db1~x4/"><circle cx="192.6" cy="159.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.2" cy="209.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s10/b13dg19k2dg7k2dg7k2db18r2b13~x2/"><circle cx="185.6" cy="191.2" r="4" fill="#3465a4"><title>South Australia</title></circle></a><circle cx="161.5" cy="172.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275/

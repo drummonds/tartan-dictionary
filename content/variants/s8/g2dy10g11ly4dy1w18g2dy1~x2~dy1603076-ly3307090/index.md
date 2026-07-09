@@ -1,6 +1,7 @@
 ---
 title: "Aviemore Check"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Aviemore Check"
   url: "/setts/g2dy10g11ly4dy1w18g2dy1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2dy10g11ly4dy1w18g2dy1/)
-(the same proportion at any scale), whose colour order is pattern [GGGYGWGG](/stripes/gggygwgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g2dy10g11ly4dy1w18g2dy1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGYGWGG](/stripes/gggygwgg/).
 
 Part of the [Aviemore Check](/tartans/aviemore-check/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2o10g11y4o1w18g2o1~x2/"><circle cx="219.4" cy="179.0" r="4" fill="#3465a4"><title>Aviemore, Check</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="181.0" cy="211.4" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/dg2do8dg8o3do1w12dg2do1~x2/"><circle cx="153.7" cy="190.3" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/"><circle cx="271.9" cy="160.5" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/"><circle cx="132.2" cy="175.9" r="4" fill="#3465a4"><title>National Trust Corporate Tartan</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.6" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/"><circle cx="244.3" cy="165.5" r="4" fill="#3465a4"><title>Dogwood Trade Tartan</title></circle></a><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/"><circle cx="214.1" cy="219.2" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><circle cx="221.7" cy="187.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2o10g11y4o1w18g2o1~x2/"><circle cx="219.4" cy="178.9" r="4" fill="#3465a4"><title>Aviemore, Check</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="181.1" cy="211.4" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/dg2do8dg8o3do1w12dg2do1~x2/"><circle cx="153.7" cy="190.2" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/"><circle cx="271.9" cy="160.4" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/"><circle cx="132.2" cy="175.8" r="4" fill="#3465a4"><title>National Trust Corporate Tartan</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.5" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/"><circle cx="244.3" cy="165.4" r="4" fill="#3465a4"><title>Dogwood Trade Tartan</title></circle></a><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/"><circle cx="214.1" cy="219.1" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><circle cx="221.7" cy="187.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/

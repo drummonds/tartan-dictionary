@@ -1,14 +1,16 @@
 ---
 title: "Sinclair Hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sinclair Hunting"
-  url: ""
+  url: "/setts/g6r2g13k6w2k16r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6r2g13k6w2k16r3/)
-(the same proportion at any scale), whose colour order is pattern [GRGKWKR](/stripes/grgkwkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6r2g13k6w2k16r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGKWKR](/stripes/grgkwkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.6" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="145.2" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="164.0" cy="196.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.9" cy="198.5" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.9" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="241.8" cy="189.3" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.9" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="118.9" cy="189.9" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="145.1" cy="212.8" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><circle cx="178.0" cy="197.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.5" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="145.1" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="164.0" cy="196.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.9" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.9" cy="198.4" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.8" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="241.8" cy="189.2" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.8" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="119.0" cy="189.8" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="145.1" cy="212.7" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><circle cx="178.1" cy="197.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g6r2g13k6w2k16r3~x2/

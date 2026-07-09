@@ -1,14 +1,16 @@
 ---
 title: "Gill, Anil (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gill, Anil (Personal)"
-  url: ""
+  url: "/setts/g1db30dp32db1r5db1ri4db1r2w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1db30dp32db1r5db1ri4db1r2w1/)
-(the same proportion at any scale), whose colour order is pattern [GBBBRBRBRW](/stripes/gbbbrbrbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g1db30dp32db1r5db1ri4db1r2w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBRBRBRW](/stripes/gbbbrbrbrw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.3" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275/"><circle cx="298.4" cy="107.5" r="4" fill="#3465a4"><title>University of Dundee (Corporate)</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2/"><circle cx="345.2" cy="128.6" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.3" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/"><circle cx="293.6" cy="126.0" r="4" fill="#3465a4"><title>Yarns to Yearn For</title></circle></a><a href="/variants/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/"><circle cx="347.5" cy="129.2" r="4" fill="#3465a4"><title>Pride of Fife</title></circle></a><a href="/variants/s8/k4dp2dr7dp60g15db60t5w3/"><circle cx="260.7" cy="102.6" r="4" fill="#3465a4"><title>Albannach (Corporate)</title></circle></a><a href="/variants/s8/k4dp2r7dp60g15db60t5w3/"><circle cx="245.9" cy="96.3" r="4" fill="#3465a4"><title>Albannach</title></circle></a><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"><circle cx="315.2" cy="97.5" r="4" fill="#3465a4"><title>Guild, The</title></circle></a><a href="/variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/"><circle cx="336.6" cy="119.0" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan</title></circle></a><circle cx="326.6" cy="98.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.2" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275/"><circle cx="298.4" cy="107.3" r="4" fill="#3465a4"><title>University of Dundee (Corporate)</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2/"><circle cx="345.2" cy="128.5" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.1" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/"><circle cx="293.6" cy="125.8" r="4" fill="#3465a4"><title>Yarns to Yearn For</title></circle></a><a href="/variants/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/"><circle cx="347.6" cy="129.1" r="4" fill="#3465a4"><title>Pride of Fife</title></circle></a><a href="/variants/s8/k4dp2dr7dp60g15db60t5w3/"><circle cx="260.8" cy="102.5" r="4" fill="#3465a4"><title>Albannach (Corporate)</title></circle></a><a href="/variants/s8/k4dp2r7dp60g15db60t5w3/"><circle cx="245.9" cy="96.2" r="4" fill="#3465a4"><title>Albannach</title></circle></a><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"><circle cx="315.2" cy="97.3" r="4" fill="#3465a4"><title>Guild, The</title></circle></a><a href="/variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/"><circle cx="336.7" cy="118.8" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan</title></circle></a><circle cx="326.6" cy="97.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/

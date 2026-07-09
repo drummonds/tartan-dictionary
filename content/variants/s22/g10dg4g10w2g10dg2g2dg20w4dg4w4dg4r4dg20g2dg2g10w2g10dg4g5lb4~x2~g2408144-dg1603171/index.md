@@ -1,14 +1,16 @@
 ---
 title: "Toshach Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Toshach"
   url: "/setts/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4/)
-(the same proportion at any scale), whose colour order is pattern [GGGWGGGGWGWGRGGGGWGGGW](/stripes/gggwggggwgwgrggggwgggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGWGGGGWGWGRGGGGWGGGW](/stripes/gggwggggwgwgrggggwgggw/).
 
 Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2002 Toshach is an early Celtic title given to minor te
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g2408144/"><circle cx="190.7" cy="158.3" r="4" fill="#3465a4"><title>Toshach</title></circle></a><a href="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2/"><circle cx="199.5" cy="160.8" r="4" fill="#3465a4"><title>Toshach (Artefact)</title></circle></a><a href="/variants/s22/dg10dgi4dg10w2dg10dgi2dg2dgi20w4dgi4w4dgi4r4dgi20dg2dgi2dg10w2dg10dgi4dg5b4~x2~dg1104144-dgi1704158/"><circle cx="216.8" cy="165.0" r="4" fill="#3465a4"><title>Toshach</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16w2dg4~x2/"><circle cx="239.2" cy="194.6" r="4" fill="#3465a4"><title>Confessore Family Tartan</title></circle></a><a href="/variants/s14/g8dg2w2dg6y2db14g4dg16g16r2g5w2g4dg7/"><circle cx="172.6" cy="181.9" r="4" fill="#3465a4"><title>Scott Hunting special</title></circle></a><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><circle cx="223.1" cy="180.2" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s18/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4db21~x2/"><circle cx="207.3" cy="179.3" r="4" fill="#3465a4"><title>Shedor (2013)</title></circle></a><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/"><circle cx="235.1" cy="161.3" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><circle cx="216.7" cy="168.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g2408144/"><circle cx="190.7" cy="158.2" r="4" fill="#3465a4"><title>Toshach</title></circle></a><a href="/variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2/"><circle cx="199.5" cy="160.7" r="4" fill="#3465a4"><title>Toshach (Artefact)</title></circle></a><a href="/variants/s22/dg10dgi4dg10w2dg10dgi2dg2dgi20w4dgi4w4dgi4r4dgi20dg2dgi2dg10w2dg10dgi4dg5b4~x2~dg1104144-dgi1704158/"><circle cx="216.8" cy="164.9" r="4" fill="#3465a4"><title>Toshach</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16w2dg4~x2/"><circle cx="239.2" cy="194.5" r="4" fill="#3465a4"><title>Confessore Family Tartan</title></circle></a><a href="/variants/s14/g8dg2w2dg6y2db14g4dg16g16r2g5w2g4dg7/"><circle cx="172.7" cy="181.8" r="4" fill="#3465a4"><title>Scott Hunting special</title></circle></a><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><circle cx="223.1" cy="180.0" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s18/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4db21~x2/"><circle cx="207.3" cy="179.2" r="4" fill="#3465a4"><title>Shedor (2013)</title></circle></a><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/"><circle cx="235.1" cy="161.2" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><circle cx="216.7" cy="168.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4~x2~g2408144-dg1603171/

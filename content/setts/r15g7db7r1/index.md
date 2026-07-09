@@ -1,5 +1,12 @@
 ---
 title: "Hugh Fraser of Boblainy"
-redirect: "/variants/s4/r15g7db7r1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hugh Fraser of Boblainy](/variants/s4/r15g7db7r1~x4/).
+This is the **Hugh Fraser of Boblainy** sett — one scale-free proportion (`r15g7db7r1`), colour order pattern
+[RBGR](/stripes/rbgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Hugh Fraser of Boblainy](/variants/s4/r15g7db7r1~x4/) ★ | ~2016 | ![Hugh Fraser of Boblainy sett](/variants/s4/r15g7db7r1~x4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Fermanagh (1990)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fermanagh (1990)"
-  url: ""
+  url: "/setts/n44do4n1k1n4y4k1db4do4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n44do4n1k1n4y4k1db4do4/)
-(the same proportion at any scale), whose colour order is pattern [BBBKBGKBB](/stripes/bbbkbgkbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n44do4n1k1n4y4k1db4do4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBKBGKBB](/stripes/bbbkbgkbb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/"><circle cx="439.1" cy="159.5" r="4" fill="#3465a4"><title>Hebridean Thistle (Fashion)</title></circle></a><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><circle cx="453.2" cy="167.4" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/"><circle cx="504.7" cy="68.6" r="4" fill="#3465a4"><title>Kervegant (Personal)</title></circle></a><a href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><circle cx="450.3" cy="110.0" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/variants/s10/n110o3lr14w1dp10w1lr6o3dp4n2~x2~n1700000-lr2800000/"><circle cx="574.8" cy="86.1" r="4" fill="#3465a4"><title>Vetoclock</title></circle></a><a href="/variants/s5/do40n19k2n2lb2~x4/"><circle cx="461.1" cy="185.2" r="4" fill="#3465a4"><title>National Ballet of Canada</title></circle></a><a href="/variants/s14/db4o2db2oi4o2db8o2k2n43k2n43oi2db8n2~db1004274-oi2404317-k0800000-n1900000/"><circle cx="516.9" cy="118.8" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><a href="/variants/s10/n60db12lb1db2w1db12n5k1n2r2~x2/"><circle cx="488.0" cy="63.8" r="4" fill="#3465a4"><title>Kervegant (Personal)</title></circle></a><a href="/variants/s13/o32dy8o1dy1lb1o1lb1oi1o1dy1n1o4dy1~x4~o2103000-oi2403057/"><circle cx="573.4" cy="94.6" r="4" fill="#3465a4"><title>Parma</title></circle></a><a href="/variants/s9/dr6k2dr4dy3dr60db14dr3db3w1~x2/"><circle cx="598.7" cy="89.9" r="4" fill="#3465a4"><title>Stenhousemuir Football Club (Sports)</title></circle></a><circle cx="556.8" cy="96.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/"><circle cx="439.1" cy="159.4" r="4" fill="#3465a4"><title>Hebridean Thistle (Fashion)</title></circle></a><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><circle cx="453.2" cy="167.2" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/"><circle cx="504.8" cy="68.4" r="4" fill="#3465a4"><title>Kervegant (Personal)</title></circle></a><a href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><circle cx="450.3" cy="109.9" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/variants/s10/n110o3lr14w1dp10w1lr6o3dp4n2~x2~n1700000-lr2800000/"><circle cx="574.8" cy="85.9" r="4" fill="#3465a4"><title>Vetoclock</title></circle></a><a href="/variants/s5/do40n19k2n2lb2~x4/"><circle cx="461.1" cy="185.1" r="4" fill="#3465a4"><title>National Ballet of Canada</title></circle></a><a href="/variants/s14/db4o2db2oi4o2db8o2k2n43k2n43oi2db8n2~db1004274-oi2404317-k0800000-n1900000/"><circle cx="516.9" cy="118.6" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><a href="/variants/s10/n60db12lb1db2w1db12n5k1n2r2~x2/"><circle cx="488.0" cy="63.6" r="4" fill="#3465a4"><title>Kervegant (Personal)</title></circle></a><a href="/variants/s13/o32dy8o1dy1lb1o1lb1oi1o1dy1n1o4dy1~x4~o2103000-oi2403057/"><circle cx="573.5" cy="94.4" r="4" fill="#3465a4"><title>Parma</title></circle></a><a href="/variants/s9/dr6k2dr4dy3dr60db14dr3db3w1~x2/"><circle cx="598.7" cy="89.8" r="4" fill="#3465a4"><title>Stenhousemuir Football Club (Sports)</title></circle></a><circle cx="556.8" cy="96.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n44do4n1k1n4y4k1db4do4~x2/

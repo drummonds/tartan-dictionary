@@ -1,5 +1,12 @@
 ---
 title: "Masai Shuka 21 (Artefact)"
-redirect: "/variants/s4/r40db2r6db15~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Masai Shuka 21 (Artefact)](/variants/s4/r40db2r6db15~x2/).
+This is the **Masai Shuka 21 (Artefact)** sett — one scale-free proportion (`r40db2r6db15`), colour order pattern
+[BRBR](/stripes/brbr/). It is recorded as a single **variant**, below.
+First attested **~2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Masai Shuka 21 (Artefact)](/variants/s4/r40db2r6db15~x2/) ★ | ~2007 | ![Masai Shuka 21 (Artefact) sett](/variants/s4/r40db2r6db15~x2/sett.png) |

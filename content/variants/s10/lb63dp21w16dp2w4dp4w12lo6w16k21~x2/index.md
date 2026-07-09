@@ -1,16 +1,18 @@
 ---
 title: "Xain (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Xain"
   url: "/tartans/xain/"
 - name: "Xain (Personal)"
-  url: ""
+  url: "/setts/lb63dp21w16dp2w4dp4w12lo6w16k21/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb63dp21w16dp2w4dp4w12lo6w16k21/)
-(the same proportion at any scale), whose colour order is pattern [KWYWBWBWBW](/stripes/kwywbwbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb63dp21w16dp2w4dp4w12lo6w16k21/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWYWBWBWBW](/stripes/kwywbwbwbw/).
 
 Part of the [Xain](/tartans/xain/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/"><circle cx="162.2" cy="95.9" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="144.8" cy="121.9" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/variants/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2~r2108022-ri2806019/"><circle cx="214.7" cy="83.8" r="4" fill="#3465a4"><title>Sunart, Saphire (Dance)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.2" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/"><circle cx="198.2" cy="129.9" r="4" fill="#3465a4"><title>Galego</title></circle></a><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/"><circle cx="185.8" cy="90.5" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.4" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/"><circle cx="132.6" cy="133.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s11/g9r2m2k3m18r1db2g2db19w33db2~x2/"><circle cx="134.7" cy="67.5" r="4" fill="#3465a4"><title>Pride of Scotland Dress (Dance)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.8" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><circle cx="171.7" cy="107.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/"><circle cx="162.2" cy="95.8" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="144.8" cy="121.8" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/variants/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2~r2108022-ri2806019/"><circle cx="214.7" cy="83.7" r="4" fill="#3465a4"><title>Sunart, Saphire (Dance)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/"><circle cx="198.2" cy="129.7" r="4" fill="#3465a4"><title>Galego</title></circle></a><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/"><circle cx="185.8" cy="90.4" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.3" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/"><circle cx="132.6" cy="133.6" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s11/g9r2m2k3m18r1db2g2db19w33db2~x2/"><circle cx="134.7" cy="67.3" r="4" fill="#3465a4"><title>Pride of Scotland Dress (Dance)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.6" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><circle cx="171.7" cy="106.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/

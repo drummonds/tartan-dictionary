@@ -1,5 +1,12 @@
 ---
 title: "Benson (New England)"
-redirect: "/variants/s7/k16t2k8r3lr3r3k8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Benson (New England)](/variants/s7/k16t2k8r3lr3r3k8~x2/).
+This is the **Benson (New England)** sett — one scale-free proportion (`k16t2k8r3lr3r3k8`), colour order pattern
+[KBKRYRK](/stripes/kbkryrk/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Benson (New England)](/variants/s7/k16t2k8r3lr3r3k8~x2/) ★ | 2004 | ![Benson (New England) sett](/variants/s7/k16t2k8r3lr3r3k8~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Marshall University"
-redirect: "/variants/s8/g25w1dg2w1g6k2w2dg3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Marshall University](/variants/s8/g25w1dg2w1g6k2w2dg3~x2/).
+This is the **Marshall University** sett — one scale-free proportion (`g25w1dg2w1g6k2w2dg3`), colour order pattern
+[GWGWGKWG](/stripes/gwgwgkwg/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Marshall University](/variants/s8/g25w1dg2w1g6k2w2dg3~x2/) ★ | 2012 | ![Marshall University sett](/variants/s8/g25w1dg2w1g6k2w2dg3~x2/sett.png) |

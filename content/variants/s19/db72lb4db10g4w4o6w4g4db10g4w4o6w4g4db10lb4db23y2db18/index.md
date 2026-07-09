@@ -1,14 +1,16 @@
 ---
 title: "Gorman Spring (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gorman Spring (Personal)"
-  url: ""
+  url: "/setts/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/)
-(the same proportion at any scale), whose colour order is pattern [BGBWBGWRWGBGWRWGBWB](/stripes/bgbwbgwrwgbgwrwgbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWBGWRWGBGWRWGBWB](/stripes/bgbwbgwrwgbgwrwgbwb/).
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/"><circle cx="439.2" cy="69.5" r="4" fill="#3465a4"><title>Oxford University Dress</title></circle></a><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><circle cx="449.8" cy="100.6" r="4" fill="#3465a4"><title>World Youth Congress</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="368.9" cy="52.1" r="4" fill="#3465a4"><title>Bartlett of El Paso (Name)</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.1" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s12/db68lb4dr10y2dr3w3dr3g11db8dr3db3w3~x2/"><circle cx="407.1" cy="76.2" r="4" fill="#3465a4"><title>Shaughnessy (Fashion)</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.2" cy="55.8" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><circle cx="407.1" cy="51.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/"><circle cx="439.2" cy="69.3" r="4" fill="#3465a4"><title>Oxford University Dress</title></circle></a><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><circle cx="449.8" cy="100.4" r="4" fill="#3465a4"><title>World Youth Congress</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="368.9" cy="51.9" r="4" fill="#3465a4"><title>Bartlett of El Paso (Name)</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.2" cy="63.6" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s12/db68lb4dr10y2dr3w3dr3g11db8dr3db3w3~x2/"><circle cx="407.2" cy="76.0" r="4" fill="#3465a4"><title>Shaughnessy (Fashion)</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.2" cy="55.6" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><circle cx="407.1" cy="51.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/

@@ -1,5 +1,12 @@
 ---
 title: "Polish"
-redirect: "/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Polish](/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/).
+This is the **Polish** sett — one scale-free proportion (`r4w2r24w8db2w1db2w4db2w1db2w8db16w4`), colour order pattern
+[RWRWBWBWBWBWBW](/stripes/rwrwbwbwbwbwbw/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Polish](/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/) ★ | 2006 | ![Polish sett](/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/sett.png) |

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/">Hallingdal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><img src="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/sett.png" alt="Hallingdal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/">Hallingdal District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><img src="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/sett.png" alt="Hallingdal District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

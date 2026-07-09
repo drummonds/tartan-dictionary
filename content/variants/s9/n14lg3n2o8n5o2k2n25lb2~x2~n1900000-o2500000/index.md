@@ -1,14 +1,16 @@
 ---
 title: "Turnberry"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Turnberry"
-  url: ""
+  url: "/setts/n14lg3n2o8n5o2k2n25lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n14lg3n2o8n5o2k2n25lb2/)
-(the same proportion at any scale), whose colour order is pattern [BYBRBRKBW](/stripes/bybrbrkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n14lg3n2o8n5o2k2n25lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBRBRKBW](/stripes/bybrbrkbw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/"><circle cx="402.8" cy="149.3" r="4" fill="#3465a4"><title>Turnberry Scotland</title></circle></a><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><circle cx="426.7" cy="148.9" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly (Personal)</title></circle></a><a href="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/"><circle cx="457.7" cy="113.0" r="4" fill="#3465a4"><title>Orkney Magnus</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="133.0" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.3" cy="131.3" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><circle cx="459.3" cy="167.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/"><circle cx="402.8" cy="149.1" r="4" fill="#3465a4"><title>Turnberry Scotland</title></circle></a><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><circle cx="426.8" cy="148.8" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly (Personal)</title></circle></a><a href="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/"><circle cx="457.7" cy="112.8" r="4" fill="#3465a4"><title>Orkney Magnus</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.9" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.4" cy="131.2" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><circle cx="459.4" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/

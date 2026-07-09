@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/">Rowan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/"><img src="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/sett.png" alt="Rowan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/">Rowan Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/"><img src="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/sett.png" alt="Rowan Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

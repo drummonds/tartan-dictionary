@@ -1,16 +1,18 @@
 ---
 title: "Chattan Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Chattan"
   url: "/tartans/chattan/"
 - name: "Chattan Clan Tartan"
-  url: ""
+  url: "/setts/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2/)
-(the same proportion at any scale), whose colour order is pattern [RKWGWGGRKRGGWWKRGGW](/stripes/rkwgwggrkrggwwkrggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKWGWGGRKRGGWWKRGGW](/stripes/rkwgwggrkrggwwkrggw/).
 
 Part of the [Chattan](/tartans/chattan/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: pre 2003 This sett includes a brown stripe next to the yell
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><circle cx="290.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4~x2/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/"><circle cx="165.3" cy="54.0" r="4" fill="#3465a4"><title>Chattan, Chief of Clan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/"><circle cx="165.3" cy="54.0" r="4" fill="#3465a4"><title>Chattan Chief Clan Tartan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.4" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.1" cy="27.5" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><a href="/variants/s19/r36k2w1g18w1o2y2r3k1r3y2o2w1lb18k5r4y5o2w2~x2/"><circle cx="170.6" cy="17.5" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/variants/s19/r36k2w1g18w1ly2y2r3k1r3y2ly2w1lb18k5r4y5ly2w2~x2/"><circle cx="166.3" cy="16.7" r="4" fill="#3465a4"><title>Chattan (brown stripe variation)</title></circle></a><circle cx="165.4" cy="15.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.6" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><circle cx="290.6" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4~x2/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/"><circle cx="165.2" cy="53.8" r="4" fill="#3465a4"><title>Chattan, Chief of Clan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/"><circle cx="165.2" cy="53.8" r="4" fill="#3465a4"><title>Chattan Chief Clan Tartan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.2" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.0" cy="27.3" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><a href="/variants/s19/r36k2w1g18w1o2y2r3k1r3y2o2w1lb18k5r4y5o2w2~x2/"><circle cx="170.6" cy="17.3" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/variants/s19/r36k2w1g18w1ly2y2r3k1r3y2ly2w1lb18k5r4y5ly2w2~x2/"><circle cx="166.3" cy="16.5" r="4" fill="#3465a4"><title>Chattan (brown stripe variation)</title></circle></a><circle cx="165.4" cy="15.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s19/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2~x2/

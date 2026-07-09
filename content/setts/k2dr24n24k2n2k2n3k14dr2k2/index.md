@@ -1,5 +1,12 @@
 ---
 title: "Douglas (WCWM)"
-redirect: "/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Douglas (WCWM)](/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/).
+This is the **Douglas (WCWM)** sett — one scale-free proportion (`k2dr24n24k2n2k2n3k14dr2k2`), colour order pattern
+[KBBKBKBKBK](/stripes/kbbkbkbkbk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Douglas (WCWM)](/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/) ★ | 2002 | ![Douglas (WCWM) sett](/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/sett.png) |

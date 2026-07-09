@@ -1,5 +1,12 @@
 ---
 title: "Hier Family, Kilcreggan (Personal)"
-redirect: "/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hier Family, Kilcreggan (Personal)](/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/).
+This is the **Hier Family, Kilcreggan (Personal)** sett — one scale-free proportion (`db45w2lb23db10g2r1dr5wi1`), colour order pattern
+[BWWBGRBW](/stripes/bwwbgrbw/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hier Family, Kilcreggan (Personal)](/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/) ★ | 2011 | ![Hier Family, Kilcreggan (Personal) sett](/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/sett.png) |

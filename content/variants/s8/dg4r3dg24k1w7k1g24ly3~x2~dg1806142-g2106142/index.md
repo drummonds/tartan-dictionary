@@ -1,14 +1,16 @@
 ---
 title: "Layton (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Layton (Name)"
-  url: ""
+  url: "/setts/dg4r3dg24k1w7k1g24ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4r3dg24k1w7k1g24ly3/)
-(the same proportion at any scale), whose colour order is pattern [GRGKWKGY](/stripes/grgkwkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg4r3dg24k1w7k1g24ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGKWKGY](/stripes/grgkwkgy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2dg18w3dg13k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="159.4" cy="171.7" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/variants/s10/k3y2dg18w3dg18k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="183.2" cy="170.3" r="4" fill="#3465a4"><title>Forrester Hunting Clan Tartan</title></circle></a><a href="/variants/s7/lg22w1dg6r6dg6y3g12~x2/"><circle cx="181.3" cy="163.8" r="4" fill="#3465a4"><title>Dalveen (2004)</title></circle></a><a href="/variants/s8/g29k4dg6lo4dg28ly28k1lb5~x2~g2408144-dg1806142/"><circle cx="162.6" cy="135.3" r="4" fill="#3465a4"><title>Keogh (Name?)</title></circle></a><a href="/variants/s9/dg23r7g25y5dg17k5y1w1r1~x2/"><circle cx="234.0" cy="124.9" r="4" fill="#3465a4"><title>Cates Hunting</title></circle></a><a href="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/"><circle cx="283.1" cy="127.0" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.2" cy="188.7" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><circle cx="229.3" cy="120.4" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/"><circle cx="234.3" cy="84.8" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="207.7" cy="110.5" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan</title></circle></a><circle cx="226.0" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2dg18w3dg13k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="159.4" cy="171.6" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/variants/s10/k3y2dg18w3dg18k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="183.2" cy="170.2" r="4" fill="#3465a4"><title>Forrester Hunting Clan Tartan</title></circle></a><a href="/variants/s7/lg22w1dg6r6dg6y3g12~x2/"><circle cx="181.4" cy="163.7" r="4" fill="#3465a4"><title>Dalveen (2004)</title></circle></a><a href="/variants/s8/g29k4dg6lo4dg28ly28k1lb5~x2~g2408144-dg1806142/"><circle cx="162.6" cy="135.2" r="4" fill="#3465a4"><title>Keogh (Name?)</title></circle></a><a href="/variants/s9/dg23r7g25y5dg17k5y1w1r1~x2/"><circle cx="234.0" cy="124.8" r="4" fill="#3465a4"><title>Cates Hunting</title></circle></a><a href="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/"><circle cx="283.1" cy="126.9" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.2" cy="188.7" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><circle cx="229.3" cy="120.3" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/"><circle cx="234.3" cy="84.6" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="207.7" cy="110.4" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan</title></circle></a><circle cx="226.0" cy="128.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg4r3dg24k1w7k1g24ly3~x2~dg1806142-g2106142/

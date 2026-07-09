@@ -1,14 +1,16 @@
 ---
 title: "Murray of Dunmore (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Murray of Dunmore (Clan)"
-  url: ""
+  url: "/setts/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBGBGBGBGBGBGBGBG](/stripes/gbgbgbgbgbgbgbgbgbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBGBGBGBGBGBGBG](/stripes/gbgbgbgbgbgbgbgbgbgbg/).
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

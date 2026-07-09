@@ -1,14 +1,16 @@
 ---
 title: "Ogilvy or Drummond of Strathallen"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ogilvy or Drummond of Strathallen"
-  url: ""
+  url: "/setts/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4/)
-(the same proportion at any scale), whose colour order is pattern [KRKGBWBGKWKWKRWRWRKGBKBKBGKRWRWRKGBW](/stripes/krkgbwbgkwkwkrwrwrkgbkbkbgkrwrwrkgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKGBWBGKWKWKRWRWRKGBKBKBGKRWRWRKGBW](/stripes/krkgbwbgkwkwkrwrwrkgbkbkbgkrwrwrkgbw/).
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/db6k2db6y4k2r3y2r3w2r3k2y2db3w2db3y2k2r3w2r3k2y2db6k2db6k2db6y2k2r3w2r3w2r3k6w1~x2/"><circle cx="15.7" cy="158.1" r="4" fill="#3465a4"><title>Ogilvie (Paton)</title></circle></a><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"><circle cx="28.2" cy="149.3" r="4" fill="#3465a4"><title>Ogilvie #3</title></circle></a><a href="/variants/s22/db6r2db7r2db7r2k7dg8r2dg3r2dg5w2dg5r2dg3r2dg8k9w15k9r2~x2/"><circle cx="25.7" cy="150.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry Dress</title></circle></a><a href="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/"><circle cx="57.5" cy="135.4" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><circle cx="14.0" cy="137.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/db6k2db6y4k2r3y2r3w2r3k2y2db3w2db3y2k2r3w2r3k2y2db6k2db6k2db6y2k2r3w2r3w2r3k6w1~x2/"><circle cx="15.7" cy="158.0" r="4" fill="#3465a4"><title>Ogilvie (Paton)</title></circle></a><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"><circle cx="28.2" cy="149.2" r="4" fill="#3465a4"><title>Ogilvie #3</title></circle></a><a href="/variants/s22/db6r2db7r2db7r2k7dg8r2dg3r2dg5w2dg5r2dg3r2dg8k9w15k9r2~x2/"><circle cx="25.6" cy="150.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry Dress</title></circle></a><a href="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/"><circle cx="57.5" cy="135.3" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><circle cx="14.0" cy="136.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/

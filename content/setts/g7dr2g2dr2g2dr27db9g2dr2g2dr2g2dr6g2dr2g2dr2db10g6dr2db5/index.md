@@ -1,5 +1,12 @@
 ---
 title: "Matheson (Lochcarron)"
-redirect: "/variants/s21/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Matheson (Lochcarron)](/variants/s21/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5~x2/).
+This is the **Matheson (Lochcarron)** sett — one scale-free proportion (`g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5`), colour order pattern
+[BBGBBGBGBGBGBGBBGBGBG](/stripes/bbgbbgbgbgbgbgbbgbgbg/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Matheson (Lochcarron)](/variants/s21/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5~x2/) ★ | ~2002 | ![Matheson (Lochcarron) sett](/variants/s21/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5~x2/sett.png) |

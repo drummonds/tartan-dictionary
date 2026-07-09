@@ -1,14 +1,16 @@
 ---
 title: "McCall, F W (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McCall, F W (Personal)"
-  url: ""
+  url: "/setts/dg6dy2o1dg15o3dy1dg15g6o1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg6dy2o1dg15o3dy1dg15g6o1/)
-(the same proportion at any scale), whose colour order is pattern [GGRGRGGGR](/stripes/ggrgrgggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg6dy2o1dg15o3dy1dg15g6o1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGRGRGGGR](/stripes/ggrgrgggr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g46o20g9o20g46lg5~x2/"><circle cx="532.7" cy="299.3" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><a href="/variants/s7/o1g1o5g8lg1g1lg1~x4/"><circle cx="430.2" cy="258.6" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1983 (Corporate)</title></circle></a><a href="/variants/s6/o20g40w5g40o20g9~x2/"><circle cx="462.6" cy="295.2" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><circle cx="440.1" cy="142.6" r="4" fill="#3465a4"><title>Huntsman</title></circle></a><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="423.7" cy="202.7" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s6/g30t8g5lb4g5r2~x4~t2405244-lb3203246/"><circle cx="523.7" cy="217.1" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><circle cx="402.1" cy="289.2" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.8" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="494.2" cy="248.2" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s5/g37dy9g3do9dy3~x2/"><circle cx="483.5" cy="252.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><circle cx="516.3" cy="208.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g46o20g9o20g46lg5~x2/"><circle cx="532.7" cy="299.2" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><a href="/variants/s7/o1g1o5g8lg1g1lg1~x4/"><circle cx="430.2" cy="258.6" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1983 (Corporate)</title></circle></a><a href="/variants/s6/o20g40w5g40o20g9~x2/"><circle cx="462.6" cy="295.2" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><circle cx="440.1" cy="142.5" r="4" fill="#3465a4"><title>Huntsman</title></circle></a><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="423.7" cy="202.6" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s6/g30t8g5lb4g5r2~x4~t2405244-lb3203246/"><circle cx="523.7" cy="217.0" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><circle cx="402.1" cy="289.1" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.6" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="494.2" cy="248.2" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s5/g37dy9g3do9dy3~x2/"><circle cx="483.5" cy="252.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><circle cx="516.3" cy="208.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/

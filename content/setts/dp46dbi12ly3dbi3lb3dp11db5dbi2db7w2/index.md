@@ -1,5 +1,12 @@
 ---
 title: "Diamond Jubilee (Lochcarron) (Comm.)"
-redirect: "/variants/s10/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2~x2~dbi1204274-db1106275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Diamond Jubilee (Lochcarron) (Comm.)](/variants/s10/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2~x2~dbi1204274-db1106275/).
+This is the **Diamond Jubilee (Lochcarron) (Comm.)** sett — one scale-free proportion (`dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2`), colour order pattern
+[BBYBWBBBBW](/stripes/bbybwbbbbw/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Diamond Jubilee (Lochcarron) (Comm.)](/variants/s10/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2~x2~dbi1204274-db1106275/) ★ | 2012 | ![Diamond Jubilee (Lochcarron) (Comm.) sett](/variants/s10/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2~x2~dbi1204274-db1106275/sett.png) |

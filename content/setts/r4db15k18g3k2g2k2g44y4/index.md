@@ -1,5 +1,12 @@
 ---
 title: "Sarafilovic (Corporate)"
-redirect: "/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sarafilovic (Corporate)](/variants/s9/r4db15k18g3k2g2k2g44y4~x2/).
+This is the **Sarafilovic (Corporate)** sett — one scale-free proportion (`r4db15k18g3k2g2k2g44y4`), colour order pattern
+[GGKGKGKBR](/stripes/ggkgkgkbr/). It is recorded as a single **variant**, below.
+First attested **~2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Sarafilovic (Corporate)](/variants/s9/r4db15k18g3k2g2k2g44y4~x2/) ★ | ~2004 | ![Sarafilovic (Corporate) sett](/variants/s9/r4db15k18g3k2g2k2g44y4~x2/sett.png) |

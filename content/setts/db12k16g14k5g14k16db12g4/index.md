@@ -1,5 +1,12 @@
 ---
 title: "Norwich No.064"
-redirect: "/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Norwich No.064](/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/).
+This is the **Norwich No.064** sett — one scale-free proportion (`db12k16g14k5g14k16db12g4`), colour order pattern
+[BKGKGKBG](/stripes/bkgkgkbg/). It is recorded as a single **variant**, below.
+First attested **1870**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Norwich No.064](/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/) ★ | 1870 | ![Norwich No.064 sett](/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/sett.png) |

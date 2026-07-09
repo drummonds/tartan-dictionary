@@ -1,5 +1,12 @@
 ---
 title: "Fife Ethylene Plant"
-redirect: "/variants/s5/dg35db40w11y3dg7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fife Ethylene Plant](/variants/s5/dg35db40w11y3dg7~x2/).
+This is the **Fife Ethylene Plant** sett — one scale-free proportion (`dg35db40w11y3dg7`), colour order pattern
+[GBWGG](/stripes/gbwgg/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fife Ethylene Plant](/variants/s5/dg35db40w11y3dg7~x2/) ★ | 2015 | ![Fife Ethylene Plant sett](/variants/s5/dg35db40w11y3dg7~x2/sett.png) |

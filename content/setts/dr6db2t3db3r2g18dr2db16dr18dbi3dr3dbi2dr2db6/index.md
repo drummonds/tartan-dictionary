@@ -1,5 +1,12 @@
 ---
 title: "Minster (Fashion)"
-redirect: "/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Minster (Fashion)](/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/).
+This is the **Minster (Fashion)** sett — one scale-free proportion (`dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6`), colour order pattern
+[BBBBBBBBGRBBBB](/stripes/bbbbbbbbgrbbbb/). It is recorded as a single **variant**, below.
+First attested **~1986**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Minster (Fashion)](/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/) ★ | ~1986 | ![Minster (Fashion) sett](/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/sett.png) |

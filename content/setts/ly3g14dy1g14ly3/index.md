@@ -1,5 +1,12 @@
 ---
 title: "Pearson Family Tartan"
-redirect: "/variants/s5/ly3g14dy1g14ly3~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pearson Family Tartan](/variants/s5/ly3g14dy1g14ly3~x4/).
+This is the **Pearson Family Tartan** sett — one scale-free proportion (`ly3g14dy1g14ly3`), colour order pattern
+[YGGGY](/stripes/ygggy/). It is recorded as a single **variant**, below.
+First attested **1951**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Pearson Family Tartan](/variants/s5/ly3g14dy1g14ly3~x4/) ★ | 1951 | ![Pearson Family Tartan sett](/variants/s5/ly3g14dy1g14ly3~x4/sett.png) |

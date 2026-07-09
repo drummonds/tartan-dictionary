@@ -1,5 +1,12 @@
 ---
 title: "Kucher, Gregory"
-redirect: "/variants/s4/db8dr1k1n1~x10/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kucher, Gregory](/variants/s4/db8dr1k1n1~x10/).
+This is the **Kucher, Gregory** sett — one scale-free proportion (`db8dr1k1n1`), colour order pattern
+[BBKB](/stripes/bbkb/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×10 | [Kucher, Gregory](/variants/s4/db8dr1k1n1~x10/) ★ | 2009 | ![Kucher, Gregory sett](/variants/s4/db8dr1k1n1~x10/sett.png) |

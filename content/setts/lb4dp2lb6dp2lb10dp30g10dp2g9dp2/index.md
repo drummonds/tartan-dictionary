@@ -1,5 +1,12 @@
 ---
 title: "Lang"
-redirect: "/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lang](/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/).
+This is the **Lang** sett — one scale-free proportion (`lb4dp2lb6dp2lb10dp30g10dp2g9dp2`), colour order pattern
+[BGBGBWBWBW](/stripes/bgbgbwbwbw/). It is recorded as a single **variant**, below.
+First attested **1840**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lang](/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/) ★ | 1840 | ![Lang sett](/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/sett.png) |

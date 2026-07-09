@@ -1,14 +1,16 @@
 ---
 title: "Inverness Caledonian Thistle F.C Corporate Weavers Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Inverness Caledonian Thistle F.C Corporate Weavers Tartan"
-  url: ""
+  url: "/setts/k21db3k12dr2db12k2db12w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k21db3k12dr2db12k2db12w2/)
-(the same proportion at any scale), whose colour order is pattern [KBKBBKBW](/stripes/kbkbbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k21db3k12dr2db12k2db12w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBBKBW](/stripes/kbkbbkbw/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1996 Designed by Polly Wittering of the House of Edgar C.19
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1996 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.2" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s7/db5k2db14k14db2k2r2~x2/"><circle cx="304.4" cy="215.7" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="161.0" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.5" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.6" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.4" cy="186.8" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="283.9" cy="197.4" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="328.6" cy="178.0" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2/"><circle cx="323.9" cy="176.5" r="4" fill="#3465a4"><title>St. Andrew Soc. of River Plate (Corp</title></circle></a><circle cx="281.9" cy="188.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.1" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s7/db5k2db14k14db2k2r2~x2/"><circle cx="304.4" cy="215.6" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="160.9" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.4" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.0" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.5" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.5" cy="186.7" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="284.0" cy="197.3" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="328.6" cy="177.9" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2/"><circle cx="324.0" cy="176.4" r="4" fill="#3465a4"><title>St. Andrew Soc. of River Plate (Corp</title></circle></a><circle cx="281.9" cy="188.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k21db3k12dr2db12k2db12w2~x2/

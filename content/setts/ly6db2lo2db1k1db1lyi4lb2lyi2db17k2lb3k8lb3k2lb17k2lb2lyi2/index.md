@@ -1,5 +1,12 @@
 ---
 title: "Ferrari (Name)"
-redirect: "/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ferrari (Name)](/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/).
+This is the **Ferrari (Name)** sett — one scale-free proportion (`ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2`), colour order pattern
+[YBYBKBYWYBKWKWKWKWY](/stripes/ybybkbywybkwkwkwkwy/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ferrari (Name)](/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/) ★ | 2013 | ![Ferrari (Name) sett](/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/sett.png) |

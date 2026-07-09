@@ -1,14 +1,16 @@
 ---
 title: "Huntly Old"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Huntly Old"
-  url: ""
+  url: "/setts/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/)
-(the same proportion at any scale), whose colour order is pattern [GWRWKWGWGWGRKRK](/stripes/gwrwkwgwgwgrkrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWRWKWGWGWGRKRK](/stripes/gwrwkwgwgwgrkrk/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/db6r2db7r2db7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~x2/"><circle cx="19.9" cy="152.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry, dress</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.5" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s18/k14g2lb14g3lb14g2k14g14w2g14k14r2g2r10y4r10g2r2~x2/"><circle cx="24.0" cy="143.7" r="4" fill="#3465a4"><title>Langston (Personal)</title></circle></a><a href="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/"><circle cx="14.0" cy="136.0" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><circle cx="78.5" cy="157.9" r="4" fill="#3465a4"><title>Black Scottish National Tartan</title></circle></a><a href="/variants/s12/k6g5k6do6w1do10k6w3dr1w12dr1w3~x4/"><circle cx="70.8" cy="156.7" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.4" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><circle cx="48.8" cy="169.6" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.5" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.7" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><circle cx="19.2" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/db6r2db7r2db7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~x2/"><circle cx="19.9" cy="152.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry, dress</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.3" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s18/k14g2lb14g3lb14g2k14g14w2g14k14r2g2r10y4r10g2r2~x2/"><circle cx="24.0" cy="143.6" r="4" fill="#3465a4"><title>Langston (Personal)</title></circle></a><a href="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/"><circle cx="14.0" cy="135.9" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><circle cx="78.6" cy="157.8" r="4" fill="#3465a4"><title>Black Scottish National Tartan</title></circle></a><a href="/variants/s12/k6g5k6do6w1do10k6w3dr1w12dr1w3~x4/"><circle cx="70.8" cy="156.6" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><circle cx="48.8" cy="169.5" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.4" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.6" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><circle cx="19.2" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/

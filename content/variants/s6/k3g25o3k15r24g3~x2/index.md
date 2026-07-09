@@ -1,14 +1,16 @@
 ---
 title: "Un-named (D C Dalgliesh) #3"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Un-named (D C Dalgliesh) #3"
-  url: ""
+  url: "/setts/k3g25o3k15r24g3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g25o3k15r24g3/)
-(the same proportion at any scale), whose colour order is pattern [GRKRGK](/stripes/grkrgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3g25o3k15r24g3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRKRGK](/stripes/grkrgk/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.3" cy="219.0" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s7/dy3y18lo12k18lo2k2lo3~x2/"><circle cx="142.0" cy="189.4" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="136.5" cy="182.8" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.7" cy="204.9" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="171.7" cy="188.1" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="163.1" cy="189.6" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><circle cx="158.3" cy="198.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.4" cy="219.0" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s7/dy3y18lo12k18lo2k2lo3~x2/"><circle cx="142.0" cy="189.3" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.1" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.1" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="136.5" cy="182.7" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.8" cy="204.8" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="171.7" cy="188.0" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="163.1" cy="189.6" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><circle cx="158.3" cy="198.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3g25o3k15r24g3~x2/

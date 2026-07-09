@@ -1,14 +1,16 @@
 ---
 title: "Burrell (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Burrell (Personal)"
-  url: ""
+  url: "/setts/dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBYBBGGGBBY](/stripes/bbbbbybbgggbby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBYBBGGGBBY](/stripes/bbbbbybbgggbby/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

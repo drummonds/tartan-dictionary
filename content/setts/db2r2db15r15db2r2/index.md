@@ -1,5 +1,12 @@
 ---
 title: "Hebrides #7"
-redirect: "/variants/s6/db2r2db15r15db2r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hebrides #7](/variants/s6/db2r2db15r15db2r2~x2/).
+This is the **Hebrides #7** sett — one scale-free proportion (`db2r2db15r15db2r2`), colour order pattern
+[BRBRBRBRBR](/stripes/brbrbrbrbr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hebrides #7](/variants/s6/db2r2db15r15db2r2~x2/) ★ | 2002 | ![Hebrides #7 sett](/variants/s6/db2r2db15r15db2r2~x2/sett.png) |

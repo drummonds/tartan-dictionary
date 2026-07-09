@@ -1,16 +1,18 @@
 ---
 title: "Skye"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Skye"
   url: "/tartans/skye/"
 - name: "Skye"
-  url: ""
+  url: "/setts/db50k12o2k2w2k2o12db7k7w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db50k12o2k2w2k2o12db7k7w2/)
-(the same proportion at any scale), whose colour order is pattern [BKRKWKRBKWKBRKWKRK](/stripes/bkrkwkrbkwkbrkwkrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db50k12o2k2w2k2o12db7k7w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKRKWKRBKWKBRKWKRK](/stripes/bkrkwkrbkwkbrkwkrk/).
 
 Part of the [Skye](/tartans/skye/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="205.2" cy="85.5" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/"><circle cx="252.3" cy="115.4" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.1" cy="106.3" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/"><circle cx="228.0" cy="103.9" r="4" fill="#3465a4"><title>Longniddry Dress Lavender Fancy Tartan</title></circle></a><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/"><circle cx="220.4" cy="113.8" r="4" fill="#3465a4"><title>Hope-Vere/Weir</title></circle></a><a href="/variants/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/"><circle cx="254.3" cy="63.7" r="4" fill="#3465a4"><title>Citymoves (2012) (Corporate)</title></circle></a><a href="/variants/s21/k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><circle cx="248.1" cy="79.0" r="4" fill="#3465a4"><title>Hood (Artefact)</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db1406275/"><circle cx="167.6" cy="94.9" r="4" fill="#3465a4"><title>Scottish Knights Templar St. Andrews</title></circle></a><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="178.5" cy="99.1" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.1" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><circle cx="224.1" cy="77.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="205.2" cy="85.4" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/"><circle cx="252.3" cy="115.2" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.1" cy="106.2" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/"><circle cx="228.0" cy="103.7" r="4" fill="#3465a4"><title>Longniddry Dress Lavender Fancy Tartan</title></circle></a><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/"><circle cx="220.4" cy="113.7" r="4" fill="#3465a4"><title>Hope-Vere/Weir</title></circle></a><a href="/variants/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/"><circle cx="254.3" cy="63.5" r="4" fill="#3465a4"><title>Citymoves (2012) (Corporate)</title></circle></a><a href="/variants/s21/k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><circle cx="248.1" cy="78.8" r="4" fill="#3465a4"><title>Hood (Artefact)</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db1406275/"><circle cx="167.6" cy="94.7" r="4" fill="#3465a4"><title>Scottish Knights Templar St. Andrews</title></circle></a><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="178.5" cy="98.9" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.0" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><circle cx="224.1" cy="77.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/

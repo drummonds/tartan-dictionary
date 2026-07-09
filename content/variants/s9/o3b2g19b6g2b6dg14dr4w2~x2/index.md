@@ -1,14 +1,16 @@
 ---
 title: "Royal Pharmaceutical, Society"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Pharmaceutical, Society"
-  url: ""
+  url: "/setts/o3b2g19b6g2b6dg14dr4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o3b2g19b6g2b6dg14dr4w2/)
-(the same proportion at any scale), whose colour order is pattern [RBGBGBGBW](/stripes/rbgbgbgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o3b2g19b6g2b6dg14dr4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBGBGBGBW](/stripes/rbgbgbgbw/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><circle cx="135.9" cy="204.9" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4~dg1605139/"><circle cx="143.8" cy="214.0" r="4" fill="#3465a4"><title>Vermont District USA Tartan</title></circle></a><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><circle cx="155.0" cy="160.2" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/"><circle cx="197.6" cy="167.5" r="4" fill="#3465a4"><title>Glens of Corbie</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="216.0" cy="162.4" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><circle cx="152.5" cy="159.6" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4/"><circle cx="130.9" cy="208.3" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s10/r2g6lb1g1lb1g1lb3dt8y1t1~x4~dt1102249-t2308259/"><circle cx="129.2" cy="174.1" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.9" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><circle cx="173.8" cy="189.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><circle cx="135.9" cy="204.8" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4~dg1605139/"><circle cx="143.9" cy="214.0" r="4" fill="#3465a4"><title>Vermont District USA Tartan</title></circle></a><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><circle cx="155.0" cy="160.1" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/"><circle cx="197.6" cy="167.4" r="4" fill="#3465a4"><title>Glens of Corbie</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="216.1" cy="162.3" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><circle cx="152.5" cy="159.5" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.2" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4/"><circle cx="131.0" cy="208.2" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s10/r2g6lb1g1lb1g1lb3dt8y1t1~x4~dt1102249-t2308259/"><circle cx="129.3" cy="174.0" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.8" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><circle cx="173.8" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/

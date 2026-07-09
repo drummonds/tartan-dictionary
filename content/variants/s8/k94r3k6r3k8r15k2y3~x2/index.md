@@ -1,14 +1,16 @@
 ---
 title: "Royal Army Physical Training Corps Association (Scotland)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Army Physical Training Corps Association (Scotland)"
-  url: ""
+  url: "/setts/k94r3k6r3k8r15k2y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k94r3k6r3k8r15k2y3/)
-(the same proportion at any scale), whose colour order is pattern [GKRKRKRK](/stripes/gkrkrkrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k94r3k6r3k8r15k2y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRKRKRK](/stripes/gkrkrkrk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="468.9" cy="99.4" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.0" cy="59.5" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><circle cx="480.3" cy="116.8" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.6" cy="98.3" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.4" cy="87.4" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="507.6" cy="96.7" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><circle cx="509.2" cy="95.9" r="4" fill="#3465a4"><title>Brand Ambassador (Corporate)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.4" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="494.4" cy="40.6" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.4" r="4" fill="#3465a4"><title>Brockton</title></circle></a><circle cx="545.2" cy="70.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="468.9" cy="99.3" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.0" cy="59.3" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><circle cx="480.3" cy="116.7" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.6" cy="98.1" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.4" cy="87.2" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="507.6" cy="96.5" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><circle cx="509.2" cy="95.7" r="4" fill="#3465a4"><title>Brand Ambassador (Corporate)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.3" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="494.5" cy="40.4" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.2" r="4" fill="#3465a4"><title>Brockton</title></circle></a><circle cx="545.2" cy="70.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k94r3k6r3k8r15k2y3~x2/

@@ -1,16 +1,18 @@
 ---
 title: "Bell's Whisky"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bell's Whisky"
   url: "/tartans/bell-s-whisky/"
 - name: "Bell's Whisky"
-  url: ""
+  url: "/setts/r3w5dy16ly2dy1ly40w6o3r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3w5dy16ly2dy1ly40w6o3r2/)
-(the same proportion at any scale), whose colour order is pattern [RRWYGYGWR](/stripes/rrwygygwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3w5dy16ly2dy1ly40w6o3r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRWYGYGWR](/stripes/rrwygygwr/).
 
 Part of the [Bell's Whisky](/tartans/bell-s-whisky/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/"><circle cx="306.1" cy="91.2" r="4" fill="#3465a4"><title>Bell's Whisky (Corporate)</title></circle></a><a href="/variants/s8/ly50k1dr12lb1g12dr14lb1dr2~x4/"><circle cx="310.5" cy="80.3" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><circle cx="346.0" cy="134.3" r="4" fill="#3465a4"><title>Sutherland de Albergaria Dress (Personal)</title></circle></a><a href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><circle cx="348.0" cy="128.7" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.9" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/"><circle cx="340.0" cy="109.8" r="4" fill="#3465a4"><title>Connaught (Lochcarron)</title></circle></a><a href="/variants/s13/r6b1db2r2g40r6db13lb1r48g2r4b1g4~x2/"><circle cx="344.7" cy="69.8" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s13/r5y1db2r2g30r5db10lb1r42g2r4y1g4~x2/"><circle cx="353.2" cy="75.8" r="4" fill="#3465a4"><title>MacDonald of Glencoe #2</title></circle></a><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="268.1" cy="138.8" r="4" fill="#3465a4"><title>Comrie, Gold (Dance)</title></circle></a><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><circle cx="391.8" cy="129.4" r="4" fill="#3465a4"><title>MacFie</title></circle></a><circle cx="323.2" cy="94.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/"><circle cx="306.1" cy="91.0" r="4" fill="#3465a4"><title>Bell's Whisky (Corporate)</title></circle></a><a href="/variants/s8/ly50k1dr12lb1g12dr14lb1dr2~x4/"><circle cx="310.5" cy="80.2" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><circle cx="346.0" cy="134.2" r="4" fill="#3465a4"><title>Sutherland de Albergaria Dress (Personal)</title></circle></a><a href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><circle cx="348.0" cy="128.6" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.8" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/"><circle cx="340.0" cy="109.6" r="4" fill="#3465a4"><title>Connaught (Lochcarron)</title></circle></a><a href="/variants/s13/r6b1db2r2g40r6db13lb1r48g2r4b1g4~x2/"><circle cx="344.7" cy="69.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s13/r5y1db2r2g30r5db10lb1r42g2r4y1g4~x2/"><circle cx="353.2" cy="75.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe #2</title></circle></a><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="268.1" cy="138.7" r="4" fill="#3465a4"><title>Comrie, Gold (Dance)</title></circle></a><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><circle cx="391.8" cy="129.3" r="4" fill="#3465a4"><title>MacFie</title></circle></a><circle cx="323.2" cy="93.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/

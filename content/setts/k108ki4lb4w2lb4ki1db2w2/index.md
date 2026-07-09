@@ -1,5 +1,12 @@
 ---
 title: "Modern Craft (Masonic)"
-redirect: "/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Modern Craft (Masonic)](/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/).
+This is the **Modern Craft (Masonic)** sett — one scale-free proportion (`k108ki4lb4w2lb4ki1db2w2`), colour order pattern
+[KKWWWKBW](/stripes/kkwwwkbw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Modern Craft (Masonic)](/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/) ★ | 2014 | ![Modern Craft (Masonic) sett](/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/sett.png) |

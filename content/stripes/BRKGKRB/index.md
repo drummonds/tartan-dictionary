@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db80r21k2y4k2r16db10~x2/">Salvation Army, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db80r21k2y4k2r16db10~x2/"><img src="/variants/s7/db80r21k2y4k2r16db10~x2/sett.png" alt="Salvation Army, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db80r21k2y4k2r16db10~x2/">Salvation Army Dress Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db80r21k2y4k2r16db10~x2/"><img src="/variants/s7/db80r21k2y4k2r16db10~x2/sett.png" alt="Salvation Army Dress Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

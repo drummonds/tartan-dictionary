@@ -2,13 +2,13 @@
 title: "Rattay"
 date: 2023-03-18
 ---
-The **Rattay** tartan is one sett proportion (`g71k4r4db9r4db4r36db4w4`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GKRBRBRBW](/stripes/gkrbrbrbw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Rattay** sett — one scale-free proportion (`g71k4r4db9r4db4r36db4w4`), colour order pattern
+[GKRBRBRBW](/stripes/gkrbrbrbw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2003**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [Rattray](/variants/s9/g71k4r4db9r4db4r36db4w4/) ★ | ~2016 | ![Rattray sett](/variants/s9/g71k4r4db9r4db4r36db4w4/sett.png) |
+| ×1 | [Rattray Family Tartan](/variants/s9/g71k4r4db9r4db4r36db4w4/) ★ | ~2003 | ![Rattray Family Tartan sett](/variants/s9/g71k4r4db9r4db4r36db4w4/sett.png) |
 | ×2 | [Rattay](/variants/s9/g71k4r4db9r4db4r36db4w4~x2/) | ~2016 | ![Rattay sett](/variants/s9/g71k4r4db9r4db4r36db4w4~x2/sett.png) |

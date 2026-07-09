@@ -1,14 +1,16 @@
 ---
 title: "State Seal of Colorado (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "State Seal of Colorado (Fashion)"
-  url: ""
+  url: "/setts/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3/)
-(the same proportion at any scale), whose colour order is pattern [WBBBWBGKYKGKW](/stripes/wbbbwbgkykgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBBBWBGKYKGKW](/stripes/wbbbwbgkykgkw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="226.1" cy="33.9" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.7" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/"><circle cx="246.4" cy="40.5" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1~x2/"><circle cx="246.4" cy="40.5" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="246.2" cy="40.8" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/"><circle cx="257.3" cy="45.3" r="4" fill="#3465a4"><title>Swedish District Tartan</title></circle></a><a href="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/"><circle cx="247.3" cy="59.5" r="4" fill="#3465a4"><title>Scottish Pride (Fashion)</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.0" cy="45.5" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="265.8" cy="59.3" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><circle cx="265.3" cy="32.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="226.1" cy="33.7" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.7" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.6" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/"><circle cx="246.4" cy="40.4" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1~x2/"><circle cx="246.4" cy="40.4" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="246.2" cy="40.6" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/"><circle cx="257.3" cy="45.1" r="4" fill="#3465a4"><title>Swedish District Tartan</title></circle></a><a href="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/"><circle cx="247.3" cy="59.3" r="4" fill="#3465a4"><title>Scottish Pride (Fashion)</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.0" cy="45.3" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="265.8" cy="59.2" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><circle cx="265.3" cy="32.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3~x2/

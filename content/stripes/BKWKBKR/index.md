@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r7k4db28k24lb24k4db4~x2/">MacCorquodale</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r7k4db28k24lb24k4db4~x2/"><img src="/variants/s7/r7k4db28k24lb24k4db4~x2/sett.png" alt="MacCorquodale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r7k4db28k24lb24k4db4~x2/">MacCorquodale Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r7k4db28k24lb24k4db4~x2/"><img src="/variants/s7/r7k4db28k24lb24k4db4~x2/sett.png" alt="MacCorquodale Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s7/r28k2p36k2w4k2p7~x2/">Presbyterian College Band (Corp)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/r28k2p36k2w4k2p7~x2/"><img src="/variants/s7/r28k2p36k2w4k2p7~x2/sett.png" alt="Presbyterian College Band (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

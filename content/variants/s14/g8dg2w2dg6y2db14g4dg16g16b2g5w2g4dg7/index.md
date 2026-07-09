@@ -1,6 +1,7 @@
 ---
 title: "Scott, hunting special"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Scott Hunting special"
   url: "/tartans/scott-hunting-special/"
 - name: "Scott, hunting special"
-  url: ""
+  url: "/setts/g8dg2w2dg6y2db14g4dg16g16b2g5w2g4dg7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8dg2w2dg6y2db14g4dg16g16b2g5w2g4dg7/)
-(the same proportion at any scale), whose colour order is pattern [GGWGBGGGBGGWGG](/stripes/ggwgbgggbggwgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g8dg2w2dg6y2db14g4dg16g16b2g5w2g4dg7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGWGBGGGBGGWGG](/stripes/ggwgbgggbggwgg/).
 
 Part of the [Scott Hunting special](/tartans/scott-hunting-special/) tartan — the named design grouping this sett with its other cloths.
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g8dg2w2dg6y2db14g4dg16g16r2g5w2g4dg7/"><circle cx="172.6" cy="181.9" r="4" fill="#3465a4"><title>Scott Hunting special</title></circle></a><a href="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/"><circle cx="186.3" cy="195.0" r="4" fill="#3465a4"><title>Limerick Irish County Tartan</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.2" cy="185.9" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/variants/s12/dpi4dp4dpi2dp14dg6g3dg6dgi2g4dgi2g15n3~x2~dpi1607327-dp1105325-g2408144-dgi1806142/"><circle cx="151.2" cy="199.8" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/variants/s14/lb2g3lb2g12y5g12w1dg16y3w3g3dg2dp2w1~x2/"><circle cx="228.0" cy="153.2" r="4" fill="#3465a4"><title>Malone, Keagan Allen (Personal)</title></circle></a><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><circle cx="123.0" cy="188.8" r="4" fill="#3465a4"><title>Forbes of Druminnor Artifact Tartan</title></circle></a><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><circle cx="140.9" cy="192.1" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.4" cy="220.6" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/"><circle cx="158.7" cy="186.6" r="4" fill="#3465a4"><title>Hash House Harriers Hunting</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><circle cx="158.1" cy="186.4" r="4" fill="#3465a4"><title>Hash House Harriers Hunting (Corp)</title></circle></a><circle cx="195.1" cy="196.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g8dg2w2dg6y2db14g4dg16g16r2g5w2g4dg7/"><circle cx="172.7" cy="181.8" r="4" fill="#3465a4"><title>Scott Hunting special</title></circle></a><a href="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/"><circle cx="186.3" cy="194.9" r="4" fill="#3465a4"><title>Limerick Irish County Tartan</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.3" cy="185.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/variants/s12/dpi4dp4dpi2dp14dg6g3dg6dgi2g4dgi2g15n3~x2~dpi1607327-dp1105325-g2408144-dgi1806142/"><circle cx="151.3" cy="199.8" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/variants/s14/lb2g3lb2g12y5g12w1dg16y3w3g3dg2dp2w1~x2/"><circle cx="228.0" cy="153.1" r="4" fill="#3465a4"><title>Malone, Keagan Allen (Personal)</title></circle></a><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><circle cx="123.0" cy="188.7" r="4" fill="#3465a4"><title>Forbes of Druminnor Artifact Tartan</title></circle></a><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><circle cx="140.9" cy="192.1" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.5" cy="220.5" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/"><circle cx="158.8" cy="186.5" r="4" fill="#3465a4"><title>Hash House Harriers Hunting</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><circle cx="158.2" cy="186.3" r="4" fill="#3465a4"><title>Hash House Harriers Hunting (Corp)</title></circle></a><circle cx="195.1" cy="196.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/g8dg2w2dg6y2db14g4dg16g16b2g5w2g4dg7/

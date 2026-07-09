@@ -1,14 +1,16 @@
 ---
 title: "Schuster (Perosnal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Schuster (Perosnal)"
-  url: ""
+  url: "/setts/g1w1g39r2w3t13w3dr2r1dr2w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1w1g39r2w3t13w3dr2r1dr2w1/)
-(the same proportion at any scale), whose colour order is pattern [GWGRWBWBRBW](/stripes/gwgrwbwbrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g1w1g39r2w3t13w3dr2r1dr2w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGRWBWBRBW](/stripes/gwgrwbwbrbw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/"><circle cx="366.2" cy="84.0" r="4" fill="#3465a4"><title>Schuster (Bavaria) (Personal), Benedikt</title></circle></a><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><circle cx="318.0" cy="97.2" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="374.0" cy="128.5" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/"><circle cx="366.2" cy="123.3" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/"><circle cx="370.6" cy="83.5" r="4" fill="#3465a4"><title>Morgan Jocelyn . . . (Personal)</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.4" cy="60.3" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s11/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3~x2~ly3104101-lyi3407090/"><circle cx="314.5" cy="96.7" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/"><circle cx="350.0" cy="73.1" r="4" fill="#3465a4"><title>Morgan Jocelyn Osmélian Peregrine (Personal)</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.5" cy="121.4" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><circle cx="280.1" cy="66.8" r="4" fill="#3465a4"><title>Thomas McGurran</title></circle></a><circle cx="379.4" cy="89.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/"><circle cx="366.2" cy="83.8" r="4" fill="#3465a4"><title>Schuster (Bavaria) (Personal), Benedikt</title></circle></a><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><circle cx="318.0" cy="97.0" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="374.0" cy="128.4" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/"><circle cx="366.3" cy="123.2" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/"><circle cx="370.6" cy="83.3" r="4" fill="#3465a4"><title>Morgan Jocelyn . . . (Personal)</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.4" cy="60.2" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s11/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3~x2~ly3104101-lyi3407090/"><circle cx="314.5" cy="96.5" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/"><circle cx="350.0" cy="72.9" r="4" fill="#3465a4"><title>Morgan Jocelyn Osmélian Peregrine (Personal)</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.5" cy="121.3" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><circle cx="280.1" cy="66.6" r="4" fill="#3465a4"><title>Thomas McGurran</title></circle></a><circle cx="379.4" cy="89.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/

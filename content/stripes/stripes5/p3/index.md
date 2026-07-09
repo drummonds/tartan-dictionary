@@ -81,7 +81,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Oban Grey](/variants/s5/k4w3k4n9r1~x4/) | register-of-tartans |
+| 0.05 | [Oban Grey District Tartan](/variants/s5/k4w3k4n9r1~x4/) | house-of-tartan |
 
 ### KWKGW
 <a class="pat" href="/stripes/kwkgw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KWKGW</span></a>

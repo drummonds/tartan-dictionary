@@ -1,5 +1,12 @@
 ---
 title: "Falkirk Football Club (Corporate)"
-redirect: "/variants/s9/db5r16db4k3db4k3db43r15w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Falkirk Football Club (Corporate)](/variants/s9/db5r16db4k3db4k3db43r15w1~x2/).
+This is the **Falkirk Football Club (Corporate)** sett — one scale-free proportion (`db5r16db4k3db4k3db43r15w1`), colour order pattern
+[BRBKBKBRW](/stripes/brbkbkbrw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Falkirk Football Club (Corporate)](/variants/s9/db5r16db4k3db4k3db43r15w1~x2/) ★ | 2002 | ![Falkirk Football Club (Corporate) sett](/variants/s9/db5r16db4k3db4k3db43r15w1~x2/sett.png) |

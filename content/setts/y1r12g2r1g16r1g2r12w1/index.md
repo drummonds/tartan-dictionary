@@ -2,16 +2,16 @@
 title: "MacFie"
 date: 2023-03-18
 ---
-The **MacFie** tartan is one sett proportion (`y1r12g2r1g16r1g2r12w1`) recorded at 3 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GRGRGRGRW](/stripes/grgrgrgrw/); each scale below is its own sett page. First attested **1880**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacFie** sett — one scale-free proportion (`y1r12g2r1g16r1g2r12w1`), colour order pattern
+[GRGRGRGRW](/stripes/grgrgrgrw/). It is recorded as **3 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1880**.
 
-Part of the [MacFie](/tartans/macfie/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacFie](/tartans/macfie/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [MacPhie/Macfie](/variants/s9/y1r12g2r1g16r1g2r12w1~x4/) ★ | 1880 | ![MacPhie/Macfie sett](/variants/s9/y1r12g2r1g16r1g2r12w1~x4/sett.png) |
 | ×1 | [MacFie](/variants/s9/y1r12g2r1g16r1g2r12w1/) | ~2016 | ![MacFie sett](/variants/s9/y1r12g2r1g16r1g2r12w1/sett.png) |
-| ×2 | [MacPhee, MacFie](/variants/s9/y1r12g2r1g16r1g2r12w1~x2/) | ~2016 | ![MacPhee, MacFie sett](/variants/s9/y1r12g2r1g16r1g2r12w1~x2/sett.png) |
+| ×2 | [MacPhee MacFie Clan Tartan](/variants/s9/y1r12g2r1g16r1g2r12w1~x2/) | 1906 | ![MacPhee MacFie Clan Tartan sett](/variants/s9/y1r12g2r1g16r1g2r12w1~x2/sett.png) |

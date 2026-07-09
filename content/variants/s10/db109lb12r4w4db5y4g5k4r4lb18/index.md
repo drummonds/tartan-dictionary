@@ -1,16 +1,18 @@
 ---
 title: "Yorston (2014)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Yorston"
   url: "/tartans/yorston/"
 - name: "Yorston (2014)"
-  url: ""
+  url: "/setts/db109lb12r4w4db5y4g5k4r4lb18/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db109lb12r4w4db5y4g5k4r4lb18/)
-(the same proportion at any scale), whose colour order is pattern [BWRWBGGKRW](/stripes/bwrwbggkrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db109lb12r4w4db5y4g5k4r4lb18/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRWBGGKRW](/stripes/bwrwbggkrw/).
 
 Part of the [Yorston](/tartans/yorston/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db109lb12r4w4db5dy4g5k4r4lb18/"><circle cx="342.0" cy="37.4" r="4" fill="#3465a4"><title>Yorston (2014)</title></circle></a><a href="/variants/s12/db57lb3k9ly2k2w3k2g10db6k2db2r3~x2~lb3501240-ly3307090/"><circle cx="310.9" cy="32.6" r="4" fill="#3465a4"><title>O'Shaughnessy Memorial</title></circle></a><a href="/variants/s12/db57lb3k9y2k2w3k2g10db6k2db2r3~x2/"><circle cx="316.0" cy="33.7" r="4" fill="#3465a4"><title>O'Shaughnessy Memorial (Corporate)</title></circle></a><a href="/variants/s12/y4db55n4k4db2y2db2w5db3r2n2k2~x2/"><circle cx="396.8" cy="42.5" r="4" fill="#3465a4"><title>London '88</title></circle></a><a href="/variants/s12/dy2g3k2dr1k9db3lb1db42dr1db2g3w2~x2/"><circle cx="358.6" cy="20.4" r="4" fill="#3465a4"><title>Sedge, Douglas (Personal)</title></circle></a><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><circle cx="298.3" cy="53.1" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/"><circle cx="303.9" cy="71.4" r="4" fill="#3465a4"><title>Gemmell Blue (2001) (Personal)</title></circle></a><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><circle cx="287.9" cy="47.1" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><a href="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b1907270-db1003265/"><circle cx="332.2" cy="55.6" r="4" fill="#3465a4"><title>Blue Pride</title></circle></a><a href="/variants/s17/db36lb2db4lb3db4lb4w1r2g2w1k2g3k2db3k2r3w1~x2/"><circle cx="308.4" cy="19.9" r="4" fill="#3465a4"><title>Reeves (2015)</title></circle></a><circle cx="341.2" cy="37.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db109lb12r4w4db5dy4g5k4r4lb18/"><circle cx="342.0" cy="37.2" r="4" fill="#3465a4"><title>Yorston (2014)</title></circle></a><a href="/variants/s12/db57lb3k9ly2k2w3k2g10db6k2db2r3~x2~lb3501240-ly3307090/"><circle cx="310.9" cy="32.4" r="4" fill="#3465a4"><title>O'Shaughnessy Memorial</title></circle></a><a href="/variants/s12/db57lb3k9y2k2w3k2g10db6k2db2r3~x2/"><circle cx="316.1" cy="33.5" r="4" fill="#3465a4"><title>O'Shaughnessy Memorial (Corporate)</title></circle></a><a href="/variants/s12/y4db55n4k4db2y2db2w5db3r2n2k2~x2/"><circle cx="396.9" cy="42.3" r="4" fill="#3465a4"><title>London '88</title></circle></a><a href="/variants/s12/dy2g3k2dr1k9db3lb1db42dr1db2g3w2~x2/"><circle cx="358.6" cy="20.2" r="4" fill="#3465a4"><title>Sedge, Douglas (Personal)</title></circle></a><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><circle cx="298.3" cy="53.0" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/"><circle cx="303.9" cy="71.3" r="4" fill="#3465a4"><title>Gemmell Blue (2001) (Personal)</title></circle></a><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><circle cx="287.9" cy="46.9" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><a href="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b1907270-db1003265/"><circle cx="332.2" cy="55.5" r="4" fill="#3465a4"><title>Blue Pride</title></circle></a><a href="/variants/s17/db36lb2db4lb3db4lb4w1r2g2w1k2g3k2db3k2r3w1~x2/"><circle cx="308.4" cy="19.7" r="4" fill="#3465a4"><title>Reeves (2015)</title></circle></a><circle cx="341.2" cy="37.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db109lb12r4w4db5y4g5k4r4lb18/

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r38w9r3do9w3~x2/">Loch Morar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r38w9r3do9w3~x2/"><img src="/variants/s5/r38w9r3do9w3~x2/sett.png" alt="Loch Morar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r38w9r3do9w3~x2/">Loch Morar Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r38w9r3do9w3~x2/"><img src="/variants/s5/r38w9r3do9w3~x2/sett.png" alt="Loch Morar Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s5/o38w9o3do9w3~x2/">Loch Tummel</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/o38w9o3do9w3~x2/"><img src="/variants/s5/o38w9o3do9w3~x2/sett.png" alt="Loch Tummel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

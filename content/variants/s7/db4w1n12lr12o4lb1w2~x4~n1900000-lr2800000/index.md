@@ -1,14 +1,16 @@
 ---
 title: "Ontex"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ontex"
-  url: ""
+  url: "/setts/db4w1n12lr12o4lb1w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4w1n12lr12o4lb1w2/)
-(the same proportion at any scale), whose colour order is pattern [BWBYRWW](/stripes/bwbyrww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4w1n12lr12o4lb1w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBYRWW](/stripes/bwbyrww/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.2" cy="206.2" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.5" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/"><circle cx="157.6" cy="182.2" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.4" cy="219.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><circle cx="160.0" cy="216.7" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.4" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/"><circle cx="181.3" cy="185.8" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><circle cx="166.5" cy="196.8" r="4" fill="#3465a4"><title>Swiss Highlander (Corporate)</title></circle></a><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><circle cx="125.5" cy="209.8" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"><circle cx="127.7" cy="159.3" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><circle cx="192.3" cy="192.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.2" cy="206.1" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.6" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/"><circle cx="157.6" cy="182.1" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.5" cy="219.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><circle cx="160.0" cy="216.6" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/"><circle cx="181.3" cy="185.8" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><circle cx="166.5" cy="196.8" r="4" fill="#3465a4"><title>Swiss Highlander (Corporate)</title></circle></a><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><circle cx="125.5" cy="209.8" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"><circle cx="127.7" cy="159.2" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><circle cx="192.4" cy="192.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/

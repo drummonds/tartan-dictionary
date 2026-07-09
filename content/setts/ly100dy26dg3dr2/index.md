@@ -1,5 +1,12 @@
 ---
 title: "Canadian Irish Regiment Regimental Tartan"
-redirect: "/variants/s4/ly100dy26dg3dr2~x2~dy1603076/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Canadian Irish Regiment Regimental Tartan](/variants/s4/ly100dy26dg3dr2~x2~dy1603076/).
+This is the **Canadian Irish Regiment Regimental Tartan** sett — one scale-free proportion (`ly100dy26dg3dr2`), colour order pattern
+[BGGY](/stripes/bggy/). It is recorded as a single **variant**, below.
+First attested **1930**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Canadian Irish Regiment Regimental Tartan](/variants/s4/ly100dy26dg3dr2~x2~dy1603076/) ★ | 1930 | ![Canadian Irish Regiment Regimental Tartan sett](/variants/s4/ly100dy26dg3dr2~x2~dy1603076/sett.png) |

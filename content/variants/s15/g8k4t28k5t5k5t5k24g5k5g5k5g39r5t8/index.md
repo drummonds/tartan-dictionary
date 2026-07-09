@@ -1,14 +1,16 @@
 ---
 title: "Princess Louise"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Princess Louise"
-  url: ""
+  url: "/setts/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/)
-(the same proportion at any scale), whose colour order is pattern [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="139.2" cy="172.3" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/"><circle cx="125.9" cy="182.5" r="4" fill="#3465a4"><title>Lamont (Clan)</title></circle></a><a href="/variants/s15/ly2t3k3t4y16t3k3t4y3t3k16t4y3t3ly2~x2/"><circle cx="126.1" cy="164.5" r="4" fill="#3465a4"><title>Kerry Irish County Tartan</title></circle></a><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/"><circle cx="104.6" cy="154.2" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="175.7" cy="160.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="153.9" cy="172.4" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/"><circle cx="171.5" cy="144.8" r="4" fill="#3465a4"><title>Lyon (Clan)</title></circle></a><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="141.9" cy="177.4" r="4" fill="#3465a4"><title>74th Regiment of Foot (Mil.)</title></circle></a><a href="/variants/s10/g16k2g2k2g4k10t19k2t2k3~x2/"><circle cx="177.2" cy="156.4" r="4" fill="#3465a4"><title>Kerr Hunting</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="166.3" cy="161.6" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><circle cx="146.0" cy="151.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="139.2" cy="172.2" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/"><circle cx="125.9" cy="182.4" r="4" fill="#3465a4"><title>Lamont (Clan)</title></circle></a><a href="/variants/s15/ly2t3k3t4y16t3k3t4y3t3k16t4y3t3ly2~x2/"><circle cx="126.1" cy="164.4" r="4" fill="#3465a4"><title>Kerry Irish County Tartan</title></circle></a><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/"><circle cx="104.6" cy="154.1" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="175.7" cy="160.7" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="153.9" cy="172.3" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/"><circle cx="171.5" cy="144.7" r="4" fill="#3465a4"><title>Lyon (Clan)</title></circle></a><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="141.9" cy="177.3" r="4" fill="#3465a4"><title>74th Regiment of Foot (Mil.)</title></circle></a><a href="/variants/s10/g16k2g2k2g4k10t19k2t2k3~x2/"><circle cx="177.1" cy="156.2" r="4" fill="#3465a4"><title>Kerr Hunting</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="166.3" cy="161.5" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><circle cx="146.0" cy="151.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/

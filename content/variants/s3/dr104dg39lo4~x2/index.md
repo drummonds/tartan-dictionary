@@ -1,16 +1,18 @@
 ---
 title: "Scottish Watch"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Watch"
   url: "/tartans/scottish-watch/"
 - name: "Scottish Watch"
-  url: ""
+  url: "/setts/dr104dg39lo4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr104dg39lo4/)
-(the same proportion at any scale), whose colour order is pattern [BGYG](/stripes/bgyg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr104dg39lo4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGYG](/stripes/bgyg/).
 
 Part of the [Scottish Watch](/tartans/scottish-watch/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dg8dr1db1n1~x10/"><circle cx="622.8" cy="292.3" r="4" fill="#3465a4"><title>Jodi Williams (Personal)</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="557.9" cy="288.6" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.1" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="580.7" cy="195.1" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s4/y22dp1g22r4~x4/"><circle cx="450.8" cy="264.1" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><circle cx="446.5" cy="199.8" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/variants/s5/dr37do9dr3g9do3~x2/"><circle cx="562.6" cy="266.3" r="4" fill="#3465a4"><title>Glen Shee #1 (Fashion)</title></circle></a><circle cx="577.6" cy="284.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dg8dr1db1n1~x10/"><circle cx="622.9" cy="292.3" r="4" fill="#3465a4"><title>Jodi Williams (Personal)</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="557.9" cy="288.6" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.0" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="580.7" cy="195.0" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s4/y22dp1g22r4~x4/"><circle cx="450.8" cy="264.0" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><circle cx="446.6" cy="199.7" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/variants/s5/dr37do9dr3g9do3~x2/"><circle cx="562.6" cy="266.3" r="4" fill="#3465a4"><title>Glen Shee #1 (Fashion)</title></circle></a><circle cx="577.6" cy="283.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/dr104dg39lo4~x2/

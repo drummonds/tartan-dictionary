@@ -1,14 +1,16 @@
 ---
 title: "Clergy"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clergy"
-  url: ""
+  url: "/setts/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1/)
-(the same proportion at any scale), whose colour order is pattern [WKWRWKRKRKWKWRWKW](/stripes/wkwrwkrkrkwkwrwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWRWKRKRKWKWRWKW](/stripes/wkwrwkrkrkwkwrwkw/).
 
 Sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **Clergy** name adjusted Logan's counts: [Clergy](/setts/s11/b1g1b6k6g1k6g1b2g1b3g1~b2c4084-g005020-k101010~x2/); [Clergy #2](/setts/s11/b4g4b18k19g4k19g4b7g4b12g2~b2c4084-g005020-k101010~x2/); [Clergy #3](/setts/s12/k10g5k2g5k10w1k26w1g4w1k5w1~g808080-k101010-we0e0e0~x2/); [Clergy (Clark)](/setts/s11/g2b5g2b3g2k10g2k10b10g2k2~b2c4084-g005020-k101010~x2/). Compare their thread counts with Logan's above.
+Later records of the **Clergy** name adjusted Logan's counts: [Clergy](/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/); [Clergy #2](/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/); [Clergy #3](/variants/s12/k10n5k2n5k10w1k26w1n4w1k5w1~x2/); [Clergy (Clark)](/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/"><circle cx="370.7" cy="88.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/"><circle cx="377.1" cy="92.0" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><circle cx="377.1" cy="92.0" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/"><circle cx="410.6" cy="75.7" r="4" fill="#3465a4"><title>O'Boyle</title></circle></a><a href="/variants/s22/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="352.4" cy="63.1" r="4" fill="#3465a4"><title>Knights Templar Dress</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.2" cy="83.4" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/variants/s12/k10n5k2n5k10w1k26w1n4w1k5w1~x2/"><circle cx="422.7" cy="111.2" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><circle cx="349.5" cy="35.4" r="4" fill="#3465a4"><title>Largs Dress (1972)</title></circle></a><a href="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="417.5" cy="14.3" r="4" fill="#3465a4"><title>Noordermeer Personal Tartan</title></circle></a><a href="/variants/s13/k5g1k3b2g10k3g4k28b2k2g1k4b1~x2/"><circle cx="386.1" cy="95.4" r="4" fill="#3465a4"><title>McCarthy</title></circle></a><circle cx="397.7" cy="60.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/"><circle cx="370.6" cy="88.6" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/"><circle cx="410.6" cy="75.5" r="4" fill="#3465a4"><title>O'Boyle</title></circle></a><a href="/variants/s22/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="352.4" cy="62.9" r="4" fill="#3465a4"><title>Knights Templar Dress</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.2" cy="83.2" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/variants/s12/k10n5k2n5k10w1k26w1n4w1k5w1~x2/"><circle cx="422.7" cy="111.0" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><circle cx="349.5" cy="35.2" r="4" fill="#3465a4"><title>Largs Dress (1972)</title></circle></a><a href="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="417.5" cy="14.1" r="4" fill="#3465a4"><title>Noordermeer Personal Tartan</title></circle></a><a href="/variants/s13/k5g1k3b2g10k3g4k28b2k2g1k4b1~x2/"><circle cx="386.1" cy="95.3" r="4" fill="#3465a4"><title>McCarthy</title></circle></a><circle cx="397.7" cy="59.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/

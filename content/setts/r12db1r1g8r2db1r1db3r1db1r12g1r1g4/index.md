@@ -2,15 +2,15 @@
 title: "MacColl"
 date: 2023-03-18
 ---
-The **MacColl** tartan is one sett proportion (`r12db1r1g8r2db1r1db3r1db1r12g1r1g4`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/); each scale below is its own sett page. First attested **1819**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacColl** sett — one scale-free proportion (`r12db1r1g8r2db1r1db3r1db1r12g1r1g4`), colour order pattern
+[GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1797**.
 
-Part of the [MacColl](/tartans/maccoll/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacColl](/tartans/maccoll/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×4 | [MacColl](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/) ★ | 1819 | ![MacColl sett](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/sett.png) |
-| ×2 | [MacColl](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/) | ~2016 | ![MacColl sett](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/sett.png) |
+| ×2 | [MacColl Clan Tartan](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/) ★ | 1797 | ![MacColl Clan Tartan sett](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/sett.png) |
+| ×4 | [MacColl](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/) | 1819 | ![MacColl sett](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/sett.png) |

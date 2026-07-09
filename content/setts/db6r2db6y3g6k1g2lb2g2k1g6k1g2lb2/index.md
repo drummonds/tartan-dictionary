@@ -1,5 +1,12 @@
 ---
 title: "Presbyterian Synod of Living Waters (USA)"
-redirect: "/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Presbyterian Synod of Living Waters (USA)](/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/).
+This is the **Presbyterian Synod of Living Waters (USA)** sett — one scale-free proportion (`db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2`), colour order pattern
+[BRBGGKGWGKGKGW](/stripes/brbggkgwgkgkgw/). It is recorded as a single **variant**, below.
+First attested **1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Presbyterian Synod of Living Waters (USA)](/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/) ★ | 1993 | ![Presbyterian Synod of Living Waters (USA) sett](/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/sett.png) |

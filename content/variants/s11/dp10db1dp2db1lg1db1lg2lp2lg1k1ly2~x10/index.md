@@ -1,14 +1,16 @@
 ---
 title: "Lieuwen (2013)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lieuwen (2013)"
-  url: ""
+  url: "/setts/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBYBYWYKY](/stripes/bbbbybywyky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBYBYWYKY](/stripes/bbbbybywyky/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/"><circle cx="205.2" cy="121.2" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="171.7" cy="127.8" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="189.6" cy="111.4" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/"><circle cx="183.4" cy="111.1" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><circle cx="165.0" cy="108.6" r="4" fill="#3465a4"><title>Hamburg #2 (Corporate)</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="156.1" cy="119.5" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s15/r2g4k2db25g4db4y2db2w2db5g3r7k2r3w2~x2/"><circle cx="196.9" cy="91.8" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Blue Thistle (Personal)</title></circle></a><a href="/variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/"><circle cx="167.3" cy="123.5" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/"><circle cx="196.5" cy="127.8" r="4" fill="#3465a4"><title>Eljamel, Sam (Personal)</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.3" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><circle cx="184.4" cy="119.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/"><circle cx="205.2" cy="121.1" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="171.7" cy="127.6" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="189.6" cy="111.3" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/"><circle cx="183.4" cy="111.0" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><circle cx="165.0" cy="108.4" r="4" fill="#3465a4"><title>Hamburg #2 (Corporate)</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="156.1" cy="119.4" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s15/r2g4k2db25g4db4y2db2w2db5g3r7k2r3w2~x2/"><circle cx="196.9" cy="91.7" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Blue Thistle (Personal)</title></circle></a><a href="/variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/"><circle cx="167.3" cy="123.4" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/"><circle cx="196.5" cy="127.7" r="4" fill="#3465a4"><title>Eljamel, Sam (Personal)</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.1" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><circle cx="184.4" cy="119.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/

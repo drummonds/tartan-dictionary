@@ -1,5 +1,12 @@
 ---
-title: "Inverary"
-redirect: "/variants/s6/dg10k1db13k3w9y3~x2/"
+title: "Inverary Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Inverary](/variants/s6/dg10k1db13k3w9y3~x2/).
+This is the **Inverary Clan Tartan** sett — one scale-free proportion (`dg10k1db13k3w9y3`), colour order pattern
+[GKBKWG](/stripes/gkbkwg/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Inverary Clan Tartan](/variants/s6/dg10k1db13k3w9y3~x2/) ★ | ~2003 | ![Inverary Clan Tartan sett](/variants/s6/dg10k1db13k3w9y3~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Hutcheson (Name)"
-redirect: "/variants/s6/db8y4r30dg30lo3dg4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hutcheson (Name)](/variants/s6/db8y4r30dg30lo3dg4~x2/).
+This is the **Hutcheson (Name)** sett — one scale-free proportion (`db8y4r30dg30lo3dg4`), colour order pattern
+[BGRGYG](/stripes/bgrgyg/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hutcheson (Name)](/variants/s6/db8y4r30dg30lo3dg4~x2/) ★ | 2000 | ![Hutcheson (Name) sett](/variants/s6/db8y4r30dg30lo3dg4~x2/sett.png) |

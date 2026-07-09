@@ -1,5 +1,12 @@
 ---
 title: "Scotland's Lionheart"
-redirect: "/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scotland's Lionheart](/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/).
+This is the **Scotland's Lionheart** sett — one scale-free proportion (`k78y16k2dt2k2y2k3r2k10`), colour order pattern
+[KGKBKGKRK](/stripes/kgkbkgkrk/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scotland's Lionheart](/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/) ★ | 2007 | ![Scotland's Lionheart sett](/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/sett.png) |

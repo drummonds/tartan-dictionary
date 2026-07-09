@@ -1,16 +1,18 @@
 ---
 title: "O'Neill (Australia) (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Neill"
   url: "/tartans/o-neill-3/"
 - name: "O'Neill (Australia) (Name)"
-  url: ""
+  url: "/setts/g9o20g40w5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9o20g40w5/)
-(the same proportion at any scale), whose colour order is pattern [GRGW](/stripes/grgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g9o20g40w5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGW](/stripes/grgw/).
 
 Part of the [O'Neill](/tartans/o-neill-3/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.2" cy="300.2" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.5" cy="285.3" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan</title></circle></a><a href="/variants/s4/g9b20g40w5~x2/"><circle cx="439.0" cy="295.8" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s3/g49w4lo11~x2/"><circle cx="546.2" cy="275.1" r="4" fill="#3465a4"><title>Hibernian S3</title></circle></a><a href="/variants/s4/dr7g23r3g7~x2/"><circle cx="479.4" cy="274.7" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/variants/s4/dp7g23r3g7~x2/"><circle cx="463.3" cy="269.2" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s5/dg37o9dg3r9o3~x2/"><circle cx="445.4" cy="219.9" r="4" fill="#3465a4"><title>Glen Trool</title></circle></a><a href="/variants/s6/o20g40w5g40o20g9~x2/"><circle cx="462.6" cy="295.2" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><circle cx="449.3" cy="289.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.2" cy="300.2" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.5" cy="285.3" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan</title></circle></a><a href="/variants/s4/g9b20g40w5~x2/"><circle cx="439.1" cy="295.8" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s3/g49w4lo11~x2/"><circle cx="546.3" cy="275.1" r="4" fill="#3465a4"><title>Hibernian S3</title></circle></a><a href="/variants/s4/dr7g23r3g7~x2/"><circle cx="479.4" cy="274.7" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/variants/s4/dp7g23r3g7~x2/"><circle cx="463.3" cy="269.2" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s5/dg37o9dg3r9o3~x2/"><circle cx="445.4" cy="219.8" r="4" fill="#3465a4"><title>Glen Trool</title></circle></a><a href="/variants/s6/o20g40w5g40o20g9~x2/"><circle cx="462.6" cy="295.2" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><circle cx="449.4" cy="289.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/g9o20g40w5~x2/

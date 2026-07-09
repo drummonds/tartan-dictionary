@@ -1,14 +1,16 @@
 ---
 title: "Elmore (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Elmore (Personal)"
-  url: ""
+  url: "/setts/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4/)
-(the same proportion at any scale), whose colour order is pattern [KWGKBGWRKRWGYKR](/stripes/kwgkbgwrkrwgykr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWGKBGWRKRWGYKR](/stripes/kwgkbgwrkrwgykr/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/"><circle cx="125.7" cy="54.2" r="4" fill="#3465a4"><title>Mary Stewart, Queen of Scots</title></circle></a><a href="/variants/s12/n9lb5k8y2k4w4k4g31r50lb4r4k3~x2/"><circle cx="158.7" cy="54.4" r="4" fill="#3465a4"><title>MacLean of Duart</title></circle></a><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.1" cy="53.9" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s12/do9lb5k8y2k4w4k4g28r44lb4r5k3~x2/"><circle cx="139.5" cy="63.2" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/variants/s19/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2~x2/"><circle cx="165.4" cy="15.9" r="4" fill="#3465a4"><title>Chattan Clan Tartan</title></circle></a><a href="/variants/s15/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44~x2/"><circle cx="168.2" cy="75.1" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.2" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/"><circle cx="188.7" cy="69.2" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.4" cy="79.3" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s19/r36k2w1g18w1o2y2r3k1r3y2o2w1lb18k5r4y5o2w2~x2/"><circle cx="170.6" cy="17.5" r="4" fill="#3465a4"><title>Chattan</title></circle></a><circle cx="147.0" cy="36.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/"><circle cx="125.7" cy="54.0" r="4" fill="#3465a4"><title>Mary Stewart, Queen of Scots</title></circle></a><a href="/variants/s12/n9lb5k8y2k4w4k4g31r50lb4r4k3~x2/"><circle cx="158.7" cy="54.2" r="4" fill="#3465a4"><title>MacLean of Duart</title></circle></a><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.1" cy="53.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s12/do9lb5k8y2k4w4k4g28r44lb4r5k3~x2/"><circle cx="139.5" cy="63.0" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/variants/s19/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2~x2/"><circle cx="165.4" cy="15.7" r="4" fill="#3465a4"><title>Chattan Clan Tartan</title></circle></a><a href="/variants/s15/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44~x2/"><circle cx="168.2" cy="74.9" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.1" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/"><circle cx="188.7" cy="69.1" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.4" cy="79.2" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s19/r36k2w1g18w1o2y2r3k1r3y2o2w1lb18k5r4y5o2w2~x2/"><circle cx="170.6" cy="17.3" r="4" fill="#3465a4"><title>Chattan</title></circle></a><circle cx="147.0" cy="36.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/

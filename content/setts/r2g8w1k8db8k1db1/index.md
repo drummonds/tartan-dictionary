@@ -2,15 +2,15 @@
 title: "Colquhoun"
 date: 2023-03-18
 ---
-The **Colquhoun** tartan is one sett proportion (`r2g8w1k8db8k1db1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKWGR](/stripes/bkbkwgr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Colquhoun** sett — one scale-free proportion (`r2g8w1k8db8k1db1`), colour order pattern
+[BKBKWGR](/stripes/bkbkwgr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [Colquhoun](/tartans/colquhoun/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Colquhoun](/tartans/colquhoun/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [Colquhoun](/variants/s7/r2g8w1k8db8k1db1~x2/) ★ | ~2016 | ![Colquhoun sett](/variants/s7/r2g8w1k8db8k1db1~x2/sett.png) |
 | ×4 | [Colquhoun](/variants/s7/r2g8w1k8db8k1db1~x4/) | ~2016 | ![Colquhoun sett](/variants/s7/r2g8w1k8db8k1db1~x4/sett.png) |

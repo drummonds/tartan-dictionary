@@ -1,5 +1,12 @@
 ---
 title: "Haig Check (Estate Check)"
-redirect: "/variants/s5/k1w1k1w1t1~x12/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Haig Check (Estate Check)](/variants/s5/k1w1k1w1t1~x12/).
+This is the **Haig Check (Estate Check)** sett — one scale-free proportion (`k1w1k1w1t1`), colour order pattern
+[BWKWKWKW](/stripes/bwkwkwkw/). It is recorded as a single **variant**, below.
+First attested **1908**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×12 | [Haig Check (Estate Check)](/variants/s5/k1w1k1w1t1~x12/) ★ | 1908 | ![Haig Check (Estate Check) sett](/variants/s5/k1w1k1w1t1~x12/sett.png) |

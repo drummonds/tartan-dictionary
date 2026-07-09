@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/">Abercrombie (McKinlay)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/"><img src="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png" alt="Abercrombie (McKinlay) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/">Abercrombie Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/"><img src="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png" alt="Abercrombie Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

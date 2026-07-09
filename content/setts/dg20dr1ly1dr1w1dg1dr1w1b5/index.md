@@ -1,5 +1,12 @@
 ---
 title: "Scotts Valley"
-redirect: "/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scotts Valley](/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/).
+This is the **Scotts Valley** sett — one scale-free proportion (`dg20dr1ly1dr1w1dg1dr1w1b5`), colour order pattern
+[BWBGWBYBG](/stripes/bwbgwbybg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Scotts Valley](/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/) ★ | 2002 | ![Scotts Valley sett](/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/sett.png) |

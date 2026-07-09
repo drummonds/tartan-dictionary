@@ -1,5 +1,12 @@
 ---
 title: "Burns 250th Anniversary (Commem.)"
-redirect: "/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Burns 250th Anniversary (Commem.)](/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/).
+This is the **Burns 250th Anniversary (Commem.)** sett — one scale-free proportion (`r8ly2r24k6dy3g2dy3g2dy3k3w3k2`), colour order pattern
+[KWKGGGGGKRYR](/stripes/kwkgggggkryr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Burns 250th Anniversary (Commem.)](/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/) ★ | 2008 | ![Burns 250th Anniversary (Commem.) sett](/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/sett.png) |

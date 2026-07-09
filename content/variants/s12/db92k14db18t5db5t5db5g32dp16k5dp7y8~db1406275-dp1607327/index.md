@@ -1,6 +1,7 @@
 ---
 title: "Bavidge (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Bavidge (Personal)"
   url: "/setts/db92k14db18t5db5t5db5g32dp16k5dp7y8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db92k14db18t5db5t5db5g32dp16k5dp7y8/)
-(the same proportion at any scale), whose colour order is pattern [BKBBBBBGBKBG](/stripes/bkbbbbbgbkbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db92k14db18t5db5t5db5g32dp16k5dp7y8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBBBBBGBKBG](/stripes/bkbbbbbgbkbg/).
 
 Part of the [Bavidge](/tartans/bavidge/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8/"><circle cx="291.9" cy="99.8" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/variants/s12/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8~db0805267-dbi1604274/"><circle cx="314.9" cy="106.6" r="4" fill="#3465a4"><title>Bavidge</title></circle></a><a href="/variants/s10/g5db2k2db29dr2db2dr15ly2db4w2~x2/"><circle cx="289.7" cy="111.9" r="4" fill="#3465a4"><title>Bro-Naoned (Corporate)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.2" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s11/db42n2db2n4y4ly2y6k9y2k2r2~x2~y2204115-ly3206085/"><circle cx="289.6" cy="73.2" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/variants/s13/k1ri1db14lo1db1r1db1r2db1dg6db1dg1db1~x4~ri2109032-r1807033/"><circle cx="327.5" cy="101.4" r="4" fill="#3465a4"><title>Merchant Company, The</title></circle></a><a href="/variants/s11/db42n2db2n4g4ly2g6k9g2k2r2~x2/"><circle cx="282.8" cy="73.1" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db1204274-dbi1406275/"><circle cx="323.4" cy="137.3" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="276.0" cy="103.0" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/variants/s10/b16db6k1y1k1db6b4dr4k1r1~x4/"><circle cx="243.4" cy="124.2" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><circle cx="295.0" cy="98.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8/"><circle cx="291.9" cy="99.6" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/variants/s12/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8~db0805267-dbi1604274/"><circle cx="315.0" cy="106.5" r="4" fill="#3465a4"><title>Bavidge</title></circle></a><a href="/variants/s10/g5db2k2db29dr2db2dr15ly2db4w2~x2/"><circle cx="289.7" cy="111.7" r="4" fill="#3465a4"><title>Bro-Naoned (Corporate)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.2" cy="103.0" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s11/db42n2db2n4y4ly2y6k9y2k2r2~x2~y2204115-ly3206085/"><circle cx="289.6" cy="73.1" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/variants/s13/k1ri1db14lo1db1r1db1r2db1dg6db1dg1db1~x4~ri2109032-r1807033/"><circle cx="327.5" cy="101.2" r="4" fill="#3465a4"><title>Merchant Company, The</title></circle></a><a href="/variants/s11/db42n2db2n4g4ly2g6k9g2k2r2~x2/"><circle cx="282.8" cy="72.9" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db1204274-dbi1406275/"><circle cx="323.5" cy="137.1" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="276.1" cy="102.8" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/variants/s10/b16db6k1y1k1db6b4dr4k1r1~x4/"><circle cx="243.4" cy="124.1" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><circle cx="295.0" cy="98.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8~db1406275-dp1607327/

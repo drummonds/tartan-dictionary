@@ -1,14 +1,16 @@
 ---
 title: "Sheffield, City of (District)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sheffield, City of (District)"
-  url: ""
+  url: "/setts/dg62n3dg3n31k4g5lb5r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg62n3dg3n31k4g5lb5r3/)
-(the same proportion at any scale), whose colour order is pattern [GBGBKGWR](/stripes/gbgbkgwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg62n3dg3n31k4g5lb5r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBKGWR](/stripes/gbgbkgwr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="235.7" cy="153.7" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan</title></circle></a><a href="/variants/s10/r2g6dy2g3t4g14t36k2t3w2~x2/"><circle cx="361.9" cy="128.8" r="4" fill="#3465a4"><title>Sarasota - Dunfermline (Commemorat)</title></circle></a><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><circle cx="388.7" cy="143.8" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><circle cx="440.1" cy="142.6" r="4" fill="#3465a4"><title>Huntsman</title></circle></a><a href="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/"><circle cx="383.0" cy="141.8" r="4" fill="#3465a4"><title>Canuck Place (Corporate)</title></circle></a><a href="/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/"><circle cx="391.7" cy="91.7" r="4" fill="#3465a4"><title>Highland Burn (Fashion)</title></circle></a><a href="/variants/s10/r4t60g35t4y4t4dy12t18k3w2/"><circle cx="353.3" cy="104.0" r="4" fill="#3465a4"><title>Fogarty (Name)</title></circle></a><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/"><circle cx="376.9" cy="76.0" r="4" fill="#3465a4"><title>California Department of Forestry (Corporate)</title></circle></a><a href="/variants/s8/dg4r3dg24k1w7k1g24ly3~x2~dg1806142-g2106142/"><circle cx="226.0" cy="129.1" r="4" fill="#3465a4"><title>Layton (Name)</title></circle></a><a href="/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/"><circle cx="276.2" cy="108.4" r="4" fill="#3465a4"><title>Sheffield, City of</title></circle></a><circle cx="374.2" cy="135.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="235.7" cy="153.6" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan</title></circle></a><a href="/variants/s10/r2g6dy2g3t4g14t36k2t3w2~x2/"><circle cx="361.9" cy="128.7" r="4" fill="#3465a4"><title>Sarasota - Dunfermline (Commemorat)</title></circle></a><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><circle cx="388.7" cy="143.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><circle cx="440.1" cy="142.5" r="4" fill="#3465a4"><title>Huntsman</title></circle></a><a href="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/"><circle cx="383.0" cy="141.7" r="4" fill="#3465a4"><title>Canuck Place (Corporate)</title></circle></a><a href="/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/"><circle cx="391.7" cy="91.6" r="4" fill="#3465a4"><title>Highland Burn (Fashion)</title></circle></a><a href="/variants/s10/r4t60g35t4y4t4dy12t18k3w2/"><circle cx="353.3" cy="103.8" r="4" fill="#3465a4"><title>Fogarty (Name)</title></circle></a><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/"><circle cx="376.9" cy="75.8" r="4" fill="#3465a4"><title>California Department of Forestry (Corporate)</title></circle></a><a href="/variants/s8/dg4r3dg24k1w7k1g24ly3~x2~dg1806142-g2106142/"><circle cx="226.0" cy="128.9" r="4" fill="#3465a4"><title>Layton (Name)</title></circle></a><a href="/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/"><circle cx="276.2" cy="108.3" r="4" fill="#3465a4"><title>Sheffield, City of</title></circle></a><circle cx="374.2" cy="135.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/

@@ -1,5 +1,12 @@
 ---
 title: "Inverness, Duke of York"
-redirect: "/variants/s8/db122r11w4r15y4db6y4db30/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Inverness, Duke of York](/variants/s8/db122r11w4r15y4db6y4db30/).
+This is the **Inverness, Duke of York** sett — one scale-free proportion (`db122r11w4r15y4db6y4db30`), colour order pattern
+[BGBGRWRB](/stripes/bgbgrwrb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Inverness, Duke of York](/variants/s8/db122r11w4r15y4db6y4db30/) ★ | ~2016 | ![Inverness, Duke of York sett](/variants/s8/db122r11w4r15y4db6y4db30/sett.png) |

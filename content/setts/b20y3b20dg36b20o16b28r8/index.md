@@ -1,5 +1,12 @@
 ---
 title: "Leighton"
-redirect: "/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Leighton](/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/).
+This is the **Leighton** sett — one scale-free proportion (`b20y3b20dg36b20o16b28r8`), colour order pattern
+[BGBGBRBR](/stripes/bgbgbrbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Leighton](/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/) ★ | ~2016 | ![Leighton sett](/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/sett.png) |

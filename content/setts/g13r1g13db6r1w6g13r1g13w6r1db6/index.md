@@ -1,5 +1,12 @@
 ---
 title: "McGirr, David (Letterkenny)"
-redirect: "/variants/s12/g13r1g13db6r1w6g13r1g13w6r1db6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McGirr, David (Letterkenny)](/variants/s12/g13r1g13db6r1w6g13r1g13w6r1db6~x2/).
+This is the **McGirr, David (Letterkenny)** sett — one scale-free proportion (`g13r1g13db6r1w6g13r1g13w6r1db6`), colour order pattern
+[BRWGRGWRBGRG](/stripes/brwgrgwrbgrg/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McGirr, David (Letterkenny)](/variants/s12/g13r1g13db6r1w6g13r1g13w6r1db6~x2/) ★ | 2010 | ![McGirr, David (Letterkenny) sett](/variants/s12/g13r1g13db6r1w6g13r1g13w6r1db6~x2/sett.png) |

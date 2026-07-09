@@ -1,14 +1,16 @@
 ---
 title: "Peeper"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Peeper"
-  url: ""
+  url: "/setts/o4g9y1ly1y1ly1y1ly1k1o8k1y1ly1y1ly1o6y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o4g9y1ly1y1ly1y1ly1k1o8k1y1ly1y1ly1o6y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1/)
-(the same proportion at any scale), whose colour order is pattern [RGGYGYGYKRKGYGYRGYGYGYGYGYGYGYGYGYGYGYGYGYGYGY](/stripes/rggygygykrkgygyrgygygygygygygygygygygygygygygy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o4g9y1ly1y1ly1y1ly1k1o8k1y1ly1y1ly1o6y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGGYGYGYKRKGYGYRGYGYGYGYGYGYGYGYGYGYGYGYGYGYGY](/stripes/rggygygykrkgygyrgygygygygygygygygygygygygygygy/).
 
 Sourced from register-of-tartans.  It is a [46 stripe tartan](/stripes/stripes46/).
 

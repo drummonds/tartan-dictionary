@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/">Nicolson/MacNicol</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><img src="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/sett.png" alt="Nicolson/MacNicol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/">Nicholson Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><img src="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/sett.png" alt="Nicholson Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

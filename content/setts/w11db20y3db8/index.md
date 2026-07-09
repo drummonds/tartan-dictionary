@@ -1,5 +1,12 @@
 ---
 title: "Lucard, Stéphane (Personal)"
-redirect: "/variants/s4/w11db20y3db8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lucard, Stéphane (Personal)](/variants/s4/w11db20y3db8~x2/).
+This is the **Lucard, Stéphane (Personal)** sett — one scale-free proportion (`w11db20y3db8`), colour order pattern
+[BGBW](/stripes/bgbw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lucard, Stéphane (Personal)](/variants/s4/w11db20y3db8~x2/) ★ | 2014 | ![Lucard, Stéphane (Personal) sett](/variants/s4/w11db20y3db8~x2/sett.png) |

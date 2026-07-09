@@ -1,14 +1,16 @@
 ---
 title: "Saskatchewan District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Saskatchewan"
   url: "/setts/y2ly1r2ly26dy11g6k1w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2ly1r2ly26dy11g6k1w2/)
-(the same proportion at any scale), whose colour order is pattern [GYRYGGKW](/stripes/gyryggkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y2ly1r2ly26dy11g6k1w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYRYGGKW](/stripes/gyryggkw/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1959 The colours chosen are the same as those for the flag.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1959 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~dy1603076/"><circle cx="250.0" cy="67.9" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2/"><circle cx="232.5" cy="80.8" r="4" fill="#3465a4"><title>Saskatchewan (District)</title></circle></a><a href="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/"><circle cx="194.1" cy="43.1" r="4" fill="#3465a4"><title>Essex County (Ontario)</title></circle></a><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/"><circle cx="120.8" cy="108.2" r="4" fill="#3465a4"><title>Australian Donkey (Corporate)</title></circle></a><a href="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/"><circle cx="204.3" cy="122.4" r="4" fill="#3465a4"><title>California Highway Patrol (Corporate</title></circle></a><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><circle cx="229.3" cy="120.4" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><circle cx="244.7" cy="84.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~dy1603076/"><circle cx="250.0" cy="67.7" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2/"><circle cx="232.5" cy="80.7" r="4" fill="#3465a4"><title>Saskatchewan (District)</title></circle></a><a href="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/"><circle cx="194.1" cy="42.9" r="4" fill="#3465a4"><title>Essex County (Ontario)</title></circle></a><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/"><circle cx="120.8" cy="108.1" r="4" fill="#3465a4"><title>Australian Donkey (Corporate)</title></circle></a><a href="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/"><circle cx="204.3" cy="122.3" r="4" fill="#3465a4"><title>California Highway Patrol (Corporate</title></circle></a><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><circle cx="229.3" cy="120.3" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><circle cx="244.7" cy="84.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/

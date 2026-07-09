@@ -1,5 +1,12 @@
 ---
 title: "Yes Scotland (Fashion)"
-redirect: "/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Yes Scotland (Fashion)](/variants/s8/n12g4dp4g4n31dt3db12w4~x2/).
+This is the **Yes Scotland (Fashion)** sett — one scale-free proportion (`n12g4dp4g4n31dt3db12w4`), colour order pattern
+[BGBGBBBW](/stripes/bgbgbbbw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Yes Scotland (Fashion)](/variants/s8/n12g4dp4g4n31dt3db12w4~x2/) ★ | 2013 | ![Yes Scotland (Fashion) sett](/variants/s8/n12g4dp4g4n31dt3db12w4~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Ottawa District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ottawa"
   url: "/tartans/ottawa/"
 - name: "Ottawa District Tartan"
-  url: ""
+  url: "/setts/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1/)
-(the same proportion at any scale), whose colour order is pattern [GWGWGWGWGWGWGBGBGBGWGWGR](/stripes/gwgwgwgwgwgwgbgbgbgwgwgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGWGWGWGWGWGBGBGBGWGWGR](/stripes/gwgwgwgwgwgwgbgbgbgwgwgr/).
 
 Part of the [Ottawa](/tartans/ottawa/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1966 In two blocks - Navy Block ends on 14th colour change 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1966 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/"><circle cx="242.4" cy="163.0" r="4" fill="#3465a4"><title>Ottawa</title></circle></a><a href="/variants/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="200.3" cy="139.6" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><circle cx="223.1" cy="180.2" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s17/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3~x2/"><circle cx="135.7" cy="177.7" r="4" fill="#3465a4"><title>Clanedin (Commemorative)</title></circle></a><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/"><circle cx="211.7" cy="162.2" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board</title></circle></a><a href="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/"><circle cx="215.4" cy="133.0" r="4" fill="#3465a4"><title>Lumsden (Short)</title></circle></a><circle cx="212.1" cy="151.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/"><circle cx="242.4" cy="162.9" r="4" fill="#3465a4"><title>Ottawa</title></circle></a><a href="/variants/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="200.3" cy="139.5" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><circle cx="223.1" cy="180.0" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s17/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3~x2/"><circle cx="135.7" cy="177.6" r="4" fill="#3465a4"><title>Clanedin (Commemorative)</title></circle></a><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/"><circle cx="211.7" cy="162.0" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board</title></circle></a><a href="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/"><circle cx="215.4" cy="132.8" r="4" fill="#3465a4"><title>Lumsden (Short)</title></circle></a><circle cx="212.1" cy="151.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1~x4/

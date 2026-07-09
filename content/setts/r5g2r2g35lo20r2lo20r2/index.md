@@ -1,5 +1,12 @@
 ---
 title: "PeachyKeen"
-redirect: "/variants/s8/r5g2r2g35lo20r2lo20r2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [PeachyKeen](/variants/s8/r5g2r2g35lo20r2lo20r2/).
+This is the **PeachyKeen** sett — one scale-free proportion (`r5g2r2g35lo20r2lo20r2`), colour order pattern
+[RGRGYRYR](/stripes/rgrgyryr/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [PeachyKeen](/variants/s8/r5g2r2g35lo20r2lo20r2/) ★ | 2007 | ![PeachyKeen sett](/variants/s8/r5g2r2g35lo20r2lo20r2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Tyneside, Scottish"
-redirect: "/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tyneside, Scottish](/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/).
+This is the **Tyneside, Scottish** sett — one scale-free proportion (`db11o1db1o1db1o8g8o1g8o8db8o1db1`), colour order pattern
+[BRBRBRGRGRBRB](/stripes/brbrbrgrgrbrb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tyneside, Scottish](/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/) ★ | ~2016 | ![Tyneside, Scottish sett](/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/sett.png) |

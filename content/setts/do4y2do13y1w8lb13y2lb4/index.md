@@ -1,5 +1,12 @@
 ---
 title: "Bannockbane, Dark Tan"
-redirect: "/variants/s8/do4y2do13y1w8lb13y2lb4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bannockbane, Dark Tan](/variants/s8/do4y2do13y1w8lb13y2lb4~x2/).
+This is the **Bannockbane, Dark Tan** sett — one scale-free proportion (`do4y2do13y1w8lb13y2lb4`), colour order pattern
+[BGBGWWGW](/stripes/bgbgwwgw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bannockbane, Dark Tan](/variants/s8/do4y2do13y1w8lb13y2lb4~x2/) ★ | ~2016 | ![Bannockbane, Dark Tan sett](/variants/s8/do4y2do13y1w8lb13y2lb4~x2/sett.png) |

@@ -1,5 +1,14 @@
 ---
 title: "Suttle (Personal)"
-redirect: "/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Suttle (Personal)](/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/).
+This is the **Suttle (Personal)** sett — one scale-free proportion (`n36k18n5db7n5k7r1dg2`), colour order pattern
+[BKBBBKRG](/stripes/bkbbbkrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [Suttle](/tartans/suttle/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Suttle (Personal)](/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/) ★ | ~2016 | ![Suttle (Personal) sett](/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/sett.png) |

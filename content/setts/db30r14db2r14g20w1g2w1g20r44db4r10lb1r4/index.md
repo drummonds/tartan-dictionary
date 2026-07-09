@@ -1,5 +1,12 @@
 ---
-title: "Unnamed C18th - Duke of Perth"
-redirect: "/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/"
+title: "Perth (Duke of.. ) Portrait Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unnamed C18th - Duke of Perth](/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/).
+This is the **Perth (Duke of.. ) Portrait Tartan** sett — one scale-free proportion (`db30r14db2r14g20w1g2w1g20r44db4r10lb1r4`), colour order pattern
+[BRBRGWGWGRBRWR](/stripes/brbrgwgwgrbrwr/). It is recorded as a single **variant**, below.
+First attested **1739**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Perth (Duke of.. ) Portrait Tartan](/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/) ★ | 1739 | ![Perth (Duke of.. ) Portrait Tartan sett](/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/sett.png) |

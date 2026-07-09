@@ -1,14 +1,16 @@
 ---
 title: "Ardalansish Tweed (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ardalansish Tweed (Fashion)"
-  url: ""
+  url: "/setts/do1ly1do2lr4n1lr1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do1ly1do2lr4n1lr1/)
-(the same proportion at any scale), whose colour order is pattern [BYBYBY](/stripes/bybyby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/do1ly1do2lr4n1lr1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBYBY](/stripes/bybyby/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -1,16 +1,18 @@
 ---
 title: "Bartlam (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bartlam"
   url: "/tartans/bartlam/"
 - name: "Bartlam (Personal)"
-  url: ""
+  url: "/setts/do12db2do2db2do2db12do2db2do2db2do12n12dr2n12do12db11do2db2do2db11do12n12ly2n12/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do12db2do2db2do2db12do2db2do2db2do12n12dr2n12do12db11do2db2do2db11do12n12ly2n12/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBBBBBBBBBBBYB](/stripes/bbbbbbbbbbbbbbbbbbbbbbyb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/do12db2do2db2do2db12do2db2do2db2do12n12dr2n12do12db11do2db2do2db11do12n12ly2n12/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBBBBBBBBBBBYB](/stripes/bbbbbbbbbbbbbbbbbbbbbbyb/).
 
 Part of the [Bartlam](/tartans/bartlam/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/do12n12ly2n12do12db11do2db2do2db11do12n12dr2n12do12db2do2db2do2db12do2db2do2db2~x2/"><circle cx="300.0" cy="240.2" r="4" fill="#3465a4"><title>Bartlam (Personal)</title></circle></a><circle cx="300.0" cy="240.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/do12n12ly2n12do12db11do2db2do2db11do12n12dr2n12do12db2do2db2do2db12do2db2do2db2~x2/"><circle cx="300.1" cy="240.1" r="4" fill="#3465a4"><title>Bartlam (Personal)</title></circle></a><circle cx="300.1" cy="240.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/do12db2do2db2do2db12do2db2do2db2do12n12dr2n12do12db11do2db2do2db11do12n12ly2n12~x2/

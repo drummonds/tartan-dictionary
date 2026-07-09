@@ -1,14 +1,16 @@
 ---
 title: "MacKinnon Hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKinnon Hunting"
   url: "/setts/g1b8g8r1g8b8w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1b8g8r1g8b8w1/)
-(the same proportion at any scale), whose colour order is pattern [GBGRGBW](/stripes/gbgrgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g1b8g8r1g8b8w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGRGBW](/stripes/gbgrgbw/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="317.0" cy="254.2" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.9" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/db51g5r15g37db17r6g7~x2/"><circle cx="291.9" cy="224.7" r="4" fill="#3465a4"><title>Cadence Design Systems (Corporate)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4/"><circle cx="333.4" cy="255.4" r="4" fill="#3465a4"><title>Norris (1957) (Name)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/"><circle cx="332.4" cy="255.1" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.5" cy="230.5" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.7" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><circle cx="317.0" cy="254.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="317.0" cy="254.1" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.1" cy="189.3" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.8" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/db51g5r15g37db17r6g7~x2/"><circle cx="292.0" cy="224.6" r="4" fill="#3465a4"><title>Cadence Design Systems (Corporate)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4/"><circle cx="333.4" cy="255.3" r="4" fill="#3465a4"><title>Norris (1957) (Name)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/"><circle cx="332.4" cy="255.1" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.6" cy="230.4" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.6" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><circle cx="317.0" cy="254.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g1b8g8r1g8b8w1~x4/

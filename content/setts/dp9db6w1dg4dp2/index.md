@@ -1,5 +1,14 @@
 ---
 title: "Cathro"
-redirect: "/variants/s5/dp9db6w1dg4dp2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cathro](/variants/s5/dp9db6w1dg4dp2~x4/).
+This is the **Cathro** sett — one scale-free proportion (`dp9db6w1dg4dp2`), colour order pattern
+[BBWGB](/stripes/bbwgb/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+Part of the [Cathro](/tartans/cathro/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Cathro](/variants/s5/dp9db6w1dg4dp2~x4/) ★ | 2005 | ![Cathro sett](/variants/s5/dp9db6w1dg4dp2~x4/sett.png) |

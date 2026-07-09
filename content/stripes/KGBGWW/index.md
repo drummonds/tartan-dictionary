@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/k3y3db20g25lb18w3~x2/">Porteous</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><img src="/variants/s6/k3y3db20g25lb18w3~x2/sett.png" alt="Porteous sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k1y1db8g10lb7w1~x2/">Porteous</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><img src="/variants/s6/k1y1db8g10lb7w1~x2/sett.png" alt="Porteous sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k1y1db8g10lb7w1~x2/">Porteous Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><img src="/variants/s6/k1y1db8g10lb7w1~x2/sett.png" alt="Porteous Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

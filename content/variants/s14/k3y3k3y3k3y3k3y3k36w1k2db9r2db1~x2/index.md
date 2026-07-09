@@ -1,14 +1,16 @@
 ---
 title: "Goldwire (2015)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Goldwire (2015)"
-  url: ""
+  url: "/setts/k3y3k3y3k3y3k3y3k36w1k2db9r2db1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3y3k3y3k3y3k3y3k36w1k2db9r2db1/)
-(the same proportion at any scale), whose colour order is pattern [BRBKWKGKGKGKGK](/stripes/brbkwkgkgkgkgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3y3k3y3k3y3k3y3k36w1k2db9r2db1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKWKGKGKGKGK](/stripes/brbkwkgkgkgkgk/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/"><circle cx="356.8" cy="60.9" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="51.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/"><circle cx="340.9" cy="40.0" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="387.7" cy="36.3" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/"><circle cx="346.5" cy="60.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.4" cy="48.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/"><circle cx="336.5" cy="47.5" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.4" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.3" cy="35.1" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="359.4" cy="29.1" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><circle cx="361.0" cy="44.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/"><circle cx="356.8" cy="60.7" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="51.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/"><circle cx="340.9" cy="39.8" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="387.7" cy="36.1" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/"><circle cx="346.5" cy="60.4" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.5" cy="47.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/"><circle cx="336.5" cy="47.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.2" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.3" cy="34.9" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="359.4" cy="28.9" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><circle cx="361.0" cy="44.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/

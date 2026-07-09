@@ -1,5 +1,12 @@
 ---
 title: "East of Scotland Tartan Army"
-redirect: "/variants/s6/dt40dy10dt8r20dt100w5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [East of Scotland Tartan Army](/variants/s6/dt40dy10dt8r20dt100w5/).
+This is the **East of Scotland Tartan Army** sett — one scale-free proportion (`dt40dy10dt8r20dt100w5`), colour order pattern
+[BGBRBW](/stripes/bgbrbw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [East of Scotland Tartan Army](/variants/s6/dt40dy10dt8r20dt100w5/) ★ | 2005 | ![East of Scotland Tartan Army sett](/variants/s6/dt40dy10dt8r20dt100w5/sett.png) |

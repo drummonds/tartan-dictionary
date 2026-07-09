@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/">Guthrie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><img src="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/sett.png" alt="Guthrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/">Guthrie (Name)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/"><img src="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/sett.png" alt="Guthrie (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/">Guthrie Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><img src="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/sett.png" alt="Guthrie Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

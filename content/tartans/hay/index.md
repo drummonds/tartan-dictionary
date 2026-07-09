@@ -22,7 +22,7 @@ The **Hay** tartan groups 4 setts — the same named design recorded as differen
 <tr><td><a href="/setts/r6g4y2g36r2g2r2g12r48g4r2k1r2w6/">Hay</a></td><td><code>W/6 R2 K1 R2 G4 R48 G12 R2 G2 R2 G36 Y2 G4 R/6</code></td><td>492</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r6g4y2g36r2g2r2g12r48g4r2k1r2w6/"><img src="/variants/s14/r6g4y2g36r2g2r2g12r48g4r2k1r2w6~x2/sett.png" alt="Hay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/r6g4y2g36r2g2r2g12r48g4r2k1r2w6/">Hay</a> · <a href="/variants/s14/r6g4y2g36r2g2r2g12r48g4r2k1r2w6~x2/">Hay</a></td></tr>
-<tr><td><a href="/setts/r9g6y4g54r4g4r4g18r72g6r4k2r4w9/">Hay</a></td><td><code>R/9 G6 Y4 G54 R4 G4 R4 G18 R72 G6 R4 K2 R4 W/9</code></td><td>382</td><td>—</td></tr>
+<tr><td><a href="/setts/r9g6y4g54r4g4r4g18r72g6r4k2r4w9/">Hay</a></td><td><code>R/9 G6 Y4 G54 R4 G4 R4 G18 R72 G6 R4 K2 R4 W/9</code></td><td>382</td><td>1842</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r9g6y4g54r4g4r4g18r72g6r4k2r4w9/"><img src="/variants/s14/r9g6y4g54r4g4r4g18r72g6r4k2r4w9/sett.png" alt="Hay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

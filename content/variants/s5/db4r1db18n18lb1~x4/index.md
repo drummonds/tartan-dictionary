@@ -1,14 +1,16 @@
 ---
 title: "Ardee (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ardee (Corporate)"
-  url: ""
+  url: "/setts/db4r1db18n18lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4r1db18n18lb1/)
-(the same proportion at any scale), whose colour order is pattern [BRBBW](/stripes/brbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4r1db18n18lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBBW](/stripes/brbbw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.0" cy="250.3" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="302.2" cy="233.1" r="4" fill="#3465a4"><title>HMS Duncan Regimental Tartan</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.3" cy="201.0" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.1" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.3" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.7" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/"><circle cx="415.9" cy="196.9" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/"><circle cx="387.1" cy="185.9" r="4" fill="#3465a4"><title>Deighan (Edinburgh)</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/"><circle cx="403.8" cy="182.8" r="4" fill="#3465a4"><title>British American School of Charlotte</title></circle></a><circle cx="415.9" cy="217.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.0" cy="250.3" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="302.3" cy="233.1" r="4" fill="#3465a4"><title>HMS Duncan Regimental Tartan</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.3" cy="200.9" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.1" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.4" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.6" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/"><circle cx="415.9" cy="196.8" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/"><circle cx="387.1" cy="185.8" r="4" fill="#3465a4"><title>Deighan (Edinburgh)</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/"><circle cx="403.8" cy="182.7" r="4" fill="#3465a4"><title>British American School of Charlotte</title></circle></a><circle cx="416.0" cy="217.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db4r1db18n18lb1~x4/

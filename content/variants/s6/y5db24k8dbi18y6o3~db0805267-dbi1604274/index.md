@@ -1,14 +1,16 @@
 ---
 title: "CALA Homes"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "CALA Homes"
-  url: ""
+  url: "/setts/y5db24k8dbi18y6o3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y5db24k8dbi18y6o3/)
-(the same proportion at any scale), whose colour order is pattern [GBKBGR](/stripes/gbkbgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y5db24k8dbi18y6o3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBGR](/stripes/gbkbgr/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/"><circle cx="138.0" cy="206.7" r="4" fill="#3465a4"><title>Cala Homes (Corporate)</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.4" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="133.9" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.1" cy="210.0" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><circle cx="216.9" cy="210.0" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="146.5" cy="191.9" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.5" cy="188.3" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="151.2" cy="208.2" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="158.1" cy="213.4" r="4" fill="#3465a4"><title>Junior Chamber International (Corp)</title></circle></a><a href="/variants/s6/dr4k2db24k20dg20lo3~x2/"><circle cx="171.3" cy="197.5" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><circle cx="166.5" cy="216.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/"><circle cx="138.1" cy="206.6" r="4" fill="#3465a4"><title>Cala Homes (Corporate)</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="134.0" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.2" cy="209.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><circle cx="216.9" cy="209.9" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="146.5" cy="191.8" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.6" cy="188.2" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="151.2" cy="208.2" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="158.2" cy="213.3" r="4" fill="#3465a4"><title>Junior Chamber International (Corp)</title></circle></a><a href="/variants/s6/dr4k2db24k20dg20lo3~x2/"><circle cx="171.3" cy="197.4" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><circle cx="166.5" cy="216.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/

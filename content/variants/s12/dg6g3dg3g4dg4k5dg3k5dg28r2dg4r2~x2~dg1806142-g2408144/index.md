@@ -1,14 +1,16 @@
 ---
 title: "Ross Hunting Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ross Hunting Clan Tartan"
-  url: ""
+  url: "/setts/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2/)
-(the same proportion at any scale), whose colour order is pattern [GGGGGKGKGRGR](/stripes/gggggkgkgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGGKGKGRGR](/stripes/gggggkgkgrgr/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1850 The threadcount is based on a sample from the MacGrego
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1850 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/"><circle cx="367.3" cy="121.6" r="4" fill="#3465a4"><title>Ross Hunting #3</title></circle></a><a href="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/"><circle cx="334.9" cy="147.3" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s14/g2b4g2b1g1b1g3k2g2k2g12r1g2r1~x2/"><circle cx="329.0" cy="145.0" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/"><circle cx="332.3" cy="161.8" r="4" fill="#3465a4"><title>Ross Hunting Clan Tartan</title></circle></a><a href="/variants/s14/g3y1g3r1g14k2g3k1g3b1g2b1g2b3~x4/"><circle cx="399.7" cy="129.2" r="4" fill="#3465a4"><title>New South Wales</title></circle></a><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/"><circle cx="336.6" cy="126.7" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><circle cx="437.7" cy="165.5" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><circle cx="322.2" cy="120.7" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.4" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s10/g30dy2k3r2k2r2k3dy2k2g4~x2/"><circle cx="340.6" cy="112.5" r="4" fill="#3465a4"><title>Forde (Name)</title></circle></a><circle cx="377.1" cy="140.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/"><circle cx="367.3" cy="121.4" r="4" fill="#3465a4"><title>Ross Hunting #3</title></circle></a><a href="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/"><circle cx="334.9" cy="147.2" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s14/g2b4g2b1g1b1g3k2g2k2g12r1g2r1~x2/"><circle cx="329.0" cy="144.8" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/"><circle cx="332.3" cy="161.7" r="4" fill="#3465a4"><title>Ross Hunting Clan Tartan</title></circle></a><a href="/variants/s14/g3y1g3r1g14k2g3k1g3b1g2b1g2b3~x4/"><circle cx="399.7" cy="129.1" r="4" fill="#3465a4"><title>New South Wales</title></circle></a><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/"><circle cx="336.6" cy="126.6" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><circle cx="437.7" cy="165.4" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><circle cx="322.2" cy="120.6" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.2" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s10/g30dy2k3r2k2r2k3dy2k2g4~x2/"><circle cx="340.6" cy="112.4" r="4" fill="#3465a4"><title>Forde (Name)</title></circle></a><circle cx="377.1" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2~x2~dg1806142-g2408144/

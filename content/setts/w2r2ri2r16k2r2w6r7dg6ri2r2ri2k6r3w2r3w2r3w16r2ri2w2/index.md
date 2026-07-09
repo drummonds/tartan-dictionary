@@ -1,5 +1,12 @@
 ---
 title: "MacDougal (Dress)"
-redirect: "/variants/s22/w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2~x2~r2109032-ri2806019/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDougal (Dress)](/variants/s22/w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2~x2~r2109032-ri2806019/).
+This is the **MacDougal (Dress)** sett — one scale-free proportion (`w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2`), colour order pattern
+[WRRRKRWRGRRRKRWRWRWRRW](/stripes/wrrrkrwrgrrrkrwrwrwrrw/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDougal (Dress)](/variants/s22/w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2~x2~r2109032-ri2806019/) ★ | 2000 | ![MacDougal (Dress) sett](/variants/s22/w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2~x2~r2109032-ri2806019/sett.png) |

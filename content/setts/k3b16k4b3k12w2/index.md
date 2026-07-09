@@ -1,5 +1,12 @@
 ---
 title: "MacMugen"
-redirect: "/variants/s6/k3b16k4b3k12w2~x3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacMugen](/variants/s6/k3b16k4b3k12w2~x3/).
+This is the **MacMugen** sett — one scale-free proportion (`k3b16k4b3k12w2`), colour order pattern
+[KBKBKW](/stripes/kbkbkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×3 | [MacMugen](/variants/s6/k3b16k4b3k12w2~x3/) ★ | ~2016 | ![MacMugen sett](/variants/s6/k3b16k4b3k12w2~x3/sett.png) |

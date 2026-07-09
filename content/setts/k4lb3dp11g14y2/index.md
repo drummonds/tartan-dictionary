@@ -1,5 +1,12 @@
 ---
 title: "Wellington, No 122"
-redirect: "/variants/s5/k4lb3dp11g14y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wellington, No 122](/variants/s5/k4lb3dp11g14y2~x2/).
+This is the **Wellington, No 122** sett — one scale-free proportion (`k4lb3dp11g14y2`), colour order pattern
+[GGBWK](/stripes/ggbwk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wellington, No 122](/variants/s5/k4lb3dp11g14y2~x2/) ★ | ~2016 | ![Wellington, No 122 sett](/variants/s5/k4lb3dp11g14y2~x2/sett.png) |

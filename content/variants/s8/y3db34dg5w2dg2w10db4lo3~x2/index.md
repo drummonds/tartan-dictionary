@@ -1,16 +1,18 @@
 ---
 title: "Royal Troon Golf Club, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Troon Golf Club, The"
   url: "/tartans/royal-troon-golf-club-the/"
 - name: "Royal Troon Golf Club, The"
-  url: ""
+  url: "/setts/y3db34dg5w2dg2w10db4lo3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3db34dg5w2dg2w10db4lo3/)
-(the same proportion at any scale), whose colour order is pattern [GBGWGWBY](/stripes/gbgwgwby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y3db34dg5w2dg2w10db4lo3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGWGWBY](/stripes/gbgwgwby/).
 
 Part of the [Royal Troon Golf Club, The](/tartans/royal-troon-golf-club-the/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/"><circle cx="327.3" cy="142.5" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/"><circle cx="335.2" cy="123.3" r="4" fill="#3465a4"><title>Stuart/Stewart navy</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.4" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.6" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><circle cx="411.1" cy="119.8" r="4" fill="#3465a4"><title>Baker Dress Family Tartan</title></circle></a><a href="/variants/s8/dy2db2w1dbi6w1y2db17y1~x2~db0705267-dbi1106275/"><circle cx="354.3" cy="151.5" r="4" fill="#3465a4"><title>East Tennessee State University</title></circle></a><a href="/variants/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="406.9" cy="115.8" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s13/dbi32w2db1w2dbi4db1g8w8ly8db1dbi16db1w4~x2~dbi1406275-db1204274/"><circle cx="328.3" cy="104.9" r="4" fill="#3465a4"><title>Spirit of India (Fashion)</title></circle></a><a href="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/"><circle cx="312.7" cy="163.0" r="4" fill="#3465a4"><title>Gorman Family (Canada) (Personal)</title></circle></a><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/"><circle cx="263.2" cy="146.5" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><circle cx="326.7" cy="142.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/"><circle cx="327.3" cy="142.4" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/"><circle cx="335.2" cy="123.1" r="4" fill="#3465a4"><title>Stuart/Stewart navy</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.3" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.5" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><circle cx="411.1" cy="119.7" r="4" fill="#3465a4"><title>Baker Dress Family Tartan</title></circle></a><a href="/variants/s8/dy2db2w1dbi6w1y2db17y1~x2~db0705267-dbi1106275/"><circle cx="354.4" cy="151.4" r="4" fill="#3465a4"><title>East Tennessee State University</title></circle></a><a href="/variants/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="406.9" cy="115.7" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s13/dbi32w2db1w2dbi4db1g8w8ly8db1dbi16db1w4~x2~dbi1406275-db1204274/"><circle cx="328.3" cy="104.8" r="4" fill="#3465a4"><title>Spirit of India (Fashion)</title></circle></a><a href="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/"><circle cx="312.8" cy="162.9" r="4" fill="#3465a4"><title>Gorman Family (Canada) (Personal)</title></circle></a><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/"><circle cx="263.2" cy="146.4" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><circle cx="326.7" cy="142.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y3db34dg5w2dg2w10db4lo3~x2/

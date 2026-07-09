@@ -1,14 +1,16 @@
 ---
 title: "Hawick Corporate District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hawick Corporate District Tartan"
-  url: ""
+  url: "/setts/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2/)
-(the same proportion at any scale), whose colour order is pattern [GRGBWBGBWBGBWBGRGWRWBWBGBWBGBWBGR](/stripes/grgbwbgbwbgbwbgrgwrwbwbgbwbgbwbgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGBWBGBWBGBWBGRGWRWBWBGBWBGBWBGR](/stripes/grgbwbgbwbgbwbgrgwrwbwbgbwbgbwbgr/).
 
 Sourced from house-of-tartan.  It is a [33 stripe tartan](/stripes/stripes33/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1996 Designed by Andrew Elliot of Andrew Elliot Ltd, Forest
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1996 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r6y3r3db24dbi24g24lb3y4lb3g24dbi10w3dbi10db24r3y3r6~db1106275-dbi1406275/"><circle cx="69.2" cy="123.0" r="4" fill="#3465a4"><title>Stevens (Personal)</title></circle></a><a href="/variants/s33/dg10r1dg5k1w1k1y1k1db2k1y1k1w1k1g5r1g5db5r1db5k1w1k1y1k1db2k1y1k1w1k1dg5r1~x4/"><circle cx="26.5" cy="80.3" r="4" fill="#3465a4"><title>Hawick (District)</title></circle></a><a href="/variants/s28/w70dy7db7w7db7dy7w7db5dy9y4dy3w4dy3g13dy70g30dy4r10dy4g30dy15db4dy4db4dy4db27g6db27~x2/"><circle cx="124.7" cy="63.2" r="4" fill="#3465a4"><title>Unidentified Plaid #9</title></circle></a><a href="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/"><circle cx="46.8" cy="81.7" r="4" fill="#3465a4"><title>Hawick</title></circle></a><a href="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/"><circle cx="104.0" cy="113.4" r="4" fill="#3465a4"><title>O'Sullivan, McCragh</title></circle></a><a href="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/"><circle cx="79.6" cy="50.5" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/"><circle cx="103.2" cy="117.8" r="4" fill="#3465a4"><title>O'Sullivan McCragh Family Tartan</title></circle></a><a href="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/"><circle cx="76.3" cy="70.5" r="4" fill="#3465a4"><title>Kumikyoku - Tone of Forest</title></circle></a><circle cx="63.8" cy="88.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r6y3r3db24dbi24g24lb3y4lb3g24dbi10w3dbi10db24r3y3r6~db1106275-dbi1406275/"><circle cx="69.2" cy="122.9" r="4" fill="#3465a4"><title>Stevens (Personal)</title></circle></a><a href="/variants/s33/dg10r1dg5k1w1k1y1k1db2k1y1k1w1k1g5r1g5db5r1db5k1w1k1y1k1db2k1y1k1w1k1dg5r1~x4/"><circle cx="26.5" cy="80.1" r="4" fill="#3465a4"><title>Hawick (District)</title></circle></a><a href="/variants/s28/w70dy7db7w7db7dy7w7db5dy9y4dy3w4dy3g13dy70g30dy4r10dy4g30dy15db4dy4db4dy4db27g6db27~x2/"><circle cx="124.7" cy="63.0" r="4" fill="#3465a4"><title>Unidentified Plaid #9</title></circle></a><a href="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/"><circle cx="46.8" cy="81.5" r="4" fill="#3465a4"><title>Hawick</title></circle></a><a href="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/"><circle cx="104.0" cy="113.2" r="4" fill="#3465a4"><title>O'Sullivan, McCragh</title></circle></a><a href="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/"><circle cx="79.6" cy="50.3" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/"><circle cx="103.2" cy="117.6" r="4" fill="#3465a4"><title>O'Sullivan McCragh Family Tartan</title></circle></a><a href="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/"><circle cx="76.3" cy="70.3" r="4" fill="#3465a4"><title>Kumikyoku - Tone of Forest</title></circle></a><circle cx="63.8" cy="88.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/

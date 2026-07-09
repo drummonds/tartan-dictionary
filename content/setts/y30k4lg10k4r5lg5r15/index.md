@@ -1,5 +1,12 @@
 ---
 title: "Alister Grant 'Mohr', the Laird's Champion"
-redirect: "/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Alister Grant 'Mohr', the Laird's Champion](/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/).
+This is the **Alister Grant 'Mohr', the Laird's Champion** sett — one scale-free proportion (`y30k4lg10k4r5lg5r15`), colour order pattern
+[GKYKRYR](/stripes/gkykryr/). It is recorded as a single **variant**, below.
+First attested **1714**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Alister Grant 'Mohr', the Laird's Champion](/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/) ★ | 1714 | ![Alister Grant 'Mohr', the Laird's Champion sett](/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/sett.png) |

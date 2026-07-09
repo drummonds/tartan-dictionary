@@ -1,5 +1,12 @@
 ---
 title: "Oklahoma State University American Corporate Tartan"
-redirect: "/variants/s4/lo80k52w7o12~o2500000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Oklahoma State University American Corporate Tartan](/variants/s4/lo80k52w7o12~o2500000/).
+This is the **Oklahoma State University American Corporate Tartan** sett — one scale-free proportion (`lo80k52w7o12`), colour order pattern
+[RWKY](/stripes/rwky/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Oklahoma State University American Corporate Tartan](/variants/s4/lo80k52w7o12~o2500000/) ★ | ~2016 | ![Oklahoma State University American Corporate Tartan sett](/variants/s4/lo80k52w7o12~o2500000/sett.png) |

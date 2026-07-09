@@ -1,5 +1,12 @@
 ---
 title: "Glasgow Warriors"
-redirect: "/variants/s7/k16w30lb36k10lb10k83lb6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glasgow Warriors](/variants/s7/k16w30lb36k10lb10k83lb6/).
+This is the **Glasgow Warriors** sett — one scale-free proportion (`k16w30lb36k10lb10k83lb6`), colour order pattern
+[KWWKWKW](/stripes/kwwkwkw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Glasgow Warriors](/variants/s7/k16w30lb36k10lb10k83lb6/) ★ | 2016 | ![Glasgow Warriors sett](/variants/s7/k16w30lb36k10lb10k83lb6/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "State Seal of California (Fashion)"
-redirect: "/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [State Seal of California (Fashion)](/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/).
+This is the **State Seal of California (Fashion)** sett — one scale-free proportion (`ly29lyi3t19w3t3r3g17t3g4w3`), colour order pattern
+[WGBGRBWBYY](/stripes/wgbgrbwbyy/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [State Seal of California (Fashion)](/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/) ★ | 2013 | ![State Seal of California (Fashion) sett](/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/sett.png) |

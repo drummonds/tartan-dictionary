@@ -1,14 +1,16 @@
 ---
 title: "St Columba"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "St Columba"
-  url: ""
+  url: "/setts/db60lb5w4o12g42dp12lb5dp12/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db60lb5w4o12g42dp12lb5dp12/)
-(the same proportion at any scale), whose colour order is pattern [BWBGRWWB](/stripes/bwbgrwwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db60lb5w4o12g42dp12lb5dp12/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBGRWWB](/stripes/bwbgrwwb/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/"><circle cx="210.6" cy="144.5" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s9/w1db16ly1r3ly1dg6g2dg6w1~x2~dg1806142-g2408144/"><circle cx="213.8" cy="138.8" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s9/db16w6r8db3y1g1b3db1g9~x2/"><circle cx="166.0" cy="146.9" r="4" fill="#3465a4"><title>Ohio</title></circle></a><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/"><circle cx="196.1" cy="180.4" r="4" fill="#3465a4"><title>Ayrshire District Tartan</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.4" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/variants/s10/dp3n1db4g2r2g21n3dp21db25w3~x2/"><circle cx="200.5" cy="124.5" r="4" fill="#3465a4"><title>Accenture</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.8" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.9" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s9/db16w6r8db3y1g1lb3db1g9~x2/"><circle cx="162.8" cy="145.8" r="4" fill="#3465a4"><title>Ohio District Tartan</title></circle></a><a href="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/"><circle cx="256.1" cy="135.7" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="188.2" cy="152.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/"><circle cx="210.6" cy="144.3" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s9/w1db16ly1r3ly1dg6g2dg6w1~x2~dg1806142-g2408144/"><circle cx="213.8" cy="138.7" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s9/db16w6r8db3y1g1b3db1g9~x2/"><circle cx="166.0" cy="146.8" r="4" fill="#3465a4"><title>Ohio</title></circle></a><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/"><circle cx="196.1" cy="180.4" r="4" fill="#3465a4"><title>Ayrshire District Tartan</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.8" cy="137.3" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/variants/s10/dp3n1db4g2r2g21n3dp21db25w3~x2/"><circle cx="200.5" cy="124.3" r="4" fill="#3465a4"><title>Accenture</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="165.0" cy="176.7" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.8" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s9/db16w6r8db3y1g1lb3db1g9~x2/"><circle cx="162.8" cy="145.7" r="4" fill="#3465a4"><title>Ohio District Tartan</title></circle></a><a href="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/"><circle cx="256.2" cy="135.6" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="188.3" cy="152.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db60lb5w4o12g42dp12lb5dp12/

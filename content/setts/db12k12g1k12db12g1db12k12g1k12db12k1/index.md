@@ -1,5 +1,12 @@
 ---
 title: "Marchmont (Personal)"
-redirect: "/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Marchmont (Personal)](/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/).
+This is the **Marchmont (Personal)** sett — one scale-free proportion (`db12k12g1k12db12g1db12k12g1k12db12k1`), colour order pattern
+[BKGKBGBKGKBK](/stripes/bkgkbgbkgkbk/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Marchmont (Personal)](/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/) ★ | 1997 | ![Marchmont (Personal) sett](/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/sett.png) |

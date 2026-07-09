@@ -32,10 +32,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s6/w3g15db18r15g1r2~x2/"><img src="/variants/s6/w3g15db18r15g1r2~x2/sett.png" alt="Nibley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/w3dg18db22r19dg1r2~x2/">Nibley (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/w3dg18db22r19dg1r2~x2/"><img src="/variants/s6/w3dg18db22r19dg1r2~x2/sett.png" alt="Nibley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w3g15db18r30g1r2~x2/">Ruthven</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w3g15db18r30g1r2~x2/"><img src="/variants/s6/w3g15db18r30g1r2~x2/sett.png" alt="Ruthven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/w6g15db18r30g2r4~x2/">Ruthven (V.S.)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/w6g15db18r30g2r4~x2/"><img src="/variants/s6/w6g15db18r30g2r4~x2/sett.png" alt="Ruthven (V.S.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w3g15db18r30g1r2~x2/">Ruthven Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w3g15db18r30g1r2~x2/"><img src="/variants/s6/w3g15db18r30g1r2~x2/sett.png" alt="Ruthven Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

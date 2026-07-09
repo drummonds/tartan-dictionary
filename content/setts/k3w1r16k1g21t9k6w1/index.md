@@ -1,5 +1,12 @@
 ---
 title: "Ford & Etal"
-redirect: "/variants/s8/k3w1r16k1g21t9k6w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ford & Etal](/variants/s8/k3w1r16k1g21t9k6w1~x4/).
+This is the **Ford & Etal** sett — one scale-free proportion (`k3w1r16k1g21t9k6w1`), colour order pattern
+[KWRKGBKW](/stripes/kwrkgbkw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Ford & Etal](/variants/s8/k3w1r16k1g21t9k6w1~x4/) ★ | 2002 | ![Ford & Etal sett](/variants/s8/k3w1r16k1g21t9k6w1~x4/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Cunningham, Dress Blue (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cunningham Dress"
   url: "/tartans/cunningham-dress-2/"
 - name: "Cunningham, Dress Blue (Dance)"
-  url: ""
+  url: "/setts/t3db2k2db28w30db2w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t3db2k2db28w30db2w3/)
-(the same proportion at any scale), whose colour order is pattern [BBKBWBW](/stripes/bbkbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t3db2k2db28w30db2w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBKBWBW](/stripes/bbkbwbw/).
 
 Part of the [Cunningham Dress](/tartans/cunningham-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2db1w20db20k1db1lb2~x4/"><circle cx="266.9" cy="132.5" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s7/k1w3db2w4db8w1db1~x6/"><circle cx="263.1" cy="207.0" r="4" fill="#3465a4"><title>Queen Margaret University (Corporate</title></circle></a><a href="/variants/s7/y3db2k2db30w30dbi2w3~x2~db1208274-k0601240-dbi1406275/"><circle cx="226.5" cy="129.9" r="4" fill="#3465a4"><title>Torridon, Saphire (Dance)</title></circle></a><a href="/variants/s6/w5db32g12db2w30k4~x2/"><circle cx="199.0" cy="179.2" r="4" fill="#3465a4"><title>Bonnie Royal</title></circle></a><a href="/variants/s6/db8w3db28w32k3w4~x2/"><circle cx="273.1" cy="198.5" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/variants/s6/w52db22w6db8k1g3~x2~g2408144/"><circle cx="291.3" cy="86.5" r="4" fill="#3465a4"><title>MacGregor Dress Blue Fancy Tartan</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.4" cy="189.1" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/"><circle cx="240.6" cy="123.4" r="4" fill="#3465a4"><title>Harris, Royal Blue (Dance)</title></circle></a><a href="/variants/s7/db26w28db14y3k1y2k1~x2/"><circle cx="276.5" cy="127.4" r="4" fill="#3465a4"><title>Gothenburg/Goteborg</title></circle></a><a href="/variants/s6/db23w8lb2k5w44db4~x2/"><circle cx="316.7" cy="148.4" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><circle cx="253.0" cy="145.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2db1w20db20k1db1lb2~x4/"><circle cx="266.9" cy="132.4" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s7/k1w3db2w4db8w1db1~x6/"><circle cx="263.1" cy="206.9" r="4" fill="#3465a4"><title>Queen Margaret University (Corporate</title></circle></a><a href="/variants/s7/y3db2k2db30w30dbi2w3~x2~db1208274-k0601240-dbi1406275/"><circle cx="226.5" cy="129.8" r="4" fill="#3465a4"><title>Torridon, Saphire (Dance)</title></circle></a><a href="/variants/s6/w5db32g12db2w30k4~x2/"><circle cx="199.0" cy="179.1" r="4" fill="#3465a4"><title>Bonnie Royal</title></circle></a><a href="/variants/s6/db8w3db28w32k3w4~x2/"><circle cx="273.1" cy="198.5" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/variants/s6/w52db22w6db8k1g3~x2~g2408144/"><circle cx="291.3" cy="86.3" r="4" fill="#3465a4"><title>MacGregor Dress Blue Fancy Tartan</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.4" cy="189.0" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/"><circle cx="240.6" cy="123.3" r="4" fill="#3465a4"><title>Harris, Royal Blue (Dance)</title></circle></a><a href="/variants/s7/db26w28db14y3k1y2k1~x2/"><circle cx="276.5" cy="127.3" r="4" fill="#3465a4"><title>Gothenburg/Goteborg</title></circle></a><a href="/variants/s6/db23w8lb2k5w44db4~x2/"><circle cx="316.7" cy="148.3" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><circle cx="253.0" cy="145.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/t3db2k2db28w30db2w3~x2/

@@ -1,14 +1,16 @@
 ---
 title: "MacLean"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLean"
-  url: ""
+  url: "/setts/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1/)
-(the same proportion at any scale), whose colour order is pattern [KRBRGKWKYKBKYKWKGRBRK](/stripes/krbrgkwkykbkykwkgrbrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRBRGKWKYKBKYKWKGRBRK](/stripes/krbrgkwkykbkykwkgrbrk/).
 
 Sourced from logan-1831.  It is a [21 stripe tartan](/stripes/stripes21/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **MacLean** name adjusted Logan's counts: [MacLean](/setts/s11/b8k8y2k3w3k3g24r16b3r4k2~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/); [MacLean (Black and White)](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~k101010-wffffff~x2/); [MacLean (rare)](/setts/s12/b9ba5k8y2k4w4k4g28r44ba4r5k3~b443428-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/); [MacLean Dress (Lumsden)](/setts/s6/r1w12g6r8wa3y1~g006818-ra40000-wf8ece0-waa8ace8-yd09800~x4/). Compare their thread counts with Logan's above.
+Later records of the **MacLean** name adjusted Logan's counts: [MacLean](/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/); [MacLean (Black and White)](/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/); [MacLean (rare)](/variants/s12/do9lb5k8y2k4w4k4g28r44lb4r5k3~x2/); [MacLean Dress (Lumsden)](/variants/s6/dr1w12g6dr8lb3lo1~x4/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><circle cx="136.7" cy="38.8" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/"><circle cx="168.3" cy="14.0" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/"><circle cx="198.1" cy="45.7" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/"><circle cx="185.8" cy="57.9" r="4" fill="#3465a4"><title>Stewart/Stuart of Galloway (Wilsons)</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"><circle cx="198.5" cy="46.0" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29b15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="258.0" cy="21.5" r="4" fill="#3465a4"><title>Unidentified Plaid 4</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29lb15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="256.1" cy="20.8" r="4" fill="#3465a4"><title>Unidentified Plaid #8</title></circle></a><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/"><circle cx="214.1" cy="51.1" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/"><circle cx="200.5" cy="14.0" r="4" fill="#3465a4"><title>Hawick (Trade Sett)</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.4" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><circle cx="183.6" cy="25.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><circle cx="136.7" cy="38.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/"><circle cx="168.3" cy="14.0" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/"><circle cx="198.1" cy="45.5" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/"><circle cx="185.8" cy="57.7" r="4" fill="#3465a4"><title>Stewart/Stuart of Galloway (Wilsons)</title></circle></a><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"><circle cx="198.5" cy="45.8" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29b15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="258.0" cy="21.2" r="4" fill="#3465a4"><title>Unidentified Plaid 4</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29lb15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="256.0" cy="20.6" r="4" fill="#3465a4"><title>Unidentified Plaid #8</title></circle></a><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/"><circle cx="214.1" cy="50.9" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/"><circle cx="200.5" cy="14.0" r="4" fill="#3465a4"><title>Hawick (Trade Sett)</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.2" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><circle cx="183.6" cy="25.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/

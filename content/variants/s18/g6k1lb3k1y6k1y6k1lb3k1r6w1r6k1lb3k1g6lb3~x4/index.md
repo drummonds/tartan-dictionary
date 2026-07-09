@@ -1,14 +1,16 @@
 ---
 title: "Buchanan Old Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Buchanan Old Clan Tartan"
-  url: ""
+  url: "/setts/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3/)
-(the same proportion at any scale), whose colour order is pattern [GKWKGKGKWKRWRKWKGW](/stripes/gkwkgkgkwkrwrkwkgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWKGKGKWKRWRKWKGW](/stripes/gkwkgkgkwkrwrkwkgw/).
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2003 The asymetrical version of Logan's count.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="32.7" cy="146.8" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="31.8" cy="148.2" r="4" fill="#3465a4"><title>Buchanan (Wilson)</title></circle></a><a href="/variants/s18/y6k1db4k1r8w1r8k1db4k1g6db4g6k1db4k1y6k1~x2/"><circle cx="31.8" cy="148.2" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/"><circle cx="31.8" cy="148.2" r="4" fill="#3465a4"><title>Buchanan Clan Tartan</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="126.0" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="27.3" cy="146.5" r="4" fill="#3465a4"><title>Buchanan (1850 - Clan)</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.4" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/"><circle cx="14.0" cy="136.0" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s16/r2k2r5lb5k1lb1k1lb5g6y1g6r6w1r1k1r1~x2/"><circle cx="57.7" cy="152.3" r="4" fill="#3465a4"><title>Unidentified No 3</title></circle></a><a href="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/"><circle cx="14.6" cy="141.1" r="4" fill="#3465a4"><title>Buchanan Variant</title></circle></a><circle cx="14.0" cy="160.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="32.7" cy="146.7" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="31.8" cy="148.0" r="4" fill="#3465a4"><title>Buchanan (Wilson)</title></circle></a><a href="/variants/s18/y6k1db4k1r8w1r8k1db4k1g6db4g6k1db4k1y6k1~x2/"><circle cx="31.8" cy="148.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/"><circle cx="31.8" cy="148.0" r="4" fill="#3465a4"><title>Buchanan Clan Tartan</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="125.9" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="27.3" cy="146.4" r="4" fill="#3465a4"><title>Buchanan (1850 - Clan)</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/"><circle cx="14.0" cy="135.9" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s16/r2k2r5lb5k1lb1k1lb5g6y1g6r6w1r1k1r1~x2/"><circle cx="57.7" cy="152.2" r="4" fill="#3465a4"><title>Unidentified No 3</title></circle></a><a href="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/"><circle cx="14.6" cy="141.0" r="4" fill="#3465a4"><title>Buchanan Variant</title></circle></a><circle cx="14.0" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3~x4/

@@ -1,5 +1,12 @@
 ---
 title: "Cates Armigers (Personal)"
-redirect: "/variants/s6/dg20r8dg20y8g20k5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cates Armigers (Personal)](/variants/s6/dg20r8dg20y8g20k5~x2/).
+This is the **Cates Armigers (Personal)** sett — one scale-free proportion (`dg20r8dg20y8g20k5`), colour order pattern
+[GRGGGK](/stripes/grgggk/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cates Armigers (Personal)](/variants/s6/dg20r8dg20y8g20k5~x2/) ★ | 2006 | ![Cates Armigers (Personal) sett](/variants/s6/dg20r8dg20y8g20k5~x2/sett.png) |

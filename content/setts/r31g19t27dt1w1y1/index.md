@@ -1,5 +1,12 @@
 ---
 title: "Glencross (Solway) (Personal)"
-redirect: "/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glencross (Solway) (Personal)](/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/).
+This is the **Glencross (Solway) (Personal)** sett — one scale-free proportion (`r31g19t27dt1w1y1`), colour order pattern
+[GWBBGR](/stripes/gwbbgr/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glencross (Solway) (Personal)](/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/) ★ | 2011 | ![Glencross (Solway) (Personal) sett](/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/sett.png) |

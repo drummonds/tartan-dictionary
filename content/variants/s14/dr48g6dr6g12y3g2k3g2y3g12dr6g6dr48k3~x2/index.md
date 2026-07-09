@@ -1,14 +1,16 @@
 ---
 title: "Oakhall"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Oakhall"
-  url: ""
+  url: "/setts/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3/)
-(the same proportion at any scale), whose colour order is pattern [BGBGGGKGGGBGBK](/stripes/bgbgggkgggbgbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGGGKGGGBGBK](/stripes/bgbgggkgggbgbk/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="433.2" cy="90.8" r="4" fill="#3465a4"><title>Mead Hunting (Personal)</title></circle></a><a href="/variants/s8/k3dr48g6dr6g12y3g2k3~x2/"><circle cx="407.8" cy="116.4" r="4" fill="#3465a4"><title>Oakhall (Corporate)</title></circle></a><a href="/variants/s15/dr12g2dr1g1dr1g1dr6g12dr1k1dr12k1dr1k1dr3~x4/"><circle cx="400.6" cy="150.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch #3</title></circle></a><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.0" cy="102.3" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.7" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="117.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s15/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5~x2/"><circle cx="362.4" cy="125.9" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/"><circle cx="345.0" cy="135.1" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="425.7" cy="114.0" r="4" fill="#3465a4"><title>Vemma (Corporate) XXXXXXXXX</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.2" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><circle cx="426.5" cy="105.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="433.2" cy="90.7" r="4" fill="#3465a4"><title>Mead Hunting (Personal)</title></circle></a><a href="/variants/s8/k3dr48g6dr6g12y3g2k3~x2/"><circle cx="407.8" cy="116.3" r="4" fill="#3465a4"><title>Oakhall (Corporate)</title></circle></a><a href="/variants/s15/dr12g2dr1g1dr1g1dr6g12dr1k1dr12k1dr1k1dr3~x4/"><circle cx="400.6" cy="150.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch #3</title></circle></a><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.0" cy="102.2" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="117.0" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s15/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5~x2/"><circle cx="362.4" cy="125.7" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/"><circle cx="345.0" cy="135.0" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="425.7" cy="113.8" r="4" fill="#3465a4"><title>Vemma (Corporate) XXXXXXXXX</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.1" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><circle cx="426.5" cy="104.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Caithness (1848) (District?)"
-redirect: "/variants/s6/r40lb11w2k12g36r32~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Caithness (1848) (District?)](/variants/s6/r40lb11w2k12g36r32~x2/).
+This is the **Caithness (1848) (District?)** sett — one scale-free proportion (`r40lb11w2k12g36r32`), colour order pattern
+[RGKWWR](/stripes/rgkwwr/). It is recorded as a single **variant**, below.
+First attested **1848**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Caithness (1848) (District?)](/variants/s6/r40lb11w2k12g36r32~x2/) ★ | 1848 | ![Caithness (1848) (District?) sett](/variants/s6/r40lb11w2k12g36r32~x2/sett.png) |

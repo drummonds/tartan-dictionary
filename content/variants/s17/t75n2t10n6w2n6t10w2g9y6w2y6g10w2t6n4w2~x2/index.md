@@ -1,14 +1,16 @@
 ---
 title: "Dallas"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dallas"
-  url: ""
+  url: "/setts/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBWBBWGGWGGWBBW](/stripes/bbbbwbbwggwggwbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWBBWGGWGGWBBW](/stripes/bbbbwbbwggwggwbbw/).
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/"><circle cx="610.1" cy="128.5" r="4" fill="#3465a4"><title>Dallas (Lochcarron) (Personal)</title></circle></a><circle cx="503.9" cy="117.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/"><circle cx="610.1" cy="128.3" r="4" fill="#3465a4"><title>Dallas (Lochcarron) (Personal)</title></circle></a><circle cx="503.9" cy="117.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2~x2/

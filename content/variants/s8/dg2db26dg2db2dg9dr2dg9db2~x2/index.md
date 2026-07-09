@@ -1,16 +1,18 @@
 ---
 title: "Land's End, Blue (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Land's End"
   url: "/tartans/land-s-end/"
 - name: "Land's End, Blue (Fashion)"
-  url: ""
+  url: "/setts/dg2db26dg2db2dg9dr2dg9db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2db26dg2db2dg9dr2dg9db2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg2db26dg2db2dg9dr2dg9db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
 
 Part of the [Land's End](/tartans/land-s-end/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/"><circle cx="517.7" cy="273.1" r="4" fill="#3465a4"><title>Hector, James</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.3" cy="243.0" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/variants/s9/db4lo2db20dt2dr4dt2db3dt12db2~x2/"><circle cx="474.2" cy="251.6" r="4" fill="#3465a4"><title>Stone of Destiny, The (Commemorative</title></circle></a><a href="/variants/s9/db3dr1db14dg14dr1dg1dr1dg1dr2~x4/"><circle cx="485.8" cy="243.5" r="4" fill="#3465a4"><title>Breckon Hunting</title></circle></a><a href="/variants/s6/do3db3do3db27do40dy3/"><circle cx="589.2" cy="271.2" r="4" fill="#3465a4"><title>Keeper of the Quaich Corporate Tartan</title></circle></a><a href="/variants/s9/dg4db3dg20db9dr2db2dr2db18dp4~x2/"><circle cx="467.0" cy="263.8" r="4" fill="#3465a4"><title>New Club Centenary</title></circle></a><a href="/variants/s5/dr2dg8db27dg11do2~x2/"><circle cx="519.0" cy="278.6" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/variants/s6/db9dy12db44dy12db9dr3~x2/"><circle cx="626.0" cy="277.8" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/variants/s8/dg8dr2dg2dr3dg8db12dg2dy2~x2/"><circle cx="445.6" cy="306.3" r="4" fill="#3465a4"><title>Glen Nevis #1</title></circle></a><circle cx="551.2" cy="256.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/"><circle cx="517.8" cy="273.0" r="4" fill="#3465a4"><title>Hector, James</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.4" cy="242.9" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/variants/s9/db4lo2db20dt2dr4dt2db3dt12db2~x2/"><circle cx="474.2" cy="251.6" r="4" fill="#3465a4"><title>Stone of Destiny, The (Commemorative</title></circle></a><a href="/variants/s9/db3dr1db14dg14dr1dg1dr1dg1dr2~x4/"><circle cx="485.9" cy="243.4" r="4" fill="#3465a4"><title>Breckon Hunting</title></circle></a><a href="/variants/s6/do3db3do3db27do40dy3/"><circle cx="589.2" cy="271.2" r="4" fill="#3465a4"><title>Keeper of the Quaich Corporate Tartan</title></circle></a><a href="/variants/s9/dg4db3dg20db9dr2db2dr2db18dp4~x2/"><circle cx="467.0" cy="263.8" r="4" fill="#3465a4"><title>New Club Centenary</title></circle></a><a href="/variants/s5/dr2dg8db27dg11do2~x2/"><circle cx="519.1" cy="278.6" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/variants/s6/db9dy12db44dy12db9dr3~x2/"><circle cx="626.0" cy="277.7" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/variants/s8/dg8dr2dg2dr3dg8db12dg2dy2~x2/"><circle cx="445.7" cy="306.2" r="4" fill="#3465a4"><title>Glen Nevis #1</title></circle></a><circle cx="551.2" cy="256.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/

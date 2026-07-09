@@ -1,14 +1,16 @@
 ---
 title: "Highland Village"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Village"
-  url: ""
+  url: "/setts/ly2do1o10oi12do10ly6o10do1ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly2do1o10oi12do10ly6o10do1ly2/)
-(the same proportion at any scale), whose colour order is pattern [YBRRBYRBY](/stripes/ybrrbyrby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly2do1o10oi12do10ly6o10do1ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YBRRBYRBY](/stripes/ybrrbyrby/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="166.9" cy="204.2" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.4" cy="196.6" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="172.0" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s8/dy24g2dy5r14g2r5lo17dy2~x2/"><circle cx="244.0" cy="186.8" r="4" fill="#3465a4"><title>Loch Rannoch #2</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.5" cy="219.1" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="193.3" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="181.0" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><circle cx="220.2" cy="174.3" r="4" fill="#3465a4"><title>Mauthe Unidentified (Name?)</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.0" cy="183.0" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><circle cx="211.6" cy="207.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="166.9" cy="204.1" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.4" cy="196.5" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="171.9" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s8/dy24g2dy5r14g2r5lo17dy2~x2/"><circle cx="244.0" cy="186.8" r="4" fill="#3465a4"><title>Loch Rannoch #2</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.6" cy="219.0" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="193.2" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="180.9" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><circle cx="220.2" cy="174.2" r="4" fill="#3465a4"><title>Mauthe Unidentified (Name?)</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.1" cy="182.9" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><circle cx="211.6" cy="207.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/

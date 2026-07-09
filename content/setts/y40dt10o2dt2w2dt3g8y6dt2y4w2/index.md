@@ -1,5 +1,12 @@
 ---
 title: "Cavalier, Blue"
-redirect: "/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cavalier, Blue](/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/).
+This is the **Cavalier, Blue** sett — one scale-free proportion (`y40dt10o2dt2w2dt3g8y6dt2y4w2`), colour order pattern
+[GBRBWBGGBGW](/stripes/gbrbwbggbgw/). It is recorded as a single **variant**, below.
+First attested **1981**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cavalier, Blue](/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/) ★ | 1981 | ![Cavalier, Blue sett](/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/sett.png) |

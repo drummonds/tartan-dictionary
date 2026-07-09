@@ -1,14 +1,16 @@
 ---
 title: "Kinloch Anderson Check Fashion Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kinloch Anderson Check Fashion Tartan"
-  url: ""
+  url: "/setts/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9/)
-(the same proportion at any scale), whose colour order is pattern [KYKYKYKYGGGY](/stripes/kykykykygggy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYKYKYKYGGGY](/stripes/kykykykygggy/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2002 Designed by Douglas Kinloch Anderson for his Japanese 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.7" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><circle cx="121.2" cy="156.9" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><circle cx="107.5" cy="184.0" r="4" fill="#3465a4"><title>Poulter Green Corporate Tartan</title></circle></a><a href="/variants/s11/dy6o2dy2o4dy13k12lo13o4lo2o2lo6~x2/"><circle cx="98.3" cy="193.2" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.6" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><a href="/variants/s7/dy3y18lo12k18lo2k2lo3~x2/"><circle cx="142.0" cy="189.4" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.6" cy="132.4" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="155.9" cy="174.9" r="4" fill="#3465a4"><title>Manson Family Tartan</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="187.1" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.5" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><circle cx="140.5" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.6" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><circle cx="121.2" cy="156.8" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><circle cx="107.5" cy="183.9" r="4" fill="#3465a4"><title>Poulter Green Corporate Tartan</title></circle></a><a href="/variants/s11/dy6o2dy2o4dy13k12lo13o4lo2o2lo6~x2/"><circle cx="98.3" cy="193.1" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.5" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><a href="/variants/s7/dy3y18lo12k18lo2k2lo3~x2/"><circle cx="142.0" cy="189.3" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.6" cy="132.3" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="155.9" cy="174.8" r="4" fill="#3465a4"><title>Manson Family Tartan</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="187.0" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><circle cx="140.5" cy="171.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/

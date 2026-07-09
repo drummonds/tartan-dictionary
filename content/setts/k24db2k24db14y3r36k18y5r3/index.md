@@ -1,5 +1,12 @@
 ---
 title: "Craigholme (Corporate)"
-redirect: "/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Craigholme (Corporate)](/variants/s9/k24db2k24db14y3r36k18y5r3~x2/).
+This is the **Craigholme (Corporate)** sett — one scale-free proportion (`k24db2k24db14y3r36k18y5r3`), colour order pattern
+[KBKBGRKGR](/stripes/kbkbgrkgr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Craigholme (Corporate)](/variants/s9/k24db2k24db14y3r36k18y5r3~x2/) ★ | 2002 | ![Craigholme (Corporate) sett](/variants/s9/k24db2k24db14y3r36k18y5r3~x2/sett.png) |

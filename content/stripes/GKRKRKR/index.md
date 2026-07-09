@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r4k8r4k8r12k1y2/">MacIain</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r4k8r4k8r12k1y2/"><img src="/variants/s7/r4k8r4k8r12k1y2~x2/sett.png" alt="MacIain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/r4k8r4k8r12k1y1~x2/">MacKeane (Clan?)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><img src="/variants/s7/r4k8r4k8r12k1y1~x2/sett.png" alt="MacKeane (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r4k8r4k8r12k1y2/">MacKeane (MacIan) Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r4k8r4k8r12k1y2/"><img src="/variants/s7/r4k8r4k8r12k1y2~x2/sett.png" alt="MacKeane (MacIan) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

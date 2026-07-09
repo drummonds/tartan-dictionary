@@ -1,14 +1,16 @@
 ---
 title: "Blue Toon"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Blue Toon"
-  url: ""
+  url: "/setts/n56db9w2db2r2n9lb4db2lb2y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n56db9w2db2r2n9lb4db2lb2y3/)
-(the same proportion at any scale), whose colour order is pattern [BBWBRBWBWG](/stripes/bbwbrbwbwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n56db9w2db2r2n9lb4db2lb2y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBRBWBWG](/stripes/bbwbrbwbwg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/"><circle cx="396.4" cy="114.8" r="4" fill="#3465a4"><title>Vonarb, Alfred (Personal)</title></circle></a><a href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><circle cx="450.3" cy="110.0" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi1404245-db1204274/"><circle cx="415.1" cy="88.7" r="4" fill="#3465a4"><title>HMS Neptune (Military)</title></circle></a><a href="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi1605267-db1004274/"><circle cx="406.7" cy="84.9" r="4" fill="#3465a4"><title>HMS Neptune</title></circle></a><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><circle cx="475.1" cy="84.4" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/"><circle cx="469.3" cy="109.1" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/"><circle cx="461.5" cy="112.1" r="4" fill="#3465a4"><title>Blue Toon (Fashion)</title></circle></a><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><circle cx="480.2" cy="69.6" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.4" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.3" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><circle cx="493.0" cy="97.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/"><circle cx="396.4" cy="114.6" r="4" fill="#3465a4"><title>Vonarb, Alfred (Personal)</title></circle></a><a href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><circle cx="450.3" cy="109.9" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi1404245-db1204274/"><circle cx="415.1" cy="88.5" r="4" fill="#3465a4"><title>HMS Neptune (Military)</title></circle></a><a href="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi1605267-db1004274/"><circle cx="406.7" cy="84.7" r="4" fill="#3465a4"><title>HMS Neptune</title></circle></a><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><circle cx="475.1" cy="84.2" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/"><circle cx="469.3" cy="108.9" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/"><circle cx="461.5" cy="112.0" r="4" fill="#3465a4"><title>Blue Toon (Fashion)</title></circle></a><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><circle cx="480.2" cy="69.4" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.3" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.1" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><circle cx="493.0" cy="97.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/n56db9w2db2r2n9lb4db2lb2y3~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Edzell U.S. Navy Regimental Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "US Navy Edzell"
   url: "/setts/db104dbi16w8dbi66r3dbi16/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db104dbi16w8dbi66r3dbi16/)
-(the same proportion at any scale), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db104dbi16w8dbi66r3dbi16/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2003 Designed by Mr Arthur MacKie
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/"><circle cx="500.2" cy="213.1" r="4" fill="#3465a4"><title>US Navy Edzell</title></circle></a><a href="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/"><circle cx="423.0" cy="164.1" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/"><circle cx="457.9" cy="280.0" r="4" fill="#3465a4"><title>Rhode Island, The State of</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/"><circle cx="403.8" cy="182.8" r="4" fill="#3465a4"><title>British American School of Charlotte</title></circle></a><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><circle cx="492.4" cy="249.1" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s8/k4r1dbi3db28dbi36k3r2n1~x2~dbi1406275-db1004274/"><circle cx="419.9" cy="133.4" r="4" fill="#3465a4"><title>ODL (Corporate)</title></circle></a><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><circle cx="566.0" cy="293.3" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Htg Family Tartan</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1406275-db1204274/"><circle cx="560.7" cy="193.3" r="4" fill="#3465a4"><title>S.C.O.T.S. U.S.A. Tartan</title></circle></a><a href="/variants/s4/r2b35db35y1~x2~b1511266-db1108266/"><circle cx="512.6" cy="237.5" r="4" fill="#3465a4"><title>Mackaw</title></circle></a><circle cx="500.5" cy="210.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/"><circle cx="500.3" cy="213.0" r="4" fill="#3465a4"><title>US Navy Edzell</title></circle></a><a href="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/"><circle cx="423.1" cy="164.0" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/"><circle cx="457.9" cy="280.0" r="4" fill="#3465a4"><title>Rhode Island, The State of</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/"><circle cx="403.8" cy="182.7" r="4" fill="#3465a4"><title>British American School of Charlotte</title></circle></a><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><circle cx="492.4" cy="249.1" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s8/k4r1dbi3db28dbi36k3r2n1~x2~dbi1406275-db1004274/"><circle cx="420.0" cy="133.3" r="4" fill="#3465a4"><title>ODL (Corporate)</title></circle></a><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><circle cx="566.0" cy="293.3" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Htg Family Tartan</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1406275-db1204274/"><circle cx="560.7" cy="193.2" r="4" fill="#3465a4"><title>S.C.O.T.S. U.S.A. Tartan</title></circle></a><a href="/variants/s4/r2b35db35y1~x2~b1511266-db1108266/"><circle cx="512.6" cy="237.5" r="4" fill="#3465a4"><title>Mackaw</title></circle></a><circle cx="500.5" cy="210.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db104dbi16w8dbi66r3dbi16~db1204274-dbi1406275/

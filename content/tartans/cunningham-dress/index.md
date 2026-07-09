@@ -17,7 +17,7 @@ The **Cunningham Dress** tartan groups 2 setts — the same named design recorde
 <tbody>
 <tr><td><a href="/setts/w5g2w34g34k2g2y4/">Cunningham Dress</a> ★</td><td><code>W/10 G4 W68 G68 K4 G4 Y/8</code></td><td>314</td><td>1988</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/w5g2w34g34k2g2y4/"><img src="/variants/s7/w5g2w34g34k2g2y4~x2/sett.png" alt="Cunningham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y2g1k1g20w20g1w2/">Green (Dance) Fashion Tartan</a></td><td><code>Y/8 G4 K4 G80 W80 G4 W/8</code></td><td>360</td><td>—</td></tr>
+<tr><td><a href="/setts/y2g1k1g20w20g1w2/">Green (Dance) Fashion Tartan</a></td><td><code>Y/8 G4 K4 G80 W80 G4 W/8</code></td><td>360</td><td>1988</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/y2g1k1g20w20g1w2/"><img src="y2g1k1g20w20g1w2-rev.png" alt="Green (Dance) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

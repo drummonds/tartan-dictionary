@@ -1,5 +1,12 @@
 ---
 title: "Ochterlonie"
-redirect: "/variants/s6/db35lr8db21lr13db6ly4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ochterlonie](/variants/s6/db35lr8db21lr13db6ly4~x2/).
+This is the **Ochterlonie** sett — one scale-free proportion (`db35lr8db21lr13db6ly4`), colour order pattern
+[BYBYBY](/stripes/bybyby/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ochterlonie](/variants/s6/db35lr8db21lr13db6ly4~x2/) ★ | 2002 | ![Ochterlonie sett](/variants/s6/db35lr8db21lr13db6ly4~x2/sett.png) |

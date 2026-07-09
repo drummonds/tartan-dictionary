@@ -1,16 +1,18 @@
 ---
 title: "Puxty-Dunne"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Puxty-Dunne"
   url: "/tartans/puxty-dunne/"
 - name: "Puxty-Dunne"
-  url: ""
+  url: "/setts/n18w2k1w4dg13n40r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n18w2k1w4dg13n40r2/)
-(the same proportion at any scale), whose colour order is pattern [BWKWGBR](/stripes/bwkwgbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n18w2k1w4dg13n40r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWGBR](/stripes/bwkwgbr/).
 
 Part of the [Puxty-Dunne](/tartans/puxty-dunne/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n18w2k1w4g13n40r2~x2/"><circle cx="485.5" cy="128.5" r="4" fill="#3465a4"><title>Puxty-Dunne (Personal)</title></circle></a><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><circle cx="426.7" cy="148.9" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly (Personal)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="387.9" cy="66.7" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s6/dg60w11dr5t5k1ly4~x2/"><circle cx="385.8" cy="70.1" r="4" fill="#3465a4"><title>Christie Hunting (London) (Personal)</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="474.2" cy="101.1" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.7" cy="49.9" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/variants/s7/n140k3w16k3do16k3do16/"><circle cx="473.7" cy="91.4" r="4" fill="#3465a4"><title>Crail</title></circle></a><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.9" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/"><circle cx="464.7" cy="111.7" r="4" fill="#3465a4"><title>Lochnagar Dark (Fashion)</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.3" cy="131.3" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><circle cx="469.6" cy="121.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n18w2k1w4g13n40r2~x2/"><circle cx="485.5" cy="128.4" r="4" fill="#3465a4"><title>Puxty-Dunne (Personal)</title></circle></a><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><circle cx="426.8" cy="148.8" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly (Personal)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="387.9" cy="66.6" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s6/dg60w11dr5t5k1ly4~x2/"><circle cx="385.8" cy="69.9" r="4" fill="#3465a4"><title>Christie Hunting (London) (Personal)</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="474.2" cy="101.0" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.8" cy="49.8" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/variants/s7/n140k3w16k3do16k3do16/"><circle cx="473.7" cy="91.3" r="4" fill="#3465a4"><title>Crail</title></circle></a><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.8" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/"><circle cx="464.8" cy="111.5" r="4" fill="#3465a4"><title>Lochnagar Dark (Fashion)</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.4" cy="131.2" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><circle cx="469.6" cy="121.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n18w2k1w4dg13n40r2~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Edinburgh Festival"
-redirect: "/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Edinburgh Festival](/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/).
+This is the **Edinburgh Festival** sett — one scale-free proportion (`t46dp3r3dp3r4dp12w3k3`), colour order pattern
+[BBRBRBWK](/stripes/bbrbrbwk/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Edinburgh Festival](/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/) ★ | 1996 | ![Edinburgh Festival sett](/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/sett.png) |

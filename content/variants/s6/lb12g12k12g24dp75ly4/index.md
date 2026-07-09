@@ -1,16 +1,18 @@
 ---
 title: "Widows Sons Scotland Dress"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Widows Sons Scotland Dress"
   url: "/tartans/widows-sons-scotland-dress/"
 - name: "Widows Sons Scotland Dress"
-  url: ""
+  url: "/setts/lb12g12k12g24dp75ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb12g12k12g24dp75ly4/)
-(the same proportion at any scale), whose colour order is pattern [WGKGBY](/stripes/wgkgby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb12g12k12g24dp75ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGKGBY](/stripes/wgkgby/).
 
 Part of the [Widows Sons Scotland Dress](/tartans/widows-sons-scotland-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="261.1" cy="145.3" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s5/dp46k6g9lo9r4/"><circle cx="308.0" cy="158.2" r="4" fill="#3465a4"><title>Ayllu Thuban (Corporate)</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.4" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.5" cy="148.4" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="227.3" cy="154.7" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><circle cx="283.5" cy="146.0" r="4" fill="#3465a4"><title>Solberg-Bell (Personal)</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.6" cy="151.9" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s6/dy30ly5lb10k10w2k2~x2/"><circle cx="213.1" cy="148.6" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s6/ly8k2db20lb4w1k2~x4/"><circle cx="247.0" cy="134.9" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><circle cx="265.8" cy="140.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="261.1" cy="145.2" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s5/dp46k6g9lo9r4/"><circle cx="308.0" cy="158.2" r="4" fill="#3465a4"><title>Ayllu Thuban (Corporate)</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.3" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.6" cy="148.3" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="227.3" cy="154.6" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><circle cx="283.5" cy="145.9" r="4" fill="#3465a4"><title>Solberg-Bell (Personal)</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.7" cy="151.8" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s6/dy30ly5lb10k10w2k2~x2/"><circle cx="213.2" cy="148.5" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s6/ly8k2db20lb4w1k2~x4/"><circle cx="247.0" cy="134.8" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><circle cx="265.8" cy="140.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb12g12k12g24dp75ly4/

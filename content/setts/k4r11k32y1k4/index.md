@@ -1,5 +1,12 @@
 ---
-title: "Harvie"
-redirect: "/variants/s5/k4r11k32y1k4~x2/"
+title: "Harvie Family Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Harvie](/variants/s5/k4r11k32y1k4~x2/).
+This is the **Harvie Family Tartan** sett — one scale-free proportion (`k4r11k32y1k4`), colour order pattern
+[KGKRK](/stripes/kgkrk/). It is recorded as a single **variant**, below.
+First attested **1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Harvie Family Tartan](/variants/s5/k4r11k32y1k4~x2/) ★ | 1985 | ![Harvie Family Tartan sett](/variants/s5/k4r11k32y1k4~x2/sett.png) |

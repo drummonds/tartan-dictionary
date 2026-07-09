@@ -1,16 +1,18 @@
 ---
 title: "Scrymgeour Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scrymgeour"
   url: "/tartans/scrymgeour/"
 - name: "Scrymgeour Family Tartan"
-  url: ""
+  url: "/setts/dy15k1r2db3dy2k1r15/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy15k1r2db3dy2k1r15/)
-(the same proportion at any scale), whose colour order is pattern [GKRBGKR](/stripes/gkrbgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy15k1r2db3dy2k1r15/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRBGKR](/stripes/gkrbgkr/).
 
 Part of the [Scrymgeour](/tartans/scrymgeour/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1971 Yellow ochre. A note in STS files says "Not Adopted" w
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1971 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r15k1y2db3r2k1y15~x6/"><circle cx="298.0" cy="163.7" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><circle cx="298.0" cy="163.7" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r46k3y6db8r6k3y46/"><circle cx="306.4" cy="162.2" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.7" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><circle cx="244.4" cy="149.9" r="4" fill="#3465a4"><title>Scrymgeour (Clan)</title></circle></a><a href="/variants/s6/y8k3y4k2r30y6~x2/"><circle cx="369.1" cy="172.6" r="4" fill="#3465a4"><title>Masai Shuka 16 (Artefact)</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="299.0" cy="165.7" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.7" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.9" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="247.9" cy="168.6" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><circle cx="284.7" cy="157.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r15k1y2db3r2k1y15~x6/"><circle cx="298.0" cy="163.7" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><circle cx="298.0" cy="163.7" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r46k3y6db8r6k3y46/"><circle cx="306.4" cy="162.1" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.6" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><circle cx="244.4" cy="149.8" r="4" fill="#3465a4"><title>Scrymgeour (Clan)</title></circle></a><a href="/variants/s6/y8k3y4k2r30y6~x2/"><circle cx="369.1" cy="172.6" r="4" fill="#3465a4"><title>Masai Shuka 16 (Artefact)</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="299.0" cy="165.6" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.6" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.8" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="248.0" cy="168.5" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><circle cx="284.7" cy="157.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dy15k1r2db3dy2k1r15~x4/

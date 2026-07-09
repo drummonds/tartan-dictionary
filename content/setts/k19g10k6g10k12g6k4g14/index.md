@@ -1,5 +1,12 @@
 ---
 title: "Menzies Green"
-redirect: "/variants/s8/k19g10k6g10k12g6k4g14~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Menzies Green](/variants/s8/k19g10k6g10k12g6k4g14~x2/).
+This is the **Menzies Green** sett — one scale-free proportion (`k19g10k6g10k12g6k4g14`), colour order pattern
+[GKGKGKGK](/stripes/gkgkgkgk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Menzies Green](/variants/s8/k19g10k6g10k12g6k4g14~x2/) ★ | ~2016 | ![Menzies Green sett](/variants/s8/k19g10k6g10k12g6k4g14~x2/sett.png) |

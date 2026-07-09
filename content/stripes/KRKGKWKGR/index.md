@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/">MacDiarmid</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><img src="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/sett.png" alt="MacDiarmid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/">MacDiarmid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><img src="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/sett.png" alt="MacDiarmid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/">MacDiarmid Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><img src="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/sett.png" alt="MacDiarmid Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

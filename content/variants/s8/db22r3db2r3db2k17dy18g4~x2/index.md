@@ -1,14 +1,16 @@
 ---
 title: "Scotch House 2000 Antique"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotch House 2000 Antique"
-  url: ""
+  url: "/setts/db22r3db2r3db2k17dy18g4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db22r3db2r3db2k17dy18g4/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBKGG](/stripes/brbrbkgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db22r3db2r3db2k17dy18g4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBKGG](/stripes/brbrbkgg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db10r1db1r1db1k6y9t2~x2/"><circle cx="159.2" cy="165.8" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.6" cy="172.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.7" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.6" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.5" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.6" cy="172.6" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1406275-db1204274/"><circle cx="174.7" cy="156.1" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.5" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.9" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s6/dr4k2db24k20dg20lo3~x2/"><circle cx="171.3" cy="197.5" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><circle cx="172.3" cy="172.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db10r1db1r1db1k6y9t2~x2/"><circle cx="159.3" cy="165.7" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.7" cy="171.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.6" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.5" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.4" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.7" cy="172.5" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1406275-db1204274/"><circle cx="174.7" cy="156.0" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.7" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s6/dr4k2db24k20dg20lo3~x2/"><circle cx="171.3" cy="197.4" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><circle cx="172.3" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db22r3db2r3db2k17dy18g4~x2/

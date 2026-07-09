@@ -1,5 +1,12 @@
 ---
 title: "Kipp"
-redirect: "/variants/s7/db1y7w1b7g7dr7w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kipp](/variants/s7/db1y7w1b7g7dr7w1~x2/).
+This is the **Kipp** sett — one scale-free proportion (`db1y7w1b7g7dr7w1`), colour order pattern
+[BGWBGBW](/stripes/bgwbgbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kipp](/variants/s7/db1y7w1b7g7dr7w1~x2/) ★ | ~2016 | ![Kipp sett](/variants/s7/db1y7w1b7g7dr7w1~x2/sett.png) |

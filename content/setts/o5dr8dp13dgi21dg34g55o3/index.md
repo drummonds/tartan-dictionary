@@ -1,5 +1,12 @@
 ---
 title: "Lunting Papi (Personal)"
-redirect: "/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lunting Papi (Personal)](/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/).
+This is the **Lunting Papi (Personal)** sett — one scale-free proportion (`o5dr8dp13dgi21dg34g55o3`), colour order pattern
+[RBBGGGR](/stripes/rbbgggr/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Lunting Papi (Personal)](/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/) ★ | 2007 | ![Lunting Papi (Personal) sett](/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/sett.png) |

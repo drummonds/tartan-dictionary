@@ -1,16 +1,18 @@
 ---
 title: "Doon Valley Crafters (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Doon Valley Crafters"
   url: "/tartans/doon-valley-crafters/"
 - name: "Doon Valley Crafters (Corporate)"
-  url: ""
+  url: "/setts/ly3k1g10k7db10g2db2g2db10k7g10k1lg3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly3k1g10k7db10g2db2g2db10k7g10k1lg3/)
-(the same proportion at any scale), whose colour order is pattern [YKGKBGBGBKGKY](/stripes/ykgkbgbgbkgky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly3k1g10k7db10g2db2g2db10k7g10k1lg3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YKGKBGBGBKGKY](/stripes/ykgkbgbgbkgky/).
 
 Part of the [Doon Valley Crafters](/tartans/doon-valley-crafters/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y3k1g10k7db10g2db2g2db10k7g10k1lb3~x2/"><circle cx="106.3" cy="168.9" r="4" fill="#3465a4"><title>Doon Valley Crafters</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="174.3" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><circle cx="106.6" cy="169.2" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/"><circle cx="99.5" cy="159.1" r="4" fill="#3465a4"><title>MacLeod of Skye (Johnston)</title></circle></a><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="114.9" cy="168.0" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/"><circle cx="104.6" cy="154.2" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><circle cx="124.3" cy="167.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="154.1" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.4" cy="148.9" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/"><circle cx="91.6" cy="149.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><circle cx="100.4" cy="167.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y3k1g10k7db10g2db2g2db10k7g10k1lb3~x2/"><circle cx="106.3" cy="168.8" r="4" fill="#3465a4"><title>Doon Valley Crafters</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="174.2" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><circle cx="106.6" cy="169.1" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/"><circle cx="99.5" cy="159.0" r="4" fill="#3465a4"><title>MacLeod of Skye (Johnston)</title></circle></a><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="115.0" cy="167.9" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/"><circle cx="104.6" cy="154.1" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><circle cx="124.3" cy="167.6" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="153.9" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.4" cy="148.8" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/"><circle cx="91.6" cy="148.9" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><circle cx="100.4" cy="167.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/

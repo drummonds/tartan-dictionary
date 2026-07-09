@@ -1,14 +1,16 @@
 ---
 title: "Ithilien Commemorative Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ithilien Commemorative Tartan"
-  url: ""
+  url: "/setts/dg20dr2g3db12k20dr2n3db4n3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg20dr2g3db12k20dr2n3db4n3/)
-(the same proportion at any scale), whose colour order is pattern [BBBBKBGBG](/stripes/bbbbkbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg20dr2g3db12k20dr2n3db4n3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBKBGBG](/stripes/bbbbkbgbg/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2009 Based on the colours of the Black Watch. The desire to
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2009 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n6k1n2k2n1k4db10dy4dp1dy3lb1~x4/"><circle cx="113.0" cy="162.2" r="4" fill="#3465a4"><title>Wcwm 1893-2</title></circle></a><a href="/variants/s10/dp2dg16k16db2k2db2k2db15dbi3y2~x2~db1204274-dbi1406275/"><circle cx="172.9" cy="169.7" r="4" fill="#3465a4"><title>Brydon (2013)</title></circle></a><a href="/variants/s9/dp4db7dp2db25k19w2dg23k2dy3~x2/"><circle cx="178.6" cy="154.3" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><circle cx="155.0" cy="173.9" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s8/db4k9dgi20dp2dg20k5db6w2~x2~dgi1404144-dg1002166/"><circle cx="134.1" cy="183.5" r="4" fill="#3465a4"><title>Linden Family Tartan</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.6" cy="172.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="169.2" cy="178.3" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.5" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2~db1204274/"><circle cx="136.3" cy="179.8" r="4" fill="#3465a4"><title>Scotland Forever</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="126.6" cy="188.8" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><circle cx="138.0" cy="166.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n6k1n2k2n1k4db10dy4dp1dy3lb1~x4/"><circle cx="113.1" cy="162.1" r="4" fill="#3465a4"><title>Wcwm 1893-2</title></circle></a><a href="/variants/s10/dp2dg16k16db2k2db2k2db15dbi3y2~x2~db1204274-dbi1406275/"><circle cx="172.9" cy="169.5" r="4" fill="#3465a4"><title>Brydon (2013)</title></circle></a><a href="/variants/s9/dp4db7dp2db25k19w2dg23k2dy3~x2/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><circle cx="155.0" cy="173.8" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s8/db4k9dgi20dp2dg20k5db6w2~x2~dgi1404144-dg1002166/"><circle cx="134.1" cy="183.5" r="4" fill="#3465a4"><title>Linden Family Tartan</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.7" cy="171.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="169.2" cy="178.2" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.4" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2~db1204274/"><circle cx="136.3" cy="179.7" r="4" fill="#3465a4"><title>Scotland Forever</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="126.6" cy="188.7" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><circle cx="138.1" cy="166.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/

@@ -1,5 +1,12 @@
 ---
 title: "Poulter SG ? Black & white (Fashion)"
-redirect: "/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Poulter SG ? Black & white (Fashion)](/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/).
+This is the **Poulter SG ? Black & white (Fashion)** sett — one scale-free proportion (`w25k8w8k8w8k46w46y8w46k46w46k8w8`), colour order pattern
+[WKWKWGWKWKWKW](/stripes/wkwkwgwkwkwkw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Poulter SG ? Black & white (Fashion)](/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/) ★ | 2008 | ![Poulter SG ? Black & white (Fashion) sett](/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/sett.png) |

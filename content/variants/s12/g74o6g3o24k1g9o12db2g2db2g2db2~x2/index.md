@@ -1,14 +1,16 @@
 ---
 title: "Ridgeback (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ridgeback (Corporate)"
-  url: ""
+  url: "/setts/g74o6g3o24k1g9o12db2g2db2g2db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g74o6g3o24k1g9o12db2g2db2g2db2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBRGKRGRG](/stripes/bgbgbrgkrgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g74o6g3o24k1g9o12db2g2db2g2db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBRGKRGRG](/stripes/bgbgbrgkrgrg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/"><circle cx="571.9" cy="165.6" r="4" fill="#3465a4"><title>Unidentified Plaid 11</title></circle></a><a href="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/"><circle cx="525.8" cy="125.5" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><circle cx="506.5" cy="97.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/"><circle cx="571.9" cy="165.5" r="4" fill="#3465a4"><title>Unidentified Plaid 11</title></circle></a><a href="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/"><circle cx="525.8" cy="125.4" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><circle cx="506.5" cy="97.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/

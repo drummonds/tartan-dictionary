@@ -1,5 +1,12 @@
 ---
 title: "Graham Grey - 1820 (Fashion?)"
-redirect: "/variants/s4/n25k9n10w2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Graham Grey - 1820 (Fashion?)](/variants/s4/n25k9n10w2~x4/).
+This is the **Graham Grey - 1820 (Fashion?)** sett — one scale-free proportion (`n25k9n10w2`), colour order pattern
+[BKBW](/stripes/bkbw/). It is recorded as a single **variant**, below.
+First attested **1820**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Graham Grey - 1820 (Fashion?)](/variants/s4/n25k9n10w2~x4/) ★ | 1820 | ![Graham Grey - 1820 (Fashion?) sett](/variants/s4/n25k9n10w2~x4/sett.png) |

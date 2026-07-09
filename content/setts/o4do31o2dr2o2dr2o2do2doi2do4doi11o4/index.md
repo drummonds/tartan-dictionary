@@ -1,5 +1,12 @@
 ---
 title: "Beanpole Brown Trial"
-redirect: "/variants/s12/o4do31o2dr2o2dr2o2do2doi2do4doi11o4~do1103038-doi1402055/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Beanpole Brown Trial](/variants/s12/o4do31o2dr2o2dr2o2do2doi2do4doi11o4~do1103038-doi1402055/).
+This is the **Beanpole Brown Trial** sett — one scale-free proportion (`o4do31o2dr2o2dr2o2do2doi2do4doi11o4`), colour order pattern
+[RBBBBRBRBRBR](/stripes/rbbbbrbrbrbr/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Beanpole Brown Trial](/variants/s12/o4do31o2dr2o2dr2o2do2doi2do4doi11o4~do1103038-doi1402055/) ★ | 2001 | ![Beanpole Brown Trial sett](/variants/s12/o4do31o2dr2o2dr2o2do2doi2do4doi11o4~do1103038-doi1402055/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Isle of Man"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Isle of Man"
-  url: ""
+  url: "/setts/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2/)
-(the same proportion at any scale), whose colour order is pattern [BYWGYGWGRYRWRYRGWGYGWYBR](/stripes/bywgygwgryrwryrgwgygwybr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYWGYGWGRYRWRYRGWGYGWYBR](/stripes/bywgygwgryrwryrgwgygwybr/).
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r2109032-ri2806019/"><circle cx="151.2" cy="167.3" r="4" fill="#3465a4"><title>Kansai2</title></circle></a><a href="/variants/s13/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2~x2~ly2503076-lyi3407090/"><circle cx="142.8" cy="148.4" r="4" fill="#3465a4"><title>Isle of Man (District)</title></circle></a><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/"><circle cx="165.6" cy="127.2" r="4" fill="#3465a4"><title>Morddyn</title></circle></a><a href="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/"><circle cx="168.8" cy="165.1" r="4" fill="#3465a4"><title>Glenlea</title></circle></a><a href="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/"><circle cx="158.0" cy="128.1" r="4" fill="#3465a4"><title>Victoria, County of (District)</title></circle></a><a href="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"><circle cx="195.5" cy="142.2" r="4" fill="#3465a4"><title>Jewel Look JTB</title></circle></a><circle cx="155.4" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r2109032-ri2806019/"><circle cx="151.3" cy="167.1" r="4" fill="#3465a4"><title>Kansai2</title></circle></a><a href="/variants/s13/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2~x2~ly2503076-lyi3407090/"><circle cx="142.8" cy="148.3" r="4" fill="#3465a4"><title>Isle of Man (District)</title></circle></a><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/"><circle cx="165.5" cy="127.0" r="4" fill="#3465a4"><title>Morddyn</title></circle></a><a href="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/"><circle cx="168.8" cy="165.0" r="4" fill="#3465a4"><title>Glenlea</title></circle></a><a href="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/"><circle cx="158.0" cy="127.9" r="4" fill="#3465a4"><title>Victoria, County of (District)</title></circle></a><a href="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"><circle cx="195.5" cy="142.0" r="4" fill="#3465a4"><title>Jewel Look JTB</title></circle></a><circle cx="155.4" cy="136.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2~x2~t2503227-ly2503076-lyi3407090/

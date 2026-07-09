@@ -1,5 +1,12 @@
 ---
 title: "Gigha, Lilac (Dance)"
-redirect: "/variants/s8/r4w2r1w18dp18lp18g3lp4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gigha, Lilac (Dance)](/variants/s8/r4w2r1w18dp18lp18g3lp4~x2/).
+This is the **Gigha, Lilac (Dance)** sett — one scale-free proportion (`r4w2r1w18dp18lp18g3lp4`), colour order pattern
+[RWRWBWGW](/stripes/rwrwbwgw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gigha, Lilac (Dance)](/variants/s8/r4w2r1w18dp18lp18g3lp4~x2/) ★ | 2008 | ![Gigha, Lilac (Dance) sett](/variants/s8/r4w2r1w18dp18lp18g3lp4~x2/sett.png) |

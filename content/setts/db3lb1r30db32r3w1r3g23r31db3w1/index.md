@@ -1,5 +1,12 @@
 ---
-title: "MacDonald of Glenaladale"
-redirect: "/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"
+title: "MacDonald of Glenaladale Artifact Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDonald of Glenaladale](/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/).
+This is the **MacDonald of Glenaladale Artifact Tartan** sett — one scale-free proportion (`db3lb1r30db32r3w1r3g23r31db3w1`), colour order pattern
+[BWRBRWRGRBW](/stripes/bwrbrwrgrbw/). It is recorded as a single **variant**, below.
+First attested **~1745**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [MacDonald of Glenaladale Artifact Tartan](/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/) ★ | ~1745 | ![MacDonald of Glenaladale Artifact Tartan sett](/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "MacLeod (Snuffbox)"
-redirect: "/variants/s9/k1y12r1y2k4r1k4y2k1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacLeod (Snuffbox)](/variants/s9/k1y12r1y2k4r1k4y2k1~x4/).
+This is the **MacLeod (Snuffbox)** sett — one scale-free proportion (`k1y12r1y2k4r1k4y2k1`), colour order pattern
+[KGKRKGRGK](/stripes/kgkrkgrgk/). It is recorded as a single **variant**, below.
+First attested **1829**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacLeod (Snuffbox)](/variants/s9/k1y12r1y2k4r1k4y2k1~x4/) ★ | 1829 | ![MacLeod (Snuffbox) sett](/variants/s9/k1y12r1y2k4r1k4y2k1~x4/sett.png) |

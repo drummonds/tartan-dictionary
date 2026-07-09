@@ -1,14 +1,16 @@
 ---
 title: "Waterford"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Waterford"
-  url: ""
+  url: "/setts/dg30ly3k20dr2k3b4dr24k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg30ly3k20dr2k3b4dr24k3/)
-(the same proportion at any scale), whose colour order is pattern [GYKBKBBK](/stripes/gykbkbbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg30ly3k20dr2k3b4dr24k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYKBKBBK](/stripes/gykbkbbk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><circle cx="171.3" cy="173.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.0" cy="173.0" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="156.1" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.4" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"><circle cx="201.3" cy="178.8" r="4" fill="#3465a4"><title>Bentley</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="166.9" cy="157.3" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.9" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="166.9" cy="153.0" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.9" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.8" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><circle cx="194.0" cy="159.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><circle cx="171.3" cy="173.1" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.1" cy="172.9" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="156.0" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.3" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"><circle cx="201.3" cy="178.8" r="4" fill="#3465a4"><title>Bentley</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="166.9" cy="157.2" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.7" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="166.9" cy="152.9" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.8" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><circle cx="194.0" cy="159.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/

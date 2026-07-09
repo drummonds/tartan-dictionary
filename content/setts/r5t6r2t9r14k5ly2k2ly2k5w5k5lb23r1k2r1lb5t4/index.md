@@ -1,5 +1,12 @@
 ---
 title: "Westwood MacAndreas"
-redirect: "/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Westwood MacAndreas](/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/).
+This is the **Westwood MacAndreas** sett — one scale-free proportion (`r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4`), colour order pattern
+[BWRKRWKWKYKYKRBRBR](/stripes/bwrkrwkwkykykrbrbr/). It is recorded as a single **variant**, below.
+First attested **1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Westwood MacAndreas](/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/) ★ | 1993 | ![Westwood MacAndreas sett](/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/sett.png) |

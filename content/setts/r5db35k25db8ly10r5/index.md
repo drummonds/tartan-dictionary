@@ -1,5 +1,12 @@
 ---
 title: "University of Notre Dame"
-redirect: "/variants/s6/r5db35k25db8ly10r5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [University of Notre Dame](/variants/s6/r5db35k25db8ly10r5~x2/).
+This is the **University of Notre Dame** sett — one scale-free proportion (`r5db35k25db8ly10r5`), colour order pattern
+[RBKBYR](/stripes/rbkbyr/). It is recorded as a single **variant**, below.
+First attested **~2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [University of Notre Dame](/variants/s6/r5db35k25db8ly10r5~x2/) ★ | ~2012 | ![University of Notre Dame sett](/variants/s6/r5db35k25db8ly10r5~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Unidentified Plaid 1"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Plaid 1"
-  url: ""
+  url: "/setts/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2/)
-(the same proportion at any scale), whose colour order is pattern [BBGBBBWBGBGBWBGBGBWBGBGW](/stripes/bbgbbbwbgbgbwbgbgbwbgbgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBBBWBGBGBWBGBGBWBGBGW](/stripes/bbgbbbwbgbgbwbgbgbwbgbgw/).
 
 Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t14db4g2db2dg3db2t17db31t1db1w2~x2~db1204274-g2203152-dg1806142-w4000000/"><circle cx="397.1" cy="110.1" r="4" fill="#3465a4"><title>Schiehallion</title></circle></a><circle cx="425.5" cy="49.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t14db4g2db2dg3db2t17db31t1db1w2~x2~db1204274-g2203152-dg1806142-w4000000/"><circle cx="397.1" cy="109.9" r="4" fill="#3465a4"><title>Schiehallion</title></circle></a><circle cx="425.5" cy="49.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2~x2/

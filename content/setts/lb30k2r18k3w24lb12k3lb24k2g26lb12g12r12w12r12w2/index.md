@@ -1,5 +1,12 @@
 ---
 title: "Red Hackle Pipe Band (Corporate)"
-redirect: "/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Red Hackle Pipe Band (Corporate)](/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/).
+This is the **Red Hackle Pipe Band (Corporate)** sett — one scale-free proportion (`lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2`), colour order pattern
+[WKRKWWKWKGWGRWRW](/stripes/wkrkwwkwkgwgrwrw/). It is recorded as a single **variant**, below.
+First attested **~2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Red Hackle Pipe Band (Corporate)](/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/) ★ | ~2009 | ![Red Hackle Pipe Band (Corporate) sett](/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/sett.png) |

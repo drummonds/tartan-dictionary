@@ -1,5 +1,12 @@
 ---
 title: "VersaCold/Atlas (Corporate)"
-redirect: "/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [VersaCold/Atlas (Corporate)](/variants/s9/db3n44k9n10k9n10k9n44r3~x2/).
+This is the **VersaCold/Atlas (Corporate)** sett — one scale-free proportion (`db3n44k9n10k9n10k9n44r3`), colour order pattern
+[BBKBKBKBR](/stripes/bbkbkbkbr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [VersaCold/Atlas (Corporate)](/variants/s9/db3n44k9n10k9n10k9n44r3~x2/) ★ | 2008 | ![VersaCold/Atlas (Corporate) sett](/variants/s9/db3n44k9n10k9n10k9n44r3~x2/sett.png) |

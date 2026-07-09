@@ -1,14 +1,16 @@
 ---
 title: "Skye Dress Blue, Earl of (Dance)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Skye Dress Blue, Earl of (Dance)"
-  url: ""
+  url: "/setts/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBWBBWBBBWBWBWBWBBBWBBWBBBB](/stripes/bbbbbwbbwbbbwbwbwbwbbbwbbwbbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBWBBWBBBWBWBWBWBBBWBBWBBBB](/stripes/bbbbbwbbwbbbwbwbwbwbbbwbbwbbbb/).
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 

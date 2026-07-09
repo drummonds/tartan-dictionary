@@ -1,5 +1,12 @@
 ---
 title: "Highlander Highland Laddie"
-redirect: "/variants/s5/k7dr3g30db28lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highlander Highland Laddie](/variants/s5/k7dr3g30db28lb3~x2/).
+This is the **Highlander Highland Laddie** sett — one scale-free proportion (`k7dr3g30db28lb3`), colour order pattern
+[KBGBW](/stripes/kbgbw/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Highlander Highland Laddie](/variants/s5/k7dr3g30db28lb3~x2/) ★ | 1997 | ![Highlander Highland Laddie sett](/variants/s5/k7dr3g30db28lb3~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Clark of Ulva (Clan)"
-redirect: "/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Clark of Ulva (Clan)](/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/).
+This is the **Clark of Ulva (Clan)** sett — one scale-free proportion (`y3dg3k4dg14k4dg3k14db18lo1db4lo2`), colour order pattern
+[GGKGKGKBYBY](/stripes/ggkgkgkbyby/). It is recorded as a single **variant**, below.
+First attested **1847**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Clark of Ulva (Clan)](/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/) ★ | 1847 | ![Clark of Ulva (Clan) sett](/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/sett.png) |

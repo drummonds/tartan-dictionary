@@ -1,5 +1,12 @@
 ---
 title: "Mull Rugby Club Corporate Sport Tartan"
-redirect: "/variants/s8/g44w2g10t3k6w1o2k18~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mull Rugby Club Corporate Sport Tartan](/variants/s8/g44w2g10t3k6w1o2k18~x2/).
+This is the **Mull Rugby Club Corporate Sport Tartan** sett — one scale-free proportion (`g44w2g10t3k6w1o2k18`), colour order pattern
+[GWGBKWRK](/stripes/gwgbkwrk/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mull Rugby Club Corporate Sport Tartan](/variants/s8/g44w2g10t3k6w1o2k18~x2/) ★ | ~2002 | ![Mull Rugby Club Corporate Sport Tartan sett](/variants/s8/g44w2g10t3k6w1o2k18~x2/sett.png) |

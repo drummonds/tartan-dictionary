@@ -1,14 +1,16 @@
 ---
 title: "Longniddry Dress Lavender Fancy Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Longniddry Dress Lavender Fancy Tartan"
-  url: ""
+  url: "/setts/k32b12db5r2k2r2db42r2k2r2db5b12k32db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k32b12db5r2k2r2db42r2k2r2db5b12k32db4/)
-(the same proportion at any scale), whose colour order is pattern [BKBBRKRBRKRBBK](/stripes/bkbbrkrbrkrbbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k32b12db5r2k2r2db42r2k2r2db5b12k32db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBBRKRBRKRBBK](/stripes/bkbbrkrbrkrbbk/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 1992 Dancers tartan from D.C. Dalgleish swatch book. In
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1992 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/"><circle cx="225.7" cy="125.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.1" cy="106.3" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/"><circle cx="252.3" cy="115.4" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/"><circle cx="224.1" cy="77.8" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"><circle cx="244.0" cy="137.6" r="4" fill="#3465a4"><title>Institute of Directors (Scotland)</title></circle></a><a href="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/"><circle cx="193.9" cy="138.6" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="226.3" cy="127.8" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/"><circle cx="214.6" cy="111.5" r="4" fill="#3465a4"><title>Presley of Lonmay #2</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.1" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.6" cy="119.6" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><circle cx="228.0" cy="103.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/"><circle cx="225.7" cy="125.3" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.1" cy="106.2" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/"><circle cx="252.3" cy="115.2" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/"><circle cx="224.1" cy="77.6" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"><circle cx="244.0" cy="137.5" r="4" fill="#3465a4"><title>Institute of Directors (Scotland)</title></circle></a><a href="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/"><circle cx="193.9" cy="138.4" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="226.3" cy="127.7" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/"><circle cx="214.6" cy="111.4" r="4" fill="#3465a4"><title>Presley of Lonmay #2</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.0" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.6" cy="119.5" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><circle cx="228.0" cy="103.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/

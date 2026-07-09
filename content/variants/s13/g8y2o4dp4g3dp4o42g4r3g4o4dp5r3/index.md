@@ -1,14 +1,16 @@
 ---
 title: "Sarna"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sarna"
-  url: ""
+  url: "/setts/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/)
-(the same proportion at any scale), whose colour order is pattern [GGRBGBRGRGRBR](/stripes/ggrbgbrgrgrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGRBGBRGRGRBR](/stripes/ggrbgbrgrgrbr/).
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.0" cy="123.7" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="403.5" cy="100.8" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="397.4" cy="117.9" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/"><circle cx="406.4" cy="106.7" r="4" fill="#3465a4"><title>Drummond of Megginch - 2023 BertieLexa</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.3" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/"><circle cx="445.7" cy="122.9" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.6" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.6" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/"><circle cx="430.6" cy="176.5" r="4" fill="#3465a4"><title>Morgan Welsh Name Tartan</title></circle></a><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/"><circle cx="391.7" cy="101.6" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt (faded)</title></circle></a><circle cx="393.0" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.1" cy="123.6" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="403.5" cy="100.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="397.4" cy="117.8" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/"><circle cx="406.4" cy="106.5" r="4" fill="#3465a4"><title>Drummond of Megginch - 2023 BertieLexa</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.2" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/"><circle cx="445.7" cy="122.7" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.5" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.5" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/"><circle cx="430.6" cy="176.4" r="4" fill="#3465a4"><title>Morgan Welsh Name Tartan</title></circle></a><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/"><circle cx="391.7" cy="101.5" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt (faded)</title></circle></a><circle cx="393.0" cy="124.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/

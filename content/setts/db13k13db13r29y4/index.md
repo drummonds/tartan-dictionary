@@ -1,5 +1,12 @@
 ---
 title: "Highland Pub Company"
-redirect: "/variants/s5/db13k13db13r29y4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highland Pub Company](/variants/s5/db13k13db13r29y4~x2/).
+This is the **Highland Pub Company** sett — one scale-free proportion (`db13k13db13r29y4`), colour order pattern
+[BKBRG](/stripes/bkbrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Highland Pub Company](/variants/s5/db13k13db13r29y4~x2/) ★ | ~2016 | ![Highland Pub Company sett](/variants/s5/db13k13db13r29y4~x2/sett.png) |

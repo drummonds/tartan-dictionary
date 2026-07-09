@@ -1,14 +1,16 @@
 ---
 title: "Brewer"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Brewer"
-  url: ""
+  url: "/setts/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2/)
-(the same proportion at any scale), whose colour order is pattern [GBBBGBGBGBBGBGBGGGR](/stripes/gbbbgbgbgbbgbgbgggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBGBGBGBBGBGBGGGR](/stripes/gbbbgbgbgbbgbgbgggr/).
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr3r1db1dr1dg13dr3db4lb1dr16dg2dr2r1dg3~x2/"><circle cx="388.7" cy="165.3" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s21/yi50do6o3do3y3do3dt10yi8do3yi6y3yi6do3yi8dt10do3y3do3o3do6yi4~x2~yi2004072-do1103038/"><circle cx="433.9" cy="141.8" r="4" fill="#3465a4"><title>Williams #2</title></circle></a><a href="/variants/s15/r7dt2r3dg32r2dg2r2dt10r2lb2r31dt2r2dt1r6~x2~r1906028-dt1201300-dg1602166-lb3203246/"><circle cx="467.3" cy="139.3" r="4" fill="#3465a4"><title>Drummond of Megginch - 1997 Kilt</title></circle></a><a href="/variants/s23/n126r3y16n20y4n4y4n4y4n4y4n4y4n4y4n4y4n4y4n4y4do130n10/"><circle cx="495.1" cy="92.3" r="4" fill="#3465a4"><title>Unidentified Plaid #13</title></circle></a><circle cx="429.0" cy="121.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr3r1db1dr1dg13dr3db4lb1dr16dg2dr2r1dg3~x2/"><circle cx="388.7" cy="165.2" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s21/yi50do6o3do3y3do3dt10yi8do3yi6y3yi6do3yi8dt10do3y3do3o3do6yi4~x2~yi2004072-do1103038/"><circle cx="433.9" cy="141.7" r="4" fill="#3465a4"><title>Williams #2</title></circle></a><a href="/variants/s15/r7dt2r3dg32r2dg2r2dt10r2lb2r31dt2r2dt1r6~x2~r1906028-dt1201300-dg1602166-lb3203246/"><circle cx="467.3" cy="139.1" r="4" fill="#3465a4"><title>Drummond of Megginch - 1997 Kilt</title></circle></a><a href="/variants/s23/n126r3y16n20y4n4y4n4y4n4y4n4y4n4y4n4y4n4y4n4y4do130n10/"><circle cx="495.1" cy="92.2" r="4" fill="#3465a4"><title>Unidentified Plaid #13</title></circle></a><circle cx="429.0" cy="120.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/

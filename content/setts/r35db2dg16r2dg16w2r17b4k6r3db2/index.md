@@ -1,5 +1,12 @@
 ---
 title: "Chafee of Glenmary (Personal)"
-redirect: "/variants/s11/r35db2dg16r2dg16w2r17b4k6r3db2~x2~r2108029/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Chafee of Glenmary (Personal)](/variants/s11/r35db2dg16r2dg16w2r17b4k6r3db2~x2~r2108029/).
+This is the **Chafee of Glenmary (Personal)** sett — one scale-free proportion (`r35db2dg16r2dg16w2r17b4k6r3db2`), colour order pattern
+[BRKBRWGRGBR](/stripes/brkbrwgrgbr/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Chafee of Glenmary (Personal)](/variants/s11/r35db2dg16r2dg16w2r17b4k6r3db2~x2~r2108029/) ★ | ~2002 | ![Chafee of Glenmary (Personal) sett](/variants/s11/r35db2dg16r2dg16w2r17b4k6r3db2~x2~r2108029/sett.png) |

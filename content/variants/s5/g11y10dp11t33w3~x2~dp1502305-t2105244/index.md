@@ -1,14 +1,16 @@
 ---
 title: "Sterling, Rob (Florida) (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sterling, Rob (Florida) (Personal)"
-  url: ""
+  url: "/setts/g11y10dp11t33w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g11y10dp11t33w3/)
-(the same proportion at any scale), whose colour order is pattern [GGBBW](/stripes/ggbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g11y10dp11t33w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBBW](/stripes/ggbbw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="333.5" cy="258.8" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Persona Name Tartan</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.6" cy="207.3" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/"><circle cx="326.4" cy="224.3" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.2" cy="228.2" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.1" cy="229.5" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.5" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2~dp0904014/"><circle cx="282.4" cy="242.2" r="4" fill="#3465a4"><title>Belfrage</title></circle></a><circle cx="321.7" cy="257.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="333.5" cy="258.8" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Persona Name Tartan</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.6" cy="207.2" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/"><circle cx="326.5" cy="224.3" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.2" cy="228.1" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.1" cy="229.5" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.3" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.4" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2~dp0904014/"><circle cx="282.5" cy="242.1" r="4" fill="#3465a4"><title>Belfrage</title></circle></a><circle cx="321.7" cy="257.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/

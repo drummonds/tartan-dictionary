@@ -1,5 +1,12 @@
 ---
 title: "Erskine, Green (Dance)"
-redirect: "/variants/s6/g6w2g29w29g2w6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Erskine, Green (Dance)](/variants/s6/g6w2g29w29g2w6~x2/).
+This is the **Erskine, Green (Dance)** sett — one scale-free proportion (`g6w2g29w29g2w6`), colour order pattern
+[GWGWGW](/stripes/gwgwgw/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Erskine, Green (Dance)](/variants/s6/g6w2g29w29g2w6~x2/) ★ | 1980 | ![Erskine, Green (Dance) sett](/variants/s6/g6w2g29w29g2w6~x2/sett.png) |

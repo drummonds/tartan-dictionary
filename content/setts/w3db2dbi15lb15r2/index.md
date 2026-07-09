@@ -1,5 +1,12 @@
 ---
 title: "SABA"
-redirect: "/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [SABA](/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/).
+This is the **SABA** sett — one scale-free proportion (`w3db2dbi15lb15r2`), colour order pattern
+[RWBBW](/stripes/rwbbw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [SABA](/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/) ★ | 2016 | ![SABA sett](/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/sett.png) |

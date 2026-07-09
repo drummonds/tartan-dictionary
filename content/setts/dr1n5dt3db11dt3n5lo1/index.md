@@ -1,5 +1,12 @@
 ---
 title: "Newmill"
-redirect: "/variants/s7/dr1n5dt3db11dt3n5lo1~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Newmill](/variants/s7/dr1n5dt3db11dt3n5lo1~x8/).
+This is the **Newmill** sett — one scale-free proportion (`dr1n5dt3db11dt3n5lo1`), colour order pattern
+[BBBBBBY](/stripes/bbbbbby/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Newmill](/variants/s7/dr1n5dt3db11dt3n5lo1~x8/) ★ | 1997 | ![Newmill sett](/variants/s7/dr1n5dt3db11dt3n5lo1~x8/sett.png) |

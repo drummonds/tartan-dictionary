@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/">Montrose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><img src="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/">Montrose Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><img src="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png" alt="Montrose Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

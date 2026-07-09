@@ -1,5 +1,12 @@
 ---
 title: "Lake Ainslie Heritage"
-redirect: "/variants/s7/lb8w16g18r2y4r1lb4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lake Ainslie Heritage](/variants/s7/lb8w16g18r2y4r1lb4~x2/).
+This is the **Lake Ainslie Heritage** sett — one scale-free proportion (`lb8w16g18r2y4r1lb4`), colour order pattern
+[WRGRGWW](/stripes/wrgrgww/). It is recorded as a single **variant**, below.
+First attested **1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lake Ainslie Heritage](/variants/s7/lb8w16g18r2y4r1lb4~x2/) ★ | 1985 | ![Lake Ainslie Heritage sett](/variants/s7/lb8w16g18r2y4r1lb4~x2/sett.png) |

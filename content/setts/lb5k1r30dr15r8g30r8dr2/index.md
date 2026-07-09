@@ -2,15 +2,15 @@
 title: "Shaw"
 date: 2023-03-18
 ---
-The **Shaw** tartan is one sett proportion (`lb5k1r30dr15r8g30r8dr2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRGRBRKW](/stripes/brgrbrkw/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Shaw** sett — one scale-free proportion (`lb5k1r30dr15r8g30r8dr2`), colour order pattern
+[BRGRBRKW](/stripes/brgrbrkw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [Shaw](/tartans/shaw/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Shaw](/tartans/shaw/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [Shaw](/variants/s8/lb5k1r30dr15r8g30r8dr2/) ★ | ~2016 | ![Shaw sett](/variants/s8/lb5k1r30dr15r8g30r8dr2/sett.png) |
 | ×2 | [Shaw](/variants/s8/lb5k1r30dr15r8g30r8dr2~x2/) | ~2016 | ![Shaw sett](/variants/s8/lb5k1r30dr15r8g30r8dr2~x2/sett.png) |

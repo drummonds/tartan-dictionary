@@ -1,14 +1,16 @@
 ---
 title: "Julien Pigeut Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Julien Pigeut Tartan"
-  url: ""
+  url: "/setts/k40n15o10y3lb5w5db10lb20/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k40n15o10y3lb5w5db10lb20/)
-(the same proportion at any scale), whose colour order is pattern [KBRGWWBW](/stripes/kbrgwwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k40n15o10y3lb5w5db10lb20/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBRGWWBW](/stripes/kbrgwwbw/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2004 For the wedding of Julien and Sylvia Piguet. Also worn
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2004 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><circle cx="52.8" cy="141.8" r="4" fill="#3465a4"><title>Hatcher (Texas) (Personal)</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.5" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.3" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.4" cy="131.5" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="106.2" cy="141.4" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.3" cy="133.5" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="102.9" cy="124.3" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.5" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="133.2" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><circle cx="121.5" cy="155.4" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><circle cx="76.5" cy="128.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><circle cx="52.8" cy="141.7" r="4" fill="#3465a4"><title>Hatcher (Texas) (Personal)</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.3" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.1" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.4" cy="131.4" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="106.2" cy="141.3" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.3" cy="133.4" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="102.9" cy="124.1" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.4" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="133.1" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><circle cx="121.6" cy="155.3" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><circle cx="76.5" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k40n15o10y3lb5w5db10lb20~n1900000-o2500000/

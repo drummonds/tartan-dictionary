@@ -1,14 +1,16 @@
 ---
 title: "Colorado Rogues (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Colorado Rogues (Corporate)"
-  url: ""
+  url: "/setts/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/)
-(the same proportion at any scale), whose colour order is pattern [BWRKGWBWGKBRG](/stripes/bwrkgwbwgkbrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRKGWBWGKBRG](/stripes/bwrkgwbwgkbrg/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2k1o5k7w2k14db8g15w2g7r5g1lo2~x2/"><circle cx="50.2" cy="105.6" r="4" fill="#3465a4"><title>Nashotah House (Commemorative)</title></circle></a><a href="/variants/s13/r2k2o6k10w2k14db8g15w2g7r5g1lo2~x2/"><circle cx="54.3" cy="108.3" r="4" fill="#3465a4"><title>Nashotah House</title></circle></a><a href="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/"><circle cx="38.2" cy="109.3" r="4" fill="#3465a4"><title>Oregon American District Tartan</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/"><circle cx="70.5" cy="122.7" r="4" fill="#3465a4"><title>Rust Personal Tartan</title></circle></a><a href="/variants/s13/k4dg10dy4dg10k4g20dg5k2do6k2r10k2w4~x2/"><circle cx="37.9" cy="134.9" r="4" fill="#3465a4"><title>Donegal County, Crest Range</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="69.7" cy="121.8" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1b2~x2/"><circle cx="71.7" cy="122.7" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"><circle cx="41.7" cy="110.5" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/"><circle cx="26.6" cy="129.0" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan</title></circle></a><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/"><circle cx="40.4" cy="100.9" r="4" fill="#3465a4"><title>Le Cercle des Femmes (Corporate)</title></circle></a><circle cx="24.0" cy="111.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2k1o5k7w2k14db8g15w2g7r5g1lo2~x2/"><circle cx="50.2" cy="105.4" r="4" fill="#3465a4"><title>Nashotah House (Commemorative)</title></circle></a><a href="/variants/s13/r2k2o6k10w2k14db8g15w2g7r5g1lo2~x2/"><circle cx="54.3" cy="108.2" r="4" fill="#3465a4"><title>Nashotah House</title></circle></a><a href="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/"><circle cx="38.3" cy="109.1" r="4" fill="#3465a4"><title>Oregon American District Tartan</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/"><circle cx="70.5" cy="122.5" r="4" fill="#3465a4"><title>Rust Personal Tartan</title></circle></a><a href="/variants/s13/k4dg10dy4dg10k4g20dg5k2do6k2r10k2w4~x2/"><circle cx="37.9" cy="134.7" r="4" fill="#3465a4"><title>Donegal County, Crest Range</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="69.7" cy="121.6" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1b2~x2/"><circle cx="71.7" cy="122.6" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"><circle cx="41.7" cy="110.4" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/"><circle cx="26.7" cy="128.8" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan</title></circle></a><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/"><circle cx="40.4" cy="100.7" r="4" fill="#3465a4"><title>Le Cercle des Femmes (Corporate)</title></circle></a><circle cx="24.0" cy="111.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/

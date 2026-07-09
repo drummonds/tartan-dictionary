@@ -1,14 +1,16 @@
 ---
 title: "Edinburgh, City of"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Edinburgh, City of"
-  url: ""
+  url: "/setts/lb10k3w3k3w3k3lb10r6k15r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb10k3w3k3w3k3lb10r6k15r3/)
-(the same proportion at any scale), whose colour order is pattern [RKRWKWKWKW](/stripes/rkrwkwkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb10k3w3k3w3k3lb10r6k15r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRWKWKWKW](/stripes/rkrwkwkwkw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="107.5" cy="186.2" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.9" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.7" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="156.1" cy="192.3" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><circle cx="126.0" cy="178.3" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="113.6" cy="208.7" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/"><circle cx="113.8" cy="193.3" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.5" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.1" cy="200.5" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><circle cx="110.7" cy="201.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="107.5" cy="186.1" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.8" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.6" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="156.1" cy="192.2" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><circle cx="126.0" cy="178.2" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="113.6" cy="208.7" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/"><circle cx="113.8" cy="193.2" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.4" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.1" cy="200.4" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><circle cx="110.7" cy="201.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/

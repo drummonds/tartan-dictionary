@@ -13,7 +13,7 @@ A family of [Clan Cameron](/clan/cameron/).
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a> ★</td><td><code>R/24 G12 R24 DB4 W4 DB4 R8 DB32 R/16</code></td><td>216</td><td>1820</td></tr>
+<tr><td><a href="/setts/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a> ★</td><td><code>R/24 G12 R24 DB4 W4 DB4 R8 DB32 R/16</code></td><td>216</td><td>1764</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r6g3r6db1w1db1r2db8r4/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s9/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a> · <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/">Cameron of Lochiel</a> · <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/">#2</a></td></tr>
 </tbody>

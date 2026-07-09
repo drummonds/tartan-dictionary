@@ -1,16 +1,18 @@
 ---
 title: "Braemar, Castle"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Braemar Castle"
   url: "/tartans/braemar-castle/"
 - name: "Braemar, Castle"
-  url: ""
+  url: "/setts/r52k5y5k8o5do5k2r6k1y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r52k5y5k8o5do5k2r6k1y2/)
-(the same proportion at any scale), whose colour order is pattern [GKRKBRKGKR](/stripes/gkrkbrkgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r52k5y5k8o5do5k2r6k1y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRKBRKGKR](/stripes/gkrkbrkgkr/).
 
 Part of the [Braemar Castle](/tartans/braemar-castle/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r52k5y5k8ly5do5k2r6k1y2~x2/"><circle cx="364.6" cy="37.1" r="4" fill="#3465a4"><title>Braemar Castle Corporate Tartan</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.4" cy="43.2" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.5" cy="46.2" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/"><circle cx="404.2" cy="67.9" r="4" fill="#3465a4"><title>Moulin</title></circle></a><a href="/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/"><circle cx="326.5" cy="32.3" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.1" cy="72.6" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.2" cy="34.3" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/"><circle cx="328.6" cy="21.3" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.4" cy="72.2" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2109032-r1807008/"><circle cx="390.2" cy="49.3" r="4" fill="#3465a4"><title>Conroy Family Tartan</title></circle></a><circle cx="373.6" cy="39.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r52k5y5k8ly5do5k2r6k1y2~x2/"><circle cx="364.6" cy="37.0" r="4" fill="#3465a4"><title>Braemar Castle Corporate Tartan</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.4" cy="43.0" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.5" cy="46.0" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/"><circle cx="404.2" cy="67.7" r="4" fill="#3465a4"><title>Moulin</title></circle></a><a href="/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/"><circle cx="326.5" cy="32.1" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.1" cy="72.4" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.2" cy="34.1" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/"><circle cx="328.6" cy="21.1" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.4" cy="72.0" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2109032-r1807008/"><circle cx="390.3" cy="49.1" r="4" fill="#3465a4"><title>Conroy Family Tartan</title></circle></a><circle cx="373.6" cy="39.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r52k5y5k8o5do5k2r6k1y2~x2/

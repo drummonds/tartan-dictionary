@@ -1,14 +1,16 @@
 ---
 title: "Wcwm 9275 5471-2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wcwm 9275 5471-2"
-  url: ""
+  url: "/setts/r4k2dg28k39ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4k2dg28k39ly4/)
-(the same proportion at any scale), whose colour order is pattern [RKGKY](/stripes/rkgky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4k2dg28k39ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGKY](/stripes/rkgky/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="151.0" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="181.1" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.0" cy="137.2" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.8" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="241.8" cy="189.3" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.9" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="245.3" cy="130.3" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.7" cy="130.0" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="265.9" cy="128.9" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><circle cx="299.8" cy="163.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="150.9" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.9" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="181.0" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.1" cy="137.1" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.7" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="241.8" cy="189.2" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.8" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="245.4" cy="130.2" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.7" cy="129.9" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="266.0" cy="128.8" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><circle cx="299.8" cy="163.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r4k2dg28k39ly4~x2/

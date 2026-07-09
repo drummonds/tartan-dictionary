@@ -1,5 +1,12 @@
 ---
 title: "Belk Festive (Fashion)"
-redirect: "/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Belk Festive (Fashion)](/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/).
+This is the **Belk Festive (Fashion)** sett — one scale-free proportion (`dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4`), colour order pattern
+[BRGBWBGRBGRBGRYGYR](/stripes/brgbwbgrbgrbgrygyr/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Belk Festive (Fashion)](/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/) ★ | 2014 | ![Belk Festive (Fashion) sett](/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Stewart Dress, Grey #1 (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stewart Dress, Grey #1 (Fashion)"
-  url: ""
+  url: "/setts/lb52k12dr3k3lb3k3do10n8k3n3lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb52k12dr3k3lb3k3do10n8k3n3lb3/)
-(the same proportion at any scale), whose colour order is pattern [WBKBBKWKBKW](/stripes/wbkbbkwkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb52k12dr3k3lb3k3do10n8k3n3lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBKBBKWKBKW](/stripes/wbkbbkwkbkw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.3" cy="81.2" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.4" cy="58.6" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="88.0" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/"><circle cx="281.6" cy="88.5" r="4" fill="#3465a4"><title>Bell of the Borders (Name)</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="235.3" cy="109.2" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="226.5" cy="87.4" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.2" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.1" cy="95.1" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.5" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.4" cy="104.2" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><circle cx="254.9" cy="89.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.3" cy="81.0" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.4" cy="58.4" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="87.8" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/"><circle cx="281.6" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders (Name)</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="235.3" cy="109.1" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="226.5" cy="87.2" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.1" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.1" cy="95.0" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.3" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.4" cy="104.1" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><circle cx="254.9" cy="89.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/

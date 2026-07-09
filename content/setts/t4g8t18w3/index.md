@@ -1,5 +1,12 @@
 ---
 title: "Blue Meadow Check (Fashion)"
-redirect: "/variants/s4/t4g8t18w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Blue Meadow Check (Fashion)](/variants/s4/t4g8t18w3~x2/).
+This is the **Blue Meadow Check (Fashion)** sett — one scale-free proportion (`t4g8t18w3`), colour order pattern
+[BGBW](/stripes/bgbw/). It is recorded as a single **variant**, below.
+First attested **1973**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Blue Meadow Check (Fashion)](/variants/s4/t4g8t18w3~x2/) ★ | 1973 | ![Blue Meadow Check (Fashion) sett](/variants/s4/t4g8t18w3~x2/sett.png) |

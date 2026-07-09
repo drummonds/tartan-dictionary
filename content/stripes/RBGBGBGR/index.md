@@ -31,8 +31,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/">Daks (0600150)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><img src="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/sett.png" alt="Daks (0600150) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/">Inverness Earl of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><img src="/variants/s8/r42db4y1db6g1db1g1r12~x2/sett.png" alt="Inverness Earl of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/">Inverness Earl of... District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><img src="/variants/s8/r42db4y1db6g1db1g1r12~x2/sett.png" alt="Inverness Earl of... District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

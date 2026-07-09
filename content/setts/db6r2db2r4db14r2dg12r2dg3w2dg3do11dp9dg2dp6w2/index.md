@@ -1,5 +1,14 @@
 ---
 title: "Haughey (Personal)"
-redirect: "/variants/s16/db6r2db2r4db14r2dg12r2dg3w2dg3do11dp9dg2dp6w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Haughey (Personal)](/variants/s16/db6r2db2r4db14r2dg12r2dg3w2dg3do11dp9dg2dp6w2~x2/).
+This is the **Haughey (Personal)** sett — one scale-free proportion (`db6r2db2r4db14r2dg12r2dg3w2dg3do11dp9dg2dp6w2`), colour order pattern
+[BRBRBRGRGWGBBGBW](/stripes/brbrbrgrgwgbbgbw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+Part of the [Haughey](/tartans/haughey/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Haughey (Personal)](/variants/s16/db6r2db2r4db14r2dg12r2dg3w2dg3do11dp9dg2dp6w2~x2/) ★ | 2005 | ![Haughey (Personal) sett](/variants/s16/db6r2db2r4db14r2dg12r2dg3w2dg3do11dp9dg2dp6w2~x2/sett.png) |

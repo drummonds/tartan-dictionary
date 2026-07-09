@@ -1,5 +1,12 @@
 ---
 title: "MacNeill, Royce (Personal)"
-redirect: "/variants/s8/k40g21w3r1y2k12db12k10~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacNeill, Royce (Personal)](/variants/s8/k40g21w3r1y2k12db12k10~x2/).
+This is the **MacNeill, Royce (Personal)** sett — one scale-free proportion (`k40g21w3r1y2k12db12k10`), colour order pattern
+[KBKGRWGK](/stripes/kbkgrwgk/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacNeill, Royce (Personal)](/variants/s8/k40g21w3r1y2k12db12k10~x2/) ★ | 2008 | ![MacNeill, Royce (Personal) sett](/variants/s8/k40g21w3r1y2k12db12k10~x2/sett.png) |

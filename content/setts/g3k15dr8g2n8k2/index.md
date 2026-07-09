@@ -1,5 +1,12 @@
 ---
 title: "Lindsay Htg (Clan?)"
-redirect: "/variants/s6/g3k15dr8g2n8k2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lindsay Htg (Clan?)](/variants/s6/g3k15dr8g2n8k2~x4/).
+This is the **Lindsay Htg (Clan?)** sett — one scale-free proportion (`g3k15dr8g2n8k2`), colour order pattern
+[GKBGBK](/stripes/gkbgbk/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Lindsay Htg (Clan?)](/variants/s6/g3k15dr8g2n8k2~x4/) ★ | ~2002 | ![Lindsay Htg (Clan?) sett](/variants/s6/g3k15dr8g2n8k2~x4/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Glen Boig"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glen Boig"
-  url: ""
+  url: "/setts/b37o9b3do9o3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b37o9b3do9o3/)
-(the same proportion at any scale), whose colour order is pattern [BRBBR](/stripes/brbbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b37o9b3do9o3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBBR](/stripes/brbbr/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.3" cy="248.0" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="415.9" cy="217.4" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.6" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.9" cy="258.2" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><circle cx="470.6" cy="231.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.3" cy="247.9" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="416.0" cy="217.3" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.5" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.9" cy="258.2" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><circle cx="470.7" cy="231.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/b37o9b3do9o3~x2/

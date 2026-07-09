@@ -1,5 +1,12 @@
 ---
 title: "Ralston (UK)"
-redirect: "/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ralston (UK)](/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/).
+This is the **Ralston (UK)** sett — one scale-free proportion (`lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14`), colour order pattern
+[BYGYRYBWBWBW](/stripes/bygyrybwbwbw/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ralston (UK)](/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/) ★ | 2006 | ![Ralston (UK) sett](/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/sett.png) |

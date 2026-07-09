@@ -1,14 +1,16 @@
 ---
 title: "Scottish Borderland (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Borderland (Fashion)"
-  url: ""
+  url: "/setts/lb2dg2db1dg30n10db20dg1db2lo1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb2dg2db1dg30n10db20dg1db2lo1/)
-(the same proportion at any scale), whose colour order is pattern [WGBGBBGBY](/stripes/wgbgbbgby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb2dg2db1dg30n10db20dg1db2lo1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WGBGBBGBY](/stripes/wgbgbbgby/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/"><circle cx="408.1" cy="148.3" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/"><circle cx="380.0" cy="215.0" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/"><circle cx="416.4" cy="205.0" r="4" fill="#3465a4"><title>Scottish Canals (Corporate)</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.1" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.8" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s10/db4t4db1dg24db10r1db2dr5t3r2~x2/"><circle cx="319.2" cy="153.8" r="4" fill="#3465a4"><title>Rikaco Classic (Fashion)</title></circle></a><a href="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/"><circle cx="358.5" cy="188.2" r="4" fill="#3465a4"><title>Moray Council</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.1" cy="148.6" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><circle cx="353.6" cy="191.0" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.5" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><circle cx="393.6" cy="158.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/"><circle cx="408.1" cy="148.1" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/"><circle cx="380.0" cy="214.9" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/"><circle cx="416.4" cy="204.9" r="4" fill="#3465a4"><title>Scottish Canals (Corporate)</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.0" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.7" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s10/db4t4db1dg24db10r1db2dr5t3r2~x2/"><circle cx="319.2" cy="153.7" r="4" fill="#3465a4"><title>Rikaco Classic (Fashion)</title></circle></a><a href="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/"><circle cx="358.6" cy="188.1" r="4" fill="#3465a4"><title>Moray Council</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.2" cy="148.5" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><circle cx="353.7" cy="190.9" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.4" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><circle cx="393.6" cy="158.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/

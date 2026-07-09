@@ -1,16 +1,18 @@
 ---
 title: "Ramada Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ramada"
   url: "/tartans/ramada/"
 - name: "Ramada Corporate Tartan"
-  url: ""
+  url: "/setts/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6/)
-(the same proportion at any scale), whose colour order is pattern [GRRGRBBRBRBBRGRBBRBBRGRBBRBRBBRGRR](/stripes/grrgrbbrbrbbrgrbbrbbrgrbbrbrbbrgrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRRGRBBRBRBBRGRBBRBBRGRBBRBRBBRGRR](/stripes/grrgrbbrbrbbrgrbbrbbrgrbbrbrbbrgrr/).
 
 Part of the [Ramada](/tartans/ramada/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2004 Re-created from an artifact in the Telfer Dunbar colle
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2004 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/"><circle cx="487.3" cy="49.8" r="4" fill="#3465a4"><title>Ramada</title></circle></a><a href="/variants/s18/r66dbi1db1r6g30r6db1dbi1r3db16r3dbi1db1r54g3b1r6g6~x2~dbi1604274-db0805267/"><circle cx="455.5" cy="39.8" r="4" fill="#3465a4"><title>Unidentified 8</title></circle></a><a href="/variants/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/"><circle cx="401.1" cy="74.8" r="4" fill="#3465a4"><title>Dalziel #1</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2r2g2~x2/"><circle cx="399.1" cy="104.5" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/"><circle cx="370.6" cy="90.8" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s17/r19y1db1r2g18r2db1y1r2db4r2y1db1r19g2r2g2~x2/"><circle cx="381.1" cy="111.2" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2ri2g2~x4~r2109032-ri2307033/"><circle cx="374.7" cy="95.8" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3ri3g4~x2~r2109032-ri2307033/"><circle cx="350.1" cy="67.7" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/"><circle cx="505.6" cy="34.8" r="4" fill="#3465a4"><title>Fontainbleu</title></circle></a><circle cx="447.0" cy="27.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/"><circle cx="487.3" cy="49.6" r="4" fill="#3465a4"><title>Ramada</title></circle></a><a href="/variants/s18/r66dbi1db1r6g30r6db1dbi1r3db16r3dbi1db1r54g3b1r6g6~x2~dbi1604274-db0805267/"><circle cx="455.5" cy="39.6" r="4" fill="#3465a4"><title>Unidentified 8</title></circle></a><a href="/variants/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/"><circle cx="401.1" cy="74.6" r="4" fill="#3465a4"><title>Dalziel #1</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2r2g2~x2/"><circle cx="399.1" cy="104.4" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/"><circle cx="370.6" cy="90.6" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s17/r19y1db1r2g18r2db1y1r2db4r2y1db1r19g2r2g2~x2/"><circle cx="381.1" cy="111.0" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2ri2g2~x4~r2109032-ri2307033/"><circle cx="374.6" cy="95.6" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3ri3g4~x2~r2109032-ri2307033/"><circle cx="350.1" cy="67.5" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/"><circle cx="505.6" cy="34.6" r="4" fill="#3465a4"><title>Fontainbleu</title></circle></a><circle cx="447.0" cy="26.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2~r2008029-n1803284-db1204274-o2704014/

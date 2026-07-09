@@ -1,5 +1,12 @@
 ---
 title: "Newton Primary School"
-redirect: "/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Newton Primary School](/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/).
+This is the **Newton Primary School** sett — one scale-free proportion (`db26r3db3w2db3r3db6r6dy2`), colour order pattern
+[BRBWBRBRG](/stripes/brbwbrbrg/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Newton Primary School](/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/) ★ | 1997 | ![Newton Primary School sett](/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/sett.png) |

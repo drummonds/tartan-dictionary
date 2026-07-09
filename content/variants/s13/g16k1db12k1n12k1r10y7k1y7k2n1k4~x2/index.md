@@ -1,16 +1,18 @@
 ---
 title: "Ville de Beauport"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ville de Beauport"
   url: "/tartans/ville-de-beauport/"
 - name: "Ville de Beauport"
-  url: ""
+  url: "/setts/g16k1db12k1n12k1r10y7k1y7k2n1k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16k1db12k1n12k1r10y7k1y7k2n1k4/)
-(the same proportion at any scale), whose colour order is pattern [GKBKBKRGKGKBK](/stripes/gkbkbkrgkgkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g16k1db12k1n12k1r10y7k1y7k2n1k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBKBKRGKGKBK](/stripes/gkbkbkrgkgkbk/).
 
 Part of the [Ville de Beauport](/tartans/ville-de-beauport/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g16k1db12k1b12k1r10y7k1y7k2b1k4~x2/"><circle cx="49.1" cy="124.6" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/g16k1db12k1lb12k1r10y7k1y7k2lb1k4~x2/"><circle cx="36.0" cy="120.1" r="4" fill="#3465a4"><title>Ville de Beauport District Canadian Tartan</title></circle></a><a href="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/"><circle cx="82.1" cy="150.0" r="4" fill="#3465a4"><title>Kildare County, Crest Range</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="126.0" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/"><circle cx="16.0" cy="94.5" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="90.3" cy="148.9" r="4" fill="#3465a4"><title>Jones-MacGregor (Name)</title></circle></a><a href="/variants/s16/dy8db8dy3db1o2dy10o2db2o15y3k3y15k1r3k8r8~x2~dy1802055/"><circle cx="74.3" cy="131.9" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8k1db8y1g1y8k1w1~x6/"><circle cx="64.0" cy="138.0" r="4" fill="#3465a4"><title>Robieson Playfield</title></circle></a><a href="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/"><circle cx="32.4" cy="118.9" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><circle cx="59.0" cy="127.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g16k1db12k1b12k1r10y7k1y7k2b1k4~x2/"><circle cx="49.1" cy="124.4" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/g16k1db12k1lb12k1r10y7k1y7k2lb1k4~x2/"><circle cx="36.0" cy="119.9" r="4" fill="#3465a4"><title>Ville de Beauport District Canadian Tartan</title></circle></a><a href="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/"><circle cx="82.1" cy="149.8" r="4" fill="#3465a4"><title>Kildare County, Crest Range</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="125.9" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/"><circle cx="16.0" cy="94.3" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="90.3" cy="148.8" r="4" fill="#3465a4"><title>Jones-MacGregor (Name)</title></circle></a><a href="/variants/s16/dy8db8dy3db1o2dy10o2db2o15y3k3y15k1r3k8r8~x2~dy1802055/"><circle cx="74.3" cy="131.8" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8k1db8y1g1y8k1w1~x6/"><circle cx="64.0" cy="137.9" r="4" fill="#3465a4"><title>Robieson Playfield</title></circle></a><a href="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/"><circle cx="32.4" cy="118.8" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.1" r="4" fill="#3465a4"><title>Bowling</title></circle></a><circle cx="59.0" cy="127.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g16k1db12k1n12k1r10y7k1y7k2n1k4~x2/

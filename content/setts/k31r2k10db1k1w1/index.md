@@ -1,5 +1,12 @@
 ---
 title: "NewGeneration Alchemy (NGA) Inc"
-redirect: "/variants/s6/k31r2k10db1k1w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [NewGeneration Alchemy (NGA) Inc](/variants/s6/k31r2k10db1k1w1~x4/).
+This is the **NewGeneration Alchemy (NGA) Inc** sett — one scale-free proportion (`k31r2k10db1k1w1`), colour order pattern
+[KRKBKW](/stripes/krkbkw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [NewGeneration Alchemy (NGA) Inc](/variants/s6/k31r2k10db1k1w1~x4/) ★ | 2013 | ![NewGeneration Alchemy (NGA) Inc sett](/variants/s6/k31r2k10db1k1w1~x4/sett.png) |

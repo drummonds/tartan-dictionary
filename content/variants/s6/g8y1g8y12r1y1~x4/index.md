@@ -1,16 +1,18 @@
 ---
 title: "Forget Family (Yonne)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Forget"
   url: "/tartans/forget/"
 - name: "Forget Family (Yonne)"
-  url: ""
+  url: "/setts/g8y1g8y12r1y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8y1g8y12r1y1/)
-(the same proportion at any scale), whose colour order is pattern [GGGGRG](/stripes/ggggrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g8y1g8y12r1y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGRG](/stripes/ggggrg/).
 
 Part of the [Forget](/tartans/forget/) tartan — the named design grouping this sett with its other cloths.
 
@@ -26,7 +28,7 @@ Earliest known date: 11 September 2012 The gold and red colours in the tartan ar
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>14/07/2012 — Forget Family (Yonne) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10694">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#124B24;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #124B24"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0A126;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E0A126"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CA2625;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #CA2625"></span><br><em>The gold and red colours in the tartan are the Forget family colours, with green to recall the importance of the land.</em></li>
-<li>undated — Forget Family (Yonne) Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10694">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#124B24;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #124B24"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0A126;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E0A126"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CA2625;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #CA2625"></span></li>
+<li>11 September 2012 — Forget Family (Yonne) Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10694">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#124B24;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #124B24"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0A126;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E0A126"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CA2625;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #CA2625"></span></li>
 </ul>
 </details>
 
@@ -76,6 +78,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg11g4dg6dy11g1k1dy4~x4/"><circle cx="387.4" cy="265.8" r="4" fill="#3465a4"><title>Calais (Fashion)</title></circle></a><a href="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/"><circle cx="377.6" cy="261.4" r="4" fill="#3465a4"><title>Calais (Fashion)</title></circle></a><a href="/variants/s6/y9g9lo1g9y9g1~x4/"><circle cx="545.7" cy="356.7" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><a href="/variants/s4/g1y9g9lo1~x4/"><circle cx="538.4" cy="342.1" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><circle cx="550.0" cy="304.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg11g4dg6dy11g1k1dy4~x4/"><circle cx="387.4" cy="265.7" r="4" fill="#3465a4"><title>Calais (Fashion)</title></circle></a><a href="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/"><circle cx="377.6" cy="261.3" r="4" fill="#3465a4"><title>Calais (Fashion)</title></circle></a><a href="/variants/s6/y9g9lo1g9y9g1~x4/"><circle cx="545.8" cy="356.7" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><a href="/variants/s4/g1y9g9lo1~x4/"><circle cx="538.4" cy="342.1" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><circle cx="550.0" cy="304.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g8y1g8y12r1y1~x4/

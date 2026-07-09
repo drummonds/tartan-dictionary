@@ -1,14 +1,16 @@
 ---
 title: "MacLean of Duart Dress Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLean of Duart Dress Clan Tartan"
-  url: ""
+  url: "/setts/lb12o2db4g2dr3r3dr3r19w30n2w4k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb12o2db4g2dr3r3dr3r19w30n2w4k2/)
-(the same proportion at any scale), whose colour order is pattern [KWBWRBRBGBRW](/stripes/kwbwrbrbgbrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb12o2db4g2dr3r3dr3r19w30n2w4k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWBWRBRBGBRW](/stripes/kwbwrbrbgbrw/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2003 White and Yellow are in silk.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>

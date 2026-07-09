@@ -1,5 +1,12 @@
 ---
-title: "MacKintosh #4"
-redirect: "/variants/s6/r5w2r28k12g16r3~x2/"
+title: "Nisbet Family Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKintosh #4](/variants/s6/r5w2r28k12g16r3~x2/).
+This is the **Nisbet Family Tartan** sett — one scale-free proportion (`r5w2r28k12g16r3`), colour order pattern
+[RGKRWR](/stripes/rgkrwr/). It is recorded as a single **variant**, below.
+First attested **1842**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Nisbet Family Tartan](/variants/s6/r5w2r28k12g16r3~x2/) ★ | 1842 | ![Nisbet Family Tartan sett](/variants/s6/r5w2r28k12g16r3~x2/sett.png) |

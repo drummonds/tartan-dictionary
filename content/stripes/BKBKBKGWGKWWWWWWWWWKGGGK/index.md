@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/k12g12y3g12k9w5lb6w19lb2w6lb2w19lb6w5k9g12w3g12k12db10k2db2k2db10~x2/">Campbell Dress #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k12g12y3g12k9w5lb6w19lb2w6lb2w19lb6w5k9g12w3g12k12db10k2db2k2db10~x2/"><img src="/variants/s24/k12g12y3g12k9w5lb6w19lb2w6lb2w19lb6w5k9g12w3g12k12db10k2db2k2db10~x2/sett.png" alt="Campbell Dress #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/k12g12y3g12k9w5lb6w19lb2w6lb2w19lb6w5k9g12w3g12k12db10k2db2k2db10~x2/">Campbell of Argyll Dress Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/k12g12y3g12k9w5lb6w19lb2w6lb2w19lb6w5k9g12w3g12k12db10k2db2k2db10~x2/"><img src="/variants/s24/k12g12y3g12k9w5lb6w19lb2w6lb2w19lb6w5k9g12w3g12k12db10k2db2k2db10~x2/sett.png" alt="Campbell of Argyll Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

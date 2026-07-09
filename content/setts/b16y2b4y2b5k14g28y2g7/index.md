@@ -1,5 +1,12 @@
 ---
 title: "Marie Curie Fields of Hope"
-redirect: "/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Marie Curie Fields of Hope](/variants/s9/b16y2b4y2b5k14g28y2g7~x2/).
+This is the **Marie Curie Fields of Hope** sett — one scale-free proportion (`b16y2b4y2b5k14g28y2g7`), colour order pattern
+[BGBGBKGGG](/stripes/bgbgbkggg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Marie Curie Fields of Hope](/variants/s9/b16y2b4y2b5k14g28y2g7~x2/) ★ | ~2016 | ![Marie Curie Fields of Hope sett](/variants/s9/b16y2b4y2b5k14g28y2g7~x2/sett.png) |

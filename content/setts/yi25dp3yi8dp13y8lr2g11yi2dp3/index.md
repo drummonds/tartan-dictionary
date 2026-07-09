@@ -1,5 +1,12 @@
 ---
 title: "Organic"
-redirect: "/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Organic](/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/).
+This is the **Organic** sett — one scale-free proportion (`yi25dp3yi8dp13y8lr2g11yi2dp3`), colour order pattern
+[BGGYGBGBG](/stripes/bggygbgbg/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Organic](/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/) ★ | 2014 | ![Organic sett](/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/sett.png) |

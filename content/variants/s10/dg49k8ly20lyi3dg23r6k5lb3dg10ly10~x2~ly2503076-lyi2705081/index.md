@@ -1,14 +1,16 @@
 ---
 title: "State Seal of Maine (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "State Seal of Maine (Fashion)"
-  url: ""
+  url: "/setts/dg49k8ly20lyi3dg23r6k5lb3dg10ly10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg49k8ly20lyi3dg23r6k5lb3dg10ly10/)
-(the same proportion at any scale), whose colour order is pattern [GKYYGRKWGY](/stripes/gkyygrkwgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg49k8ly20lyi3dg23r6k5lb3dg10ly10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKYYGRKWGY](/stripes/gkyygrkwgy/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><circle cx="269.0" cy="97.9" r="4" fill="#3465a4"><title>Lambert (Front Royal) Hunting</title></circle></a><a href="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/"><circle cx="312.7" cy="116.5" r="4" fill="#3465a4"><title>U.S. Army</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.4" cy="108.7" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="151.0" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.3" cy="142.8" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.4" cy="107.7" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/"><circle cx="286.7" cy="108.6" r="4" fill="#3465a4"><title>Canadian Caledonian Hunting</title></circle></a><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><circle cx="269.9" cy="131.1" r="4" fill="#3465a4"><title>State Seal of New Hampshire (Fash.)</title></circle></a><a href="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/"><circle cx="227.7" cy="149.6" r="4" fill="#3465a4"><title>Aggreko Shepherd (Personal)</title></circle></a><a href="/variants/s12/db7lb1db1r2db9r1k9g13dp2g18r1g6~x2/"><circle cx="206.3" cy="115.7" r="4" fill="#3465a4"><title>West Highland Way (Corporate)</title></circle></a><circle cx="274.9" cy="122.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><circle cx="269.0" cy="97.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Hunting</title></circle></a><a href="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/"><circle cx="312.7" cy="116.3" r="4" fill="#3465a4"><title>U.S. Army</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.5" cy="108.5" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.9" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.4" cy="142.7" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.4" cy="107.6" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/"><circle cx="286.7" cy="108.5" r="4" fill="#3465a4"><title>Canadian Caledonian Hunting</title></circle></a><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><circle cx="269.9" cy="131.0" r="4" fill="#3465a4"><title>State Seal of New Hampshire (Fash.)</title></circle></a><a href="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/"><circle cx="227.7" cy="149.5" r="4" fill="#3465a4"><title>Aggreko Shepherd (Personal)</title></circle></a><a href="/variants/s12/db7lb1db1r2db9r1k9g13dp2g18r1g6~x2/"><circle cx="206.3" cy="115.6" r="4" fill="#3465a4"><title>West Highland Way (Corporate)</title></circle></a><circle cx="274.9" cy="122.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg49k8ly20lyi3dg23r6k5lb3dg10ly10~x2~ly2503076-lyi2705081/

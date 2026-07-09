@@ -1,14 +1,16 @@
 ---
 title: "Oakhall (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Oakhall (Corporate)"
-  url: ""
+  url: "/setts/k3dr48g6dr6g12y3g2k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3dr48g6dr6g12y3g2k3/)
-(the same proportion at any scale), whose colour order is pattern [KBGBGGGK](/stripes/kbgbgggk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3dr48g6dr6g12y3g2k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGBGGGK](/stripes/kbgbgggk/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="399.1" cy="148.6" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s7/lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="304.0" cy="138.9" r="4" fill="#3465a4"><title>MacMaster (USA) #1</title></circle></a><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="433.2" cy="90.8" r="4" fill="#3465a4"><title>Mead Hunting (Personal)</title></circle></a><a href="/variants/s6/r18g9r2g3k1n1~x4/"><circle cx="369.2" cy="156.9" r="4" fill="#3465a4"><title>MacGregor of Cardney - 1930 (Clan)</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="117.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="341.4" cy="158.9" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"><circle cx="426.5" cy="105.0" r="4" fill="#3465a4"><title>Oakhall</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.7" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.0" cy="102.3" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/variants/s6/g36r18g4r6k1w2~x2/"><circle cx="385.0" cy="133.6" r="4" fill="#3465a4"><title>Princess Margaret Rose Tartan</title></circle></a><circle cx="407.8" cy="116.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="399.1" cy="148.5" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s7/lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="304.0" cy="138.8" r="4" fill="#3465a4"><title>MacMaster (USA) #1</title></circle></a><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="433.2" cy="90.7" r="4" fill="#3465a4"><title>Mead Hunting (Personal)</title></circle></a><a href="/variants/s6/r18g9r2g3k1n1~x4/"><circle cx="369.2" cy="156.8" r="4" fill="#3465a4"><title>MacGregor of Cardney - 1930 (Clan)</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="117.0" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="341.5" cy="158.8" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"><circle cx="426.5" cy="104.9" r="4" fill="#3465a4"><title>Oakhall</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.0" cy="102.2" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/variants/s6/g36r18g4r6k1w2~x2/"><circle cx="385.0" cy="133.5" r="4" fill="#3465a4"><title>Princess Margaret Rose Tartan</title></circle></a><circle cx="407.8" cy="116.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k3dr48g6dr6g12y3g2k3~x2/

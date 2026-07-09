@@ -1,5 +1,12 @@
 ---
 title: "Snelgrove Htg (Name)"
-redirect: "/variants/s7/k3r12do8ly2g36do10lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Snelgrove Htg (Name)](/variants/s7/k3r12do8ly2g36do10lb2~x2/).
+This is the **Snelgrove Htg (Name)** sett — one scale-free proportion (`k3r12do8ly2g36do10lb2`), colour order pattern
+[KRBYGBW](/stripes/krbygbw/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Snelgrove Htg (Name)](/variants/s7/k3r12do8ly2g36do10lb2~x2/) ★ | 2003 | ![Snelgrove Htg (Name) sett](/variants/s7/k3r12do8ly2g36do10lb2~x2/sett.png) |

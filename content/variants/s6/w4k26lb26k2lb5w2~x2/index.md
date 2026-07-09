@@ -1,14 +1,16 @@
 ---
 title: "Indian Pipe Band (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Indian Pipe Band (Corporate)"
-  url: ""
+  url: "/setts/w4k26lb26k2lb5w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k26lb26k2lb5w2/)
-(the same proportion at any scale), whose colour order is pattern [WKWKWW](/stripes/wkwkww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4k26lb26k2lb5w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWKWW](/stripes/wkwkww/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1t1k17t17k1w1~x4/"><circle cx="269.6" cy="147.0" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.4" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s6/k3w2k18t18k2t3~x4/"><circle cx="263.0" cy="199.0" r="4" fill="#3465a4"><title>Swan (Name)</title></circle></a><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="267.1" cy="196.6" r="4" fill="#3465a4"><title>Swan</title></circle></a><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="274.0" cy="160.5" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="292.4" cy="210.2" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="258.0" cy="176.7" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s5/k5w7k5n20db1~x4/"><circle cx="252.2" cy="168.9" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.1" cy="194.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/t18k2t4k6dp12lo1~x2/"><circle cx="261.1" cy="175.5" r="4" fill="#3465a4"><title>Joker, The</title></circle></a><circle cx="255.2" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1t1k17t17k1w1~x4/"><circle cx="269.6" cy="146.9" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.3" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s6/k3w2k18t18k2t3~x4/"><circle cx="263.0" cy="198.9" r="4" fill="#3465a4"><title>Swan (Name)</title></circle></a><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="267.1" cy="196.5" r="4" fill="#3465a4"><title>Swan</title></circle></a><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="274.0" cy="160.4" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="292.5" cy="210.2" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="258.0" cy="176.6" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s5/k5w7k5n20db1~x4/"><circle cx="252.2" cy="168.8" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.1" cy="194.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/t18k2t4k6dp12lo1~x2/"><circle cx="261.1" cy="175.4" r="4" fill="#3465a4"><title>Joker, The</title></circle></a><circle cx="255.2" cy="182.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w4k26lb26k2lb5w2~x2/

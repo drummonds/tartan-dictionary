@@ -1,5 +1,12 @@
 ---
 title: "Devon, Green (District)"
-redirect: "/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Devon, Green (District)](/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/).
+This is the **Devon, Green (District)** sett — one scale-free proportion (`n5g4lr1g4dy4dg4y1`), colour order pattern
+[BGYGGGG](/stripes/bgygggg/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Devon, Green (District)](/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/) ★ | 1984 | ![Devon, Green (District) sett](/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/sett.png) |

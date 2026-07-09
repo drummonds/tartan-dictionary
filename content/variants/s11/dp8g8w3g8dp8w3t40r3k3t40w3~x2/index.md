@@ -1,16 +1,18 @@
 ---
 title: "World Peace (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "World Peace"
   url: "/tartans/world-peace/"
 - name: "World Peace (Fashion)"
-  url: ""
+  url: "/setts/dp8g8w3g8dp8w3t40r3k3t40w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp8g8w3g8dp8w3t40r3k3t40w3/)
-(the same proportion at any scale), whose colour order is pattern [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp8g8w3g8dp8w3t40r3k3t40w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/).
 
 Part of the [World Peace](/tartans/world-peace/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/"><circle cx="286.7" cy="109.0" r="4" fill="#3465a4"><title>World Peace</title></circle></a><a href="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/"><circle cx="316.7" cy="141.6" r="4" fill="#3465a4"><title>Fife (Mann)</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="327.4" cy="96.5" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="275.0" cy="173.0" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s9/n55t8w8t8g5n8ly4w4k4~x2/"><circle cx="309.7" cy="121.4" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/"><circle cx="247.6" cy="99.6" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/variants/s9/n55db8w8db8g5n8y4w4k4~x2/"><circle cx="295.3" cy="114.3" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s11/b19k1yi1b10k4y9dp4b9yi1k1ly2~x4~b2206256-yi2602166/"><circle cx="292.4" cy="115.9" r="4" fill="#3465a4"><title>Cian of Ely (Clan)</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="226.7" cy="140.0" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="212.0" cy="135.3" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><circle cx="303.1" cy="121.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/"><circle cx="286.8" cy="108.9" r="4" fill="#3465a4"><title>World Peace</title></circle></a><a href="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/"><circle cx="316.8" cy="141.4" r="4" fill="#3465a4"><title>Fife (Mann)</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="327.4" cy="96.3" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="275.0" cy="172.9" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s9/n55t8w8t8g5n8ly4w4k4~x2/"><circle cx="309.7" cy="121.2" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/"><circle cx="247.6" cy="99.4" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/variants/s9/n55db8w8db8g5n8y4w4k4~x2/"><circle cx="295.3" cy="114.2" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s11/b19k1yi1b10k4y9dp4b9yi1k1ly2~x4~b2206256-yi2602166/"><circle cx="292.4" cy="115.8" r="4" fill="#3465a4"><title>Cian of Ely (Clan)</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="226.7" cy="139.9" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="212.0" cy="135.2" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><circle cx="303.2" cy="121.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/

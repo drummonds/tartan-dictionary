@@ -1,14 +1,16 @@
 ---
 title: "MacRae, Special Hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacRae, Special Hunting"
-  url: ""
+  url: "/setts/dg18db2dg5r2dg5k21ki20k5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg18db2dg5r2dg5k21ki20k5/)
-(the same proportion at any scale), whose colour order is pattern [GBGRGKKK](/stripes/gbgrgkkk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg18db2dg5r2dg5k21ki20k5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGRGKKK](/stripes/gbgrgkkk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ki3o6ki32k36dg36k4r3~ki0604259/"><circle cx="196.1" cy="182.0" r="4" fill="#3465a4"><title>McEwan &quot;1856&quot;, The</title></circle></a><a href="/variants/s7/db4k4db16k14dg14dr3dg3~x2/"><circle cx="199.5" cy="254.8" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.5" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/"><circle cx="248.2" cy="148.9" r="4" fill="#3465a4"><title>Phillips Welsh Name Tartan</title></circle></a><a href="/variants/s5/dg36y3do5db18k28~x2/"><circle cx="191.0" cy="192.6" r="4" fill="#3465a4"><title>Dobson Name Tartan</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.2" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6~ki0604259/"><circle cx="223.5" cy="192.5" r="4" fill="#3465a4"><title>Wacker</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.5" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s13/db24k2db2k2db2k20dg20dy3dg20k20db24k2dr4~x2/"><circle cx="211.2" cy="170.0" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #2 (Mil</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.5" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><circle cx="214.7" cy="195.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ki3o6ki32k36dg36k4r3~ki0604259/"><circle cx="196.1" cy="181.9" r="4" fill="#3465a4"><title>McEwan &quot;1856&quot;, The</title></circle></a><a href="/variants/s7/db4k4db16k14dg14dr3dg3~x2/"><circle cx="199.6" cy="254.7" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/"><circle cx="248.3" cy="148.8" r="4" fill="#3465a4"><title>Phillips Welsh Name Tartan</title></circle></a><a href="/variants/s5/dg36y3do5db18k28~x2/"><circle cx="191.0" cy="192.5" r="4" fill="#3465a4"><title>Dobson Name Tartan</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.0" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6~ki0604259/"><circle cx="223.5" cy="192.4" r="4" fill="#3465a4"><title>Wacker</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.6" cy="167.2" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s13/db24k2db2k2db2k20dg20dy3dg20k20db24k2dr4~x2/"><circle cx="211.2" cy="169.8" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #2 (Mil</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.4" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><circle cx="214.7" cy="195.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/

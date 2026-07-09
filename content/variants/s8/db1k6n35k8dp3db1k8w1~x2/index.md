@@ -1,14 +1,16 @@
 ---
 title: "Melrose Newbigging Grey"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Melrose Newbigging Grey"
-  url: ""
+  url: "/setts/db1k6n35k8dp3db1k8w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1k6n35k8dp3db1k8w1/)
-(the same proportion at any scale), whose colour order is pattern [BKBKKBBKKW](/stripes/bkbkkbbkkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db1k6n35k8dp3db1k8w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKKBBKKW](/stripes/bkbkkbbkkw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.6" cy="39.7" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"><circle cx="246.2" cy="51.4" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.9" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.1" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.7" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="283.1" cy="63.2" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/variants/s9/n47lo1k27o4dg5lo1o8t1k1~x2~n1900000-o2500000/"><circle cx="262.5" cy="55.4" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/"><circle cx="287.1" cy="37.6" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/"><circle cx="266.3" cy="51.9" r="4" fill="#3465a4"><title>Allison (1882)</title></circle></a><circle cx="282.8" cy="50.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.6" cy="39.5" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"><circle cx="246.2" cy="51.2" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.7" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.7" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.5" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="283.1" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/variants/s9/n47lo1k27o4dg5lo1o8t1k1~x2~n1900000-o2500000/"><circle cx="262.5" cy="55.2" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/"><circle cx="287.1" cy="37.4" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/"><circle cx="266.3" cy="51.7" r="4" fill="#3465a4"><title>Allison (1882)</title></circle></a><circle cx="282.8" cy="49.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db1k6n35k8dp3db1k8w1~x2/

@@ -1,14 +1,16 @@
 ---
 title: "Bryson (1988) (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bryson (1988) (Name)"
-  url: ""
+  url: "/setts/lr2r1t7k7lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr2r1t7k7lb1/)
-(the same proportion at any scale), whose colour order is pattern [WKBRY](/stripes/wkbry/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lr2r1t7k7lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKBRY](/stripes/wkbry/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.3" cy="200.9" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/variants/s5/r1db6k3g6w1/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x2/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r2db10k5g12w2~x2/"><circle cx="116.6" cy="226.7" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.5" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.8" cy="187.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="96.8" cy="213.8" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.8" cy="226.2" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><circle cx="136.0" cy="205.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.4" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.4" cy="200.8" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.7" cy="227.7" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/variants/s5/r1db6k3g6w1/"><circle cx="106.7" cy="227.7" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x2/"><circle cx="106.7" cy="227.7" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r2db10k5g12w2~x2/"><circle cx="116.6" cy="226.7" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.4" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.9" cy="187.1" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="96.8" cy="213.7" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.8" cy="226.1" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><circle cx="136.1" cy="205.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/

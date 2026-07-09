@@ -1,5 +1,12 @@
 ---
 title: "MacArthur-Fox Htg (Personal)"
-redirect: "/variants/s6/dr3g30k12g1k16lo2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacArthur-Fox Htg (Personal)](/variants/s6/dr3g30k12g1k16lo2~x2/).
+This is the **MacArthur-Fox Htg (Personal)** sett — one scale-free proportion (`dr3g30k12g1k16lo2`), colour order pattern
+[BGKGKY](/stripes/bgkgky/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacArthur-Fox Htg (Personal)](/variants/s6/dr3g30k12g1k16lo2~x2/) ★ | 1997 | ![MacArthur-Fox Htg (Personal) sett](/variants/s6/dr3g30k12g1k16lo2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Hackston (Green stripe) (Portrait)"
-redirect: "/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hackston (Green stripe) (Portrait)](/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/).
+This is the **Hackston (Green stripe) (Portrait)** sett — one scale-free proportion (`r51lr2k11ly3r11ly3r11g3`), colour order pattern
+[GRYRYKYR](/stripes/gryrykyr/). It is recorded as a single **variant**, below.
+First attested **1746**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hackston (Green stripe) (Portrait)](/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/) ★ | 1746 | ![Hackston (Green stripe) (Portrait) sett](/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/sett.png) |

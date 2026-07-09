@@ -1,5 +1,12 @@
 ---
 title: "Tilburg Hunting (District)"
-redirect: "/variants/s7/t6k3t37y41w3y6w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tilburg Hunting (District)](/variants/s7/t6k3t37y41w3y6w3~x2/).
+This is the **Tilburg Hunting (District)** sett — one scale-free proportion (`t6k3t37y41w3y6w3`), colour order pattern
+[BKBGWGW](/stripes/bkbgwgw/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tilburg Hunting (District)](/variants/s7/t6k3t37y41w3y6w3~x2/) ★ | 2007 | ![Tilburg Hunting (District) sett](/variants/s7/t6k3t37y41w3y6w3~x2/sett.png) |

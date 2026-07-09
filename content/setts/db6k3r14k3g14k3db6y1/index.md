@@ -2,15 +2,15 @@
 title: "Kilgour (Clan)"
 date: 2023-03-18
 ---
-The **Kilgour (Clan)** tartan is one sett proportion (`db6k3r14k3g14k3db6y1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKRKGKBG](/stripes/bkrkgkbg/); each scale below is its own sett page. First attested **1880**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Kilgour (Clan)** sett — one scale-free proportion (`db6k3r14k3g14k3db6y1`), colour order pattern
+[BKRKGKBG](/stripes/bkrkgkbg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1880**.
 
-Part of the [Kilgour](/tartans/kilgour/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Kilgour](/tartans/kilgour/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Kilgour (Clan)](/variants/s8/db6k3r14k3g14k3db6y1~x4/) ★ | 1880 | ![Kilgour (Clan) sett](/variants/s8/db6k3r14k3g14k3db6y1~x4/sett.png) |
 | ×4 | [Kilgour (Asymmetrical)](/variants/s8/db6k3r14k3g14k3db6y1~x4~db1406275/) | 1880 | ![Kilgour (Asymmetrical) sett](/variants/s8/db6k3r14k3g14k3db6y1~x4~db1406275/sett.png) |

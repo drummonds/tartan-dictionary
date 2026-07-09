@@ -1,5 +1,12 @@
 ---
 title: "I Y"
-redirect: "/variants/s6/k4g16k13db16lb3db3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [I Y](/variants/s6/k4g16k13db16lb3db3~x2/).
+This is the **I Y** sett — one scale-free proportion (`k4g16k13db16lb3db3`), colour order pattern
+[BWBKGK](/stripes/bwbkgk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [I Y](/variants/s6/k4g16k13db16lb3db3~x2/) ★ | 2015 | ![I Y sett](/variants/s6/k4g16k13db16lb3db3~x2/sett.png) |

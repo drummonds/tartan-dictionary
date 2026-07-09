@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/">Stewart of Atholl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/">Stewart of Athol Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Athol Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/">Stewart of Atholl (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

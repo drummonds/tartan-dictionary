@@ -1,5 +1,12 @@
 ---
 title: "Sugell (Name?)"
-redirect: "/variants/s4/g72r25y8w5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sugell (Name?)](/variants/s4/g72r25y8w5/).
+This is the **Sugell (Name?)** sett — one scale-free proportion (`g72r25y8w5`), colour order pattern
+[GRGW](/stripes/grgw/). It is recorded as a single **variant**, below.
+First attested **~2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Sugell (Name?)](/variants/s4/g72r25y8w5/) ★ | ~2009 | ![Sugell (Name?) sett](/variants/s4/g72r25y8w5/sett.png) |

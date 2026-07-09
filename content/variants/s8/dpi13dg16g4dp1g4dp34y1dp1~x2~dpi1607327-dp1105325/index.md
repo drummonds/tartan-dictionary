@@ -1,16 +1,18 @@
 ---
 title: "Heather Mead (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Heather Mead"
   url: "/tartans/heather-mead/"
 - name: "Heather Mead (Personal)"
-  url: ""
+  url: "/setts/dpi13dg16g4dp1g4dp34y1dp1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dpi13dg16g4dp1g4dp34y1dp1/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBGGB](/stripes/bgbgbggb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dpi13dg16g4dp1g4dp34y1dp1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGGB](/stripes/bgbgbggb/).
 
 Part of the [Heather Mead](/tartans/heather-mead/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/"><circle cx="349.5" cy="138.7" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.5" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/variants/s9/dg4dpi48dp10lb3dp16lb3n30lb3db2~x2~dpi1507327-dp1105325/"><circle cx="316.2" cy="153.1" r="4" fill="#3465a4"><title>Heather (NSPCC) (Corporate)</title></circle></a><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/"><circle cx="328.2" cy="158.1" r="4" fill="#3465a4"><title>Pride of Scotland Autumn</title></circle></a><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/"><circle cx="405.0" cy="139.9" r="4" fill="#3465a4"><title>Highland Prince (Fashion)</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.7" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/"><circle cx="393.6" cy="158.4" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.7" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.3" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/"><circle cx="322.4" cy="140.9" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><circle cx="383.3" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/"><circle cx="349.5" cy="138.6" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.4" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/variants/s9/dg4dpi48dp10lb3dp16lb3n30lb3db2~x2~dpi1507327-dp1105325/"><circle cx="316.2" cy="152.9" r="4" fill="#3465a4"><title>Heather (NSPCC) (Corporate)</title></circle></a><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/"><circle cx="328.3" cy="158.0" r="4" fill="#3465a4"><title>Pride of Scotland Autumn</title></circle></a><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/"><circle cx="405.1" cy="139.7" r="4" fill="#3465a4"><title>Highland Prince (Fashion)</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.6" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/"><circle cx="393.6" cy="158.2" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.8" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.2" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/"><circle cx="322.4" cy="140.8" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><circle cx="383.3" cy="153.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi1607327-dp1105325/

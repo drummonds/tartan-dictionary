@@ -1,5 +1,14 @@
 ---
 title: "Afternoon Tea / Darjeeling"
-redirect: "/variants/s6/w15dg98db72dr25db8ly15/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Afternoon Tea / Darjeeling](/variants/s6/w15dg98db72dr25db8ly15/).
+This is the **Afternoon Tea / Darjeeling** sett — one scale-free proportion (`w15dg98db72dr25db8ly15`), colour order pattern
+[WGBBBY](/stripes/wgbbby/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+Part of the [Afternoon Tea / Darjeeling](/tartans/afternoon-tea-darjeeling/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Afternoon Tea / Darjeeling](/variants/s6/w15dg98db72dr25db8ly15/) ★ | 2015 | ![Afternoon Tea / Darjeeling sett](/variants/s6/w15dg98db72dr25db8ly15/sett.png) |

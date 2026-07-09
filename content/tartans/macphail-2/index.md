@@ -15,7 +15,7 @@ The **MacPhail** tartan groups 2 setts — the same named design recorded as dif
 <tbody>
 <tr><td><a href="/setts/r40t8r6g24lb1k4/">MacPhail</a> ★</td><td><code>R/80 T16 R12 G48 LB2 K/8</code></td><td>244</td><td>2002</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r40t8r6g24lb1k4/"><img src="/variants/s6/r40t8r6g24lb1k4~x2/sett.png" alt="MacPhail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r25db7r3g13lb1k2/">MacPhail</a></td><td><code>R/100 DB28 R12 G52 LB4 K/8</code></td><td>300</td><td>—</td></tr>
+<tr><td><a href="/setts/r25db7r3g13lb1k2/">MacPhail</a></td><td><code>R/100 DB28 R12 G52 LB4 K/8</code></td><td>300</td><td>~1950</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r25db7r3g13lb1k2/"><img src="/variants/s6/r25db7r3g13lb1k2~x4/sett.png" alt="MacPhail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

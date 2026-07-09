@@ -1,5 +1,12 @@
 ---
 title: "Leonard (Name)"
-redirect: "/variants/s8/t36db6t5r3k2r3t5db18~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Leonard (Name)](/variants/s8/t36db6t5r3k2r3t5db18~x2/).
+This is the **Leonard (Name)** sett — one scale-free proportion (`t36db6t5r3k2r3t5db18`), colour order pattern
+[BBBRKRBB](/stripes/bbbrkrbb/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Leonard (Name)](/variants/s8/t36db6t5r3k2r3t5db18~x2/) ★ | 1996 | ![Leonard (Name) sett](/variants/s8/t36db6t5r3k2r3t5db18~x2/sett.png) |

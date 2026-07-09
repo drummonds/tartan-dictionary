@@ -1,14 +1,16 @@
 ---
 title: "Colleges Scotland (Corp)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Colleges Scotland (Corp)"
-  url: ""
+  url: "/setts/t1k50r1k2n4db7w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t1k50r1k2n4db7w1/)
-(the same proportion at any scale), whose colour order is pattern [BKRKBBW](/stripes/bkrkbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t1k50r1k2n4db7w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKRKBBW](/stripes/bkrkbbw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><circle cx="412.2" cy="112.6" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="493.0" cy="79.7" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="477.3" cy="107.6" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.6" cy="72.5" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="387.9" cy="59.4" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="82.0" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="539.7" cy="83.2" r="4" fill="#3465a4"><title>Forand (Personal)</title></circle></a><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/"><circle cx="481.6" cy="32.2" r="4" fill="#3465a4"><title>Spirit of Lanarkshire (Corporate)</title></circle></a><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/"><circle cx="479.7" cy="85.6" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (Personal)</title></circle></a><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><circle cx="416.1" cy="66.8" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (P)</title></circle></a><circle cx="480.1" cy="40.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><circle cx="412.2" cy="112.5" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="493.0" cy="79.5" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="477.3" cy="107.4" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.6" cy="72.3" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="388.0" cy="59.3" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.9" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="539.8" cy="83.1" r="4" fill="#3465a4"><title>Forand (Personal)</title></circle></a><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/"><circle cx="481.6" cy="32.0" r="4" fill="#3465a4"><title>Spirit of Lanarkshire (Corporate)</title></circle></a><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/"><circle cx="479.7" cy="85.5" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (Personal)</title></circle></a><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><circle cx="416.1" cy="66.6" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (P)</title></circle></a><circle cx="480.2" cy="40.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/t1k50r1k2n4db7w1~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Craik of Assington (Personal)"
-redirect: "/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Craik of Assington (Personal)](/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/).
+This is the **Craik of Assington (Personal)** sett — one scale-free proportion (`db4dr11db1g8dr2g4k1lo2`), colour order pattern
+[BBBGBGKY](/stripes/bbbgbgky/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Craik of Assington (Personal)](/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/) ★ | 1980 | ![Craik of Assington (Personal) sett](/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/sett.png) |

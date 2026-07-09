@@ -1,5 +1,12 @@
 ---
 title: "Trinity Presbyterian Church"
-redirect: "/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Trinity Presbyterian Church](/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/).
+This is the **Trinity Presbyterian Church** sett — one scale-free proportion (`r3lb3r3lb12k6g3k4db16k4g3k6lb3`), colour order pattern
+[RWRWKGKBKGKW](/stripes/rwrwkgkbkgkw/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Trinity Presbyterian Church](/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/) ★ | 2006 | ![Trinity Presbyterian Church sett](/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Wright, Anne (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wright, Anne"
   url: "/tartans/wright-anne/"
 - name: "Wright, Anne (Personal)"
-  url: ""
+  url: "/setts/db12lb6g30db9r8y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12lb6g30db9r8y1/)
-(the same proportion at any scale), whose colour order is pattern [BWGBRG](/stripes/bwgbrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db12lb6g30db9r8y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGBRG](/stripes/bwgbrg/).
 
 Part of the [Wright, Anne](/tartans/wright-anne/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.9" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2/"><circle cx="259.6" cy="117.2" r="4" fill="#3465a4"><title>Young (Clan)</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.2" cy="117.1" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.3" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.2" cy="138.1" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.9" cy="184.2" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.9" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.8" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.9" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="124.1" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><circle cx="257.9" cy="166.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.8" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2/"><circle cx="259.6" cy="117.1" r="4" fill="#3465a4"><title>Young (Clan)</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.3" cy="117.0" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.2" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.3" cy="138.0" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.9" cy="184.1" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.8" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.7" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.8" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="124.0" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><circle cx="257.9" cy="166.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db12lb6g30db9r8y1~x2/

@@ -1,5 +1,12 @@
 ---
 title: "Guild, The"
-redirect: "/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Guild, The](/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/).
+This is the **Guild, The** sett — one scale-free proportion (`db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2`), colour order pattern
+[BRBBBGBRBRBGBBBRBW](/stripes/brbbbgbrbrbgbbbrbw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Guild, The](/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/) ★ | 2016 | ![Guild, The sett](/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/sett.png) |

@@ -15,7 +15,7 @@ The **Rosevear** tartan groups 2 setts — the same named design recorded as dif
 <tbody>
 <tr><td><a href="/setts/dr50dy4w16db2w4db2w15g27r4/">Rosevear</a> ★</td><td><code>DR/100 DY8 W32 DB4 W8 DB4 W30 G54 R/8</code></td><td>388</td><td>1990</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/dr50dy4w16db2w4db2w15g27r4/"><img src="/variants/s9/dr50dy4w16db2w4db2w15g27r4~x2/sett.png" alt="Rosevear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr50y4w16db2w4db2w15g27r4/">Rosevear</a></td><td><code>DR/100 Y8 W32 DB4 W8 DB4 W30 G54 R/8</code></td><td>388</td><td>—</td></tr>
+<tr><td><a href="/setts/dr50y4w16db2w4db2w15g27r4/">Rosevear</a></td><td><code>DR/100 Y8 W32 DB4 W8 DB4 W30 G54 R/8</code></td><td>388</td><td>1990</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/dr50y4w16db2w4db2w15g27r4/"><img src="/variants/s9/dr50y4w16db2w4db2w15g27r4~x2/sett.png" alt="Rosevear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

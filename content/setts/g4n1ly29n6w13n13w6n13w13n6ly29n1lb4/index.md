@@ -1,5 +1,12 @@
 ---
 title: "Delta Dental Association"
-redirect: "/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Delta Dental Association](/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/).
+This is the **Delta Dental Association** sett — one scale-free proportion (`g4n1ly29n6w13n13w6n13w13n6ly29n1lb4`), colour order pattern
+[GBYBWBWBWBYBW](/stripes/gbybwbwbwbybw/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Delta Dental Association](/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/) ★ | 2011 | ![Delta Dental Association sett](/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/sett.png) |

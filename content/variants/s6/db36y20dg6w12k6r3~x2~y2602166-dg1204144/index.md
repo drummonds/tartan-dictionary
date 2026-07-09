@@ -1,14 +1,16 @@
 ---
 title: "Sirens & Swords"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sirens & Swords"
-  url: ""
+  url: "/setts/db36y20dg6w12k6r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db36y20dg6w12k6r3/)
-(the same proportion at any scale), whose colour order is pattern [BGGWKR](/stripes/bggwkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db36y20dg6w12k6r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGWKR](/stripes/bggwkr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="106.2" cy="141.4" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/"><circle cx="130.7" cy="127.8" r="4" fill="#3465a4"><title>Alexander of Menstry (Personal)</title></circle></a><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><circle cx="177.6" cy="193.6" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><circle cx="135.0" cy="129.2" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.7" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.8" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.9" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.1" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.8" cy="187.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.8" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><circle cx="136.9" cy="159.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="106.2" cy="141.3" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/"><circle cx="130.7" cy="127.7" r="4" fill="#3465a4"><title>Alexander of Menstry (Personal)</title></circle></a><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><circle cx="177.6" cy="193.5" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><circle cx="135.0" cy="129.1" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.6" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.7" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.8" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.0" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.9" cy="187.1" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.7" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><circle cx="136.9" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db36y20dg6w12k6r3~x2~y2602166-dg1204144/

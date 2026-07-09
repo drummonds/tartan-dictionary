@@ -1,5 +1,12 @@
 ---
 title: "Murison, Ina"
-redirect: "/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Murison, Ina](/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/).
+This is the **Murison, Ina** sett — one scale-free proportion (`r4db11lg4w3lg4ly6db3k3db4k1db30w3`), colour order pattern
+[RBYWYYBKBKBW](/stripes/rbywyybkbkbw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Murison, Ina](/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/) ★ | 2015 | ![Murison, Ina sett](/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/sett.png) |

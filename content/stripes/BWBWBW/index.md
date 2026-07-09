@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/db1w1db5w5db1w1~x8/">Erskine Blanket</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db1w1db5w5db1w1~x8/"><img src="/variants/s6/db1w1db5w5db1w1~x8/sett.png" alt="Erskine Blanket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db6w2db29w29db2w6~x2/">Erskine Blue (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db6w2db29w29db2w6~x2/"><img src="/variants/s6/db6w2db29w29db2w6~x2/sett.png" alt="Erskine Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db6w2db29w29db2w6~x2/">Erskine Royal Blue Dress Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db6w2db29w29db2w6~x2/"><img src="/variants/s6/db6w2db29w29db2w6~x2/sett.png" alt="Erskine Royal Blue Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/n6lb2n25lb25n2lb6~x2/">Erskine, Grey</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/n6lb2n25lb25n2lb6~x2/"><img src="/variants/s6/n6lb2n25lb25n2lb6~x2/sett.png" alt="Erskine, Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/">Harmony 13</a></td></tr>

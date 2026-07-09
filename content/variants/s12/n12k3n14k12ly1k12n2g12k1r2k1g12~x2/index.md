@@ -1,14 +1,16 @@
 ---
 title: "Wells, Greg #2 (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wells, Greg #2 (Personal)"
-  url: ""
+  url: "/setts/n12k3n14k12ly1k12n2g12k1r2k1g12/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n12k3n14k12ly1k12n2g12k1r2k1g12/)
-(the same proportion at any scale), whose colour order is pattern [BKBKYKBGKRKG](/stripes/bkbkykbgkrkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n12k3n14k12ly1k12n2g12k1r2k1g12/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKYKBGKRKG](/stripes/bkbkykbgkrkg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.4" cy="148.9" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/"><circle cx="91.6" cy="149.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/"><circle cx="129.9" cy="126.0" r="4" fill="#3465a4"><title>Fleming of Castle Carrick (Personal)</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="122.6" cy="144.6" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.7" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.0" cy="166.4" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s12/db9r3db3r5db16r2k17g16r5g3y1g9~x2/"><circle cx="111.6" cy="142.8" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s14/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/"><circle cx="132.7" cy="127.9" r="4" fill="#3465a4"><title>Farquharson (Clan)</title></circle></a><circle cx="126.6" cy="148.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.4" cy="148.8" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/"><circle cx="91.6" cy="148.9" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/"><circle cx="129.9" cy="125.9" r="4" fill="#3465a4"><title>Fleming of Castle Carrick (Personal)</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="122.6" cy="144.5" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.6" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.1" cy="166.3" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s12/db9r3db3r5db16r2k17g16r5g3y1g9~x2/"><circle cx="111.7" cy="142.7" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s14/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/"><circle cx="132.7" cy="127.8" r="4" fill="#3465a4"><title>Farquharson (Clan)</title></circle></a><circle cx="126.6" cy="148.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/

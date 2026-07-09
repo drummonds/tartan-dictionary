@@ -1,5 +1,12 @@
 ---
 title: "Gold-Smith (Personal)"
-redirect: "/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gold-Smith (Personal)](/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/).
+This is the **Gold-Smith (Personal)** sett — one scale-free proportion (`r2k25dy2k20n5k2n4k3n3k4n2k6y2`), colour order pattern
+[GKBKBKBKBKGKR](/stripes/gkbkbkbkbkgkr/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gold-Smith (Personal)](/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/) ★ | 2010 | ![Gold-Smith (Personal) sett](/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "South Africa 1994 (Fashion)"
-redirect: "/variants/s7/k20y4db13w4g30w4r13~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [South Africa 1994 (Fashion)](/variants/s7/k20y4db13w4g30w4r13~x2/).
+This is the **South Africa 1994 (Fashion)** sett — one scale-free proportion (`k20y4db13w4g30w4r13`), colour order pattern
+[KGBWGWR](/stripes/kgbwgwr/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [South Africa 1994 (Fashion)](/variants/s7/k20y4db13w4g30w4r13~x2/) ★ | 2010 | ![South Africa 1994 (Fashion) sett](/variants/s7/k20y4db13w4g30w4r13~x2/sett.png) |

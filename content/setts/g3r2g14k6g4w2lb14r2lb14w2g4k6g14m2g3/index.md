@@ -1,5 +1,12 @@
 ---
 title: "Scottish Heritage USA (SHUSA)"
-redirect: "/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scottish Heritage USA (SHUSA)](/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/).
+This is the **Scottish Heritage USA (SHUSA)** sett — one scale-free proportion (`g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3`), colour order pattern
+[GRGKGWWRWWGKGRGRGKGWWRWWGKGR](/stripes/grgkgwwrwwgkgrgrgkgwwrwwgkgr/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scottish Heritage USA (SHUSA)](/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/) ★ | 2000 | ![Scottish Heritage USA (SHUSA) sett](/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/sett.png) |

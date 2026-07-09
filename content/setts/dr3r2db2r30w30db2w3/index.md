@@ -1,5 +1,12 @@
 ---
 title: "Torridon, Cherry (Dance)"
-redirect: "/variants/s7/dr3r2db2r30w30db2w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Torridon, Cherry (Dance)](/variants/s7/dr3r2db2r30w30db2w3~x2/).
+This is the **Torridon, Cherry (Dance)** sett — one scale-free proportion (`dr3r2db2r30w30db2w3`), colour order pattern
+[BRBRWBW](/stripes/brbrwbw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Torridon, Cherry (Dance)](/variants/s7/dr3r2db2r30w30db2w3~x2/) ★ | 2008 | ![Torridon, Cherry (Dance) sett](/variants/s7/dr3r2db2r30w30db2w3~x2/sett.png) |

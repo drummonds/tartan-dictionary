@@ -1,5 +1,12 @@
 ---
 title: "Kirkcaldy Tartan Army"
-redirect: "/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kirkcaldy Tartan Army](/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/).
+This is the **Kirkcaldy Tartan Army** sett — one scale-free proportion (`dt36r3dt1r2dt3r6db1r2db35w1db1ly2`), colour order pattern
+[BRBRBRBRBWBYBWBRBRBRBR](/stripes/brbrbrbrbwbybwbrbrbrbr/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kirkcaldy Tartan Army](/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/) ★ | 2006 | ![Kirkcaldy Tartan Army sett](/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/sett.png) |

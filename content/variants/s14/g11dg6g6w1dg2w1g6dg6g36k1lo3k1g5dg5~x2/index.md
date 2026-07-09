@@ -1,14 +1,16 @@
 ---
 title: "Wexford Irish County Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wexford Irish County Tartan"
-  url: ""
+  url: "/setts/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5/)
-(the same proportion at any scale), whose colour order is pattern [GGGWGWGGGKYKGG](/stripes/gggwgwgggkykgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGWGWGGGKYKGG](/stripes/gggwgwgggkykgg/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1995 One of a series of Irish District tartans designed by 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1995 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/"><circle cx="418.8" cy="85.6" r="4" fill="#3465a4"><title>Wexford, County</title></circle></a><a href="/variants/s10/y1k1g1dg30k1dg2k2dg1g10w1~x2~g2408144-dg1806142/"><circle cx="416.8" cy="93.3" r="4" fill="#3465a4"><title>Celtic F.C. Corporate Tartan</title></circle></a><a href="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/"><circle cx="480.2" cy="110.1" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/"><circle cx="391.5" cy="78.3" r="4" fill="#3465a4"><title>Chapman-Smith, M &amp; L (Personal)</title></circle></a><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/"><circle cx="382.2" cy="67.4" r="4" fill="#3465a4"><title>Murphy and his Gang (Phoenix Arizona) (Personal)</title></circle></a><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><circle cx="382.0" cy="74.0" r="4" fill="#3465a4"><title>Irish National</title></circle></a><a href="/variants/s14/g3y1g3r1g14k2g3k1g3b1g2b1g2b3~x4/"><circle cx="399.7" cy="129.2" r="4" fill="#3465a4"><title>New South Wales</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.4" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/"><circle cx="525.8" cy="125.5" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><a href="/variants/s14/g64k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="375.0" cy="58.3" r="4" fill="#3465a4"><title>MacFarlane, hunting</title></circle></a><circle cx="434.6" cy="89.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/"><circle cx="418.8" cy="85.4" r="4" fill="#3465a4"><title>Wexford, County</title></circle></a><a href="/variants/s10/y1k1g1dg30k1dg2k2dg1g10w1~x2~g2408144-dg1806142/"><circle cx="416.8" cy="93.2" r="4" fill="#3465a4"><title>Celtic F.C. Corporate Tartan</title></circle></a><a href="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/"><circle cx="480.2" cy="110.0" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/"><circle cx="391.5" cy="78.1" r="4" fill="#3465a4"><title>Chapman-Smith, M &amp; L (Personal)</title></circle></a><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/"><circle cx="382.2" cy="67.2" r="4" fill="#3465a4"><title>Murphy and his Gang (Phoenix Arizona) (Personal)</title></circle></a><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><circle cx="382.0" cy="73.8" r="4" fill="#3465a4"><title>Irish National</title></circle></a><a href="/variants/s14/g3y1g3r1g14k2g3k1g3b1g2b1g2b3~x4/"><circle cx="399.7" cy="129.1" r="4" fill="#3465a4"><title>New South Wales</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.2" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/"><circle cx="525.8" cy="125.4" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><a href="/variants/s14/g64k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="375.0" cy="58.1" r="4" fill="#3465a4"><title>MacFarlane, hunting</title></circle></a><circle cx="434.6" cy="89.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/

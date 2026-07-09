@@ -1,14 +1,16 @@
 ---
 title: "Nicolson of the Isles (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Nicolson of the Isles (Personal)"
-  url: ""
+  url: "/setts/y2r4db4lb35g5r12w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2r4db4lb35g5r12w2/)
-(the same proportion at any scale), whose colour order is pattern [GRBWGRW](/stripes/grbwgrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y2r4db4lb35g5r12w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRBWGRW](/stripes/grbwgrw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><circle cx="368.8" cy="115.8" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.4" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.9" cy="141.0" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.5" cy="215.1" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><circle cx="237.9" cy="178.5" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="213.0" cy="131.9" r="4" fill="#3465a4"><title>Manx National #2</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.5" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.9" cy="172.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s6/g2db1r29t29db1lo2~x2/"><circle cx="348.0" cy="132.2" r="4" fill="#3465a4"><title>Reagan Clan Tartan</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.8" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><circle cx="301.9" cy="135.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><circle cx="368.8" cy="115.7" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.3" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.9" cy="141.0" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.5" cy="215.1" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><circle cx="238.0" cy="178.4" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="213.0" cy="131.8" r="4" fill="#3465a4"><title>Manx National #2</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.4" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.9" cy="172.4" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s6/g2db1r29t29db1lo2~x2/"><circle cx="348.0" cy="132.1" r="4" fill="#3465a4"><title>Reagan Clan Tartan</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.7" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><circle cx="301.9" cy="134.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y2r4db4lb35g5r12w2~x2/

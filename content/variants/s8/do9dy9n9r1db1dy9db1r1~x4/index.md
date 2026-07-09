@@ -1,6 +1,7 @@
 ---
 title: "Jardine of Castlemilk Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Jardine of Castlemilk"
   url: "/tartans/jardine-of-castlemilk/"
 - name: "Jardine of Castlemilk Family Tartan"
-  url: ""
+  url: "/setts/do9dy9n9r1db1dy9db1r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do9dy9n9r1db1dy9db1r1/)
-(the same proportion at any scale), whose colour order is pattern [BGBRBGBR](/stripes/bgbrbgbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/do9dy9n9r1db1dy9db1r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBRBGBR](/stripes/bgbrbgbr/).
 
 Part of the [Jardine of Castlemilk](/tartans/jardine-of-castlemilk/) tartan — the named design grouping this sett with its other cloths.
 
@@ -31,7 +33,7 @@ Earliest known date: c.1978 The chiefly house is Jardine of Applegirth, a barone
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>c.1978 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.8" cy="235.4" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><a href="/variants/s9/r2do15dg12do2dt12do2dg12do15ly2~x4~dt0803284/"><circle cx="359.0" cy="266.3" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/"><circle cx="341.3" cy="260.0" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><circle cx="434.6" cy="238.6" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.2" cy="270.3" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><a href="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/"><circle cx="424.4" cy="240.3" r="4" fill="#3465a4"><title>Annan (Fashion)</title></circle></a><a href="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/"><circle cx="374.5" cy="273.1" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/"><circle cx="325.5" cy="265.1" r="4" fill="#3465a4"><title>Lady Boys of Bangkok (Corporate)</title></circle></a><a href="/variants/s9/do6lg3do18dy2do2dy10g28dr2g4~x2~lg3002138-g1903114/"><circle cx="396.5" cy="224.8" r="4" fill="#3465a4"><title>Scottish Crofting Foundation</title></circle></a><a href="/variants/s8/do24g2do5oi14g2oi5o17do2~x2~oi2104058-o2102055/"><circle cx="371.8" cy="236.6" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><circle cx="380.4" cy="258.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.8" cy="235.3" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><a href="/variants/s9/r2do15dg12do2dt12do2dg12do15ly2~x4~dt0803284/"><circle cx="359.0" cy="266.2" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/"><circle cx="341.4" cy="259.9" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><circle cx="434.7" cy="238.5" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.2" cy="270.2" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><a href="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/"><circle cx="424.5" cy="240.2" r="4" fill="#3465a4"><title>Annan (Fashion)</title></circle></a><a href="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/"><circle cx="374.5" cy="273.0" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/"><circle cx="325.5" cy="265.1" r="4" fill="#3465a4"><title>Lady Boys of Bangkok (Corporate)</title></circle></a><a href="/variants/s9/do6lg3do18dy2do2dy10g28dr2g4~x2~lg3002138-g1903114/"><circle cx="396.5" cy="224.7" r="4" fill="#3465a4"><title>Scottish Crofting Foundation</title></circle></a><a href="/variants/s8/do24g2do5oi14g2oi5o17do2~x2~oi2104058-o2102055/"><circle cx="371.9" cy="236.5" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><circle cx="380.4" cy="258.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/do9dy9n9r1db1dy9db1r1~x4/

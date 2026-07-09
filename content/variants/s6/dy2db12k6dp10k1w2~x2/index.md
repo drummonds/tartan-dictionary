@@ -1,14 +1,16 @@
 ---
 title: "Soroptimist International Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Soroptimist International Corporate Tartan"
-  url: ""
+  url: "/setts/dy2db12k6dp10k1w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy2db12k6dp10k1w2/)
-(the same proportion at any scale), whose colour order is pattern [GBKBKW](/stripes/gbkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dy2db12k6dp10k1w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBKW](/stripes/gbkbkw/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2002 Non-repeating sett. Launched at the Federation of Grea
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="207.5" cy="217.2" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.6" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s7/r4dp1r1dp12k6db16w1~x2/"><circle cx="213.8" cy="158.6" r="4" fill="#3465a4"><title>First (Corporate)</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="133.9" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.8" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.3" cy="199.0" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/"><circle cx="164.0" cy="154.1" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="189.4" cy="160.9" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="146.5" cy="191.9" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="148.5" cy="205.4" r="4" fill="#3465a4"><title>Newmill</title></circle></a><circle cx="170.6" cy="189.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="207.5" cy="217.2" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.5" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s7/r4dp1r1dp12k6db16w1~x2/"><circle cx="213.8" cy="158.5" r="4" fill="#3465a4"><title>First (Corporate)</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="134.0" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.7" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.3" cy="198.9" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/"><circle cx="164.1" cy="154.0" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="189.4" cy="160.8" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="146.5" cy="191.8" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="148.5" cy="205.3" r="4" fill="#3465a4"><title>Newmill</title></circle></a><circle cx="170.6" cy="188.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy2db12k6dp10k1w2~x2/

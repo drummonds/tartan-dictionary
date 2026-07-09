@@ -17,7 +17,7 @@ A family of [Clan Burnett](/clan/burnett/).
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r92db10r8w3r8g4r8lo3/"><img src="/variants/s8/r92db10r8w3r8g4r8lo3~x2/sett.png" alt="Burnett of Leys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/dr75db6dr6w2dr6g2dr6lo2/">(Clan)</a></td><td><code>DR/150 DB12 DR12 W4 DR12 G4 DR12 LO/4</code></td><td>266</td><td>1838</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/dr75db6dr6w2dr6g2dr6lo2/"><img src="/variants/s8/dr75db6dr6w2dr6g2dr6lo2~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r60db5r5w2r5g2r5y2/">Burnett, of Leys</a></td><td><code>R/120 DB10 R10 W4 R10 G4 R10 Y/4</code></td><td>220</td><td>—</td></tr>
+<tr><td><a href="/setts/r60db5r5w2r5g2r5y2/">Burnett, of Leys</a></td><td><code>R/120 DB10 R10 W4 R10 G4 R10 Y/4</code></td><td>220</td><td>1938</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r60db5r5w2r5g2r5y2/"><img src="/variants/s8/r60db5r5w2r5g2r5y2~x2/sett.png" alt="Burnett, of Leys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

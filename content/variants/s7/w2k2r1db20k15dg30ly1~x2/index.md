@@ -1,14 +1,16 @@
 ---
 title: "Muir-Hill (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Muir-Hill (Personal)"
-  url: ""
+  url: "/setts/w2k2r1db20k15dg30ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k2r1db20k15dg30ly1/)
-(the same proportion at any scale), whose colour order is pattern [WKRBKGY](/stripes/wkrbkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w2k2r1db20k15dg30ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKRBKGY](/stripes/wkrbkgy/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6db32k18g28k1lb2~x2/"><circle cx="179.6" cy="140.6" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><a href="/variants/s7/y2k6g33k33db33r3w2~x2/"><circle cx="133.9" cy="138.0" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.1" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.4" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><circle cx="163.6" cy="133.2" r="4" fill="#3465a4"><title>Thomas, baron of Craigie, Robert (Personal)</title></circle></a><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/"><circle cx="201.4" cy="123.1" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.3" cy="125.1" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="270.0" cy="110.1" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire District Tartan</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.5" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s9/dg22lo2dg4dp3dg4k20db20k1w3~x2/"><circle cx="172.8" cy="122.0" r="4" fill="#3465a4"><title>National Wedding (Fashion)</title></circle></a><circle cx="224.7" cy="113.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6db32k18g28k1lb2~x2/"><circle cx="179.7" cy="140.5" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><a href="/variants/s7/y2k6g33k33db33r3w2~x2/"><circle cx="133.9" cy="137.9" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.0" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.3" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><circle cx="163.6" cy="133.1" r="4" fill="#3465a4"><title>Thomas, baron of Craigie, Robert (Personal)</title></circle></a><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/"><circle cx="201.5" cy="122.9" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.4" cy="125.0" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="270.1" cy="110.0" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire District Tartan</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.6" cy="167.2" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s9/dg22lo2dg4dp3dg4k20db20k1w3~x2/"><circle cx="172.8" cy="121.8" r="4" fill="#3465a4"><title>National Wedding (Fashion)</title></circle></a><circle cx="224.7" cy="113.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w2k2r1db20k15dg30ly1~x2/

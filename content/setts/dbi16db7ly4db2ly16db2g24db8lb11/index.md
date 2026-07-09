@@ -1,5 +1,12 @@
 ---
 title: "Wicklow County Crest (Fashion)"
-redirect: "/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wicklow County Crest (Fashion)](/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/).
+This is the **Wicklow County Crest (Fashion)** sett — one scale-free proportion (`dbi16db7ly4db2ly16db2g24db8lb11`), colour order pattern
+[BBYBYBGBW](/stripes/bbybybgbw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wicklow County Crest (Fashion)](/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/) ★ | 2004 | ![Wicklow County Crest (Fashion) sett](/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png) |

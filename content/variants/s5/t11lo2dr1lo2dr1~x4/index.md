@@ -1,14 +1,16 @@
 ---
 title: "Carlisle Ancient"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Carlisle Ancient"
-  url: ""
+  url: "/setts/t11lo2dr1lo2dr1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t11lo2dr1lo2dr1/)
-(the same proportion at any scale), whose colour order is pattern [BYBYB](/stripes/bybyb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/t11lo2dr1lo2dr1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBYB](/stripes/bybyb/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lr15do6lr1do3ly3lr1~x4/"><circle cx="405.8" cy="219.7" r="4" fill="#3465a4"><title>Burns (Fashion)</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.2" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="400.2" cy="247.1" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/variants/s5/lb37t9lb3db9w3~x2/"><circle cx="441.9" cy="235.9" r="4" fill="#3465a4"><title>Loch Lomond Trade Tartan</title></circle></a><circle cx="464.9" cy="247.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lr15do6lr1do3ly3lr1~x4/"><circle cx="405.8" cy="219.7" r="4" fill="#3465a4"><title>Burns (Fashion)</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.1" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="400.2" cy="247.1" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/variants/s5/lb37t9lb3db9w3~x2/"><circle cx="441.9" cy="235.8" r="4" fill="#3465a4"><title>Loch Lomond Trade Tartan</title></circle></a><circle cx="464.9" cy="247.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/t11lo2dr1lo2dr1~x4/

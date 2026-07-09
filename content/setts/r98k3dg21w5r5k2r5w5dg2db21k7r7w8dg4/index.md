@@ -2,15 +2,15 @@
 title: "MacFarlane Red"
 date: 2023-03-18
 ---
-The **MacFarlane Red** tartan is one sett proportion (`r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/); each scale below is its own sett page. First attested **1819**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacFarlane Red** sett — one scale-free proportion (`r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4`), colour order pattern
+[GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1819**.
 
-Part of the [MacFarlane](/tartans/macfarlane/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacFarlane](/tartans/macfarlane/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [MacFarlane Red (Clan)](/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4/) ★ | 1819 | ![MacFarlane Red (Clan) sett](/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4/sett.png) |
 | ×1 | [MacFarlane Red](/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/) | 1819 | ![MacFarlane Red sett](/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Unidentified Sett"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Sett"
-  url: ""
+  url: "/setts/lr2dy1r10ly12dy10lr6r10dy1lr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr2dy1r10ly12dy10lr6r10dy1lr2/)
-(the same proportion at any scale), whose colour order is pattern [YGRYGYRGY](/stripes/ygrygyrgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lr2dy1r10ly12dy10lr6r10dy1lr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YGRYGYRGY](/stripes/ygrygyrgy/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/"><circle cx="228.7" cy="213.6" r="4" fill="#3465a4"><title>St Andrews</title></circle></a><a href="/variants/s8/dy24g2dy5r14g2r5lo17dy2~x2/"><circle cx="244.0" cy="186.8" r="4" fill="#3465a4"><title>Loch Rannoch #2</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><circle cx="196.8" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/"><circle cx="211.6" cy="207.8" r="4" fill="#3465a4"><title>Highland Village</title></circle></a><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="258.1" cy="209.7" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s6/dr24n5o9n2o9w9~x4/"><circle cx="222.4" cy="215.7" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/variants/s8/dr4w2dr1w18dr18r18ri3r4~x2~r1807033-ri2109032/"><circle cx="189.6" cy="162.4" r="4" fill="#3465a4"><title>Gigha, Cherry (Dance)</title></circle></a><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><circle cx="209.6" cy="195.2" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.9" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><circle cx="198.8" cy="200.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/"><circle cx="228.7" cy="213.6" r="4" fill="#3465a4"><title>St Andrews</title></circle></a><a href="/variants/s8/dy24g2dy5r14g2r5lo17dy2~x2/"><circle cx="244.0" cy="186.8" r="4" fill="#3465a4"><title>Loch Rannoch #2</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><circle cx="196.8" cy="170.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/"><circle cx="211.6" cy="207.7" r="4" fill="#3465a4"><title>Highland Village</title></circle></a><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="258.1" cy="209.6" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s6/dr24n5o9n2o9w9~x4/"><circle cx="222.4" cy="215.7" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/variants/s8/dr4w2dr1w18dr18r18ri3r4~x2~r1807033-ri2109032/"><circle cx="189.6" cy="162.3" r="4" fill="#3465a4"><title>Gigha, Cherry (Dance)</title></circle></a><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><circle cx="209.6" cy="195.1" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.8" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><circle cx="198.8" cy="200.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lr2dy1r10ly12dy10lr6r10dy1lr2~x2/

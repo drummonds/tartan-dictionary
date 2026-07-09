@@ -1,16 +1,18 @@
 ---
 title: "Kenspeckle"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kenspeckle"
   url: "/tartans/kenspeckle/"
 - name: "Kenspeckle"
-  url: ""
+  url: "/setts/dg50r1dr20k2w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg50r1dr20k2w1/)
-(the same proportion at any scale), whose colour order is pattern [GRBKW](/stripes/grbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg50r1dr20k2w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRBKW](/stripes/grbkw/).
 
 Part of the [Kenspeckle](/tartans/kenspeckle/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g50r1dr20k2w1~x2/"><circle cx="435.8" cy="112.9" r="4" fill="#3465a4"><title>Kenspeckle (Corporate)</title></circle></a><a href="/variants/s6/dg60w11dr5t5k1ly4~x2/"><circle cx="385.8" cy="70.1" r="4" fill="#3465a4"><title>Christie Hunting (London) (Personal)</title></circle></a><a href="/variants/s6/g53w1r20k1w2r7~x2/"><circle cx="423.6" cy="110.7" r="4" fill="#3465a4"><title>Masai Shuka 10 (Artefact)</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.3" cy="94.9" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.7" cy="49.9" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="392.6" cy="106.0" r="4" fill="#3465a4"><title>Jack (Personal)</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="374.0" cy="128.5" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.5" cy="121.4" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.7" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><circle cx="413.5" cy="166.9" r="4" fill="#3465a4"><title>Nolan Family, John J (Personal)</title></circle></a><circle cx="477.0" cy="124.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g50r1dr20k2w1~x2/"><circle cx="435.8" cy="112.8" r="4" fill="#3465a4"><title>Kenspeckle (Corporate)</title></circle></a><a href="/variants/s6/dg60w11dr5t5k1ly4~x2/"><circle cx="385.8" cy="69.9" r="4" fill="#3465a4"><title>Christie Hunting (London) (Personal)</title></circle></a><a href="/variants/s6/g53w1r20k1w2r7~x2/"><circle cx="423.6" cy="110.6" r="4" fill="#3465a4"><title>Masai Shuka 10 (Artefact)</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.3" cy="94.8" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.8" cy="49.8" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="392.7" cy="105.8" r="4" fill="#3465a4"><title>Jack (Personal)</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="374.0" cy="128.4" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.5" cy="121.3" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.7" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><circle cx="413.5" cy="166.8" r="4" fill="#3465a4"><title>Nolan Family, John J (Personal)</title></circle></a><circle cx="477.0" cy="124.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dg50r1dr20k2w1~x2~dg1806142/

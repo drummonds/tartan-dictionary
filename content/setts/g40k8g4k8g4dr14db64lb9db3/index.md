@@ -1,5 +1,12 @@
 ---
 title: "West Lothian"
-redirect: "/variants/s9/g40k8g4k8g4dr14db64lb9db3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [West Lothian](/variants/s9/g40k8g4k8g4dr14db64lb9db3/).
+This is the **West Lothian** sett — one scale-free proportion (`g40k8g4k8g4dr14db64lb9db3`), colour order pattern
+[BWBBGKGKG](/stripes/bwbbgkgkg/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [West Lothian](/variants/s9/g40k8g4k8g4dr14db64lb9db3/) ★ | 1998 | ![West Lothian sett](/variants/s9/g40k8g4k8g4dr14db64lb9db3/sett.png) |

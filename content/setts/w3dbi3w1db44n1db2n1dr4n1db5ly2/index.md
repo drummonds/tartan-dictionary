@@ -1,5 +1,12 @@
 ---
 title: "Jewish (Kosher) (Corporate)"
-redirect: "/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Jewish (Kosher) (Corporate)](/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/).
+This is the **Jewish (Kosher) (Corporate)** sett — one scale-free proportion (`w3dbi3w1db44n1db2n1dr4n1db5ly2`), colour order pattern
+[WBWBBBBBBBY](/stripes/wbwbbbbbbby/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Jewish (Kosher) (Corporate)](/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/) ★ | 2008 | ![Jewish (Kosher) (Corporate) sett](/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "Timmins (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Timmins"
   url: "/tartans/timmins/"
 - name: "Timmins (Personal)"
-  url: ""
+  url: "/setts/dr4db2dp14db12y1dbi32db12dbi14db2g4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4db2dp14db12y1dbi32db12dbi14db2g4/)
-(the same proportion at any scale), whose colour order is pattern [BBBBGBBBBG](/stripes/bbbbgbbbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr4db2dp14db12y1dbi32db12dbi14db2g4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBGBBBBG](/stripes/bbbbgbbbbg/).
 
 Part of the [Timmins](/tartans/timmins/) tartan — the named design grouping this sett with its other cloths.
 

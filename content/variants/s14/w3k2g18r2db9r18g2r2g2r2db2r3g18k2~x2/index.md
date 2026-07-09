@@ -1,16 +1,18 @@
 ---
 title: "MacGuire (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacGuire"
   url: "/tartans/macguire/"
 - name: "MacGuire (Name)"
-  url: ""
+  url: "/setts/w3k2g18r2db9r18g2r2g2r2db2r3g18k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3k2g18r2db9r18g2r2g2r2db2r3g18k2/)
-(the same proportion at any scale), whose colour order is pattern [KGRBRGRGRBRGKW](/stripes/kgrbrgrgrbrgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3k2g18r2db9r18g2r2g2r2db2r3g18k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGRBRGRGRBRGKW](/stripes/kgrbrgrgrbrgkw/).
 
 Part of the [MacGuire](/tartans/macguire/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="193.0" cy="138.4" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.5" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/"><circle cx="137.6" cy="146.5" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.1" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><circle cx="204.9" cy="148.8" r="4" fill="#3465a4"><title>Boyle Family, Susan (Personal)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.6" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.6" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><circle cx="222.4" cy="123.2" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="209.0" cy="131.7" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><circle cx="160.9" cy="139.8" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><circle cx="193.9" cy="137.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="193.0" cy="138.3" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.4" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/"><circle cx="137.6" cy="146.4" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><circle cx="204.9" cy="148.7" r="4" fill="#3465a4"><title>Boyle Family, Susan (Personal)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.5" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.5" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><circle cx="222.4" cy="123.1" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="209.0" cy="131.5" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><circle cx="160.9" cy="139.7" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><circle cx="193.9" cy="136.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/

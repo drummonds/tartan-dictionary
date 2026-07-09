@@ -1,5 +1,12 @@
 ---
 title: "Braemar House"
-redirect: "/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Braemar House](/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/).
+This is the **Braemar House** sett — one scale-free proportion (`dg3dy2g12y11lb1dg1ly3`), colour order pattern
+[GGGGWGY](/stripes/ggggwgy/). It is recorded as a single **variant**, below.
+First attested **1987**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Braemar House](/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/) ★ | 1987 | ![Braemar House sett](/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/sett.png) |

@@ -2,15 +2,15 @@
 title: "MacPherson Hunting"
 date: 2023-03-18
 ---
-The **MacPherson Hunting** tartan is one sett proportion (`db1r1k8r1db1r1n8r1db1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRBRBRKRB](/stripes/brbrbrkrb/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacPherson Hunting** sett — one scale-free proportion (`db1r1k8r1db1r1n8r1db1`), colour order pattern
+[BRBRBRKRB](/stripes/brbrbrkrb/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1850**.
 
-Part of the [MacPherson Hunting](/tartans/macpherson-hunting/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacPherson Hunting](/tartans/macpherson-hunting/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×2 | [MacPherson Hunting](/variants/s9/db1r1k8r1db1r1n8r1db1~x2/) ★ | ~2016 | ![MacPherson Hunting sett](/variants/s9/db1r1k8r1db1r1n8r1db1~x2/sett.png) |
-| ×4 | [MacPherson of Pitmain](/variants/s9/db1r1k8r1db1r1n8r1db1~x4/) | ~2016 | ![MacPherson of Pitmain sett](/variants/s9/db1r1k8r1db1r1n8r1db1~x4/sett.png) |
+| ×4 | [MacPherson Hunting Clan Tartan](/variants/s9/db1r1k8r1db1r1n8r1db1~x4/) ★ | 1850 | ![MacPherson Hunting Clan Tartan sett](/variants/s9/db1r1k8r1db1r1n8r1db1~x4/sett.png) |
+| ×2 | [MacPherson Hunting](/variants/s9/db1r1k8r1db1r1n8r1db1~x2/) | ~2016 | ![MacPherson Hunting sett](/variants/s9/db1r1k8r1db1r1n8r1db1~x2/sett.png) |

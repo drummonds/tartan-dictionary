@@ -1,5 +1,12 @@
 ---
-title: "Unidentified No 14"
-redirect: "/variants/s9/r22lb6db10y4r4w4g22db8y3/"
+title: "Unnamed No 14 Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified No 14](/variants/s9/r22lb6db10y4r4w4g22db8y3/).
+This is the **Unnamed No 14 Tartan** sett — one scale-free proportion (`r22lb6db10y4r4w4g22db8y3`), colour order pattern
+[GBGWRGBWR](/stripes/gbgwrgbwr/). It is recorded as a single **variant**, below.
+First attested **1870**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Unnamed No 14 Tartan](/variants/s9/r22lb6db10y4r4w4g22db8y3/) ★ | 1870 | ![Unnamed No 14 Tartan sett](/variants/s9/r22lb6db10y4r4w4g22db8y3/sett.png) |

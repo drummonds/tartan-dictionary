@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db6k1db1k1db1k6g6lb2g6k6db6k1db2/">Cheape of Torosay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db6k1db1k1db1k6g6lb2g6k6db6k1db2/"><img src="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/sett.png" alt="Cheape of Torosay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db6k1db1k1db1k6g6lb2g6k6db6k1db2/">Cheape Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db6k1db1k1db1k6g6lb2g6k6db6k1db2/"><img src="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/sett.png" alt="Cheape Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/db3k1db1k1db1k4g4w1g4k4db4k1db1/">Lamont</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/db3k1db1k1db1k4g4w1g4k4db4k1db1/"><img src="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/">Lamont #3</a></td></tr>

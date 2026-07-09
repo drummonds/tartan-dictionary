@@ -1,14 +1,16 @@
 ---
 title: "MacRae Hunting #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacRae Hunting #2"
-  url: ""
+  url: "/setts/dg14k2dg4r2dg4k14dp15k1w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg14k2dg4r2dg4k14dp15k1w3/)
-(the same proportion at any scale), whose colour order is pattern [GKGRGKBKW](/stripes/gkgrgkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg14k2dg4r2dg4k14dp15k1w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGRGKBKW](/stripes/gkgrgkbkw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.6" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="155.4" cy="150.1" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="156.1" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.7" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.9" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.9" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="184.1" cy="150.4" r="4" fill="#3465a4"><title>Bennett, John Paul Personal Tartan</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.9" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="153.9" cy="133.1" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.1" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><circle cx="166.9" cy="153.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.5" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="155.4" cy="150.0" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="156.0" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.6" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.8" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.7" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="184.2" cy="150.3" r="4" fill="#3465a4"><title>Bennett, John Paul Personal Tartan</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.8" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="154.0" cy="133.0" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.0" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><circle cx="166.9" cy="152.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/

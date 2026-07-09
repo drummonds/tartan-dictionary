@@ -1,5 +1,14 @@
 ---
 title: "MacLaine of Lochbuie"
-redirect: "/variants/s4/r32g8w4y1/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacLaine of Lochbuie](/variants/s4/r32g8w4y1/).
+This is the **MacLaine of Lochbuie** sett — one scale-free proportion (`r32g8w4y1`), colour order pattern
+[GWGR](/stripes/gwgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+Part of the [MacLaine of Lochbuie](/tartans/maclaine-of-lochbuie/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [MacLaine of Lochbuie](/variants/s4/r32g8w4y1/) ★ | ~2016 | ![MacLaine of Lochbuie sett](/variants/s4/r32g8w4y1/sett.png) |

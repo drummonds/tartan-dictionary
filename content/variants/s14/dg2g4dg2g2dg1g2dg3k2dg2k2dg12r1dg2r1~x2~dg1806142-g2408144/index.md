@@ -1,6 +1,7 @@
 ---
 title: "Ross Hunting Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Ross Hunting"
   url: "/tartans/ross-hunting-2/"
 - name: "Ross Hunting Clan Tartan"
-  url: ""
+  url: "/setts/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1/)
-(the same proportion at any scale), whose colour order is pattern [GGGGGGGKGKGRGR](/stripes/gggggggkgkgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGGGGKGKGRGR](/stripes/gggggggkgkgrgr/).
 
 Part of the [Ross Hunting](/tartans/ross-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -29,7 +31,7 @@ Earliest known date: 1908 Adam shows the six light green stripes in his publicat
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1908 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/"><circle cx="367.3" cy="121.6" r="4" fill="#3465a4"><title>Ross Hunting #3</title></circle></a><a href="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/"><circle cx="334.9" cy="147.3" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s12/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2~x2~dg1806142-g2408144/"><circle cx="377.1" cy="140.6" r="4" fill="#3465a4"><title>Ross Hunting Clan Tartan</title></circle></a><a href="/variants/s14/g2b4g2b1g1b1g3k2g2k2g12r1g2r1~x2/"><circle cx="329.0" cy="145.0" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><circle cx="322.2" cy="120.7" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="181.2" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.8" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/"><circle cx="275.5" cy="146.0" r="4" fill="#3465a4"><title>Ulster Red (District)</title></circle></a><a href="/variants/s12/y4g24k3g2k3g24y20k3y2k3y20g4/"><circle cx="301.4" cy="188.2" r="4" fill="#3465a4"><title>Meredith of Wales</title></circle></a><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><circle cx="345.6" cy="101.1" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><circle cx="332.3" cy="161.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/"><circle cx="367.3" cy="121.4" r="4" fill="#3465a4"><title>Ross Hunting #3</title></circle></a><a href="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/"><circle cx="334.9" cy="147.2" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s12/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2~x2~dg1806142-g2408144/"><circle cx="377.1" cy="140.5" r="4" fill="#3465a4"><title>Ross Hunting Clan Tartan</title></circle></a><a href="/variants/s14/g2b4g2b1g1b1g3k2g2k2g12r1g2r1~x2/"><circle cx="329.0" cy="144.8" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><circle cx="322.2" cy="120.6" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="181.1" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.7" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/"><circle cx="275.5" cy="145.9" r="4" fill="#3465a4"><title>Ulster Red (District)</title></circle></a><a href="/variants/s12/y4g24k3g2k3g24y20k3y2k3y20g4/"><circle cx="301.4" cy="188.1" r="4" fill="#3465a4"><title>Meredith of Wales</title></circle></a><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><circle cx="345.6" cy="100.9" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><circle cx="332.3" cy="161.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/

@@ -3,8 +3,15 @@ title: 12 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 12
 ---
-1,010 setts across 959 tartans with 12 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,011 setts across 960 tartans with 12 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes12/p3/">‹ prev</a> <a href="/stripes/stripes12/">1</a> <a href="/stripes/stripes12/p2/">2</a> <a href="/stripes/stripes12/p3/">3</a> <strong>4</strong> </nav>
+
+### RBKYKWKGRKRW
+<a class="pat" href="/stripes/rbkykwkgrkrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBKYKWKGRKRW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Tilted Kilt (Corporate)](/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/) | tartans-authority |
 
 ### RBRBBBBBBBBW
 <a class="pat" href="/stripes/rbrbbbbbbbbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBRBBBBBBBBW</span></a>
@@ -81,7 +88,7 @@ weight: 12
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Mair (Personal)](/variants/s12/r23g3y1g3r2db18r2w1g3r2db2r23~x2/) | register-of-tartans |
+| 0.09 | [Mair Family Tartan](/variants/s12/r23g3y1g3r2db18r2w1g3r2db2r23~x2/) | house-of-tartan |
 
 ### RBRGWRBRGYGR
 <a class="pat" href="/stripes/rbrgwrbrgygr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRGWRBRGYGR</span></a>
@@ -578,7 +585,7 @@ weight: 12
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.03 | [Menzies Black Dress](/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/) | register-of-tartans |
+| 0.03 | [Menzies Black Dress Clan Tartan](/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/) | house-of-tartan |
 
 ### WKBKRKRKGKRW
 <a class="pat" href="/stripes/wkbkrkrkgkrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WKBKRKRKGKRW</span></a>

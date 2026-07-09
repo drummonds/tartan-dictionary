@@ -1,14 +1,16 @@
 ---
 title: "Connacht (1993)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Connacht (1993)"
-  url: ""
+  url: "/setts/o64g6o2g3o2g6o64do2o2do6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o64g6o2g3o2g6o64do2o2do6/)
-(the same proportion at any scale), whose colour order is pattern [BRBRGRGRGR](/stripes/brbrgrgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o64g6o2g3o2g6o64do2o2do6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRGRGRGR](/stripes/brbrgrgrgr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -1,5 +1,12 @@
 ---
 title: "Castle Fraser Check"
-redirect: "/variants/s3/dg20o1dg4~x3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Castle Fraser Check](/variants/s3/dg20o1dg4~x3/).
+This is the **Castle Fraser Check** sett — one scale-free proportion (`dg20o1dg4`), colour order pattern
+[GRG](/stripes/grg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×3 | [Castle Fraser Check](/variants/s3/dg20o1dg4~x3/) ★ | 2002 | ![Castle Fraser Check sett](/variants/s3/dg20o1dg4~x3/sett.png) |

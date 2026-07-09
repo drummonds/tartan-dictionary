@@ -1,14 +1,16 @@
 ---
 title: "Burke (Kennesaw), Kevin"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Burke (Kennesaw), Kevin"
-  url: ""
+  url: "/setts/k62r23k1y5k1r3k1y2k1r8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k62r23k1y5k1r3k1y2k1r8/)
-(the same proportion at any scale), whose colour order is pattern [KRKGKRKGKR](/stripes/krkgkrkgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k62r23k1y5k1r3k1y2k1r8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKGKRKGKR](/stripes/krkgkrkgkr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/"><circle cx="417.3" cy="74.3" r="4" fill="#3465a4"><title>Burke (Name)</title></circle></a><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><circle cx="431.1" cy="63.7" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/variants/s10/k40y1k1r9k1y1k6y1k1r9~x2/"><circle cx="432.2" cy="69.8" r="4" fill="#3465a4"><title>Miyuki, Check Ecru Beige, No 1001A</title></circle></a><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><circle cx="379.7" cy="74.3" r="4" fill="#3465a4"><title>Calgary, University of (Estimated Threadcount)</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="468.9" cy="99.4" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.0" cy="101.0" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.6" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="343.3" cy="115.0" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><circle cx="349.5" cy="35.4" r="4" fill="#3465a4"><title>Largs Dress (1972)</title></circle></a><a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/"><circle cx="380.5" cy="91.0" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><circle cx="388.1" cy="58.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/"><circle cx="417.3" cy="74.1" r="4" fill="#3465a4"><title>Burke (Name)</title></circle></a><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><circle cx="431.1" cy="63.5" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/variants/s10/k40y1k1r9k1y1k6y1k1r9~x2/"><circle cx="432.2" cy="69.6" r="4" fill="#3465a4"><title>Miyuki, Check Ecru Beige, No 1001A</title></circle></a><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><circle cx="379.7" cy="74.1" r="4" fill="#3465a4"><title>Calgary, University of (Estimated Threadcount)</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="468.9" cy="99.3" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.0" cy="100.9" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.5" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="343.3" cy="114.9" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><circle cx="349.5" cy="35.2" r="4" fill="#3465a4"><title>Largs Dress (1972)</title></circle></a><a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/"><circle cx="380.5" cy="90.8" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><circle cx="388.1" cy="58.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k62r23k1y5k1r3k1y2k1r8~x2/

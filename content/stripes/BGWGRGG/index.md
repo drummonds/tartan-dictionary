@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/">Devon, Original</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/"><img src="/variants/s7/n5g4w1g4o4dg4y1~x4/sett.png" alt="Devon, Original sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/">Devon Original District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/"><img src="/variants/s7/n5g4w1g4o4dg4y1~x4/sett.png" alt="Devon Original District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

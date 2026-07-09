@@ -1,5 +1,12 @@
 ---
 title: "Miller"
-redirect: "/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Miller](/variants/s8/dr2db6g15t9db30t9g6lo2~x2/).
+This is the **Miller** sett — one scale-free proportion (`dr2db6g15t9db30t9g6lo2`), colour order pattern
+[BBGBBBGY](/stripes/bbgbbbgy/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Miller](/variants/s8/dr2db6g15t9db30t9g6lo2~x2/) ★ | 1998 | ![Miller sett](/variants/s8/dr2db6g15t9db30t9g6lo2~x2/sett.png) |

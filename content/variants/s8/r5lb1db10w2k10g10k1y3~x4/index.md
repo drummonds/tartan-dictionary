@@ -1,14 +1,16 @@
 ---
 title: "Culloden 1746 - Original"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Culloden 1746 - Original"
   url: "/setts/r5lb1db10w2k10g10k1y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5lb1db10w2k10g10k1y3/)
-(the same proportion at any scale), whose colour order is pattern [GKGKWBWR](/stripes/gkgkwbwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r5lb1db10w2k10g10k1y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKWBWR](/stripes/gkgkwbwr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/"><circle cx="26.6" cy="129.0" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan</title></circle></a><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><circle cx="21.8" cy="159.0" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/variants/s7/r5lb2b16k13dy13k2w3~x2/"><circle cx="60.5" cy="176.9" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="81.9" cy="169.3" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/"><circle cx="45.6" cy="189.8" r="4" fill="#3465a4"><title>Hebridean Celebration</title></circle></a><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><circle cx="65.2" cy="148.8" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.7" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="72.3" cy="169.4" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.3" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.6" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><circle cx="23.5" cy="151.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/"><circle cx="26.7" cy="128.8" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan</title></circle></a><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><circle cx="21.8" cy="158.9" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/variants/s7/r5lb2b16k13dy13k2w3~x2/"><circle cx="60.5" cy="176.8" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="81.9" cy="169.2" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/"><circle cx="45.6" cy="189.8" r="4" fill="#3465a4"><title>Hebridean Celebration</title></circle></a><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><circle cx="65.2" cy="148.7" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.6" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="72.4" cy="169.3" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.2" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.5" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><circle cx="23.5" cy="151.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r5lb1db10w2k10g10k1y3~x4/

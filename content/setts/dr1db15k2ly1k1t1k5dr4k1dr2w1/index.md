@@ -1,5 +1,12 @@
 ---
 title: "Glen Stewart"
-redirect: "/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glen Stewart](/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/).
+This is the **Glen Stewart** sett — one scale-free proportion (`dr1db15k2ly1k1t1k5dr4k1dr2w1`), colour order pattern
+[BBKYKBKBKBW](/stripes/bbkykbkbkbw/). It is recorded as a single **variant**, below.
+First attested **1985**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Glen Stewart](/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/) ★ | 1985 | ![Glen Stewart sett](/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/sett.png) |

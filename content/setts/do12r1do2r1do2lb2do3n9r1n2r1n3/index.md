@@ -1,5 +1,12 @@
 ---
 title: "Shieldhall (Fashion)"
-redirect: "/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Shieldhall (Fashion)](/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/).
+This is the **Shieldhall (Fashion)** sett — one scale-free proportion (`do12r1do2r1do2lb2do3n9r1n2r1n3`), colour order pattern
+[BRBRBBWBRBRB](/stripes/brbrbbwbrbrb/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Shieldhall (Fashion)](/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/) ★ | ~2002 | ![Shieldhall (Fashion) sett](/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/sett.png) |

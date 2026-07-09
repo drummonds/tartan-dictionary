@@ -1,14 +1,16 @@
 ---
 title: "Hannah (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hannah (Personal)"
-  url: ""
+  url: "/setts/y2k9w3k9db35w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2k9w3k9db35w2/)
-(the same proportion at any scale), whose colour order is pattern [GKWKBW](/stripes/gkwkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y2k9w3k9db35w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWKBW](/stripes/gkwkbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="266.2" cy="114.9" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1lo1~x4/"><circle cx="267.6" cy="117.0" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.5" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s6/y8w3db40k12w3y3~x2/"><circle cx="290.3" cy="159.6" r="4" fill="#3465a4"><title>Wolverine (Corporate)</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.4" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="330.9" cy="108.1" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.8" cy="149.2" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.7" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="323.6" cy="152.6" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.5" cy="151.4" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><circle cx="311.3" cy="146.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="266.3" cy="114.8" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1lo1~x4/"><circle cx="267.6" cy="116.8" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.7" cy="195.4" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s6/y8w3db40k12w3y3~x2/"><circle cx="290.4" cy="159.6" r="4" fill="#3465a4"><title>Wolverine (Corporate)</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.2" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="330.9" cy="107.9" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.9" cy="149.1" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.6" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="323.6" cy="152.5" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.6" cy="151.3" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><circle cx="311.3" cy="146.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y2k9w3k9db35w2~x2/

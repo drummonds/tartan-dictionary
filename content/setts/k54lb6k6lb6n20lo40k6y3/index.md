@@ -1,5 +1,12 @@
 ---
 title: "Clyde Valley HOG"
-redirect: "/variants/s8/k54lb6k6lb6n20lo40k6y3/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Clyde Valley HOG](/variants/s8/k54lb6k6lb6n20lo40k6y3/).
+This is the **Clyde Valley HOG** sett — one scale-free proportion (`k54lb6k6lb6n20lo40k6y3`), colour order pattern
+[GKYBWKWK](/stripes/gkybwkwk/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Clyde Valley HOG](/variants/s8/k54lb6k6lb6n20lo40k6y3/) ★ | 2007 | ![Clyde Valley HOG sett](/variants/s8/k54lb6k6lb6n20lo40k6y3/sett.png) |

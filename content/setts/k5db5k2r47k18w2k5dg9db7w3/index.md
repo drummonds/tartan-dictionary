@@ -1,5 +1,12 @@
 ---
 title: "Rikaco Holiday"
-redirect: "/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rikaco Holiday](/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/).
+This is the **Rikaco Holiday** sett — one scale-free proportion (`k5db5k2r47k18w2k5dg9db7w3`), colour order pattern
+[KBKRKWKGBW](/stripes/kbkrkwkgbw/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Rikaco Holiday](/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/) ★ | 2012 | ![Rikaco Holiday sett](/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Sekai Fushigi Hakken"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sekai Fushigi Hakken"
-  url: ""
+  url: "/setts/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3/)
-(the same proportion at any scale), whose colour order is pattern [BGRWRWGWRGBWGWRW](/stripes/bgrwrwgwrgbwgwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRWRWGWRGBWGWRW](/stripes/bgrwrwgwrgbwgwrw/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/"><circle cx="417.5" cy="114.3" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/variants/s12/w46n4w9k8w9r4w9dy2w2dy2w2dy2~x2/"><circle cx="413.0" cy="81.3" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10dr4w2dr8w2~x2/"><circle cx="405.6" cy="111.8" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/variants/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6lb3~x2/"><circle cx="437.1" cy="73.2" r="4" fill="#3465a4"><title>Shaw Dress (Personal)</title></circle></a><circle cx="430.6" cy="115.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/"><circle cx="417.5" cy="114.1" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/variants/s12/w46n4w9k8w9r4w9dy2w2dy2w2dy2~x2/"><circle cx="413.0" cy="81.1" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10dr4w2dr8w2~x2/"><circle cx="405.6" cy="111.7" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/variants/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6lb3~x2/"><circle cx="437.1" cy="73.0" r="4" fill="#3465a4"><title>Shaw Dress (Personal)</title></circle></a><circle cx="430.6" cy="115.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri2806019-r2108022/

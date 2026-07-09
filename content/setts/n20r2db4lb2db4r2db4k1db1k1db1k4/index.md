@@ -1,5 +1,12 @@
 ---
 title: "Broz Sanz Elementary School"
-redirect: "/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Broz Sanz Elementary School](/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/).
+This is the **Broz Sanz Elementary School** sett — one scale-free proportion (`n20r2db4lb2db4r2db4k1db1k1db1k4`), colour order pattern
+[BRBWBRBKBKBK](/stripes/brbwbrbkbkbk/). It is recorded as a single **variant**, below.
+First attested **1945**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Broz Sanz Elementary School](/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/) ★ | 1945 | ![Broz Sanz Elementary School sett](/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/sett.png) |

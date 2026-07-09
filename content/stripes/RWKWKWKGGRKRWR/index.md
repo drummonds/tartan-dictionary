@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/">Caledonia - 1819 (Wilsons') No.155</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><img src="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/sett.png" alt="Caledonia - 1819 (Wilsons') No.155 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/">Caledonia No 155</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/sett.png" alt="Caledonia No 155 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/">Caledonia No 155 District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/sett.png" alt="Caledonia No 155 District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

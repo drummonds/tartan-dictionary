@@ -1,5 +1,12 @@
 ---
 title: "Instakilt, Green (Fashion)"
-redirect: "/variants/s7/g8w4g50k12g4k15ly5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Instakilt, Green (Fashion)](/variants/s7/g8w4g50k12g4k15ly5~x2/).
+This is the **Instakilt, Green (Fashion)** sett — one scale-free proportion (`g8w4g50k12g4k15ly5`), colour order pattern
+[GWGKGKY](/stripes/gwgkgky/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Instakilt, Green (Fashion)](/variants/s7/g8w4g50k12g4k15ly5~x2/) ★ | 2008 | ![Instakilt, Green (Fashion) sett](/variants/s7/g8w4g50k12g4k15ly5~x2/sett.png) |

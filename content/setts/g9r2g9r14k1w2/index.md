@@ -1,16 +1,16 @@
 ---
-title: "MacGregor of Balquidder (Logan)"
+title: "MacGregor of Balquhidder Clan Tartan"
 date: 2023-03-18
 ---
-The **MacGregor of Balquidder (Logan)** tartan is one sett proportion (`g9r2g9r14k1w2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GRGRKW](/stripes/grgrkw/); each scale below is its own sett page. First attested **1831**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacGregor of Balquhidder Clan Tartan** sett — one scale-free proportion (`g9r2g9r14k1w2`), colour order pattern
+[GRGRKW](/stripes/grgrkw/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1831**.
 
-Part of the [MacGregor of Balquhidder](/tartans/macgregor-of-balquhidder/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacGregor of Balquhidder](/tartans/macgregor-of-balquhidder/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×4 | [MacGregor of Balquidder - 1831 (Clan](/variants/s6/g9r2g9r14k1w2~x4/) ★ | 1831 | ![MacGregor of Balquidder - 1831 (Clan sett](/variants/s6/g9r2g9r14k1w2~x4/sett.png) |
-| ×2 | [MacGregor of Balquidder (Logan)](/variants/s6/g9r2g9r14k1w2~x2/) | 1842 | ![MacGregor of Balquidder (Logan) sett](/variants/s6/g9r2g9r14k1w2~x2/sett.png) |
+| ×2 | [MacGregor of Balquhidder Clan Tartan](/variants/s6/g9r2g9r14k1w2~x2/) ★ | 1831 | ![MacGregor of Balquhidder Clan Tartan sett](/variants/s6/g9r2g9r14k1w2~x2/sett.png) |
+| ×4 | [MacGregor of Balquidder - 1831 (Clan](/variants/s6/g9r2g9r14k1w2~x4/) | 1831 | ![MacGregor of Balquidder - 1831 (Clan sett](/variants/s6/g9r2g9r14k1w2~x4/sett.png) |

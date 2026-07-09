@@ -1,5 +1,12 @@
 ---
 title: "Mead (Tennessee) Hunting (Personal)"
-redirect: "/variants/s10/ly36k3r6k3dy10r5dy3y4k1ly2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mead (Tennessee) Hunting (Personal)](/variants/s10/ly36k3r6k3dy10r5dy3y4k1ly2~x2/).
+This is the **Mead (Tennessee) Hunting (Personal)** sett — one scale-free proportion (`ly36k3r6k3dy10r5dy3y4k1ly2`), colour order pattern
+[YKGGRGKRKY](/stripes/ykggrgkrky/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mead (Tennessee) Hunting (Personal)](/variants/s10/ly36k3r6k3dy10r5dy3y4k1ly2~x2/) ★ | 2012 | ![Mead (Tennessee) Hunting (Personal) sett](/variants/s10/ly36k3r6k3dy10r5dy3y4k1ly2~x2/sett.png) |

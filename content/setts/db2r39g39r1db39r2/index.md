@@ -1,5 +1,12 @@
 ---
 title: "Mar"
-redirect: "/variants/s6/db2r39g39r1db39r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mar](/variants/s6/db2r39g39r1db39r2~x2/).
+This is the **Mar** sett — one scale-free proportion (`db2r39g39r1db39r2`), colour order pattern
+[BRGRBR](/stripes/brgrbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mar](/variants/s6/db2r39g39r1db39r2~x2/) ★ | ~2016 | ![Mar sett](/variants/s6/db2r39g39r1db39r2~x2/sett.png) |

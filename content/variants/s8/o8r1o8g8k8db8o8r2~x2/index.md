@@ -1,16 +1,18 @@
 ---
 title: "MacDuff, hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDuff Hunting"
   url: "/tartans/macduff-hunting/"
 - name: "MacDuff, hunting"
-  url: ""
+  url: "/setts/o8r1o8g8k8db8o8r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o8r1o8g8k8db8o8r2/)
-(the same proportion at any scale), whose colour order is pattern [RRBKGRRR](/stripes/rrbkgrrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o8r1o8g8k8db8o8r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRBKGRRR](/stripes/rrbkgrrr/).
 
 Part of the [MacDuff Hunting](/tartans/macduff-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.2" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/r1do7g7k7t7do7r1~x4/"><circle cx="111.0" cy="230.4" r="4" fill="#3465a4"><title>Tennant (Clan)</title></circle></a><a href="/variants/s7/r1do7db7k7g7do7r1~x4/"><circle cx="124.0" cy="232.7" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/"><circle cx="76.7" cy="213.7" r="4" fill="#3465a4"><title>Longford</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.6" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><circle cx="165.1" cy="211.5" r="4" fill="#3465a4"><title>Wilson's No.124</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="210.8" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="170.3" cy="232.8" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="204.1" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><circle cx="128.8" cy="186.4" r="4" fill="#3465a4"><title>Wilson's, No 109</title></circle></a><circle cx="144.1" cy="221.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.1" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/r1do7g7k7t7do7r1~x4/"><circle cx="111.0" cy="230.4" r="4" fill="#3465a4"><title>Tennant (Clan)</title></circle></a><a href="/variants/s7/r1do7db7k7g7do7r1~x4/"><circle cx="124.0" cy="232.7" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/"><circle cx="76.7" cy="213.6" r="4" fill="#3465a4"><title>Longford</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.6" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><circle cx="165.1" cy="211.5" r="4" fill="#3465a4"><title>Wilson's No.124</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="210.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="170.3" cy="232.8" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.4" cy="204.0" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><circle cx="128.9" cy="186.3" r="4" fill="#3465a4"><title>Wilson's, No 109</title></circle></a><circle cx="144.1" cy="221.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/o8r1o8g8k8db8o8r2~x2/

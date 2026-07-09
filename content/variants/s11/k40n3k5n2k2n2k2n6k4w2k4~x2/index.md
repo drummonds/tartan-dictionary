@@ -1,6 +1,7 @@
 ---
 title: "Stewart/Stuart Mourning"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Stewart Mourning"
   url: "/tartans/stewart-mourning/"
 - name: "Stewart/Stuart Mourning"
-  url: ""
+  url: "/setts/k40n3k5n2k2n2k2n6k4w2k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k40n3k5n2k2n2k2n6k4w2k4/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBKWKWKBKBKBKBK](/stripes/bkbkbkbkwkwkbkbkbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k40n3k5n2k2n2k2n6k4w2k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKWKWKBKBKBKBK](/stripes/bkbkbkbkwkwkbkbkbkbk/).
 
 Part of the [Stewart Mourning](/tartans/stewart-mourning/) tartan — the named design grouping this sett with its other cloths.
 
@@ -76,6 +78,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.0" cy="124.2" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/"><circle cx="384.9" cy="109.8" r="4" fill="#3465a4"><title>Gold-Smith (Personal)</title></circle></a><a href="/variants/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="473.9" cy="84.7" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.4" cy="113.9" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.4" cy="132.5" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/"><circle cx="377.1" cy="92.0" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><circle cx="377.1" cy="92.0" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.6" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s10/k40dp2k6t2k2t2k10dp4w2dp5~x2/"><circle cx="394.7" cy="76.2" r="4" fill="#3465a4"><title>Ironside (Personal)</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/"><circle cx="374.8" cy="133.4" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><circle cx="396.9" cy="78.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.0" cy="124.0" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/"><circle cx="384.9" cy="109.7" r="4" fill="#3465a4"><title>Gold-Smith (Personal)</title></circle></a><a href="/variants/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="473.9" cy="84.5" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.4" cy="113.7" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.4" cy="132.4" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.5" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s10/k40dp2k6t2k2t2k10dp4w2dp5~x2/"><circle cx="394.7" cy="76.0" r="4" fill="#3465a4"><title>Ironside (Personal)</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/"><circle cx="374.8" cy="133.2" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><circle cx="396.9" cy="78.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/

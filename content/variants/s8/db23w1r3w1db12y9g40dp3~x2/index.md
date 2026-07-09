@@ -1,14 +1,16 @@
 ---
 title: "Pictou County"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pictou County"
-  url: ""
+  url: "/setts/db23w1r3w1db12y9g40dp3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db23w1r3w1db12y9g40dp3/)
-(the same proportion at any scale), whose colour order is pattern [BGGBWRWB](/stripes/bggbwrwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db23w1r3w1db12y9g40dp3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGBWRWB](/stripes/bggbwrwb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.9" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.2" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2/"><circle cx="259.6" cy="117.2" r="4" fill="#3465a4"><title>Young (Clan)</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.2" cy="117.1" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.3" cy="141.9" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><a href="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp1105325/"><circle cx="256.8" cy="142.2" r="4" fill="#3465a4"><title>Lawrie Clan Tartan</title></circle></a><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><circle cx="251.7" cy="139.7" r="4" fill="#3465a4"><title>Laurie Clan Tartan</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.1" cy="126.1" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/"><circle cx="243.1" cy="95.3" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><circle cx="278.3" cy="120.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.8" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.1" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2/"><circle cx="259.6" cy="117.1" r="4" fill="#3465a4"><title>Young (Clan)</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.3" cy="117.0" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.3" cy="141.8" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><a href="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp1105325/"><circle cx="256.8" cy="142.1" r="4" fill="#3465a4"><title>Lawrie Clan Tartan</title></circle></a><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><circle cx="251.7" cy="139.6" r="4" fill="#3465a4"><title>Laurie Clan Tartan</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.1" cy="126.0" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.6" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/"><circle cx="243.2" cy="95.1" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><circle cx="278.3" cy="120.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db23w1r3w1db12y9g40dp3~x2/

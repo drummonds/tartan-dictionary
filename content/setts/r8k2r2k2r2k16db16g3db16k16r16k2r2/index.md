@@ -1,5 +1,14 @@
 ---
 title: "MacLachlan"
-redirect: "/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacLachlan](/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/).
+This is the **MacLachlan** sett — one scale-free proportion (`r8k2r2k2r2k16db16g3db16k16r16k2r2`), colour order pattern
+[RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/). It is recorded as a single **variant**, below.
+First attested **1831**.
+
+Part of the [MacLachlan](/tartans/maclachlan/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [MacLachlan](/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/) ★ | 1831 | ![MacLachlan sett](/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/sett.png) |

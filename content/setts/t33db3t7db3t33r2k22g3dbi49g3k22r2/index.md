@@ -1,5 +1,12 @@
 ---
 title: "U.S. 2001 Air Force"
-redirect: "/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [U.S. 2001 Air Force](/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/).
+This is the **U.S. 2001 Air Force** sett — one scale-free proportion (`t33db3t7db3t33r2k22g3dbi49g3k22r2`), colour order pattern
+[BBBBBRKGBGKR](/stripes/bbbbbrkgbgkr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [U.S. 2001 Air Force](/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/) ★ | 2002 | ![U.S. 2001 Air Force sett](/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/sett.png) |

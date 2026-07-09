@@ -1,6 +1,7 @@
 ---
 title: "Lloyd of Dolobran Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Lloyd of Dolobran"
   url: "/tartans/lloyd-of-dolobran/"
 - name: "Lloyd of Dolobran Family Tartan"
-  url: ""
+  url: "/setts/k5g4w1g4k1g4r1g4k5db5k1db5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5g4w1g4k1g4r1g4k5db5k1db5/)
-(the same proportion at any scale), whose colour order is pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k5g4w1g4k1g4r1g4k5db5k1db5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/).
 
 Part of the [Lloyd of Dolobran](/tartans/lloyd-of-dolobran/) tartan — the named design grouping this sett with its other cloths.
 
@@ -31,7 +33,7 @@ Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collect
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1930-50 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -81,6 +83,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2~db1406275-w4000000/"><circle cx="91.2" cy="248.6" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/variants/s12/k21g21r4g21k21g21y4g21k21db21k3db21~x2/"><circle cx="104.9" cy="211.9" r="4" fill="#3465a4"><title>Rollo</title></circle></a><a href="/variants/s12/k15g15y3g15k15g15r3g15k15db15k2db15~x2/"><circle cx="106.3" cy="209.6" r="4" fill="#3465a4"><title>Rollo Family Tartan</title></circle></a><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><circle cx="101.7" cy="199.0" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/"><circle cx="104.5" cy="199.9" r="4" fill="#3465a4"><title>MacBride Family Tartan</title></circle></a><a href="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/"><circle cx="104.8" cy="200.5" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/"><circle cx="109.1" cy="206.8" r="4" fill="#3465a4"><title>Gordon Dress (US Fashion)</title></circle></a><a href="/variants/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/"><circle cx="74.7" cy="252.5" r="4" fill="#3465a4"><title>Graham of Montrose #3</title></circle></a><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/"><circle cx="70.0" cy="200.8" r="4" fill="#3465a4"><title>MacKean dress Family/Clan Tartan</title></circle></a><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><circle cx="73.6" cy="210.5" r="4" fill="#3465a4"><title>Casely Family Tartan</title></circle></a><circle cx="85.9" cy="215.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2~db1406275-w4000000/"><circle cx="91.2" cy="248.5" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/variants/s12/k21g21r4g21k21g21y4g21k21db21k3db21~x2/"><circle cx="104.9" cy="211.8" r="4" fill="#3465a4"><title>Rollo</title></circle></a><a href="/variants/s12/k15g15y3g15k15g15r3g15k15db15k2db15~x2/"><circle cx="106.3" cy="209.5" r="4" fill="#3465a4"><title>Rollo Family Tartan</title></circle></a><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><circle cx="101.8" cy="198.9" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/"><circle cx="104.5" cy="199.8" r="4" fill="#3465a4"><title>MacBride Family Tartan</title></circle></a><a href="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/"><circle cx="104.9" cy="200.4" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/"><circle cx="109.1" cy="206.7" r="4" fill="#3465a4"><title>Gordon Dress (US Fashion)</title></circle></a><a href="/variants/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/"><circle cx="74.7" cy="252.5" r="4" fill="#3465a4"><title>Graham of Montrose #3</title></circle></a><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/"><circle cx="70.0" cy="200.7" r="4" fill="#3465a4"><title>MacKean dress Family/Clan Tartan</title></circle></a><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><circle cx="73.7" cy="210.4" r="4" fill="#3465a4"><title>Casely Family Tartan</title></circle></a><circle cx="85.9" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/

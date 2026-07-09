@@ -1,5 +1,14 @@
 ---
-title: "Coronation"
-redirect: "/variants/s7/db7w1r7db4r2db4w2~x2/"
+title: "Coronation Commemorative Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Coronation](/variants/s7/db7w1r7db4r2db4w2~x2/).
+This is the **Coronation Commemorative Tartan** sett — one scale-free proportion (`db7w1r7db4r2db4w2`), colour order pattern
+[BWRBRBW](/stripes/bwrbrbw/). It is recorded as a single **variant**, below.
+First attested **1936**.
+
+Part of the [Coronation](/tartans/coronation/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Coronation Commemorative Tartan](/variants/s7/db7w1r7db4r2db4w2~x2/) ★ | 1936 | ![Coronation Commemorative Tartan sett](/variants/s7/db7w1r7db4r2db4w2~x2/sett.png) |

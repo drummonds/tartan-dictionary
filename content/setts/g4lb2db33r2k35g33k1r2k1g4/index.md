@@ -2,15 +2,15 @@
 title: "Lochaber"
 date: 2023-03-18
 ---
-The **Lochaber** tartan is one sett proportion (`g4lb2db33r2k35g33k1r2k1g4`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GKRKGKRBWG](/stripes/gkrkgkrbwg/); each scale below is its own sett page. First attested **1797**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Lochaber** sett — one scale-free proportion (`g4lb2db33r2k35g33k1r2k1g4`), colour order pattern
+[GKRKGKRBWG](/stripes/gkrkgkrbwg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1797**.
 
-Part of the [Lochaber](/tartans/lochaber/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Lochaber](/tartans/lochaber/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [Lochaber](/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2~db1406275/) ★ | 1797 | ![Lochaber sett](/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2~db1406275/sett.png) |
-| ×2 | [Lochaber](/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/) | ~2016 | ![Lochaber sett](/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/sett.png) |
+| ×2 | [Lochaber District Tartan](/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/) | ~1800 | ![Lochaber District Tartan sett](/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/sett.png) |

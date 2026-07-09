@@ -1,14 +1,16 @@
 ---
 title: "Father's Pride, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Father's Pride, The"
-  url: ""
+  url: "/setts/ki90n8k10n3k4g4k3r16k14ly6k28/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ki90n8k10n3k4g4k3r16k14ly6k28/)
-(the same proportion at any scale), whose colour order is pattern [KBKBKGKRKYK](/stripes/kbkbkgkrkyk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ki90n8k10n3k4g4k3r16k14ly6k28/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKGKRKYK](/stripes/kbkbkgkrkyk/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><circle cx="252.9" cy="64.1" r="4" fill="#3465a4"><title>Father’s Pride, The</title></circle></a><a href="/variants/s11/k4r30ly3r3k6dg36ly1dg2ri2dg2g2~x4~r1406028-ri2109032/"><circle cx="276.6" cy="72.1" r="4" fill="#3465a4"><title>Chelsea</title></circle></a><a href="/variants/s12/dr43k3dy1k2w1k6r2dg1k1dg3k1y3~x2~dy1603076-dg1104144/"><circle cx="384.9" cy="14.2" r="4" fill="#3465a4"><title>Langholm Millennium</title></circle></a><a href="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/"><circle cx="235.7" cy="72.9" r="4" fill="#3465a4"><title>Integrated Landscape Management (ILM)</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><circle cx="215.8" cy="123.8" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><circle cx="299.4" cy="88.0" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/"><circle cx="240.5" cy="120.1" r="4" fill="#3465a4"><title>Scottish Register of Tartans' Tartan</title></circle></a><a href="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/"><circle cx="282.2" cy="121.3" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/"><circle cx="407.3" cy="72.7" r="4" fill="#3465a4"><title>Tomatin Distillery</title></circle></a><a href="/variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/"><circle cx="333.2" cy="139.3" r="4" fill="#3465a4"><title>MacClure</title></circle></a><circle cx="306.1" cy="80.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><circle cx="252.9" cy="63.9" r="4" fill="#3465a4"><title>Father’s Pride, The</title></circle></a><a href="/variants/s11/k4r30ly3r3k6dg36ly1dg2ri2dg2g2~x4~r1406028-ri2109032/"><circle cx="276.6" cy="71.9" r="4" fill="#3465a4"><title>Chelsea</title></circle></a><a href="/variants/s12/dr43k3dy1k2w1k6r2dg1k1dg3k1y3~x2~dy1603076-dg1104144/"><circle cx="384.9" cy="14.0" r="4" fill="#3465a4"><title>Langholm Millennium</title></circle></a><a href="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/"><circle cx="235.7" cy="72.7" r="4" fill="#3465a4"><title>Integrated Landscape Management (ILM)</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><circle cx="215.8" cy="123.7" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><circle cx="299.5" cy="87.9" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/"><circle cx="240.5" cy="119.9" r="4" fill="#3465a4"><title>Scottish Register of Tartans' Tartan</title></circle></a><a href="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/"><circle cx="282.3" cy="121.2" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/"><circle cx="407.3" cy="72.5" r="4" fill="#3465a4"><title>Tomatin Distillery</title></circle></a><a href="/variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/"><circle cx="333.2" cy="139.1" r="4" fill="#3465a4"><title>MacClure</title></circle></a><circle cx="306.1" cy="80.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/

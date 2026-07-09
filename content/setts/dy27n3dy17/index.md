@@ -1,5 +1,14 @@
 ---
 title: "Outlander #4"
-redirect: "/variants/s3/dy27n3dy17~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Outlander #4](/variants/s3/dy27n3dy17~x4/).
+This is the **Outlander #4** sett — one scale-free proportion (`dy27n3dy17`), colour order pattern
+[GBG](/stripes/gbg/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+Part of the [Outlander](/tartans/outlander/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Outlander #4](/variants/s3/dy27n3dy17~x4/) ★ | 2014 | ![Outlander #4 sett](/variants/s3/dy27n3dy17~x4/sett.png) |

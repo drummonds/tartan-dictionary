@@ -1,16 +1,18 @@
 ---
 title: "Johnston, Diana Dress (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Johnston, Diana Dress"
   url: "/tartans/johnston-diana-dress/"
 - name: "Johnston, Diana Dress (Personal)"
-  url: ""
+  url: "/setts/r10db4r3db6w3db4w3db40dg73k4db2ly6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10db4r3db6w3db4w3db40dg73k4db2ly6/)
-(the same proportion at any scale), whose colour order is pattern [RBRBWBWBGKBY](/stripes/rbrbwbwbgkby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r10db4r3db6w3db4w3db40dg73k4db2ly6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBWBWBGKBY](/stripes/rbrbwbwbgkby/).
 
 Part of the [Johnston, Diana Dress](/tartans/johnston-diana-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r10db4r3db6w3db4w3db40g73k4db2y6/"><circle cx="247.5" cy="57.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2~o2500000-n1900000/"><circle cx="257.6" cy="50.7" r="4" fill="#3465a4"><title>Misty Isle (Fashion)</title></circle></a><a href="/variants/s13/b64dr3k3w2b3dr28dg26b3dr3k3ly2b3dg16~x2/"><circle cx="260.9" cy="72.5" r="4" fill="#3465a4"><title>Wcwm 1571</title></circle></a><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.1" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="283.1" cy="63.2" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="76.1" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/"><circle cx="273.0" cy="60.2" r="4" fill="#3465a4"><title>U.S. Special Forces</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.7" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><circle cx="265.8" cy="59.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r10db4r3db6w3db4w3db40g73k4db2y6/"><circle cx="247.5" cy="57.7" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2~o2500000-n1900000/"><circle cx="257.6" cy="50.5" r="4" fill="#3465a4"><title>Misty Isle (Fashion)</title></circle></a><a href="/variants/s13/b64dr3k3w2b3dr28dg26b3dr3k3ly2b3dg16~x2/"><circle cx="260.9" cy="72.3" r="4" fill="#3465a4"><title>Wcwm 1571</title></circle></a><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="283.1" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.7" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="75.9" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/"><circle cx="273.0" cy="60.1" r="4" fill="#3465a4"><title>U.S. Special Forces</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.6" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.6" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><circle cx="265.8" cy="59.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/

@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/setts/w4t14r1t1w1t1r1t14r14t1r1w1/">Frame</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/w4t14r1t1w1t1r1t14r14t1r1w1/"><img src="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4~w4000000/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/">Frame</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/"><img src="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/">Frame Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/"><img src="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/sett.png" alt="Frame Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

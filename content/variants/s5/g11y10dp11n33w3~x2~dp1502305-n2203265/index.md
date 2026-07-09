@@ -1,14 +1,16 @@
 ---
 title: "Sterling, Rob (Florida) (Persona Name Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Sterling, Rob (Florida) (Persona Name Tartan"
-  url: ""
+  url: "/setts/g11y10dp11n33w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g11y10dp11n33w3/)
-(the same proportion at any scale), whose colour order is pattern [GGBBW](/stripes/ggbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g11y10dp11n33w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBBW](/stripes/ggbbw/).
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -23,7 +25,7 @@ Earliest known date: 10/07/2012 Designed by Rob Sterling, St. Petersburg, Florid
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>10/07/2012 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/"><circle cx="321.7" cy="257.3" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Personal)</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.6" cy="207.3" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/"><circle cx="326.4" cy="224.3" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.2" cy="228.2" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.1" cy="229.5" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/y3dg8n20dp30y2~x2/"><circle cx="400.4" cy="248.7" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/"><circle cx="273.0" cy="275.3" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.5" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><circle cx="333.5" cy="258.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/"><circle cx="321.7" cy="257.2" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Personal)</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.6" cy="207.2" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/"><circle cx="326.5" cy="224.3" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.2" cy="228.1" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.1" cy="229.5" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/y3dg8n20dp30y2~x2/"><circle cx="400.4" cy="248.6" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/"><circle cx="273.0" cy="275.3" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.4" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><circle cx="333.5" cy="258.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/

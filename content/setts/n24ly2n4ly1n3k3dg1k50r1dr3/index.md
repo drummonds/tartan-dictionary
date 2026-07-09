@@ -1,5 +1,12 @@
 ---
 title: "Coleburn (Corporate)"
-redirect: "/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Coleburn (Corporate)](/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/).
+This is the **Coleburn (Corporate)** sett — one scale-free proportion (`n24ly2n4ly1n3k3dg1k50r1dr3`), colour order pattern
+[BRKGKBYBYB](/stripes/brkgkbybyb/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Coleburn (Corporate)](/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/) ★ | 2011 | ![Coleburn (Corporate) sett](/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/sett.png) |

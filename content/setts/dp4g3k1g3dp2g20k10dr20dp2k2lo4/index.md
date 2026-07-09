@@ -1,5 +1,12 @@
 ---
 title: "Moffat (1994)"
-redirect: "/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Moffat (1994)](/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/).
+This is the **Moffat (1994)** sett — one scale-free proportion (`dp4g3k1g3dp2g20k10dr20dp2k2lo4`), colour order pattern
+[BGKGBGKBBKY](/stripes/bgkgbgkbbky/). It is recorded as a single **variant**, below.
+First attested **1994**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Moffat (1994)](/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/) ★ | 1994 | ![Moffat (1994) sett](/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/sett.png) |

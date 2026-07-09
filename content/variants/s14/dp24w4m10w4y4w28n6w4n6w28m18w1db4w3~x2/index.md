@@ -1,14 +1,16 @@
 ---
 title: "Confederate Rose"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Confederate Rose"
-  url: ""
+  url: "/setts/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3/)
-(the same proportion at any scale), whose colour order is pattern [BWRWGWBWBWRWBW](/stripes/bwrwgwbwbwrwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRWGWBWBWRWBW](/stripes/bwrwgwbwbwrwbw/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.2" cy="86.9" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/"><circle cx="351.3" cy="91.1" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.4" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.7" cy="97.8" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/"><circle cx="240.2" cy="131.8" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><a href="/variants/s11/dpi3dp1r20dp20w2dp2w2dp2w32dp1lp3~x2~dpi1607327-dp1105325/"><circle cx="225.1" cy="89.6" r="4" fill="#3465a4"><title>Sunart, Pink (Dance)</title></circle></a><a href="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/"><circle cx="220.9" cy="133.9" r="4" fill="#3465a4"><title>Japan–Scotland Society, The</title></circle></a><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/"><circle cx="198.2" cy="129.9" r="4" fill="#3465a4"><title>Galego</title></circle></a><a href="/variants/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2~r2108022-ri2806019/"><circle cx="214.7" cy="83.8" r="4" fill="#3465a4"><title>Sunart, Saphire (Dance)</title></circle></a><circle cx="221.2" cy="102.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.2" cy="86.7" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/"><circle cx="351.3" cy="90.9" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.2" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.7" cy="97.7" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/"><circle cx="240.2" cy="131.7" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><a href="/variants/s11/dpi3dp1r20dp20w2dp2w2dp2w32dp1lp3~x2~dpi1607327-dp1105325/"><circle cx="225.1" cy="89.4" r="4" fill="#3465a4"><title>Sunart, Pink (Dance)</title></circle></a><a href="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/"><circle cx="220.9" cy="133.7" r="4" fill="#3465a4"><title>Japan–Scotland Society, The</title></circle></a><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/"><circle cx="198.2" cy="129.7" r="4" fill="#3465a4"><title>Galego</title></circle></a><a href="/variants/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2~r2108022-ri2806019/"><circle cx="214.7" cy="83.7" r="4" fill="#3465a4"><title>Sunart, Saphire (Dance)</title></circle></a><circle cx="221.2" cy="102.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/

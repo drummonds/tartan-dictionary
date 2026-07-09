@@ -33,8 +33,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s12/n9lb5k8y2k4w4k4g31r50lb4r4k3~x2/">MacLean of Duart</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/n9lb5k8y2k4w4k4g31r50lb4r4k3~x2/"><img src="/variants/s12/n9lb5k8y2k4w4k4g31r50lb4r4k3~x2/sett.png" alt="MacLean of Duart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/db4lb1k3y1k1w1k1g8r12lb1r2k1/">MacLean of Duart 5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db4lb1k3y1k1w1k1g8r12lb1r2k1/"><img src="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x2/sett.png" alt="MacLean of Duart 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db4lb1k3y1k1w1k1g8r12lb1r2k1/">MacLean of Duart #6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db4lb1k3y1k1w1k1g8r12lb1r2k1/"><img src="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x2/sett.png" alt="MacLean of Duart #6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

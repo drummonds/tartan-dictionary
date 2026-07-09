@@ -1,5 +1,12 @@
 ---
 title: "MacLamroc"
-redirect: "/variants/s6/y4k1dg16k16r1w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacLamroc](/variants/s6/y4k1dg16k16r1w3~x2/).
+This is the **MacLamroc** sett — one scale-free proportion (`y4k1dg16k16r1w3`), colour order pattern
+[GKGKRW](/stripes/gkgkrw/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacLamroc](/variants/s6/y4k1dg16k16r1w3~x2/) ★ | 1999 | ![MacLamroc sett](/variants/s6/y4k1dg16k16r1w3~x2/sett.png) |

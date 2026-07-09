@@ -2,15 +2,15 @@
 title: "MacMillan Ancient"
 date: 2023-03-18
 ---
-The **MacMillan Ancient** tartan is one sett proportion (`g2k1g18k1g2k1r12g4y6k1y6k1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GKGKGKRGGKGK](/stripes/gkgkgkrggkgk/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacMillan Ancient** sett — one scale-free proportion (`g2k1g18k1g2k1r12g4y6k1y6k1`), colour order pattern
+[GKGKGKRGGKGK](/stripes/gkgkgkrggkgk/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1847**.
 
-Part of the [MacMillan](/tartans/macmillan/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacMillan](/tartans/macmillan/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [MacMillan Ancient](/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/) ★ | ~2016 | ![MacMillan Ancient sett](/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/sett.png) |
-| ×2 | [MacMillan Ancient](/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/) | ~2016 | ![MacMillan Ancient sett](/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/sett.png) |
+| ×2 | [MacMillan Old Clan Tartan](/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/) ★ | 1847 | ![MacMillan Old Clan Tartan sett](/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/sett.png) |
+| ×1 | [MacMillan Ancient](/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/) | ~2016 | ![MacMillan Ancient sett](/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/sett.png) |

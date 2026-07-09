@@ -1,5 +1,12 @@
 ---
 title: "Portree, Blue (Dance)"
-redirect: "/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Portree, Blue (Dance)](/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/).
+This is the **Portree, Blue (Dance)** sett — one scale-free proportion (`w20ly4w12dp2w4lb3w4t18db10w2db4lb2`), colour order pattern
+[WBWBBWWWBWYW](/stripes/wbwbbwwwbwyw/). It is recorded as a single **variant**, below.
+First attested **~1989**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Portree, Blue (Dance)](/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/) ★ | ~1989 | ![Portree, Blue (Dance) sett](/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/sett.png) |

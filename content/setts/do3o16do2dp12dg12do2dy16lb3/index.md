@@ -1,5 +1,12 @@
 ---
 title: "YPO Dress"
-redirect: "/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [YPO Dress](/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/).
+This is the **YPO Dress** sett — one scale-free proportion (`do3o16do2dp12dg12do2dy16lb3`), colour order pattern
+[BRBBGBGW](/stripes/brbbgbgw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [YPO Dress](/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/) ★ | 2002 | ![YPO Dress sett](/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/sett.png) |

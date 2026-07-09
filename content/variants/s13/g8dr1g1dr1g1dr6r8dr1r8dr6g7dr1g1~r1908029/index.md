@@ -1,6 +1,7 @@
 ---
 title: "MacNab"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "MacNab"
   url: "/setts/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBRBRBGBG](/stripes/gbgbgbrbrbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBRBRBGBG](/stripes/gbgbgbrbrbgbg/).
 
 Part of the [MacNab](/tartans/macnab-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1~x2~r1908029/"><circle cx="259.2" cy="225.0" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/"><circle cx="265.8" cy="222.7" r="4" fill="#3465a4"><title>MacNab 3</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/"><circle cx="262.5" cy="220.8" r="4" fill="#3465a4"><title>MacNab (Logan)</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/"><circle cx="262.5" cy="220.8" r="4" fill="#3465a4"><title>MacNab Clan Tartan</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6do8r1do8r6g7r1g1/"><circle cx="234.2" cy="216.3" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s6/dy1r7dy4g7dy1g1~x4/"><circle cx="230.3" cy="245.0" r="4" fill="#3465a4"><title>Dewar</title></circle></a><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><circle cx="220.2" cy="174.3" r="4" fill="#3465a4"><title>Mauthe Unidentified (Name?)</title></circle></a><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><circle cx="217.3" cy="231.4" r="4" fill="#3465a4"><title>Unidentified Scarlett #12</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.5" cy="219.1" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><circle cx="270.6" cy="176.5" r="4" fill="#3465a4"><title>Stewart of Urrard (Clan?)</title></circle></a><circle cx="259.2" cy="225.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1~x2~r1908029/"><circle cx="259.2" cy="224.9" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/"><circle cx="265.8" cy="222.6" r="4" fill="#3465a4"><title>MacNab 3</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/"><circle cx="262.5" cy="220.7" r="4" fill="#3465a4"><title>MacNab (Logan)</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/"><circle cx="262.5" cy="220.7" r="4" fill="#3465a4"><title>MacNab Clan Tartan</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6do8r1do8r6g7r1g1/"><circle cx="234.2" cy="216.3" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s6/dy1r7dy4g7dy1g1~x4/"><circle cx="230.3" cy="245.0" r="4" fill="#3465a4"><title>Dewar</title></circle></a><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><circle cx="220.2" cy="174.2" r="4" fill="#3465a4"><title>Mauthe Unidentified (Name?)</title></circle></a><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><circle cx="217.3" cy="231.4" r="4" fill="#3465a4"><title>Unidentified Scarlett #12</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.6" cy="219.0" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><circle cx="270.6" cy="176.4" r="4" fill="#3465a4"><title>Stewart of Urrard (Clan?)</title></circle></a><circle cx="259.2" cy="224.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1~r1908029/

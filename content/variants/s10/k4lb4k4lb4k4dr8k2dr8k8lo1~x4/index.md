@@ -1,14 +1,16 @@
 ---
 title: "Little of Morton Rig Family/Clan Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Little of Morton Rig Family/Clan Tartan"
-  url: ""
+  url: "/setts/k4lb4k4lb4k4dr8k2dr8k8lo1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4lb4k4lb4k4dr8k2dr8k8lo1/)
-(the same proportion at any scale), whose colour order is pattern [KWKWKBKBKY](/stripes/kwkwkbkbky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k4lb4k4lb4k4dr8k2dr8k8lo1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWKBKBKY](/stripes/kwkwkbkbky/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1991 Designed in 1991 by Dr. J.C.(Pat) Little of Morton Rig
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1991 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.4" cy="206.8" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><circle cx="119.0" cy="183.6" r="4" fill="#3465a4"><title>Huntley Fire Protection District</title></circle></a><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><circle cx="117.9" cy="224.1" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="218.3" cy="200.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><circle cx="143.8" cy="206.9" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/variants/s12/dp12k13dg12y2dg12k13dg12y2dg12k13dp12k2~x2~dp1607327-dg1605139/"><circle cx="142.8" cy="227.8" r="4" fill="#3465a4"><title>Wilson's No.064</title></circle></a><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><circle cx="126.6" cy="198.2" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="174.2" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2~dp1607327-dg1605139/"><circle cx="142.2" cy="233.3" r="4" fill="#3465a4"><title>Wilson's No.157 #2</title></circle></a><a href="/variants/s7/db9k7n5r1n5k1n2~x4/"><circle cx="187.2" cy="191.7" r="4" fill="#3465a4"><title>Greyhound Grenadiers #2</title></circle></a><circle cx="164.3" cy="209.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.5" cy="206.8" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><circle cx="119.1" cy="183.5" r="4" fill="#3465a4"><title>Huntley Fire Protection District</title></circle></a><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><circle cx="117.9" cy="224.0" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="218.4" cy="200.3" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><circle cx="143.8" cy="206.9" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/variants/s12/dp12k13dg12y2dg12k13dg12y2dg12k13dp12k2~x2~dp1607327-dg1605139/"><circle cx="142.8" cy="227.7" r="4" fill="#3465a4"><title>Wilson's No.064</title></circle></a><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><circle cx="126.6" cy="198.1" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="174.1" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2~dp1607327-dg1605139/"><circle cx="142.2" cy="233.2" r="4" fill="#3465a4"><title>Wilson's No.157 #2</title></circle></a><a href="/variants/s7/db9k7n5r1n5k1n2~x4/"><circle cx="187.2" cy="191.6" r="4" fill="#3465a4"><title>Greyhound Grenadiers #2</title></circle></a><circle cx="164.3" cy="209.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/

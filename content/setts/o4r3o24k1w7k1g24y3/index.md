@@ -1,5 +1,12 @@
 ---
 title: "Layton, Mervin"
-redirect: "/variants/s8/o4r3o24k1w7k1g24y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Layton, Mervin](/variants/s8/o4r3o24k1w7k1g24y3~x2/).
+This is the **Layton, Mervin** sett — one scale-free proportion (`o4r3o24k1w7k1g24y3`), colour order pattern
+[GGKWKRRR](/stripes/ggkwkrrr/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Layton, Mervin](/variants/s8/o4r3o24k1w7k1g24y3~x2/) ★ | 2010 | ![Layton, Mervin sett](/variants/s8/o4r3o24k1w7k1g24y3~x2/sett.png) |

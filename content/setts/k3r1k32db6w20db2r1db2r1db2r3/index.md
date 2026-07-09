@@ -1,5 +1,12 @@
 ---
 title: "Angus Dress 1992 (Dance)"
-redirect: "/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Angus Dress 1992 (Dance)](/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/).
+This is the **Angus Dress 1992 (Dance)** sett — one scale-free proportion (`k3r1k32db6w20db2r1db2r1db2r3`), colour order pattern
+[KRKBWBRBRBR](/stripes/krkbwbrbrbr/). It is recorded as a single **variant**, below.
+First attested **1992**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Angus Dress 1992 (Dance)](/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/) ★ | 1992 | ![Angus Dress 1992 (Dance) sett](/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/sett.png) |

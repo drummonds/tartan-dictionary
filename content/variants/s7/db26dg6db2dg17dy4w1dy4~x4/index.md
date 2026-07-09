@@ -1,14 +1,16 @@
 ---
 title: "Doral"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Doral"
-  url: ""
+  url: "/setts/db26dg6db2dg17dy4w1dy4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db26dg6db2dg17dy4w1dy4/)
-(the same proportion at any scale), whose colour order is pattern [BGBGGWG](/stripes/bgbggwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db26dg6db2dg17dy4w1dy4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGGWG](/stripes/bgbggwg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/"><circle cx="416.4" cy="205.0" r="4" fill="#3465a4"><title>Scottish Canals (Corporate)</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.8" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s5/dr2dg8db27dg11do2~x2/"><circle cx="519.0" cy="278.6" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="460.9" cy="181.5" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.9" cy="285.9" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.8" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.4" cy="261.0" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.4" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><circle cx="441.8" cy="219.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/"><circle cx="416.4" cy="204.9" r="4" fill="#3465a4"><title>Scottish Canals (Corporate)</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.9" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s5/dr2dg8db27dg11do2~x2/"><circle cx="519.1" cy="278.6" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="461.0" cy="181.4" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.9" cy="285.9" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.7" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.4" cy="260.9" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.3" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><circle cx="441.9" cy="218.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db26dg6db2dg17dy4w1dy4~x4/

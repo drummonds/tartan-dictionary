@@ -1,14 +1,16 @@
 ---
 title: "MacAn of Lurgyvallan (Hose)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacAn of Lurgyvallan (Hose)"
-  url: ""
+  url: "/setts/dr9k1dr5g6dr4k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr9k1dr5g6dr4k2/)
-(the same proportion at any scale), whose colour order is pattern [BKBGBK](/stripes/bkbgbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr9k1dr5g6dr4k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBGBK](/stripes/bkbgbk/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.8" cy="207.3" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><circle cx="414.6" cy="218.8" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><circle cx="274.3" cy="239.0" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/variants/s7/dg28r4k25r22dg27r4k2~x2/"><circle cx="252.5" cy="200.0" r="4" fill="#3465a4"><title>Glasgow, City of District Tartan</title></circle></a><a href="/variants/s5/k1r5g10r5g1~x4/"><circle cx="300.8" cy="225.8" r="4" fill="#3465a4"><title>Murray, Lord George (Hose)</title></circle></a><a href="/variants/s5/dr11k4dr4lo4dr11~x4/"><circle cx="384.2" cy="292.3" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="329.0" cy="222.4" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="316.8" cy="233.7" r="4" fill="#3465a4"><title>Unidentified Plaid #3</title></circle></a><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/"><circle cx="273.2" cy="245.9" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="315.9" cy="221.1" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><circle cx="367.8" cy="242.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.8" cy="207.2" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><circle cx="414.6" cy="218.7" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><circle cx="274.3" cy="239.0" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/variants/s7/dg28r4k25r22dg27r4k2~x2/"><circle cx="252.5" cy="199.9" r="4" fill="#3465a4"><title>Glasgow, City of District Tartan</title></circle></a><a href="/variants/s5/k1r5g10r5g1~x4/"><circle cx="300.8" cy="225.8" r="4" fill="#3465a4"><title>Murray, Lord George (Hose)</title></circle></a><a href="/variants/s5/dr11k4dr4lo4dr11~x4/"><circle cx="384.3" cy="292.3" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="329.1" cy="222.4" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="316.8" cy="233.7" r="4" fill="#3465a4"><title>Unidentified Plaid #3</title></circle></a><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/"><circle cx="273.2" cy="245.9" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="315.9" cy="221.0" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><circle cx="367.8" cy="242.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr9k1dr5g6dr4k2~x4/

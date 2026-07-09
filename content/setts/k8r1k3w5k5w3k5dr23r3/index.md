@@ -1,5 +1,12 @@
 ---
 title: "Southdown Tartan"
-redirect: "/variants/s9/k8r1k3w5k5w3k5dr23r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Southdown Tartan](/variants/s9/k8r1k3w5k5w3k5dr23r3~x2/).
+This is the **Southdown Tartan** sett — one scale-free proportion (`k8r1k3w5k5w3k5dr23r3`), colour order pattern
+[KRKWKWKBR](/stripes/krkwkwkbr/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Southdown Tartan](/variants/s9/k8r1k3w5k5w3k5dr23r3~x2/) ★ | ~2003 | ![Southdown Tartan sett](/variants/s9/k8r1k3w5k5w3k5dr23r3~x2/sett.png) |

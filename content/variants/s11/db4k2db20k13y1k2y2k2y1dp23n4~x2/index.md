@@ -1,16 +1,18 @@
 ---
 title: "Michigan State Police"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Michigan State Police"
   url: "/tartans/michigan-state-police/"
 - name: "Michigan State Police"
-  url: ""
+  url: "/setts/db4k2db20k13y1k2y2k2y1dp23n4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k2db20k13y1k2y2k2y1dp23n4/)
-(the same proportion at any scale), whose colour order is pattern [BBGKGKGKBKB](/stripes/bbgkgkgkbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4k2db20k13y1k2y2k2y1dp23n4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGKGKGKBKB](/stripes/bbgkgkgkbkb/).
 
 Part of the [Michigan State Police](/tartans/michigan-state-police/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/"><circle cx="171.4" cy="112.0" r="4" fill="#3465a4"><title>Michigan State Police (Corporate)</title></circle></a><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><circle cx="215.2" cy="104.6" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/"><circle cx="178.4" cy="113.0" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/"><circle cx="199.9" cy="97.2" r="4" fill="#3465a4"><title>Pride of Scotland General Tartan</title></circle></a><a href="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/"><circle cx="210.9" cy="148.4" r="4" fill="#3465a4"><title>D'Souza (Personal)</title></circle></a><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/"><circle cx="167.5" cy="109.0" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/r3dbi12k12db32k12dbi2k2dbi2k2dbi4r3~dbi1204274-db1106275/"><circle cx="249.3" cy="152.7" r="4" fill="#3465a4"><title>Rangers F. C. Corporate Tartan</title></circle></a><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><circle cx="229.2" cy="111.6" r="4" fill="#3465a4"><title>Westmeath County, Crest Range</title></circle></a><a href="/variants/s14/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13~x2/"><circle cx="253.2" cy="92.1" r="4" fill="#3465a4"><title>Strathtummel (District?)</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.5" cy="132.6" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><circle cx="216.1" cy="122.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/"><circle cx="171.4" cy="111.8" r="4" fill="#3465a4"><title>Michigan State Police (Corporate)</title></circle></a><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><circle cx="215.2" cy="104.5" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/"><circle cx="178.4" cy="112.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/"><circle cx="199.9" cy="97.1" r="4" fill="#3465a4"><title>Pride of Scotland General Tartan</title></circle></a><a href="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/"><circle cx="210.9" cy="148.3" r="4" fill="#3465a4"><title>D'Souza (Personal)</title></circle></a><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/"><circle cx="167.5" cy="108.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/r3dbi12k12db32k12dbi2k2dbi2k2dbi4r3~dbi1204274-db1106275/"><circle cx="249.4" cy="152.6" r="4" fill="#3465a4"><title>Rangers F. C. Corporate Tartan</title></circle></a><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><circle cx="229.2" cy="111.5" r="4" fill="#3465a4"><title>Westmeath County, Crest Range</title></circle></a><a href="/variants/s14/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13~x2/"><circle cx="253.2" cy="92.0" r="4" fill="#3465a4"><title>Strathtummel (District?)</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.6" cy="132.4" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><circle cx="216.1" cy="121.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/

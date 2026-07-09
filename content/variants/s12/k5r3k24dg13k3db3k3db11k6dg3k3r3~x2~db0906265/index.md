@@ -1,14 +1,16 @@
 ---
 title: "Daly (2016)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Daly (2016)"
-  url: ""
+  url: "/setts/k5r3k24dg13k3db3k3db11k6dg3k3r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5r3k24dg13k3db3k3db11k6dg3k3r3/)
-(the same proportion at any scale), whose colour order is pattern [KRKGKBKBKGKR](/stripes/krkgkbkbkgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k5r3k24dg13k3db3k3db11k6dg3k3r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKGKBKBKGKR](/stripes/krkgkbkbkgkr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k15db7n3k13n3db7k23n3db7dy2dp4dy2~x2/"><circle cx="273.0" cy="156.1" r="4" fill="#3465a4"><title>Apache</title></circle></a><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><circle cx="230.7" cy="141.4" r="4" fill="#3465a4"><title>ShadowHalls</title></circle></a><a href="/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/"><circle cx="225.5" cy="125.9" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/"><circle cx="205.9" cy="155.0" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.5" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/"><circle cx="197.9" cy="134.8" r="4" fill="#3465a4"><title>Sturm (2016)</title></circle></a><a href="/variants/s11/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1~x4/"><circle cx="246.2" cy="181.8" r="4" fill="#3465a4"><title>Episcopal Clergy</title></circle></a><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/"><circle cx="213.1" cy="158.0" r="4" fill="#3465a4"><title>Robieson, Graham Alexander (Personal)</title></circle></a><a href="/variants/s13/k1w1k8dg1k1db8k1dg8k1db1k8w1k1~x6/"><circle cx="220.8" cy="155.5" r="4" fill="#3465a4"><title>Chess</title></circle></a><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><circle cx="196.8" cy="170.3" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><circle cx="244.1" cy="159.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k15db7n3k13n3db7k23n3db7dy2dp4dy2~x2/"><circle cx="273.0" cy="155.9" r="4" fill="#3465a4"><title>Apache</title></circle></a><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><circle cx="230.7" cy="141.2" r="4" fill="#3465a4"><title>ShadowHalls</title></circle></a><a href="/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/"><circle cx="225.5" cy="125.8" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/"><circle cx="205.9" cy="154.9" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.3" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/"><circle cx="198.0" cy="134.7" r="4" fill="#3465a4"><title>Sturm (2016)</title></circle></a><a href="/variants/s11/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1~x4/"><circle cx="246.2" cy="181.7" r="4" fill="#3465a4"><title>Episcopal Clergy</title></circle></a><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/"><circle cx="213.2" cy="157.9" r="4" fill="#3465a4"><title>Robieson, Graham Alexander (Personal)</title></circle></a><a href="/variants/s13/k1w1k8dg1k1db8k1dg8k1db1k8w1k1~x6/"><circle cx="220.8" cy="155.4" r="4" fill="#3465a4"><title>Chess</title></circle></a><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><circle cx="196.9" cy="170.2" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><circle cx="244.1" cy="158.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/

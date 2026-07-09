@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s4/db21g34r14w6~x2/">Harbison (2015)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/db21g34r14w6~x2/"><img src="/variants/s4/db21g34r14w6~x2/sett.png" alt="Harbison (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db10g10r5w1~x2/">Thorntons Law (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db10g10r5w1~x2/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db10g10r5w1~x2/">Thorntons Law Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/db10g10r5w1~x2/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s4/db39y8r3w1~x4/">Norwich University</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/db39y8r3w1~x4/"><img src="/variants/s4/db39y8r3w1~x4/sett.png" alt="Norwich University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

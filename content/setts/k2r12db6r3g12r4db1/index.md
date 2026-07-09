@@ -1,5 +1,12 @@
 ---
 title: "MacBean/MacElvain"
-redirect: "/variants/s7/k2r12db6r3g12r4db1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacBean/MacElvain](/variants/s7/k2r12db6r3g12r4db1~x2/).
+This is the **MacBean/MacElvain** sett — one scale-free proportion (`k2r12db6r3g12r4db1`), colour order pattern
+[BRGRBRK](/stripes/brgrbrk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacBean/MacElvain](/variants/s7/k2r12db6r3g12r4db1~x2/) ★ | ~2016 | ![MacBean/MacElvain sett](/variants/s7/k2r12db6r3g12r4db1~x2/sett.png) |

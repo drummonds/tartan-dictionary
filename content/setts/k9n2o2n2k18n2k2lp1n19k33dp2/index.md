@@ -1,5 +1,12 @@
 ---
 title: "Pride of Scotland Contemporary"
-redirect: "/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pride of Scotland Contemporary](/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/).
+This is the **Pride of Scotland Contemporary** sett — one scale-free proportion (`k9n2o2n2k18n2k2lp1n19k33dp2`), colour order pattern
+[BKBWKBKBRBK](/stripes/bkbwkbkbrbk/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Pride of Scotland Contemporary](/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/) ★ | 2005 | ![Pride of Scotland Contemporary sett](/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/sett.png) |

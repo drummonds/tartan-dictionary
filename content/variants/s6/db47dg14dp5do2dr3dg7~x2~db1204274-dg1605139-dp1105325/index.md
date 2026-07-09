@@ -1,14 +1,16 @@
 ---
 title: "Round Table of Britain and Ire Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Round Table (1997)"
   url: "/setts/db47dg14dp5do2dr3dg7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db47dg14dp5do2dr3dg7/)
-(the same proportion at any scale), whose colour order is pattern [BGBBBGBBBG](/stripes/bgbbbgbbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db47dg14dp5do2dr3dg7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBBGBBBG](/stripes/bgbbbgbbbg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1997 Designed by Polly Wittering of House of Edgar in June 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1997 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.7" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/"><circle cx="505.9" cy="189.1" r="4" fill="#3465a4"><title>Raymond of Doune</title></circle></a><a href="/variants/s7/db26dg6db2dg17dy4w1dy4~x4/"><circle cx="441.8" cy="219.0" r="4" fill="#3465a4"><title>Doral</title></circle></a><a href="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/"><circle cx="408.1" cy="148.3" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/"><circle cx="393.6" cy="158.4" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.4" cy="214.1" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><circle cx="458.3" cy="214.4" r="4" fill="#3465a4"><title>Nethybridge</title></circle></a><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/"><circle cx="428.6" cy="141.9" r="4" fill="#3465a4"><title>Connemara (District)</title></circle></a><a href="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/"><circle cx="307.3" cy="155.3" r="4" fill="#3465a4"><title>Bowhunter (Fashion)</title></circle></a><circle cx="415.9" cy="176.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.8" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/"><circle cx="505.9" cy="189.0" r="4" fill="#3465a4"><title>Raymond of Doune</title></circle></a><a href="/variants/s7/db26dg6db2dg17dy4w1dy4~x4/"><circle cx="441.9" cy="218.9" r="4" fill="#3465a4"><title>Doral</title></circle></a><a href="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/"><circle cx="408.1" cy="148.1" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/"><circle cx="393.6" cy="158.2" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.4" cy="214.0" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><circle cx="458.3" cy="214.3" r="4" fill="#3465a4"><title>Nethybridge</title></circle></a><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/"><circle cx="428.6" cy="141.8" r="4" fill="#3465a4"><title>Connemara (District)</title></circle></a><a href="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/"><circle cx="307.4" cy="155.1" r="4" fill="#3465a4"><title>Bowhunter (Fashion)</title></circle></a><circle cx="415.9" cy="176.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/

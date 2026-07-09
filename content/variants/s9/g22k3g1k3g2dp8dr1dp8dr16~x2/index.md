@@ -1,14 +1,16 @@
 ---
 title: "Queen of Scots (Commemorative))"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Queen of Scots (Commemorative))"
-  url: ""
+  url: "/setts/g22k3g1k3g2dp8dr1dp8dr16/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g22k3g1k3g2dp8dr1dp8dr16/)
-(the same proportion at any scale), whose colour order is pattern [BBBBGKGKG](/stripes/bbbbgkgkg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g22k3g1k3g2dp8dr1dp8dr16/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBGKGKG](/stripes/bbbbgkgkg/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -68,6 +70,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k5dy5k5dy34n33k6n5lb2/"><circle cx="269.8" cy="162.3" r="4" fill="#3465a4"><title>Brave for Men</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.4" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4/"><circle cx="200.5" cy="127.2" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="213.4" cy="162.0" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s9/db16k1r7k1r7k1db7g24y4~x2/"><circle cx="178.0" cy="128.2" r="4" fill="#3465a4"><title>Knockando Woolmill</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="210.5" cy="169.1" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="211.9" cy="148.4" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/"><circle cx="169.6" cy="144.8" r="4" fill="#3465a4"><title>MacIsaac (Name?)</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.6" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><circle cx="226.8" cy="141.7" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><circle cx="221.7" cy="148.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k5dy5k5dy34n33k6n5lb2/"><circle cx="269.8" cy="162.2" r="4" fill="#3465a4"><title>Brave for Men</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.3" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4/"><circle cx="200.5" cy="127.1" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="213.5" cy="161.9" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s9/db16k1r7k1r7k1db7g24y4~x2/"><circle cx="178.0" cy="128.1" r="4" fill="#3465a4"><title>Knockando Woolmill</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="210.5" cy="169.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="211.9" cy="148.3" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/"><circle cx="169.6" cy="144.7" r="4" fill="#3465a4"><title>MacIsaac (Name?)</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.5" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><circle cx="226.8" cy="141.6" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><circle cx="221.7" cy="148.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/

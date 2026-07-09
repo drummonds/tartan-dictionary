@@ -1,16 +1,18 @@
 ---
 title: "Contrecoeur Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Contrecoeur"
   url: "/tartans/contrecoeur/"
 - name: "Contrecoeur Corporate Tartan"
-  url: ""
+  url: "/setts/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5/)
-(the same proportion at any scale), whose colour order is pattern [BRWRGGGGKRWGGGG](/stripes/brwrggggkrwgggg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRWRGGGGKRWGGGG](/stripes/brwrggggkrwgggg/).
 
 Part of the [Contrecoeur](/tartans/contrecoeur/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1992 Small township in southern Quebec. Tartan designed by 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1992 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r25w2o5dg2db2o5w2g12w2b2o2r5k2r5o2b2w2o9~x2/"><circle cx="128.8" cy="71.1" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/"><circle cx="127.0" cy="125.9" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/"><circle cx="112.4" cy="68.3" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.3" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s7/t4dp3g1dg9lb1r8k1~x4~t2503227-g1903114-dg1806142-lb3200000-r2109032/"><circle cx="129.7" cy="147.9" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/"><circle cx="115.3" cy="47.4" r="4" fill="#3465a4"><title>Fitzgerald dress</title></circle></a><a href="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2109032-r1807008/"><circle cx="114.1" cy="46.6" r="4" fill="#3465a4"><title>Fitzgerald Family Tartan</title></circle></a><a href="/variants/s18/dy24o2dy2o12k4lr4wi4w4y4lo4dy4o12dy2o2dy24k1lr2k1~x2~dy1503076-wi4000000-w3701120/"><circle cx="196.6" cy="48.1" r="4" fill="#3465a4"><title>Bear Corporate Tartan</title></circle></a><a href="/variants/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2~x2~dy1503076-lr3000000-wi3701120/"><circle cx="198.9" cy="49.6" r="4" fill="#3465a4"><title>Bear</title></circle></a><a href="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/"><circle cx="125.9" cy="106.6" r="4" fill="#3465a4"><title>Australian Donkey</title></circle></a><circle cx="121.2" cy="97.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r25w2o5dg2db2o5w2g12w2b2o2r5k2r5o2b2w2o9~x2/"><circle cx="128.8" cy="70.9" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/"><circle cx="127.0" cy="125.8" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/"><circle cx="112.4" cy="68.1" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s7/t4dp3g1dg9lb1r8k1~x4~t2503227-g1903114-dg1806142-lb3200000-r2109032/"><circle cx="129.7" cy="147.7" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/"><circle cx="115.3" cy="47.2" r="4" fill="#3465a4"><title>Fitzgerald dress</title></circle></a><a href="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2109032-r1807008/"><circle cx="114.1" cy="46.4" r="4" fill="#3465a4"><title>Fitzgerald Family Tartan</title></circle></a><a href="/variants/s18/dy24o2dy2o12k4lr4wi4w4y4lo4dy4o12dy2o2dy24k1lr2k1~x2~dy1503076-wi4000000-w3701120/"><circle cx="196.6" cy="47.9" r="4" fill="#3465a4"><title>Bear Corporate Tartan</title></circle></a><a href="/variants/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2~x2~dy1503076-lr3000000-wi3701120/"><circle cx="198.9" cy="49.4" r="4" fill="#3465a4"><title>Bear</title></circle></a><a href="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/"><circle cx="125.9" cy="106.5" r="4" fill="#3465a4"><title>Australian Donkey</title></circle></a><circle cx="121.2" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5~x2/

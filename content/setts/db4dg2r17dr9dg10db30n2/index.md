@@ -1,5 +1,12 @@
 ---
 title: "Dempster, Ross (Personal)"
-redirect: "/variants/s7/db4dg2r17dr9dg10db30n2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dempster, Ross (Personal)](/variants/s7/db4dg2r17dr9dg10db30n2~x2/).
+This is the **Dempster, Ross (Personal)** sett — one scale-free proportion (`db4dg2r17dr9dg10db30n2`), colour order pattern
+[BBGBRGB](/stripes/bbgbrgb/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dempster, Ross (Personal)](/variants/s7/db4dg2r17dr9dg10db30n2~x2/) ★ | 2001 | ![Dempster, Ross (Personal) sett](/variants/s7/db4dg2r17dr9dg10db30n2~x2/sett.png) |

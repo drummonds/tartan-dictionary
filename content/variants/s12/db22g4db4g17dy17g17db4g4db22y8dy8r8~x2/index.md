@@ -1,14 +1,16 @@
 ---
 title: "Niagra Falls Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Niagra Falls Trade Tartan"
-  url: ""
+  url: "/setts/db22g4db4g17dy17g17db4g4db22y8dy8r8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db22g4db4g17dy17g17db4g4db22y8dy8r8/)
-(the same proportion at any scale), whose colour order is pattern [BGBGGGBGBGGR](/stripes/bgbgggbgbggr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db22g4db4g17dy17g17db4g4db22y8dy8r8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGGGBGBGGR](/stripes/bgbgggbgbggr/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1967 Designed to be used in the refurbishing of Johnstons o
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1967 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><circle cx="174.3" cy="221.4" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/"><circle cx="171.0" cy="220.6" r="4" fill="#3465a4"><title>MacVicar, McVicar, McVicker</title></circle></a><a href="/variants/s12/db22g4db4g17o17g17db4g4db22y8o8r8~x2/"><circle cx="154.4" cy="226.9" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s11/db3dy14g14dy2db14dy2db14dy2g14dy14r3~x2/"><circle cx="207.5" cy="239.5" r="4" fill="#3465a4"><title>Buchanan Hunting</title></circle></a><a href="/variants/s12/dg11lb3dg4y3dg3y4dg3o13b3lb3b4dg3~x2/"><circle cx="170.6" cy="230.2" r="4" fill="#3465a4"><title>Harmony, 2 &amp; 3</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="155.8" cy="237.5" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/"><circle cx="158.7" cy="186.6" r="4" fill="#3465a4"><title>Hash House Harriers Hunting</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><circle cx="158.1" cy="186.4" r="4" fill="#3465a4"><title>Hash House Harriers Hunting (Corp)</title></circle></a><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><circle cx="182.7" cy="214.2" r="4" fill="#3465a4"><title>Maple Leaf Blue</title></circle></a><circle cx="162.3" cy="231.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><circle cx="174.3" cy="221.3" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/"><circle cx="171.0" cy="220.5" r="4" fill="#3465a4"><title>MacVicar, McVicar, McVicker</title></circle></a><a href="/variants/s12/db22g4db4g17o17g17db4g4db22y8o8r8~x2/"><circle cx="154.4" cy="226.8" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s11/db3dy14g14dy2db14dy2db14dy2g14dy14r3~x2/"><circle cx="207.5" cy="239.5" r="4" fill="#3465a4"><title>Buchanan Hunting</title></circle></a><a href="/variants/s12/dg11lb3dg4y3dg3y4dg3o13b3lb3b4dg3~x2/"><circle cx="170.6" cy="230.1" r="4" fill="#3465a4"><title>Harmony, 2 &amp; 3</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="155.8" cy="237.4" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/"><circle cx="158.8" cy="186.5" r="4" fill="#3465a4"><title>Hash House Harriers Hunting</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><circle cx="158.2" cy="186.3" r="4" fill="#3465a4"><title>Hash House Harriers Hunting (Corp)</title></circle></a><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><circle cx="182.7" cy="214.1" r="4" fill="#3465a4"><title>Maple Leaf Blue</title></circle></a><circle cx="162.3" cy="231.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db22g4db4g17dy17g17db4g4db22y8dy8r8~x2/

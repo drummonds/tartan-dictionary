@@ -1,5 +1,12 @@
 ---
 title: "Salt Lake Scots"
-redirect: "/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Salt Lake Scots](/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/).
+This is the **Salt Lake Scots** sett — one scale-free proportion (`o17b2w2b2o20oi18db3oi6k2`), colour order pattern
+[KRBRRBWBR](/stripes/krbrrbwbr/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Salt Lake Scots](/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/) ★ | 2002 | ![Salt Lake Scots sett](/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/sett.png) |

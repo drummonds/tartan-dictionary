@@ -1,5 +1,12 @@
 ---
 title: "Asahi (Estimated threadcount)"
-redirect: "/variants/s5/w45t2w4t15w7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Asahi (Estimated threadcount)](/variants/s5/w45t2w4t15w7~x2/).
+This is the **Asahi (Estimated threadcount)** sett — one scale-free proportion (`w45t2w4t15w7`), colour order pattern
+[WBWBW](/stripes/wbwbw/). It is recorded as a single **variant**, below.
+First attested **2005**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Asahi (Estimated threadcount)](/variants/s5/w45t2w4t15w7~x2/) ★ | 2005 | ![Asahi (Estimated threadcount) sett](/variants/s5/w45t2w4t15w7~x2/sett.png) |

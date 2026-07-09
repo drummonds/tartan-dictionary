@@ -1,5 +1,12 @@
 ---
 title: "Punky Princess"
-redirect: "/variants/s7/k14dp2k4lb3k12dp8k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Punky Princess](/variants/s7/k14dp2k4lb3k12dp8k1~x2/).
+This is the **Punky Princess** sett — one scale-free proportion (`k14dp2k4lb3k12dp8k1`), colour order pattern
+[KBKWKBK](/stripes/kbkwkbk/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Punky Princess](/variants/s7/k14dp2k4lb3k12dp8k1~x2/) ★ | 2011 | ![Punky Princess sett](/variants/s7/k14dp2k4lb3k12dp8k1~x2/sett.png) |

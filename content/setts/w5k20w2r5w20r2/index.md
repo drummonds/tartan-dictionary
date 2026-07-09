@@ -1,5 +1,12 @@
 ---
 title: "Gangs of New York Fashion Check Tartan"
-redirect: "/variants/s6/w5k20w2r5w20r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gangs of New York Fashion Check Tartan](/variants/s6/w5k20w2r5w20r2~x2/).
+This is the **Gangs of New York Fashion Check Tartan** sett — one scale-free proportion (`w5k20w2r5w20r2`), colour order pattern
+[RWRWKW](/stripes/rwrwkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gangs of New York Fashion Check Tartan](/variants/s6/w5k20w2r5w20r2~x2/) ★ | ~2016 | ![Gangs of New York Fashion Check Tartan sett](/variants/s6/w5k20w2r5w20r2~x2/sett.png) |

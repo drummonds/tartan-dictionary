@@ -1,5 +1,12 @@
 ---
 title: "Kingennie Sunrise"
-redirect: "/variants/s11/dp24lbi4lr3t3b3dp3o3k24g2dp2lb2~x2~lbi3300000-lr3100000-t2403246-b1813263/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kingennie Sunrise](/variants/s11/dp24lbi4lr3t3b3dp3o3k24g2dp2lb2~x2~lbi3300000-lr3100000-t2403246-b1813263/).
+This is the **Kingennie Sunrise** sett — one scale-free proportion (`dp24lbi4lr3t3b3dp3o3k24g2dp2lb2`), colour order pattern
+[BWYBBBRKGBW](/stripes/bwybbbrkgbw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kingennie Sunrise](/variants/s11/dp24lbi4lr3t3b3dp3o3k24g2dp2lb2~x2~lbi3300000-lr3100000-t2403246-b1813263/) ★ | 2016 | ![Kingennie Sunrise sett](/variants/s11/dp24lbi4lr3t3b3dp3o3k24g2dp2lb2~x2~lbi3300000-lr3100000-t2403246-b1813263/sett.png) |

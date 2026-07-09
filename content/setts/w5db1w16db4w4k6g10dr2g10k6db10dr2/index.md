@@ -1,5 +1,12 @@
 ---
 title: "Murray of Atholl Dress"
-redirect: "/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Murray of Atholl Dress](/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/).
+This is the **Murray of Atholl Dress** sett — one scale-free proportion (`w5db1w16db4w4k6g10dr2g10k6db10dr2`), colour order pattern
+[BBKGBGKWBWBW](/stripes/bbkgbgkwbwbw/). It is recorded as a single **variant**, below.
+First attested **1880**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Murray of Atholl Dress](/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/) ★ | 1880 | ![Murray of Atholl Dress sett](/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/sett.png) |

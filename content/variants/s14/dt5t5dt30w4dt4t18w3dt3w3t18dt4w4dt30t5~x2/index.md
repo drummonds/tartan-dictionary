@@ -1,16 +1,18 @@
 ---
 title: "Salem Scottish Dancers (Dance) #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Salem Scottish Dancers"
   url: "/tartans/salem-scottish-dancers/"
 - name: "Salem Scottish Dancers (Dance) #2"
-  url: ""
+  url: "/setts/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5/)
-(the same proportion at any scale), whose colour order is pattern [BBBWBBWBWBBWBB](/stripes/bbbwbbwbwbbwbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBWBBWBWBBWBB](/stripes/bbbwbbwbwbbwbb/).
 
 Part of the [Salem Scottish Dancers](/tartans/salem-scottish-dancers/) tartan — the named design grouping this sett with its other cloths.
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dt5t5dt30w4dt4t18w3dt3~x2/"><circle cx="386.1" cy="234.3" r="4" fill="#3465a4"><title>Salem Scottish Dancers (Corporate)</title></circle></a><a href="/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/"><circle cx="302.2" cy="218.3" r="4" fill="#3465a4"><title>Caledonian Airways (Corporate)</title></circle></a><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><circle cx="256.6" cy="263.0" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/"><circle cx="311.4" cy="227.1" r="4" fill="#3465a4"><title>Bruce (Personal)</title></circle></a><a href="/variants/s12/g3db3g3db24g3db3g3lo2g18dr2g18lo2~x2/"><circle cx="354.0" cy="185.0" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="308.0" cy="186.2" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><circle cx="357.2" cy="215.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dt5t5dt30w4dt4t18w3dt3~x2/"><circle cx="386.2" cy="234.3" r="4" fill="#3465a4"><title>Salem Scottish Dancers (Corporate)</title></circle></a><a href="/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/"><circle cx="302.2" cy="218.3" r="4" fill="#3465a4"><title>Caledonian Airways (Corporate)</title></circle></a><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><circle cx="256.6" cy="262.9" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/"><circle cx="311.4" cy="227.1" r="4" fill="#3465a4"><title>Bruce (Personal)</title></circle></a><a href="/variants/s12/g3db3g3db24g3db3g3lo2g18dr2g18lo2~x2/"><circle cx="354.0" cy="184.9" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="308.0" cy="186.0" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><circle cx="357.2" cy="215.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/

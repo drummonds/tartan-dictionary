@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/">Manitoba</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/"><img src="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/">Manitoba District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/"><img src="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/sett.png" alt="Manitoba District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

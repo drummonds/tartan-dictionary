@@ -1,14 +1,16 @@
 ---
 title: "Wcwm 1651"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wcwm 1651"
-  url: ""
+  url: "/setts/dr10k1dr3g7k7g5lo3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr10k1dr3g7k7g5lo3/)
-(the same proportion at any scale), whose colour order is pattern [BKBGKGY](/stripes/bkbgkgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr10k1dr3g7k7g5lo3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBGKGY](/stripes/bkbgkgy/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.9" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.7" cy="241.8" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="208.5" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="204.1" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="134.4" cy="205.4" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.7" cy="228.9" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.5" cy="229.5" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><circle cx="136.3" cy="219.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.8" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.7" cy="241.7" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="208.5" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.4" cy="204.0" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="134.4" cy="205.3" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.7" cy="228.8" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.5" cy="229.5" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><circle cx="136.4" cy="219.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr10k1dr3g7k7g5lo3~x4/

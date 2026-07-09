@@ -1,5 +1,12 @@
 ---
 title: "Royal College of Midwives"
-redirect: "/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Royal College of Midwives](/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/).
+This is the **Royal College of Midwives** sett — one scale-free proportion (`dy5lb3k1lb6n11lb3t3lb43w3`), colour order pattern
+[GWKWBWBWW](/stripes/gwkwbwbww/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Royal College of Midwives](/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/) ★ | 2002 | ![Royal College of Midwives sett](/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/sett.png) |

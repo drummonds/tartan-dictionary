@@ -1,16 +1,18 @@
 ---
 title: "Winthrop University (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Winthrop University"
   url: "/tartans/winthrop-university/"
 - name: "Winthrop University (Corporate)"
-  url: ""
+  url: "/setts/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2/)
-(the same proportion at any scale), whose colour order is pattern [BWBBBBBBYBYBYWY](/stripes/bwbbbbbbybybywy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBYBYBYWY](/stripes/bwbbbbbbybybywy/).
 
 Part of the [Winthrop University](/tartans/winthrop-university/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2~x2/"><circle cx="349.7" cy="133.3" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><circle cx="364.7" cy="164.8" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/"><circle cx="369.9" cy="158.1" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"><circle cx="303.2" cy="154.4" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/variants/s12/w4db2lo8db2n2db2n2db23lo10db2lo7db2~x2/"><circle cx="299.5" cy="181.2" r="4" fill="#3465a4"><title>Auld Lang Syne Brown Tartan</title></circle></a><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><circle cx="324.2" cy="169.4" r="4" fill="#3465a4"><title>Citylink Gold (Corporate)</title></circle></a><a href="/variants/s10/lyi6ly3lyi3ly15db7lyi7db5lyi17db46w4~lyi2503076-db0705267/"><circle cx="306.8" cy="179.0" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><circle cx="339.2" cy="137.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2~x2/"><circle cx="349.7" cy="133.1" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><circle cx="364.7" cy="164.7" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/"><circle cx="369.9" cy="158.0" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"><circle cx="303.2" cy="154.3" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/variants/s12/w4db2lo8db2n2db2n2db23lo10db2lo7db2~x2/"><circle cx="299.5" cy="181.1" r="4" fill="#3465a4"><title>Auld Lang Syne Brown Tartan</title></circle></a><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><circle cx="324.3" cy="169.4" r="4" fill="#3465a4"><title>Citylink Gold (Corporate)</title></circle></a><a href="/variants/s10/lyi6ly3lyi3ly15db7lyi7db5lyi17db46w4~lyi2503076-db0705267/"><circle cx="306.8" cy="178.9" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><circle cx="339.2" cy="137.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2~x2/

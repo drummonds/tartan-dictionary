@@ -1,5 +1,12 @@
 ---
 title: "Mary, Queen of Scots"
-redirect: "/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mary, Queen of Scots](/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/).
+This is the **Mary, Queen of Scots** sett — one scale-free proportion (`r5w1db10g10w1y1g2lb2w1`), colour order pattern
+[RWBGWGGWW](/stripes/rwbgwggww/). It is recorded as a single **variant**, below.
+First attested **1800**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mary, Queen of Scots](/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/) ★ | 1800 | ![Mary, Queen of Scots sett](/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/sett.png) |

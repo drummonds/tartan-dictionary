@@ -1,14 +1,16 @@
 ---
 title: "Culloden Grey"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Culloden Grey"
-  url: ""
+  url: "/setts/n6k2n23k23w2dp24db3r6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n6k2n23k23w2dp24db3r6/)
-(the same proportion at any scale), whose colour order is pattern [BKBKWBBR](/stripes/bkbkwbbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n6k2n23k23w2dp24db3r6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKWBBR](/stripes/bkbkwbbr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><circle cx="125.7" cy="127.4" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/"><circle cx="121.8" cy="126.3" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.6" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="139.0" cy="113.9" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.7" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="120.8" cy="153.7" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="89.3" cy="162.6" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/"><circle cx="92.0" cy="129.0" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="86.5" cy="132.6" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.5" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><circle cx="126.3" cy="151.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><circle cx="125.7" cy="127.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/"><circle cx="121.8" cy="126.1" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.5" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="139.1" cy="113.8" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><circle cx="147.4" cy="160.6" r="4" fill="#3465a4"><title>Scotch House 2000, antique</title></circle></a><a href="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="120.8" cy="153.6" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="89.3" cy="162.5" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/"><circle cx="92.0" cy="128.9" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="86.5" cy="132.5" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.4" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><circle cx="126.4" cy="150.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n6k2n23k23w2dp24db3r6~x2/

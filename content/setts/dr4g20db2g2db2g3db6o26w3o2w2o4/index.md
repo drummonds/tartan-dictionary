@@ -1,5 +1,12 @@
 ---
 title: "Dorcas (Fashion)"
-redirect: "/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dorcas (Fashion)](/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/).
+This is the **Dorcas (Fashion)** sett — one scale-free proportion (`dr4g20db2g2db2g3db6o26w3o2w2o4`), colour order pattern
+[BGBGBGBRWRWR](/stripes/bgbgbgbrwrwr/). It is recorded as a single **variant**, below.
+First attested **1990**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Dorcas (Fashion)](/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/) ★ | 1990 | ![Dorcas (Fashion) sett](/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/sett.png) |

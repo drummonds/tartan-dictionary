@@ -1,5 +1,12 @@
 ---
 title: "Oakhall"
-redirect: "/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Oakhall](/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/).
+This is the **Oakhall** sett — one scale-free proportion (`dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3`), colour order pattern
+[BGBGGGKGGGBGBK](/stripes/bgbgggkgggbgbk/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Oakhall](/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/) ★ | 2004 | ![Oakhall sett](/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/sett.png) |

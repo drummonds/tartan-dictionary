@@ -1,14 +1,16 @@
 ---
 title: "Boroughmuir"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Boroughmuir"
-  url: ""
+  url: "/setts/dg30w8b32y1b8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg30w8b32y1b8/)
-(the same proportion at any scale), whose colour order is pattern [BGBWG](/stripes/bgbwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg30w8b32y1b8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWG](/stripes/bgbwg/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g30w8db32y1db8~x2/"><circle cx="326.7" cy="196.8" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.9" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.2" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.6" cy="207.3" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="272.4" cy="190.3" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="201.0" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="430.0" cy="198.1" r="4" fill="#3465a4"><title>MaleHsuHK (Hong Kong) (Personal)</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="431.3" cy="198.5" r="4" fill="#3465a4"><title>Hsu (Personal)</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="344.8" cy="203.1" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.6" cy="237.1" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><circle cx="344.0" cy="199.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g30w8db32y1db8~x2/"><circle cx="326.8" cy="196.7" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.8" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.1" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.6" cy="207.2" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="272.4" cy="190.2" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="200.9" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="430.0" cy="198.1" r="4" fill="#3465a4"><title>MaleHsuHK (Hong Kong) (Personal)</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="431.3" cy="198.4" r="4" fill="#3465a4"><title>Hsu (Personal)</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="344.9" cy="203.1" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.7" cy="237.0" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><circle cx="344.1" cy="199.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dg30w8b32y1b8~x2/

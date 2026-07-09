@@ -1,14 +1,16 @@
 ---
 title: "Clerke of Ulva"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clerke of Ulva"
-  url: ""
+  url: "/setts/lb3g3k4g14k4g3k14db18r1db4r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb3g3k4g14k4g3k14db18r1db4r2/)
-(the same proportion at any scale), whose colour order is pattern [RBRBKGKGKGW](/stripes/rbrbkgkgkgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lb3g3k4g14k4g3k14db18r1db4r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBKGKGKGW](/stripes/rbrbkgkgkgw/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="125.3" cy="139.9" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.9" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.5" cy="144.6" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="150.1" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.5" cy="151.9" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="127.7" cy="127.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.3" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s11/db24k4db4k4db4k24g24r5g6k2y2~x2/"><circle cx="131.3" cy="144.3" r="4" fill="#3465a4"><title>Grant</title></circle></a><circle cx="125.8" cy="134.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="125.3" cy="139.8" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.8" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.6" cy="144.5" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="150.0" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.5" cy="151.7" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="127.7" cy="127.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.2" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s11/db24k4db4k4db4k24g24r5g6k2y2~x2/"><circle cx="131.3" cy="144.1" r="4" fill="#3465a4"><title>Grant</title></circle></a><circle cx="125.8" cy="134.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/

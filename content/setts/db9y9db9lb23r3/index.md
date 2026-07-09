@@ -1,5 +1,12 @@
 ---
 title: "Tilburg (District)"
-redirect: "/variants/s5/db9y9db9lb23r3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tilburg (District)](/variants/s5/db9y9db9lb23r3~x2/).
+This is the **Tilburg (District)** sett — one scale-free proportion (`db9y9db9lb23r3`), colour order pattern
+[BGBWR](/stripes/bgbwr/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tilburg (District)](/variants/s5/db9y9db9lb23r3~x2/) ★ | 2007 | ![Tilburg (District) sett](/variants/s5/db9y9db9lb23r3~x2/sett.png) |

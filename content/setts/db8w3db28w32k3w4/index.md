@@ -1,5 +1,12 @@
 ---
 title: "Ailsa, Navy (Dance)"
-redirect: "/variants/s6/db8w3db28w32k3w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ailsa, Navy (Dance)](/variants/s6/db8w3db28w32k3w4~x2/).
+This is the **Ailsa, Navy (Dance)** sett — one scale-free proportion (`db8w3db28w32k3w4`), colour order pattern
+[BWBWKW](/stripes/bwbwkw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ailsa, Navy (Dance)](/variants/s6/db8w3db28w32k3w4~x2/) ★ | 2008 | ![Ailsa, Navy (Dance) sett](/variants/s6/db8w3db28w32k3w4~x2/sett.png) |

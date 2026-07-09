@@ -1,14 +1,16 @@
 ---
 title: "George Watson's College"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "George Watson's College"
-  url: ""
+  url: "/setts/r1g4w1g4y1dr8lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1g4w1g4y1dr8lb1/)
-(the same proportion at any scale), whose colour order is pattern [RGWGGBW](/stripes/rgwggbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r1g4w1g4y1dr8lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGWGGBW](/stripes/rgwggbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="242.8" cy="179.6" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><circle cx="247.9" cy="195.1" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="112.0" cy="205.3" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><circle cx="110.6" cy="205.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.6" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11~x3/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.8" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/ly4dy2ly21db11w2n20r3~x2/"><circle cx="177.2" cy="180.2" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><circle cx="188.4" cy="191.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="242.9" cy="179.5" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><circle cx="247.9" cy="195.1" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="112.0" cy="205.2" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><circle cx="110.6" cy="205.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.9" cy="187.6" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11~x3/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/ly4dy2ly21db11w2n20r3~x2/"><circle cx="177.2" cy="180.2" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><circle cx="188.4" cy="191.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r1g4w1g4y1dr8lb1~x6/

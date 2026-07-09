@@ -1,5 +1,12 @@
 ---
 title: "Presbyterian College Band (Corp)"
-redirect: "/variants/s7/r28k2p36k2w4k2p7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Presbyterian College Band (Corp)](/variants/s7/r28k2p36k2w4k2p7~x2/).
+This is the **Presbyterian College Band (Corp)** sett — one scale-free proportion (`r28k2p36k2w4k2p7`), colour order pattern
+[BKWKBKR](/stripes/bkwkbkr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Presbyterian College Band (Corp)](/variants/s7/r28k2p36k2w4k2p7~x2/) ★ | 2008 | ![Presbyterian College Band (Corp) sett](/variants/s7/r28k2p36k2w4k2p7~x2/sett.png) |

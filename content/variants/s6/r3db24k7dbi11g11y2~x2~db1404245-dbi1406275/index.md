@@ -1,14 +1,16 @@
 ---
 title: "Cowie"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cowie"
-  url: ""
+  url: "/setts/r3db24k7dbi11g11y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db24k7dbi11g11y2/)
-(the same proportion at any scale), whose colour order is pattern [GGBKBR](/stripes/ggbkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3db24k7dbi11g11y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBKBR](/stripes/ggbkbr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.2" cy="162.9" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="172.9" cy="217.9" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.2" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><circle cx="150.9" cy="190.2" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.3" cy="169.5" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.4" cy="142.9" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.7" cy="154.4" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="216.1" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s5/dg36y3do5db18k28~x2/"><circle cx="191.0" cy="192.6" r="4" fill="#3465a4"><title>Dobson Name Tartan</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.7" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><circle cx="178.5" cy="188.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.2" cy="162.9" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="173.0" cy="217.8" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.3" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><circle cx="150.9" cy="190.1" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.4" cy="169.4" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.5" cy="142.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="216.1" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s5/dg36y3do5db18k28~x2/"><circle cx="191.0" cy="192.5" r="4" fill="#3465a4"><title>Dobson Name Tartan</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.6" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><circle cx="178.6" cy="188.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/

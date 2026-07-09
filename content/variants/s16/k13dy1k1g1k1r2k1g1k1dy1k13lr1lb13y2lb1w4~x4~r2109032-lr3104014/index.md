@@ -1,14 +1,16 @@
 ---
 title: "Kungsholmen Snooker"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kungsholmen Snooker"
-  url: ""
+  url: "/setts/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4/)
-(the same proportion at any scale), whose colour order is pattern [KGKGKRKGKGKYWGWW](/stripes/kgkgkrkgkgkywgww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGKGKRKGKGKYWGWW](/stripes/kgkgkrkgkgkywgww/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4r8ly4k2ly4k40g5dp4g5k2t2w4~x2/"><circle cx="209.8" cy="47.9" r="4" fill="#3465a4"><title>MacMunn</title></circle></a><a href="/variants/s16/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2~x2/"><circle cx="190.3" cy="64.4" r="4" fill="#3465a4"><title>Zinnen of Scene (Luxembourg) (Personal)</title></circle></a><a href="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/"><circle cx="83.0" cy="69.8" r="4" fill="#3465a4"><title>Kungsholmen Snooker Corporate Sports Tartan</title></circle></a><circle cx="141.3" cy="46.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4r8ly4k2ly4k40g5dp4g5k2t2w4~x2/"><circle cx="209.8" cy="47.7" r="4" fill="#3465a4"><title>MacMunn</title></circle></a><a href="/variants/s16/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2~x2/"><circle cx="190.3" cy="64.2" r="4" fill="#3465a4"><title>Zinnen of Scene (Luxembourg) (Personal)</title></circle></a><a href="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/"><circle cx="83.1" cy="69.6" r="4" fill="#3465a4"><title>Kungsholmen Snooker Corporate Sports Tartan</title></circle></a><circle cx="141.3" cy="45.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/

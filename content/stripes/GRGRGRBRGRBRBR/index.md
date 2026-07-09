@@ -38,8 +38,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/">MacAlister of Glenbarr</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><img src="/variants/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/sett.png" alt="MacAlister of Glenbarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/">MacGillivray #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><img src="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/sett.png" alt="MacGillivray #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/">MacGillivray Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><img src="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/sett.png" alt="MacGillivray Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

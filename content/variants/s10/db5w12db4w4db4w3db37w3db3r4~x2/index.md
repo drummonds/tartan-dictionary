@@ -1,14 +1,16 @@
 ---
 title: "Unidentified #26"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified #26"
-  url: ""
+  url: "/setts/db5w12db4w4db4w3db37w3db3r4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5w12db4w4db4w3db37w3db3r4/)
-(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBR](/stripes/bwbwbwbwbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db5w12db4w4db4w3db37w3db3r4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBR](/stripes/bwbwbwbwbr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><circle cx="363.0" cy="118.0" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="314.5" cy="187.8" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="164.3" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.9" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.6" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="475.0" cy="122.1" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.9" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/"><circle cx="292.5" cy="198.7" r="4" fill="#3465a4"><title>Jubilation (Commemorative)</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.1" cy="182.0" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="181.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><circle cx="378.9" cy="157.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><circle cx="363.0" cy="117.8" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="314.5" cy="187.7" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="164.2" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.8" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.5" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="475.0" cy="121.9" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.8" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/"><circle cx="292.5" cy="198.6" r="4" fill="#3465a4"><title>Jubilation (Commemorative)</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.2" cy="181.9" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.9" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><circle cx="378.9" cy="157.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db5w12db4w4db4w3db37w3db3r4~x2/

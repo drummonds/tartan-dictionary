@@ -1,16 +1,18 @@
 ---
 title: "Semper"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Semper"
   url: "/tartans/semper/"
 - name: "Semper"
-  url: ""
+  url: "/setts/g16dg1lg4dg41lg1dg6y2dg2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16dg1lg4dg41lg1dg6y2dg2/)
-(the same proportion at any scale), whose colour order is pattern [GGGYGYGG](/stripes/gggygygg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g16dg1lg4dg41lg1dg6y2dg2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGYGYGG](/stripes/gggygygg/).
 
 Part of the [Semper](/tartans/semper/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.8" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/"><circle cx="391.1" cy="79.0" r="4" fill="#3465a4"><title>Springbok (Fashion)</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.8" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s7/g55dg6g7dg17y1dg2y2~x2/"><circle cx="591.0" cy="177.1" r="4" fill="#3465a4"><title>MacBeorn</title></circle></a><a href="/variants/s8/g78db13y6r3y5g6db9y6~x2/"><circle cx="468.3" cy="148.9" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/"><circle cx="450.7" cy="162.0" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><circle cx="447.3" cy="110.3" r="4" fill="#3465a4"><title>Hayden (Dublin) (Personal)</title></circle></a><a href="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/"><circle cx="483.7" cy="135.8" r="4" fill="#3465a4"><title>Hastings-Stephenson (Personal)</title></circle></a><a href="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/"><circle cx="475.0" cy="110.5" r="4" fill="#3465a4"><title>Hayden, Thomas (Personal)</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="413.9" cy="143.6" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="511.3" cy="144.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.6" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/"><circle cx="391.1" cy="78.8" r="4" fill="#3465a4"><title>Springbok (Fashion)</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.7" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s7/g55dg6g7dg17y1dg2y2~x2/"><circle cx="591.0" cy="177.0" r="4" fill="#3465a4"><title>MacBeorn</title></circle></a><a href="/variants/s8/g78db13y6r3y5g6db9y6~x2/"><circle cx="468.4" cy="148.8" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/"><circle cx="450.8" cy="161.9" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><circle cx="447.3" cy="110.2" r="4" fill="#3465a4"><title>Hayden (Dublin) (Personal)</title></circle></a><a href="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/"><circle cx="483.7" cy="135.7" r="4" fill="#3465a4"><title>Hastings-Stephenson (Personal)</title></circle></a><a href="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/"><circle cx="475.0" cy="110.4" r="4" fill="#3465a4"><title>Hayden, Thomas (Personal)</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="413.9" cy="143.5" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="511.3" cy="144.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k1g5k5db5k1db1k1~x4/">Strathspey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><img src="/variants/s7/k1g5k5db5k1db1k1~x4/sett.png" alt="Strathspey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/">Strathspey District (District)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><img src="/variants/s7/k1dg5k5t5k1t1k1~x4/sett.png" alt="Strathspey District (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k1g5k5db5k1db1k1~x4/">Strathspey District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><img src="/variants/s7/k1g5k5db5k1db1k1~x4/sett.png" alt="Strathspey District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s7/k1n2k7n11k18y2k1~x2/">DDB Canada (Fashion)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/k1n2k7n11k18y2k1~x2/"><img src="/variants/s7/k1n2k7n11k18y2k1~x2/sett.png" alt="DDB Canada (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

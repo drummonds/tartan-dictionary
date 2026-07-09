@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/">Deas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/"><img src="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/sett.png" alt="Deas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/">Deas Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/"><img src="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/sett.png" alt="Deas Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

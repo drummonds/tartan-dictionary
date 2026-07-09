@@ -1,5 +1,12 @@
 ---
 title: "Royal Army of Oman"
-redirect: "/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Royal Army of Oman](/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/).
+This is the **Royal Army of Oman** sett — one scale-free proportion (`dg6w3dg15r3dg15y3k10dg21r3k3r3dg3`), colour order pattern
+[GRKRGKGGRGWG](/stripes/grkrgkggrgwg/). It is recorded as a single **variant**, below.
+First attested **2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Royal Army of Oman](/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/) ★ | 2003 | ![Royal Army of Oman sett](/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/sett.png) |

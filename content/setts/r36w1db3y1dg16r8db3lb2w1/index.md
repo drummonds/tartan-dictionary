@@ -1,5 +1,12 @@
 ---
 title: "Perthshire or Drummond of Perth"
-redirect: "/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Perthshire or Drummond of Perth](/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/).
+This is the **Perthshire or Drummond of Perth** sett — one scale-free proportion (`r36w1db3y1dg16r8db3lb2w1`), colour order pattern
+[RWBGGRBWW](/stripes/rwbggrbww/). It is recorded as a single **variant**, below.
+First attested **1831**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Perthshire or Drummond of Perth](/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/) ★ | 1831 | ![Perthshire or Drummond of Perth sett](/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/sett.png) |

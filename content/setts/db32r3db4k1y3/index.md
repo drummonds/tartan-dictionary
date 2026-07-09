@@ -2,13 +2,13 @@
 title: "MacLaine of Lochbuie Hunting"
 date: 2023-03-18
 ---
-The **MacLaine of Lochbuie Hunting** tartan is one sett proportion (`db32r3db4k1y3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRBKG](/stripes/brbkg/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacLaine of Lochbuie Hunting** sett — one scale-free proportion (`db32r3db4k1y3`), colour order pattern
+[BRBKG](/stripes/brbkg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1906**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [MacLaine of Lochbuie Hunting](/variants/s5/db32r3db4k1y3/) ★ | ~2016 | ![MacLaine of Lochbuie Hunting sett](/variants/s5/db32r3db4k1y3/sett.png) |
-| ×2 | [MacLaine of Lochbuie, hunting](/variants/s5/db32r3db4k1y3~x2/) | ~2016 | ![MacLaine of Lochbuie, hunting sett](/variants/s5/db32r3db4k1y3~x2/sett.png) |
+| ×2 | [MacLaine of Lochbuie Hunting Clan Tartan](/variants/s5/db32r3db4k1y3~x2/) ★ | 1906 | ![MacLaine of Lochbuie Hunting Clan Tartan sett](/variants/s5/db32r3db4k1y3~x2/sett.png) |
+| ×1 | [MacLaine of Lochbuie Hunting](/variants/s5/db32r3db4k1y3/) | ~2016 | ![MacLaine of Lochbuie Hunting sett](/variants/s5/db32r3db4k1y3/sett.png) |

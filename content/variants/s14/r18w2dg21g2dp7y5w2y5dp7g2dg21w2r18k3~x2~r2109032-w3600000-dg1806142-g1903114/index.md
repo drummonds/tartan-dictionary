@@ -1,14 +1,16 @@
 ---
 title: "Wilson's No.132"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.132"
-  url: ""
+  url: "/setts/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3/)
-(the same proportion at any scale), whose colour order is pattern [KRWGGBGWGBGGWR](/stripes/krwggbgwgbggwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRWGGBGWGBGGWR](/stripes/krwggbgwgbggwr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t4dp3g1dg9lb1r8k1~x4~t2503227-g1903114-dg1806142-lb3200000-r2109032/"><circle cx="129.7" cy="147.9" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.3" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s15/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5~x2/"><circle cx="121.2" cy="97.2" r="4" fill="#3465a4"><title>Contrecoeur Corporate Tartan</title></circle></a><a href="/variants/s14/g12t5dr2k1dr2t5g12y3dr12g2w1g2dr12r3~x4/"><circle cx="154.3" cy="136.1" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><a href="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/"><circle cx="48.8" cy="134.1" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/"><circle cx="91.7" cy="154.0" r="4" fill="#3465a4"><title>Brittany National Walking (Fashion)</title></circle></a><a href="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/"><circle cx="152.4" cy="113.2" r="4" fill="#3465a4"><title>Golden Broom #2</title></circle></a><a href="/variants/s15/y10o1g2y2b2dr1b2y2g2o1y10dr7w3dr13db5~x2/"><circle cx="168.0" cy="131.8" r="4" fill="#3465a4"><title>Contrecoeur</title></circle></a><a href="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/"><circle cx="98.6" cy="131.5" r="4" fill="#3465a4"><title>MacInnes (MacGregor-Hastie)</title></circle></a><a href="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/"><circle cx="107.3" cy="160.8" r="4" fill="#3465a4"><title>Bracken (WCWM)</title></circle></a><circle cx="127.0" cy="125.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t4dp3g1dg9lb1r8k1~x4~t2503227-g1903114-dg1806142-lb3200000-r2109032/"><circle cx="129.7" cy="147.7" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s15/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5~x2/"><circle cx="121.2" cy="97.0" r="4" fill="#3465a4"><title>Contrecoeur Corporate Tartan</title></circle></a><a href="/variants/s14/g12t5dr2k1dr2t5g12y3dr12g2w1g2dr12r3~x4/"><circle cx="154.3" cy="136.0" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><a href="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/"><circle cx="48.8" cy="134.0" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/"><circle cx="91.7" cy="153.9" r="4" fill="#3465a4"><title>Brittany National Walking (Fashion)</title></circle></a><a href="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/"><circle cx="152.4" cy="113.1" r="4" fill="#3465a4"><title>Golden Broom #2</title></circle></a><a href="/variants/s15/y10o1g2y2b2dr1b2y2g2o1y10dr7w3dr13db5~x2/"><circle cx="168.0" cy="131.7" r="4" fill="#3465a4"><title>Contrecoeur</title></circle></a><a href="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/"><circle cx="98.6" cy="131.4" r="4" fill="#3465a4"><title>MacInnes (MacGregor-Hastie)</title></circle></a><a href="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/"><circle cx="107.4" cy="160.7" r="4" fill="#3465a4"><title>Bracken (WCWM)</title></circle></a><circle cx="127.0" cy="125.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/

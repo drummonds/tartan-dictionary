@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g53r13db2y22~x2/">Englehart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g53r13db2y22~x2/"><img src="/variants/s4/g53r13db2y22~x2/sett.png" alt="Englehart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/g53r13db2y22~x2/">Englehart Commemorative Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g53r13db2y22~x2/"><img src="/variants/s4/g53r13db2y22~x2/sett.png" alt="Englehart Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s4/g27r9b2y14~x4/">Englehart, City of</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/g27r9b2y14~x4/"><img src="/variants/s4/g27r9b2y14~x4/sett.png" alt="Englehart, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

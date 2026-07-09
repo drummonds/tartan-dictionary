@@ -1,5 +1,12 @@
 ---
 title: "Earthrise"
-redirect: "/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Earthrise](/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/).
+This is the **Earthrise** sett — one scale-free proportion (`k4n6k4o4n29o6k64db10k4db6lb4w2`), colour order pattern
+[KBKRBRKBKBWW](/stripes/kbkrbrkbkbww/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Earthrise](/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/) ★ | 2014 | ![Earthrise sett](/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Pride of Scotland Royal fashion Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Scotland Royal fashion Tartan"
-  url: ""
+  url: "/setts/k7lb2w2lb2k13lb2k2b1lb13k26b2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k7lb2w2lb2k13lb2k2b1lb13k26b2/)
-(the same proportion at any scale), whose colour order is pattern [BKWBKWKWWWK](/stripes/bkwbkwkwwwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k7lb2w2lb2k13lb2k2b1lb13k26b2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBKWKWWWK](/stripes/bkwbkwkwwwk/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="334.8" cy="105.2" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="90.0" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="290.7" cy="100.8" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s11/k40n8o2n2w2n2k9w5n2w5k2~x2/"><circle cx="316.4" cy="85.1" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><circle cx="332.3" cy="115.6" r="4" fill="#3465a4"><title>Entrepreneurial Spark</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.7" cy="106.9" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><circle cx="326.5" cy="130.7" r="4" fill="#3465a4"><title>Pride of Scotland Platinum Fashion Tartan</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="309.8" cy="123.5" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.3" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.5" cy="72.2" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><circle cx="339.6" cy="99.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="334.8" cy="105.0" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="89.8" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="290.7" cy="100.7" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s11/k40n8o2n2w2n2k9w5n2w5k2~x2/"><circle cx="316.4" cy="84.9" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><circle cx="332.3" cy="115.5" r="4" fill="#3465a4"><title>Entrepreneurial Spark</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.7" cy="106.8" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><circle cx="326.5" cy="130.6" r="4" fill="#3465a4"><title>Pride of Scotland Platinum Fashion Tartan</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="309.8" cy="123.3" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.1" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.4" cy="72.0" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><circle cx="339.6" cy="99.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/

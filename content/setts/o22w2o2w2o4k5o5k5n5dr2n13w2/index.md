@@ -1,5 +1,12 @@
 ---
 title: "Glen Nevis"
-redirect: "/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glen Nevis](/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/).
+This is the **Glen Nevis** sett — one scale-free proportion (`o22w2o2w2o4k5o5k5n5dr2n13w2`), colour order pattern
+[RWRWRKRKBBBW](/stripes/rwrwrkrkbbbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glen Nevis](/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/) ★ | ~2016 | ![Glen Nevis sett](/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/sett.png) |

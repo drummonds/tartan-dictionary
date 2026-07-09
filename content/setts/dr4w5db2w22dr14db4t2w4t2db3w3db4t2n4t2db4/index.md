@@ -1,5 +1,12 @@
 ---
 title: "Skye Dress Blue, Earl of (Dance)"
-redirect: "/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Skye Dress Blue, Earl of (Dance)](/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/).
+This is the **Skye Dress Blue, Earl of (Dance)** sett — one scale-free proportion (`dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4`), colour order pattern
+[BBBBBWBBWBBBWBWBWBWBBBWBBWBBBB](/stripes/bbbbbwbbwbbbwbwbwbwbbbwbbwbbbb/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Skye Dress Blue, Earl of (Dance)](/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/) ★ | 2002 | ![Skye Dress Blue, Earl of (Dance) sett](/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/sett.png) |

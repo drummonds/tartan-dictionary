@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/r4n41k5w14k18r4~x2/">Downside (Corporate)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r4n41k5w14k18r4~x2/"><img src="/variants/s6/r4n41k5w14k18r4~x2/sett.png" alt="Downside (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r2n20k5w10k10r2~x2/">Thom(p)son, Grey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2n20k5w10k10r2~x2/"><img src="/variants/s6/r2n20k5w10k10r2~x2/sett.png" alt="Thom(p)son, Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2n20k5w10k10r2~x2/">Thompson Grey Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r2n20k5w10k10r2~x2/"><img src="/variants/s6/r2n20k5w10k10r2~x2/sett.png" alt="Thompson Grey Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/r3k1w5k4db11r1~x4/">Hydro-Electric (Corporate)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r3k1w5k4db11r1~x4/"><img src="/variants/s6/r3k1w5k4db11r1~x4/sett.png" alt="Hydro-Electric (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

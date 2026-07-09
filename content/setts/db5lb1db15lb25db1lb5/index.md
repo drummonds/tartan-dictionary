@@ -1,5 +1,12 @@
 ---
 title: "Dram! (Corporate)"
-redirect: "/variants/s6/db5lb1db15lb25db1lb5~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Dram! (Corporate)](/variants/s6/db5lb1db15lb25db1lb5~x4/).
+This is the **Dram! (Corporate)** sett — one scale-free proportion (`db5lb1db15lb25db1lb5`), colour order pattern
+[BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Dram! (Corporate)](/variants/s6/db5lb1db15lb25db1lb5~x4/) ★ | 2008 | ![Dram! (Corporate) sett](/variants/s6/db5lb1db15lb25db1lb5~x4/sett.png) |

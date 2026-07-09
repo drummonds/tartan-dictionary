@@ -17,7 +17,7 @@ The **Buccleuch** tartan groups 2 setts — the same named design recorded as di
 <tbody>
 <tr><td><a href="/setts/r107k9r5dp41r5g51r14/">Buccleuch</a> ★</td><td><code>R/107 K9 R5 DP41 R5 G51 R/14</code></td><td>343</td><td>1831</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r107k9r5dp41r5g51r14/"><img src="/variants/s7/r107k9r5dp41r5g51r14/sett.png" alt="Buccleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r107k9r5db41r5g51r14/">Buccleuch</a></td><td><code>R/107 K9 R5 DB41 R5 G51 R/14</code></td><td>343</td><td>—</td></tr>
+<tr><td><a href="/setts/r107k9r5db41r5g51r14/">Buccleuch</a></td><td><code>R/107 K9 R5 DB41 R5 G51 R/14</code></td><td>343</td><td>~1840</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r107k9r5db41r5g51r14/"><img src="/variants/s7/r107k9r5db41r5g51r14/sett.png" alt="Buccleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

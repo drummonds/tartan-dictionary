@@ -1,5 +1,12 @@
 ---
 title: "Montgomerie"
-redirect: "/variants/s3/g12db3g1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Montgomerie](/variants/s3/g12db3g1~x2/).
+This is the **Montgomerie** sett — one scale-free proportion (`g12db3g1`), colour order pattern
+[BGBG](/stripes/bgbg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Montgomerie](/variants/s3/g12db3g1~x2/) ★ | ~2016 | ![Montgomerie sett](/variants/s3/g12db3g1~x2/sett.png) |

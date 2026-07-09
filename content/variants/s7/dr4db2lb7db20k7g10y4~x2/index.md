@@ -1,16 +1,18 @@
 ---
 title: "Renfrewshire District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Renfrewshire"
   url: "/tartans/renfrewshire/"
 - name: "Renfrewshire District Tartan"
-  url: ""
+  url: "/setts/dr4db2lb7db20k7g10y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4db2lb7db20k7g10y4/)
-(the same proportion at any scale), whose colour order is pattern [BBWBKGG](/stripes/bbwbkgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr4db2lb7db20k7g10y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBKGG](/stripes/bbwbkgg/).
 
 Part of the [Renfrewshire](/tartans/renfrewshire/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 1998 Designed for anyone residing in the County of Renfrews
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1998 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.7" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.4" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="205.4" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><circle cx="73.3" cy="183.5" r="4" fill="#3465a4"><title>Ayrshire (International Tartans)</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.5" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="105.1" cy="173.7" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="131.9" cy="163.3" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><circle cx="136.6" cy="186.7" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.5" cy="188.3" r="4" fill="#3465a4"><title>Cowie</title></circle></a><circle cx="114.8" cy="175.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.6" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.3" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="205.3" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><circle cx="73.3" cy="183.4" r="4" fill="#3465a4"><title>Ayrshire (International Tartans)</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.4" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="105.1" cy="173.6" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="131.9" cy="163.2" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.5" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><circle cx="136.6" cy="186.7" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.6" cy="188.2" r="4" fill="#3465a4"><title>Cowie</title></circle></a><circle cx="114.8" cy="175.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr4db2lb7db20k7g10y4~x2/

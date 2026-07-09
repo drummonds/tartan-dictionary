@@ -1,5 +1,12 @@
 ---
 title: "Glasgows, Miles Better"
-redirect: "/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glasgows, Miles Better](/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/).
+This is the **Glasgows, Miles Better** sett — one scale-free proportion (`y12n4b4y4b4r4b15n15r15y8`), colour order pattern
+[GBBGBRBBRG](/stripes/gbbgbrbbrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glasgows, Miles Better](/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/) ★ | ~2016 | ![Glasgows, Miles Better sett](/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/sett.png) |

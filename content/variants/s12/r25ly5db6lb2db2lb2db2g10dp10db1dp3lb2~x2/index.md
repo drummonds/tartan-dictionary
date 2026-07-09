@@ -1,14 +1,16 @@
 ---
 title: "Skye Highland Outfitters (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Skye Highland Outfitters (Corporate)"
-  url: ""
+  url: "/setts/r25ly5db6lb2db2lb2db2g10dp10db1dp3lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r25ly5db6lb2db2lb2db2g10dp10db1dp3lb2/)
-(the same proportion at any scale), whose colour order is pattern [RYBWBWBGBBBW](/stripes/rybwbwbgbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r25ly5db6lb2db2lb2db2g10dp10db1dp3lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RYBWBWBGBBBW](/stripes/rybwbwbgbbbw/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2~x4~dbi1406275-db1004274/"><circle cx="134.7" cy="117.9" r="4" fill="#3465a4"><title>Warden</title></circle></a><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><circle cx="198.7" cy="110.5" r="4" fill="#3465a4"><title>Bendigo</title></circle></a><a href="/variants/s11/w3db5dbi2db9n10lb2n4lb2g10r33w2~x2~db1204274-dbi1406275/"><circle cx="179.5" cy="106.9" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/"><circle cx="177.7" cy="115.2" r="4" fill="#3465a4"><title>Carr (Personal)</title></circle></a><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/"><circle cx="239.7" cy="104.8" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/"><circle cx="240.4" cy="105.0" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="198.5" cy="137.3" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><circle cx="188.9" cy="118.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s15/r6w2dy40w2lb14g14y3w2g6dp6y2lb6dp30r12w2~x2/"><circle cx="106.6" cy="95.1" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/variants/s15/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2~x2~r1706009-ri2109032/"><circle cx="222.5" cy="101.0" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><circle cx="179.8" cy="106.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2~x4~dbi1406275-db1004274/"><circle cx="134.7" cy="117.7" r="4" fill="#3465a4"><title>Warden</title></circle></a><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><circle cx="198.7" cy="110.4" r="4" fill="#3465a4"><title>Bendigo</title></circle></a><a href="/variants/s11/w3db5dbi2db9n10lb2n4lb2g10r33w2~x2~db1204274-dbi1406275/"><circle cx="179.6" cy="106.8" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/"><circle cx="177.7" cy="115.1" r="4" fill="#3465a4"><title>Carr (Personal)</title></circle></a><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/"><circle cx="239.8" cy="104.6" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/"><circle cx="240.4" cy="104.9" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="198.6" cy="137.2" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><circle cx="188.9" cy="118.3" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s15/r6w2dy40w2lb14g14y3w2g6dp6y2lb6dp30r12w2~x2/"><circle cx="106.6" cy="94.9" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/variants/s15/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2~x2~r1706009-ri2109032/"><circle cx="222.5" cy="100.8" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><circle cx="179.8" cy="105.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r25ly5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/

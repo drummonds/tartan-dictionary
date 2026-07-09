@@ -1,5 +1,12 @@
 ---
 title: "Wilson's No.081"
-redirect: "/variants/s3/dp10g12y1~x2~dp1607327/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's No.081](/variants/s3/dp10g12y1~x2~dp1607327/).
+This is the **Wilson's No.081** sett — one scale-free proportion (`dp10g12y1`), colour order pattern
+[BGG](/stripes/bgg/). It is recorded as a single **variant**, below.
+First attested **1819**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's No.081](/variants/s3/dp10g12y1~x2~dp1607327/) ★ | 1819 | ![Wilson's No.081 sett](/variants/s3/dp10g12y1~x2~dp1607327/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Deer Park (Loton) (Personal)"
-redirect: "/variants/s7/g60r7w10dg16g15w3g15~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Deer Park (Loton) (Personal)](/variants/s7/g60r7w10dg16g15w3g15~x2/).
+This is the **Deer Park (Loton) (Personal)** sett — one scale-free proportion (`g60r7w10dg16g15w3g15`), colour order pattern
+[GRWGGWG](/stripes/grwggwg/). It is recorded as a single **variant**, below.
+First attested **1986**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Deer Park (Loton) (Personal)](/variants/s7/g60r7w10dg16g15w3g15~x2/) ★ | 1986 | ![Deer Park (Loton) (Personal) sett](/variants/s7/g60r7w10dg16g15w3g15~x2/sett.png) |

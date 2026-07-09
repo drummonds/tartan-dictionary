@@ -1,5 +1,12 @@
 ---
 title: "Unidentified 22"
-redirect: "/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified 22](/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/).
+This is the **Unidentified 22** sett — one scale-free proportion (`dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18`), colour order pattern
+[BGBGBRRRRRRRRWRRRRRRRRWRW](/stripes/bgbgbrrrrrrrrwrrrrrrrrwrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified 22](/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/) ★ | ~2016 | ![Unidentified 22 sett](/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/sett.png) |

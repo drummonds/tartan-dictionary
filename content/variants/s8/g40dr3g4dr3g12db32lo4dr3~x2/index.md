@@ -1,14 +1,16 @@
 ---
 title: "Leatherneck"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Leatherneck"
-  url: ""
+  url: "/setts/g40dr3g4dr3g12db32lo4dr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g40dr3g4dr3g12db32lo4dr3/)
-(the same proportion at any scale), whose colour order is pattern [BYBGBGBG](/stripes/bybgbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g40dr3g4dr3g12db32lo4dr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBGBGBG](/stripes/bybgbgbg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="321.8" cy="177.6" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24y3r2~x2/"><circle cx="324.9" cy="176.7" r="4" fill="#3465a4"><title>Leatherneck, U.S.Marine Corps</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="323.5" cy="176.0" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps Corporate Tartan</title></circle></a><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><circle cx="358.5" cy="181.9" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.2" cy="233.6" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="324.9" cy="200.9" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.9" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s12/g3db3g3db24g3db3g3lo2g18dr2g18lo2~x2/"><circle cx="354.0" cy="185.0" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/g25dr4db24dr21g25dr4db2~x2/"><circle cx="312.8" cy="255.4" r="4" fill="#3465a4"><title>Glasgow, Rock and Wheel</title></circle></a><circle cx="351.2" cy="196.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="321.9" cy="177.5" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24y3r2~x2/"><circle cx="325.0" cy="176.6" r="4" fill="#3465a4"><title>Leatherneck, U.S.Marine Corps</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="323.5" cy="176.0" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps Corporate Tartan</title></circle></a><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><circle cx="358.5" cy="181.8" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.2" cy="233.5" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.0" cy="200.8" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.8" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s12/g3db3g3db24g3db3g3lo2g18dr2g18lo2~x2/"><circle cx="354.0" cy="184.9" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.1" cy="189.3" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/g25dr4db24dr21g25dr4db2~x2/"><circle cx="312.8" cy="255.4" r="4" fill="#3465a4"><title>Glasgow, Rock and Wheel</title></circle></a><circle cx="351.2" cy="196.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/

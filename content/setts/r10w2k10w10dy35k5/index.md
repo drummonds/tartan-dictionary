@@ -1,5 +1,12 @@
 ---
-title: "Loch Ness"
-redirect: "/variants/s6/r10w2k10w10dy35k5~x2/"
+title: "Loch Ness Trade Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Loch Ness](/variants/s6/r10w2k10w10dy35k5~x2/).
+This is the **Loch Ness Trade Tartan** sett — one scale-free proportion (`r10w2k10w10dy35k5`), colour order pattern
+[KGWKWR](/stripes/kgwkwr/). It is recorded as a single **variant**, below.
+First attested **~2003**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Loch Ness Trade Tartan](/variants/s6/r10w2k10w10dy35k5~x2/) ★ | ~2003 | ![Loch Ness Trade Tartan sett](/variants/s6/r10w2k10w10dy35k5~x2/sett.png) |

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17~x2/">Unidentified (Teddy Bear)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17~x2/"><img src="/variants/s15/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17~x2/sett.png" alt="Unidentified (Teddy Bear) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17~x2/">Unidentified B'gowrie Unknown Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17~x2/"><img src="/variants/s15/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17~x2/sett.png" alt="Unidentified B'gowrie Unknown Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

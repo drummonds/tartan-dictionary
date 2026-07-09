@@ -1,5 +1,12 @@
 ---
 title: "McCuaig (Glenelg and the Western Isles) Hunting"
-redirect: "/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [McCuaig (Glenelg and the Western Isles) Hunting](/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/).
+This is the **McCuaig (Glenelg and the Western Isles) Hunting** sett — one scale-free proportion (`k20db2k2db4dg4y2k40r2w3`), colour order pattern
+[KBKBGGKRW](/stripes/kbkbggkrw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [McCuaig (Glenelg and the Western Isles) Hunting](/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/) ★ | 2015 | ![McCuaig (Glenelg and the Western Isles) Hunting sett](/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/sett.png) |

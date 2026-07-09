@@ -1,5 +1,12 @@
 ---
 title: "Kalamazoo Caledonians"
-redirect: "/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kalamazoo Caledonians](/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/).
+This is the **Kalamazoo Caledonians** sett — one scale-free proportion (`m3db1m1db1m1db5lb1m1lb6m2`), colour order pattern
+[RBRBRBWRWR](/stripes/rbrbrbwrwr/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Kalamazoo Caledonians](/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/) ★ | 1996 | ![Kalamazoo Caledonians sett](/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/sett.png) |

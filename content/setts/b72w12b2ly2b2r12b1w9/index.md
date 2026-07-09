@@ -1,5 +1,12 @@
 ---
 title: "Tennessee Pioneer Blanket"
-redirect: "/variants/s8/b72w12b2ly2b2r12b1w9~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tennessee Pioneer Blanket](/variants/s8/b72w12b2ly2b2r12b1w9~x2/).
+This is the **Tennessee Pioneer Blanket** sett — one scale-free proportion (`b72w12b2ly2b2r12b1w9`), colour order pattern
+[BWBYBRBW](/stripes/bwbybrbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tennessee Pioneer Blanket](/variants/s8/b72w12b2ly2b2r12b1w9~x2/) ★ | ~2016 | ![Tennessee Pioneer Blanket sett](/variants/s8/b72w12b2ly2b2r12b1w9~x2/sett.png) |

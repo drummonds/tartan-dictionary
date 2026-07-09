@@ -1,14 +1,16 @@
 ---
 title: "Balmoral, Gillies"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Balmoral, Gillies"
-  url: ""
+  url: "/setts/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/)
-(the same proportion at any scale), whose colour order is pattern [BRBGKBGBGBKBR](/stripes/brbgkbgbgbkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBGKBGBGBKBR](/stripes/brbgkbgbgbkbr/).
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/"><circle cx="268.0" cy="159.8" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/"><circle cx="277.2" cy="145.9" r="4" fill="#3465a4"><title>Balmoral, Green lines</title></circle></a><a href="/variants/s13/b4lb2b25dg16k4b2dg2b2dg10b4k2b2lb2~x2/"><circle cx="273.6" cy="144.4" r="4" fill="#3465a4"><title>Balmoral - Blue Lines</title></circle></a><a href="/variants/s10/k9t4k2t4k2t30k9t4db14dy2~x2~t2503227/"><circle cx="258.6" cy="121.7" r="4" fill="#3465a4"><title>Hannay Blue</title></circle></a><a href="/variants/s9/db4lb1db1lb3db24o9k1o9k3~x2~o2500000/"><circle cx="286.6" cy="104.7" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/variants/s11/db9k1dbi4k1db18lb5k1lb1k1lb5db4~x2~db1204274-dbi1406275/"><circle cx="323.0" cy="130.3" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.9" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/"><circle cx="321.1" cy="139.6" r="4" fill="#3465a4"><title>MacLachlan, Green Dress (Fashion)</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.1" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="302.8" cy="159.4" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><circle cx="278.6" cy="144.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/"><circle cx="268.0" cy="159.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/"><circle cx="277.2" cy="145.7" r="4" fill="#3465a4"><title>Balmoral, Green lines</title></circle></a><a href="/variants/s13/b4lb2b25dg16k4b2dg2b2dg10b4k2b2lb2~x2/"><circle cx="273.6" cy="144.2" r="4" fill="#3465a4"><title>Balmoral - Blue Lines</title></circle></a><a href="/variants/s10/k9t4k2t4k2t30k9t4db14dy2~x2~t2503227/"><circle cx="258.6" cy="121.5" r="4" fill="#3465a4"><title>Hannay Blue</title></circle></a><a href="/variants/s9/db4lb1db1lb3db24o9k1o9k3~x2~o2500000/"><circle cx="286.6" cy="104.5" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/variants/s11/db9k1dbi4k1db18lb5k1lb1k1lb5db4~x2~db1204274-dbi1406275/"><circle cx="323.0" cy="130.2" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.8" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/"><circle cx="321.1" cy="139.4" r="4" fill="#3465a4"><title>MacLachlan, Green Dress (Fashion)</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.0" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="302.8" cy="159.2" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><circle cx="278.6" cy="144.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/

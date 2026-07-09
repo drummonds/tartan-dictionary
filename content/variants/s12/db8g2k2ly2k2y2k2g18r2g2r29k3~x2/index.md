@@ -1,14 +1,16 @@
 ---
 title: "Cats (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Cats (Fashion)"
-  url: ""
+  url: "/setts/db8g2k2ly2k2y2k2g18r2g2r29k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8g2k2ly2k2y2k2g18r2g2r29k3/)
-(the same proportion at any scale), whose colour order is pattern [BGKYKGKGRGRK](/stripes/bgkykgkgrgrk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db8g2k2ly2k2y2k2g18r2g2r29k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKYKGKGRGRK](/stripes/bgkykgkgrgrk/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.3" cy="76.7" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="81.0" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/variants/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2~ly3307090-y2405105/"><circle cx="143.9" cy="77.2" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.8" cy="91.7" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><circle cx="152.0" cy="92.6" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/"><circle cx="143.2" cy="96.8" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><circle cx="143.2" cy="96.8" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><circle cx="169.1" cy="88.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.3" cy="76.5" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="80.8" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/variants/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2~ly3307090-y2405105/"><circle cx="143.9" cy="77.1" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.8" cy="91.6" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><circle cx="152.0" cy="92.5" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/"><circle cx="143.2" cy="96.7" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><circle cx="143.2" cy="96.7" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><circle cx="169.1" cy="87.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db8g2k2ly2k2y2k2g18r2g2r29k3~x2/

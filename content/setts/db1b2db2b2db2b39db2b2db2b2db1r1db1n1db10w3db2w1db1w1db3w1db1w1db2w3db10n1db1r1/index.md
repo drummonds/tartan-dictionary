@@ -1,5 +1,12 @@
 ---
 title: "Edinburgh, '86 Border"
-redirect: "/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Edinburgh, '86 Border](/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/).
+This is the **Edinburgh, '86 Border** sett — one scale-free proportion (`db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1`), colour order pattern
+[BBBBBBBBBBBRBBBWBWBWBWBWBWBBBR](/stripes/bbbbbbbbbbbrbbbwbwbwbwbwbwbbbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Edinburgh, '86 Border](/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/) ★ | ~2016 | ![Edinburgh, '86 Border sett](/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/sett.png) |

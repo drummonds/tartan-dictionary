@@ -1,16 +1,18 @@
 ---
 title: "Wasko (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wasko"
   url: "/tartans/wasko/"
 - name: "Wasko (Personal)"
-  url: ""
+  url: "/setts/r8w2dr30g12dr3g12dr3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8w2dr30g12dr3g12dr3/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBWR](/stripes/bgbgbwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r8w2dr30g12dr3g12dr3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBWR](/stripes/bgbgbwr/).
 
 Part of the [Wasko](/tartans/wasko/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.3" cy="193.1" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="355.6" cy="184.9" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.8" cy="225.7" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.3" cy="193.1" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.6" cy="165.9" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="316.8" cy="194.3" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.3" cy="198.4" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="338.4" cy="206.8" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.0" cy="202.8" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/"><circle cx="325.0" cy="173.4" r="4" fill="#3465a4"><title>Bracken</title></circle></a><circle cx="314.7" cy="190.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.3" cy="193.1" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="355.6" cy="184.9" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.8" cy="225.6" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.3" cy="193.1" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.6" cy="165.8" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="316.8" cy="194.3" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.3" cy="198.4" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="338.4" cy="206.8" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.1" cy="202.8" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/"><circle cx="325.0" cy="173.3" r="4" fill="#3465a4"><title>Bracken</title></circle></a><circle cx="314.7" cy="190.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r8w2dr30g12dr3g12dr3~x2/

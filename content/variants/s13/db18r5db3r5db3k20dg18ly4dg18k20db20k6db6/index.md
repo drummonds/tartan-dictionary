@@ -1,14 +1,16 @@
 ---
 title: "Keith District District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Keith District District Tartan"
-  url: ""
+  url: "/setts/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBKGYGKBKBKBKGYGKBRBR](/stripes/brbrbkgygkbkbkbkgygkbrbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBKGYGKBKBKBKGYGKBRBR](/stripes/brbrbkgygkbkbkbkgygkbrbr/).
 
 Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2003 Designed by Councillor Linda Gorn of Keith who was ins
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><circle cx="63.3" cy="161.9" r="4" fill="#3465a4"><title>Keith</title></circle></a><a href="/variants/s21/g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="117.8" cy="166.2" r="4" fill="#3465a4"><title>Allen (1998)</title></circle></a><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><circle cx="116.4" cy="165.7" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="87.3" cy="152.1" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/"><circle cx="104.4" cy="159.0" r="4" fill="#3465a4"><title>Scotland's National</title></circle></a><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="114.6" cy="160.6" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="83.0" cy="169.1" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/variants/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/"><circle cx="151.8" cy="158.5" r="4" fill="#3465a4"><title>Thormanby Buccaneer Bay</title></circle></a><a href="/variants/s15/t12k2t2k2t2k12dg12w2r2w2dg12k12t12r3t2~x2/"><circle cx="82.3" cy="171.0" r="4" fill="#3465a4"><title>Morgan Mackenzie (Personal?)</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/"><circle cx="128.0" cy="163.3" r="4" fill="#3465a4"><title>Glengoyne, Distillery</title></circle></a><circle cx="99.0" cy="168.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><circle cx="63.3" cy="161.8" r="4" fill="#3465a4"><title>Keith</title></circle></a><a href="/variants/s21/g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="117.8" cy="166.0" r="4" fill="#3465a4"><title>Allen (1998)</title></circle></a><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><circle cx="116.4" cy="165.6" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="87.3" cy="151.9" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/"><circle cx="104.4" cy="158.9" r="4" fill="#3465a4"><title>Scotland's National</title></circle></a><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="114.6" cy="160.4" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="83.0" cy="169.0" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/variants/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/"><circle cx="151.8" cy="158.3" r="4" fill="#3465a4"><title>Thormanby Buccaneer Bay</title></circle></a><a href="/variants/s15/t12k2t2k2t2k12dg12w2r2w2dg12k12t12r3t2~x2/"><circle cx="82.3" cy="170.9" r="4" fill="#3465a4"><title>Morgan Mackenzie (Personal?)</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/"><circle cx="128.0" cy="163.1" r="4" fill="#3465a4"><title>Glengoyne, Distillery</title></circle></a><circle cx="99.0" cy="168.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/

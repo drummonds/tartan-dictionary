@@ -1,5 +1,14 @@
 ---
 title: "Galloway Green (yellow line)"
-redirect: "/variants/s6/r3dg2g32dg32g2y3~x2~dg1806142-g2408144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Galloway Green (yellow line)](/variants/s6/r3dg2g32dg32g2y3~x2~dg1806142-g2408144/).
+This is the **Galloway Green (yellow line)** sett — one scale-free proportion (`r3dg2g32dg32g2y3`), colour order pattern
+[GGGGGR](/stripes/gggggr/). It is recorded as a single **variant**, below.
+First attested **1950**.
+
+Part of the [Galloway](/tartans/galloway/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Galloway Green (yellow line)](/variants/s6/r3dg2g32dg32g2y3~x2~dg1806142-g2408144/) ★ | 1950 | ![Galloway Green (yellow line) sett](/variants/s6/r3dg2g32dg32g2y3~x2~dg1806142-g2408144/sett.png) |

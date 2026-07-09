@@ -1,14 +1,16 @@
 ---
 title: "Heather MacRae"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Heather MacRae"
-  url: ""
+  url: "/setts/dg2dr12db11ly6dy6dr12dg2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2dr12db11ly6dy6dr12dg2/)
-(the same proportion at any scale), whose colour order is pattern [GBBYGBG](/stripes/gbbygbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg2dr12db11ly6dy6dr12dg2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBYGBG](/stripes/gbbygbg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><circle cx="225.0" cy="247.5" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.2" cy="250.3" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/"><circle cx="229.4" cy="290.3" r="4" fill="#3465a4"><title>Gleneagles Group Corporate Tartan</title></circle></a><a href="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/"><circle cx="212.2" cy="345.1" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.6" cy="259.8" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s5/db6w1dy6do12r2~x4/"><circle cx="293.1" cy="238.7" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.2" cy="226.8" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><circle cx="236.7" cy="263.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><circle cx="225.1" cy="247.5" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.3" cy="250.2" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/"><circle cx="229.4" cy="290.3" r="4" fill="#3465a4"><title>Gleneagles Group Corporate Tartan</title></circle></a><a href="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/"><circle cx="212.2" cy="345.1" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.7" cy="259.7" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s5/db6w1dy6do12r2~x4/"><circle cx="293.2" cy="238.7" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.3" cy="226.8" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><circle cx="236.7" cy="263.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/

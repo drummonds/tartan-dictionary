@@ -1,5 +1,12 @@
 ---
 title: "Cameron of Locheil Htg (1952) (Clan)"
-redirect: "/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cameron of Locheil Htg (1952) (Clan)](/variants/s7/r3dg10r3dg14db16dg3dy2~x2/).
+This is the **Cameron of Locheil Htg (1952) (Clan)** sett — one scale-free proportion (`r3dg10r3dg14db16dg3dy2`), colour order pattern
+[GGBGRGR](/stripes/ggbgrgr/). It is recorded as a single **variant**, below.
+First attested **1956**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cameron of Locheil Htg (1952) (Clan)](/variants/s7/r3dg10r3dg14db16dg3dy2~x2/) ★ | 1956 | ![Cameron of Locheil Htg (1952) (Clan) sett](/variants/s7/r3dg10r3dg14db16dg3dy2~x2/sett.png) |

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n45k10y2k2w2k2r10n5k1n5w1~x2/">Cavalier, Green..</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n45k10y2k2w2k2r10n5k1n5w1~x2/"><img src="/variants/s11/n45k10y2k2w2k2r10n5k1n5w1~x2/sett.png" alt="Cavalier, Green.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n45k10y2k2w2k2r10n5k1n5w1~x2/">Cavalier Green.. Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/n45k10y2k2w2k2r10n5k1n5w1~x2/"><img src="/variants/s11/n45k10y2k2w2k2r10n5k1n5w1~x2/sett.png" alt="Cavalier Green.. Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

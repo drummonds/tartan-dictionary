@@ -1,5 +1,12 @@
 ---
 title: "Buchanan, hunting"
-redirect: "/variants/s18/g24k2lb6k2dr12w1dr12k2lb6k2o12k2o12k2lb6k2g12lb6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Buchanan, hunting](/variants/s18/g24k2lb6k2dr12w1dr12k2lb6k2o12k2o12k2lb6k2g12lb6~x2/).
+This is the **Buchanan, hunting** sett — one scale-free proportion (`g24k2lb6k2dr12w1dr12k2lb6k2o12k2o12k2lb6k2g12lb6`), colour order pattern
+[GKWKBWBKWKRKRKWKGW](/stripes/gkwkbwbkwkrkrkwkgw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Buchanan, hunting](/variants/s18/g24k2lb6k2dr12w1dr12k2lb6k2o12k2o12k2lb6k2g12lb6~x2/) ★ | ~2016 | ![Buchanan, hunting sett](/variants/s18/g24k2lb6k2dr12w1dr12k2lb6k2o12k2o12k2lb6k2g12lb6~x2/sett.png) |

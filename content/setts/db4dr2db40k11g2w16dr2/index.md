@@ -1,5 +1,12 @@
 ---
 title: "Jack Sinclair (Personal)"
-redirect: "/variants/s7/db4dr2db40k11g2w16dr2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Jack Sinclair (Personal)](/variants/s7/db4dr2db40k11g2w16dr2~x2/).
+This is the **Jack Sinclair (Personal)** sett — one scale-free proportion (`db4dr2db40k11g2w16dr2`), colour order pattern
+[BBBKGWB](/stripes/bbbkgwb/). It is recorded as a single **variant**, below.
+First attested **1977**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Jack Sinclair (Personal)](/variants/s7/db4dr2db40k11g2w16dr2~x2/) ★ | 1977 | ![Jack Sinclair (Personal) sett](/variants/s7/db4dr2db40k11g2w16dr2~x2/sett.png) |

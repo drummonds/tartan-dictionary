@@ -1,14 +1,16 @@
 ---
 title: "Kervegant Dress (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kervegant Dress (Personal)"
-  url: ""
+  url: "/setts/dr60db12t1db2w1db12dr5k1dr2o2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr60db12t1db2w1db12dr5k1dr2o2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBWBBKBR](/stripes/bbbbwbbkbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr60db12t1db2w1db12dr5k1dr2o2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWBBKBR](/stripes/bbbbwbbkbr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/"><circle cx="505.6" cy="62.3" r="4" fill="#3465a4"><title>Kervgant Dress (Personal))</title></circle></a><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="400.1" cy="133.9" r="4" fill="#3465a4"><title>MacEdward (MacGregor Hastie)</title></circle></a><a href="/variants/s9/dr6k2dr4dy3dr60db14dr3db3w1~x2/"><circle cx="598.7" cy="89.9" r="4" fill="#3465a4"><title>Stenhousemuir Football Club (Sports)</title></circle></a><a href="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/"><circle cx="576.1" cy="81.6" r="4" fill="#3465a4"><title>Stenhousemuir F.C.</title></circle></a><a href="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/"><circle cx="597.7" cy="75.2" r="4" fill="#3465a4"><title>Stenhousemuir Football Club</title></circle></a><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><circle cx="449.6" cy="75.1" r="4" fill="#3465a4"><title>Concours of Elegance</title></circle></a><circle cx="543.2" cy="75.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/"><circle cx="505.6" cy="62.1" r="4" fill="#3465a4"><title>Kervgant Dress (Personal))</title></circle></a><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="400.1" cy="133.7" r="4" fill="#3465a4"><title>MacEdward (MacGregor Hastie)</title></circle></a><a href="/variants/s9/dr6k2dr4dy3dr60db14dr3db3w1~x2/"><circle cx="598.7" cy="89.8" r="4" fill="#3465a4"><title>Stenhousemuir Football Club (Sports)</title></circle></a><a href="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/"><circle cx="576.1" cy="81.5" r="4" fill="#3465a4"><title>Stenhousemuir F.C.</title></circle></a><a href="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/"><circle cx="597.7" cy="75.0" r="4" fill="#3465a4"><title>Stenhousemuir Football Club</title></circle></a><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><circle cx="449.6" cy="74.9" r="4" fill="#3465a4"><title>Concours of Elegance</title></circle></a><circle cx="543.2" cy="74.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr60db12t1db2w1db12dr5k1dr2o2~x2~db1004274-t2503227-o2500000/

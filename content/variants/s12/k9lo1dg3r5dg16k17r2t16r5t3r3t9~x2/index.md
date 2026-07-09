@@ -1,14 +1,16 @@
 ---
 title: "Bowie, Black (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bowie, Black"
   url: "/setts/k9lo1dg3r5dg16k17r2t16r5t3r3t9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9lo1dg3r5dg16k17r2t16r5t3r3t9/)
-(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGYK](/stripes/brbrbrkgrgyk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k9lo1dg3r5dg16k17r2t16r5t3r3t9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBRKGRGYK](/stripes/brbrbrkgrgyk/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/"><circle cx="113.1" cy="141.3" r="4" fill="#3465a4"><title>Bowie, Black</title></circle></a><a href="/variants/s12/db9r3db3r5db16r2k17g16r5g3y1g9~x2/"><circle cx="111.6" cy="142.8" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="108.9" cy="153.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.8" cy="138.5" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="152.5" cy="138.8" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="151.5" cy="143.5" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="150.6" cy="142.8" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="143.3" cy="143.8" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><circle cx="107.5" cy="140.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/"><circle cx="113.1" cy="141.2" r="4" fill="#3465a4"><title>Bowie, Black</title></circle></a><a href="/variants/s12/db9r3db3r5db16r2k17g16r5g3y1g9~x2/"><circle cx="111.7" cy="142.7" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="108.9" cy="152.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.8" cy="138.4" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="152.5" cy="138.7" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="151.5" cy="143.4" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="150.6" cy="142.7" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="143.3" cy="143.7" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><circle cx="107.5" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/

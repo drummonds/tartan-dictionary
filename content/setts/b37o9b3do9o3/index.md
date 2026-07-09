@@ -1,5 +1,12 @@
 ---
 title: "Glen Boig"
-redirect: "/variants/s5/b37o9b3do9o3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glen Boig](/variants/s5/b37o9b3do9o3~x2/).
+This is the **Glen Boig** sett — one scale-free proportion (`b37o9b3do9o3`), colour order pattern
+[BRBBR](/stripes/brbbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glen Boig](/variants/s5/b37o9b3do9o3~x2/) ★ | ~2016 | ![Glen Boig sett](/variants/s5/b37o9b3do9o3~x2/sett.png) |

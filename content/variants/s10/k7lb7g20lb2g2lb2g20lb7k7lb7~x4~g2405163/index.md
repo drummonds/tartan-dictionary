@@ -1,14 +1,16 @@
 ---
 title: "Falconer of Labhdal Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Falconer of Labhdal Personal Tartan"
-  url: ""
+  url: "/setts/k7lb7g20lb2g2lb2g20lb7k7lb7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k7lb7g20lb2g2lb2g20lb7k7lb7/)
-(the same proportion at any scale), whose colour order is pattern [KWGWGWGWKW](/stripes/kwgwgwgwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k7lb7g20lb2g2lb2g20lb7k7lb7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWGWGWGWKW](/stripes/kwgwgwgwkw/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2005 August This is what James K.R. Falconer calls an updat
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2005 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb7k7lb7g20lb2g2~x4/"><circle cx="243.4" cy="221.2" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.5" cy="191.4" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s10/b12w2b7g15k2g4k2g15b2k7~x2/"><circle cx="197.8" cy="198.6" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s10/g9lb1k6lb4g2lb4k6lb1g9k2~x2/"><circle cx="176.3" cy="209.7" r="4" fill="#3465a4"><title>Norwich No.049</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.7" cy="179.9" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s14/w3k1t15k6t5k3t8k2t5y3w2y4k1w3~x2/"><circle cx="215.0" cy="148.9" r="4" fill="#3465a4"><title>Avalon - Carroll House</title></circle></a><a href="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="285.5" cy="168.9" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/variants/s9/db21g5k5g15w3g5w3g5k3~x2/"><circle cx="173.7" cy="195.9" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="222.7" cy="177.3" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><circle cx="240.8" cy="202.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb7k7lb7g20lb2g2~x4/"><circle cx="243.4" cy="221.1" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.6" cy="191.4" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s10/b12w2b7g15k2g4k2g15b2k7~x2/"><circle cx="197.8" cy="198.5" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s10/g9lb1k6lb4g2lb4k6lb1g9k2~x2/"><circle cx="176.3" cy="209.6" r="4" fill="#3465a4"><title>Norwich No.049</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.7" cy="179.8" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s14/w3k1t15k6t5k3t8k2t5y3w2y4k1w3~x2/"><circle cx="215.0" cy="148.7" r="4" fill="#3465a4"><title>Avalon - Carroll House</title></circle></a><a href="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="285.5" cy="168.8" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/variants/s9/db21g5k5g15w3g5w3g5k3~x2/"><circle cx="173.7" cy="195.9" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.1" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="222.7" cy="177.2" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><circle cx="240.8" cy="201.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g2405163/

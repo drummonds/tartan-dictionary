@@ -1,16 +1,18 @@
 ---
 title: "Gouranga"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gouranga"
   url: "/tartans/gouranga/"
 - name: "Gouranga"
-  url: ""
+  url: "/setts/db15k3db19w3db5y5r3y5lb3y5k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db15k3db19w3db5y5r3y5lb3y5k3/)
-(the same proportion at any scale), whose colour order is pattern [BKBWBGRGWGK](/stripes/bkbwbgrgwgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db15k3db19w3db5y5r3y5lb3y5k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBWBGRGWGK](/stripes/bkbwbgrgwgk/).
 
 Part of the [Gouranga](/tartans/gouranga/) tartan — the named design grouping this sett with its other cloths.
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/"><circle cx="214.7" cy="172.9" r="4" fill="#3465a4"><title>Gouranga (Corporate)</title></circle></a><a href="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/"><circle cx="226.1" cy="141.3" r="4" fill="#3465a4"><title>Bhoyrub Clan/Family Tartan</title></circle></a><a href="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/"><circle cx="226.1" cy="159.7" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/"><circle cx="222.5" cy="156.1" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/"><circle cx="155.5" cy="169.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.9" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/"><circle cx="202.1" cy="131.1" r="4" fill="#3465a4"><title>New Millennium</title></circle></a><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/"><circle cx="196.5" cy="127.8" r="4" fill="#3465a4"><title>Eljamel, Sam (Personal)</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="146.4" cy="166.7" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/variants/s12/dg4w1b4dr4k2b12k2b12k2dr4k4b4~x2/"><circle cx="239.8" cy="154.7" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><circle cx="197.7" cy="160.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/"><circle cx="214.7" cy="172.8" r="4" fill="#3465a4"><title>Gouranga (Corporate)</title></circle></a><a href="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/"><circle cx="226.1" cy="141.1" r="4" fill="#3465a4"><title>Bhoyrub Clan/Family Tartan</title></circle></a><a href="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/"><circle cx="226.2" cy="159.6" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/"><circle cx="222.6" cy="156.0" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/"><circle cx="155.6" cy="169.1" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.8" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/"><circle cx="202.1" cy="131.0" r="4" fill="#3465a4"><title>New Millennium</title></circle></a><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/"><circle cx="196.5" cy="127.7" r="4" fill="#3465a4"><title>Eljamel, Sam (Personal)</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="146.4" cy="166.5" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/variants/s12/dg4w1b4dr4k2b12k2b12k2dr4k4b4~x2/"><circle cx="239.8" cy="154.5" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><circle cx="197.7" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/

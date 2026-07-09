@@ -1,5 +1,12 @@
 ---
 title: "St. Giles Cathedral (Corporate)"
-redirect: "/variants/s6/dr2lb2n18lb1n2db2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Giles Cathedral (Corporate)](/variants/s6/dr2lb2n18lb1n2db2~x4/).
+This is the **St. Giles Cathedral (Corporate)** sett — one scale-free proportion (`dr2lb2n18lb1n2db2`), colour order pattern
+[BBWBWB](/stripes/bbwbwb/). It is recorded as a single **variant**, below.
+First attested **1995**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [St. Giles Cathedral (Corporate)](/variants/s6/dr2lb2n18lb1n2db2~x4/) ★ | 1995 | ![St. Giles Cathedral (Corporate) sett](/variants/s6/dr2lb2n18lb1n2db2~x4/sett.png) |

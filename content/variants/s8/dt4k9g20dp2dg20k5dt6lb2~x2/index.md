@@ -1,16 +1,18 @@
 ---
 title: "Linden"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Linden"
   url: "/tartans/linden/"
 - name: "Linden"
-  url: ""
+  url: "/setts/dt4k9g20dp2dg20k5dt6lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt4k9g20dp2dg20k5dt6lb2/)
-(the same proportion at any scale), whose colour order is pattern [BKGBGKBW](/stripes/bkgbgkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dt4k9g20dp2dg20k5dt6lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGBGKBW](/stripes/bkgbgkbw/).
 
 Part of the [Linden](/tartans/linden/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/"><circle cx="81.6" cy="155.4" r="4" fill="#3465a4"><title>Rutledge (Name)</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg1~x4/"><circle cx="76.8" cy="152.2" r="4" fill="#3465a4"><title>Rutledge</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.1" cy="172.5" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s8/dr2db11k8dg8y2g8k1y2~x2~dg1806142-g2408144/"><circle cx="58.0" cy="177.9" r="4" fill="#3465a4"><title>Scout Mapping Service #2 (Corporate)</title></circle></a><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/"><circle cx="100.4" cy="147.0" r="4" fill="#3465a4"><title>McCarter (2016)</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="111.1" cy="139.4" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s8/db4k9dgi20dp2dg20k5db6w2~x2~dgi1404144-dg1002166/"><circle cx="134.1" cy="183.5" r="4" fill="#3465a4"><title>Linden Family Tartan</title></circle></a><a href="/variants/s10/y4dy3dg2k6g4w1dg12k10g2dg3~x2/"><circle cx="119.8" cy="159.5" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/variants/s6/w2dg20b3k10dy20ly2~x2/"><circle cx="156.8" cy="184.5" r="4" fill="#3465a4"><title>Morris of Balgonie Htg (Personal)</title></circle></a><a href="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/"><circle cx="175.3" cy="166.7" r="4" fill="#3465a4"><title>Tombow 21st School Memorial</title></circle></a><circle cx="102.9" cy="175.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/"><circle cx="81.6" cy="155.3" r="4" fill="#3465a4"><title>Rutledge (Name)</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg1~x4/"><circle cx="76.9" cy="152.1" r="4" fill="#3465a4"><title>Rutledge</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.2" cy="172.4" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s8/dr2db11k8dg8y2g8k1y2~x2~dg1806142-g2408144/"><circle cx="58.0" cy="177.8" r="4" fill="#3465a4"><title>Scout Mapping Service #2 (Corporate)</title></circle></a><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/"><circle cx="100.5" cy="146.8" r="4" fill="#3465a4"><title>McCarter (2016)</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="111.1" cy="139.2" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s8/db4k9dgi20dp2dg20k5db6w2~x2~dgi1404144-dg1002166/"><circle cx="134.1" cy="183.5" r="4" fill="#3465a4"><title>Linden Family Tartan</title></circle></a><a href="/variants/s10/y4dy3dg2k6g4w1dg12k10g2dg3~x2/"><circle cx="119.8" cy="159.4" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/variants/s6/w2dg20b3k10dy20ly2~x2/"><circle cx="156.8" cy="184.4" r="4" fill="#3465a4"><title>Morris of Balgonie Htg (Personal)</title></circle></a><a href="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/"><circle cx="175.4" cy="166.5" r="4" fill="#3465a4"><title>Tombow 21st School Memorial</title></circle></a><circle cx="102.9" cy="175.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/

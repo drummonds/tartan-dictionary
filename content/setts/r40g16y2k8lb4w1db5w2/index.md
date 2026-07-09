@@ -1,5 +1,12 @@
 ---
-title: "Ancient Caledonian Society"
-redirect: "/variants/s8/r40g16y2k8lb4w1db5w2~x2/"
+title: "Caledonian Society Ancient Artifact Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ancient Caledonian Society](/variants/s8/r40g16y2k8lb4w1db5w2~x2/).
+This is the **Caledonian Society Ancient Artifact Tartan** sett — one scale-free proportion (`r40g16y2k8lb4w1db5w2`), colour order pattern
+[RGGKWWBW](/stripes/rggkwwbw/). It is recorded as a single **variant**, below.
+First attested **1847**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Caledonian Society Ancient Artifact Tartan](/variants/s8/r40g16y2k8lb4w1db5w2~x2/) ★ | 1847 | ![Caledonian Society Ancient Artifact Tartan sett](/variants/s8/r40g16y2k8lb4w1db5w2~x2/sett.png) |

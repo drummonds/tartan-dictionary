@@ -1,16 +1,18 @@
 ---
 title: "Seton Hunting Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Seton Hunting"
   url: "/tartans/seton-hunting/"
 - name: "Seton Hunting Family Tartan"
-  url: ""
+  url: "/setts/g6w1g12dy4r4dy2r4dy32g1dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6w1g12dy4r4dy2r4dy32g1dy2/)
-(the same proportion at any scale), whose colour order is pattern [GGGRGRGGWG](/stripes/gggrgrggwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g6w1g12dy4r4dy2r4dy32g1dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGRGRGGWG](/stripes/gggrgrggwg/).
 
 Part of the [Seton Hunting](/tartans/seton-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant w
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1930 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="351.3" cy="158.1" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.2" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><circle cx="391.8" cy="129.4" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/"><circle cx="371.9" cy="124.4" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh -1746 (Clan)</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.1" cy="132.9" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/"><circle cx="375.6" cy="111.2" r="4" fill="#3465a4"><title>Lodge Isandlwana</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="132.1" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.6" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.3" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.3" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><circle cx="400.5" cy="126.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="351.3" cy="158.0" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.0" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><circle cx="391.8" cy="129.3" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/"><circle cx="371.9" cy="124.3" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh -1746 (Clan)</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.2" cy="132.8" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/"><circle cx="375.7" cy="111.0" r="4" fill="#3465a4"><title>Lodge Isandlwana</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="132.0" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.5" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.2" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><circle cx="400.5" cy="126.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/

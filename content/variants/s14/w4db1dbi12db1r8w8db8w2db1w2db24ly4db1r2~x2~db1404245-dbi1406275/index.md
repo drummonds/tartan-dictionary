@@ -1,16 +1,18 @@
 ---
 title: "Submariners (Unofficial)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Submariners"
   url: "/tartans/submariners/"
 - name: "Submariners (Unofficial)"
-  url: ""
+  url: "/setts/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2/)
-(the same proportion at any scale), whose colour order is pattern [RBYBWBWBWRBBBW](/stripes/rbybwbwbwrbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBYBWBWBWRBBBW](/stripes/rbybwbwbwrbbbw/).
 
 Part of the [Submariners](/tartans/submariners/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w4db1b12db1r8w8db8w2db1w2db24y4db1r2~x2~db1108266-b1511266/"><circle cx="210.1" cy="106.7" r="4" fill="#3465a4"><title>Submariners</title></circle></a><a href="/variants/s19/r15w2r15y1db8w2db8y1db12r1y3r1db12w2g20w2y1db20y1~x2/"><circle cx="219.7" cy="110.6" r="4" fill="#3465a4"><title>Hébert Kitenge Family (Personal)</title></circle></a><a href="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/"><circle cx="231.7" cy="115.9" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/"><circle cx="214.5" cy="118.4" r="4" fill="#3465a4"><title>Payeur, Francois (Personal)</title></circle></a><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><circle cx="174.2" cy="108.7" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s11/db15y30w30k20w20k15w10y4db94w4r10/"><circle cx="177.3" cy="109.1" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.2" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.9" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/"><circle cx="180.4" cy="90.2" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.2" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><circle cx="219.4" cy="110.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w4db1b12db1r8w8db8w2db1w2db24y4db1r2~x2~db1108266-b1511266/"><circle cx="210.1" cy="106.6" r="4" fill="#3465a4"><title>Submariners</title></circle></a><a href="/variants/s19/r15w2r15y1db8w2db8y1db12r1y3r1db12w2g20w2y1db20y1~x2/"><circle cx="219.7" cy="110.4" r="4" fill="#3465a4"><title>Hébert Kitenge Family (Personal)</title></circle></a><a href="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/"><circle cx="231.7" cy="115.8" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/"><circle cx="214.5" cy="118.3" r="4" fill="#3465a4"><title>Payeur, Francois (Personal)</title></circle></a><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><circle cx="174.2" cy="108.6" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s11/db15y30w30k20w20k15w10y4db94w4r10/"><circle cx="177.3" cy="109.0" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.8" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/"><circle cx="180.4" cy="90.0" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.1" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><circle cx="219.4" cy="110.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2~db1404245-dbi1406275/

@@ -1,6 +1,7 @@
 ---
 title: "Burnett, of Leys hunting"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Burnett of Leys Hunting"
   url: "/tartans/burnett-of-leys-hunting/"
 - name: "Burnett, of Leys hunting"
-  url: ""
+  url: "/setts/o96db8o8w3o8g3o8r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o96db8o8w3o8g3o8r3/)
-(the same proportion at any scale), whose colour order is pattern [RBRWRGRR](/stripes/rbrwrgrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o96db8o8w3o8g3o8r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRWRGRR](/stripes/rbrwrgrr/).
 
 Part of the [Burnett of Leys Hunting](/tartans/burnett-of-leys-hunting/) tartan — the named design grouping this sett with its other cloths.
 

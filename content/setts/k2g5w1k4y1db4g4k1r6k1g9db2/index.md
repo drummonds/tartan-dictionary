@@ -1,5 +1,12 @@
 ---
 title: "Moskova"
-redirect: "/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Moskova](/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/).
+This is the **Moskova** sett — one scale-free proportion (`k2g5w1k4y1db4g4k1r6k1g9db2`), colour order pattern
+[BGKRKGBGKWGK](/stripes/bgkrkgbgkwgk/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Moskova](/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/) ★ | 1980 | ![Moskova sett](/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/sett.png) |

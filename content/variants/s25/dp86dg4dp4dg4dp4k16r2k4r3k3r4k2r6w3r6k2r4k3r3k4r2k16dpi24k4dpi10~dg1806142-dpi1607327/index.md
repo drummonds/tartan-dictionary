@@ -1,16 +1,18 @@
 ---
 title: "Arran - 1978 (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Arran"
   url: "/tartans/arran/"
 - name: "Arran - 1978 (Fashion)"
-  url: ""
+  url: "/setts/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBKRKRKRKRWRKRKRKRKBKB](/stripes/bgbgbkrkrkrkrwrkrkrkrkbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBKRKRKRKRWRKRKRKRKBKB](/stripes/bgbgbkrkrkrkrwrkrkrkrkbkb/).
 
 Part of the [Arran](/tartans/arran/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/dp80g4dp4g4dp4k14r2k4r3k3r4k2r5w3r5k2r4k3r3k4r2k14n19k5n9~x2/"><circle cx="213.3" cy="14.0" r="4" fill="#3465a4"><title>Arran</title></circle></a><a href="/variants/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4~x2/"><circle cx="202.6" cy="14.0" r="4" fill="#3465a4"><title>Isle of Arran (Lochcarron) (Fashion)</title></circle></a><a href="/variants/s24/dp90n5dp5n5dp5k16r3k5r4k4r5k3r6w4r6k3r5k4r4k5r3k16n22k5/"><circle cx="226.5" cy="26.5" r="4" fill="#3465a4"><title>Arran District Tartan</title></circle></a><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/"><circle cx="269.4" cy="26.1" r="4" fill="#3465a4"><title>Arran, Isle of (Strathmore)</title></circle></a><a href="/variants/s25/dp96g10dp8g8dp10k34r1k6r4k4r6k2r7w3r7k2r6k4r4k6r1k34lb36k6lb18~x2/"><circle cx="128.8" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #52</title></circle></a><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/"><circle cx="200.7" cy="40.5" r="4" fill="#3465a4"><title>Breeding (Name)</title></circle></a><a href="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/"><circle cx="304.9" cy="19.5" r="4" fill="#3465a4"><title>Monarch of the Glen Fashion Tartan</title></circle></a><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/"><circle cx="203.4" cy="42.0" r="4" fill="#3465a4"><title>Breeding</title></circle></a><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/"><circle cx="170.9" cy="56.6" r="4" fill="#3465a4"><title>Blais Family Tartan</title></circle></a><circle cx="226.2" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/dp80g4dp4g4dp4k14r2k4r3k3r4k2r5w3r5k2r4k3r3k4r2k14n19k5n9~x2/"><circle cx="213.3" cy="14.0" r="4" fill="#3465a4"><title>Arran</title></circle></a><a href="/variants/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4~x2/"><circle cx="202.6" cy="14.0" r="4" fill="#3465a4"><title>Isle of Arran (Lochcarron) (Fashion)</title></circle></a><a href="/variants/s24/dp90n5dp5n5dp5k16r3k5r4k4r5k3r6w4r6k3r5k4r4k5r3k16n22k5/"><circle cx="226.5" cy="26.3" r="4" fill="#3465a4"><title>Arran District Tartan</title></circle></a><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/"><circle cx="269.4" cy="25.9" r="4" fill="#3465a4"><title>Arran, Isle of (Strathmore)</title></circle></a><a href="/variants/s25/dp96g10dp8g8dp10k34r1k6r4k4r6k2r7w3r7k2r6k4r4k6r1k34lb36k6lb18~x2/"><circle cx="128.7" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #52</title></circle></a><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/"><circle cx="200.7" cy="40.3" r="4" fill="#3465a4"><title>Breeding (Name)</title></circle></a><a href="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/"><circle cx="304.9" cy="19.3" r="4" fill="#3465a4"><title>Monarch of the Glen Fashion Tartan</title></circle></a><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/"><circle cx="203.4" cy="41.8" r="4" fill="#3465a4"><title>Breeding</title></circle></a><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/"><circle cx="170.9" cy="56.4" r="4" fill="#3465a4"><title>Blais Family Tartan</title></circle></a><circle cx="226.1" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s25/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327/

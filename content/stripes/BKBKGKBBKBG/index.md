@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/">Skye</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><img src="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/sett.png" alt="Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/">Skye District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><img src="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/sett.png" alt="Skye District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

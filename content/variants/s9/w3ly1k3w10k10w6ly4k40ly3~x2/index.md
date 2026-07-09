@@ -1,14 +1,16 @@
 ---
 title: "Moonlight Glen (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Moonlight Glen (Fashion)"
-  url: ""
+  url: "/setts/w3ly1k3w10k10w6ly4k40ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3ly1k3w10k10w6ly4k40ly3/)
-(the same proportion at any scale), whose colour order is pattern [WYKWKWYKY](/stripes/wykwkwyky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3ly1k3w10k10w6ly4k40ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WYKWKWYKY](/stripes/wykwkwyky/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.6" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.3" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="82.0" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/"><circle cx="380.5" cy="91.0" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/"><circle cx="380.5" cy="91.0" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.7" cy="106.9" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s6/k13n2k13n31k1n1~x4/"><circle cx="378.9" cy="160.8" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.5" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.4" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s7/k14w4k8y45w3k1y2~x2/"><circle cx="364.3" cy="103.5" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><circle cx="375.5" cy="99.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.6" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.1" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.9" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/"><circle cx="380.5" cy="90.8" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/"><circle cx="380.5" cy="90.8" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.7" cy="106.8" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s6/k13n2k13n31k1n1~x4/"><circle cx="378.9" cy="160.7" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.4" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.3" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s7/k14w4k8y45w3k1y2~x2/"><circle cx="364.3" cy="103.4" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><circle cx="375.5" cy="99.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/

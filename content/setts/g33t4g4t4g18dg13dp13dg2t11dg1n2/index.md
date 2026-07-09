@@ -1,5 +1,12 @@
 ---
 title: "Highlander"
-redirect: "/variants/s11/g33t4g4t4g18dg13dp13dg2t11dg1n2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highlander](/variants/s11/g33t4g4t4g18dg13dp13dg2t11dg1n2~x2/).
+This is the **Highlander** sett — one scale-free proportion (`g33t4g4t4g18dg13dp13dg2t11dg1n2`), colour order pattern
+[BGBGBGGBGBG](/stripes/bgbgbggbgbg/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Highlander](/variants/s11/g33t4g4t4g18dg13dp13dg2t11dg1n2~x2/) ★ | 2000 | ![Highlander sett](/variants/s11/g33t4g4t4g18dg13dp13dg2t11dg1n2~x2/sett.png) |

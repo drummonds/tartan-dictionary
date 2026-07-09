@@ -1,5 +1,12 @@
 ---
 title: "Chaudhri, Zafar Iqbal"
-redirect: "/variants/s8/dp13r8w5g24w5r10w5r10~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Chaudhri, Zafar Iqbal](/variants/s8/dp13r8w5g24w5r10w5r10~x2/).
+This is the **Chaudhri, Zafar Iqbal** sett — one scale-free proportion (`dp13r8w5g24w5r10w5r10`), colour order pattern
+[BRWGWRWR](/stripes/brwgwrwr/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Chaudhri, Zafar Iqbal](/variants/s8/dp13r8w5g24w5r10w5r10~x2/) ★ | 2012 | ![Chaudhri, Zafar Iqbal sett](/variants/s8/dp13r8w5g24w5r10w5r10~x2/sett.png) |

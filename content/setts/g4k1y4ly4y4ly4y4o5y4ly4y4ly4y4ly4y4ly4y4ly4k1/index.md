@@ -1,5 +1,12 @@
 ---
 title: "Peeper (check)"
-redirect: "/variants/s19/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Peeper (check)](/variants/s19/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1~x2/).
+This is the **Peeper (check)** sett — one scale-free proportion (`g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1`), colour order pattern
+[GKGYGYGRGYGYGYGYGYK](/stripes/gkgygygrgygygygygyk/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Peeper (check)](/variants/s19/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1~x2/) ★ | 2006 | ![Peeper (check) sett](/variants/s19/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1~x2/sett.png) |

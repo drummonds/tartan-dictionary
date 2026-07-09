@@ -1,5 +1,12 @@
 ---
 title: "James William Forrester of S. Carolina"
-redirect: "/variants/s8/db16r14g16y3g16r14db16w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [James William Forrester of S. Carolina](/variants/s8/db16r14g16y3g16r14db16w3~x2/).
+This is the **James William Forrester of S. Carolina** sett — one scale-free proportion (`db16r14g16y3g16r14db16w3`), colour order pattern
+[BRGGGRBW](/stripes/brgggrbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [James William Forrester of S. Carolina](/variants/s8/db16r14g16y3g16r14db16w3~x2/) ★ | ~2016 | ![James William Forrester of S. Carolina sett](/variants/s8/db16r14g16y3g16r14db16w3~x2/sett.png) |

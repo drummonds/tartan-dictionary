@@ -1,14 +1,16 @@
 ---
 title: "Livingston Football Club (2001)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Livingston Football Club (2001)"
-  url: ""
+  url: "/setts/w4k24dy5k10dy12r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k24dy5k10dy12r1/)
-(the same proportion at any scale), whose colour order is pattern [RGKGKW](/stripes/rgkgkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w4k24dy5k10dy12r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGKGKW](/stripes/rgkgkw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="280.7" cy="208.3" r="4" fill="#3465a4"><title>MacLeod of Lewis (Vestiarium Scoticum)</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x2/"><circle cx="280.7" cy="208.3" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.8" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.6" cy="130.5" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s5/k65r27w2k4y5~x2/"><circle cx="381.5" cy="115.7" r="4" fill="#3465a4"><title>Perry, Ancient</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="400.3" cy="127.9" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.7" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="375.7" cy="124.9" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="153.0" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><circle cx="315.6" cy="155.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="280.8" cy="208.2" r="4" fill="#3465a4"><title>MacLeod of Lewis (Vestiarium Scoticum)</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x2/"><circle cx="280.8" cy="208.2" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.7" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.7" cy="130.4" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s5/k65r27w2k4y5~x2/"><circle cx="381.5" cy="115.6" r="4" fill="#3465a4"><title>Perry, Ancient</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="400.3" cy="127.8" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.6" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="375.8" cy="124.8" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.9" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><circle cx="315.7" cy="155.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w4k24dy5k10dy12r1~x2/

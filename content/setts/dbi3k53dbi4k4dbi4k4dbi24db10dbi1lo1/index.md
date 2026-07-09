@@ -1,5 +1,12 @@
 ---
 title: "Comme Ça Il Principe"
-redirect: "/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Comme Ça Il Principe](/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/).
+This is the **Comme Ça Il Principe** sett — one scale-free proportion (`dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1`), colour order pattern
+[BKBKBKBBBY](/stripes/bkbkbkbbby/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Comme Ça Il Principe](/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/) ★ | 2016 | ![Comme Ça Il Principe sett](/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/sett.png) |

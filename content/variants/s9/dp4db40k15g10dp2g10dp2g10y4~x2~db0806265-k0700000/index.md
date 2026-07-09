@@ -1,14 +1,16 @@
 ---
 title: "Ebdon Muir (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ebdon Muir (Personal)"
-  url: ""
+  url: "/setts/dp4db40k15g10dp2g10dp2g10y4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp4db40k15g10dp2g10dp2g10y4/)
-(the same proportion at any scale), whose colour order is pattern [BBKGBGBGG](/stripes/bbkgbgbgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp4db40k15g10dp2g10dp2g10y4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBKGBGBGG](/stripes/bbkgbgbgg/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="141.0" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13b2db1~x4/"><circle cx="192.5" cy="159.8" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/"><circle cx="246.0" cy="129.2" r="4" fill="#3465a4"><title>Mann</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/"><circle cx="180.6" cy="155.7" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="209.1" cy="123.5" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s9/o3db24k16dt3g2dt2g2dt28lb3~x2/"><circle cx="199.6" cy="141.5" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.6" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="217.6" cy="100.7" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1604274-db0805267/"><circle cx="248.6" cy="133.9" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2~x2~dbi1605267-db1003265/"><circle cx="157.8" cy="143.9" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><circle cx="214.5" cy="138.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="140.9" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13b2db1~x4/"><circle cx="192.6" cy="159.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/"><circle cx="246.1" cy="129.1" r="4" fill="#3465a4"><title>Mann</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/"><circle cx="180.7" cy="155.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="209.1" cy="123.4" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s9/o3db24k16dt3g2dt2g2dt28lb3~x2/"><circle cx="199.6" cy="141.4" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.5" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="217.6" cy="100.5" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1604274-db0805267/"><circle cx="248.6" cy="133.8" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2~x2~dbi1605267-db1003265/"><circle cx="157.8" cy="143.8" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><circle cx="214.5" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dp4db40k15g10dp2g10dp2g10y4~x2~db0806265-k0700000/

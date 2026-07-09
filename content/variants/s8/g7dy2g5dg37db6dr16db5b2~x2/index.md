@@ -1,16 +1,18 @@
 ---
 title: "Telfer Green"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Telfer"
   url: "/tartans/telfer/"
 - name: "Telfer Green"
-  url: ""
+  url: "/setts/g7dy2g5dg37db6dr16db5b2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g7dy2g5dg37db6dr16db5b2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBGGGG](/stripes/bbbbgggg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g7dy2g5dg37db6dr16db5b2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBGGGG](/stripes/bbbbgggg/).
 
 Part of the [Telfer](/tartans/telfer/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g7ly2g5dg37db6dr16db5t2~x2/"><circle cx="312.9" cy="173.4" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><a href="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/"><circle cx="358.5" cy="188.2" r="4" fill="#3465a4"><title>Moray Council</title></circle></a><a href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/"><circle cx="326.4" cy="224.3" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.1" cy="209.4" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/variants/s7/r3db6y2db15g12dg39w3~x2/"><circle cx="276.3" cy="153.9" r="4" fill="#3465a4"><title>Wagland (Name)</title></circle></a><a href="/variants/s8/dy31y6n3db31dy8dg60y7t7~x2/"><circle cx="343.1" cy="203.3" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9gi8g8dg1lr2~x2~gi2203152-g1903114/"><circle cx="290.9" cy="183.9" r="4" fill="#3465a4"><title>Isle of Skye District Tartan</title></circle></a><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/"><circle cx="315.9" cy="198.4" r="4" fill="#3465a4"><title>Telfer, Jamie (Name)</title></circle></a><a href="/variants/s6/dg42lo2g16db7do16r5~x2/"><circle cx="298.6" cy="180.5" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.1" cy="187.8" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><circle cx="338.6" cy="181.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g7ly2g5dg37db6dr16db5t2~x2/"><circle cx="313.0" cy="173.3" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><a href="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/"><circle cx="358.6" cy="188.1" r="4" fill="#3465a4"><title>Moray Council</title></circle></a><a href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/"><circle cx="326.5" cy="224.3" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.1" cy="209.3" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/variants/s7/r3db6y2db15g12dg39w3~x2/"><circle cx="276.4" cy="153.8" r="4" fill="#3465a4"><title>Wagland (Name)</title></circle></a><a href="/variants/s8/dy31y6n3db31dy8dg60y7t7~x2/"><circle cx="343.1" cy="203.2" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9gi8g8dg1lr2~x2~gi2203152-g1903114/"><circle cx="290.9" cy="183.7" r="4" fill="#3465a4"><title>Isle of Skye District Tartan</title></circle></a><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/"><circle cx="316.0" cy="198.3" r="4" fill="#3465a4"><title>Telfer, Jamie (Name)</title></circle></a><a href="/variants/s6/dg42lo2g16db7do16r5~x2/"><circle cx="298.7" cy="180.4" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.1" cy="187.7" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><circle cx="338.6" cy="181.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g7dy2g5dg37db6dr16db5b2~x2/

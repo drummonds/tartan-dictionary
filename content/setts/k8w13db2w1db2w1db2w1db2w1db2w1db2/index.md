@@ -1,5 +1,14 @@
 ---
 title: "Hanna Personal Tartan"
-redirect: "/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hanna Personal Tartan](/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/).
+This is the **Hanna Personal Tartan** sett — one scale-free proportion (`k8w13db2w1db2w1db2w1db2w1db2w1db2`), colour order pattern
+[BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/). It is recorded as a single **variant**, below.
+First attested **1987**.
+
+Part of the [Hanna](/tartans/hanna/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hanna Personal Tartan](/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/) ★ | 1987 | ![Hanna Personal Tartan sett](/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Unidentified No 60"
-redirect: "/variants/s4/dp6k5g5r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified No 60](/variants/s4/dp6k5g5r1~x2/).
+This is the **Unidentified No 60** sett — one scale-free proportion (`dp6k5g5r1`), colour order pattern
+[BKGR](/stripes/bkgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified No 60](/variants/s4/dp6k5g5r1~x2/) ★ | ~2016 | ![Unidentified No 60 sett](/variants/s4/dp6k5g5r1~x2/sett.png) |

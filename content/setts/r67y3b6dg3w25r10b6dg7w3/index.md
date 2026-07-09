@@ -1,5 +1,12 @@
 ---
 title: "Drummond of Perth, dress"
-redirect: "/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Drummond of Perth, dress](/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/).
+This is the **Drummond of Perth, dress** sett — one scale-free proportion (`r67y3b6dg3w25r10b6dg7w3`), colour order pattern
+[RGBGWRBGW](/stripes/rgbgwrbgw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Drummond of Perth, dress](/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/) ★ | ~2016 | ![Drummond of Perth, dress sett](/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/sett.png) |

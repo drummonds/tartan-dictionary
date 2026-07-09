@@ -1,14 +1,16 @@
 ---
 title: "Spirit of Riverside (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Riverside (Corporate)"
-  url: ""
+  url: "/setts/n20w13y24k3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n20w13y24k3/)
-(the same proportion at any scale), whose colour order is pattern [BWGK](/stripes/bwgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n20w13y24k3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGK](/stripes/bwgk/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.3" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s4/k5n24w24r5~x2/"><circle cx="157.5" cy="249.9" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/variants/s6/y15k10n30o11w3y5~x2/"><circle cx="183.1" cy="206.3" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.3" cy="242.9" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="196.3" cy="195.5" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="203.1" cy="248.8" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s4/k5n24w24k5~x2/"><circle cx="143.3" cy="245.6" r="4" fill="#3465a4"><title>City of London</title></circle></a><a href="/variants/s5/o12k4w2n6r3~x2/"><circle cx="154.6" cy="220.9" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.2" cy="241.8" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s5/r22g6k3g16w22/"><circle cx="121.2" cy="239.4" r="4" fill="#3465a4"><title>Inverness Basque</title></circle></a><circle cx="178.0" cy="259.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.2" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s4/k5n24w24r5~x2/"><circle cx="157.5" cy="249.9" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/variants/s6/y15k10n30o11w3y5~x2/"><circle cx="183.1" cy="206.3" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.3" cy="242.8" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="196.3" cy="195.5" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="203.1" cy="248.8" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s4/k5n24w24k5~x2/"><circle cx="143.3" cy="245.5" r="4" fill="#3465a4"><title>City of London</title></circle></a><a href="/variants/s5/o12k4w2n6r3~x2/"><circle cx="154.6" cy="220.8" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.3" cy="241.7" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s5/r22g6k3g16w22/"><circle cx="121.3" cy="239.4" r="4" fill="#3465a4"><title>Inverness Basque</title></circle></a><circle cx="178.0" cy="259.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/n20w13y24k3~x2/

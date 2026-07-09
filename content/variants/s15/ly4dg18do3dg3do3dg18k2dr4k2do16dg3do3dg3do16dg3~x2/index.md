@@ -1,16 +1,18 @@
 ---
 title: "Ontario, Ensign of"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ontario, Ensign of"
   url: "/tartans/ontario-ensign-of/"
 - name: "Ontario, Ensign of"
-  url: ""
+  url: "/setts/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGBKBKGBGBGY](/stripes/gbgbgbkbkgbgbgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBKBKGBGBGY](/stripes/gbgbgbkbkgbgbgy/).
 
 Part of the [Ontario, Ensign of](/tartans/ontario-ensign-of/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/"><circle cx="378.9" cy="209.3" r="4" fill="#3465a4"><title>Ontario, Ensign of (District)</title></circle></a><a href="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/"><circle cx="452.8" cy="175.8" r="4" fill="#3465a4"><title>Ontario Ensign of.. District Tartan</title></circle></a><a href="/variants/s15/g21k1r4k1o21g3o3g3o21g3y4g21o3g3o3~x2/"><circle cx="356.9" cy="145.9" r="4" fill="#3465a4"><title>Ensign, of Ontario</title></circle></a><a href="/variants/s8/lb6dg5dr5dg45k4dy24k4dg5~x2/"><circle cx="384.7" cy="173.7" r="4" fill="#3465a4"><title>O'Neill Clan/Family Tartan</title></circle></a><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/"><circle cx="404.0" cy="162.8" r="4" fill="#3465a4"><title>Ensign of Ontario (Fashion)</title></circle></a><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/"><circle cx="316.8" cy="212.8" r="4" fill="#3465a4"><title>Lowland Donnelly (Personal)</title></circle></a><a href="/variants/s18/dg18dr3dg3dr15dy13dr14dg3dr3dg18dy5dg2k5dg3dr2dg3db5dg2lg5~x2/"><circle cx="254.7" cy="177.1" r="4" fill="#3465a4"><title>Ben Murad (Personal)</title></circle></a><a href="/variants/s18/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2~x2/"><circle cx="251.0" cy="189.8" r="4" fill="#3465a4"><title>Van Ingelgem Hunting (Personal)</title></circle></a><circle cx="358.9" cy="201.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/"><circle cx="378.9" cy="209.2" r="4" fill="#3465a4"><title>Ontario, Ensign of (District)</title></circle></a><a href="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/"><circle cx="452.9" cy="175.6" r="4" fill="#3465a4"><title>Ontario Ensign of.. District Tartan</title></circle></a><a href="/variants/s15/g21k1r4k1o21g3o3g3o21g3y4g21o3g3o3~x2/"><circle cx="356.9" cy="145.7" r="4" fill="#3465a4"><title>Ensign, of Ontario</title></circle></a><a href="/variants/s8/lb6dg5dr5dg45k4dy24k4dg5~x2/"><circle cx="384.7" cy="173.5" r="4" fill="#3465a4"><title>O'Neill Clan/Family Tartan</title></circle></a><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/"><circle cx="404.1" cy="162.7" r="4" fill="#3465a4"><title>Ensign of Ontario (Fashion)</title></circle></a><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/"><circle cx="316.8" cy="212.7" r="4" fill="#3465a4"><title>Lowland Donnelly (Personal)</title></circle></a><a href="/variants/s18/dg18dr3dg3dr15dy13dr14dg3dr3dg18dy5dg2k5dg3dr2dg3db5dg2lg5~x2/"><circle cx="254.7" cy="176.9" r="4" fill="#3465a4"><title>Ben Murad (Personal)</title></circle></a><a href="/variants/s18/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2~x2/"><circle cx="251.0" cy="189.6" r="4" fill="#3465a4"><title>Van Ingelgem Hunting (Personal)</title></circle></a><circle cx="358.9" cy="201.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3~x2/

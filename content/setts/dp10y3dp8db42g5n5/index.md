@@ -1,5 +1,12 @@
 ---
 title: "Cheadle (Personal)"
-redirect: "/variants/s6/dp10y3dp8db42g5n5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cheadle (Personal)](/variants/s6/dp10y3dp8db42g5n5~x2/).
+This is the **Cheadle (Personal)** sett — one scale-free proportion (`dp10y3dp8db42g5n5`), colour order pattern
+[BGBBGB](/stripes/bgbbgb/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cheadle (Personal)](/variants/s6/dp10y3dp8db42g5n5~x2/) ★ | 2009 | ![Cheadle (Personal) sett](/variants/s6/dp10y3dp8db42g5n5~x2/sett.png) |

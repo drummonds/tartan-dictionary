@@ -57,13 +57,13 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/"><img src="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/sett.png" alt="Logan Rogers" width="140"><br>Logan Rogers</a></li>
 <li><a class="tartan" href="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/"><img src="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/sett.png" alt="Logan Rogers Hunting" width="140"><br>Logan Rogers Hunting</a></li>
 <li><a class="tartan" href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><img src="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/sett.png" alt="Longmore" width="140"><br>Longmore</a></li>
-<li><a class="tartan" href="/variants/s6/k43dg8k8db21dg10w2~x2/"><img src="/variants/s6/k43dg8k8db21dg10w2~x2/sett.png" alt="Longmuir (2014)" width="140"><br>Longmuir (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/k43dg8k8dt21dg10w2~x2/"><img src="/variants/s6/k43dg8k8dt21dg10w2~x2/sett.png" alt="Longmuir (2014)" width="140"><br>Longmuir (2014)</a></li>
+<li><a class="tartan" href="/variants/s6/k43dg8k8db21dg10w2~x2/"><img src="/variants/s6/k43dg8k8db21dg10w2~x2/sett.png" alt="Longmuir (2014)" width="140"><br>Longmuir (2014)</a></li>
 <li><a class="tartan" href="/variants/s8/db4r1w1r1db4k2lb6y1~x6/"><img src="/variants/s8/db4r1w1r1db4k2lb6y1~x6/sett.png" alt="Lopatinsky" width="140"><br>Lopatinsky</a></li>
 <li><a class="tartan" href="/variants/s7/r1n5k5db1k1db6y1~x8/"><img src="/variants/s7/r1n5k5db1k1db6y1~x8/sett.png" alt="Lopez-Gasparotto" width="140"><br>Lopez-Gasparotto</a></li>
 <li><a class="tartan" href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/"><img src="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/sett.png" alt="Lovell (2014)" width="140"><br>Lovell (2014)</a></li>
-<li><a class="tartan" href="/variants/s3/r10dg4y1~x8/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
 <li><a class="tartan" href="/variants/s3/r10dg4dy1~x8/"><img src="/variants/s3/r10dg4dy1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
+<li><a class="tartan" href="/variants/s3/r10dg4y1~x8/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
 <li><a class="tartan" href="/variants/s21/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2~x2/"><img src="/variants/s21/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2~x2/sett.png" alt="Lundie" width="140"><br>Lundie</a></li>
 <li><a class="tartan" href="/variants/s8/t18w1k3w1t9w1k45t4~x2/"><img src="/variants/s8/t18w1k3w1t9w1k45t4~x2/sett.png" alt="Lynn (Name)" width="140"><br>Lynn (Name)</a></li>
 </ul>

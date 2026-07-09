@@ -1,6 +1,7 @@
 ---
 title: "Braken Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Bracken"
   url: "/setts/y20db27r6db15y8db11y78dbi10r12/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y20db27r6db15y8db11y78dbi10r12/)
-(the same proportion at any scale), whose colour order is pattern [GBRBGBGBR](/stripes/gbrbgbgbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y20db27r6db15y8db11y78dbi10r12/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBRBGBGBR](/stripes/gbrbgbgbr/).
 
 Part of the [Bracken](/tartans/bracken/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: pre 1992 Originally spelt 'Braken'.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 1992 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/"><circle cx="325.0" cy="173.4" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/"><circle cx="361.9" cy="187.1" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/"><circle cx="347.3" cy="182.8" r="4" fill="#3465a4"><title>Bracken (Fashion)</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.3" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s8/o5b12dg4r4dg27b3dg4o5/"><circle cx="321.9" cy="207.4" r="4" fill="#3465a4"><title>Daks, Muted Loden</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="351.3" cy="158.1" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/"><circle cx="300.3" cy="172.3" r="4" fill="#3465a4"><title>Wilson's No.213</title></circle></a><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><circle cx="342.6" cy="153.9" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/variants/s6/o15r5o30db32o4y3~x2/"><circle cx="339.7" cy="215.1" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="312.7" cy="217.4" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><circle cx="357.8" cy="183.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/"><circle cx="325.0" cy="173.3" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/"><circle cx="361.9" cy="187.0" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/"><circle cx="347.3" cy="182.7" r="4" fill="#3465a4"><title>Bracken (Fashion)</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s8/o5b12dg4r4dg27b3dg4o5/"><circle cx="321.9" cy="207.3" r="4" fill="#3465a4"><title>Daks, Muted Loden</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="351.3" cy="158.0" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/"><circle cx="300.3" cy="172.2" r="4" fill="#3465a4"><title>Wilson's No.213</title></circle></a><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><circle cx="342.6" cy="153.8" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/variants/s6/o15r5o30db32o4y3~x2/"><circle cx="339.7" cy="215.1" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="312.7" cy="217.3" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><circle cx="357.8" cy="183.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/

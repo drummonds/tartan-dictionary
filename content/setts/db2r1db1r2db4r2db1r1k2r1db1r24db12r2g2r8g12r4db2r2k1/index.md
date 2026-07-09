@@ -2,15 +2,15 @@
 title: "Murray of Tullibardine"
 date: 2023-03-18
 ---
-The **Murray of Tullibardine** tartan is one sett proportion (`db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Murray of Tullibardine** sett — one scale-free proportion (`db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1`), colour order pattern
+[BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1850**.
 
-Part of the [Murray of Tullibardine](/tartans/murray-of-tullibardine/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Murray of Tullibardine](/tartans/murray-of-tullibardine/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [Murray of Tullibardine](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1/) ★ | ~2016 | ![Murray of Tullibardine sett](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1/sett.png) |
-| ×2 | [Murray of Tullibardine #2](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1~x2/) | ~2016 | ![Murray of Tullibardine #2 sett](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1~x2/sett.png) |
+| ×2 | [Murray of Tullibardine Family Tartan](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1~x2/) ★ | 1850 | ![Murray of Tullibardine Family Tartan sett](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1~x2/sett.png) |
+| ×1 | [Murray of Tullibardine](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1/) | ~2016 | ![Murray of Tullibardine sett](/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1/sett.png) |

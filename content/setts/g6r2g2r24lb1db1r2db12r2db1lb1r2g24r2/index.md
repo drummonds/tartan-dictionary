@@ -1,5 +1,12 @@
 ---
 title: "Unidentified Coat"
-redirect: "/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified Coat](/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/).
+This is the **Unidentified Coat** sett — one scale-free proportion (`g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2`), colour order pattern
+[GRGRWBRBRBWRGR](/stripes/grgrwbrbrbwrgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified Coat](/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/) ★ | ~2016 | ![Unidentified Coat sett](/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/sett.png) |

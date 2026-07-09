@@ -1,14 +1,16 @@
 ---
 title: "Harmony"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Harmony"
-  url: ""
+  url: "/setts/b11lb3b4lbi3b3lbi4b3db13bi34r3bi4b3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b11lb3b4lbi3b3lbi4b3db13bi34r3bi4b3/)
-(the same proportion at any scale), whose colour order is pattern [BBRBBBWBWBWB](/stripes/bbrbbbwbwbwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b11lb3b4lbi3b3lbi4b3db13bi34r3bi4b3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBBBWBWBWB](/stripes/bbrbbbwbwbwb/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b26w2b3db15n26r2n3db4~x2/"><circle cx="291.0" cy="171.9" r="4" fill="#3465a4"><title>Scottish Highlander Universal Tartan</title></circle></a><circle cx="283.7" cy="164.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b26w2b3db15n26r2n3db4~x2/"><circle cx="291.0" cy="171.8" r="4" fill="#3465a4"><title>Scottish Highlander Universal Tartan</title></circle></a><circle cx="283.7" cy="164.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/b11lb3b4lbi3b3lbi4b3db13bi34r3bi4b3~x2~lbi3200000-bi2505279/

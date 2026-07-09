@@ -1,5 +1,12 @@
 ---
 title: "Land's End"
-redirect: "/variants/s8/k2g9dr2g9k2g2k26dg2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Land's End](/variants/s8/k2g9dr2g9k2g2k26dg2~x2/).
+This is the **Land's End** sett — one scale-free proportion (`k2g9dr2g9k2g2k26dg2`), colour order pattern
+[GKGKGBGK](/stripes/gkgkgbgk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Land's End](/variants/s8/k2g9dr2g9k2g2k26dg2~x2/) ★ | ~2016 | ![Land's End sett](/variants/s8/k2g9dr2g9k2g2k26dg2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Slanj, Grey (Corporate)"
-redirect: "/variants/s6/k3n25k3n3k21n3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Slanj, Grey (Corporate)](/variants/s6/k3n25k3n3k21n3~x2/).
+This is the **Slanj, Grey (Corporate)** sett — one scale-free proportion (`k3n25k3n3k21n3`), colour order pattern
+[BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Slanj, Grey (Corporate)](/variants/s6/k3n25k3n3k21n3~x2/) ★ | ~2008 | ![Slanj, Grey (Corporate) sett](/variants/s6/k3n25k3n3k21n3~x2/sett.png) |

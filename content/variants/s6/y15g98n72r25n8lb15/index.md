@@ -1,14 +1,16 @@
 ---
 title: "Afternoon Tea / Afternoon Tea"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Afternoon Tea / Afternoon Tea"
-  url: ""
+  url: "/setts/y15g98n72r25n8lb15/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y15g98n72r25n8lb15/)
-(the same proportion at any scale), whose colour order is pattern [GGBRBW](/stripes/ggbrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y15g98n72r25n8lb15/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBRBW](/stripes/ggbrbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3n34db4g47lb3~x2/"><circle cx="429.0" cy="235.9" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.5" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.4" cy="184.5" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><a href="/variants/s6/g20dg11n6dr2dp3n1~x2/"><circle cx="341.2" cy="214.2" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.5" cy="214.8" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="241.5" cy="282.1" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><circle cx="326.9" cy="250.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s9/g48n26w5dy7lb10g3t7n10r3~x2/"><circle cx="246.9" cy="153.4" r="4" fill="#3465a4"><title>State Seal of Mississippi (Fashion)</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.2" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><circle cx="318.5" cy="232.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3n34db4g47lb3~x2/"><circle cx="429.0" cy="235.8" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.4" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.4" cy="184.4" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><a href="/variants/s6/g20dg11n6dr2dp3n1~x2/"><circle cx="341.3" cy="214.1" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.5" cy="214.8" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="241.6" cy="282.0" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><circle cx="326.9" cy="250.7" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s9/g48n26w5dy7lb10g3t7n10r3~x2/"><circle cx="247.0" cy="153.3" r="4" fill="#3465a4"><title>State Seal of Mississippi (Fashion)</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.1" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><circle cx="318.6" cy="232.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y15g98n72r25n8lb15/

@@ -1,5 +1,12 @@
 ---
 title: "Fife, Duchess of.."
-redirect: "/variants/s6/g30k12g6k6db2k5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fife, Duchess of..](/variants/s6/g30k12g6k6db2k5~x2/).
+This is the **Fife, Duchess of..** sett — one scale-free proportion (`g30k12g6k6db2k5`), colour order pattern
+[GKGKBK](/stripes/gkgkbk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Fife, Duchess of..](/variants/s6/g30k12g6k6db2k5~x2/) ★ | ~2016 | ![Fife, Duchess of.. sett](/variants/s6/g30k12g6k6db2k5~x2/sett.png) |

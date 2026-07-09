@@ -1,5 +1,12 @@
 ---
 title: "Morris (Welsh Name)"
-redirect: "/variants/s8/w6y3db3y2db3y4db48y4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Morris (Welsh Name)](/variants/s8/w6y3db3y2db3y4db48y4/).
+This is the **Morris (Welsh Name)** sett — one scale-free proportion (`w6y3db3y2db3y4db48y4`), colour order pattern
+[GBGBGBGW](/stripes/gbgbgbgw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Morris (Welsh Name)](/variants/s8/w6y3db3y2db3y4db48y4/) ★ | 2002 | ![Morris (Welsh Name) sett](/variants/s8/w6y3db3y2db3y4db48y4/sett.png) |

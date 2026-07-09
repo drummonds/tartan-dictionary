@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/">Livingstone MacLay MacLeay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><img src="/variants/s7/r28g4k4g4k4lb6y1~x2/sett.png" alt="Livingstone MacLay MacLeay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/">Livingstone MacLay MacLeay Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><img src="/variants/s7/r28g4k4g4k4lb6y1~x2/sett.png" alt="Livingstone MacLay MacLeay Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

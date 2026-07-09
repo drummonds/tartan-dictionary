@@ -1,6 +1,7 @@
 ---
 title: "Telfer Name Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Telfer (Name)"
   url: "/setts/g9y2g6r35db6lb1dr20db5lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9y2g6r35db6lb1dr20db5lb2/)
-(the same proportion at any scale), whose colour order is pattern [GGGRBWBBW](/stripes/gggrbwbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g9y2g6r35db6lb1dr20db5lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGRBWBBW](/stripes/gggrbwbbw/).
 
 Part of the [Telfer](/tartans/telfer-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: 2009 As a child the designer went to church in a kilt of Ro
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2009 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/"><circle cx="240.4" cy="105.0" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/"><circle cx="239.7" cy="104.8" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/variants/s7/y4g18db4dr8db8r21w1~x2/"><circle cx="171.4" cy="166.3" r="4" fill="#3465a4"><title>G P Bathija (Shikarpur, Sindh)</title></circle></a><a href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/"><circle cx="197.7" cy="177.2" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/"><circle cx="225.2" cy="138.5" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal</title></circle></a><a href="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/"><circle cx="266.7" cy="109.3" r="4" fill="#3465a4"><title>Tartan Army Whisky</title></circle></a><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/"><circle cx="236.7" cy="94.5" r="4" fill="#3465a4"><title>Unidentified 9</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3y2~x2/"><circle cx="217.5" cy="124.8" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan</title></circle></a><a href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/"><circle cx="274.5" cy="112.4" r="4" fill="#3465a4"><title>Tartan Army Whisky</title></circle></a><a href="/variants/s12/w3dr20g2r5n2r4n2r2n4r1n20lb3~x2/"><circle cx="246.5" cy="120.6" r="4" fill="#3465a4"><title>Ryutokukan High School</title></circle></a><circle cx="250.4" cy="108.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/"><circle cx="240.4" cy="104.9" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/"><circle cx="239.8" cy="104.6" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/variants/s7/y4g18db4dr8db8r21w1~x2/"><circle cx="171.4" cy="166.2" r="4" fill="#3465a4"><title>G P Bathija (Shikarpur, Sindh)</title></circle></a><a href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/"><circle cx="197.7" cy="177.2" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/"><circle cx="225.2" cy="138.4" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal</title></circle></a><a href="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/"><circle cx="266.7" cy="109.2" r="4" fill="#3465a4"><title>Tartan Army Whisky</title></circle></a><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/"><circle cx="236.7" cy="94.3" r="4" fill="#3465a4"><title>Unidentified 9</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3y2~x2/"><circle cx="217.5" cy="124.7" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan</title></circle></a><a href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/"><circle cx="274.5" cy="112.2" r="4" fill="#3465a4"><title>Tartan Army Whisky</title></circle></a><a href="/variants/s12/w3dr20g2r5n2r4n2r2n4r1n20lb3~x2/"><circle cx="246.5" cy="120.5" r="4" fill="#3465a4"><title>Ryutokukan High School</title></circle></a><circle cx="250.4" cy="108.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2~r2109032-db1004274/

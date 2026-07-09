@@ -1,5 +1,12 @@
 ---
 title: "Gearach Woodcock Tweed (Corporate)"
-redirect: "/variants/s3/dy2lb1lo1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gearach Woodcock Tweed (Corporate)](/variants/s3/dy2lb1lo1~x2/).
+This is the **Gearach Woodcock Tweed (Corporate)** sett — one scale-free proportion (`dy2lb1lo1`), colour order pattern
+[GWY](/stripes/gwy/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Gearach Woodcock Tweed (Corporate)](/variants/s3/dy2lb1lo1~x2/) ★ | 2007 | ![Gearach Woodcock Tweed (Corporate) sett](/variants/s3/dy2lb1lo1~x2/sett.png) |

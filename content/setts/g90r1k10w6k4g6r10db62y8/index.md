@@ -1,5 +1,12 @@
 ---
 title: "Stirling, University of"
-redirect: "/variants/s9/g90r1k10w6k4g6r10db62y8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stirling, University of](/variants/s9/g90r1k10w6k4g6r10db62y8/).
+This is the **Stirling, University of** sett — one scale-free proportion (`g90r1k10w6k4g6r10db62y8`), colour order pattern
+[GBRGKWKRG](/stripes/gbrgkwkrg/). It is recorded as a single **variant**, below.
+First attested **1993**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Stirling, University of](/variants/s9/g90r1k10w6k4g6r10db62y8/) ★ | 1993 | ![Stirling, University of sett](/variants/s9/g90r1k10w6k4g6r10db62y8/sett.png) |

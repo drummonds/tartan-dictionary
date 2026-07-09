@@ -1,5 +1,12 @@
 ---
 title: "Comrie, Navy Blue (Dance)"
-redirect: "/variants/s8/dbi42lb2w2lb2dbi5k12w32db4~x2~dbi1404245-db1106275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Comrie, Navy Blue (Dance)](/variants/s8/dbi42lb2w2lb2dbi5k12w32db4~x2~dbi1404245-db1106275/).
+This is the **Comrie, Navy Blue (Dance)** sett — one scale-free proportion (`dbi42lb2w2lb2dbi5k12w32db4`), colour order pattern
+[BWKBWWWB](/stripes/bwkbwwwb/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Comrie, Navy Blue (Dance)](/variants/s8/dbi42lb2w2lb2dbi5k12w32db4~x2~dbi1404245-db1106275/) ★ | 2008 | ![Comrie, Navy Blue (Dance) sett](/variants/s8/dbi42lb2w2lb2dbi5k12w32db4~x2~dbi1404245-db1106275/sett.png) |

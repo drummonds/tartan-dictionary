@@ -1,5 +1,12 @@
 ---
 title: "Cleikum"
-redirect: "/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cleikum](/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/).
+This is the **Cleikum** sett — one scale-free proportion (`db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2`), colour order pattern
+[BGBKBKBKGKRKGKBKBK](/stripes/bgbkbkbkgkrkgkbkbk/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cleikum](/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/) ★ | 2000 | ![Cleikum sett](/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/sett.png) |

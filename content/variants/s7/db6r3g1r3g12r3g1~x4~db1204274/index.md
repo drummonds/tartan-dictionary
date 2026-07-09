@@ -1,6 +1,7 @@
 ---
 title: "Skene #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,8 +12,9 @@ crumbs:
 - name: "Skene"
   url: "/setts/db6r3g1r3g12r3g1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6r3g1r3g12r3g1/)
-(the same proportion at any scale), whose colour order is pattern [BRGRGRGRGRGR](/stripes/brgrgrgrgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db6r3g1r3g12r3g1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGRGRGRGRGR](/stripes/brgrgrgrgrgr/).
 
 Part of the [Skene](/tartans/skene/) tartan — the named design grouping this sett with its other cloths.
 
@@ -68,6 +70,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2~x2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.3" cy="250.8" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.7" cy="207.9" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="370.2" cy="184.3" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="270.0" cy="211.2" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/variants/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2~dp1607327/"><circle cx="302.7" cy="183.2" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="319.2" cy="204.7" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><circle cx="320.1" cy="195.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.1" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2~x2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.3" cy="250.7" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.7" cy="207.8" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="370.2" cy="184.2" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="270.0" cy="211.1" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/variants/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2~dp1607327/"><circle cx="302.7" cy="183.1" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="319.2" cy="204.6" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><circle cx="320.1" cy="195.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db6r3g1r3g12r3g1~x4~db1204274/

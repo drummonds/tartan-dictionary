@@ -1,14 +1,16 @@
 ---
 title: "Southdown Grey"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Southdown Grey"
-  url: ""
+  url: "/setts/dr3o22do6n4do6n6do2dr1o2do3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3o22do6n4do6n6do2dr1o2do3/)
-(the same proportion at any scale), whose colour order is pattern [BRBBBBBBRB](/stripes/brbbbbbbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr3o22do6n4do6n6do2dr1o2do3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBBBBBBRB](/stripes/brbbbbbbrb/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4n4dt2n24lb1dt14n2r18n4dt3~x4/"><circle cx="348.3" cy="171.2" r="4" fill="#3465a4"><title>Marshall</title></circle></a><a href="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/"><circle cx="362.6" cy="158.1" r="4" fill="#3465a4"><title>Drumbeg</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><circle cx="348.6" cy="187.4" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.7" cy="223.9" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.7" cy="207.5" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><circle cx="352.6" cy="166.4" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.3" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.2" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/"><circle cx="423.9" cy="193.5" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><circle cx="344.1" cy="178.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4n4dt2n24lb1dt14n2r18n4dt3~x4/"><circle cx="348.3" cy="171.1" r="4" fill="#3465a4"><title>Marshall</title></circle></a><a href="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/"><circle cx="362.6" cy="157.9" r="4" fill="#3465a4"><title>Drumbeg</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><circle cx="348.6" cy="187.2" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.7" cy="223.9" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.8" cy="207.4" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.4" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><circle cx="352.6" cy="166.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.2" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.0" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/"><circle cx="423.9" cy="193.4" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><circle cx="344.1" cy="178.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/

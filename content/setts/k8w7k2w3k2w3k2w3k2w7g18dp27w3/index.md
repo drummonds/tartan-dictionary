@@ -1,5 +1,12 @@
 ---
 title: "IAPD"
-redirect: "/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [IAPD](/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/).
+This is the **IAPD** sett — one scale-free proportion (`k8w7k2w3k2w3k2w3k2w7g18dp27w3`), colour order pattern
+[KWKWKWKWKWGBW](/stripes/kwkwkwkwkwgbw/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [IAPD](/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/) ★ | 2011 | ![IAPD sett](/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/sett.png) |

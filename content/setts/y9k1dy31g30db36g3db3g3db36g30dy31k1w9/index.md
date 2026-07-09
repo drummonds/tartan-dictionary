@@ -1,5 +1,12 @@
 ---
 title: "Campbell, Brown (Personal)"
-redirect: "/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Campbell, Brown (Personal)](/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/).
+This is the **Campbell, Brown (Personal)** sett — one scale-free proportion (`y9k1dy31g30db36g3db3g3db36g30dy31k1w9`), colour order pattern
+[GKGGBGBGBGGKW](/stripes/gkggbgbgbggkw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Campbell, Brown (Personal)](/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/) ★ | 2002 | ![Campbell, Brown (Personal) sett](/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/sett.png) |

@@ -1,16 +1,18 @@
 ---
 title: "MacClure Clan/Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacClure"
   url: "/tartans/macclure/"
 - name: "MacClure Clan/Family Tartan"
-  url: ""
+  url: "/setts/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1/)
-(the same proportion at any scale), whose colour order is pattern [KBGBKBBBGBYK](/stripes/kbgbkbbbgbyk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGBKBBBGBYK](/stripes/kbgbkbbbgbyk/).
 
 Part of the [MacClure](/tartans/macclure/) tartan — the named design grouping this sett with its other cloths.
 
@@ -27,7 +29,7 @@ Earliest known date: pre 2002 Designed by Phil Smith for all MacClures. (note by
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2002 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.0" cy="125.3" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/"><circle cx="302.1" cy="113.5" r="4" fill="#3465a4"><title>Balnagowan (Harrods)</title></circle></a><a href="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/"><circle cx="260.3" cy="129.4" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/"><circle cx="246.4" cy="108.6" r="4" fill="#3465a4"><title>Ainslie #2</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="116.0" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s12/dy3k19n2k2n2k2n18k3db3k3n23r3~x2/"><circle cx="254.2" cy="126.2" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><circle cx="269.0" cy="97.9" r="4" fill="#3465a4"><title>Lambert (Front Royal) Hunting</title></circle></a><a href="/variants/s12/k1dr14g1dr1g6lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="325.7" cy="123.0" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan</title></circle></a><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="325.9" cy="122.4" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/"><circle cx="232.6" cy="178.6" r="4" fill="#3465a4"><title>Duchess of York Family Tartan</title></circle></a><circle cx="273.3" cy="120.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.0" cy="125.2" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/"><circle cx="302.1" cy="113.3" r="4" fill="#3465a4"><title>Balnagowan (Harrods)</title></circle></a><a href="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/"><circle cx="260.3" cy="129.2" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/"><circle cx="246.4" cy="108.5" r="4" fill="#3465a4"><title>Ainslie #2</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="115.9" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s12/dy3k19n2k2n2k2n18k3db3k3n23r3~x2/"><circle cx="254.2" cy="126.0" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><circle cx="269.0" cy="97.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Hunting</title></circle></a><a href="/variants/s12/k1dr14g1dr1g6lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="325.7" cy="122.8" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan</title></circle></a><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="326.0" cy="122.2" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/"><circle cx="232.6" cy="178.5" r="4" fill="#3465a4"><title>Duchess of York Family Tartan</title></circle></a><circle cx="273.3" cy="119.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/

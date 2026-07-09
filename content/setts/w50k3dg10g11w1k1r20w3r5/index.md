@@ -1,5 +1,12 @@
 ---
 title: "Drummond of Perth Dress (Dance)"
-redirect: "/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg1806142-g2203152/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Drummond of Perth Dress (Dance)](/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg1806142-g2203152/).
+This is the **Drummond of Perth Dress (Dance)** sett — one scale-free proportion (`w50k3dg10g11w1k1r20w3r5`), colour order pattern
+[RWRKWGGKW](/stripes/rwrkwggkw/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Drummond of Perth Dress (Dance)](/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg1806142-g2203152/) ★ | ~2002 | ![Drummond of Perth Dress (Dance) sett](/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg1806142-g2203152/sett.png) |

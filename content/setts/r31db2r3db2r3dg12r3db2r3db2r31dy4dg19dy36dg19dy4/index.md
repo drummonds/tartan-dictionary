@@ -1,5 +1,12 @@
 ---
 title: "O'Brian #1 (Fashion)"
-redirect: "/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [O'Brian #1 (Fashion)](/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/).
+This is the **O'Brian #1 (Fashion)** sett — one scale-free proportion (`r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4`), colour order pattern
+[GGGGGRBRBRGRBRBR](/stripes/gggggrbrbrgrbrbr/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [O'Brian #1 (Fashion)](/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/) ★ | 2001 | ![O'Brian #1 (Fashion) sett](/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/sett.png) |

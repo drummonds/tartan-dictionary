@@ -1,16 +1,18 @@
 ---
 title: "Ofsharick, Matthew (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Ofsharick, Matthew"
   url: "/tartans/ofsharick-matthew/"
 - name: "Ofsharick, Matthew (Personal)"
-  url: ""
+  url: "/setts/n55t8w8t8g5n8ly4w4k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n55t8w8t8g5n8ly4w4k4/)
-(the same proportion at any scale), whose colour order is pattern [BBWBGBYWK](/stripes/bbwbgbywk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n55t8w8t8g5n8ly4w4k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBGBYWK](/stripes/bbwbgbywk/).
 
 Part of the [Ofsharick, Matthew](/tartans/ofsharick-matthew/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n55db8w8db8g5n8y4w4k4~x2/"><circle cx="295.3" cy="114.3" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/"><circle cx="303.1" cy="121.3" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.4" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/"><circle cx="293.1" cy="140.5" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"><circle cx="326.8" cy="122.3" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.8" cy="124.6" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="302.5" cy="137.0" r="4" fill="#3465a4"><title>Moran (Wedding) (Personal)</title></circle></a><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><circle cx="292.7" cy="61.8" r="4" fill="#3465a4"><title>City of Barrie</title></circle></a><a href="/variants/s14/t18k1r1w1r4db4t4g4r1g1r1g1r1g1~x4~t2502222-db1406275/"><circle cx="267.3" cy="91.6" r="4" fill="#3465a4"><title>Hill 70</title></circle></a><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><circle cx="285.6" cy="121.7" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><circle cx="309.7" cy="121.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n55db8w8db8g5n8y4w4k4~x2/"><circle cx="295.3" cy="114.2" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/"><circle cx="303.2" cy="121.2" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.2" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/"><circle cx="293.1" cy="140.4" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"><circle cx="326.8" cy="122.2" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.8" cy="124.4" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="302.6" cy="136.9" r="4" fill="#3465a4"><title>Moran (Wedding) (Personal)</title></circle></a><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><circle cx="292.7" cy="61.6" r="4" fill="#3465a4"><title>City of Barrie</title></circle></a><a href="/variants/s14/t18k1r1w1r4db4t4g4r1g1r1g1r1g1~x4~t2502222-db1406275/"><circle cx="267.3" cy="91.5" r="4" fill="#3465a4"><title>Hill 70</title></circle></a><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><circle cx="285.6" cy="121.6" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><circle cx="309.7" cy="121.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n55t8w8t8g5n8ly4w4k4~x2/

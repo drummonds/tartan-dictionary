@@ -1,14 +1,16 @@
 ---
 title: "McFly School"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "McFly School"
-  url: ""
+  url: "/setts/n14k2db3k1lo2k1db3k14db3k1lb1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n14k2db3k1lo2k1db3k14db3k1lb1/)
-(the same proportion at any scale), whose colour order is pattern [BKBKYKBKBKW](/stripes/bkbkykbkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n14k2db3k1lo2k1db3k14db3k1lb1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKYKBKBKW](/stripes/bkbkykbkbkw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.8" cy="120.5" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/"><circle cx="158.9" cy="138.1" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/variants/s11/db1o1r5k1g1k1g1k5db10g1r1~x4/"><circle cx="150.1" cy="132.8" r="4" fill="#3465a4"><title>Okada, Yayoi (Personal)</title></circle></a><a href="/variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/"><circle cx="167.3" cy="122.0" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan</title></circle></a><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><circle cx="155.3" cy="128.5" r="4" fill="#3465a4"><title>Auld Lang Syne, Blue (Fashion)</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><circle cx="180.6" cy="134.7" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/"><circle cx="184.0" cy="135.6" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g2y3g12r2~x2/"><circle cx="155.7" cy="156.0" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/variants/s12/db8r8db42k4db4k4db4k20g4k10g25w8/"><circle cx="140.1" cy="141.0" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.9" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><circle cx="188.1" cy="121.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.8" cy="120.4" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/"><circle cx="158.9" cy="138.0" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/variants/s11/db1o1r5k1g1k1g1k5db10g1r1~x4/"><circle cx="150.1" cy="132.7" r="4" fill="#3465a4"><title>Okada, Yayoi (Personal)</title></circle></a><a href="/variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/"><circle cx="167.3" cy="121.8" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan</title></circle></a><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><circle cx="155.3" cy="128.4" r="4" fill="#3465a4"><title>Auld Lang Syne, Blue (Fashion)</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><circle cx="180.7" cy="134.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/"><circle cx="184.0" cy="135.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g2y3g12r2~x2/"><circle cx="155.7" cy="155.9" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/variants/s12/db8r8db42k4db4k4db4k20g4k10g25w8/"><circle cx="140.1" cy="140.9" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.8" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><circle cx="188.2" cy="121.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/

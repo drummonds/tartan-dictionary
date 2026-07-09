@@ -1,5 +1,12 @@
 ---
 title: "Ogilvy D"
-redirect: "/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ogilvy D](/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/).
+This is the **Ogilvy D** sett — one scale-free proportion (`lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1`), colour order pattern
+[WRWGKRWRWRKGWW](/stripes/wrwgkrwrwrkgww/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ogilvy D](/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/) ★ | ~2016 | ![Ogilvy D sett](/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/sett.png) |

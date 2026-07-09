@@ -1,5 +1,12 @@
 ---
-title: "Cumming of Glenorchy"
-redirect: "/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/"
+title: "Cumming Glenorchy (Htg) Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cumming of Glenorchy](/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/).
+This is the **Cumming Glenorchy (Htg) Clan Tartan** sett — one scale-free proportion (`g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3`), colour order pattern
+[BRGRBWRGRBRWBRBRGRWBRG](/stripes/brgrbwrgrbrwbrbrgrwbrg/). It is recorded as a single **variant**, below.
+First attested **1810**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cumming Glenorchy (Htg) Clan Tartan](/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/) ★ | 1810 | ![Cumming Glenorchy (Htg) Clan Tartan sett](/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/sett.png) |

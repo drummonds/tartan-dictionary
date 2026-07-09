@@ -1,14 +1,16 @@
 ---
 title: "Mary Washington"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mary Washington"
-  url: ""
+  url: "/setts/k1db6b1ki6b6k1w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1db6b1ki6b6k1w1/)
-(the same proportion at any scale), whose colour order is pattern [KBBKBKW](/stripes/kbbkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k1db6b1ki6b6k1w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBBKBKW](/stripes/kbbkbkw/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/"><circle cx="101.1" cy="205.3" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~ki0604259/"><circle cx="140.9" cy="195.4" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/"><circle cx="141.4" cy="195.4" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="148.5" cy="205.4" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s11/dr2b10k9bi13k7db3k2db3k2db3dr2~x2~bi1611266-db0906265/"><circle cx="107.3" cy="188.7" r="4" fill="#3465a4"><title>Impulse</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.4" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><circle cx="105.2" cy="235.5" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s7/dbi16k16db16w3db16k2lb3~x2~dbi1406275-db1106275/"><circle cx="175.8" cy="209.4" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="216.1" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="133.9" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><circle cx="116.7" cy="209.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/"><circle cx="101.2" cy="205.3" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~ki0604259/"><circle cx="140.9" cy="195.4" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/"><circle cx="141.4" cy="195.3" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="148.5" cy="205.3" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s11/dr2b10k9bi13k7db3k2db3k2db3dr2~x2~bi1611266-db0906265/"><circle cx="107.3" cy="188.6" r="4" fill="#3465a4"><title>Impulse</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><circle cx="105.2" cy="235.5" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s7/dbi16k16db16w3db16k2lb3~x2~dbi1406275-db1106275/"><circle cx="175.9" cy="209.3" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="216.1" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="134.0" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><circle cx="116.7" cy="209.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k1db6b1ki6b6k1w1~x6~ki0604259/

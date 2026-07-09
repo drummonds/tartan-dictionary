@@ -2,13 +2,13 @@
 title: "Austin WI"
 date: 2023-03-18
 ---
-The **Austin WI** tartan is one sett proportion (`dr3k3dr3g6k2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBGK](/stripes/bkbgk/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Austin WI** sett — one scale-free proportion (`dr3k3dr3g6k2`), colour order pattern
+[BKBGK](/stripes/bkbgk/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [Austin WI](/variants/s5/dr3k3dr3g6k2/) ★ | ~2016 | ![Austin WI sett](/variants/s5/dr3k3dr3g6k2/sett.png) |
 | ×2 | [Austin WI](/variants/s5/dr3k3dr3g6k2~x2/) | ~2016 | ![Austin WI sett](/variants/s5/dr3k3dr3g6k2~x2/sett.png) |

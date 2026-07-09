@@ -1,5 +1,12 @@
 ---
 title: "Hueg (Bavaria) Hunting (Personal)"
-redirect: "/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hueg (Bavaria) Hunting (Personal)](/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/).
+This is the **Hueg (Bavaria) Hunting (Personal)** sett — one scale-free proportion (`db17dg5db5dg17db4dg17k6dg5`), colour order pattern
+[BGBGBGKKKG](/stripes/bgbgbgkkkg/). It is recorded as a single **variant**, below.
+First attested **2011**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hueg (Bavaria) Hunting (Personal)](/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/) ★ | 2011 | ![Hueg (Bavaria) Hunting (Personal) sett](/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/sett.png) |

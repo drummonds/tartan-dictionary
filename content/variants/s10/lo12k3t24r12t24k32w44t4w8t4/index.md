@@ -1,14 +1,16 @@
 ---
 title: "Gillies Dress Blue"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gillies Dress Blue"
-  url: ""
+  url: "/setts/lo12k3t24r12t24k32w44t4w8t4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo12k3t24r12t24k32w44t4w8t4/)
-(the same proportion at any scale), whose colour order is pattern [BWBWKBRBKY](/stripes/bwbwkbrbky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lo12k3t24r12t24k32w44t4w8t4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWKBRBKY](/stripes/bwbwkbrbky/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.7" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><circle cx="75.7" cy="152.3" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.9" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="164.4" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.8" cy="139.8" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.1" cy="149.1" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s14/db2k2db4k4g4y1g4w2db3w14db2w2k2y1~x4/"><circle cx="107.3" cy="124.3" r="4" fill="#3465a4"><title>Gordon Dress #3</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.8" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="144.8" cy="121.9" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="181.3" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><circle cx="100.7" cy="150.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.6" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><circle cx="75.7" cy="152.2" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.8" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="164.3" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.8" cy="139.7" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.2" cy="149.0" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s14/db2k2db4k4g4y1g4w2db3w14db2w2k2y1~x4/"><circle cx="107.3" cy="124.2" r="4" fill="#3465a4"><title>Gordon Dress #3</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.7" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="144.8" cy="121.8" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="181.2" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><circle cx="100.8" cy="150.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lo12k3t24r12t24k32w44t4w8t4/

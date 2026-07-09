@@ -1,14 +1,16 @@
 ---
 title: "Portree"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Portree"
-  url: ""
+  url: "/setts/n20t4n12y2n4w3n4dr18do10n2do4w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n20t4n12y2n4w3n4dr18do10n2do4w2/)
-(the same proportion at any scale), whose colour order is pattern [BBBGBWBBBBBW](/stripes/bbbgbwbbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n20t4n12y2n4w3n4dr18do10n2do4w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBGBWBBBBBW](/stripes/bbbgbwbbbbbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.2" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s8/dr3dy15g4db6w2dr30db6y3~x2/"><circle cx="320.6" cy="179.9" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s9/dr28y3dr3db3dr4dp8g10dpi15dp4~x2~dp1105325-dpi1607327/"><circle cx="293.4" cy="205.4" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/"><circle cx="284.3" cy="207.5" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.3" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s11/g3n16dy11n2ly11n2ly11n2dy11n16w3~x2~dy1502083-ly2806085/"><circle cx="272.1" cy="241.4" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/"><circle cx="292.7" cy="163.6" r="4" fill="#3465a4"><title>Robbie (Stirling) (Personal)</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="195.0" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s10/dy22y22dr2lb6dr2lo2dr16dg5dy8lb2~x2/"><circle cx="211.8" cy="189.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/"><circle cx="259.5" cy="198.0" r="4" fill="#3465a4"><title>Indiana 'Cardinal'</title></circle></a><circle cx="286.8" cy="192.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.1" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s8/dr3dy15g4db6w2dr30db6y3~x2/"><circle cx="320.6" cy="179.8" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s9/dr28y3dr3db3dr4dp8g10dpi15dp4~x2~dp1105325-dpi1607327/"><circle cx="293.5" cy="205.3" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/"><circle cx="284.3" cy="207.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.2" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s11/g3n16dy11n2ly11n2ly11n2dy11n16w3~x2~dy1502083-ly2806085/"><circle cx="272.1" cy="241.3" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/"><circle cx="292.7" cy="163.5" r="4" fill="#3465a4"><title>Robbie (Stirling) (Personal)</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="194.9" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s10/dy22y22dr2lb6dr2lo2dr16dg5dy8lb2~x2/"><circle cx="211.8" cy="189.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/"><circle cx="259.5" cy="197.9" r="4" fill="#3465a4"><title>Indiana 'Cardinal'</title></circle></a><circle cx="286.8" cy="191.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/

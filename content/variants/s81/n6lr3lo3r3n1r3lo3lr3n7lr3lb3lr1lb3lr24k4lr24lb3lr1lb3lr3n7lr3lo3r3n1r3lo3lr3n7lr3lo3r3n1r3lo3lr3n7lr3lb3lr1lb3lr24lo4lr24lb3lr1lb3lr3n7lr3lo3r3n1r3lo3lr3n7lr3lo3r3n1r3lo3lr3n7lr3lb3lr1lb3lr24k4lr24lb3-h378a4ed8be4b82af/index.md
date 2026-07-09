@@ -1,15 +1,17 @@
 ---
 title: "Unidentified Scarlett #13"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Scarlett #13"
-  url: ""
+  url: "/setts/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1/"
 slug_full: "n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1~x2~r2806019-lb3203246"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1/)
-(the same proportion at any scale), whose colour order is pattern [BRYYBYWYWYKYWYWYBYYRBRYYBYYRBRYYBYWYWYYYWYWYBYYRBRYYBYYRBRYYBYWYWYKYWYWYBYYRBRYYB](/stripes/bryybywywykywywybyyrbryybyyrbryybywywyyywywybyyrbryybyyrbryybywywykywywybyyrbryyb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRYYBYWYWYKYWYWYBYYRBRYYBYYRBRYYBYWYWYYYWYWYBYYRBRYYBYYRBRYYBYWYWYKYWYWYBYYRBRYYB](/stripes/bryybywywykywywybyyrbryybyyrbryybywywyyywywybyyrbryybyyrbryybywywykywywybyyrbryyb/).
 
 Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 

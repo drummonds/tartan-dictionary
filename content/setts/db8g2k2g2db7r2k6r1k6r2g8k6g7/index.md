@@ -1,5 +1,12 @@
 ---
 title: "Stewart of Achnacone Clan Tartan"
-redirect: "/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stewart of Achnacone Clan Tartan](/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/).
+This is the **Stewart of Achnacone Clan Tartan** sett — one scale-free proportion (`db8g2k2g2db7r2k6r1k6r2g8k6g7`), colour order pattern
+[BGKGBRKRKRGKG](/stripes/bgkgbrkrkrgkg/). It is recorded as a single **variant**, below.
+First attested **~1815**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Stewart of Achnacone Clan Tartan](/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/) ★ | ~1815 | ![Stewart of Achnacone Clan Tartan sett](/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/sett.png) |

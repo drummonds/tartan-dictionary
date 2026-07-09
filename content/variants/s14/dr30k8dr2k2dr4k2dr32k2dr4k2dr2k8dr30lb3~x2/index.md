@@ -1,14 +1,16 @@
 ---
 title: "Chicago, University of"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Chicago, University of"
-  url: ""
+  url: "/setts/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBW](/stripes/bkbkbkbkbkbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBW](/stripes/bkbkbkbkbkbkbw/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3~x2~r1506019-ri2109032/"><circle cx="368.5" cy="108.5" r="4" fill="#3465a4"><title>Chicago University of.. Corporate Tartan</title></circle></a><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/"><circle cx="421.2" cy="117.3" r="4" fill="#3465a4"><title>Hebrides #11</title></circle></a><a href="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/"><circle cx="420.6" cy="117.2" r="4" fill="#3465a4"><title>Black (Hebridean) (Artefact)</title></circle></a><a href="/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/"><circle cx="386.3" cy="138.6" r="4" fill="#3465a4"><title>Hebridean</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.9" cy="160.2" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><circle cx="501.6" cy="162.3" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.2" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><circle cx="531.9" cy="138.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3~x2~r1506019-ri2109032/"><circle cx="368.5" cy="108.3" r="4" fill="#3465a4"><title>Chicago University of.. Corporate Tartan</title></circle></a><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/"><circle cx="421.2" cy="117.2" r="4" fill="#3465a4"><title>Hebrides #11</title></circle></a><a href="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/"><circle cx="420.6" cy="117.0" r="4" fill="#3465a4"><title>Black (Hebridean) (Artefact)</title></circle></a><a href="/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/"><circle cx="386.4" cy="138.4" r="4" fill="#3465a4"><title>Hebridean</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="555.0" cy="160.1" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><circle cx="501.7" cy="162.2" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.1" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><circle cx="531.9" cy="138.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/

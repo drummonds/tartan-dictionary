@@ -1,16 +1,18 @@
 ---
 title: "Greyfriars"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Greyfriars"
   url: "/tartans/greyfriars/"
 - name: "Greyfriars"
-  url: ""
+  url: "/setts/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/)
-(the same proportion at any scale), whose colour order is pattern [BRGBGBGGGBG](/stripes/brgbgbgggbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGBGBGGGBG](/stripes/brgbgbgggbg/).
 
 Part of the [Greyfriars](/tartans/greyfriars/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="191.0" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s11/dg10m2dg2o4dg16dp16o2b18y2b8o3~x2/"><circle cx="179.5" cy="187.7" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><a href="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/"><circle cx="188.5" cy="208.6" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/"><circle cx="152.9" cy="178.7" r="4" fill="#3465a4"><title>Cuthill (Personal)</title></circle></a><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2~db1706275-g1903114/"><circle cx="179.2" cy="184.8" r="4" fill="#3465a4"><title>Patterson, William J.M. American Personal Tartan</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.6" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><circle cx="201.4" cy="166.0" r="4" fill="#3465a4"><title>Minster (Fashion)</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="208.1" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><circle cx="209.0" cy="168.5" r="4" fill="#3465a4"><title>Minster</title></circle></a><circle cx="172.3" cy="202.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="190.9" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s11/dg10m2dg2o4dg16dp16o2b18y2b8o3~x2/"><circle cx="179.5" cy="187.6" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><a href="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/"><circle cx="188.6" cy="208.5" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/"><circle cx="152.9" cy="178.6" r="4" fill="#3465a4"><title>Cuthill (Personal)</title></circle></a><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2~db1706275-g1903114/"><circle cx="179.3" cy="184.7" r="4" fill="#3465a4"><title>Patterson, William J.M. American Personal Tartan</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.5" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><circle cx="201.4" cy="165.8" r="4" fill="#3465a4"><title>Minster (Fashion)</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="208.0" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><circle cx="209.0" cy="168.4" r="4" fill="#3465a4"><title>Minster</title></circle></a><circle cx="172.3" cy="202.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/

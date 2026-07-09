@@ -1,5 +1,12 @@
 ---
 title: "Rattray"
-redirect: "/variants/s9/g71k4r4dp9r4dp4r36dp4w4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rattray](/variants/s9/g71k4r4dp9r4dp4r36dp4w4/).
+This is the **Rattray** sett — one scale-free proportion (`g71k4r4dp9r4dp4r36dp4w4`), colour order pattern
+[GKRBRBRBW](/stripes/gkrbrbrbw/). It is recorded as a single **variant**, below.
+First attested **1969**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Rattray](/variants/s9/g71k4r4dp9r4dp4r36dp4w4/) ★ | 1969 | ![Rattray sett](/variants/s9/g71k4r4dp9r4dp4r36dp4w4/sett.png) |

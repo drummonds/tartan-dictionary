@@ -1,14 +1,16 @@
 ---
 title: "Wilson's No.219"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.219"
-  url: ""
+  url: "/setts/dg7g6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg7g6/)
-(the same proportion at any scale), whose colour order is pattern [GG](/stripes/gg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg7g6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GG](/stripes/gg/).
 
 Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/dg1g1~x18/"><circle cx="291.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 219</title></circle></a><a href="/variants/s2/g7lb6~x2/"><circle cx="301.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.210</title></circle></a><a href="/variants/s2/g9dp8~x2/"><circle cx="257.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116 (light)</title></circle></a><a href="/variants/s2/g9k8~x2/"><circle cx="164.6" cy="366.0" r="4" fill="#3465a4"><title>Robin Hood Fancy Tartan</title></circle></a><a href="/variants/s2/dg14r13~x2~dg1605139-r2109032/"><circle cx="279.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.099</title></circle></a><a href="/variants/s2/dp1g1~x16/"><circle cx="232.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 116</title></circle></a><a href="/variants/s2/r1g1~x80/"><circle cx="233.6" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon (District)</title></circle></a><a href="/variants/s2/r1g1~x50/"><circle cx="233.6" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><a href="/variants/s2/r1g1~x100/"><circle cx="233.6" cy="366.0" r="4" fill="#3465a4"><title>Moncrieffe Lachlan (Clan)</title></circle></a><a href="/variants/s2/r1g1/"><circle cx="233.6" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><circle cx="325.3" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/dg1g1~x18/"><circle cx="291.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 219</title></circle></a><a href="/variants/s2/g7lb6~x2/"><circle cx="301.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.210</title></circle></a><a href="/variants/s2/g9dp8~x2/"><circle cx="257.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116 (light)</title></circle></a><a href="/variants/s2/g9k8~x2/"><circle cx="164.6" cy="366.0" r="4" fill="#3465a4"><title>Robin Hood Fancy Tartan</title></circle></a><a href="/variants/s2/dg14r13~x2~dg1605139-r2109032/"><circle cx="279.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.099</title></circle></a><a href="/variants/s2/dp1g1~x16/"><circle cx="232.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 116</title></circle></a><a href="/variants/s2/r1g1~x80/"><circle cx="233.7" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon (District)</title></circle></a><a href="/variants/s2/r1g1~x50/"><circle cx="233.7" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><a href="/variants/s2/r1g1~x100/"><circle cx="233.7" cy="366.0" r="4" fill="#3465a4"><title>Moncrieffe Lachlan (Clan)</title></circle></a><a href="/variants/s2/r1g1/"><circle cx="233.7" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><circle cx="325.3" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s2/dg7g6~x2/

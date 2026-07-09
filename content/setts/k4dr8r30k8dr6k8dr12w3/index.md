@@ -1,5 +1,12 @@
 ---
 title: "Believe - Corinna"
-redirect: "/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Believe - Corinna](/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/).
+This is the **Believe - Corinna** sett — one scale-free proportion (`k4dr8r30k8dr6k8dr12w3`), colour order pattern
+[KBRKBKBW](/stripes/kbrkbkbw/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Believe - Corinna](/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/) ★ | 2014 | ![Believe - Corinna sett](/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/sett.png) |

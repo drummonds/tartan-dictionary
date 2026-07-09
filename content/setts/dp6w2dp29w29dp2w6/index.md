@@ -1,5 +1,14 @@
 ---
 title: "Erskine Purple (Dance) Fashion Tartan"
-redirect: "/variants/s6/dp6w2dp29w29dp2w6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Erskine Purple (Dance) Fashion Tartan](/variants/s6/dp6w2dp29w29dp2w6~x2/).
+This is the **Erskine Purple (Dance) Fashion Tartan** sett — one scale-free proportion (`dp6w2dp29w29dp2w6`), colour order pattern
+[BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+Part of the [Erskine](/tartans/erskine-2/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Erskine Purple (Dance) Fashion Tartan](/variants/s6/dp6w2dp29w29dp2w6~x2/) ★ | 1980 | ![Erskine Purple (Dance) Fashion Tartan sett](/variants/s6/dp6w2dp29w29dp2w6~x2/sett.png) |

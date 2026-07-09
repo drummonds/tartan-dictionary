@@ -1,5 +1,12 @@
 ---
 title: "Isle of Gigha"
-redirect: "/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Isle of Gigha](/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/).
+This is the **Isle of Gigha** sett — one scale-free proportion (`dg4r1dg4k4db4ly1db4k4dg4r1dg4db2`), colour order pattern
+[BGRGKBYBKGRG](/stripes/bgrgkbybkgrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×8 | [Isle of Gigha](/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/) ★ | ~2016 | ![Isle of Gigha sett](/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/sett.png) |

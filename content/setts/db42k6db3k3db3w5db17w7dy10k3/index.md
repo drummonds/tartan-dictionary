@@ -1,5 +1,12 @@
 ---
 title: "California Riverside, University of (Corporate)"
-redirect: "/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [California Riverside, University of (Corporate)](/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/).
+This is the **California Riverside, University of (Corporate)** sett — one scale-free proportion (`db42k6db3k3db3w5db17w7dy10k3`), colour order pattern
+[BKBKBWBWGK](/stripes/bkbkbwbwgk/). It is recorded as a single **variant**, below.
+First attested **2001**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [California Riverside, University of (Corporate)](/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/) ★ | 2001 | ![California Riverside, University of (Corporate) sett](/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/sett.png) |

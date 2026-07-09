@@ -1,5 +1,12 @@
 ---
 title: "Kinloch of Loch Awe (Personal)"
-redirect: "/variants/s5/w18n29t2dp3k1~x2~t2405244/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kinloch of Loch Awe (Personal)](/variants/s5/w18n29t2dp3k1~x2~t2405244/).
+This is the **Kinloch of Loch Awe (Personal)** sett — one scale-free proportion (`w18n29t2dp3k1`), colour order pattern
+[KBBBW](/stripes/kbbbw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kinloch of Loch Awe (Personal)](/variants/s5/w18n29t2dp3k1~x2~t2405244/) ★ | 2004 | ![Kinloch of Loch Awe (Personal) sett](/variants/s5/w18n29t2dp3k1~x2~t2405244/sett.png) |

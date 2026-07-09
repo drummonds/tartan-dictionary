@@ -1,14 +1,16 @@
 ---
 title: "Keepers of the Quaich (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Keepers of the Quaich"
   url: "/setts/lo3dy33db24dy2db2dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo3dy33db24dy2db2dy2/)
-(the same proportion at any scale), whose colour order is pattern [GBGBGY](/stripes/gbgbgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lo3dy33db24dy2db2dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGY](/stripes/gbgbgy/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/"><circle cx="488.9" cy="228.4" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/variants/s6/dy15r5dy30db32dy4y3~x2/"><circle cx="409.2" cy="243.2" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.1" cy="256.2" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.3" cy="288.1" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s6/y1db36do28db3y3ly1~x2/"><circle cx="495.6" cy="188.9" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/"><circle cx="361.9" cy="187.1" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/"><circle cx="347.3" cy="182.8" r="4" fill="#3465a4"><title>Bracken (Fashion)</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="432.3" cy="196.8" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/"><circle cx="410.1" cy="164.9" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/variants/s6/dri26w2dri3dt41dr2dt3~x2~dri1305012-dr1004029/"><circle cx="513.4" cy="220.6" r="4" fill="#3465a4"><title>Gavin</title></circle></a><circle cx="478.9" cy="226.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/"><circle cx="488.9" cy="228.4" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/variants/s6/dy15r5dy30db32dy4y3~x2/"><circle cx="409.2" cy="243.1" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.1" cy="256.2" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.3" cy="288.1" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s6/y1db36do28db3y3ly1~x2/"><circle cx="495.7" cy="188.9" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/"><circle cx="361.9" cy="187.0" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/"><circle cx="347.3" cy="182.7" r="4" fill="#3465a4"><title>Bracken (Fashion)</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="432.3" cy="196.7" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/"><circle cx="410.1" cy="164.8" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/variants/s6/dri26w2dri3dt41dr2dt3~x2~dri1305012-dr1004029/"><circle cx="513.4" cy="220.5" r="4" fill="#3465a4"><title>Gavin</title></circle></a><circle cx="478.9" cy="226.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lo3dy33db24dy2db2dy2~x2/

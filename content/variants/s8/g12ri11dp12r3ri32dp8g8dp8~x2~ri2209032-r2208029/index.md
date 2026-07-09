@@ -1,14 +1,16 @@
 ---
 title: "Fiddes"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Fiddes"
-  url: ""
+  url: "/setts/g12ri11dp12r3ri32dp8g8dp8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12ri11dp12r3ri32dp8g8dp8/)
-(the same proportion at any scale), whose colour order is pattern [BGBRRBRG](/stripes/bgbrrbrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g12ri11dp12r3ri32dp8g8dp8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBRRBRG](/stripes/bgbrrbrg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="260.5" cy="212.2" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.9" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/"><circle cx="277.9" cy="219.0" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s7/r28db12r3dg20lb2dg2r7~x2/"><circle cx="300.4" cy="183.5" r="4" fill="#3465a4"><title>Carrick (Strathmore) District Tartan</title></circle></a><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/"><circle cx="228.7" cy="213.6" r="4" fill="#3465a4"><title>St Andrews</title></circle></a><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><circle cx="217.2" cy="201.1" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="236.7" cy="236.5" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.5" cy="193.6" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.0" cy="183.0" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><circle cx="258.1" cy="209.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="260.5" cy="212.1" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.8" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/"><circle cx="277.9" cy="219.0" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s7/r28db12r3dg20lb2dg2r7~x2/"><circle cx="300.4" cy="183.4" r="4" fill="#3465a4"><title>Carrick (Strathmore) District Tartan</title></circle></a><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/"><circle cx="228.7" cy="213.6" r="4" fill="#3465a4"><title>St Andrews</title></circle></a><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><circle cx="217.2" cy="201.1" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="236.7" cy="236.5" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.5" cy="193.5" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.1" cy="182.9" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><circle cx="258.1" cy="209.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/

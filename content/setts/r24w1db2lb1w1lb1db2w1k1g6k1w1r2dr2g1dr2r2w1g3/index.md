@@ -2,15 +2,15 @@
 title: "MacBean"
 date: 2023-03-18
 ---
-The **MacBean** tartan is one sett proportion (`r24w1db2lb1w1lb1db2w1k1g6k1w1r2dr2g1dr2r2w1g3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GWRBGBRWKGKWBWWWBWR](/stripes/gwrbgbrwkgkwbwwwbwr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **MacBean** sett — one scale-free proportion (`r24w1db2lb1w1lb1db2w1k1g6k1w1r2dr2g1dr2r2w1g3`), colour order pattern
+[GWRBGBRWKGKWBWWWBWR](/stripes/gwrbgbrwkgkwbwwwbwr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **~2016**.
 
-Part of the [MacBean](/tartans/macbean/) tartan — the named design grouping this proportion with its other setts.
+Part of the [MacBean](/tartans/macbean/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×1 | [MacBean](/variants/s19/r24w1db2lb1w1lb1db2w1k1g6k1w1r2dr2g1dr2r2w1g3~r1908029/) ★ | ~2016 | ![MacBean sett](/variants/s19/r24w1db2lb1w1lb1db2w1k1g6k1w1r2dr2g1dr2r2w1g3~r1908029/sett.png) |
 | ×2 | [MacBean](/variants/s19/r24w1db2lb1w1lb1db2w1k1g6k1w1r2dr2g1dr2r2w1g3~x2~r1908029/) | ~2016 | ![MacBean sett](/variants/s19/r24w1db2lb1w1lb1db2w1k1g6k1w1r2dr2g1dr2r2w1g3~x2~r1908029/sett.png) |

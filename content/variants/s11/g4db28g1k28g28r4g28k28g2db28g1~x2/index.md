@@ -1,14 +1,16 @@
 ---
 title: "Gunn"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Gunn"
-  url: ""
+  url: "/setts/g4db28g1k28g28r4g28k28g2db28g1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4db28g1k28g28r4g28k28g2db28g1/)
-(the same proportion at any scale), whose colour order is pattern [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g4db28g1k28g28r4g28k28g2db28g1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/).
 
 Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **Gunn** name adjusted Logan's counts: [Gunn](/setts/s6/g2b12g1k12g12r2~b1c0070-g006400-k101010-rc80000~x2/); [Gunn (Logan)](/setts/s6/g2k12g1k12g12r2~g005020-k101010-rdc0000~x2/); [Gunn 2011, Robert (Personal)](/setts/s4/b20k20g20r1~b5f749c-g649848-k010512-rca2625~x2/); [Gunning, Robert Maxwell Stewart (Personal)](/setts/s23/g2b5k2b2k3g15r2g15k3g2k5g2k5g2k3g15ra2g15k3b2k2b5g2~b5c8ca8-g002814-k101010-r800028-raec34c4~x2/). Compare their thread counts with Logan's above.
+Later records of the **Gunn** name adjusted Logan's counts: [Gunn](/variants/s6/dg2db12dg1k12dg12r2~x2/); [Gunn (Logan)](/variants/s6/r2g12k12g1k12g2~x2/); [Gunn 2011, Robert (Personal)](/variants/s4/db20k20g20r1~x2/); [Gunning, Robert Maxwell Stewart (Personal)](/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="167.1" cy="116.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.7" cy="138.5" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.9" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><circle cx="165.0" cy="152.2" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.3" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s8/db4k3db18k18g18db1g2w4~x2/"><circle cx="156.8" cy="161.2" r="4" fill="#3465a4"><title>Dress Watch</title></circle></a><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><circle cx="176.7" cy="166.3" r="4" fill="#3465a4"><title>Blair (Name)</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.6" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.2" cy="127.1" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.1" cy="140.0" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><circle cx="177.8" cy="142.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="167.1" cy="116.2" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.8" cy="138.4" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.8" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><circle cx="165.0" cy="152.0" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.2" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s8/db4k3db18k18g18db1g2w4~x2/"><circle cx="156.9" cy="161.1" r="4" fill="#3465a4"><title>Dress Watch</title></circle></a><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><circle cx="176.7" cy="166.2" r="4" fill="#3465a4"><title>Blair (Name)</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.4" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.3" cy="127.0" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.1" cy="139.8" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><circle cx="177.8" cy="142.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/

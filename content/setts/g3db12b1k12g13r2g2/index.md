@@ -1,5 +1,12 @@
 ---
 title: "MacPhadran"
-redirect: "/variants/s7/g3db12b1k12g13r2g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacPhadran](/variants/s7/g3db12b1k12g13r2g2~x2/).
+This is the **MacPhadran** sett — one scale-free proportion (`g3db12b1k12g13r2g2`), colour order pattern
+[GBBKGRG](/stripes/gbbkgrg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacPhadran](/variants/s7/g3db12b1k12g13r2g2~x2/) ★ | ~2016 | ![MacPhadran sett](/variants/s7/g3db12b1k12g13r2g2~x2/sett.png) |

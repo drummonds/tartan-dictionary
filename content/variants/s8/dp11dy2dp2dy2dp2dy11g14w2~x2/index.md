@@ -1,14 +1,16 @@
 ---
 title: "Lamont #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lamont #2"
-  url: ""
+  url: "/setts/dp11dy2dp2dy2dp2dy11g14w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp11dy2dp2dy2dp2dy11g14w2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBGGW](/stripes/bgbgbggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp11dy2dp2dy2dp2dy11g14w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGGW](/stripes/bgbgbggw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="224.1" cy="235.9" r="4" fill="#3465a4"><title>Clare Irish County Tartan</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.5" cy="242.9" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s6/db1dy1db7dy5y7lr1~x4/"><circle cx="245.4" cy="261.9" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/"><circle cx="156.7" cy="235.6" r="4" fill="#3465a4"><title>Stevenson (Name)</title></circle></a><a href="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="223.6" cy="226.1" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/variants/s8/dr17db2dr2db13dr2db2g17db2~x2/"><circle cx="286.7" cy="243.7" r="4" fill="#3465a4"><title>Remony (Red)</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.4" cy="220.6" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="204.1" cy="203.6" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><circle cx="216.9" cy="237.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="224.1" cy="235.8" r="4" fill="#3465a4"><title>Clare Irish County Tartan</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.5" cy="242.8" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.3" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s6/db1dy1db7dy5y7lr1~x4/"><circle cx="245.5" cy="261.8" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/"><circle cx="156.7" cy="235.6" r="4" fill="#3465a4"><title>Stevenson (Name)</title></circle></a><a href="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="223.6" cy="226.0" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/variants/s8/dr17db2dr2db13dr2db2g17db2~x2/"><circle cx="286.7" cy="243.7" r="4" fill="#3465a4"><title>Remony (Red)</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.5" cy="220.5" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="204.2" cy="203.6" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><circle cx="216.9" cy="237.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/

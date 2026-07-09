@@ -1,14 +1,16 @@
 ---
 title: "Unidentified #8"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified #8"
-  url: ""
+  url: "/setts/db4k4db4k4db4r2lo3db4lo4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k4db4k4db4r2lo3db4lo4/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBRYBY](/stripes/bkbkbryby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db4k4db4k4db4r2lo3db4lo4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBRYBY](/stripes/bkbkbryby/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -55,12 +57,12 @@ One full sett is **174 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">174</div><div class="nn-name nn-base"><a href="/variants/s9/db4k4db4k4db4r2lo3db4lo4~x3/">Unidentified #8</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/db4k4db4k4db4r2lo3db4lo4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4k4db4k4db4r2b3db4b4~x3&amp;base=db4k4db4k4db4r2lo3db4lo4~x3" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">174</div><div class="nn-name nn-far"><a href="/variants/s9/db4k4db4k4db4r2b3db4b4~x3/">Unidentified 14</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db4k4db4k4db4r2b3db4b4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k4w4k4w4k4w4db3w2r2&amp;base=db4k4db4k4db4r2lo3db4lo4~x3" title="compare in the TTD">3.35</a></div><div class="nn-threads nn-far2">56</div><div class="nn-name nn-far2"><a href="/variants/s9/k4w4k4w4k4w4db3w2r2/">Scott, Sir Walter #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k4w4k4w4k4w4db3w2r2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">174</div><div class="nn-name nn-base"><a href="/variants/s9/db4k4db4k4db4r2lo3db4lo4~x3/">Unidentified #8</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/db4k4db4k4db4r2lo3db4lo4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4k4db4k4db4r2b3db4b4~x3&amp;base=db4k4db4k4db4r2lo3db4lo4~x3" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">174</div><div class="nn-name nn-far"><a href="/variants/s9/db4k4db4k4db4r2b3db4b4~x3/">Unidentified 14</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db4k4db4k4db4r2b3db4b4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k4w4k4w4k4w4db3w2r2&amp;base=db4k4db4k4db4r2lo3db4lo4~x3" title="compare in the TTD">3.35</a></div><div class="nn-threads nn-far2">56</div><div class="nn-name nn-far2"><a href="/variants/s9/k4w4k4w4k4w4db3w2r2/">Scott B/W (Sir Walter..) Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k4w4k4w4k4w4db3w2r2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4k4db4k4db4r2b3db4b4~x3/"><circle cx="112.9" cy="332.3" r="4" fill="#3465a4"><title>Unidentified 14</title></circle></a><a href="/variants/s9/k4w4k4w4k4w4db3w2r2/"><circle cx="62.5" cy="302.1" r="4" fill="#3465a4"><title>Scott, Sir Walter #3</title></circle></a><circle cx="79.0" cy="319.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4k4db4k4db4r2b3db4b4~x3/"><circle cx="112.9" cy="332.3" r="4" fill="#3465a4"><title>Unidentified 14</title></circle></a><a href="/variants/s9/k4w4k4w4k4w4db3w2r2/"><circle cx="62.6" cy="302.1" r="4" fill="#3465a4"><title>Scott B/W (Sir Walter..) Tartan</title></circle></a><circle cx="79.0" cy="319.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db4k4db4k4db4r2lo3db4lo4~x3/

@@ -1,5 +1,12 @@
 ---
 title: "78th Highlanders (Fraser) (Mil.)"
-redirect: "/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [78th Highlanders (Fraser) (Mil.)](/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/).
+This is the **78th Highlanders (Fraser) (Mil.)** sett — one scale-free proportion (`dg26o2dg2o2g19o28g3o28g19dg22o2dg2`), colour order pattern
+[GRGGRGRGRGRG](/stripes/grggrgrgrgrg/). It is recorded as a single **variant**, below.
+First attested **~2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [78th Highlanders (Fraser) (Mil.)](/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/) ★ | ~2004 | ![78th Highlanders (Fraser) (Mil.) sett](/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/sett.png) |

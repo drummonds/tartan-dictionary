@@ -1,14 +1,16 @@
 ---
 title: "Hayden, Thomas (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Hayden, Thomas (Personal)"
-  url: ""
+  url: "/setts/g60dg5w5y5dg5b4dg5g5dg1y5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g60dg5w5y5dg5b4dg5g5dg1y5/)
-(the same proportion at any scale), whose colour order is pattern [GGGGBGGWGG](/stripes/ggggbggwgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g60dg5w5y5dg5b4dg5g5dg1y5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGBGGWGG](/stripes/ggggbggwgg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><circle cx="447.3" cy="110.3" r="4" fill="#3465a4"><title>Hayden (Dublin) (Personal)</title></circle></a><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><circle cx="382.0" cy="74.0" r="4" fill="#3465a4"><title>Irish National</title></circle></a><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.8" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/"><circle cx="425.5" cy="88.0" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/variants/s7/g55dg6g7dg17y1dg2y2~x2/"><circle cx="591.0" cy="177.1" r="4" fill="#3465a4"><title>MacBeorn</title></circle></a><a href="/variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/"><circle cx="511.3" cy="144.6" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><circle cx="379.4" cy="89.8" r="4" fill="#3465a4"><title>Schuster (Perosnal)</title></circle></a><circle cx="475.0" cy="110.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><circle cx="447.3" cy="110.2" r="4" fill="#3465a4"><title>Hayden (Dublin) (Personal)</title></circle></a><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><circle cx="382.0" cy="73.8" r="4" fill="#3465a4"><title>Irish National</title></circle></a><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.6" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/"><circle cx="425.5" cy="87.9" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/variants/s7/g55dg6g7dg17y1dg2y2~x2/"><circle cx="591.0" cy="177.0" r="4" fill="#3465a4"><title>MacBeorn</title></circle></a><a href="/variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/"><circle cx="511.3" cy="144.5" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><circle cx="379.4" cy="89.7" r="4" fill="#3465a4"><title>Schuster (Perosnal)</title></circle></a><circle cx="475.0" cy="110.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/

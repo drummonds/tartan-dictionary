@@ -1,5 +1,12 @@
 ---
 title: "Hampson (Name)"
-redirect: "/variants/s12/k2y2g2k2g17k2r2k2r17k2r5g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hampson (Name)](/variants/s12/k2y2g2k2g17k2r2k2r17k2r5g2~x2/).
+This is the **Hampson (Name)** sett — one scale-free proportion (`k2y2g2k2g17k2r2k2r17k2r5g2`), colour order pattern
+[GRKRKRKGKGGK](/stripes/grkrkrkgkggk/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hampson (Name)](/variants/s12/k2y2g2k2g17k2r2k2r17k2r5g2~x2/) ★ | ~2008 | ![Hampson (Name) sett](/variants/s12/k2y2g2k2g17k2r2k2r17k2r5g2~x2/sett.png) |

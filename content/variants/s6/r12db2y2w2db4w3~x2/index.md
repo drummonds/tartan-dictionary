@@ -1,14 +1,16 @@
 ---
 title: "Winnipeg Embroiders' Guild (Corp.)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Winnipeg Embroiders' Guild (Corp.)"
-  url: ""
+  url: "/setts/r12db2y2w2db4w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12db2y2w2db4w3/)
-(the same proportion at any scale), whose colour order is pattern [RBGWBW](/stripes/rbgwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r12db2y2w2db4w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBGWBW](/stripes/rbgwbw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6db1y1w1db2w3~x4/"><circle cx="191.8" cy="226.5" r="4" fill="#3465a4"><title>Winnipeg Embroiderers' Guild</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.9" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="292.8" cy="248.1" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="208.9" cy="227.1" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.2" cy="177.6" r="4" fill="#3465a4"><title>Fazzolettone (Fashion?)</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.3" cy="186.2" r="4" fill="#3465a4"><title>Superfast Ferries (Corporate)</title></circle></a><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/"><circle cx="228.2" cy="193.6" r="4" fill="#3465a4"><title>Unidentified 34</title></circle></a><a href="/variants/s9/w6ly1r4w1db4ly1r8w1r2~x2/"><circle cx="235.7" cy="200.3" r="4" fill="#3465a4"><title>Unidentified #41</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.4" cy="186.5" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><circle cx="225.7" cy="217.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6db1y1w1db2w3~x4/"><circle cx="191.8" cy="226.5" r="4" fill="#3465a4"><title>Winnipeg Embroiderers' Guild</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.9" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="292.8" cy="248.1" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="208.9" cy="227.1" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.2" cy="177.5" r="4" fill="#3465a4"><title>Fazzolettone (Fashion?)</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.3" cy="186.1" r="4" fill="#3465a4"><title>Superfast Ferries (Corporate)</title></circle></a><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/"><circle cx="228.2" cy="193.5" r="4" fill="#3465a4"><title>Unidentified 34</title></circle></a><a href="/variants/s9/w6ly1r4w1db4ly1r8w1r2~x2/"><circle cx="235.7" cy="200.2" r="4" fill="#3465a4"><title>Unidentified #41</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.4" cy="186.4" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><circle cx="225.7" cy="217.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r12db2y2w2db4w3~x2/

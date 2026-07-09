@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
+<tr><td><a href="/variants/s6/r32db6k6g6w18k3/">Rose Dress White Dress Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r32db6k6g6w18k3/"><img src="/variants/s6/r32db6k6g6w18k3/sett.png" alt="Rose Dress White Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k4w1g10k10db10r2/">Rose Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/k4w1g10k10db10r2/"><img src="/variants/s6/k4w1g10k10db10r2/sett.png" alt="Rose Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r32db6k6g6w18k3/">Rose, White dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r32db6k6g6w18k3/"><img src="/variants/s6/r32db6k6g6w18k3/sett.png" alt="Rose, White dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

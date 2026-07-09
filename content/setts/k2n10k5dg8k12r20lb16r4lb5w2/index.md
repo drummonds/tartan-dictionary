@@ -1,5 +1,12 @@
 ---
 title: "Manderson #2"
-redirect: "/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Manderson #2](/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/).
+This is the **Manderson #2** sett — one scale-free proportion (`k2n10k5dg8k12r20lb16r4lb5w2`), colour order pattern
+[KBKGKRWRWW](/stripes/kbkgkrwrww/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Manderson #2](/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/) ★ | ~2016 | ![Manderson #2 sett](/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/sett.png) |

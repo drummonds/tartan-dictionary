@@ -1,14 +1,16 @@
 ---
 title: "Marist School, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Marist School, The"
-  url: ""
+  url: "/setts/b29dg2b1dg1b1dg1db8y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b29dg2b1dg1b1dg1db8y1/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b29dg2b1dg1b1dg1db8y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/"><circle cx="461.9" cy="64.9" r="4" fill="#3465a4"><title>Mingulay (Fashion)</title></circle></a><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.4" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s14/dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4/"><circle cx="600.1" cy="131.3" r="4" fill="#3465a4"><title>Unidentified 3</title></circle></a><a href="/variants/s6/y3b40db27b3db3b3/"><circle cx="492.6" cy="241.3" r="4" fill="#3465a4"><title>Keeper of the Quaich</title></circle></a><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><circle cx="569.5" cy="118.3" r="4" fill="#3465a4"><title>Deuchars IPA (Corporate)</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.5" cy="179.2" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1y3~x2/"><circle cx="570.9" cy="166.5" r="4" fill="#3465a4"><title>Munster Ancestry</title></circle></a><a href="/variants/s6/db13b1db3b6y1b1~x4/"><circle cx="513.5" cy="245.5" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.6" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><circle cx="566.7" cy="156.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/"><circle cx="461.9" cy="64.7" r="4" fill="#3465a4"><title>Mingulay (Fashion)</title></circle></a><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.0" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.3" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s14/dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4/"><circle cx="600.1" cy="131.1" r="4" fill="#3465a4"><title>Unidentified 3</title></circle></a><a href="/variants/s6/y3b40db27b3db3b3/"><circle cx="492.7" cy="241.3" r="4" fill="#3465a4"><title>Keeper of the Quaich</title></circle></a><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><circle cx="569.5" cy="118.2" r="4" fill="#3465a4"><title>Deuchars IPA (Corporate)</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.6" cy="179.1" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1y3~x2/"><circle cx="571.0" cy="166.4" r="4" fill="#3465a4"><title>Munster Ancestry</title></circle></a><a href="/variants/s6/db13b1db3b6y1b1~x4/"><circle cx="513.5" cy="245.4" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.4" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><circle cx="566.8" cy="156.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/b29dg2b1dg1b1dg1db8y1~x4/

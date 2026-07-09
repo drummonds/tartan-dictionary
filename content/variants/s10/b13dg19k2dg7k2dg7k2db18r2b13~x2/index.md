@@ -1,16 +1,18 @@
 ---
 title: "South Australia"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "South Australia"
   url: "/tartans/south-australia/"
 - name: "South Australia"
-  url: ""
+  url: "/setts/b13dg19k2dg7k2dg7k2db18r2b13/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b13dg19k2dg7k2dg7k2db18r2b13/)
-(the same proportion at any scale), whose colour order is pattern [BGKGKGKBRB](/stripes/bgkgkgkbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b13dg19k2dg7k2dg7k2db18r2b13/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKGKGKBRB](/stripes/bgkgkgkbrb/).
 
 Part of the [South Australia](/tartans/south-australia/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275/"><circle cx="161.5" cy="172.2" r="4" fill="#3465a4"><title>St Andrews, University of</title></circle></a><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><circle cx="219.7" cy="188.9" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><a href="/variants/s12/dg8db8ly1r1k1dg2db2ly1r1k1dg8db8~x4/"><circle cx="230.1" cy="176.3" r="4" fill="#3465a4"><title>Chieftain's</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="218.4" cy="185.4" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.6" cy="172.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s12/dg10k9db11lb1db3lo1db10k9dg11lb1dg3lo1~x4/"><circle cx="156.6" cy="176.2" r="4" fill="#3465a4"><title>Scottish Womens Rural Institute (Cor</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13b2db1~x4/"><circle cx="192.5" cy="159.8" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2~db1204274-t2503227/"><circle cx="154.6" cy="187.8" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.1" cy="210.0" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/"><circle cx="240.8" cy="169.6" r="4" fill="#3465a4"><title>U.S. Air Force Reserve P. B. (Corpor</title></circle></a><circle cx="185.6" cy="191.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275/"><circle cx="161.5" cy="172.1" r="4" fill="#3465a4"><title>St Andrews, University of</title></circle></a><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><circle cx="219.8" cy="188.8" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><a href="/variants/s12/dg8db8ly1r1k1dg2db2ly1r1k1dg8db8~x4/"><circle cx="230.2" cy="176.1" r="4" fill="#3465a4"><title>Chieftain's</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="218.5" cy="185.3" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8r1n7~x4~db1204274-n2203265/"><circle cx="161.7" cy="171.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s12/dg10k9db11lb1db3lo1db10k9dg11lb1dg3lo1~x4/"><circle cx="156.6" cy="176.1" r="4" fill="#3465a4"><title>Scottish Womens Rural Institute (Cor</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13b2db1~x4/"><circle cx="192.6" cy="159.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2~db1204274-t2503227/"><circle cx="154.6" cy="187.7" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.2" cy="209.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/"><circle cx="240.8" cy="169.5" r="4" fill="#3465a4"><title>U.S. Air Force Reserve P. B. (Corpor</title></circle></a><circle cx="185.6" cy="191.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/b13dg19k2dg7k2dg7k2db18r2b13~x2/

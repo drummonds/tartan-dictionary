@@ -1,14 +1,16 @@
 ---
 title: "MacNeil - 1994 (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNeil - 1994 (Personal)"
-  url: ""
+  url: "/setts/b30k12db12k2w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b30k12db12k2w3/)
-(the same proportion at any scale), whose colour order is pattern [BKBKW](/stripes/bkbkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b30k12db12k2w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKW](/stripes/bkbkw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8t32k24db24k3t3~x2/"><circle cx="160.8" cy="205.8" r="4" fill="#3465a4"><title>MacCorquodale #2</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.4" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/"><circle cx="291.9" cy="244.9" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.5" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.5" cy="211.2" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.8" cy="149.2" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="179.0" cy="168.8" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="189.4" cy="160.9" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.8" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="311.3" cy="146.3" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><circle cx="244.7" cy="185.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8t32k24db24k3t3~x2/"><circle cx="160.9" cy="205.7" r="4" fill="#3465a4"><title>MacCorquodale #2</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/"><circle cx="291.9" cy="244.8" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.7" cy="195.4" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.5" cy="211.1" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.9" cy="149.1" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="179.0" cy="168.7" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="189.4" cy="160.8" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.7" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="311.3" cy="146.2" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><circle cx="244.8" cy="185.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/b30k12db12k2w3~x2/

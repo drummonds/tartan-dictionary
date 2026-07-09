@@ -1,14 +1,16 @@
 ---
 title: "Twisted Kilt Society"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Twisted Kilt Society"
-  url: ""
+  url: "/setts/dg7n3dg1n2dg1n3dg6n1dy1n2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg7n3dg1n2dg1n3dg6n1dy1n2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg7n3dg1n2dg1n3dg6n1dy1n2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.4" cy="285.2" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.6" cy="292.5" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="470.8" cy="308.6" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.6" cy="278.2" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/"><circle cx="472.6" cy="269.7" r="4" fill="#3465a4"><title>Armagh, County</title></circle></a><circle cx="485.2" cy="296.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.5" cy="285.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.7" cy="292.5" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="470.8" cy="308.6" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.6" cy="278.1" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/"><circle cx="472.7" cy="269.6" r="4" fill="#3465a4"><title>Armagh, County</title></circle></a><circle cx="485.2" cy="296.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/

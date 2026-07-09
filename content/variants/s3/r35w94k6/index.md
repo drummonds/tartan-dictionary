@@ -1,14 +1,16 @@
 ---
 title: "St Georges Check"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "St Georges Check"
-  url: ""
+  url: "/setts/r35w94k6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r35w94k6/)
-(the same proportion at any scale), whose colour order is pattern [KWR](/stripes/kwr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r35w94k6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWR](/stripes/kwr/).
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r13k1w13~x4/"><circle cx="280.1" cy="234.6" r="4" fill="#3465a4"><title>Hose (Dunmore)</title></circle></a><a href="/variants/s3/w37k2r36~x2/"><circle cx="302.4" cy="220.0" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="123.1" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/"><circle cx="374.1" cy="74.8" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="368.6" cy="191.7" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.3" cy="188.2" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="390.0" cy="182.0" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/k5w37r37w5~x2/"><circle cx="271.6" cy="236.9" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="383.0" cy="248.5" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s3/k7w6k1~x4/"><circle cx="288.0" cy="284.0" r="4" fill="#3465a4"><title>Lendrum (B&amp;W)</title></circle></a><circle cx="390.5" cy="209.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r13k1w13~x4/"><circle cx="280.1" cy="234.6" r="4" fill="#3465a4"><title>Hose (Dunmore)</title></circle></a><a href="/variants/s3/w37k2r36~x2/"><circle cx="302.4" cy="219.9" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="123.0" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/"><circle cx="374.1" cy="74.7" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="368.6" cy="191.7" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.4" cy="188.2" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="390.0" cy="181.9" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/k5w37r37w5~x2/"><circle cx="271.6" cy="236.9" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="383.0" cy="248.5" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s3/k7w6k1~x4/"><circle cx="288.0" cy="284.0" r="4" fill="#3465a4"><title>Lendrum (B&amp;W)</title></circle></a><circle cx="390.5" cy="209.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/r35w94k6/

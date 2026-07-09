@@ -1,14 +1,16 @@
 ---
 title: "Drummond C"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Drummond C"
   url: "/setts/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/)
-(the same proportion at any scale), whose colour order is pattern [RBRBRWRKRGRGRKR](/stripes/rbrbrwrkrgrgrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBRWRKRGRGRKR](/stripes/rbrbrwrkrgrgrkr/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3~x2/"><circle cx="209.4" cy="150.2" r="4" fill="#3465a4"><title>Drummond C</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/"><circle cx="207.0" cy="123.3" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/"><circle cx="195.5" cy="139.9" r="4" fill="#3465a4"><title>Fitzgerald Red</title></circle></a><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="181.3" cy="142.9" r="4" fill="#3465a4"><title>MacDougall #6</title></circle></a><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><circle cx="249.5" cy="130.8" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.4" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2~x2/"><circle cx="189.3" cy="179.0" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2/"><circle cx="189.3" cy="179.0" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s15/r12w2r12g8y1k6w4k1w1k1w4r12w1k1r1~x2/"><circle cx="210.1" cy="111.0" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6w2k8r10g2r10k2/"><circle cx="187.2" cy="178.4" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><circle cx="209.4" cy="150.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3~x2/"><circle cx="209.4" cy="150.1" r="4" fill="#3465a4"><title>Drummond C</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/"><circle cx="206.9" cy="123.1" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/"><circle cx="195.5" cy="139.8" r="4" fill="#3465a4"><title>Fitzgerald Red</title></circle></a><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="181.3" cy="142.7" r="4" fill="#3465a4"><title>MacDougall #6</title></circle></a><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><circle cx="249.5" cy="130.6" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.3" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2~x2/"><circle cx="189.3" cy="178.9" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2/"><circle cx="189.3" cy="178.9" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s15/r12w2r12g8y1k6w4k1w1k1w4r12w1k1r1~x2/"><circle cx="210.1" cy="110.9" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6w2k8r10g2r10k2/"><circle cx="187.2" cy="178.3" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><circle cx="209.4" cy="150.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/

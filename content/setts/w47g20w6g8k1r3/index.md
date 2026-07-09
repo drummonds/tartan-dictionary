@@ -1,5 +1,12 @@
 ---
-title: "MacGregor, Green"
-redirect: "/variants/s6/w47g20w6g8k1r3~x2/"
+title: "MacGregor Dress Green Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacGregor, Green](/variants/s6/w47g20w6g8k1r3~x2/).
+This is the **MacGregor Dress Green Clan Tartan** sett — one scale-free proportion (`w47g20w6g8k1r3`), colour order pattern
+[RKGWGW](/stripes/rkgwgw/). It is recorded as a single **variant**, below.
+First attested **~1992**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacGregor Dress Green Clan Tartan](/variants/s6/w47g20w6g8k1r3~x2/) ★ | ~1992 | ![MacGregor Dress Green Clan Tartan sett](/variants/s6/w47g20w6g8k1r3~x2/sett.png) |

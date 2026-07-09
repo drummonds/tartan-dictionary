@@ -1,5 +1,12 @@
 ---
 title: "Glenlyon #2"
-redirect: "/variants/s3/g3k2db2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glenlyon #2](/variants/s3/g3k2db2~x4/).
+This is the **Glenlyon #2** sett — one scale-free proportion (`g3k2db2`), colour order pattern
+[BKG](/stripes/bkg/). It is recorded as a single **variant**, below.
+First attested **1800**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Glenlyon #2](/variants/s3/g3k2db2~x4/) ★ | 1800 | ![Glenlyon #2 sett](/variants/s3/g3k2db2~x4/sett.png) |

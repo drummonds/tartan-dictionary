@@ -1,14 +1,16 @@
 ---
 title: "Kerry"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kerry"
-  url: ""
+  url: "/setts/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2/)
-(the same proportion at any scale), whose colour order is pattern [GBGBRBGBRBGBRBG](/stripes/gbgbrbgbrbgbrbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBRBGBRBGBRBG](/stripes/gbgbrbgbrbgbrbg/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="193.1" cy="203.3" r="4" fill="#3465a4"><title>Bonnie Brae School</title></circle></a><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><circle cx="214.7" cy="210.4" r="4" fill="#3465a4"><title>Unidentified, Fragment</title></circle></a><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="247.1" cy="204.1" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.9" cy="231.0" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><circle cx="193.4" cy="204.6" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/"><circle cx="190.0" cy="201.6" r="4" fill="#3465a4"><title>Stevenson Family Tartan</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.0" cy="217.2" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/"><circle cx="227.6" cy="198.9" r="4" fill="#3465a4"><title>Scott Hunting</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/"><circle cx="241.4" cy="212.9" r="4" fill="#3465a4"><title>Montmorency</title></circle></a><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><circle cx="215.8" cy="209.3" r="4" fill="#3465a4"><title>Kerry, County</title></circle></a><circle cx="205.8" cy="198.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="193.1" cy="203.3" r="4" fill="#3465a4"><title>Bonnie Brae School</title></circle></a><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><circle cx="214.7" cy="210.3" r="4" fill="#3465a4"><title>Unidentified, Fragment</title></circle></a><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="247.1" cy="204.0" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.9" cy="231.0" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><circle cx="193.5" cy="204.5" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/"><circle cx="190.0" cy="201.5" r="4" fill="#3465a4"><title>Stevenson Family Tartan</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.0" cy="217.1" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/"><circle cx="227.6" cy="198.8" r="4" fill="#3465a4"><title>Scott Hunting</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/"><circle cx="241.4" cy="212.9" r="4" fill="#3465a4"><title>Montmorency</title></circle></a><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><circle cx="215.8" cy="209.2" r="4" fill="#3465a4"><title>Kerry, County</title></circle></a><circle cx="205.8" cy="198.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2~x2/

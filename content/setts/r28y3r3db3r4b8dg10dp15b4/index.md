@@ -1,5 +1,12 @@
 ---
 title: "Loch Lomond"
-redirect: "/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Loch Lomond](/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/).
+This is the **Loch Lomond** sett — one scale-free proportion (`r28y3r3db3r4b8dg10dp15b4`), colour order pattern
+[BBGBRBRGR](/stripes/bbgbrbrgr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Loch Lomond](/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/) ★ | ~2016 | ![Loch Lomond sett](/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/sett.png) |

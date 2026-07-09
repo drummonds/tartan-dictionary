@@ -1,6 +1,7 @@
 ---
 title: "Ellis Island American District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,8 +10,9 @@ crumbs:
 - name: "Ellis Island (District)"
   url: "/setts/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3/)
-(the same proportion at any scale), whose colour order is pattern [GGGGGGWWGWGKR](/stripes/ggggggwwgwgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGGGWWGWGKR](/stripes/ggggggwwgwgkr/).
 
 Part of the [Ellis Island](/tartans/ellis-island/) tartan — the named design grouping this sett with its other cloths.
 
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.5" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/"><circle cx="314.4" cy="25.3" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><a href="/variants/s15/r160k2w1g36y9r4k1r4y9lb36k9r9y9r4lb3~x2/"><circle cx="361.6" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4~x2/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><circle cx="319.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/"><circle cx="338.7" cy="60.4" r="4" fill="#3465a4"><title>Kings Mountain 1780 (Commemorative)</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><circle cx="290.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/"><circle cx="339.4" cy="14.0" r="4" fill="#3465a4"><title>Crubin Plaid (MacPherson)</title></circle></a><circle cx="336.6" cy="30.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.5" cy="26.3" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/"><circle cx="314.4" cy="25.1" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><a href="/variants/s15/r160k2w1g36y9r4k1r4y9lb36k9r9y9r4lb3~x2/"><circle cx="361.6" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4~x2/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><circle cx="319.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/"><circle cx="338.7" cy="60.2" r="4" fill="#3465a4"><title>Kings Mountain 1780 (Commemorative)</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.6" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><circle cx="290.6" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/"><circle cx="339.3" cy="14.0" r="4" fill="#3465a4"><title>Crubin Plaid (MacPherson)</title></circle></a><circle cx="336.6" cy="30.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2~g2203152/

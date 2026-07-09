@@ -1,5 +1,12 @@
 ---
 title: "Royal Yaght Britannia, The"
-redirect: "/variants/s8/k43y3b1w1db1y3db25r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Royal Yaght Britannia, The](/variants/s8/k43y3b1w1db1y3db25r2~x2/).
+This is the **Royal Yaght Britannia, The** sett — one scale-free proportion (`k43y3b1w1db1y3db25r2`), colour order pattern
+[KGBWBGBR](/stripes/kgbwbgbr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Royal Yaght Britannia, The](/variants/s8/k43y3b1w1db1y3db25r2~x2/) ★ | ~2016 | ![Royal Yaght Britannia, The sett](/variants/s8/k43y3b1w1db1y3db25r2~x2/sett.png) |

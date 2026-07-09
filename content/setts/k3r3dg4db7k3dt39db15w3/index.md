@@ -1,5 +1,12 @@
 ---
 title: "American National"
-redirect: "/variants/s8/k3r3dg4db7k3dt39db15w3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [American National](/variants/s8/k3r3dg4db7k3dt39db15w3~x2/).
+This is the **American National** sett — one scale-free proportion (`k3r3dg4db7k3dt39db15w3`), colour order pattern
+[KRGBKBBW](/stripes/krgbkbbw/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [American National](/variants/s8/k3r3dg4db7k3dt39db15w3~x2/) ★ | 2006 | ![American National sett](/variants/s8/k3r3dg4db7k3dt39db15w3~x2/sett.png) |

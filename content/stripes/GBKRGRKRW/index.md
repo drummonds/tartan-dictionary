@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/">George Brown</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><img src="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/sett.png" alt="George Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/">George Brown Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><img src="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/sett.png" alt="George Brown Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

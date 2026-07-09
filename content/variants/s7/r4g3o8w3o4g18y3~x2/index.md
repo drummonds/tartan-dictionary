@@ -1,16 +1,18 @@
 ---
 title: "Newfoundland"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Newfoundland"
   url: "/tartans/newfoundland-2/"
 - name: "Newfoundland"
-  url: ""
+  url: "/setts/r4g3o8w3o4g18y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g3o8w3o4g18y3/)
-(the same proportion at any scale), whose colour order is pattern [GGRWRGR](/stripes/ggrwrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4g3o8w3o4g18y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGRWRGR](/stripes/ggrwrgr/).
 
 Part of the [Newfoundland](/tartans/newfoundland-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="238.6" cy="205.3" r="4" fill="#3465a4"><title>Newfoundland (District)</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.4" cy="223.4" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s7/g1o8g8r1g8o8w1~x4/"><circle cx="369.9" cy="267.8" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="315.4" cy="205.5" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/variants/s6/o2g8dp4w2o13t2~x4/"><circle cx="252.2" cy="232.4" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/variants/s7/r4g3dy8w3dy4g18y3~x2/"><circle cx="228.6" cy="222.8" r="4" fill="#3465a4"><title>Newfoundland District Tartan</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.5" cy="210.1" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s8/db3o7g2r2g14o2g2db3~x2/"><circle cx="297.5" cy="227.9" r="4" fill="#3465a4"><title>Daks, Tartan-Loden</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.8" cy="178.7" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><circle cx="278.3" cy="239.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="238.6" cy="205.3" r="4" fill="#3465a4"><title>Newfoundland (District)</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.4" cy="223.3" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s7/g1o8g8r1g8o8w1~x4/"><circle cx="369.9" cy="267.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="315.4" cy="205.4" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/variants/s6/o2g8dp4w2o13t2~x4/"><circle cx="252.3" cy="232.4" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/variants/s7/r4g3dy8w3dy4g18y3~x2/"><circle cx="228.7" cy="222.8" r="4" fill="#3465a4"><title>Newfoundland District Tartan</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.5" cy="210.0" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s8/db3o7g2r2g14o2g2db3~x2/"><circle cx="297.5" cy="227.8" r="4" fill="#3465a4"><title>Daks, Tartan-Loden</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.9" cy="178.6" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><circle cx="278.3" cy="239.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r4g3o8w3o4g18y3~x2/

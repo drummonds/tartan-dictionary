@@ -1,14 +1,16 @@
 ---
 title: "Rannoch Red"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Rannoch Red"
-  url: ""
+  url: "/setts/dr10y3dr24lb3dr16k3dr8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr10y3dr24lb3dr16k3dr8/)
-(the same proportion at any scale), whose colour order is pattern [BGBWBKB](/stripes/bgbwbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr10y3dr24lb3dr16k3dr8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWBKB](/stripes/bgbwbkb/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.9" cy="160.2" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/"><circle cx="626.0" cy="100.2" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.4" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s6/dr2dy1dr4r1dr12ly1~x2/"><circle cx="625.9" cy="197.2" r="4" fill="#3465a4"><title>Killiechassie</title></circle></a><a href="/variants/s5/dr11k4dr4lo4dr11~x4/"><circle cx="384.2" cy="292.3" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="367.8" cy="242.9" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.7" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.2" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><circle cx="425.3" cy="82.0" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s5/dy1r9db2r9db1~x4/"><circle cx="554.3" cy="227.0" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><circle cx="546.5" cy="210.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="555.0" cy="160.1" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/"><circle cx="626.0" cy="100.1" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.3" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s6/dr2dy1dr4r1dr12ly1~x2/"><circle cx="625.9" cy="197.1" r="4" fill="#3465a4"><title>Killiechassie</title></circle></a><a href="/variants/s5/dr11k4dr4lo4dr11~x4/"><circle cx="384.3" cy="292.3" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="367.8" cy="242.9" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.1" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><circle cx="425.3" cy="81.8" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s5/dy1r9db2r9db1~x4/"><circle cx="554.3" cy="226.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><circle cx="546.6" cy="210.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr10y3dr24lb3dr16k3dr8~x2/

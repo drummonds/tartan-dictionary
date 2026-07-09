@@ -1,5 +1,12 @@
 ---
-title: "Aberdeen Football Club (1990)"
-redirect: "/variants/s7/w2k1dr28k3r28k1w2~x2/"
+title: "Aberdeen F.C. Corporate Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Aberdeen Football Club (1990)](/variants/s7/w2k1dr28k3r28k1w2~x2/).
+This is the **Aberdeen F.C. Corporate Tartan** sett — one scale-free proportion (`w2k1dr28k3r28k1w2`), colour order pattern
+[WKBKRKW](/stripes/wkbkrkw/). It is recorded as a single **variant**, below.
+First attested **1990**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Aberdeen F.C. Corporate Tartan](/variants/s7/w2k1dr28k3r28k1w2~x2/) ★ | 1990 | ![Aberdeen F.C. Corporate Tartan sett](/variants/s7/w2k1dr28k3r28k1w2~x2/sett.png) |

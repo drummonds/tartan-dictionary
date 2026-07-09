@@ -1,5 +1,12 @@
 ---
 title: "Hallowfield Wood"
-redirect: "/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hallowfield Wood](/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/).
+This is the **Hallowfield Wood** sett — one scale-free proportion (`y3r10g4y8do2y8dp11do16y4g4r10y3`), colour order pattern
+[GRGGBBGBGGRG](/stripes/grggbbgbggrg/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hallowfield Wood](/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/) ★ | 2015 | ![Hallowfield Wood sett](/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/sett.png) |

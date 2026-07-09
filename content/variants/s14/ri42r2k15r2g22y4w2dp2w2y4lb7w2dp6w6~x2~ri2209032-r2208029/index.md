@@ -1,16 +1,18 @@
 ---
 title: "Dundee"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dundee"
   url: "/tartans/dundee-2/"
 - name: "Dundee"
-  url: ""
+  url: "/setts/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6/)
-(the same proportion at any scale), whose colour order is pattern [RRKRGGWBWGWWBW](/stripes/rrkrggwbwgwwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRKRGGWBWGWWBW](/stripes/rrkrggwbwgwwbw/).
 
 Part of the [Dundee](/tartans/dundee-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/"><circle cx="94.6" cy="44.5" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><a href="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/"><circle cx="60.4" cy="79.4" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/variants/s14/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2~ri2109032-r1807008/"><circle cx="93.8" cy="42.9" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><a href="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/"><circle cx="81.9" cy="41.1" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/variants/s14/r42b2k15b2g22y4w2dp2w2y4lb7w2dp6w6~x2/"><circle cx="88.5" cy="45.9" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/"><circle cx="36.0" cy="59.2" r="4" fill="#3465a4"><title>Dundee Dress</title></circle></a><a href="/variants/s12/do9lb5k8y2k4w4k4g28r44lb4r5k3~x2/"><circle cx="139.5" cy="63.2" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/variants/s14/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10~x2~ri2109032-r1807008/"><circle cx="36.1" cy="59.0" r="4" fill="#3465a4"><title>Dundee Dress District Tartan</title></circle></a><a href="/variants/s14/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10~x2~ri2008029-r1707016/"><circle cx="35.9" cy="59.1" r="4" fill="#3465a4"><title>Dundee, dress</title></circle></a><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/"><circle cx="125.7" cy="54.2" r="4" fill="#3465a4"><title>Mary Stewart, Queen of Scots</title></circle></a><circle cx="82.7" cy="41.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/"><circle cx="94.6" cy="44.3" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><a href="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/"><circle cx="60.4" cy="79.2" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/variants/s14/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2~ri2109032-r1807008/"><circle cx="93.8" cy="42.7" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><a href="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/"><circle cx="81.9" cy="40.9" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/variants/s14/r42b2k15b2g22y4w2dp2w2y4lb7w2dp6w6~x2/"><circle cx="88.5" cy="45.7" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/"><circle cx="36.0" cy="59.0" r="4" fill="#3465a4"><title>Dundee Dress</title></circle></a><a href="/variants/s12/do9lb5k8y2k4w4k4g28r44lb4r5k3~x2/"><circle cx="139.5" cy="63.0" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/variants/s14/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10~x2~ri2109032-r1807008/"><circle cx="36.1" cy="58.8" r="4" fill="#3465a4"><title>Dundee Dress District Tartan</title></circle></a><a href="/variants/s14/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10~x2~ri2008029-r1707016/"><circle cx="35.9" cy="59.0" r="4" fill="#3465a4"><title>Dundee, dress</title></circle></a><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/"><circle cx="125.7" cy="54.0" r="4" fill="#3465a4"><title>Mary Stewart, Queen of Scots</title></circle></a><circle cx="82.7" cy="40.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/

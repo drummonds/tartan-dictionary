@@ -1,5 +1,12 @@
 ---
 title: "Wolverine Corporate Tartan"
-redirect: "/variants/s5/y8k3db40k15y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wolverine Corporate Tartan](/variants/s5/y8k3db40k15y3~x2/).
+This is the **Wolverine Corporate Tartan** sett — one scale-free proportion (`y8k3db40k15y3`), colour order pattern
+[GKBKKG](/stripes/gkbkkg/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wolverine Corporate Tartan](/variants/s5/y8k3db40k15y3~x2/) ★ | 2012 | ![Wolverine Corporate Tartan sett](/variants/s5/y8k3db40k15y3~x2/sett.png) |

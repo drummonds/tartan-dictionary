@@ -1,16 +1,18 @@
 ---
 title: "Boring and Dull"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Boring and Dull"
   url: "/tartans/boring-and-dull/"
 - name: "Boring and Dull"
-  url: ""
+  url: "/setts/db5w4r1db26r26w1r8w5k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5w4r1db26r26w1r8w5k1/)
-(the same proportion at any scale), whose colour order is pattern [BWRBRWRWK](/stripes/bwrbrwrwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db5w4r1db26r26w1r8w5k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRBRWRWK](/stripes/bwrbrwrwk/).
 
 Part of the [Boring and Dull](/tartans/boring-and-dull/) tartan — the named design grouping this sett with its other cloths.
 
@@ -80,6 +82,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="261.6" cy="117.2" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.6" cy="150.4" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="337.2" cy="94.9" r="4" fill="#3465a4"><title>Knights Templar - Grand Priory (Corp</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="266.1" cy="112.1" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="260.7" cy="100.4" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><circle cx="252.0" cy="95.5" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="163.0" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.6" cy="110.3" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s8/ly3db8w3db34r34g4r4w2~x2/"><circle cx="263.1" cy="135.9" r="4" fill="#3465a4"><title>Manitoba Masonic (Corporate)</title></circle></a><circle cx="265.2" cy="116.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="261.6" cy="117.1" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.7" cy="150.3" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="337.2" cy="94.7" r="4" fill="#3465a4"><title>Knights Templar - Grand Priory (Corp</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="266.2" cy="112.0" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="260.7" cy="100.3" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><circle cx="252.0" cy="95.4" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="162.9" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.6" cy="110.2" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s8/ly3db8w3db34r34g4r4w2~x2/"><circle cx="263.1" cy="135.8" r="4" fill="#3465a4"><title>Manitoba Masonic (Corporate)</title></circle></a><circle cx="265.2" cy="116.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db5w4r1db26r26w1r8w5k1~x2/

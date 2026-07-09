@@ -1,5 +1,12 @@
 ---
 title: "Gray, Thomas (Personal)"
-redirect: "/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gray, Thomas (Personal)](/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/).
+This is the **Gray, Thomas (Personal)** sett — one scale-free proportion (`n1w1o2w1n1w16o6db1y1lb1`), colour order pattern
+[BWRWBWRBGW](/stripes/bwrwbwrbgw/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Gray, Thomas (Personal)](/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/) ★ | 2016 | ![Gray, Thomas (Personal) sett](/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/sett.png) |

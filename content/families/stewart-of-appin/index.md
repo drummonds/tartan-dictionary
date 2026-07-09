@@ -13,7 +13,7 @@ A family of [Clan Stewart](/clan/stewart/).
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db8r3db34lb3k9w31r5w3r3w8/">Stewart of Appin Dress</a> ★</td><td><code>DB/8 R3 DB34 LB3 K9 W31 R5 W3 R3 W/8</code></td><td>198</td><td>—</td></tr>
+<tr><td><a href="/setts/db8r3db34lb3k9w31r5w3r3w8/">Stewart of Appin Dress</a> ★</td><td><code>DB/8 R3 DB34 LB3 K9 W31 R5 W3 R3 W/8</code></td><td>198</td><td>~2003</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db8r3db34lb3k9w31r5w3r3w8/"><img src="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/sett.png" alt="Stewart of Appin Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/">Stuart/Stewart of Appin Dress</a> · <a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/">Clan Tartan</a></td></tr>
 <tr><td><a href="/setts/db8r3db34b3k9w31r5w3r3w8/">Stewart of Appin, dress</a></td><td><code>DB/16 R6 DB68 B6 K18 W62 R10 W6 R6 W/16</code></td><td>396</td><td>—</td></tr>
@@ -64,7 +64,7 @@ A family of [Clan Stewart](/clan/stewart/).
 <tbody>
 <tr><td><a href="/setts/g8r3g3r5g26dy7lb3db28r3db6/">Stewart of Appin Hunting</a> ★</td><td><code>G/16 R6 G6 R10 G52 DY14 LB6 DB56 R6 DB12 R6 DB56 LB6 DY14 G52 R10 G6 R/6</code></td><td>340</td><td>1800</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g8r3g3r5g26dy7lb3db28r3db6/"><img src="/variants/s10/g8r3g3r5g26dy7lb3db28r3db6~x2/sett.png" alt="Stewart of Appin Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g11r4g4r7g41dy11lb4db41r4db8/">Clan Tartan</a></td><td><code>G/11 R4 G4 R7 G41 DY11 LB4 DB41 R4 DB/8</code></td><td>251</td><td>—</td></tr>
+<tr><td><a href="/setts/g11r4g4r7g41dy11lb4db41r4db8/">Clan Tartan</a></td><td><code>G/11 R4 G4 R7 G41 DY11 LB4 DB41 R4 DB/8</code></td><td>251</td><td>1930</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g11r4g4r7g41dy11lb4db41r4db8/"><img src="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/g11r4g4r7g41o11lb4db41r4db8/">Stewart of Appin, Ancient hunting</a></td><td><code>G/11 R4 G4 R7 G41 O11 LB4 DB41 R4 DB/8</code></td><td>251</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g11r4g4r7g41o11lb4db41r4db8/"><img src="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/sett.png" alt="Stewart of Appin, Ancient hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -1,14 +1,16 @@
 ---
 title: "GRM (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "GRM (Fashion)"
-  url: ""
+  url: "/setts/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2/)
-(the same proportion at any scale), whose colour order is pattern [KBGYGRGGBGBR](/stripes/kbgygrggbgbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGYGRGGBGBR](/stripes/kbgygrggbgbr/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/"><circle cx="211.7" cy="54.9" r="4" fill="#3465a4"><title>International Bear Pride</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2/"><circle cx="214.6" cy="85.4" r="4" fill="#3465a4"><title>Capercaillie (Corporate)</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/"><circle cx="215.3" cy="85.7" r="4" fill="#3465a4"><title>Capercaillie</title></circle></a><a href="/variants/s11/k48dt12ly3dt3w3dt3n9dy8t2dy10w2~x2~dt1703208-t2503227/"><circle cx="181.0" cy="63.3" r="4" fill="#3465a4"><title>Holyrood (Commemorative)</title></circle></a><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><circle cx="252.9" cy="64.1" r="4" fill="#3465a4"><title>Father’s Pride, The</title></circle></a><a href="/variants/s12/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028/"><circle cx="274.3" cy="45.9" r="4" fill="#3465a4"><title>Wcwm 849-3</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><circle cx="207.4" cy="94.8" r="4" fill="#3465a4"><title>Spotsylvania County, Sherrif's Office of</title></circle></a><a href="/variants/s12/dr4k4ly3k4dr54r5k54dr4k3db9k2w4/"><circle cx="244.1" cy="58.6" r="4" fill="#3465a4"><title>German American</title></circle></a><a href="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/"><circle cx="284.7" cy="96.9" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/variants/s11/db8lb1k6y1k2w2k2g12dy28w1dy4~x2/"><circle cx="200.3" cy="67.0" r="4" fill="#3465a4"><title>MacLean of Kingairloch Clan Tartan</title></circle></a><circle cx="219.8" cy="59.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/"><circle cx="211.7" cy="54.7" r="4" fill="#3465a4"><title>International Bear Pride</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2/"><circle cx="214.6" cy="85.3" r="4" fill="#3465a4"><title>Capercaillie (Corporate)</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/"><circle cx="215.3" cy="85.5" r="4" fill="#3465a4"><title>Capercaillie</title></circle></a><a href="/variants/s11/k48dt12ly3dt3w3dt3n9dy8t2dy10w2~x2~dt1703208-t2503227/"><circle cx="181.0" cy="63.2" r="4" fill="#3465a4"><title>Holyrood (Commemorative)</title></circle></a><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><circle cx="252.9" cy="63.9" r="4" fill="#3465a4"><title>Father’s Pride, The</title></circle></a><a href="/variants/s12/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028/"><circle cx="274.3" cy="45.7" r="4" fill="#3465a4"><title>Wcwm 849-3</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><circle cx="207.4" cy="94.7" r="4" fill="#3465a4"><title>Spotsylvania County, Sherrif's Office of</title></circle></a><a href="/variants/s12/dr4k4ly3k4dr54r5k54dr4k3db9k2w4/"><circle cx="244.1" cy="58.4" r="4" fill="#3465a4"><title>German American</title></circle></a><a href="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/"><circle cx="284.7" cy="96.7" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/variants/s11/db8lb1k6y1k2w2k2g12dy28w1dy4~x2/"><circle cx="200.3" cy="66.8" r="4" fill="#3465a4"><title>MacLean of Kingairloch Clan Tartan</title></circle></a><circle cx="219.8" cy="59.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/

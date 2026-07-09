@@ -1,14 +1,16 @@
 ---
 title: "Kang Personal Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kang Personal Tartan"
-  url: ""
+  url: "/setts/k70y4k3w2k2w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k70y4k3w2k2w2/)
-(the same proportion at any scale), whose colour order is pattern [KKKKKKGKWKW](/stripes/kkkkkkgkwkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k70y4k3w2k2w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KKKKKKGKWKW](/stripes/kkkkkkgkwkw/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2007 Designed by Catriona Duffy and David Kang
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2007 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/"><circle cx="351.5" cy="101.4" r="4" fill="#3465a4"><title>Myles, Lee</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.5" cy="88.1" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="438.9" cy="76.2" r="4" fill="#3465a4"><title>Racing Stewart, Stealth (Corporate)</title></circle></a><a href="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/"><circle cx="300.5" cy="104.7" r="4" fill="#3465a4"><title>Hughes (USA) (Personal)</title></circle></a><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"><circle cx="374.5" cy="82.6" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><circle cx="373.0" cy="101.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.6" cy="100.4" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/"><circle cx="351.5" cy="101.2" r="4" fill="#3465a4"><title>Myles, Lee</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.6" cy="87.9" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="438.9" cy="76.1" r="4" fill="#3465a4"><title>Racing Stewart, Stealth (Corporate)</title></circle></a><a href="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/"><circle cx="300.5" cy="104.5" r="4" fill="#3465a4"><title>Hughes (USA) (Personal)</title></circle></a><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"><circle cx="374.5" cy="82.5" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><circle cx="373.0" cy="101.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k70y4k3w2k2w2~x2/

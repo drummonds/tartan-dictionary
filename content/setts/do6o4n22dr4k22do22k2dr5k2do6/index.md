@@ -1,5 +1,12 @@
 ---
 title: "Lochaber (Ingles Buchan)"
-redirect: "/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lochaber (Ingles Buchan)](/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/).
+This is the **Lochaber (Ingles Buchan)** sett — one scale-free proportion (`do6o4n22dr4k22do22k2dr5k2do6`), colour order pattern
+[BKBKBKBBRB](/stripes/bkbkbkbbrb/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lochaber (Ingles Buchan)](/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/) ★ | 2002 | ![Lochaber (Ingles Buchan) sett](/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/sett.png) |

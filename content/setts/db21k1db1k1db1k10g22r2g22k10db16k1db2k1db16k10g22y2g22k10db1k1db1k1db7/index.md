@@ -1,5 +1,12 @@
 ---
 title: "Farquharson"
-redirect: "/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Farquharson](/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/).
+This is the **Farquharson** sett — one scale-free proportion (`db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7`), colour order pattern
+[BKBKBKGGGKBKBKBKGRGKBKBKB](/stripes/bkbkbkgggkbkbkbkgrgkbkbkb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Farquharson](/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/) ★ | ~2016 | ![Farquharson sett](/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/sett.png) |

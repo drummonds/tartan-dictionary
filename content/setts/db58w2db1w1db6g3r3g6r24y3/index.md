@@ -2,13 +2,13 @@
 title: "Chinese Scottish (Corporate)"
 date: 2023-03-18
 ---
-The **Chinese Scottish (Corporate)** tartan is one sett proportion (`db58w2db1w1db6g3r3g6r24y3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BWBWBGRGRG](/stripes/bwbwbgrgrg/); each scale below is its own sett page. First attested **2006**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Chinese Scottish (Corporate)** sett — one scale-free proportion (`db58w2db1w1db6g3r3g6r24y3`), colour order pattern
+[BWBWBGRGRG](/stripes/bwbwbgrgrg/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **2006**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×2 | [Chinese Scottish (Corporate)](/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/) ★ | 2006 | ![Chinese Scottish (Corporate) sett](/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/sett.png) |
-| ×2 | [Chinese Scottish District Tartan](/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/) | ~2016 | ![Chinese Scottish District Tartan sett](/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/sett.png) |
+| ×2 | [Chinese Scottish District Tartan](/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/) | 2006 | ![Chinese Scottish District Tartan sett](/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Lawlis/Lawless"
-redirect: "/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lawlis/Lawless](/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/).
+This is the **Lawlis/Lawless** sett — one scale-free proportion (`db10dg1db1dg1db1dg2dr12dg1dr2`), colour order pattern
+[BGBGBGBGB](/stripes/bgbgbgbgb/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Lawlis/Lawless](/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/) ★ | 1996 | ![Lawlis/Lawless sett](/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/sett.png) |

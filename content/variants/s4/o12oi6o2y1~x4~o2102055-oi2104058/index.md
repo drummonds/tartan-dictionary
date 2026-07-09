@@ -1,16 +1,18 @@
 ---
 title: "Loch Garth"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Garth"
   url: "/tartans/loch-garth/"
 - name: "Loch Garth"
-  url: ""
+  url: "/setts/o12oi6o2y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o12oi6o2y1/)
-(the same proportion at any scale), whose colour order is pattern [GRRR](/stripes/grrr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o12oi6o2y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRRR](/stripes/grrr/).
 
 Part of the [Loch Garth](/tartans/loch-garth/) tartan — the named design grouping this sett with its other cloths.
 

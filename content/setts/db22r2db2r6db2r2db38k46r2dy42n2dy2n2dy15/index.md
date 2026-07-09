@@ -1,5 +1,12 @@
 ---
 title: "Applestone"
-redirect: "/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Applestone](/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/).
+This is the **Applestone** sett — one scale-free proportion (`db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15`), colour order pattern
+[BRBRBRBKRGBGBG](/stripes/brbrbrbkrgbgbg/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Applestone](/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/) ★ | 2016 | ![Applestone sett](/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/sett.png) |

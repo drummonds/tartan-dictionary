@@ -1,5 +1,12 @@
 ---
 title: "Equity Vision Ltd"
-redirect: "/variants/s4/n12k8db15w8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Equity Vision Ltd](/variants/s4/n12k8db15w8~x2/).
+This is the **Equity Vision Ltd** sett — one scale-free proportion (`n12k8db15w8`), colour order pattern
+[BKBW](/stripes/bkbw/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Equity Vision Ltd](/variants/s4/n12k8db15w8~x2/) ★ | 2015 | ![Equity Vision Ltd sett](/variants/s4/n12k8db15w8~x2/sett.png) |

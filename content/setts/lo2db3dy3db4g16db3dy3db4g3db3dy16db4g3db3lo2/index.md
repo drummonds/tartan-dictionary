@@ -1,5 +1,12 @@
 ---
 title: "Kerry, County"
-redirect: "/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kerry, County](/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/).
+This is the **Kerry, County** sett — one scale-free proportion (`lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2`), colour order pattern
+[YBGBGBGBGBGBGBY](/stripes/ybgbgbgbgbgbgby/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kerry, County](/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/) ★ | 1996 | ![Kerry, County sett](/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/sett.png) |

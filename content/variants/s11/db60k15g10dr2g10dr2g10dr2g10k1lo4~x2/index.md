@@ -1,16 +1,18 @@
 ---
 title: "Muir (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Muir"
   url: "/tartans/muir/"
 - name: "Muir (Clan)"
-  url: ""
+  url: "/setts/db60k15g10dr2g10dr2g10dr2g10k1lo4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db60k15g10dr2g10dr2g10dr2g10k1lo4/)
-(the same proportion at any scale), whose colour order is pattern [BKGBGBGBGKY](/stripes/bkgbgbgbgky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db60k15g10dr2g10dr2g10dr2g10k1lo4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGBGBGBGKY](/stripes/bkgbgbgbgky/).
 
 Part of the [Muir](/tartans/muir/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.1" cy="67.8" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/variants/s14/db116k4g22ri7db3ri7k26db7g3db7g66db4ri7r4~ri2406019-r2109032/"><circle cx="267.5" cy="59.2" r="4" fill="#3465a4"><title>Cooper Family Tartan</title></circle></a><a href="/variants/s14/db116k4g22b7db3b7k26db7g3db7g66db4b7r4/"><circle cx="276.1" cy="64.8" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/variants/s14/g3lb2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="277.4" cy="62.1" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="282.1" cy="63.6" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.0" cy="45.5" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/"><circle cx="257.3" cy="45.3" r="4" fill="#3465a4"><title>Swedish District Tartan</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="281.0" cy="95.4" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="221.3" cy="80.6" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="230.0" cy="103.6" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><circle cx="272.1" cy="68.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.1" cy="67.6" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/variants/s14/db116k4g22ri7db3ri7k26db7g3db7g66db4ri7r4~ri2406019-r2109032/"><circle cx="267.5" cy="59.0" r="4" fill="#3465a4"><title>Cooper Family Tartan</title></circle></a><a href="/variants/s14/db116k4g22b7db3b7k26db7g3db7g66db4b7r4/"><circle cx="276.1" cy="64.6" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/variants/s14/g3lb2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="277.4" cy="61.9" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="282.1" cy="63.4" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.0" cy="45.3" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/"><circle cx="257.3" cy="45.1" r="4" fill="#3465a4"><title>Swedish District Tartan</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="281.1" cy="95.3" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="221.3" cy="80.4" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="230.0" cy="103.4" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><circle cx="272.1" cy="68.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db60k15g10dr2g10dr2g10dr2g10k1lo4~x2/

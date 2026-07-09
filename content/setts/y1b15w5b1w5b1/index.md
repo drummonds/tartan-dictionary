@@ -1,5 +1,12 @@
 ---
 title: "Whitley (Personal)"
-redirect: "/variants/s6/y1b15w5b1w5b1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Whitley (Personal)](/variants/s6/y1b15w5b1w5b1~x4/).
+This is the **Whitley (Personal)** sett — one scale-free proportion (`y1b15w5b1w5b1`), colour order pattern
+[BWBWBG](/stripes/bwbwbg/). It is recorded as a single **variant**, below.
+First attested **2007**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Whitley (Personal)](/variants/s6/y1b15w5b1w5b1~x4/) ★ | 2007 | ![Whitley (Personal) sett](/variants/s6/y1b15w5b1w5b1~x4/sett.png) |

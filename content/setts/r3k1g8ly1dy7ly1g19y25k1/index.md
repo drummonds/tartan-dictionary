@@ -1,5 +1,12 @@
 ---
 title: "Broons, The (DC Thomson)"
-redirect: "/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Broons, The (DC Thomson)](/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/).
+This is the **Broons, The (DC Thomson)** sett — one scale-free proportion (`r3k1g8ly1dy7ly1g19y25k1`), colour order pattern
+[KGGYGYGKR](/stripes/kggygygkr/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Broons, The (DC Thomson)](/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/) ★ | 2010 | ![Broons, The (DC Thomson) sett](/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/sett.png) |

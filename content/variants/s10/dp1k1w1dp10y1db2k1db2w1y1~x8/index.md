@@ -1,14 +1,16 @@
 ---
 title: "Regan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Regan"
-  url: ""
+  url: "/setts/dp1k1w1dp10y1db2k1db2w1y1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp1k1w1dp10y1db2k1db2w1y1/)
-(the same proportion at any scale), whose colour order is pattern [BKWBGBKBWG](/stripes/bkwbgbkbwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp1k1w1dp10y1db2k1db2w1y1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBGBKBWG](/stripes/bkwbgbkbwg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -71,6 +73,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/"><circle cx="205.2" cy="121.2" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.4" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/variants/s10/g5db2k2db29r2db2r15y2db4w2~x2/"><circle cx="269.6" cy="101.4" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/"><circle cx="188.4" cy="148.7" r="4" fill="#3465a4"><title>Life Goes On Foundation (Corporate)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="184.4" cy="119.3" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/"><circle cx="259.4" cy="79.2" r="4" fill="#3465a4"><title>Stevens #4</title></circle></a><a href="/variants/s11/dp4dg2dp24dg8k2r2k2y2k10dp2w3~x2/"><circle cx="204.2" cy="109.3" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/variants/s10/k4w3k3r13db24r8db26lb12k3w2~x2/"><circle cx="194.0" cy="139.6" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"><circle cx="244.0" cy="137.6" r="4" fill="#3465a4"><title>Institute of Directors (Scotland)</title></circle></a><circle cx="237.6" cy="129.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/"><circle cx="205.2" cy="121.1" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.3" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/variants/s10/g5db2k2db29r2db2r15y2db4w2~x2/"><circle cx="269.7" cy="101.2" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/"><circle cx="188.4" cy="148.6" r="4" fill="#3465a4"><title>Life Goes On Foundation (Corporate)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="184.4" cy="119.1" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/"><circle cx="259.4" cy="79.0" r="4" fill="#3465a4"><title>Stevens #4</title></circle></a><a href="/variants/s11/dp4dg2dp24dg8k2r2k2y2k10dp2w3~x2/"><circle cx="204.3" cy="109.2" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/variants/s10/k4w3k3r13db24r8db26lb12k3w2~x2/"><circle cx="194.0" cy="139.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"><circle cx="244.0" cy="137.5" r="4" fill="#3465a4"><title>Institute of Directors (Scotland)</title></circle></a><circle cx="237.6" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dp1k1w1dp10y1db2k1db2w1y1~x8/

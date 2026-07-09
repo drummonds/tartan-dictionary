@@ -15,7 +15,7 @@ The **Nickel Lodge Centennial** tartan groups 4 setts — the same named design 
 <tbody>
 <tr><td><a href="/setts/n16y1n2y1n2db6w4dy1dg6/">Nickel Lodge Centennial</a> ★</td><td><code>N/32 Y2 N4 Y2 N4 DB12 W8 DY2 DG/12</code></td><td>112</td><td>1989</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/n16y1n2y1n2db6w4dy1dg6/"><img src="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/sett.png" alt="Nickel Lodge Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/n18y1n2y1n2db6w4dy1g6/">Corporate Tartan</a></td><td><code>N/36 Y2 N4 Y2 N4 DB12 W8 DY2 G/12</code></td><td>116</td><td>—</td></tr>
+<tr><td><a href="/setts/n18y1n2y1n2db6w4dy1g6/">Corporate Tartan</a></td><td><code>N/36 Y2 N4 Y2 N4 DB12 W8 DY2 G/12</code></td><td>116</td><td>1988</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/n18y1n2y1n2db6w4dy1g6/"><img src="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/n18y1n2y1n2db6w4o1g6/">Nickel Lodge, Centennial</a></td><td><code>N/36 Y2 N4 Y2 N4 DB12 W8 O2 G/12</code></td><td>116</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/n18y1n2y1n2db6w4o1g6/"><img src="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/sett.png" alt="Nickel Lodge, Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -1,16 +1,18 @@
 ---
 title: "Justus Htg (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Justus Hunting"
   url: "/tartans/justus-hunting/"
 - name: "Justus Htg (Personal)"
-  url: ""
+  url: "/setts/db1dg4r1dg1ly1dg4db1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1dg4r1dg1ly1dg4db1/)
-(the same proportion at any scale), whose colour order is pattern [BGRGYGB](/stripes/bgrgygb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db1dg4r1dg1ly1dg4db1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRGYGB](/stripes/bgrgygb/).
 
 Part of the [Justus Hunting](/tartans/justus-hunting/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db1g4r1g1y1g4db1~x12/"><circle cx="376.3" cy="268.9" r="4" fill="#3465a4"><title>Justus hunting</title></circle></a><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/"><circle cx="417.0" cy="283.5" r="4" fill="#3465a4"><title>Justus Hunting (Personal)</title></circle></a><a href="/variants/s6/dy21g28db24g72w16g20/"><circle cx="333.2" cy="282.6" r="4" fill="#3465a4"><title>Meath County, Crest Range</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="316.9" cy="199.3" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="216.0" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.8" cy="249.5" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="179.3" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.5" cy="230.5" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><circle cx="364.4" cy="257.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db1g4r1g1y1g4db1~x12/"><circle cx="376.3" cy="268.9" r="4" fill="#3465a4"><title>Justus hunting</title></circle></a><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/"><circle cx="417.0" cy="283.5" r="4" fill="#3465a4"><title>Justus Hunting (Personal)</title></circle></a><a href="/variants/s6/dy21g28db24g72w16g20/"><circle cx="333.3" cy="282.5" r="4" fill="#3465a4"><title>Meath County, Crest Range</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="316.9" cy="199.2" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="216.0" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.9" cy="249.4" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.8" cy="179.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.6" cy="230.4" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><circle cx="364.4" cy="257.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db1dg4r1dg1ly1dg4db1~x12/

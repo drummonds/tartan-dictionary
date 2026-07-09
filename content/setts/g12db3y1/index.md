@@ -1,5 +1,12 @@
 ---
 title: "Unidentified pattern #2"
-redirect: "/variants/s3/g12db3y1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified pattern #2](/variants/s3/g12db3y1~x4/).
+This is the **Unidentified pattern #2** sett — one scale-free proportion (`g12db3y1`), colour order pattern
+[GBG](/stripes/gbg/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Unidentified pattern #2](/variants/s3/g12db3y1~x4/) ★ | ~2016 | ![Unidentified pattern #2 sett](/variants/s3/g12db3y1~x4/sett.png) |

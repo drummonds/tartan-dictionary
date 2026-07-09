@@ -1,5 +1,12 @@
 ---
 title: "Cetoloni (Personal)"
-redirect: "/variants/s6/db1r12g6y1g6db1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cetoloni (Personal)](/variants/s6/db1r12g6y1g6db1~x4/).
+This is the **Cetoloni (Personal)** sett — one scale-free proportion (`db1r12g6y1g6db1`), colour order pattern
+[BGGGRB](/stripes/bgggrb/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Cetoloni (Personal)](/variants/s6/db1r12g6y1g6db1~x4/) ★ | ~2002 | ![Cetoloni (Personal) sett](/variants/s6/db1r12g6y1g6db1~x4/sett.png) |

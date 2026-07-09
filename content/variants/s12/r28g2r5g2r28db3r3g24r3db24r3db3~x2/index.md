@@ -1,6 +1,7 @@
 ---
 title: "Robertson #5"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Robertson"
   url: "/tartans/robertson/"
 - name: "Robertson #5"
-  url: ""
+  url: "/setts/r28g2r5g2r28db3r3g24r3db24r3db3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r28g2r5g2r28db3r3g24r3db24r3db3/)
-(the same proportion at any scale), whose colour order is pattern [BRBRGRBRGRGR](/stripes/brbrgrbrgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r28g2r5g2r28db3r3g24r3db24r3db3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRGRBRGRGR](/stripes/brbrgrbrgrgr/).
 
 Part of the [Robertson](/tartans/robertson/) tartan — the named design grouping this sett with its other cloths.
 
@@ -82,6 +84,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/"><circle cx="373.4" cy="144.4" r="4" fill="#3465a4"><title>Unidentified Cant #14</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/"><circle cx="319.3" cy="155.0" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><circle cx="319.3" cy="155.0" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/"><circle cx="319.8" cy="159.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="303.3" cy="160.7" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><circle cx="299.9" cy="175.3" r="4" fill="#3465a4"><title>Robertson Curtain</title></circle></a><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/"><circle cx="316.6" cy="186.6" r="4" fill="#3465a4"><title>Robertson 1</title></circle></a><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><circle cx="341.9" cy="130.9" r="4" fill="#3465a4"><title>Fraser, Wedding dress</title></circle></a><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/"><circle cx="350.5" cy="131.1" r="4" fill="#3465a4"><title>Fraser, Isabella (Artefact)</title></circle></a><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><circle cx="275.1" cy="135.4" r="4" fill="#3465a4"><title>Robertson 1820 - White line</title></circle></a><circle cx="328.6" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/"><circle cx="373.4" cy="144.3" r="4" fill="#3465a4"><title>Unidentified Cant #14</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/"><circle cx="319.3" cy="154.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><circle cx="319.3" cy="154.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/"><circle cx="319.7" cy="159.8" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="303.3" cy="160.6" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><circle cx="299.9" cy="175.2" r="4" fill="#3465a4"><title>Robertson Curtain</title></circle></a><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/"><circle cx="316.6" cy="186.5" r="4" fill="#3465a4"><title>Robertson 1</title></circle></a><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><circle cx="341.9" cy="130.7" r="4" fill="#3465a4"><title>Fraser, Wedding dress</title></circle></a><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/"><circle cx="350.5" cy="130.9" r="4" fill="#3465a4"><title>Fraser, Isabella (Artefact)</title></circle></a><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><circle cx="275.1" cy="135.2" r="4" fill="#3465a4"><title>Robertson 1820 - White line</title></circle></a><circle cx="328.6" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/

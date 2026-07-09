@@ -1,5 +1,12 @@
 ---
 title: "Whisky Kilt (Fashion)"
-redirect: "/variants/s7/w168r2w2lyi2w2ly3dg26~x2~lyi2705081-ly2503076/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Whisky Kilt (Fashion)](/variants/s7/w168r2w2lyi2w2ly3dg26~x2~lyi2705081-ly2503076/).
+This is the **Whisky Kilt (Fashion)** sett — one scale-free proportion (`w168r2w2lyi2w2ly3dg26`), colour order pattern
+[GYWYWRW](/stripes/gywywrw/). It is recorded as a single **variant**, below.
+First attested **~2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Whisky Kilt (Fashion)](/variants/s7/w168r2w2lyi2w2ly3dg26~x2~lyi2705081-ly2503076/) ★ | ~2010 | ![Whisky Kilt (Fashion) sett](/variants/s7/w168r2w2lyi2w2ly3dg26~x2~lyi2705081-ly2503076/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Kincardine Tweed"
-redirect: "/variants/s4/n30r1n15db4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kincardine Tweed](/variants/s4/n30r1n15db4~x2/).
+This is the **Kincardine Tweed** sett — one scale-free proportion (`n30r1n15db4`), colour order pattern
+[BBRB](/stripes/bbrb/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Kincardine Tweed](/variants/s4/n30r1n15db4~x2/) ★ | ~2016 | ![Kincardine Tweed sett](/variants/s4/n30r1n15db4~x2/sett.png) |

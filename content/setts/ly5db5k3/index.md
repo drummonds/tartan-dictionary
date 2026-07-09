@@ -1,5 +1,12 @@
 ---
 title: "Kazakhstan Relic (Artefact)"
-redirect: "/variants/s3/ly5db5k3~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Kazakhstan Relic (Artefact)](/variants/s3/ly5db5k3~x4/).
+This is the **Kazakhstan Relic (Artefact)** sett — one scale-free proportion (`ly5db5k3`), colour order pattern
+[KBY](/stripes/kby/). It is recorded as a single **variant**, below.
+First attested **~2000 BCE**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Kazakhstan Relic (Artefact)](/variants/s3/ly5db5k3~x4/) ★ | ~2000 BCE | ![Kazakhstan Relic (Artefact) sett](/variants/s3/ly5db5k3~x4/sett.png) |

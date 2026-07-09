@@ -15,7 +15,7 @@ The **Jacobite** tartan groups 4 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w1r2db2w1g9w1db2r2w1r2db2w1lo9w1db2r2w1/">Jacobite</a> ★</td><td><code>W/4 R8 DB8 W4 G36 W4 DB8 R8 W4 R8 DB8 W4 LO36 W4 DB8 R8 W/4</code></td><td>320</td><td>—</td></tr>
+<tr><td><a href="/setts/w1r2db2w1g9w1db2r2w1r2db2w1lo9w1db2r2w1/">Jacobite</a> ★</td><td><code>W/4 R8 DB8 W4 G36 W4 DB8 R8 W4 R8 DB8 W4 LO36 W4 DB8 R8 W/4</code></td><td>320</td><td>~1815</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/w1r2db2w1g9w1db2r2w1r2db2w1lo9w1db2r2w1/"><img src="/variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1lo9w1db2r2w1~x4/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/w1r2db2w1g8w1db2r2w1r2db2w1b8w1db2r2w1/">Jacobite</a></td><td><code>W/2 R4 DB4 W2 B16 W2 DB4 R4 W2 R4 DB4 W2 G16 W2 DB4 R4 W/2</code></td><td>152</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/w1r2db2w1g8w1db2r2w1r2db2w1b8w1db2r2w1/"><img src="/variants/s17/w1r2db2w1g8w1db2r2w1r2db2w1b8w1db2r2w1~x2/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

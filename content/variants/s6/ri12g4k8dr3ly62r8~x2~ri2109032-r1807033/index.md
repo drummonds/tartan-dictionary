@@ -1,14 +1,16 @@
 ---
 title: "Shawn Jones Afghan Memorial, The"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Shawn Jones Afghan Memorial, The"
-  url: ""
+  url: "/setts/ri12g4k8dr3ly62r8/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri12g4k8dr3ly62r8/)
-(the same proportion at any scale), whose colour order is pattern [RGKBYR](/stripes/rgkbyr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ri12g4k8dr3ly62r8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGKBYR](/stripes/rgkbyr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="408.1" cy="132.9" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.6" cy="176.0" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.1" cy="174.1" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="334.4" cy="133.5" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/variants/s6/ly5w15r40y4g2lb2~x2/"><circle cx="328.9" cy="124.7" r="4" fill="#3465a4"><title>Tomomi</title></circle></a><a href="/variants/s6/r12g4k8dy3y62dr8~x2/"><circle cx="360.3" cy="119.1" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="237.9" cy="137.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.5" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.2" cy="135.6" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s6/w43k5r3g5ly27dp5~x2/"><circle cx="196.7" cy="137.3" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><circle cx="307.7" cy="103.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="408.1" cy="132.8" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.6" cy="176.0" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.1" cy="174.0" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="334.4" cy="133.4" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/variants/s6/ly5w15r40y4g2lb2~x2/"><circle cx="328.9" cy="124.6" r="4" fill="#3465a4"><title>Tomomi</title></circle></a><a href="/variants/s6/r12g4k8dy3y62dr8~x2/"><circle cx="360.3" cy="119.0" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.8" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.3" cy="135.5" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s6/w43k5r3g5ly27dp5~x2/"><circle cx="196.7" cy="137.2" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><circle cx="307.7" cy="103.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/

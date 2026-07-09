@@ -1,5 +1,12 @@
 ---
 title: "California Highway Patrol (Corporate"
-redirect: "/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [California Highway Patrol (Corporate](/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/).
+This is the **California Highway Patrol (Corporate** sett — one scale-free proportion (`k3g3dy28ly3dy3ly28db3lyi2`), colour order pattern
+[KGGYGYBY](/stripes/kggygyby/). It is recorded as a single **variant**, below.
+First attested **1991**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [California Highway Patrol (Corporate](/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/) ★ | 1991 | ![California Highway Patrol (Corporate sett](/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/sett.png) |

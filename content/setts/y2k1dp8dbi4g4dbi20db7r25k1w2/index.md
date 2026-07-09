@@ -1,5 +1,12 @@
 ---
 title: "Guardian of Scotland"
-redirect: "/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Guardian of Scotland](/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/).
+This is the **Guardian of Scotland** sett — one scale-free proportion (`y2k1dp8dbi4g4dbi20db7r25k1w2`), colour order pattern
+[GKBBGBBRKW](/stripes/gkbbgbbrkw/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Guardian of Scotland](/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/) ★ | 2008 | ![Guardian of Scotland sett](/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/sett.png) |

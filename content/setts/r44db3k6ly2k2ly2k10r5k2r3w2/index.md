@@ -1,5 +1,12 @@
 ---
 title: "Heritage Plaid"
-redirect: "/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Heritage Plaid](/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/).
+This is the **Heritage Plaid** sett — one scale-free proportion (`r44db3k6ly2k2ly2k10r5k2r3w2`), colour order pattern
+[RBKYKYKRKRW](/stripes/rbkykykrkrw/). It is recorded as a single **variant**, below.
+First attested **1970**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Heritage Plaid](/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/) ★ | 1970 | ![Heritage Plaid sett](/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/sett.png) |

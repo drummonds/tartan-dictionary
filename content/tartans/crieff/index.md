@@ -19,7 +19,7 @@ The **Crieff** tartan groups 3 setts — the same named design recorded as diffe
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/m2r6g4r70g4r2dp21r2g85r2g4r6m2/"><img src="/variants/s13/m2r6g4r70g4r2dp21r2g85r2g4r6m2~m2106019-r2109032/sett.png" alt="Crieff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/b4r10g7r70g7r4dp21r4g85r4g7r10b4/">Crieff</a></td><td><code>B/4 R10 G7 R70 G7 R4 DP21 R4 G85 R4 G7 R10 B/4</code></td><td>466</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/b4r10g7r70g7r4dp21r4g85r4g7r10b4/"><img src="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/sett.png" alt="Crieff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4/">District Tartan</a></td><td><code>Ri/4 R10 G7 R70 G7 R4 DP21 R4 G85 R4 G7 R10 Ri/4</code></td><td>466</td><td>—</td></tr>
+<tr><td><a href="/setts/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4/">District Tartan</a></td><td><code>Ri/4 R10 G7 R70 G7 R4 DP21 R4 G85 R4 G7 R10 Ri/4</code></td><td>466</td><td>1793</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4/"><img src="/variants/s13/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4~ri2406019-r2109032/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -22,7 +22,7 @@ The **Maitland** tartan groups 4 setts — the same named design recorded as dif
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/g3db8g3k4g9y2db2y2r2/">Maitland</a> · <a href="/variants/s9/g3db8g3k4g9y2db2y2r2~x2/">Maitland</a></td></tr>
 <tr><td><a href="/setts/g3db9g3k4g8y2db2y2r2/">Maitland</a></td><td><code>G/3 DB9 G3 K4 G8 Y2 DB2 Y2 R/2</code></td><td>65</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g3db9g3k4g8y2db2y2r2/"><img src="/variants/s9/g3db9g3k4g8y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g5db24g7k10g24y2db2y2r2/">Maitland</a></td><td><code>G/10 DB48 G14 K20 G48 Y4 DB4 Y4 R/4</code></td><td>298</td><td>—</td></tr>
+<tr><td><a href="/setts/g5db24g7k10g24y2db2y2r2/">Maitland</a></td><td><code>G/10 DB48 G14 K20 G48 Y4 DB4 Y4 R/4</code></td><td>298</td><td>1960</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g5db24g7k10g24y2db2y2r2/"><img src="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

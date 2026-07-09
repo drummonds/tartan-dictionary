@@ -1,5 +1,12 @@
 ---
 title: "Rainford (Personal)"
-redirect: "/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rainford (Personal)](/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/).
+This is the **Rainford (Personal)** sett — one scale-free proportion (`k12db10k3lt4k3db10k12dg12k2`), colour order pattern
+[KBKWKBKGK](/stripes/kbkwkbkgk/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Rainford (Personal)](/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/) ★ | 2006 | ![Rainford (Personal) sett](/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
-title: "Sinclair Hunting (VS)"
-redirect: "/variants/s7/r2db16w1k16g30r1g2~x2/"
+title: "Sinclair Hunting Clan Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sinclair Hunting (VS)](/variants/s7/r2db16w1k16g30r1g2~x2/).
+This is the **Sinclair Hunting Clan Tartan** sett — one scale-free proportion (`r2db16w1k16g30r1g2`), colour order pattern
+[GRGKWBR](/stripes/grgkwbr/). It is recorded as a single **variant**, below.
+First attested **1842**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Sinclair Hunting Clan Tartan](/variants/s7/r2db16w1k16g30r1g2~x2/) ★ | 1842 | ![Sinclair Hunting Clan Tartan sett](/variants/s7/r2db16w1k16g30r1g2~x2/sett.png) |

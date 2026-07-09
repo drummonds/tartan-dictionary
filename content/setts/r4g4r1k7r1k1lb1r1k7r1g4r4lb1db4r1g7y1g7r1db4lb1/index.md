@@ -1,5 +1,12 @@
 ---
 title: "Gordonstoun"
-redirect: "/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Gordonstoun](/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/).
+This is the **Gordonstoun** sett — one scale-free proportion (`r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1`), colour order pattern
+[RGRKRKWRKRGRWBRGGGRBW](/stripes/rgrkrkwrkrgrwbrgggrbw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Gordonstoun](/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/) ★ | ~2016 | ![Gordonstoun sett](/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/sett.png) |

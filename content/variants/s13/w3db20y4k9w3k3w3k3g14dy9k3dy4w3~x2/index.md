@@ -1,14 +1,16 @@
 ---
 title: "Clodagh Cork Irish District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Clodagh Cork Irish District Tartan"
-  url: ""
+  url: "/setts/w3db20y4k9w3k3w3k3g14dy9k3dy4w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3db20y4k9w3k3w3k3g14dy9k3dy4w3/)
-(the same proportion at any scale), whose colour order is pattern [WBGKWKWKGGKGW](/stripes/wbgkwkwkggkgw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w3db20y4k9w3k3w3k3g14dy9k3dy4w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGKWKWKGGKGW](/stripes/wbgkwkwkggkgw/).
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1970 In a letter from a Northern Irish bagpipe maker in 197
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1970 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.7" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/"><circle cx="16.2" cy="156.7" r="4" fill="#3465a4"><title>Dowling</title></circle></a><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="16.1" cy="151.8" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/"><circle cx="47.7" cy="125.9" r="4" fill="#3465a4"><title>Bowling Irish Family Tartan</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.7" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s16/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2~x2/"><circle cx="33.2" cy="152.0" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><circle cx="14.0" cy="169.2" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/"><circle cx="14.0" cy="150.7" r="4" fill="#3465a4"><title>Clodagh, Cork</title></circle></a><a href="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/"><circle cx="42.5" cy="148.6" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><circle cx="14.0" cy="154.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.5" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/"><circle cx="16.3" cy="156.6" r="4" fill="#3465a4"><title>Dowling</title></circle></a><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="16.1" cy="151.6" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/"><circle cx="47.7" cy="125.7" r="4" fill="#3465a4"><title>Bowling Irish Family Tartan</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.1" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.6" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s16/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2~x2/"><circle cx="33.2" cy="151.8" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><circle cx="14.0" cy="169.1" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/"><circle cx="14.0" cy="150.6" r="4" fill="#3465a4"><title>Clodagh, Cork</title></circle></a><a href="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/"><circle cx="42.5" cy="148.5" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><circle cx="14.0" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w3db20y4k9w3k3w3k3g14dy9k3dy4w3~x2/

@@ -1,16 +1,18 @@
 ---
 title: "Smithers (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Smithers"
   url: "/tartans/smithers/"
 - name: "Smithers (Name)"
-  url: ""
+  url: "/setts/dp2t6n1t3lb1t4k6g5k1g5dp2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2t6n1t3lb1t4k6g5k1g5dp2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBWBKGKGB](/stripes/bbbbwbkgkgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp2t6n1t3lb1t4k6g5k1g5dp2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWBKGKGB](/stripes/bbbbwbkgkgb/).
 
 Part of the [Smithers](/tartans/smithers/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp3db13n2db4w2db8k13g10k2g8dp3~x2/"><circle cx="81.2" cy="179.6" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/"><circle cx="46.0" cy="203.2" r="4" fill="#3465a4"><title>Huntly Gordon 2000</title></circle></a><a href="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/"><circle cx="40.2" cy="187.8" r="4" fill="#3465a4"><title>Smith of Pennilands (Clan)</title></circle></a><a href="/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2~lb3103284-t2405244/"><circle cx="36.6" cy="185.9" r="4" fill="#3465a4"><title>Leel (Personal)</title></circle></a><a href="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/"><circle cx="124.0" cy="198.2" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="101.8" cy="179.0" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.1" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.7" cy="186.8" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><a href="/variants/s14/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3~x4/"><circle cx="49.7" cy="182.3" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="80.5" cy="161.0" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><circle cx="68.1" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp3db13n2db4w2db8k13g10k2g8dp3~x2/"><circle cx="81.2" cy="179.5" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/"><circle cx="46.0" cy="203.2" r="4" fill="#3465a4"><title>Huntly Gordon 2000</title></circle></a><a href="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/"><circle cx="40.2" cy="187.7" r="4" fill="#3465a4"><title>Smith of Pennilands (Clan)</title></circle></a><a href="/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2~lb3103284-t2405244/"><circle cx="36.7" cy="185.8" r="4" fill="#3465a4"><title>Leel (Personal)</title></circle></a><a href="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/"><circle cx="124.0" cy="198.1" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="101.8" cy="178.9" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.0" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.8" cy="186.7" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><a href="/variants/s14/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3~x4/"><circle cx="49.7" cy="182.2" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="80.5" cy="160.9" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><circle cx="68.1" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/

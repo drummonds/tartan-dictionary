@@ -1,5 +1,12 @@
 ---
 title: "Superfast Ferries (Corporate)"
-redirect: "/variants/s6/db1r16db6y4db6w1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Superfast Ferries (Corporate)](/variants/s6/db1r16db6y4db6w1~x4/).
+This is the **Superfast Ferries (Corporate)** sett — one scale-free proportion (`db1r16db6y4db6w1`), colour order pattern
+[BRBGBW](/stripes/brbgbw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Superfast Ferries (Corporate)](/variants/s6/db1r16db6y4db6w1~x4/) ★ | 2002 | ![Superfast Ferries (Corporate) sett](/variants/s6/db1r16db6y4db6w1~x4/sett.png) |

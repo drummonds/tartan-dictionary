@@ -1,14 +1,16 @@
 ---
 title: "Western Australia (Scottish Associations)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Western Australia (Scottish Associations)"
-  url: ""
+  url: "/setts/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/)
-(the same proportion at any scale), whose colour order is pattern [BKGRWGKWKWKWK](/stripes/bkgrwgkwkwkwk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGRWGKWKWKWK](/stripes/bkgrwgkwkwkwk/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5ly3k3db14/"><circle cx="397.0" cy="14.0" r="4" fill="#3465a4"><title>Western Australia-Pending (District)</title></circle></a><a href="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/"><circle cx="339.2" cy="62.3" r="4" fill="#3465a4"><title>Thin Blue Line UK</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="387.7" cy="36.3" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.3" cy="35.1" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s9/k76db1k2lb1g14dr5k13o1lo1~x2~db2006246-lb3200000/"><circle cx="363.3" cy="14.0" r="4" fill="#3465a4"><title>Royal Canadian Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s13/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5~x2/"><circle cx="415.8" cy="14.0" r="4" fill="#3465a4"><title>New World Celts (Corporate)</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="359.4" cy="29.1" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.4" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><circle cx="431.1" cy="63.7" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="348.3" cy="45.5" r="4" fill="#3465a4"><title>Stewart/Stuart (Black)</title></circle></a><circle cx="397.1" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5ly3k3db14/"><circle cx="397.0" cy="14.0" r="4" fill="#3465a4"><title>Western Australia-Pending (District)</title></circle></a><a href="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/"><circle cx="339.2" cy="62.1" r="4" fill="#3465a4"><title>Thin Blue Line UK</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="387.7" cy="36.1" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.3" cy="34.9" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s9/k76db1k2lb1g14dr5k13o1lo1~x2~db2006246-lb3200000/"><circle cx="363.3" cy="14.0" r="4" fill="#3465a4"><title>Royal Canadian Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s13/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5~x2/"><circle cx="415.8" cy="14.0" r="4" fill="#3465a4"><title>New World Celts (Corporate)</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="359.4" cy="28.9" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.2" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><circle cx="431.1" cy="63.5" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="348.3" cy="45.3" r="4" fill="#3465a4"><title>Stewart/Stuart (Black)</title></circle></a><circle cx="397.1" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/

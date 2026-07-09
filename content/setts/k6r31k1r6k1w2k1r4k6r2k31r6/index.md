@@ -1,5 +1,12 @@
 ---
 title: "University of Georgia (Corporate)"
-redirect: "/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [University of Georgia (Corporate)](/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/).
+This is the **University of Georgia (Corporate)** sett — one scale-free proportion (`k6r31k1r6k1w2k1r4k6r2k31r6`), colour order pattern
+[KRKRKWKRKRKR](/stripes/krkrkwkrkrkr/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [University of Georgia (Corporate)](/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/) ★ | 2008 | ![University of Georgia (Corporate) sett](/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/sett.png) |

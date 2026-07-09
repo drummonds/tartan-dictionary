@@ -1,14 +1,16 @@
 ---
 title: "MacFarlane"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacFarlane"
-  url: ""
+  url: "/setts/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21/)
-(the same proportion at any scale), whose colour order is pattern [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbgwrkrwgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbgwrkrwgkr/).
 
 Sourced from logan-1831.  It is a [27 stripe tartan](/stripes/stripes27/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **MacFarlane** name adjusted Logan's counts: [MacFarlane (Lord Lyon sett)](/setts/s14/r42k1g12w2r3k1r3w2g2b12k4r3w4g3~b780078-g285800-k101010-ra00048-we0e0e0~x2/); [MacFarlane Dress](/setts/s15/b4w2r6k1b12g4b2r6b1r6w2g8r2w16r4~b202060-g003820-k101010-rc80000-wfcfcfc~x2/); [MacFarlane Hunting (MacGregor Hastie)](/setts/s14/g42k2g12w2r3k2r3w2k2b12k4r3w4k3~b440044-g006428-k101010-rc80000-wfcfcfc~x2/); [MacFarlane Red](/setts/s14/r98k3g21w5r5k2r5w5g2b21k7r7w8g4~b202060-g006428-k101010-rc80000-wfcfcfc/). Compare their thread counts with Logan's above.
+Later records of the **MacFarlane** name adjusted Logan's counts: [MacFarlane (Lord Lyon sett)](/variants/s14/r42k1dg12w2r3k1r3w2dg2dp12k4r3w4dg3~x2/); [MacFarlane Dress](/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/); [MacFarlane Hunting (MacGregor Hastie)](/variants/s14/dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2/); [MacFarlane Red](/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/"><circle cx="200.5" cy="14.0" r="4" fill="#3465a4"><title>Hawick (Trade Sett)</title></circle></a><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><circle cx="183.6" cy="25.8" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/"><circle cx="266.3" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #13</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2db12k4r3w4g3/"><circle cx="281.7" cy="39.3" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3~x2/"><circle cx="287.1" cy="39.3" r="4" fill="#3465a4"><title>Lendrum (Clan)</title></circle></a><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><circle cx="252.3" cy="39.3" r="4" fill="#3465a4"><title>Wood Dress</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29b15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="258.0" cy="21.5" r="4" fill="#3465a4"><title>Unidentified Plaid 4</title></circle></a><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/"><circle cx="221.8" cy="17.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Ardshiel</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29lb15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="256.1" cy="20.8" r="4" fill="#3465a4"><title>Unidentified Plaid #8</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.1" cy="27.5" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><circle cx="231.8" cy="20.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/"><circle cx="200.5" cy="14.0" r="4" fill="#3465a4"><title>Hawick (Trade Sett)</title></circle></a><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><circle cx="183.6" cy="25.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/"><circle cx="266.2" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #13</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2db12k4r3w4g3/"><circle cx="281.6" cy="39.1" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3~x2/"><circle cx="287.1" cy="39.1" r="4" fill="#3465a4"><title>Lendrum (Clan)</title></circle></a><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><circle cx="252.3" cy="39.1" r="4" fill="#3465a4"><title>Wood Dress</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29b15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="258.0" cy="21.2" r="4" fill="#3465a4"><title>Unidentified Plaid 4</title></circle></a><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/"><circle cx="221.7" cy="17.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Ardshiel</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29lb15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="256.0" cy="20.6" r="4" fill="#3465a4"><title>Unidentified Plaid #8</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.0" cy="27.3" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><circle cx="231.8" cy="20.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/

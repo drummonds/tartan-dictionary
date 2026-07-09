@@ -1,5 +1,12 @@
 ---
 title: "All Irish Green Irish District Tartan"
-redirect: "/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [All Irish Green Irish District Tartan](/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/).
+This is the **All Irish Green Irish District Tartan** sett — one scale-free proportion (`dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4`), colour order pattern
+[BGYGYGYGYGBGG](/stripes/bgygygygygbgg/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [All Irish Green Irish District Tartan](/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/) ★ | 1997 | ![All Irish Green Irish District Tartan sett](/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/sett.png) |

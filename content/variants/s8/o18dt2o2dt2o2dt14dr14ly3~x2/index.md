@@ -1,14 +1,16 @@
 ---
 title: "Talladale"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Talladale"
-  url: ""
+  url: "/setts/o18dt2o2dt2o2dt14dr14ly3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o18dt2o2dt2o2dt14dr14ly3/)
-(the same proportion at any scale), whose colour order is pattern [RBRBRBBY](/stripes/rbrbrbby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o18dt2o2dt2o2dt14dr14ly3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBRBBY](/stripes/rbrbrbby/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><circle cx="245.2" cy="178.5" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><circle cx="285.7" cy="196.9" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.3" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s8/r5dg12o4db4o22dg3o4r5/"><circle cx="310.6" cy="226.8" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.9" cy="221.9" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s9/b3do2o14g17do14b8o14do2b3~x2/"><circle cx="227.9" cy="242.4" r="4" fill="#3465a4"><title>Monaghan</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="315.4" cy="205.5" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/variants/s8/do9o9b9r1db1o9db1r1~x4/"><circle cx="267.8" cy="214.3" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="221.3" cy="216.0" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/"><circle cx="211.6" cy="207.8" r="4" fill="#3465a4"><title>Highland Village</title></circle></a><circle cx="267.5" cy="219.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><circle cx="245.2" cy="178.4" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><circle cx="285.8" cy="196.9" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.2" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s8/r5dg12o4db4o22dg3o4r5/"><circle cx="310.7" cy="226.7" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.9" cy="221.8" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s9/b3do2o14g17do14b8o14do2b3~x2/"><circle cx="228.0" cy="242.3" r="4" fill="#3465a4"><title>Monaghan</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="315.4" cy="205.4" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/variants/s8/do9o9b9r1db1o9db1r1~x4/"><circle cx="267.9" cy="214.3" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="221.3" cy="215.9" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/"><circle cx="211.6" cy="207.7" r="4" fill="#3465a4"><title>Highland Village</title></circle></a><circle cx="267.6" cy="219.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/

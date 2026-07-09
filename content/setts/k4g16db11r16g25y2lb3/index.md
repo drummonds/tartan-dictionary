@@ -1,5 +1,12 @@
 ---
 title: "Mayo"
-redirect: "/variants/s7/k4g16db11r16g25y2lb3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Mayo](/variants/s7/k4g16db11r16g25y2lb3~x2/).
+This is the **Mayo** sett — one scale-free proportion (`k4g16db11r16g25y2lb3`), colour order pattern
+[KGBRGGW](/stripes/kgbrggw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Mayo](/variants/s7/k4g16db11r16g25y2lb3~x2/) ★ | ~2016 | ![Mayo sett](/variants/s7/k4g16db11r16g25y2lb3~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Oklahoma State University"
-redirect: "/variants/s4/lo80k52w7n12/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Oklahoma State University](/variants/s4/lo80k52w7n12/).
+This is the **Oklahoma State University** sett — one scale-free proportion (`lo80k52w7n12`), colour order pattern
+[BWKY](/stripes/bwky/). It is recorded as a single **variant**, below.
+First attested **2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Oklahoma State University](/variants/s4/lo80k52w7n12/) ★ | 2008 | ![Oklahoma State University sett](/variants/s4/lo80k52w7n12/sett.png) |

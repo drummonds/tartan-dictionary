@@ -1,5 +1,12 @@
 ---
 title: "Wilson's No.171"
-redirect: "/variants/s15/dy29g17k1w3k1ly2k10lb8dy4lb8k10ly2k1w3dy29~x2~w4000000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Wilson's No.171](/variants/s15/dy29g17k1w3k1ly2k10lb8dy4lb8k10ly2k1w3dy29~x2~w4000000/).
+This is the **Wilson's No.171** sett — one scale-free proportion (`dy29g17k1w3k1ly2k10lb8dy4lb8k10ly2k1w3dy29`), colour order pattern
+[GGKWKYKWGWKYKWGWKYKWGWKYKWKG](/stripes/ggkwkykwgwkykwgwkykwgwkykwkg/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Wilson's No.171](/variants/s15/dy29g17k1w3k1ly2k10lb8dy4lb8k10ly2k1w3dy29~x2~w4000000/) ★ | 2002 | ![Wilson's No.171 sett](/variants/s15/dy29g17k1w3k1ly2k10lb8dy4lb8k10ly2k1w3dy29~x2~w4000000/sett.png) |

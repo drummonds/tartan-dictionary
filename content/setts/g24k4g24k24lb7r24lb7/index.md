@@ -1,5 +1,12 @@
 ---
 title: "Unidentified Pinafore"
-redirect: "/variants/s7/g24k4g24k24lb7r24lb7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified Pinafore](/variants/s7/g24k4g24k24lb7r24lb7~x2/).
+This is the **Unidentified Pinafore** sett — one scale-free proportion (`g24k4g24k24lb7r24lb7`), colour order pattern
+[GKGKWRW](/stripes/gkgkwrw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Unidentified Pinafore](/variants/s7/g24k4g24k24lb7r24lb7~x2/) ★ | ~2016 | ![Unidentified Pinafore sett](/variants/s7/g24k4g24k24lb7r24lb7~x2/sett.png) |

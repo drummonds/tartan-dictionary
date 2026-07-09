@@ -1,14 +1,16 @@
 ---
 title: "Thompson, Megan Kate (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Thompson, Megan Kate (Personal)"
-  url: ""
+  url: "/setts/dp5r8p16w25r4lb4n3lp3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp5r8p16w25r4lb4n3lp3/)
-(the same proportion at any scale), whose colour order is pattern [BRBWRWBW](/stripes/brbwrwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dp5r8p16w25r4lb4n3lp3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBWRWBW](/stripes/brbwrwbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

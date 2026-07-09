@@ -1,14 +1,16 @@
 ---
 title: "Becker (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Becker (Name)"
-  url: ""
+  url: "/setts/lbi3lb2db3r3k3ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lbi3lb2db3r3k3ly1/)
-(the same proportion at any scale), whose colour order is pattern [WWBRKY](/stripes/wwbrky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lbi3lb2db3r3k3ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WWBRKY](/stripes/wwbrky/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r11db3dbi8w3y3g5k5~x4~db1004274-dbi1406275/"><circle cx="14.0" cy="213.9" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x8/"><circle cx="79.1" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x4/"><circle cx="79.1" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s6/dp15dpi15g15dg15k8w5~x2~dp1105325-dpi1607327/"><circle cx="14.0" cy="277.3" r="4" fill="#3465a4"><title>Williams, Edmund (Personal)</title></circle></a><a href="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="211.5" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="39.6" cy="194.8" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30dy8k16w18db16dy9/"><circle cx="14.0" cy="213.9" r="4" fill="#3465a4"><title>Tipperary County, Crest Range</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="52.1" cy="234.3" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s6/dp15o15g15dg15k8w5~x2/"><circle cx="14.0" cy="279.3" r="4" fill="#3465a4"><title>Williams, Edmund (Personal)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.9" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><circle cx="14.0" cy="272.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r11db3dbi8w3y3g5k5~x4~db1004274-dbi1406275/"><circle cx="14.0" cy="213.8" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x8/"><circle cx="79.2" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x4/"><circle cx="79.2" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s6/dp15dpi15g15dg15k8w5~x2~dp1105325-dpi1607327/"><circle cx="14.0" cy="277.3" r="4" fill="#3465a4"><title>Williams, Edmund (Personal)</title></circle></a><a href="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="211.4" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="39.7" cy="194.8" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30dy8k16w18db16dy9/"><circle cx="14.0" cy="213.9" r="4" fill="#3465a4"><title>Tipperary County, Crest Range</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="52.1" cy="234.3" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s6/dp15o15g15dg15k8w5~x2/"><circle cx="14.0" cy="279.3" r="4" fill="#3465a4"><title>Williams, Edmund (Personal)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.8" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><circle cx="14.0" cy="272.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/

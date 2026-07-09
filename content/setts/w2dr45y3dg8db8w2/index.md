@@ -1,5 +1,14 @@
 ---
 title: "Glencross (Moniaive) (Personal)"
-redirect: "/variants/s6/w2dr45y3dg8db8w2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Glencross (Moniaive) (Personal)](/variants/s6/w2dr45y3dg8db8w2~x2/).
+This is the **Glencross (Moniaive) (Personal)** sett — one scale-free proportion (`w2dr45y3dg8db8w2`), colour order pattern
+[WBGGBW](/stripes/wbggbw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+Part of the [Glencross](/tartans/glencross/) tartan — the named design grouping this sett with its kin.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Glencross (Moniaive) (Personal)](/variants/s6/w2dr45y3dg8db8w2~x2/) ★ | 2013 | ![Glencross (Moniaive) (Personal) sett](/variants/s6/w2dr45y3dg8db8w2~x2/sett.png) |

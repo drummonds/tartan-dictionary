@@ -1,5 +1,12 @@
 ---
 title: "Berwick, Orange (Fashion)"
-redirect: "/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Berwick, Orange (Fashion)](/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/).
+This is the **Berwick, Orange (Fashion)** sett — one scale-free proportion (`do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48`), colour order pattern
+[BRBKGKRKBBKBRBKBBKRKGKBRB](/stripes/brbkgkrkbbkbrbkbbkrkgkbrb/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Berwick, Orange (Fashion)](/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/) ★ | ~2002 | ![Berwick, Orange (Fashion) sett](/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/sett.png) |

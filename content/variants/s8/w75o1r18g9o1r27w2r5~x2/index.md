@@ -1,16 +1,18 @@
 ---
 title: "Unidentified, Ross-shire"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Ross-shire"
   url: "/tartans/unidentified-ross-shire/"
 - name: "Unidentified, Ross-shire"
-  url: ""
+  url: "/setts/w75o1r18g9o1r27w2r5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w75o1r18g9o1r27w2r5/)
-(the same proportion at any scale), whose colour order is pattern [RWRRGRRW](/stripes/rwrrgrrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w75o1r18g9o1r27w2r5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWRRGRRW](/stripes/rwrrgrrw/).
 
 Part of the [Unidentified Ross-shire](/tartans/unidentified-ross-shire/) tartan — the named design grouping this sett with its other cloths.
 
@@ -73,6 +75,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w75dy1r18g9dy1r27w2r5~x2/"><circle cx="371.0" cy="97.5" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><a href="/variants/s7/w80lb1r14lb9r24w2r4~x2/"><circle cx="441.0" cy="126.8" r="4" fill="#3465a4"><title>Unidentified Fisherwife's Plaid</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="336.8" cy="85.0" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="354.3" cy="81.4" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/"><circle cx="366.4" cy="115.3" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.5" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s8/w80k2r19w2dg19r22w2r4~x2/"><circle cx="315.4" cy="90.1" r="4" fill="#3465a4"><title>Wilsons' Blanket Pattern (Artefact)</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="283.0" cy="135.6" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><circle cx="306.3" cy="83.5" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><circle cx="366.2" cy="104.3" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="370.1" cy="96.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w75dy1r18g9dy1r27w2r5~x2/"><circle cx="371.0" cy="97.4" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><a href="/variants/s7/w80lb1r14lb9r24w2r4~x2/"><circle cx="441.0" cy="126.7" r="4" fill="#3465a4"><title>Unidentified Fisherwife's Plaid</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="336.8" cy="84.9" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="354.3" cy="81.3" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/"><circle cx="366.4" cy="115.2" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.3" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s8/w80k2r19w2dg19r22w2r4~x2/"><circle cx="315.4" cy="89.9" r="4" fill="#3465a4"><title>Wilsons' Blanket Pattern (Artefact)</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="283.0" cy="135.5" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><circle cx="306.2" cy="83.3" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><circle cx="366.2" cy="104.1" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="370.1" cy="95.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w75o1r18g9o1r27w2r5~x2/

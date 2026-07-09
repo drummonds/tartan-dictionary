@@ -1,5 +1,12 @@
 ---
 title: "U.S. Postal Service"
-redirect: "/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [U.S. Postal Service](/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/).
+This is the **U.S. Postal Service** sett — one scale-free proportion (`t10r5w2db2w2r2w2db2w2r5t10k2`), colour order pattern
+[BRWBWRWBWRBK](/stripes/brwbwrwbwrbk/). It is recorded as a single **variant**, below.
+First attested **1997**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [U.S. Postal Service](/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/) ★ | 1997 | ![U.S. Postal Service sett](/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/sett.png) |

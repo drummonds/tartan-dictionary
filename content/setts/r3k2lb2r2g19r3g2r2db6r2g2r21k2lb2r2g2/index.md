@@ -1,5 +1,12 @@
 ---
 title: "Stuart/Stewart of Appin #3"
-redirect: "/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stuart/Stewart of Appin #3](/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/).
+This is the **Stuart/Stewart of Appin #3** sett — one scale-free proportion (`r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2`), colour order pattern
+[GRWKRGRBRGRGRWKR](/stripes/grwkrgrbrgrgrwkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Stuart/Stewart of Appin #3](/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/) ★ | ~2016 | ![Stuart/Stewart of Appin #3 sett](/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/sett.png) |

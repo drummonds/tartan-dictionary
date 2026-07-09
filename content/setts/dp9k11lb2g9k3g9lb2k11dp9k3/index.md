@@ -1,5 +1,12 @@
 ---
 title: "Scott, Sir Walter"
-redirect: "/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scott, Sir Walter](/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/).
+This is the **Scott, Sir Walter** sett — one scale-free proportion (`dp9k11lb2g9k3g9lb2k11dp9k3`), colour order pattern
+[BKWGKGWKBK](/stripes/bkwgkgwkbk/). It is recorded as a single **variant**, below.
+First attested **1840**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scott, Sir Walter](/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/) ★ | 1840 | ![Scott, Sir Walter sett](/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/sett.png) |

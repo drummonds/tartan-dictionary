@@ -1,5 +1,12 @@
 ---
 title: "Bush Pilot"
-redirect: "/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Bush Pilot](/variants/s9/db1r20g6k6g6r1k6db20w1~x2/).
+This is the **Bush Pilot** sett — one scale-free proportion (`db1r20g6k6g6r1k6db20w1`), colour order pattern
+[BRGKGRKBW](/stripes/brgkgrkbw/). It is recorded as a single **variant**, below.
+First attested **2006**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Bush Pilot](/variants/s9/db1r20g6k6g6r1k6db20w1~x2/) ★ | 2006 | ![Bush Pilot sett](/variants/s9/db1r20g6k6g6r1k6db20w1~x2/sett.png) |

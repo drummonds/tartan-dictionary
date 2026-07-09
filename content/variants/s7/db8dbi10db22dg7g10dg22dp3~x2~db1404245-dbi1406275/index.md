@@ -1,14 +1,16 @@
 ---
 title: "Baron of Crawfordjohn (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Baron of Crawfordjohn (Personal)"
-  url: ""
+  url: "/setts/db8dbi10db22dg7g10dg22dp3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8dbi10db22dg7g10dg22dp3/)
-(the same proportion at any scale), whose colour order is pattern [BBBGGGB](/stripes/bbbgggb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db8dbi10db22dg7g10dg22dp3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBGGGB](/stripes/bbbgggb/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2~dr1305012-r1606028/"><circle cx="249.7" cy="190.0" r="4" fill="#3465a4"><title>Scottish Lion (Corporate)</title></circle></a><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/"><circle cx="299.4" cy="287.1" r="4" fill="#3465a4"><title>Crawfordjohn Personal Tartan</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="208.1" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s7/do6dg6dy1dg6do5t6do1~x4/"><circle cx="332.6" cy="329.7" r="4" fill="#3465a4"><title>Gleneagles (Corporate)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s5/b9t6w1g4b2~x8/"><circle cx="381.1" cy="303.3" r="4" fill="#3465a4"><title>Cathro (Name)</title></circle></a><a href="/variants/s4/dr1dg3db3dg1~x4/"><circle cx="430.7" cy="366.0" r="4" fill="#3465a4"><title>Barwell</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.1" cy="268.4" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/"><circle cx="368.4" cy="249.8" r="4" fill="#3465a4"><title>Protheroe (Welsh Name)</title></circle></a><circle cx="315.8" cy="303.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2~dr1305012-r1606028/"><circle cx="249.7" cy="189.9" r="4" fill="#3465a4"><title>Scottish Lion (Corporate)</title></circle></a><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/"><circle cx="299.4" cy="287.1" r="4" fill="#3465a4"><title>Crawfordjohn Personal Tartan</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="208.0" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s7/do6dg6dy1dg6do5t6do1~x4/"><circle cx="332.6" cy="329.7" r="4" fill="#3465a4"><title>Gleneagles (Corporate)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s5/b9t6w1g4b2~x8/"><circle cx="381.1" cy="303.3" r="4" fill="#3465a4"><title>Cathro (Name)</title></circle></a><a href="/variants/s4/dr1dg3db3dg1~x4/"><circle cx="430.8" cy="366.0" r="4" fill="#3465a4"><title>Barwell</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.2" cy="268.3" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/"><circle cx="368.5" cy="249.7" r="4" fill="#3465a4"><title>Protheroe (Welsh Name)</title></circle></a><circle cx="315.8" cy="303.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/

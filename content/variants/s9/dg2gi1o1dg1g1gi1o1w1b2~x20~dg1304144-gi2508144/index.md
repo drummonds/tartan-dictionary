@@ -1,14 +1,16 @@
 ---
 title: "Stirling"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Stirling"
-  url: ""
+  url: "/setts/dg2gi1o1dg1g1gi1o1w1b2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2gi1o1dg1g1gi1o1w1b2/)
-(the same proportion at any scale), whose colour order is pattern [BWRGGGRGG](/stripes/bwrgggrgg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg2gi1o1dg1g1gi1o1w1b2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRGGGRGG](/stripes/bwrgggrgg/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

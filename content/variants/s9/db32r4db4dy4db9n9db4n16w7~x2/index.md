@@ -1,14 +1,16 @@
 ---
 title: "Nevada State American District Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Nevada State American District Tartan"
-  url: ""
+  url: "/setts/db32r4db4dy4db9n9db4n16w7/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db32r4db4dy4db9n9db4n16w7/)
-(the same proportion at any scale), whose colour order is pattern [BRBGBBBBW](/stripes/brbgbbbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db32r4db4dy4db9n9db4n16w7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBGBBBBW](/stripes/brbgbbbbw/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2001 Blue and Silver represent the state colours of Nevada.
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2001 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="292.0" cy="215.6" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.1" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.9" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><circle cx="280.7" cy="182.0" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.6" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/"><circle cx="266.3" cy="177.8" r="4" fill="#3465a4"><title>O Savaaoo</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.9" cy="192.6" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/"><circle cx="268.3" cy="190.5" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="302.2" cy="233.1" r="4" fill="#3465a4"><title>HMS Duncan Regimental Tartan</title></circle></a><a href="/variants/s7/db30t10lb10db5r3y3g3~x2/"><circle cx="253.7" cy="170.4" r="4" fill="#3465a4"><title>Wrigglesworth (Name)</title></circle></a><circle cx="275.6" cy="193.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="292.1" cy="215.5" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.0" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.8" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><circle cx="280.7" cy="182.0" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.6" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/"><circle cx="266.3" cy="177.6" r="4" fill="#3465a4"><title>O Savaaoo</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.9" cy="192.5" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/"><circle cx="268.3" cy="190.4" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="302.3" cy="233.1" r="4" fill="#3465a4"><title>HMS Duncan Regimental Tartan</title></circle></a><a href="/variants/s7/db30t10lb10db5r3y3g3~x2/"><circle cx="253.7" cy="170.3" r="4" fill="#3465a4"><title>Wrigglesworth (Name)</title></circle></a><circle cx="275.6" cy="193.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db32r4db4dy4db9n9db4n16w7~x2/

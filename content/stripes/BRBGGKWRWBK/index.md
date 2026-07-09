@@ -30,8 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/">Stinson (Name)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/"><img src="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/sett.png" alt="Stinson (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/">Stinson, Ancient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/"><img src="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/sett.png" alt="Stinson, Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/">Stinson Ancient U.S.A. Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/"><img src="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/sett.png" alt="Stinson Ancient U.S.A. Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

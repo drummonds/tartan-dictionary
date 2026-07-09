@@ -1,14 +1,16 @@
 ---
 title: "Bird Family (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bird Family (Personal)"
-  url: ""
+  url: "/setts/ly4k28ly2db7w3r9g2w4g2k2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4k28ly2db7w3r9g2w4g2k2/)
-(the same proportion at any scale), whose colour order is pattern [KGWGRWBYKY](/stripes/kgwgrwbyky/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly4k28ly2db7w3r9g2w4g2k2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGWGRWBYKY](/stripes/kgwgrwbyky/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo4k28lo2db7w3k9y2w4y2k2~x2~lo3006076-y2505139/"><circle cx="156.3" cy="99.9" r="4" fill="#3465a4"><title>Bird Family (Wales) (Personal)</title></circle></a><a href="/variants/s11/ly9k8ly30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><circle cx="132.0" cy="114.7" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="131.5" cy="76.6" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="145.4" cy="110.1" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.6" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s11/y8k16lb8k52lb6k5w27dr20g14k5lb6/"><circle cx="119.1" cy="128.1" r="4" fill="#3465a4"><title>Sligo County, Crest Range</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.3" cy="112.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/"><circle cx="118.6" cy="127.6" r="4" fill="#3465a4"><title>Sligo County Crest (Fashion)</title></circle></a><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="148.9" cy="83.9" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.4" cy="120.8" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><circle cx="155.5" cy="97.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo4k28lo2db7w3k9y2w4y2k2~x2~lo3006076-y2505139/"><circle cx="156.4" cy="99.7" r="4" fill="#3465a4"><title>Bird Family (Wales) (Personal)</title></circle></a><a href="/variants/s11/ly9k8ly30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><circle cx="132.0" cy="114.6" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="131.5" cy="76.5" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="145.4" cy="110.0" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.5" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s11/y8k16lb8k52lb6k5w27dr20g14k5lb6/"><circle cx="119.1" cy="128.0" r="4" fill="#3465a4"><title>Sligo County, Crest Range</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.4" cy="112.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/"><circle cx="118.6" cy="127.5" r="4" fill="#3465a4"><title>Sligo County Crest (Fashion)</title></circle></a><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="148.9" cy="83.7" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.5" cy="120.7" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><circle cx="155.5" cy="97.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/

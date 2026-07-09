@@ -1,16 +1,18 @@
 ---
 title: "Scottish Hockey Union"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Hockey Union"
   url: "/tartans/scottish-hockey-union/"
 - name: "Scottish Hockey Union"
-  url: ""
+  url: "/setts/db50k10db6k10db6dg5lp5dg5o8dg23w5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db50k10db6k10db6dg5lp5dg5o8dg23w5/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBGWGRGWGRGWGBKBK](/stripes/bkbkbgwgrgwgrgwgbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db50k10db6k10db6dg5lp5dg5o8dg23w5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBGWGRGWGRGWGBKBK](/stripes/bkbkbgwgrgwgrgwgbkbk/).
 
 Part of the [Scottish Hockey Union](/tartans/scottish-hockey-union/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3~x2/"><circle cx="122.2" cy="124.3" r="4" fill="#3465a4"><title>Yeomans (2016)</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"><circle cx="89.5" cy="112.9" r="4" fill="#3465a4"><title>MacNicol Hunting</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10~x2/"><circle cx="89.5" cy="112.9" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="135.1" cy="115.8" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2~x2/"><circle cx="91.1" cy="110.5" r="4" fill="#3465a4"><title>Ferrazza in Guidonia, Rome (Personal)</title></circle></a><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/"><circle cx="120.0" cy="87.1" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s23/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3~x2/"><circle cx="107.5" cy="92.0" r="4" fill="#3465a4"><title>Wood Clan/Family Tartan</title></circle></a><a href="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><circle cx="65.4" cy="108.9" r="4" fill="#3465a4"><title>MacDonald of Pr Edward Island Tartan</title></circle></a><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><circle cx="98.4" cy="126.4" r="4" fill="#3465a4"><title>Gotts (Personal)</title></circle></a><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><circle cx="123.7" cy="123.3" r="4" fill="#3465a4"><title>Renton (Personal)</title></circle></a><circle cx="113.7" cy="118.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3~x2/"><circle cx="122.2" cy="124.1" r="4" fill="#3465a4"><title>Yeomans (2016)</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"><circle cx="89.5" cy="112.7" r="4" fill="#3465a4"><title>MacNicol Hunting</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10~x2/"><circle cx="89.5" cy="112.7" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="135.1" cy="115.6" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2~x2/"><circle cx="91.2" cy="110.3" r="4" fill="#3465a4"><title>Ferrazza in Guidonia, Rome (Personal)</title></circle></a><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/"><circle cx="120.0" cy="86.9" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s23/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3~x2/"><circle cx="107.5" cy="91.8" r="4" fill="#3465a4"><title>Wood Clan/Family Tartan</title></circle></a><a href="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><circle cx="65.4" cy="108.7" r="4" fill="#3465a4"><title>MacDonald of Pr Edward Island Tartan</title></circle></a><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><circle cx="98.4" cy="126.3" r="4" fill="#3465a4"><title>Gotts (Personal)</title></circle></a><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><circle cx="123.7" cy="123.2" r="4" fill="#3465a4"><title>Renton (Personal)</title></circle></a><circle cx="113.7" cy="117.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db50k10db6k10db6dg5lp5dg5o8dg23w5~x2~db1204274-dg1405139/

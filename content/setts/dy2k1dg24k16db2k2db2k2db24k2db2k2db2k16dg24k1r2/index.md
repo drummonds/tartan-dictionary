@@ -1,5 +1,12 @@
 ---
 title: "St. Mary's Help of... (School)"
-redirect: "/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [St. Mary's Help of... (School)](/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/).
+This is the **St. Mary's Help of... (School)** sett — one scale-free proportion (`dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2`), colour order pattern
+[GKGKBKBKBKBKBKGKR](/stripes/gkgkbkbkbkbkbkgkr/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [St. Mary's Help of... (School)](/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/) ★ | ~2002 | ![St. Mary's Help of... (School) sett](/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/sett.png) |

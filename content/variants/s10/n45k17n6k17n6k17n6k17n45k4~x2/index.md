@@ -1,14 +1,16 @@
 ---
 title: "Grey Spirit"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Grey Spirit"
-  url: ""
+  url: "/setts/n45k17n6k17n6k17n6k17n45k4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n45k17n6k17n6k17n6k17n45k4/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBK](/stripes/bkbkbkbkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n45k17n6k17n6k17n6k17n45k4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBK](/stripes/bkbkbkbkbk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="356.0" cy="157.9" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/"><circle cx="374.8" cy="133.4" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/"><circle cx="370.2" cy="132.1" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP (Corp)</title></circle></a><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><circle cx="309.3" cy="217.7" r="4" fill="#3465a4"><title>Grey Breton</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.4" cy="132.5" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="289.9" cy="198.3" r="4" fill="#3465a4"><title>MacLean (Black and White)</title></circle></a><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/"><circle cx="289.9" cy="198.3" r="4" fill="#3465a4"><title>MacLean, Black &amp; White</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.6" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s13/k11n2k11n20w2n20k7n1k7n1k7n11w1~x2/"><circle cx="295.5" cy="149.0" r="4" fill="#3465a4"><title>Westwood MacRock (Fashion)</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.7" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><circle cx="338.7" cy="197.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="356.0" cy="157.8" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/"><circle cx="374.8" cy="133.2" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/"><circle cx="370.3" cy="132.0" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP (Corp)</title></circle></a><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><circle cx="309.3" cy="217.6" r="4" fill="#3465a4"><title>Grey Breton</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.4" cy="132.4" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="289.9" cy="198.2" r="4" fill="#3465a4"><title>MacLean (Black and White)</title></circle></a><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/"><circle cx="289.9" cy="198.2" r="4" fill="#3465a4"><title>MacLean, Black &amp; White</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.5" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s13/k11n2k11n20w2n20k7n1k7n1k7n11w1~x2/"><circle cx="295.5" cy="148.9" r="4" fill="#3465a4"><title>Westwood MacRock (Fashion)</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.6" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><circle cx="338.7" cy="197.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/

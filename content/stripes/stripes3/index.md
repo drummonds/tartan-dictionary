@@ -68,7 +68,7 @@ weight: 3
 |---|---|---|
 | 0.05 | [Kincaid](/variants/s3/k11g17r3/) | weddslist |
 | 0.05 | [Kincaid](/variants/s3/k11g17r3~x2/) | weddslist |
-| 0.05 | [Kincaid, of Kincaid](/variants/s3/k4g6r1~x10/) | weddslist |
+| 0.05 | [Kincaid of Kincaid Family Tartan](/variants/s3/k4g6r1~x10/) | house-of-tartan |
 | 0.05 | [Wilson's, No 187](/variants/s3/k1g1r1~x8/) | weddslist |
 | 0.05 | [Wilson's, No 94](/variants/s3/k5g4r2~x2/) | weddslist |
 | 0.06 | [The Caledonian Hotel](/variants/s3/k27dg10r2~x4/) | weddslist |
@@ -80,7 +80,7 @@ weight: 3
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.09 | [Agnew](/variants/s3/db53g42r14~x2/) | register-of-tartans |
-| 0.09 | [Agnew](/variants/s3/db53g42r14/) | weddslist |
+| 0.09 | [Agnew Family Tartan](/variants/s3/db53g42r14/) | house-of-tartan |
 | 0.09 | [Ferguson](/variants/s3/db6g5r1~x4/) | register-of-tartans |
 | 0.09 | [Wilson's No 84, Ferguson](/variants/s3/db5g6r1~x4/) | weddslist |
 | 0.13 | [Nutwood](/variants/s3/r1y60t1~x2/) | register-of-tartans |
@@ -103,8 +103,8 @@ weight: 3
 |---|---|---|
 | 0.06 | [Silvicola (Corporate)](/variants/s3/k15y20w3~x2/) | tartans-authority |
 | 0.10 | [Glen Lyon (District)](/variants/s3/k5g4lb3~x2/) | tartans-authority |
-| 0.10 | [Glen Lyon, or Mull (No.53)](/variants/s3/k5g3lb2~x2/) | weddslist |
-| 0.10 | [Mull](/variants/s3/k5g4lb2~x2/) | register-of-tartans |
+| 0.10 | [Glen Lyon or Mull (No.53) District Tartan](/variants/s3/k5g3lb2~x2/) | house-of-tartan |
+| 0.10 | [Mull or Glenlyon District Tartan](/variants/s3/k5g4lb2~x2/) | house-of-tartan |
 | 0.11 | [Wilson's No.050](/variants/s3/k5g6lb1~x4/) | register-of-tartans |
 
 ### BGK
@@ -189,7 +189,7 @@ weight: 3
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.06 | [National Autistic Society Scotland](/variants/s3/r24dp16w3~x4/) | register-of-tartans |
-| 0.06 | [Dunbar of Pitgaveny (Clan)](/variants/s3/r1n19w1~x2/) | tartans-authority |
+| 0.06 | [Dunbar of Pitgaveny Family Tartan](/variants/s3/r1n19w1~x2/) | house-of-tartan |
 | 0.10 | [Stakis Hotels (Corporate)](/variants/s3/lb9db14r1~x4/) | tartans-authority |
 
 ### BWG
@@ -213,7 +213,7 @@ weight: 3
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Aquascutum](/variants/s3/db1w1r1~x22/) | tartans-authority |
+| 0.04 | [Aquascutum Trade Tartan](/variants/s3/db1w1r1~x22/) | house-of-tartan |
 | 0.07 | [Usa](/variants/s3/db1w1r1~x4/) | weddslist |
 
 ### GBK
@@ -245,7 +245,7 @@ weight: 3
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Scottish Watch](/variants/s3/r104g39y4/) | weddslist |
+| 0.11 | [Scottish Watch General Tartan](/variants/s3/r104g39y4/) | house-of-tartan |
 | 0.13 | [Glenmorangie Check](/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/) | register-of-tartans |
 
 ### GKG
@@ -382,7 +382,7 @@ weight: 3
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Ferguson - 1930 (Old)](/variants/s3/g17r2db15~x2/) | tartans-authority |
+| 0.09 | [Ferguson (Old) Clan Tartan](/variants/s3/g17r2db15~x2/) | house-of-tartan |
 
 ### BRW
 <a class="pat" href="/stripes/brw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BRW</span></a>

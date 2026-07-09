@@ -1,14 +1,16 @@
 ---
 title: "William Murdoch, (Scottish Gas)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "William Murdoch, (Scottish Gas)"
-  url: ""
+  url: "/setts/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4/)
-(the same proportion at any scale), whose colour order is pattern [BKBKBKBKWKBKBKB](/stripes/bkbkbkbkwkbkbkb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKWKBKBKB](/stripes/bkbkbkbkwkbkbkb/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/"><circle cx="130.5" cy="185.0" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><circle cx="143.3" cy="196.9" r="4" fill="#3465a4"><title>Poulter, Jet Black (Corporate)</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/"><circle cx="109.4" cy="200.8" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><circle cx="109.4" cy="200.8" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.7" cy="190.0" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/"><circle cx="62.5" cy="190.3" r="4" fill="#3465a4"><title>Palatine Union Personal Tartan</title></circle></a><a href="/variants/s13/lb12db3lb12db16k3db6k3db16r3db3y3k16db4~x2/"><circle cx="139.6" cy="180.7" r="4" fill="#3465a4"><title>Dempster (Name)</title></circle></a><a href="/variants/s15/db6k1db1k1db1k6lb6k1w1k1lb6k6db6k1r1~x4/"><circle cx="94.5" cy="157.9" r="4" fill="#3465a4"><title>MacKenzie Blue</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.5" cy="235.3" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.9" cy="242.6" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><circle cx="120.7" cy="200.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/"><circle cx="130.5" cy="184.9" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><circle cx="143.3" cy="196.8" r="4" fill="#3465a4"><title>Poulter, Jet Black (Corporate)</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/"><circle cx="109.4" cy="200.7" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><circle cx="109.4" cy="200.7" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.8" cy="189.9" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/"><circle cx="62.5" cy="190.2" r="4" fill="#3465a4"><title>Palatine Union Personal Tartan</title></circle></a><a href="/variants/s13/lb12db3lb12db16k3db6k3db16r3db3y3k16db4~x2/"><circle cx="139.6" cy="180.6" r="4" fill="#3465a4"><title>Dempster (Name)</title></circle></a><a href="/variants/s15/db6k1db1k1db1k6lb6k1w1k1lb6k6db6k1r1~x4/"><circle cx="94.5" cy="157.8" r="4" fill="#3465a4"><title>MacKenzie Blue</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.5" cy="235.3" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.9" cy="242.5" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><circle cx="120.7" cy="200.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/

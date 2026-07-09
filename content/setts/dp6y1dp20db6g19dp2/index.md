@@ -1,5 +1,12 @@
 ---
 title: "Discover Islay (District)"
-redirect: "/variants/s6/dp6y1dp20db6g19dp2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Discover Islay (District)](/variants/s6/dp6y1dp20db6g19dp2~x4/).
+This is the **Discover Islay (District)** sett — one scale-free proportion (`dp6y1dp20db6g19dp2`), colour order pattern
+[BGBBGB](/stripes/bgbbgb/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Discover Islay (District)](/variants/s6/dp6y1dp20db6g19dp2~x4/) ★ | ~2008 | ![Discover Islay (District) sett](/variants/s6/dp6y1dp20db6g19dp2~x4/sett.png) |

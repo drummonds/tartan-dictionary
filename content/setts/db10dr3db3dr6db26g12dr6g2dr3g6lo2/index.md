@@ -1,5 +1,12 @@
 ---
 title: "Law of Atholl (Personal)"
-redirect: "/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Law of Atholl (Personal)](/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/).
+This is the **Law of Atholl (Personal)** sett — one scale-free proportion (`db10dr3db3dr6db26g12dr6g2dr3g6lo2`), colour order pattern
+[BBBBBGBGBGY](/stripes/bbbbbgbgbgy/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Law of Atholl (Personal)](/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/) ★ | ~2002 | ![Law of Atholl (Personal) sett](/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/sett.png) |

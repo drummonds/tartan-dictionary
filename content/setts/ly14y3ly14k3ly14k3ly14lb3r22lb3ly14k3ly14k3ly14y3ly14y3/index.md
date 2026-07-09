@@ -1,5 +1,12 @@
 ---
 title: "Sutherland of Duffus"
-redirect: "/variants/s18/ly14y3ly14k3ly14k3ly14lb3r22lb3ly14k3ly14k3ly14y3ly14y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sutherland of Duffus](/variants/s18/ly14y3ly14k3ly14k3ly14lb3r22lb3ly14k3ly14k3ly14y3ly14y3~x2/).
+This is the **Sutherland of Duffus** sett — one scale-free proportion (`ly14y3ly14k3ly14k3ly14lb3r22lb3ly14k3ly14k3ly14y3ly14y3`), colour order pattern
+[GYGYKYKYWRWYKYKYGY](/stripes/gygykykywrwykykygy/). It is recorded as a single **variant**, below.
+First attested **1715**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Sutherland of Duffus](/variants/s18/ly14y3ly14k3ly14k3ly14lb3r22lb3ly14k3ly14k3ly14y3ly14y3~x2/) ★ | 1715 | ![Sutherland of Duffus sett](/variants/s18/ly14y3ly14k3ly14k3ly14lb3r22lb3ly14k3ly14k3ly14y3ly14y3~x2/sett.png) |

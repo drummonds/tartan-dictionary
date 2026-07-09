@@ -1,14 +1,16 @@
 ---
 title: "Thorburn (Lochcarron)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Thorburn (Lochcarron)"
-  url: ""
+  url: "/setts/db3lb14db3n16db34r3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3lb14db3n16db34r3/)
-(the same proportion at any scale), whose colour order is pattern [BWBBBR](/stripes/bwbbbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3lb14db3n16db34r3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBBBR](/stripes/bwbbbr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t23db18w5db2r14db18~x2/"><circle cx="237.0" cy="238.4" r="4" fill="#3465a4"><title>Pitt (Glasgow)</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.1" cy="217.2" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s5/dbi10r1ly1db3ly2~x5~dbi1406275-db1204274/"><circle cx="337.7" cy="209.4" r="4" fill="#3465a4"><title>Lytley Hunting (Personal)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="181.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp3lb5~x2/"><circle cx="275.2" cy="191.6" r="4" fill="#3465a4"><title>Van Loo Tartan</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.8" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.3" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.3" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.2" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><circle cx="311.1" cy="206.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t23db18w5db2r14db18~x2/"><circle cx="237.0" cy="238.3" r="4" fill="#3465a4"><title>Pitt (Glasgow)</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.1" cy="217.2" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s5/dbi10r1ly1db3ly2~x5~dbi1406275-db1204274/"><circle cx="337.7" cy="209.4" r="4" fill="#3465a4"><title>Lytley Hunting (Personal)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.4" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.9" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp3lb5~x2/"><circle cx="275.2" cy="191.5" r="4" fill="#3465a4"><title>Van Loo Tartan</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.7" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.2" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.2" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.1" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><circle cx="311.1" cy="206.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db3lb14db3n16db34r3~x2/

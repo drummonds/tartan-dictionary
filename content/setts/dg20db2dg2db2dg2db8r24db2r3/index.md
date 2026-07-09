@@ -1,14 +1,14 @@
 ---
-title: "Lindsay"
+title: "Lindsay Clan Tartan"
 date: 2023-03-18
 ---
-The **Lindsay** tartan is one sett proportion (`dg20db2dg2db2dg2db8r24db2r3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GBGBGBRBR](/stripes/gbgbgbrbr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Lindsay Clan Tartan** sett — one scale-free proportion (`dg20db2dg2db2dg2db8r24db2r3`), colour order pattern
+[GBGBGBRBR](/stripes/gbgbgbrbr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1842**.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [Lindsay MINI Design Tartan](/variants/s9/dg20db2dg2db2dg2db8r24db2r3/) ★ | ~2016 | ![Lindsay MINI Design Tartan sett](/variants/s9/dg20db2dg2db2dg2db8r24db2r3/sett.png) |
-| ×2 | [Lindsay](/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/) | ~2016 | ![Lindsay sett](/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/sett.png) |
+| ×2 | [Lindsay Clan Tartan](/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/) ★ | 1842 | ![Lindsay Clan Tartan sett](/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/sett.png) |
+| ×1 | [Lindsay MINI Design Tartan](/variants/s9/dg20db2dg2db2dg2db8r24db2r3/) | ~2016 | ![Lindsay MINI Design Tartan sett](/variants/s9/dg20db2dg2db2dg2db8r24db2r3/sett.png) |

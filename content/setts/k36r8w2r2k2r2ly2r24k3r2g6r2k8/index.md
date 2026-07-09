@@ -1,5 +1,12 @@
 ---
 title: "MacKeever (Personal)"
-redirect: "/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacKeever (Personal)](/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/).
+This is the **MacKeever (Personal)** sett — one scale-free proportion (`k36r8w2r2k2r2ly2r24k3r2g6r2k8`), colour order pattern
+[KRGRKRYRKRWRK](/stripes/krgrkryrkrwrk/). It is recorded as a single **variant**, below.
+First attested **1972**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacKeever (Personal)](/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/) ★ | 1972 | ![MacKeever (Personal) sett](/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/sett.png) |

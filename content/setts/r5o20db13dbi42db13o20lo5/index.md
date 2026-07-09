@@ -1,5 +1,12 @@
 ---
 title: "Newmill Corporate Tartan"
-redirect: "/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Newmill Corporate Tartan](/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/).
+This is the **Newmill Corporate Tartan** sett — one scale-free proportion (`r5o20db13dbi42db13o20lo5`), colour order pattern
+[RRBBBRY](/stripes/rrbbbry/). It is recorded as a single **variant**, below.
+First attested **1992**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Newmill Corporate Tartan](/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/) ★ | 1992 | ![Newmill Corporate Tartan sett](/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/sett.png) |

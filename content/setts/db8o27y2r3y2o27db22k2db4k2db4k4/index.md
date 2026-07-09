@@ -1,5 +1,12 @@
 ---
 title: "Falkirk"
-redirect: "/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Falkirk](/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/).
+This is the **Falkirk** sett — one scale-free proportion (`db8o27y2r3y2o27db22k2db4k2db4k4`), colour order pattern
+[BRGRGRBKBKBK](/stripes/brgrgrbkbkbk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Falkirk](/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/) ★ | ~2016 | ![Falkirk sett](/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/sett.png) |

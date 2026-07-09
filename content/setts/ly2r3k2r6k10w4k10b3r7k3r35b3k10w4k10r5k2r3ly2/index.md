@@ -1,5 +1,12 @@
 ---
 title: "Cornish Brewery, Red"
-redirect: "/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Cornish Brewery, Red](/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/).
+This is the **Cornish Brewery, Red** sett — one scale-free proportion (`ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2`), colour order pattern
+[YRKRKWKBRKRBKWKRKRY](/stripes/yrkrkwkbrkrbkwkrkry/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Cornish Brewery, Red](/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/) ★ | 2002 | ![Cornish Brewery, Red sett](/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/sett.png) |

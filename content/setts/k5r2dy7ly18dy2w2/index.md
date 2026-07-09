@@ -1,5 +1,12 @@
 ---
 title: "Shepherd, Derek (Piping)"
-redirect: "/variants/s6/k5r2dy7ly18dy2w2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Shepherd, Derek (Piping)](/variants/s6/k5r2dy7ly18dy2w2~x4/).
+This is the **Shepherd, Derek (Piping)** sett — one scale-free proportion (`k5r2dy7ly18dy2w2`), colour order pattern
+[KRGYGW](/stripes/krgygw/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Shepherd, Derek (Piping)](/variants/s6/k5r2dy7ly18dy2w2~x4/) ★ | 2010 | ![Shepherd, Derek (Piping) sett](/variants/s6/k5r2dy7ly18dy2w2~x4/sett.png) |

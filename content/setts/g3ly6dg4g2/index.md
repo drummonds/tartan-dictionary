@@ -1,5 +1,12 @@
 ---
 title: "Pilgrims (Bedford)"
-redirect: "/variants/s4/g3ly6dg4g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pilgrims (Bedford)](/variants/s4/g3ly6dg4g2~x2/).
+This is the **Pilgrims (Bedford)** sett — one scale-free proportion (`g3ly6dg4g2`), colour order pattern
+[GGYG](/stripes/ggyg/). It is recorded as a single **variant**, below.
+First attested **1999**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Pilgrims (Bedford)](/variants/s4/g3ly6dg4g2~x2/) ★ | 1999 | ![Pilgrims (Bedford) sett](/variants/s4/g3ly6dg4g2~x2/sett.png) |

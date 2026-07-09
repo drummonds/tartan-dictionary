@@ -1,5 +1,12 @@
 ---
 title: "Blue Castlefield"
-redirect: "/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Blue Castlefield](/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/).
+This is the **Blue Castlefield** sett — one scale-free proportion (`lr3k15db10o10k1g5k1y10k10g8k1db2`), colour order pattern
+[BKGKGKGKRBKY](/stripes/bkgkgkgkrbky/). It is recorded as a single **variant**, below.
+First attested **2010**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Blue Castlefield](/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/) ★ | 2010 | ![Blue Castlefield sett](/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/sett.png) |

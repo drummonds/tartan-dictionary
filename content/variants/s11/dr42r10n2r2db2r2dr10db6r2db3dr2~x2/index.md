@@ -1,14 +1,16 @@
 ---
 title: "Kirtle"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Kirtle"
-  url: ""
+  url: "/setts/dr42r10n2r2db2r2dr10db6r2db3dr2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr42r10n2r2db2r2dr10db6r2db3dr2/)
-(the same proportion at any scale), whose colour order is pattern [BBRBBRBRBRB](/stripes/bbrbbrbrbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr42r10n2r2db2r2dr10db6r2db3dr2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBBRBRBRB](/stripes/bbrbbrbrbrb/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/"><circle cx="445.7" cy="122.9" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/variants/s12/dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3~x2~dg1001060-dgi1603171/"><circle cx="475.9" cy="127.7" r="4" fill="#3465a4"><title>Tyrone Irish County Tartan</title></circle></a><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><circle cx="417.0" cy="172.1" r="4" fill="#3465a4"><title>Frame - Ferniegair (Personal)</title></circle></a><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/"><circle cx="525.3" cy="136.2" r="4" fill="#3465a4"><title>Fernie (Personal)</title></circle></a><circle cx="483.1" cy="134.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/"><circle cx="445.7" cy="122.7" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/variants/s12/dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3~x2~dg1001060-dgi1603171/"><circle cx="476.0" cy="127.6" r="4" fill="#3465a4"><title>Tyrone Irish County Tartan</title></circle></a><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><circle cx="417.0" cy="171.9" r="4" fill="#3465a4"><title>Frame - Ferniegair (Personal)</title></circle></a><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/"><circle cx="525.3" cy="136.1" r="4" fill="#3465a4"><title>Fernie (Personal)</title></circle></a><circle cx="483.1" cy="134.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr42r10n2r2db2r2dr10db6r2db3dr2~x2/

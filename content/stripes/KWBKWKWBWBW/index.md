@@ -37,8 +37,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/">Clergy Blue Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/"><img src="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/sett.png" alt="Clergy Blue Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/">Clark</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><img src="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/">Clark Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><img src="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/sett.png" alt="Clark Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

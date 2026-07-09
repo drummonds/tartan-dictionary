@@ -1,5 +1,12 @@
 ---
 title: "ChuMac (Personal)"
-redirect: "/variants/s5/g15y3r3dp8w2~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [ChuMac (Personal)](/variants/s5/g15y3r3dp8w2~x6/).
+This is the **ChuMac (Personal)** sett — one scale-free proportion (`g15y3r3dp8w2`), colour order pattern
+[GGRBW](/stripes/ggrbw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [ChuMac (Personal)](/variants/s5/g15y3r3dp8w2~x6/) ★ | 2013 | ![ChuMac (Personal) sett](/variants/s5/g15y3r3dp8w2~x6/sett.png) |

@@ -1,14 +1,16 @@
 ---
 title: "Bannockbane Grey #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane Grey #2"
-  url: ""
+  url: "/setts/n2dy2n15dy2w10ly15dy2ly2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2dy2n15dy2w10ly15dy2ly2/)
-(the same proportion at any scale), whose colour order is pattern [BGBGWYGY](/stripes/bgbgwygy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n2dy2n15dy2w10ly15dy2ly2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGWYGY](/stripes/bgbgwygy/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="238.4" cy="237.3" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="181.0" cy="211.4" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.5" cy="198.2" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/"><circle cx="157.5" cy="231.9" r="4" fill="#3465a4"><title>Toorak Chapler (Fashion)</title></circle></a><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/"><circle cx="214.1" cy="219.2" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/"><circle cx="176.8" cy="191.7" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="186.0" cy="205.2" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><circle cx="186.5" cy="209.6" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/"><circle cx="168.6" cy="216.5" r="4" fill="#3465a4"><title>Bannockbane Dark Green</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="205.5" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><circle cx="198.4" cy="226.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="238.4" cy="237.2" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="181.1" cy="211.4" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.5" cy="198.1" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/"><circle cx="157.5" cy="231.8" r="4" fill="#3465a4"><title>Toorak Chapler (Fashion)</title></circle></a><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/"><circle cx="214.1" cy="219.1" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/"><circle cx="176.8" cy="191.6" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="186.0" cy="205.1" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><circle cx="186.6" cy="209.5" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/"><circle cx="168.6" cy="216.5" r="4" fill="#3465a4"><title>Bannockbane Dark Green</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="205.4" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><circle cx="198.4" cy="226.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/

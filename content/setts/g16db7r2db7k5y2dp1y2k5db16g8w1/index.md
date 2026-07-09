@@ -1,5 +1,12 @@
 ---
 title: "Waipu (District)"
-redirect: "/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Waipu (District)](/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/).
+This is the **Waipu (District)** sett — one scale-free proportion (`g16db7r2db7k5y2dp1y2k5db16g8w1`), colour order pattern
+[GBRBKGBGKBGW](/stripes/gbrbkgbgkbgw/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Waipu (District)](/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/) ★ | 2004 | ![Waipu (District) sett](/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png) |

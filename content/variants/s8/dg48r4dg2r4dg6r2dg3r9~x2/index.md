@@ -1,14 +1,16 @@
 ---
 title: "Menzies (Clan)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Menzies (Clan)"
-  url: ""
+  url: "/setts/dg48r4dg2r4dg6r2dg3r9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg48r4dg2r4dg6r2dg3r9/)
-(the same proportion at any scale), whose colour order is pattern [GRGRGRGR](/stripes/grgrgrgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg48r4dg2r4dg6r2dg3r9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGRGR](/stripes/grgrgrgr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -22,7 +24,7 @@ Earliest known date: 1893 This sett is woven in various colours with the same ba
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>pre 1893 — Menzies (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=894">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This sett is woven in various colours with the same basic design. The certified version is red and black. The hunting Menzies was recorded by D.W. Stewart in his book, 'Old and Rare Scottish Tartans' (1893), which contained a selection of forty five setts, woven in silk, of special interest or antiquity.</em></li>
-<li>undated — Menzies Hunting Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=894">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
+<li>1893 — Menzies Hunting Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=894">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 </ul>
 </details>
 
@@ -72,6 +74,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="570.3" cy="170.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9/"><circle cx="570.3" cy="170.4" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="531.0" cy="153.1" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band (Corp)</title></circle></a><a href="/variants/s8/r54g6r5g6r10g3r2g18~x2/"><circle cx="521.7" cy="164.0" r="4" fill="#3465a4"><title>Kyle Green (Name)</title></circle></a><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="430.2" cy="175.5" r="4" fill="#3465a4"><title>Connell (Dalgliesh) (Personal)</title></circle></a><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="392.9" cy="154.4" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="459.0" cy="133.5" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.3" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/"><circle cx="579.9" cy="110.2" r="4" fill="#3465a4"><title>Old Spice (Corporate)</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="542.5" cy="173.7" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><circle cx="560.7" cy="158.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="570.3" cy="170.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9/"><circle cx="570.3" cy="170.3" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="531.0" cy="153.0" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band (Corp)</title></circle></a><a href="/variants/s8/r54g6r5g6r10g3r2g18~x2/"><circle cx="521.7" cy="163.9" r="4" fill="#3465a4"><title>Kyle Green (Name)</title></circle></a><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="430.2" cy="175.4" r="4" fill="#3465a4"><title>Connell (Dalgliesh) (Personal)</title></circle></a><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="392.9" cy="154.3" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="459.0" cy="133.3" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.2" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/"><circle cx="579.9" cy="110.1" r="4" fill="#3465a4"><title>Old Spice (Corporate)</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="542.5" cy="173.6" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><circle cx="560.7" cy="158.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg48r4dg2r4dg6r2dg3r9~x2/

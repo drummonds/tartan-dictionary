@@ -1,5 +1,12 @@
 ---
 title: "Colours of Hope"
-redirect: "/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Colours of Hope](/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/).
+This is the **Colours of Hope** sett — one scale-free proportion (`k3db28w2y2db1g4k8w3r4y10k2`), colour order pattern
+[KBWGBGKWRGK](/stripes/kbwgbgkwrgk/). It is recorded as a single **variant**, below.
+First attested **2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Colours of Hope](/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/) ★ | 2016 | ![Colours of Hope sett](/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/sett.png) |

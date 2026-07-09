@@ -1,14 +1,16 @@
 ---
 title: "Burberry Counterfeit"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Burberry Counterfeit"
-  url: ""
+  url: "/setts/o3w3k3ly10r1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o3w3k3ly10r1/)
-(the same proportion at any scale), whose colour order is pattern [RWKYR](/stripes/rwkyr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o3w3k3ly10r1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWKYR](/stripes/rwkyr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="204.8" cy="186.3" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="196.3" cy="195.5" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="206.1" cy="191.0" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan</title></circle></a><a href="/variants/s6/k5r2dy7ly18dy2w2~x4/"><circle cx="183.5" cy="166.1" r="4" fill="#3465a4"><title>Shepherd, Derek (Piping)</title></circle></a><a href="/variants/s5/k3w3k3y10r1~x6/"><circle cx="203.6" cy="195.3" r="4" fill="#3465a4"><title>(6) Burberry</title></circle></a><a href="/variants/s6/k5y2dy7ly18dy2w2~x4/"><circle cx="186.7" cy="169.7" r="4" fill="#3465a4"><title>Shepherd Piping (Personal)</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.2" cy="135.6" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="168.6" cy="193.9" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2/"><circle cx="155.3" cy="188.6" r="4" fill="#3465a4"><title>St. Andrews Bay Hotel (Corporate)</title></circle></a><a href="/variants/s6/lo13g8k5lb3w2r1~x4/"><circle cx="122.6" cy="161.8" r="4" fill="#3465a4"><title>Ball Htg (Name)</title></circle></a><circle cx="186.3" cy="191.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="204.9" cy="186.3" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="196.3" cy="195.5" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="206.1" cy="191.0" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan</title></circle></a><a href="/variants/s6/k5r2dy7ly18dy2w2~x4/"><circle cx="183.5" cy="166.0" r="4" fill="#3465a4"><title>Shepherd, Derek (Piping)</title></circle></a><a href="/variants/s5/k3w3k3y10r1~x6/"><circle cx="203.6" cy="195.2" r="4" fill="#3465a4"><title>(6) Burberry</title></circle></a><a href="/variants/s6/k5y2dy7ly18dy2w2~x4/"><circle cx="186.7" cy="169.6" r="4" fill="#3465a4"><title>Shepherd Piping (Personal)</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.3" cy="135.5" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="168.6" cy="193.8" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2/"><circle cx="155.3" cy="188.5" r="4" fill="#3465a4"><title>St. Andrews Bay Hotel (Corporate)</title></circle></a><a href="/variants/s6/lo13g8k5lb3w2r1~x4/"><circle cx="122.6" cy="161.7" r="4" fill="#3465a4"><title>Ball Htg (Name)</title></circle></a><circle cx="186.3" cy="191.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/

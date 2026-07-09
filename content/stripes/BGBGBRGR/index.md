@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/">Katsushika Scottish Country Dancers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><img src="/variants/s8/db22y2db1y2db10r2g11r6~x2/sett.png" alt="Katsushika Scottish Country Dancers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/">Katsushika Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><img src="/variants/s8/db22y2db1y2db10r2g11r6~x2/sett.png" alt="Katsushika Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

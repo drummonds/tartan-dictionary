@@ -1,16 +1,16 @@
 ---
-title: "Baird"
+title: "Baird (Modern)"
 date: 2023-03-18
 ---
-The **Baird** tartan is one sett proportion (`db3k2db8k8g8dp1g1dp3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BGBGKBKB](/stripes/bgbgkbkb/); each scale below is its own sett page. First attested **1880**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Baird (Modern)** sett — one scale-free proportion (`db3k2db8k8g8dp1g1dp3`), colour order pattern
+[BGBGKBKB](/stripes/bgbgkbkb/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1880**.
 
-Part of the [Baird](/tartans/baird/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Baird](/tartans/baird/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Baird (Modern)](/variants/s8/db3k2db8k8g8dp1g1dp3~x4/) ★ | 1880 | ![Baird (Modern) sett](/variants/s8/db3k2db8k8g8dp1g1dp3~x4/sett.png) |
-| ×2 | [Baird](/variants/s8/db3k2db8k8g8dp1g1dp3~x2/) | ~2016 | ![Baird sett](/variants/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png) |
+| ×2 | [Baird Clan Tartan](/variants/s8/db3k2db8k8g8dp1g1dp3~x2/) | 1906 | ![Baird Clan Tartan sett](/variants/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png) |

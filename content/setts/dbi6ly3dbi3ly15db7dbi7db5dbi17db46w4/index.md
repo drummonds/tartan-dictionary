@@ -1,5 +1,12 @@
 ---
 title: "Rhys Welsh Name Tartan"
-redirect: "/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi1204274-db0705267/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Rhys Welsh Name Tartan](/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi1204274-db0705267/).
+This is the **Rhys Welsh Name Tartan** sett — one scale-free proportion (`dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4`), colour order pattern
+[BYBYBBBBBW](/stripes/bybybbbbbw/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Rhys Welsh Name Tartan](/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi1204274-db0705267/) ★ | 2002 | ![Rhys Welsh Name Tartan sett](/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi1204274-db0705267/sett.png) |

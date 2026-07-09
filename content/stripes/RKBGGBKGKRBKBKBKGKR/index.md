@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/">Craig</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/"><img src="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/sett.png" alt="Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/">Craig Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/"><img src="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/sett.png" alt="Craig Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

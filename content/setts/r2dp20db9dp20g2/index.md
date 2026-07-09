@@ -1,5 +1,12 @@
 ---
 title: "Scottish Netball (1987) (Corporate)"
-redirect: "/variants/s5/r2dp20db9dp20g2~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scottish Netball (1987) (Corporate)](/variants/s5/r2dp20db9dp20g2~x2/).
+This is the **Scottish Netball (1987) (Corporate)** sett — one scale-free proportion (`r2dp20db9dp20g2`), colour order pattern
+[GBBBR](/stripes/gbbbr/). It is recorded as a single **variant**, below.
+First attested **1987**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scottish Netball (1987) (Corporate)](/variants/s5/r2dp20db9dp20g2~x2/) ★ | 1987 | ![Scottish Netball (1987) (Corporate) sett](/variants/s5/r2dp20db9dp20g2~x2/sett.png) |

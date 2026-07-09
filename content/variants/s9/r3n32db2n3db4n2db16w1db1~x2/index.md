@@ -1,14 +1,16 @@
 ---
 title: "Dauphinee, Andrew Hunter (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Dauphinee, Andrew Hunter (Personal)"
-  url: ""
+  url: "/setts/r3n32db2n3db4n2db16w1db1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3n32db2n3db4n2db16w1db1/)
-(the same proportion at any scale), whose colour order is pattern [BWBBBBBBR](/stripes/bwbbbbbbr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r3n32db2n3db4n2db16w1db1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBR](/stripes/bwbbbbbbr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><circle cx="352.6" cy="166.4" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.4" cy="194.5" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.1" cy="187.8" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.6" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/variants/s7/n37ly2r6ly2n8db49n3~x2/"><circle cx="377.5" cy="173.2" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><circle cx="399.6" cy="177.4" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/"><circle cx="429.6" cy="144.2" r="4" fill="#3465a4"><title>Pagus Wasia District Tartan</title></circle></a><a href="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/"><circle cx="487.5" cy="128.1" r="4" fill="#3465a4"><title>Dark Lochnagar</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2/"><circle cx="385.0" cy="142.7" r="4" fill="#3465a4"><title>Hebridean Heather (Fashion)</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.1" cy="148.6" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><circle cx="454.0" cy="141.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><circle cx="352.6" cy="166.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.4" cy="194.4" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.1" cy="187.7" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.4" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/variants/s7/n37ly2r6ly2n8db49n3~x2/"><circle cx="377.6" cy="173.1" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><circle cx="399.6" cy="177.3" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/"><circle cx="429.6" cy="144.0" r="4" fill="#3465a4"><title>Pagus Wasia District Tartan</title></circle></a><a href="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/"><circle cx="487.5" cy="128.0" r="4" fill="#3465a4"><title>Dark Lochnagar</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2/"><circle cx="385.0" cy="142.5" r="4" fill="#3465a4"><title>Hebridean Heather (Fashion)</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.2" cy="148.5" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><circle cx="454.0" cy="141.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r3n32db2n3db4n2db16w1db1~x2/

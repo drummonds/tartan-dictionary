@@ -2,16 +2,16 @@
 title: "Robertson"
 date: 2023-03-18
 ---
-The **Robertson** tartan is one sett proportion (`r1g1r9db1r1g9r1db9r1g1r9g1r1`) recorded at 3 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[RGRBRGRBRGRGR](/stripes/rgrbrgrbrgrgr/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Robertson** sett — one scale-free proportion (`r1g1r9db1r1g9r1db9r1g1r9g1r1`), colour order pattern
+[RGRBRGRBRGRGR](/stripes/rgrbrgrbrgrgr/). It is recorded as **3 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1831**.
 
-Part of the [Robertson](/tartans/robertson/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Robertson](/tartans/robertson/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
-| ×1 | [Robertson](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/) ★ | ~2016 | ![Robertson sett](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/sett.png) |
+| ×4 | [Robertson Clan Tartan](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/) ★ | 1831 | ![Robertson Clan Tartan sett](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/sett.png) |
+| ×1 | [Robertson](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/) | ~2016 | ![Robertson sett](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/sett.png) |
 | ×2 | [Robertson](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x2/) | ~2016 | ![Robertson sett](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x2/sett.png) |
-| ×4 | [Robertson #3](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/) | ~2016 | ![Robertson #3 sett](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Yes Scotland"
-redirect: "/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Yes Scotland](/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/).
+This is the **Yes Scotland** sett — one scale-free proportion (`lb12g4dp4g4lb31n3db12w4`), colour order pattern
+[WBBWGBGW](/stripes/wbbwgbgw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Yes Scotland](/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/) ★ | 2013 | ![Yes Scotland sett](/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/sett.png) |

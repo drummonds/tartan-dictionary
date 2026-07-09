@@ -1,14 +1,16 @@
 ---
 title: "St. George's School (Birmingham)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "St. George's School (Birmingham)"
-  url: ""
+  url: "/setts/r4db21w2db20dbi21db2dbi2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4db21w2db20dbi21db2dbi2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBWBRBWBBB](/stripes/bbbbwbrbwbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r4db21w2db20dbi21db2dbi2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWBRBWBBB](/stripes/bbbbwbrbwbbb/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1406275-db1204274/"><circle cx="560.7" cy="193.3" r="4" fill="#3465a4"><title>S.C.O.T.S. U.S.A. Tartan</title></circle></a><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><circle cx="566.0" cy="293.3" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Htg Family Tartan</title></circle></a><a href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/"><circle cx="479.8" cy="256.3" r="4" fill="#3465a4"><title>Brash</title></circle></a><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><circle cx="492.4" cy="249.1" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/"><circle cx="495.9" cy="209.2" r="4" fill="#3465a4"><title>Hughes Welsh Name Tartan</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.2" cy="219.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.4" cy="287.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/"><circle cx="500.2" cy="213.1" r="4" fill="#3465a4"><title>US Navy Edzell</title></circle></a><circle cx="489.1" cy="246.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1406275-db1204274/"><circle cx="560.7" cy="193.2" r="4" fill="#3465a4"><title>S.C.O.T.S. U.S.A. Tartan</title></circle></a><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><circle cx="566.0" cy="293.3" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Htg Family Tartan</title></circle></a><a href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/"><circle cx="479.9" cy="256.2" r="4" fill="#3465a4"><title>Brash</title></circle></a><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><circle cx="492.4" cy="249.1" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/"><circle cx="496.0" cy="209.1" r="4" fill="#3465a4"><title>Hughes Welsh Name Tartan</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.3" cy="219.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.5" cy="287.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/"><circle cx="500.3" cy="213.0" r="4" fill="#3465a4"><title>US Navy Edzell</title></circle></a><circle cx="489.1" cy="246.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r4db21w2db20dbi21db2dbi2~x2~db1404245-dbi1406275/

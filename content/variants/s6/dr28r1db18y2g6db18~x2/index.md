@@ -1,14 +1,16 @@
 ---
 title: "British Judo Association"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "British Judo Association"
-  url: ""
+  url: "/setts/dr28r1db18y2g6db18/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr28r1db18y2g6db18/)
-(the same proportion at any scale), whose colour order is pattern [BGGBRB](/stripes/bggbrb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr28r1db18y2g6db18/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGBRB](/stripes/bggbrb/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.1" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="289.9" cy="190.4" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.7" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2/"><circle cx="365.8" cy="199.5" r="4" fill="#3465a4"><title>Sail Chalmadale (Fashion)</title></circle></a><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/"><circle cx="405.0" cy="139.9" r="4" fill="#3465a4"><title>Highland Prince (Fashion)</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.2" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="335.1" cy="232.2" r="4" fill="#3465a4"><title>MacArthur-Fox Dress Personal Tartan</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="415.9" cy="217.4" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.2" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><circle cx="364.4" cy="187.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.0" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="290.0" cy="190.3" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.8" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2/"><circle cx="365.8" cy="199.4" r="4" fill="#3465a4"><title>Sail Chalmadale (Fashion)</title></circle></a><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/"><circle cx="405.1" cy="139.7" r="4" fill="#3465a4"><title>Highland Prince (Fashion)</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.1" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="335.1" cy="232.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress Personal Tartan</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="416.0" cy="217.3" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.1" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.6" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><circle cx="364.4" cy="186.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr28r1db18y2g6db18~x2/

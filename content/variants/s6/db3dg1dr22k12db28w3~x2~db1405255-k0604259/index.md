@@ -1,14 +1,16 @@
 ---
 title: "Diaspora"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Diaspora"
-  url: ""
+  url: "/setts/db3dg1dr22k12db28w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3dg1dr22k12db28w3/)
-(the same proportion at any scale), whose colour order is pattern [BGBKBW](/stripes/bgbkbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db3dg1dr22k12db28w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBKBW](/stripes/bgbkbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db20k4g5dp14w1db2~x2/"><circle cx="277.0" cy="166.1" r="4" fill="#3465a4"><title>Riley's Theme</title></circle></a><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.1" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1604274-db0805267/"><circle cx="248.6" cy="133.9" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1406275-db1204274/"><circle cx="305.7" cy="132.3" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="265.1" cy="143.5" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.2" cy="162.9" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="280.9" cy="135.7" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/"><circle cx="219.3" cy="226.7" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.2" cy="147.6" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="330.2" cy="147.0" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><circle cx="290.4" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db20k4g5dp14w1db2~x2/"><circle cx="277.0" cy="166.0" r="4" fill="#3465a4"><title>Riley's Theme</title></circle></a><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.0" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1604274-db0805267/"><circle cx="248.6" cy="133.8" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1406275-db1204274/"><circle cx="305.7" cy="132.2" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="265.1" cy="143.4" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.2" cy="162.9" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="280.9" cy="135.6" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/"><circle cx="219.3" cy="226.6" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.5" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="330.3" cy="146.9" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><circle cx="290.4" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/

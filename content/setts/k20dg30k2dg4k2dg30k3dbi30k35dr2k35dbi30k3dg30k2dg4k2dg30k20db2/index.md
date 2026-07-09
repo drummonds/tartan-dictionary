@@ -1,5 +1,12 @@
 ---
 title: "Phillips of Wales"
-redirect: "/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Phillips of Wales](/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/).
+This is the **Phillips of Wales** sett — one scale-free proportion (`k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2`), colour order pattern
+[BKGKGKGKBKBKBKGKGKGK](/stripes/bkgkgkgkbkbkbkgkgkgk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Phillips of Wales](/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/) ★ | 2002 | ![Phillips of Wales sett](/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/sett.png) |

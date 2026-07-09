@@ -2,15 +2,15 @@
 title: "(2) Cook"
 date: 2023-03-18
 ---
-The **(2) Cook** tartan is one sett proportion (`g12lb6g6r15k1r1k2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GWGRKRK](/stripes/gwgrkrk/); each scale below is its own sett page. First attested **2001**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **(2) Cook** sett — one scale-free proportion (`g12lb6g6r15k1r1k2`), colour order pattern
+[GWGRKRK](/stripes/gwgrkrk/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **2001**.
 
-Part of the [Cook](/tartans/cook/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Cook](/tartans/cook/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [McCook/Cook (Name)](/variants/s7/g12lb6g6r15k1r1k2~x4/) ★ | 2001 | ![McCook/Cook (Name) sett](/variants/s7/g12lb6g6r15k1r1k2~x4/sett.png) |
 | ×2 | [(2) Cook](/variants/s7/g12lb6g6r15k1r1k2~x2/) | ~2016 | ![(2) Cook sett](/variants/s7/g12lb6g6r15k1r1k2~x2/sett.png) |

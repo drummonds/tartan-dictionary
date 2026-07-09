@@ -1,14 +1,16 @@
 ---
 title: "Lochiel (Cameron) Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lochiel (Cameron)"
   url: "/setts/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4/)
-(the same proportion at any scale), whose colour order is pattern [GRGRBGRBRGBRGRBGR](/stripes/grgrbgrbrgbrgrbgr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRBGRBRGBRGRBGR](/stripes/grgrbgrbrgbrgrbgr/).
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1819 Nothing
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1819 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2307033/"><circle cx="372.8" cy="73.0" r="4" fill="#3465a4"><title>Lochiel (Cameron)</title></circle></a><a href="/variants/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3ri3g4~x2~r2109032-ri2307033/"><circle cx="350.1" cy="67.7" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r2109032-ri2307033/"><circle cx="353.3" cy="82.7" r="4" fill="#3465a4"><title>Dalziel #2</title></circle></a><a href="/variants/s17/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3~x2~r2109032-lr3204029/"><circle cx="345.4" cy="86.3" r="4" fill="#3465a4"><title>King George IV - 1824 (Artefact)</title></circle></a><a href="/variants/s17/ri24w1db2ri8g52ri8db2w1ri8db12ri8w1db2ri52g4r6g6~x2~ri2109032-r1707016/"><circle cx="358.8" cy="64.8" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~db1204274-dg1806142-g2408144/"><circle cx="369.7" cy="86.3" r="4" fill="#3465a4"><title>All Ireland Red</title></circle></a><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~dg1806142-g2408144/"><circle cx="367.3" cy="85.7" r="4" fill="#3465a4"><title>All Ireland Red (Fashion)</title></circle></a><a href="/variants/s17/ri24w1db2ri4g32ri4db2w1ri4db6ri4w1db2ri32g2r3g6~x2~ri2008029-r1707016/"><circle cx="345.3" cy="81.5" r="4" fill="#3465a4"><title>Dalziel</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2ri2g2~x4~r2109032-ri2307033/"><circle cx="374.7" cy="95.8" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/"><circle cx="376.5" cy="46.9" r="4" fill="#3465a4"><title>Dalriada</title></circle></a><circle cx="372.4" cy="72.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2307033/"><circle cx="372.8" cy="72.9" r="4" fill="#3465a4"><title>Lochiel (Cameron)</title></circle></a><a href="/variants/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3ri3g4~x2~r2109032-ri2307033/"><circle cx="350.1" cy="67.5" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/variants/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2ri3g6~x2~r2109032-ri2307033/"><circle cx="353.3" cy="82.5" r="4" fill="#3465a4"><title>Dalziel #2</title></circle></a><a href="/variants/s17/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3~x2~r2109032-lr3204029/"><circle cx="345.4" cy="86.2" r="4" fill="#3465a4"><title>King George IV - 1824 (Artefact)</title></circle></a><a href="/variants/s17/ri24w1db2ri8g52ri8db2w1ri8db12ri8w1db2ri52g4r6g6~x2~ri2109032-r1707016/"><circle cx="358.8" cy="64.6" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~db1204274-dg1806142-g2408144/"><circle cx="369.7" cy="86.1" r="4" fill="#3465a4"><title>All Ireland Red</title></circle></a><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~dg1806142-g2408144/"><circle cx="367.3" cy="85.5" r="4" fill="#3465a4"><title>All Ireland Red (Fashion)</title></circle></a><a href="/variants/s17/ri24w1db2ri4g32ri4db2w1ri4db6ri4w1db2ri32g2r3g6~x2~ri2008029-r1707016/"><circle cx="345.3" cy="81.3" r="4" fill="#3465a4"><title>Dalziel</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2ri2g2~x4~r2109032-ri2307033/"><circle cx="374.6" cy="95.6" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/"><circle cx="376.5" cy="46.7" r="4" fill="#3465a4"><title>Dalriada</title></circle></a><circle cx="372.4" cy="72.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2406019/

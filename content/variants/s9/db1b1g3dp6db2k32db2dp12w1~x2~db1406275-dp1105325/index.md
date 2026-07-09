@@ -1,14 +1,16 @@
 ---
 title: "Scottish Heather"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Heather"
   url: "/setts/db1b1g3dp6db2k32db2dp12w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1b1g3dp6db2k32db2dp12w1/)
-(the same proportion at any scale), whose colour order is pattern [BBGBBKBBW](/stripes/bbgbbkbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db1b1g3dp6db2k32db2dp12w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBBKBBW](/stripes/bbgbbkbbw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2/"><circle cx="295.0" cy="72.5" r="4" fill="#3465a4"><title>Scottish Heather (Fashion)</title></circle></a><a href="/variants/s8/k43y3b1w1db1y3db25r2~x2/"><circle cx="304.4" cy="58.3" r="4" fill="#3465a4"><title>Royal Yaght Britannia, The</title></circle></a><a href="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/"><circle cx="324.5" cy="64.9" r="4" fill="#3465a4"><title>Royal Yacht Britannia</title></circle></a><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/"><circle cx="305.9" cy="38.6" r="4" fill="#3465a4"><title>RCACA</title></circle></a><a href="/variants/s12/k4dt6k4n4dt29n6k68db10k4t6db4w2~dt0900000-n1700000-db1208266-t2205244/"><circle cx="303.7" cy="64.1" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><circle cx="277.1" cy="83.8" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/"><circle cx="281.1" cy="83.5" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/variants/s8/db10y2dg2w1dg18r1k45r2~x2/"><circle cx="310.6" cy="64.9" r="4" fill="#3465a4"><title>Downs</title></circle></a><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/"><circle cx="291.8" cy="79.4" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/"><circle cx="284.7" cy="96.9" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><circle cx="297.3" cy="72.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2/"><circle cx="295.0" cy="72.3" r="4" fill="#3465a4"><title>Scottish Heather (Fashion)</title></circle></a><a href="/variants/s8/k43y3b1w1db1y3db25r2~x2/"><circle cx="304.4" cy="58.2" r="4" fill="#3465a4"><title>Royal Yaght Britannia, The</title></circle></a><a href="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/"><circle cx="324.5" cy="64.7" r="4" fill="#3465a4"><title>Royal Yacht Britannia</title></circle></a><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/"><circle cx="305.9" cy="38.4" r="4" fill="#3465a4"><title>RCACA</title></circle></a><a href="/variants/s12/k4dt6k4n4dt29n6k68db10k4t6db4w2~dt0900000-n1700000-db1208266-t2205244/"><circle cx="303.7" cy="63.9" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><circle cx="277.1" cy="83.6" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/"><circle cx="281.1" cy="83.4" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/variants/s8/db10y2dg2w1dg18r1k45r2~x2/"><circle cx="310.6" cy="64.7" r="4" fill="#3465a4"><title>Downs</title></circle></a><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/"><circle cx="291.8" cy="79.3" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/"><circle cx="284.7" cy="96.7" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><circle cx="297.4" cy="72.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db1b1g3dp6db2k32db2dp12w1~x2~db1406275-dp1105325/

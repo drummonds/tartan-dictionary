@@ -1,5 +1,12 @@
 ---
 title: "Lorne Asymmetric (Artefact)"
-redirect: "/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Lorne Asymmetric (Artefact)](/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/).
+This is the **Lorne Asymmetric (Artefact)** sett — one scale-free proportion (`k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3`), colour order pattern
+[BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/). It is recorded as a single **variant**, below.
+First attested **~1871**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Lorne Asymmetric (Artefact)](/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/) ★ | ~1871 | ![Lorne Asymmetric (Artefact) sett](/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/sett.png) |

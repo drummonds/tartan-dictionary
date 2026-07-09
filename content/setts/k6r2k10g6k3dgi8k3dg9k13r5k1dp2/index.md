@@ -1,5 +1,12 @@
 ---
 title: "Ross (Musselburgh) (Personal)"
-redirect: "/variants/s12/k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Ross (Musselburgh) (Personal)](/variants/s12/k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142/).
+This is the **Ross (Musselburgh) (Personal)** sett — one scale-free proportion (`k6r2k10g6k3dgi8k3dg9k13r5k1dp2`), colour order pattern
+[BKRKGKGKGKRK](/stripes/bkrkgkgkgkrk/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Ross (Musselburgh) (Personal)](/variants/s12/k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142/) ★ | 2013 | ![Ross (Musselburgh) (Personal) sett](/variants/s12/k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142/sett.png) |

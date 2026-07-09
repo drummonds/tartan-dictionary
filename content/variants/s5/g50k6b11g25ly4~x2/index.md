@@ -1,14 +1,16 @@
 ---
 title: "Glen of Daviot (Dalgleish)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Glen of Daviot (Dalgleish)"
-  url: ""
+  url: "/setts/g50k6b11g25ly4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g50k6b11g25ly4/)
-(the same proportion at any scale), whose colour order is pattern [GKBGY](/stripes/gkbgy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g50k6b11g25ly4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBGY](/stripes/gkbgy/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -69,6 +71,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dt68t7dt16k16ly4~x2/"><circle cx="474.4" cy="180.1" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/variants/s4/g22k3g25k4~x2/"><circle cx="522.1" cy="259.3" r="4" fill="#3465a4"><title>Campbell Simpson</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="343.6" cy="267.8" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.9" cy="207.1" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s4/k2ly1g7lb1~x2~ly3307090/"><circle cx="295.4" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/variants/s3/g12db3y1~x4/"><circle cx="534.1" cy="277.4" r="4" fill="#3465a4"><title>Unidentified pattern #2</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.5" cy="190.0" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="154.1" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.3" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><circle cx="454.5" cy="206.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dt68t7dt16k16ly4~x2/"><circle cx="474.5" cy="180.0" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/variants/s4/g22k3g25k4~x2/"><circle cx="522.1" cy="259.3" r="4" fill="#3465a4"><title>Campbell Simpson</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="343.6" cy="267.8" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.9" cy="207.0" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s4/k2ly1g7lb1~x2~ly3307090/"><circle cx="295.4" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/variants/s3/g12db3y1~x4/"><circle cx="534.1" cy="277.4" r="4" fill="#3465a4"><title>Unidentified pattern #2</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.1" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.6" cy="189.9" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="153.9" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><circle cx="454.5" cy="206.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g50k6b11g25ly4~x2/

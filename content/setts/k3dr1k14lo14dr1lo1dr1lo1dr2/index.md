@@ -1,5 +1,12 @@
 ---
 title: "Brecheen"
-redirect: "/variants/s9/k3dr1k14lo14dr1lo1dr1lo1dr2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Brecheen](/variants/s9/k3dr1k14lo14dr1lo1dr1lo1dr2~x4/).
+This is the **Brecheen** sett — one scale-free proportion (`k3dr1k14lo14dr1lo1dr1lo1dr2`), colour order pattern
+[BYBYBYKBK](/stripes/bybybykbk/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Brecheen](/variants/s9/k3dr1k14lo14dr1lo1dr1lo1dr2~x4/) ★ | 1996 | ![Brecheen sett](/variants/s9/k3dr1k14lo14dr1lo1dr1lo1dr2~x4/sett.png) |

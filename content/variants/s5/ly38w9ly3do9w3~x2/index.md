@@ -1,14 +1,16 @@
 ---
 title: "Loch Tummel Trade Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Tummel Trade Tartan"
-  url: ""
+  url: "/setts/ly38w9ly3do9w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly38w9ly3do9w3/)
-(the same proportion at any scale), whose colour order is pattern [WBYWY](/stripes/wbywy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/ly38w9ly3do9w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBYWY](/stripes/wbywy/).
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -23,7 +25,7 @@ Earliest known date: pre 2003 Nothing
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>pre 2003 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><a href="/variants/s5/o38w9o3do9w3~x2/"><circle cx="413.1" cy="204.6" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s6/db4ly9w4db9ly18w1~x2/"><circle cx="375.1" cy="238.3" r="4" fill="#3465a4"><title>WVU Mountaineer (Corporate)</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.5" cy="247.2" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="206.0" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><circle cx="452.7" cy="240.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><a href="/variants/s5/o38w9o3do9w3~x2/"><circle cx="413.1" cy="204.5" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s6/db4ly9w4db9ly18w1~x2/"><circle cx="375.1" cy="238.2" r="4" fill="#3465a4"><title>WVU Mountaineer (Corporate)</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.5" cy="247.1" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="205.9" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><circle cx="452.7" cy="240.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/ly38w9ly3do9w3~x2/

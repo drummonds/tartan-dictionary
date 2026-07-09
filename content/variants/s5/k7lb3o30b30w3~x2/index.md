@@ -1,14 +1,16 @@
 ---
 title: "Douglas, brown"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Douglas, brown"
-  url: ""
+  url: "/setts/k7lb3o30b30w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k7lb3o30b30w3/)
-(the same proportion at any scale), whose colour order is pattern [KWRBW](/stripes/kwrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k7lb3o30b30w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWRBW](/stripes/kwrbw/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.5" cy="203.0" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="147.6" cy="205.5" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.1" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.9" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="297.9" cy="206.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.2" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.7" cy="208.2" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.6" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.8" cy="187.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><circle cx="213.6" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.6" cy="203.0" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="147.6" cy="205.5" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.0" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.8" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="298.0" cy="206.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.1" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.7" cy="208.1" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.1" cy="213.5" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.9" cy="187.1" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><circle cx="213.7" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k7lb3o30b30w3~x2/

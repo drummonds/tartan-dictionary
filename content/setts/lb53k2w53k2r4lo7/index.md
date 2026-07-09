@@ -1,5 +1,12 @@
 ---
 title: "Galicia"
-redirect: "/variants/s6/lb53k2w53k2r4lo7~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Galicia](/variants/s6/lb53k2w53k2r4lo7~x2/).
+This is the **Galicia** sett — one scale-free proportion (`lb53k2w53k2r4lo7`), colour order pattern
+[WKWKRY](/stripes/wkwkry/). It is recorded as a single **variant**, below.
+First attested **1990**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Galicia](/variants/s6/lb53k2w53k2r4lo7~x2/) ★ | 1990 | ![Galicia sett](/variants/s6/lb53k2w53k2r4lo7~x2/sett.png) |

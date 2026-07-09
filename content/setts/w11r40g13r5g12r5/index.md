@@ -1,5 +1,12 @@
 ---
-title: "Makhtoum"
-redirect: "/variants/s6/w11r40g13r5g12r5~x2/"
+title: "Makhtoum Regimental Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Makhtoum](/variants/s6/w11r40g13r5g12r5~x2/).
+This is the **Makhtoum Regimental Tartan** sett — one scale-free proportion (`w11r40g13r5g12r5`), colour order pattern
+[RGRGRW](/stripes/rgrgrw/). It is recorded as a single **variant**, below.
+First attested **1977**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Makhtoum Regimental Tartan](/variants/s6/w11r40g13r5g12r5~x2/) ★ | 1977 | ![Makhtoum Regimental Tartan sett](/variants/s6/w11r40g13r5g12r5~x2/sett.png) |

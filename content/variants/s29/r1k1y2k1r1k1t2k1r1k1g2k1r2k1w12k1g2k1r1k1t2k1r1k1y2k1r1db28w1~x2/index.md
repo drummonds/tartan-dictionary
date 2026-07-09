@@ -1,14 +1,16 @@
 ---
 title: "Women's Wear Daily 'Clan' (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Women's Wear Daily 'Clan' (Fashion)"
-  url: ""
+  url: "/setts/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1/)
-(the same proportion at any scale), whose colour order is pattern [RKGKRKBKRKGKRKWKGKRKBKRKGKRBW](/stripes/rkgkrkbkrkgkrkwkgkrkbkrkgkrbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGKRKBKRKGKRKWKGKRKBKRKGKRBW](/stripes/rkgkrkbkrkgkrkwkgkrkbkrkgkrbw/).
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/"><circle cx="114.5" cy="14.0" r="4" fill="#3465a4"><title>Women's Wear Daily Hunting (Fashion)</title></circle></a><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9dy2y1dy2y1dy2y1dy2y1~x2/"><circle cx="78.0" cy="14.0" r="4" fill="#3465a4"><title>Am Yisrael Chai</title></circle></a><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/"><circle cx="76.4" cy="14.0" r="4" fill="#3465a4"><title>Am Yisrael Chair (Corporate)</title></circle></a><a href="/variants/s21/r4lb10k1r2k1lb32db4w5k4y2k2y2k8r2db8g9k1r2k1g8r4~x2/"><circle cx="98.7" cy="28.1" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #2)</title></circle></a><a href="/variants/s45/db2g3dp1g2ly1g2k2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2k2r1db2r1db30g3dp1g2ly1g2k1dp2g1dp2r1dp2db2k28dp1ly2dp3g1dp2r1dp2~x2/"><circle cx="115.1" cy="14.0" r="4" fill="#3465a4"><title>Highland Mist Corporate Tartan</title></circle></a><a href="/variants/s18/n20w2dp70ly2k13w10dr5k2dr5k2dr5w10k13ly2do25w18k2ly2~x2/"><circle cx="105.4" cy="25.0" r="4" fill="#3465a4"><title>Unnamed C19th</title></circle></a><circle cx="114.0" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/"><circle cx="114.5" cy="14.0" r="4" fill="#3465a4"><title>Women's Wear Daily Hunting (Fashion)</title></circle></a><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9dy2y1dy2y1dy2y1dy2y1~x2/"><circle cx="78.0" cy="14.0" r="4" fill="#3465a4"><title>Am Yisrael Chai</title></circle></a><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/"><circle cx="76.4" cy="14.0" r="4" fill="#3465a4"><title>Am Yisrael Chair (Corporate)</title></circle></a><a href="/variants/s21/r4lb10k1r2k1lb32db4w5k4y2k2y2k8r2db8g9k1r2k1g8r4~x2/"><circle cx="98.7" cy="27.9" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #2)</title></circle></a><a href="/variants/s45/db2g3dp1g2ly1g2k2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2k2r1db2r1db30g3dp1g2ly1g2k1dp2g1dp2r1dp2db2k28dp1ly2dp3g1dp2r1dp2~x2/"><circle cx="115.1" cy="14.0" r="4" fill="#3465a4"><title>Highland Mist Corporate Tartan</title></circle></a><a href="/variants/s18/n20w2dp70ly2k13w10dr5k2dr5k2dr5w10k13ly2do25w18k2ly2~x2/"><circle cx="105.4" cy="24.8" r="4" fill="#3465a4"><title>Unnamed C19th</title></circle></a><circle cx="114.0" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/

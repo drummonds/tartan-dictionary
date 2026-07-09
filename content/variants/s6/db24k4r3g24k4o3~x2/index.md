@@ -1,6 +1,7 @@
 ---
 title: "(1) Skene"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -9,10 +10,11 @@ crumbs:
 - name: "Skene"
   url: "/tartans/skene-2/"
 - name: "(1) Skene"
-  url: ""
+  url: "/setts/db24k4r3g24k4o3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db24k4r3g24k4o3/)
-(the same proportion at any scale), whose colour order is pattern [BKRGKR](/stripes/bkrgkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db24k4r3g24k4o3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKRGKR](/stripes/bkrgkr/).
 
 Part of the [Skene](/tartans/skene-2/) tartan — the named design grouping this sett with its other cloths.
 
@@ -75,6 +77,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="132.3" cy="175.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="109.3" cy="194.2" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/"><circle cx="111.9" cy="193.9" r="4" fill="#3465a4"><title>Syme</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.4" cy="197.5" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.8" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="198.1" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/k1lb1g8db8w1~x4/"><circle cx="197.5" cy="205.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s6/r3k2g20k10t20y2~x2/"><circle cx="139.2" cy="189.8" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.7" cy="169.6" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><circle cx="165.4" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="132.3" cy="175.2" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="109.4" cy="194.1" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/"><circle cx="111.9" cy="193.9" r="4" fill="#3465a4"><title>Syme</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.5" cy="197.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.2" cy="168.7" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.8" cy="198.1" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/k1lb1g8db8w1~x4/"><circle cx="197.5" cy="205.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s6/r3k2g20k10t20y2~x2/"><circle cx="139.2" cy="189.7" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.8" cy="169.5" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><circle cx="165.4" cy="187.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db24k4r3g24k4o3~x2/

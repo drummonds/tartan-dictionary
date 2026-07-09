@@ -1,14 +1,16 @@
 ---
 title: "Pendleton dress Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Pendleton dress Corporate Tartan"
-  url: ""
+  url: "/setts/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6/)
-(the same proportion at any scale), whose colour order is pattern [BBGRGKGGGBBBGGGKGRGB](/stripes/bbgrgkgggbbbgggkgrgb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGRGKGGGBBBGGGKGRGB](/stripes/bbgrgkgggbbbgggkgrgb/).
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1998 From Pendleton Mills, established in 1863 and located 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1998 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db16dg14r3dg14k3dg14ly3dg14db16dbi2db16dg14ly3dg14k3dg14r3dg14db16dbi2~x2~db1204274-dbi1406275/"><circle cx="284.4" cy="187.5" r="4" fill="#3465a4"><title>Pendleton hunting Corporate Tartan</title></circle></a><a href="/variants/s11/dbi6db40dg34r5dg34k6dg34y5dg34db40dbi6~dbi1406275-db1204274/"><circle cx="358.3" cy="220.3" r="4" fill="#3465a4"><title>Pendleton Dress</title></circle></a><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/"><circle cx="375.6" cy="141.2" r="4" fill="#3465a4"><title>College of William &amp; Mary Schools Tartan</title></circle></a><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/"><circle cx="316.8" cy="212.8" r="4" fill="#3465a4"><title>Lowland Donnelly (Personal)</title></circle></a><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/"><circle cx="314.1" cy="204.6" r="4" fill="#3465a4"><title>Pendleton dress</title></circle></a><circle cx="349.2" cy="201.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db16dg14r3dg14k3dg14ly3dg14db16dbi2db16dg14ly3dg14k3dg14r3dg14db16dbi2~x2~db1204274-dbi1406275/"><circle cx="284.4" cy="187.3" r="4" fill="#3465a4"><title>Pendleton hunting Corporate Tartan</title></circle></a><a href="/variants/s11/dbi6db40dg34r5dg34k6dg34y5dg34db40dbi6~dbi1406275-db1204274/"><circle cx="358.3" cy="220.2" r="4" fill="#3465a4"><title>Pendleton Dress</title></circle></a><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/"><circle cx="375.7" cy="141.1" r="4" fill="#3465a4"><title>College of William &amp; Mary Schools Tartan</title></circle></a><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/"><circle cx="316.8" cy="212.7" r="4" fill="#3465a4"><title>Lowland Donnelly (Personal)</title></circle></a><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/"><circle cx="314.2" cy="204.5" r="4" fill="#3465a4"><title>Pendleton dress</title></circle></a><circle cx="349.2" cy="201.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s20/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6~db1204274-dbi1406275/

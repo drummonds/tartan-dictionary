@@ -23,7 +23,7 @@ date: 2023-03-18
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db32r3db4k1y3/">MacLaine of Lochbuie Hunting</a> ★</td><td><code>DB/32 R3 DB4 K1 Y/3</code></td><td>102</td><td>—</td></tr>
+<tr><td><a href="/setts/db32r3db4k1y3/">MacLaine of Lochbuie Hunting</a> ★</td><td><code>DB/32 R3 DB4 K1 Y/3</code></td><td>102</td><td>1906</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db32r3db4k1y3/"><img src="/variants/s5/db32r3db4k1y3~x2/sett.png" alt="MacLaine of Lochbuie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/db32r3db4k1y3/">MacLaine of Lochbuie Hunting</a> · <a href="/variants/s5/db32r3db4k1y3~x2/">MacLaine of Lochbuie, hunting</a></td></tr>
 </tbody>

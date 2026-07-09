@@ -1,5 +1,12 @@
 ---
 title: "MacDiarmid #3"
-redirect: "/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacDiarmid #3](/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/).
+This is the **MacDiarmid #3** sett — one scale-free proportion (`r3k6r3k6g6k1w1k1g6r1`), colour order pattern
+[RGKWKGKRKR](/stripes/rgkwkgkrkr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacDiarmid #3](/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/) ★ | ~2016 | ![MacDiarmid #3 sett](/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/sett.png) |

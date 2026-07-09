@@ -1,14 +1,16 @@
 ---
 title: "Monarch of Argyll (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Monarch of Argyll (Corporate)"
-  url: ""
+  url: "/setts/o23k3o3k3n19k20n3k20n19o19n3o3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o23k3o3k3n19k20n3k20n19o19n3o3/)
-(the same proportion at any scale), whose colour order is pattern [RBRBKBKBKRKR](/stripes/rbrbkbkbkrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/o23k3o3k3n19k20n3k20n19o19n3o3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBKBKBKRKR](/stripes/rbrbkbkbkrkr/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n6k1n1k1n2k4o6k1n2k2~x4/"><circle cx="183.4" cy="212.8" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><circle cx="149.7" cy="201.2" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/"><circle cx="180.0" cy="203.5" r="4" fill="#3465a4"><title>Clergy (Grey)</title></circle></a><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="185.0" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.8" cy="196.4" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.5" cy="189.8" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="127.9" cy="189.7" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="125.5" cy="189.0" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.5" cy="212.3" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><circle cx="123.0" cy="204.1" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><circle cx="151.4" cy="197.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n6k1n1k1n2k4o6k1n2k2~x4/"><circle cx="183.4" cy="212.7" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><circle cx="149.7" cy="201.1" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/"><circle cx="180.0" cy="203.4" r="4" fill="#3465a4"><title>Clergy (Grey)</title></circle></a><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="184.9" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.9" cy="196.3" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.6" cy="189.7" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="128.0" cy="189.6" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="125.5" cy="188.9" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.5" cy="212.2" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><circle cx="123.0" cy="204.0" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><circle cx="151.4" cy="197.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2~o2500000-n1900000/

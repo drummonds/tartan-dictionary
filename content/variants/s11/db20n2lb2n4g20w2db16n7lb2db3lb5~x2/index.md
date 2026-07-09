@@ -1,14 +1,16 @@
 ---
 title: "U.S.I. Limited"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S.I. Limited"
-  url: ""
+  url: "/setts/db20n2lb2n4g20w2db16n7lb2db3lb5/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20n2lb2n4g20w2db16n7lb2db3lb5/)
-(the same proportion at any scale), whose colour order is pattern [BBWBGWBBWBW](/stripes/bbwbgwbbwbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db20n2lb2n4g20w2db16n7lb2db3lb5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBGWBBWBW](/stripes/bbwbgwbbwbw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.9" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/"><circle cx="250.4" cy="206.3" r="4" fill="#3465a4"><title>Dickson Name Tartan</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.1" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.5" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.7" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.6" cy="190.2" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.3" cy="203.3" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.2" cy="185.9" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/variants/s9/db10y4db36g28w3g3w3g8y6/"><circle cx="277.7" cy="196.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s7/g2db15n5g2db2g7w2~x4/"><circle cx="277.8" cy="235.6" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><circle cx="244.7" cy="191.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.8" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/"><circle cx="250.4" cy="206.2" r="4" fill="#3465a4"><title>Dickson Name Tartan</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.0" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.4" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.8" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.7" cy="190.1" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.4" cy="203.2" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.3" cy="185.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/variants/s9/db10y4db36g28w3g3w3g8y6/"><circle cx="277.7" cy="195.9" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s7/g2db15n5g2db2g7w2~x4/"><circle cx="277.8" cy="235.6" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><circle cx="244.8" cy="191.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/

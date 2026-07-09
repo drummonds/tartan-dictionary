@@ -1,5 +1,12 @@
 ---
 title: "Hong Kong, University of"
-redirect: "/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Hong Kong, University of](/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/).
+This is the **Hong Kong, University of** sett — one scale-free proportion (`y2k1r2dg6lg5k1db5k1dg42k1w2k1w2`), colour order pattern
+[GKRGYKBKGKWKW](/stripes/gkrgykbkgkwkw/). It is recorded as a single **variant**, below.
+First attested **2012**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Hong Kong, University of](/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/) ★ | 2012 | ![Hong Kong, University of sett](/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/sett.png) |

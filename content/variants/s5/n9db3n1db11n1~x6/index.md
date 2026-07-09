@@ -1,14 +1,16 @@
 ---
 title: "MacCallum, High School"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacCallum, High School"
-  url: ""
+  url: "/setts/n9db3n1db11n1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n9db3n1db11n1/)
-(the same proportion at any scale), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n9db3n1db11n1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -66,6 +68,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n6lb2n25lb25n2lb6~x2/"><circle cx="469.3" cy="280.5" r="4" fill="#3465a4"><title>Erskine, Grey</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="535.7" cy="275.6" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.8" cy="213.9" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.5" cy="298.8" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="432.3" cy="196.8" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.6" cy="243.2" r="4" fill="#3465a4"><title>Craig Devlin (Dundee) (Personal)</title></circle></a><a href="/variants/s6/db50do4db12do23ly4do4~x2/"><circle cx="524.0" cy="257.4" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="415.9" cy="217.4" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><circle cx="524.9" cy="307.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n6lb2n25lb25n2lb6~x2/"><circle cx="469.3" cy="280.5" r="4" fill="#3465a4"><title>Erskine, Grey</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="535.7" cy="275.5" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.8" cy="213.8" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.6" cy="298.7" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="432.3" cy="196.7" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.7" cy="243.1" r="4" fill="#3465a4"><title>Craig Devlin (Dundee) (Personal)</title></circle></a><a href="/variants/s6/db50do4db12do23ly4do4~x2/"><circle cx="524.0" cy="257.4" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="416.0" cy="217.3" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><circle cx="524.9" cy="307.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/n9db3n1db11n1~x6/

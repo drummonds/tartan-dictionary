@@ -1,5 +1,12 @@
 ---
 title: "Justus"
-redirect: "/variants/s6/k8y1k1r1k4db1~x12/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Justus](/variants/s6/k8y1k1r1k4db1~x12/).
+This is the **Justus** sett — one scale-free proportion (`k8y1k1r1k4db1`), colour order pattern
+[BKRKGK](/stripes/bkrkgk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×12 | [Justus](/variants/s6/k8y1k1r1k4db1~x12/) ★ | ~2016 | ![Justus sett](/variants/s6/k8y1k1r1k4db1~x12/sett.png) |

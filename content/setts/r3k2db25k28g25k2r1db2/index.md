@@ -1,5 +1,12 @@
 ---
-title: "Common Kilt"
-redirect: "/variants/s8/r3k2db25k28g25k2r1db2~x2/"
+title: "Common Kilt Tartan"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Common Kilt](/variants/s8/r3k2db25k28g25k2r1db2~x2/).
+This is the **Common Kilt Tartan** sett — one scale-free proportion (`r3k2db25k28g25k2r1db2`), colour order pattern
+[BRKGKBKR](/stripes/brkgkbkr/). It is recorded as a single **variant**, below.
+First attested **~1790**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Common Kilt Tartan](/variants/s8/r3k2db25k28g25k2r1db2~x2/) ★ | ~1790 | ![Common Kilt Tartan sett](/variants/s8/r3k2db25k28g25k2r1db2~x2/sett.png) |

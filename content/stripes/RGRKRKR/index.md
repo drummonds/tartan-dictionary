@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r75g12r3k2r2k2r36~x2/">MacKintosh #5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><img src="/variants/s7/r75g12r3k2r2k2r36~x2/sett.png" alt="MacKintosh #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r75g12r3k2r2k2r36~x2/">MacKintosh (Moy Hall) Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><img src="/variants/s7/r75g12r3k2r2k2r36~x2/sett.png" alt="MacKintosh (Moy Hall) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/r4g5r2k6r18k2r4~x2/">MacQuarrie #7</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/r4g5r2k6r18k2r4~x2/"><img src="/variants/s7/r4g5r2k6r18k2r4~x2/sett.png" alt="MacQuarrie #7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

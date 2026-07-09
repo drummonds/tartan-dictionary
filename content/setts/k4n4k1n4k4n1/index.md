@@ -1,5 +1,12 @@
 ---
 title: "Highland Grey"
-redirect: "/variants/s6/k4n4k1n4k4n1~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Highland Grey](/variants/s6/k4n4k1n4k4n1~x4/).
+This is the **Highland Grey** sett — one scale-free proportion (`k4n4k1n4k4n1`), colour order pattern
+[BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
+First attested **~2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Highland Grey](/variants/s6/k4n4k1n4k4n1~x4/) ★ | ~2014 | ![Highland Grey sett](/variants/s6/k4n4k1n4k4n1~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Fearns McIntosh Millennium (Personal)"
-redirect: "/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Fearns McIntosh Millennium (Personal)](/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/).
+This is the **Fearns McIntosh Millennium (Personal)** sett — one scale-free proportion (`r8dt2lb1o1r8dt2lb1o1r8g2`), colour order pattern
+[GRRWBRRWBR](/stripes/grrwbrrwbr/). It is recorded as a single **variant**, below.
+First attested **1998**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Fearns McIntosh Millennium (Personal)](/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/) ★ | 1998 | ![Fearns McIntosh Millennium (Personal) sett](/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/sett.png) |

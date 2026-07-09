@@ -1,14 +1,16 @@
 ---
 title: "Bumbee #2 (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Bumbee #2 (Fashion)"
-  url: ""
+  url: "/setts/r10k1do1k1r1k1do10k1dr1k1do1k1dr10k1r1k1dr1k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10k1do1k1r1k1do10k1dr1k1do1k1dr10k1r1k1dr1k1/)
-(the same proportion at any scale), whose colour order is pattern [KBKRKBKBKBKBKRKBKR](/stripes/kbkrkbkbkbkbkrkbkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r10k1do1k1r1k1do10k1dr1k1do1k1dr10k1r1k1dr1k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKRKBKBKBKBKRKBKR](/stripes/kbkrkbkbkbkbkrkbkr/).
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

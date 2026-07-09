@@ -1,5 +1,12 @@
 ---
 title: "New York Fire Department Pipe Band"
-redirect: "/variants/s6/k4w1g13k11db11lb3~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [New York Fire Department Pipe Band](/variants/s6/k4w1g13k11db11lb3~x4/).
+This is the **New York Fire Department Pipe Band** sett — one scale-free proportion (`k4w1g13k11db11lb3`), colour order pattern
+[KWGKBW](/stripes/kwgkbw/). It is recorded as a single **variant**, below.
+First attested **1963**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [New York Fire Department Pipe Band](/variants/s6/k4w1g13k11db11lb3~x4/) ★ | 1963 | ![New York Fire Department Pipe Band sett](/variants/s6/k4w1g13k11db11lb3~x4/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Varrie"
-redirect: "/variants/s4/lb11db1w1y1~x20/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Varrie](/variants/s4/lb11db1w1y1~x20/).
+This is the **Varrie** sett — one scale-free proportion (`lb11db1w1y1`), colour order pattern
+[GWBW](/stripes/gwbw/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×20 | [Varrie](/variants/s4/lb11db1w1y1~x20/) ★ | 2009 | ![Varrie sett](/variants/s4/lb11db1w1y1~x20/sett.png) |

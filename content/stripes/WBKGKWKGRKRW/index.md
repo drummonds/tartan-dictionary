@@ -39,8 +39,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/">Stuart/Stewart Dress Royal</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/"><img src="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/sett.png" alt="Stuart/Stewart Dress Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/">Stewart Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><img src="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/sett.png" alt="Stewart Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/">Stewart Blue Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><img src="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/sett.png" alt="Stewart Blue Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/">Stuart/Stewart Royal variant</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><img src="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/sett.png" alt="Stuart/Stewart Royal variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

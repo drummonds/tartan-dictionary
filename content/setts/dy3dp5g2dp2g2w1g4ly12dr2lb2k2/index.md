@@ -1,5 +1,12 @@
 ---
 title: "Oregon, State of"
-redirect: "/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Oregon, State of](/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/).
+This is the **Oregon, State of** sett — one scale-free proportion (`dy3dp5g2dp2g2w1g4ly12dr2lb2k2`), colour order pattern
+[GBGBGWGYBWK](/stripes/gbgbgwgybwk/). It is recorded as a single **variant**, below.
+First attested **2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Oregon, State of](/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/) ★ | 2002 | ![Oregon, State of sett](/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/sett.png) |

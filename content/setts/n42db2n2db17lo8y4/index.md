@@ -1,5 +1,12 @@
 ---
 title: "Connecticut State Police PB (Cor.)"
-redirect: "/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Connecticut State Police PB (Cor.)](/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/).
+This is the **Connecticut State Police PB (Cor.)** sett — one scale-free proportion (`n42db2n2db17lo8y4`), colour order pattern
+[BBBBYG](/stripes/bbbbyg/). It is recorded as a single **variant**, below.
+First attested **~2002**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Connecticut State Police PB (Cor.)](/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/) ★ | ~2002 | ![Connecticut State Police PB (Cor.) sett](/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/sett.png) |

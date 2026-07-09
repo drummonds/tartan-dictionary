@@ -1,16 +1,18 @@
 ---
 title: "Duminiak (Trevose, Pennsylvania)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Duminiak"
   url: "/tartans/duminiak/"
 - name: "Duminiak (Trevose, Pennsylvania)"
-  url: ""
+  url: "/setts/n47w6r24w3db5y3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n47w6r24w3db5y3/)
-(the same proportion at any scale), whose colour order is pattern [BWRWBG](/stripes/bwrwbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n47w6r24w3db5y3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRWBG](/stripes/bwrwbg/).
 
 Part of the [Duminiak](/tartans/duminiak/) tartan — the named design grouping this sett with its other cloths.
 
@@ -64,6 +66,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.9" cy="172.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.4" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="297.9" cy="206.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="190.0" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s7/db4do2db2w2do9o27r4~x3/"><circle cx="324.0" cy="161.5" r="4" fill="#3465a4"><title>Unidentified 35</title></circle></a><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="292.6" cy="203.8" r="4" fill="#3465a4"><title>Buncle (Duns)</title></circle></a><a href="/variants/s5/ly9r31g12dy2lb9~x2/"><circle cx="273.0" cy="197.5" r="4" fill="#3465a4"><title>Buncle (Name)</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.5" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.2" cy="158.4" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/"><circle cx="309.4" cy="159.5" r="4" fill="#3465a4"><title>Spragg, Andrew</title></circle></a><circle cx="337.7" cy="174.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.9" cy="172.4" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.3" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="298.0" cy="206.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="189.9" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s7/db4do2db2w2do9o27r4~x3/"><circle cx="324.0" cy="161.4" r="4" fill="#3465a4"><title>Unidentified 35</title></circle></a><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="292.7" cy="203.8" r="4" fill="#3465a4"><title>Buncle (Duns)</title></circle></a><a href="/variants/s5/ly9r31g12dy2lb9~x2/"><circle cx="273.1" cy="197.4" r="4" fill="#3465a4"><title>Buncle (Name)</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.4" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.3" cy="158.3" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/"><circle cx="309.5" cy="159.4" r="4" fill="#3465a4"><title>Spragg, Andrew</title></circle></a><circle cx="337.7" cy="174.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/n47w6r24w3db5y3~x2/

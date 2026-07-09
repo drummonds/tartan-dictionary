@@ -1,5 +1,12 @@
 ---
 title: "Scrimgeour of Glassary"
-redirect: "/variants/s7/r32k3lo6g10r6k3lo32~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Scrimgeour of Glassary](/variants/s7/r32k3lo6g10r6k3lo32~x2/).
+This is the **Scrimgeour of Glassary** sett — one scale-free proportion (`r32k3lo6g10r6k3lo32`), colour order pattern
+[KYGRKYKRGYKR](/stripes/kygrkykrgykr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Scrimgeour of Glassary](/variants/s7/r32k3lo6g10r6k3lo32~x2/) ★ | ~2016 | ![Scrimgeour of Glassary sett](/variants/s7/r32k3lo6g10r6k3lo32~x2/sett.png) |

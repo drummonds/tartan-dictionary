@@ -2,15 +2,15 @@
 title: "Edinburgh Crystal"
 date: 2023-03-18
 ---
-The **Edinburgh Crystal** tartan is one sett proportion (`dt30lb2k6db3r3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BWKBR](/stripes/bwkbr/); each scale below is its own sett page. First attested **1990**
-— its oldest sett (★) anchors the tartan as the parent.
+This is the **Edinburgh Crystal** sett — one scale-free proportion (`dt30lb2k6db3r3`), colour order pattern
+[BWKBR](/stripes/bwkbr/). It is recorded as **2 variants** — the same
+cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
+First attested **1990**.
 
-Part of the [Edinburgh Crystal](/tartans/edinburgh-crystal/) tartan — the named design grouping this proportion with its other setts.
+Part of the [Edinburgh Crystal](/tartans/edinburgh-crystal/) tartan — the named design grouping this sett with its kin.
 
 
-| Scale | Sett | Earliest | |
+| Scale | Variant | Earliest | |
 |---|---|---|---|
 | ×4 | [Edinburgh Crystal](/variants/s5/dt30lb2k6db3r3~x4/) ★ | 1990 | ![Edinburgh Crystal sett](/variants/s5/dt30lb2k6db3r3~x4/sett.png) |
-| ×4 | [Edinburgh Crystal Corporate Tartan](/variants/s5/dt30lb2k6db3r3~x4~db1406275/) | ~2016 | ![Edinburgh Crystal Corporate Tartan sett](/variants/s5/dt30lb2k6db3r3~x4~db1406275/sett.png) |
+| ×4 | [Edinburgh Crystal Corporate Tartan](/variants/s5/dt30lb2k6db3r3~x4~db1406275/) | ~1997 | ![Edinburgh Crystal Corporate Tartan sett](/variants/s5/dt30lb2k6db3r3~x4~db1406275/sett.png) |

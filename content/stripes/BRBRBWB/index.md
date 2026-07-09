@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db3r1db35r1db16lb1db2~x4/">Lochaber Old</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3r1db35r1db16lb1db2~x4/"><img src="/variants/s7/db3r1db35r1db16lb1db2~x4/sett.png" alt="Lochaber Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db3r1db35r1db16lb1db2~x4/">Lochaber Old.. District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db3r1db35r1db16lb1db2~x4/"><img src="/variants/s7/db3r1db35r1db16lb1db2~x4/sett.png" alt="Lochaber Old.. District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s7/db8r2db18r1db2w10db4~x2/">Nike ACG Lunarstorm (Fashion)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><img src="/variants/s7/db8r2db18r1db2w10db4~x2/sett.png" alt="Nike ACG Lunarstorm (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

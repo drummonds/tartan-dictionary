@@ -1,14 +1,16 @@
 ---
 title: "Lake Superior Ice Water Mansion"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Lake Superior Ice Water Mansion"
-  url: ""
+  url: "/setts/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16/)
-(the same proportion at any scale), whose colour order is pattern [BWWBWBWBWBWBWBWBWBWBWBWBWBWBWBBBWW](/stripes/bwwbwbwbwbwbwbwbwbwbwbwbwbwbwbbbww/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWWBWBWBWBWBWBWBWBWBWBWBWBWBWBBBWW](/stripes/bwwbwbwbwbwbwbwbwbwbwbwbwbwbwbbbww/).
 
 Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 

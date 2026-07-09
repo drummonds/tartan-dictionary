@@ -1,14 +1,16 @@
 ---
 title: "Scottish Scouts"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Scouts"
-  url: ""
+  url: "/setts/n11b2n2b2n2b12dg12b2dg12b12n11b2n2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n11b2n2b2n2b12dg12b2dg12b12n11b2n2/)
-(the same proportion at any scale), whose colour order is pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/n11b2n2b2n2b12dg12b2dg12b12n11b2n2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
@@ -54,6 +56,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/"><circle cx="417.4" cy="218.8" r="4" fill="#3465a4"><title>Cara O Cruz</title></circle></a><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><circle cx="372.0" cy="303.8" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/"><circle cx="319.5" cy="243.5" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.7" cy="260.2" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><circle cx="347.9" cy="245.1" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><circle cx="323.0" cy="280.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/"><circle cx="417.4" cy="218.7" r="4" fill="#3465a4"><title>Cara O Cruz</title></circle></a><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><circle cx="372.1" cy="303.7" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/"><circle cx="319.5" cy="243.4" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.8" cy="260.1" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><circle cx="347.9" cy="245.0" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><circle cx="323.0" cy="280.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/

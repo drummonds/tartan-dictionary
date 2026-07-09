@@ -1,14 +1,16 @@
 ---
 title: "Balnagowan (Harrods)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Balnagowan (Harrods)"
-  url: ""
+  url: "/setts/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2/)
-(the same proportion at any scale), whose colour order is pattern [GGRGRGKGKGRGRG](/stripes/ggrgrgkgkgrgrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGRGRGKGKGRGRG](/stripes/ggrgrgkgkgrgrg/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -70,6 +72,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.0" cy="125.3" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="120.0" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/"><circle cx="246.4" cy="108.6" r="4" fill="#3465a4"><title>Ainslie #2</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.5" cy="103.2" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="116.0" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><circle cx="269.0" cy="97.9" r="4" fill="#3465a4"><title>Lambert (Front Royal) Hunting</title></circle></a><a href="/variants/s12/k1dr14g1dr1g6lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="325.7" cy="123.0" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="131.1" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/"><circle cx="233.4" cy="90.5" r="4" fill="#3465a4"><title>Scottish Register of Tartans Corporate Tartan</title></circle></a><a href="/variants/s9/dy44y2k4dp2dy15r6k3lb3y2~x2/"><circle cx="328.8" cy="63.1" r="4" fill="#3465a4"><title>Inches of Perth</title></circle></a><circle cx="302.1" cy="113.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.0" cy="125.2" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="119.8" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/"><circle cx="246.4" cy="108.5" r="4" fill="#3465a4"><title>Ainslie #2</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.5" cy="103.1" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="115.9" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><circle cx="269.0" cy="97.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Hunting</title></circle></a><a href="/variants/s12/k1dr14g1dr1g6lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="325.7" cy="122.8" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="130.9" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/"><circle cx="233.4" cy="90.3" r="4" fill="#3465a4"><title>Scottish Register of Tartans Corporate Tartan</title></circle></a><a href="/variants/s9/dy44y2k4dp2dy15r6k3lb3y2~x2/"><circle cx="328.8" cy="62.9" r="4" fill="#3465a4"><title>Inches of Perth</title></circle></a><circle cx="302.1" cy="113.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/

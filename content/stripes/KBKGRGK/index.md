@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4db16k12g24r1g2k2~x2/">Dundas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4db16k12g24r1g2k2~x2/"><img src="/variants/s7/k4db16k12g24r1g2k2~x2/sett.png" alt="Dundas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/k4db16k12g12r1g2k2~x2/">Dundas #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/k4db16k12g12r1g2k2~x2/"><img src="/variants/s7/k4db16k12g12r1g2k2~x2/sett.png" alt="Dundas #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4db16k12g24r1g2k2~x2/">Dundas Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k4db16k12g24r1g2k2~x2/"><img src="/variants/s7/k4db16k12g24r1g2k2~x2/sett.png" alt="Dundas Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/k6g6r1g6k6db6k1~x2/">MacCallum #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/k6g6r1g6k6db6k1~x2/"><img src="/variants/s7/k6g6r1g6k6db6k1~x2/sett.png" alt="MacCallum #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/r1n19w1~x2/">Dunbar of Pitgaveny (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r1n19w1~x2/"><img src="/variants/s3/r1n19w1~x2/sett.png" alt="Dunbar of Pitgaveny (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r1n19w1~x2/">Dunbar of Pitgaveny Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r1n19w1~x2/"><img src="/variants/s3/r1n19w1~x2/sett.png" alt="Dunbar of Pitgaveny Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s3/r24dp16w3~x4/">National Autistic Society Scotland</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/r24dp16w3~x4/"><img src="/variants/s3/r24dp16w3~x4/sett.png" alt="National Autistic Society Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -1,14 +1,16 @@
 ---
 title: "Graham"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Graham"
-  url: ""
+  url: "/setts/k2db12k12g1t2g16t2g1k12db12k1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2db12k12g1t2g16t2g1k12db12k1/)
-(the same proportion at any scale), whose colour order is pattern [KBKGBGBGKBK](/stripes/kbkgbgbgkbk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k2db12k12g1t2g16t2g1k12db12k1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKGBGBGKBK](/stripes/kbkgbgbgkbk/).
 
 Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -31,7 +33,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 
 ## Related setts
 
-Later records of the **Graham** name adjusted Logan's counts: [Graham](/setts/s4/g12k4g1k4~g005020-k101010~x2/); [Graham Dress](/setts/s21/w4b4w60b5w5k30b27k5b30k27g4ba5g66ba5g4k30w5b5w57b4w4~b2c4084-ba3c82af-g005020-k101010-we0e0e0/); [Graham of Airth](/setts/s18/b6k2b6k12b3k13y2g18b3r3b3g18y2k13b15r5b3r5~b5a008c-g005020-k101010-rdc0000-ye8c000~x2/); [Graham of Menteith](/setts/s6/g8b1g1k6ba6k1~b2474e8-ba28287c-g006c3c-k101010~x4/). Compare their thread counts with Logan's above.
+Later records of the **Graham** name adjusted Logan's counts: [Graham](/variants/s3/g12k4g1~x2/); [Graham Dress](/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/); [Graham of Airth](/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/); [Graham of Menteith](/variants/s6/g8lb1g1k6db6k1~x4/). Compare their thread counts with Logan's above.
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -74,6 +76,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db9k1db1~x4/"><circle cx="171.4" cy="139.3" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db8k1db1~x4/"><circle cx="166.7" cy="139.3" r="4" fill="#3465a4"><title>Riddoch (Name)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/"><circle cx="176.4" cy="147.0" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1~x2/"><circle cx="171.4" cy="142.9" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/"><circle cx="171.4" cy="142.9" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><a href="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/"><circle cx="159.5" cy="153.7" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><a href="/variants/s9/k2db3k2db18k11db2k11g25dp2~x2/"><circle cx="167.2" cy="167.7" r="4" fill="#3465a4"><title>Aitchison Family (Kinghorn) (Personal)</title></circle></a><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="141.2" cy="176.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.6" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="132.3" cy="169.1" r="4" fill="#3465a4"><title>Murray of Atholl #2</title></circle></a><circle cx="165.0" cy="152.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db9k1db1~x4/"><circle cx="171.4" cy="139.1" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db8k1db1~x4/"><circle cx="166.7" cy="139.2" r="4" fill="#3465a4"><title>Riddoch (Name)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/"><circle cx="176.4" cy="146.9" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1~x2/"><circle cx="171.4" cy="142.8" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/"><circle cx="171.4" cy="142.8" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><a href="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/"><circle cx="159.5" cy="153.6" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><a href="/variants/s9/k2db3k2db18k11db2k11g25dp2~x2/"><circle cx="167.2" cy="167.6" r="4" fill="#3465a4"><title>Aitchison Family (Kinghorn) (Personal)</title></circle></a><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="141.2" cy="176.4" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.4" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="132.3" cy="169.0" r="4" fill="#3465a4"><title>Murray of Atholl #2</title></circle></a><circle cx="165.0" cy="152.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/

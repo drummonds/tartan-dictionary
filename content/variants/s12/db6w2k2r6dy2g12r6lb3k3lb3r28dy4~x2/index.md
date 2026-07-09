@@ -1,16 +1,18 @@
 ---
 title: "Wren (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Wren"
   url: "/tartans/wren/"
 - name: "Wren (Name)"
-  url: ""
+  url: "/setts/db6w2k2r6dy2g12r6lb3k3lb3r28dy4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6w2k2r6dy2g12r6lb3k3lb3r28dy4/)
-(the same proportion at any scale), whose colour order is pattern [BWKRGGRWKWRG](/stripes/bwkrggrwkwrg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db6w2k2r6dy2g12r6lb3k3lb3r28dy4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKRGGRWKWRG](/stripes/bwkrggrwkwrg/).
 
 Part of the [Wren](/tartans/wren/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db6w2k2r6dy2g12r6t3k3t3r28dy4~x2~r2109032-t2503227/"><circle cx="207.3" cy="63.4" r="4" fill="#3465a4"><title>Wren</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.3" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.7" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><circle cx="162.4" cy="106.7" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.5" cy="93.9" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/"><circle cx="157.2" cy="107.3" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="221.9" cy="106.5" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/"><circle cx="205.1" cy="72.7" r="4" fill="#3465a4"><title>West Virginia</title></circle></a><a href="/variants/s15/r12lb2r12g8y1k6lb4k1lb1k1lb4r12w1k1r1~x2/"><circle cx="202.7" cy="100.6" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><circle cx="255.0" cy="93.3" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><circle cx="187.5" cy="85.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db6w2k2r6dy2g12r6t3k3t3r28dy4~x2~r2109032-t2503227/"><circle cx="207.3" cy="63.2" r="4" fill="#3465a4"><title>Wren</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.2" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.6" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><circle cx="162.4" cy="106.5" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.5" cy="93.7" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/"><circle cx="157.2" cy="107.2" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="221.9" cy="106.3" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/"><circle cx="205.1" cy="72.6" r="4" fill="#3465a4"><title>West Virginia</title></circle></a><a href="/variants/s15/r12lb2r12g8y1k6lb4k1lb1k1lb4r12w1k1r1~x2/"><circle cx="202.7" cy="100.5" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><circle cx="255.0" cy="93.2" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><circle cx="187.5" cy="85.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db6w2k2r6dy2g12r6lb3k3lb3r28dy4~x2/

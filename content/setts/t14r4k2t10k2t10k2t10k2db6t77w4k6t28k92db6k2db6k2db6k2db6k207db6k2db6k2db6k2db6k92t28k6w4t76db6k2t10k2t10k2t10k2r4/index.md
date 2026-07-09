@@ -1,5 +1,12 @@
 ---
 title: "Unidentified (Miss Paterson)"
-redirect: "/variants/s44/t14r4k2t10k2t10k2t10k2db6t77w4k6t28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92t28k6w4t76db6k2t10k2t10k2t10k2r4/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Unidentified (Miss Paterson)](/variants/s44/t14r4k2t10k2t10k2t10k2db6t77w4k6t28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92t28k6w4t76db6k2t10k2t10k2t10k2r4/).
+This is the **Unidentified (Miss Paterson)** sett — one scale-free proportion (`t14r4k2t10k2t10k2t10k2db6t77w4k6t28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92t28k6w4t76db6k2t10k2t10k2t10k2r4`), colour order pattern
+[BRKBKBKBKBBWKBKBKBKBKBKBKBKBKBKBKWBBKBKBKBKR](/stripes/brkbkbkbkbbwkbkbkbkbkbkbkbkbkbkbkwbbkbkbkbkr/). It is recorded as a single **variant**, below.
+First attested **2004**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Unidentified (Miss Paterson)](/variants/s44/t14r4k2t10k2t10k2t10k2db6t77w4k6t28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92t28k6w4t76db6k2t10k2t10k2t10k2r4/) ★ | 2004 | ![Unidentified (Miss Paterson) sett](/variants/s44/t14r4k2t10k2t10k2t10k2db6t77w4k6t28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92t28k6w4t76db6k2t10k2t10k2t10k2r4/sett.png) |

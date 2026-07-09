@@ -1,5 +1,12 @@
 ---
 title: "Jardine"
-redirect: "/variants/s8/n9o9yi9r1y1o9y1r1~x4~n1900000-o2205070-yi2300000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Jardine](/variants/s8/n9o9yi9r1y1o9y1r1~x4~n1900000-o2205070-yi2300000/).
+This is the **Jardine** sett — one scale-free proportion (`n9o9yi9r1y1o9y1r1`), colour order pattern
+[BRGRGRGR](/stripes/brgrgrgr/). It is recorded as a single **variant**, below.
+First attested **1978**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×4 | [Jardine](/variants/s8/n9o9yi9r1y1o9y1r1~x4~n1900000-o2205070-yi2300000/) ★ | 1978 | ![Jardine sett](/variants/s8/n9o9yi9r1y1o9y1r1~x4~n1900000-o2205070-yi2300000/sett.png) |

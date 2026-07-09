@@ -1,5 +1,12 @@
 ---
 title: "Volkswagen Orange Trim (Fashion)"
-redirect: "/variants/s6/lo26k10lo3g3lo3k3~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Volkswagen Orange Trim (Fashion)](/variants/s6/lo26k10lo3g3lo3k3~x6/).
+This is the **Volkswagen Orange Trim (Fashion)** sett — one scale-free proportion (`lo26k10lo3g3lo3k3`), colour order pattern
+[KYGYKY](/stripes/kygyky/). It is recorded as a single **variant**, below.
+First attested **~2008**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Volkswagen Orange Trim (Fashion)](/variants/s6/lo26k10lo3g3lo3k3~x6/) ★ | ~2008 | ![Volkswagen Orange Trim (Fashion) sett](/variants/s6/lo26k10lo3g3lo3k3~x6/sett.png) |

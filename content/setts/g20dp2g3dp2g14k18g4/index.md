@@ -1,5 +1,12 @@
 ---
 title: "Pringle, James (Fashion)"
-redirect: "/variants/s7/g20dp2g3dp2g14k18g4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pringle, James (Fashion)](/variants/s7/g20dp2g3dp2g14k18g4~x2/).
+This is the **Pringle, James (Fashion)** sett — one scale-free proportion (`g20dp2g3dp2g14k18g4`), colour order pattern
+[GBGBGKG](/stripes/gbgbgkg/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Pringle, James (Fashion)](/variants/s7/g20dp2g3dp2g14k18g4~x2/) ★ | 1996 | ![Pringle, James (Fashion) sett](/variants/s7/g20dp2g3dp2g14k18g4~x2/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Pike Personal Weavers Tartan"
-redirect: "/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Pike Personal Weavers Tartan](/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/).
+This is the **Pike Personal Weavers Tartan** sett — one scale-free proportion (`g10k3g3k20dp3k5g3k20g3k3g10`), colour order pattern
+[GKGKGKBKGKGKGKBKGKGK](/stripes/gkgkgkbkgkgkgkbkgkgk/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Pike Personal Weavers Tartan](/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/) ★ | ~2016 | ![Pike Personal Weavers Tartan sett](/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/sett.png) |

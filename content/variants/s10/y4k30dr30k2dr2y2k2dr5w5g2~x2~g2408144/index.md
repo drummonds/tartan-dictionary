@@ -1,14 +1,16 @@
 ---
 title: "Haileybury Pipe Band Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Haileybury Pipe Band (Corporate)"
   url: "/setts/y4k30dr30k2dr2y2k2dr5w5g2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4k30dr30k2dr2y2k2dr5w5g2/)
-(the same proportion at any scale), whose colour order is pattern [GKBKBGKBWG](/stripes/gkbkbgkbwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y4k30dr30k2dr2y2k2dr5w5g2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBKBGKBWG](/stripes/gkbkbgkbwg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
@@ -23,7 +25,7 @@ Earliest known date: 2010 The Haileybury tartan was designed to recognise the ex
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>2010 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><circle cx="222.8" cy="109.5" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><circle cx="204.1" cy="96.4" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/"><circle cx="268.3" cy="124.8" r="4" fill="#3465a4"><title>Booth (Fashion)</title></circle></a><a href="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/"><circle cx="231.9" cy="123.3" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.5" cy="101.1" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><circle cx="207.4" cy="94.8" r="4" fill="#3465a4"><title>Spotsylvania County, Sherrif's Office of</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.0" cy="100.9" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="225.1" cy="121.4" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/variants/s9/k12r1k1r1k1r4dg12y1dg2~x4/"><circle cx="216.9" cy="148.8" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/"><circle cx="193.8" cy="110.8" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><circle cx="222.0" cy="109.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><circle cx="222.8" cy="109.4" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><circle cx="204.1" cy="96.3" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/"><circle cx="268.3" cy="124.7" r="4" fill="#3465a4"><title>Booth (Fashion)</title></circle></a><a href="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/"><circle cx="231.9" cy="123.2" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.5" cy="101.0" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><circle cx="207.4" cy="94.7" r="4" fill="#3465a4"><title>Spotsylvania County, Sherrif's Office of</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.0" cy="100.7" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="225.1" cy="121.3" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/variants/s9/k12r1k1r1k1r4dg12y1dg2~x4/"><circle cx="216.9" cy="148.7" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/"><circle cx="193.8" cy="110.6" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><circle cx="222.0" cy="109.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2~g2408144/

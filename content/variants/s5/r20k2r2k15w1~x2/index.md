@@ -1,14 +1,16 @@
 ---
 title: "Masai Shuka 15 (Artefact)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Masai Shuka 15 (Artefact)"
-  url: ""
+  url: "/setts/r20k2r2k15w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r20k2r2k15w1/)
-(the same proportion at any scale), whose colour order is pattern [RKRKW](/stripes/rkrkw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r20k2r2k15w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRKW](/stripes/rkrkw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.8" cy="168.6" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="161.1" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/variants/s5/k18r4k18r32w3~x2/"><circle cx="255.0" cy="203.8" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/variants/s5/k18r4k18r32w3/"><circle cx="255.0" cy="203.8" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="327.7" cy="176.8" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s5/r4k8r12k1y1~x2/"><circle cx="330.1" cy="186.6" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="266.9" cy="208.8" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s4/k23r3k1r12~x4/"><circle cx="368.7" cy="149.2" r="4" fill="#3465a4"><title>Ewing</title></circle></a><a href="/variants/s5/r8k1r8k12r1~x2/"><circle cx="324.6" cy="210.0" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="382.6" cy="108.6" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><circle cx="324.5" cy="154.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.9" cy="168.5" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="161.0" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/variants/s5/k18r4k18r32w3~x2/"><circle cx="255.0" cy="203.7" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/variants/s5/k18r4k18r32w3/"><circle cx="255.0" cy="203.7" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="327.8" cy="176.7" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s5/r4k8r12k1y1~x2/"><circle cx="330.1" cy="186.6" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="266.9" cy="208.7" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s4/k23r3k1r12~x4/"><circle cx="368.8" cy="149.1" r="4" fill="#3465a4"><title>Ewing</title></circle></a><a href="/variants/s5/r8k1r8k12r1~x2/"><circle cx="324.6" cy="209.9" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="382.6" cy="108.5" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><circle cx="324.5" cy="154.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r20k2r2k15w1~x2/

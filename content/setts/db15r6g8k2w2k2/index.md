@@ -1,5 +1,12 @@
 ---
 title: "Stovell (2015)"
-redirect: "/variants/s6/db15r6g8k2w2k2~x6/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stovell (2015)](/variants/s6/db15r6g8k2w2k2~x6/).
+This is the **Stovell (2015)** sett — one scale-free proportion (`db15r6g8k2w2k2`), colour order pattern
+[BRGKWK](/stripes/brgkwk/). It is recorded as a single **variant**, below.
+First attested **2015**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×6 | [Stovell (2015)](/variants/s6/db15r6g8k2w2k2~x6/) ★ | 2015 | ![Stovell (2015) sett](/variants/s6/db15r6g8k2w2k2~x6/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Daks, Blue Loden"
-redirect: "/variants/s8/o5lb13do4r4do27lb3do4o5/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Daks, Blue Loden](/variants/s8/o5lb13do4r4do27lb3do4o5/).
+This is the **Daks, Blue Loden** sett — one scale-free proportion (`o5lb13do4r4do27lb3do4o5`), colour order pattern
+[RBWBRBWR](/stripes/rbwbrbwr/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Daks, Blue Loden](/variants/s8/o5lb13do4r4do27lb3do4o5/) ★ | ~2016 | ![Daks, Blue Loden sett](/variants/s8/o5lb13do4r4do27lb3do4o5/sett.png) |

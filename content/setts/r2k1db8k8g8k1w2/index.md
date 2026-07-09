@@ -1,5 +1,12 @@
 ---
 title: "Campbell Cawdor"
-redirect: "/variants/s7/r2k1db8k8g8k1w2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Campbell Cawdor](/variants/s7/r2k1db8k8g8k1w2/).
+This is the **Campbell Cawdor** sett — one scale-free proportion (`r2k1db8k8g8k1w2`), colour order pattern
+[RKBKGKW](/stripes/rkbkgkw/). It is recorded as a single **variant**, below.
+First attested **~2016**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×1 | [Campbell Cawdor](/variants/s7/r2k1db8k8g8k1w2/) ★ | ~2016 | ![Campbell Cawdor sett](/variants/s7/r2k1db8k8g8k1w2/sett.png) |

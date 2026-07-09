@@ -1,5 +1,12 @@
 ---
 title: "MacPherson Dress Blue (Dance)"
-redirect: "/variants/s7/w5k3w26db21w3db8y3~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacPherson Dress Blue (Dance)](/variants/s7/w5k3w26db21w3db8y3~x2/).
+This is the **MacPherson Dress Blue (Dance)** sett — one scale-free proportion (`w5k3w26db21w3db8y3`), colour order pattern
+[GBWBWKW](/stripes/gbwbwkw/). It is recorded as a single **variant**, below.
+First attested **1980**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacPherson Dress Blue (Dance)](/variants/s7/w5k3w26db21w3db8y3~x2/) ★ | 1980 | ![MacPherson Dress Blue (Dance) sett](/variants/s7/w5k3w26db21w3db8y3~x2/sett.png) |

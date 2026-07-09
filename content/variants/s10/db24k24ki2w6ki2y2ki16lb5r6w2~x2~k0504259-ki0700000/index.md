@@ -1,16 +1,18 @@
 ---
 title: "Scotland's International - Home (Fas"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland's International"
   url: "/tartans/scotland-s-international/"
 - name: "Scotland's International - Home (Fas"
-  url: ""
+  url: "/setts/db24k24ki2w6ki2y2ki16lb5r6w2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db24k24ki2w6ki2y2ki16lb5r6w2/)
-(the same proportion at any scale), whose colour order is pattern [BKKWKGKWRW](/stripes/bkkwkgkwrw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db24k24ki2w6ki2y2ki16lb5r6w2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKKWKGKWRW](/stripes/bkkwkgkwrw/).
 
 Part of the [Scotland's International](/tartans/scotland-s-international/) tartan — the named design grouping this sett with its other cloths.
 
@@ -79,6 +81,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/"><circle cx="54.3" cy="117.2" r="4" fill="#3465a4"><title>Scotland's International - Home</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2/"><circle cx="94.2" cy="119.7" r="4" fill="#3465a4"><title>Boxell, Baron (Personal)</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/"><circle cx="94.4" cy="119.5" r="4" fill="#3465a4"><title>Boxell of West Niddry, Baron (Personal)</title></circle></a><a href="/variants/s13/k5lb5y2lb5k5db25k5lb3dg5r2dg5lb3k5~x2/"><circle cx="87.2" cy="113.5" r="4" fill="#3465a4"><title>Liberton</title></circle></a><a href="/variants/s11/db12k1lb2k1dbi9k7dp2k2dp2y1r2~x4~db1204274-dbi1406275/"><circle cx="105.0" cy="126.1" r="4" fill="#3465a4"><title>Churchill (Personal)</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="120.0" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/"><circle cx="52.5" cy="163.6" r="4" fill="#3465a4"><title>South Lanarkshire (2002) (District)</title></circle></a><a href="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi2203152-g1903114/"><circle cx="76.8" cy="145.1" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s14/k6t3db28lo8k10lo2k2lb2k4g16dr12k2dr6lb2~x2/"><circle cx="45.9" cy="100.8" r="4" fill="#3465a4"><title>Beatty</title></circle></a><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/"><circle cx="65.4" cy="113.8" r="4" fill="#3465a4"><title>Ross Anderson (Fashion) #2</title></circle></a><circle cx="53.0" cy="116.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/"><circle cx="54.3" cy="117.1" r="4" fill="#3465a4"><title>Scotland's International - Home</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2/"><circle cx="94.2" cy="119.5" r="4" fill="#3465a4"><title>Boxell, Baron (Personal)</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/"><circle cx="94.4" cy="119.4" r="4" fill="#3465a4"><title>Boxell of West Niddry, Baron (Personal)</title></circle></a><a href="/variants/s13/k5lb5y2lb5k5db25k5lb3dg5r2dg5lb3k5~x2/"><circle cx="87.2" cy="113.4" r="4" fill="#3465a4"><title>Liberton</title></circle></a><a href="/variants/s11/db12k1lb2k1dbi9k7dp2k2dp2y1r2~x4~db1204274-dbi1406275/"><circle cx="105.0" cy="126.0" r="4" fill="#3465a4"><title>Churchill (Personal)</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="119.9" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/"><circle cx="52.5" cy="163.5" r="4" fill="#3465a4"><title>South Lanarkshire (2002) (District)</title></circle></a><a href="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi2203152-g1903114/"><circle cx="76.8" cy="144.9" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s14/k6t3db28lo8k10lo2k2lb2k4g16dr12k2dr6lb2~x2/"><circle cx="45.9" cy="100.6" r="4" fill="#3465a4"><title>Beatty</title></circle></a><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/"><circle cx="65.5" cy="113.6" r="4" fill="#3465a4"><title>Ross Anderson (Fashion) #2</title></circle></a><circle cx="53.1" cy="116.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db24k24ki2w6ki2y2ki16lb5r6w2~x2~k0504259-ki0700000/

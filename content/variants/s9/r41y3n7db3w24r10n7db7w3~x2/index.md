@@ -1,6 +1,7 @@
 ---
 title: "Drummond of Perth Dress #2"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
@@ -11,10 +12,11 @@ crumbs:
 - name: "Drummond of Perth Dress"
   url: "/tartans/drummond-of-perth-dress/"
 - name: "Drummond of Perth Dress #2"
-  url: ""
+  url: "/setts/r41y3n7db3w24r10n7db7w3/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r41y3n7db3w24r10n7db7w3/)
-(the same proportion at any scale), whose colour order is pattern [RGBBWRBBW](/stripes/rgbbwrbbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/r41y3n7db3w24r10n7db7w3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGBBWRBBW](/stripes/rgbbwrbbw/).
 
 Part of the [Drummond of Perth Dress](/tartans/drummond-of-perth-dress/) tartan — the named design grouping this sett with its other cloths.
 
@@ -77,6 +79,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><circle cx="352.7" cy="109.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress #3</title></circle></a><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.8" cy="147.7" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s9/r24ly2n3dy2w10r4n3dy3w2~x2~ly3307090-dy1603076/"><circle cx="280.5" cy="145.9" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/"><circle cx="272.6" cy="142.2" r="4" fill="#3465a4"><title>Manx Laxey Red District Tartan</title></circle></a><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><circle cx="182.4" cy="127.6" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="162.1" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="236.6" cy="169.5" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/variants/s7/r8dp2r24db5w26o2w8~x2/"><circle cx="239.2" cy="170.2" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="284.8" cy="140.1" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/"><circle cx="230.1" cy="118.2" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><circle cx="240.2" cy="145.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><circle cx="352.7" cy="109.1" r="4" fill="#3465a4"><title>Drummond of Perth Dress #3</title></circle></a><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.8" cy="147.6" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s9/r24ly2n3dy2w10r4n3dy3w2~x2~ly3307090-dy1603076/"><circle cx="280.5" cy="145.8" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/"><circle cx="272.6" cy="142.1" r="4" fill="#3465a4"><title>Manx Laxey Red District Tartan</title></circle></a><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><circle cx="182.4" cy="127.5" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="162.0" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="236.6" cy="169.4" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/variants/s7/r8dp2r24db5w26o2w8~x2/"><circle cx="239.2" cy="170.1" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="284.8" cy="140.0" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/"><circle cx="230.1" cy="118.1" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><circle cx="240.2" cy="145.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r41y3n7db3w24r10n7db7w3~x2/

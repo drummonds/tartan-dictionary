@@ -1,14 +1,16 @@
 ---
 title: "Harding (Name)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Harding"
   url: "/setts/dg30dt2n7r14n7r7w1dt14/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg30dt2n7r14n7r7w1dt14/)
-(the same proportion at any scale), whose colour order is pattern [BWRBRBBG](/stripes/bwrbrbbg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg30dt2n7r14n7r7w1dt14/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRBRBBG](/stripes/bwrbrbbg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2~n1900000/"><circle cx="236.5" cy="140.7" r="4" fill="#3465a4"><title>Harding</title></circle></a><a href="/variants/s8/g30db2n7r14n7r7w1db14~x2/"><circle cx="228.8" cy="160.2" r="4" fill="#3465a4"><title>Harding Personal Tartan</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="172.0" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><circle cx="270.1" cy="137.2" r="4" fill="#3465a4"><title>Norwegian Migration Period (Artefact</title></circle></a><a href="/variants/s7/y1db14r28dg14r1g14y1~x2/"><circle cx="233.3" cy="152.8" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.3" cy="175.6" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s6/dp2g18dp15dr24k1ly2~x2/"><circle cx="242.8" cy="163.4" r="4" fill="#3465a4"><title>Miller, Reverend Ian (Personal</title></circle></a><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/"><circle cx="199.8" cy="140.5" r="4" fill="#3465a4"><title>Isle of Skye</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.5" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><circle cx="260.8" cy="168.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2~n1900000/"><circle cx="236.6" cy="140.5" r="4" fill="#3465a4"><title>Harding</title></circle></a><a href="/variants/s8/g30db2n7r14n7r7w1db14~x2/"><circle cx="228.8" cy="160.1" r="4" fill="#3465a4"><title>Harding Personal Tartan</title></circle></a><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="226.7" cy="171.9" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><circle cx="270.2" cy="137.1" r="4" fill="#3465a4"><title>Norwegian Migration Period (Artefact</title></circle></a><a href="/variants/s7/y1db14r28dg14r1g14y1~x2/"><circle cx="233.3" cy="152.7" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.4" cy="175.5" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s6/dp2g18dp15dr24k1ly2~x2/"><circle cx="242.8" cy="163.3" r="4" fill="#3465a4"><title>Miller, Reverend Ian (Personal</title></circle></a><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/"><circle cx="199.8" cy="140.4" r="4" fill="#3465a4"><title>Isle of Skye</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.4" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.4" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><circle cx="260.9" cy="168.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg30dt2n7r14n7r7w1dt14~x2/

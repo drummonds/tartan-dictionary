@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/">MacBeth/Stewart Brydone 1862</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><img src="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/sett.png" alt="MacBeth/Stewart Brydone 1862 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/">MacLulich</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/"><img src="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/sett.png" alt="MacLulich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/">MacLulich Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><img src="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/sett.png" alt="MacLulich Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

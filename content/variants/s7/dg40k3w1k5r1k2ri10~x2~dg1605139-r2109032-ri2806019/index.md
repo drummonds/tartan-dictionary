@@ -1,14 +1,16 @@
 ---
 title: "Aviemore Highland"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Aviemore Highland"
   url: "/setts/dg40k3w1k5r1k2ri10/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg40k3w1k5r1k2ri10/)
-(the same proportion at any scale), whose colour order is pattern [GKWKRKR](/stripes/gkwkrkr/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dg40k3w1k5r1k2ri10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWKRKR](/stripes/gkwkrkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/"><circle cx="365.8" cy="79.0" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.0" cy="132.6" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.1" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.1" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.6" cy="89.5" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.4" cy="60.3" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="353.2" cy="59.4" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/variants/s8/g44lr2g10lb3k6lr1r2k18~x2/"><circle cx="329.6" cy="82.3" r="4" fill="#3465a4"><title>Mull Rugby Club (Old)</title></circle></a><a href="/variants/s6/n4ly1k4g32k4dr2~x2/"><circle cx="378.8" cy="106.9" r="4" fill="#3465a4"><title>Tough (Personal)</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.0" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><circle cx="363.1" cy="80.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/"><circle cx="365.9" cy="78.9" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.0" cy="132.5" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.0" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.0" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.6" cy="89.4" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.4" cy="60.2" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="353.2" cy="59.3" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/variants/s8/g44lr2g10lb3k6lr1r2k18~x2/"><circle cx="329.6" cy="82.2" r="4" fill="#3465a4"><title>Mull Rugby Club (Old)</title></circle></a><a href="/variants/s6/n4ly1k4g32k4dr2~x2/"><circle cx="378.9" cy="106.8" r="4" fill="#3465a4"><title>Tough (Personal)</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.0" cy="66.8" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><circle cx="363.1" cy="80.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg40k3w1k5r1k2ri10~x2~dg1605139-r2109032-ri2806019/

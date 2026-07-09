@@ -1,14 +1,16 @@
 ---
 title: "Oxford University"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Oxford University"
-  url: ""
+  url: "/setts/g16db59ly4db59g16dbi9/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16db59ly4db59g16dbi9/)
-(the same proportion at any scale), whose colour order is pattern [BGBYBG](/stripes/bgbybg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/g16db59ly4db59g16dbi9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBYBG](/stripes/bgbybg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -62,6 +64,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db40g7y3g7db15r5~x2/"><circle cx="441.9" cy="196.9" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><circle cx="482.6" cy="138.3" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk (St Nicholas)</title></circle></a><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><circle cx="437.0" cy="221.1" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><a href="/variants/s6/db128dr8lb41dt4lb4dt4/"><circle cx="480.9" cy="156.1" r="4" fill="#3465a4"><title>French Freemasons' Pride</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.2" cy="196.3" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.5" cy="236.4" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.1" cy="235.0" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/"><circle cx="438.8" cy="153.8" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="424.3" cy="251.1" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="431.3" cy="198.5" r="4" fill="#3465a4"><title>Hsu (Personal)</title></circle></a><circle cx="460.8" cy="215.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db40g7y3g7db15r5~x2/"><circle cx="441.9" cy="196.8" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><circle cx="482.6" cy="138.2" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk (St Nicholas)</title></circle></a><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><circle cx="437.1" cy="221.1" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><a href="/variants/s6/db128dr8lb41dt4lb4dt4/"><circle cx="481.0" cy="156.0" r="4" fill="#3465a4"><title>French Freemasons' Pride</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.2" cy="196.2" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.5" cy="236.3" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.2" cy="234.9" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/"><circle cx="438.8" cy="153.7" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="424.3" cy="251.1" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="431.3" cy="198.4" r="4" fill="#3465a4"><title>Hsu (Personal)</title></circle></a><circle cx="460.8" cy="215.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/

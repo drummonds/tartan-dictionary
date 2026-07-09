@@ -1,14 +1,16 @@
 ---
 title: "MacGuire Irish Family Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "MacGuire Irish Family Tartan"
-  url: ""
+  url: "/setts/w10db3g30r4lb12r30lb6r6lb6r6lb6r30g30dbi4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w10db3g30r4lb12r30lb6r6lb6r6lb6r30g30dbi4/)
-(the same proportion at any scale), whose colour order is pattern [BGRWRWRWRWRGBW](/stripes/bgrwrwrwrwrgbw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/w10db3g30r4lb12r30lb6r6lb6r6lb6r30g30dbi4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRWRWRWRWRGBW](/stripes/bgrwrwrwrwrgbw/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -23,7 +25,7 @@ Earliest known date: 1985 MacGuire is an Irish Family tartan
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>1985 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r14lb4dt6y1dt2w2dt2g12r6dt2r2w1~x4/"><circle cx="177.0" cy="138.5" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Royal)</title></circle></a><a href="/variants/s14/w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2~x2/"><circle cx="218.1" cy="167.0" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><a href="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><circle cx="218.6" cy="166.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2~x2/"><circle cx="220.5" cy="166.9" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/"><circle cx="220.5" cy="166.9" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/"><circle cx="219.0" cy="167.5" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><circle cx="147.7" cy="154.3" r="4" fill="#3465a4"><title>Beguinot, (Personal)</title></circle></a><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><circle cx="211.2" cy="176.3" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/"><circle cx="254.6" cy="168.8" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s18/r4t4db8ly1g12r6db2r6w1r6w1r6db2r6g12ly1db8t4~x4~r2109032-t2405244-db1406275-ly3307090/"><circle cx="148.4" cy="156.8" r="4" fill="#3465a4"><title>Norwich No.057</title></circle></a><circle cx="180.9" cy="155.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r14lb4dt6y1dt2w2dt2g12r6dt2r2w1~x4/"><circle cx="177.1" cy="138.4" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Royal)</title></circle></a><a href="/variants/s14/w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2~x2/"><circle cx="218.1" cy="166.9" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><a href="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><circle cx="218.6" cy="166.1" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2~x2/"><circle cx="220.5" cy="166.8" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/"><circle cx="220.5" cy="166.8" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/"><circle cx="219.0" cy="167.4" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><circle cx="147.7" cy="154.1" r="4" fill="#3465a4"><title>Beguinot, (Personal)</title></circle></a><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><circle cx="211.2" cy="176.1" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/"><circle cx="254.6" cy="168.7" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s18/r4t4db8ly1g12r6db2r6w1r6w1r6db2r6g12ly1db8t4~x4~r2109032-t2405244-db1406275-ly3307090/"><circle cx="148.4" cy="156.7" r="4" fill="#3465a4"><title>Norwich No.057</title></circle></a><circle cx="180.9" cy="155.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w10db3g30r4lb12r30lb6r6lb6r6lb6r30g30dbi4~db1204274-dbi1404245/

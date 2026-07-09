@@ -1,5 +1,12 @@
 ---
 title: "Vassseur Mignon ({Personal)"
-redirect: "/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Vassseur Mignon ({Personal)](/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/).
+This is the **Vassseur Mignon ({Personal)** sett — one scale-free proportion (`r2ly2r2ly2g5o5g11n11g5o11ly2`), colour order pattern
+[RYRYGRGBGRY](/stripes/ryrygrgbgry/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Vassseur Mignon ({Personal)](/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/) ★ | 2013 | ![Vassseur Mignon ({Personal) sett](/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/sett.png) |

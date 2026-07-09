@@ -1,14 +1,16 @@
 ---
 title: "Desang (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Desang"
   url: "/setts/dr4wi2w8dg2w8k3wi2db4/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4wi2w8dg2w8k3wi2db4/)
-(the same proportion at any scale), whose colour order is pattern [BWKWGWWB](/stripes/bwkwgwwb/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr4wi2w8dg2w8k3wi2db4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWGWWB](/stripes/bwkwgwwb/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -60,6 +62,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.4" cy="216.5" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s7/do4o1do5w4k1w1lr1~x4/"><circle cx="181.3" cy="211.0" r="4" fill="#3465a4"><title>Elgin</title></circle></a><a href="/variants/s8/w16db4k12g4w6b4w11y7~x2/"><circle cx="97.7" cy="215.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s8/w16db4k12dg4w6lo4w11y7~x2/"><circle cx="97.9" cy="214.5" r="4" fill="#3465a4"><title>MacLaren Dress (Dance)</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.3" cy="243.0" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s8/w16db4k12g4w6lo4w11y7~x2/"><circle cx="98.2" cy="215.3" r="4" fill="#3465a4"><title>MacLaren (D.C Dalgliesh version)</title></circle></a><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/"><circle cx="97.7" cy="216.0" r="4" fill="#3465a4"><title>MacLaren Albino (Dance)</title></circle></a><a href="/variants/s8/w4k1w4g6k4w5r1lb2~x2/"><circle cx="114.1" cy="218.5" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><circle cx="87.2" cy="208.0" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><circle cx="101.4" cy="216.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.4" cy="216.4" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s7/do4o1do5w4k1w1lr1~x4/"><circle cx="181.3" cy="210.9" r="4" fill="#3465a4"><title>Elgin</title></circle></a><a href="/variants/s8/w16db4k12g4w6b4w11y7~x2/"><circle cx="97.7" cy="215.6" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s8/w16db4k12dg4w6lo4w11y7~x2/"><circle cx="97.9" cy="214.4" r="4" fill="#3465a4"><title>MacLaren Dress (Dance)</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.3" cy="243.0" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s8/w16db4k12g4w6lo4w11y7~x2/"><circle cx="98.2" cy="215.2" r="4" fill="#3465a4"><title>MacLaren (D.C Dalgliesh version)</title></circle></a><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/"><circle cx="97.7" cy="216.0" r="4" fill="#3465a4"><title>MacLaren Albino (Dance)</title></circle></a><a href="/variants/s8/w4k1w4g6k4w5r1lb2~x2/"><circle cx="114.1" cy="218.5" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><circle cx="87.3" cy="207.9" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><circle cx="101.4" cy="216.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr4wi2w8dg2w8k3wi2db4~x4~wi3600000-w3502055/

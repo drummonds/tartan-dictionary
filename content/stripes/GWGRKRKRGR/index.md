@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/">Morrison Ancient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/"><img src="/variants/s10/r6g4r24k4r6k4r12g12w3g6/sett.png" alt="Morrison Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/">Morrison Old Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/"><img src="/variants/s10/r6g4r24k4r6k4r12g12w3g6/sett.png" alt="Morrison Old Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

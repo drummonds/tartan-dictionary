@@ -1,14 +1,16 @@
 ---
 title: "Highland Prince (Fashion)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Prince (Fashion)"
-  url: ""
+  url: "/setts/dr32r2g2db30dr1db2ly1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr32r2g2db30dr1db2ly1/)
-(the same proportion at any scale), whose colour order is pattern [BRGBBBY](/stripes/brgbbby/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/dr32r2g2db30dr1db2ly1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGBBBY](/stripes/brgbbby/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.4" cy="187.0" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.1" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.2" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.1" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.6" cy="171.2" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="460.9" cy="181.5" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/"><circle cx="349.5" cy="138.7" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s7/n37ly2r6ly2n8db49n3~x2/"><circle cx="377.5" cy="173.2" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.1" cy="148.6" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><circle cx="405.0" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.4" cy="186.9" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.0" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.1" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.0" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.1" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="461.0" cy="181.4" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/"><circle cx="349.5" cy="138.6" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.6" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s7/n37ly2r6ly2n8db49n3~x2/"><circle cx="377.6" cy="173.1" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.2" cy="148.5" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><circle cx="405.1" cy="139.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr32r2g2db30dr1db2ly1~x2/

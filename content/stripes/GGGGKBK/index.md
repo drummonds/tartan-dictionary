@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/">Gordon of Esslemont</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><img src="/variants/s7/y6g3y3g22k23dp23k4~x2/sett.png" alt="Gordon of Esslemont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/">Gordon of Esslemont Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><img src="/variants/s7/y6g3y3g22k23dp23k4~x2/sett.png" alt="Gordon of Esslemont Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

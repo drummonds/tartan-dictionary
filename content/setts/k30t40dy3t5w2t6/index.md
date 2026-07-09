@@ -1,5 +1,12 @@
 ---
 title: "Micron"
-redirect: "/variants/s6/k30t40dy3t5w2t6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Micron](/variants/s6/k30t40dy3t5w2t6~x2/).
+This is the **Micron** sett — one scale-free proportion (`k30t40dy3t5w2t6`), colour order pattern
+[BWBGBK](/stripes/bwbgbk/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Micron](/variants/s6/k30t40dy3t5w2t6~x2/) ★ | 2000 | ![Micron sett](/variants/s6/k30t40dy3t5w2t6~x2/sett.png) |

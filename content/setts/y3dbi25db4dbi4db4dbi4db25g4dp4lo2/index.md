@@ -1,5 +1,12 @@
 ---
 title: "Blue Peter"
-redirect: "/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Blue Peter](/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/).
+This is the **Blue Peter** sett — one scale-free proportion (`y3dbi25db4dbi4db4dbi4db25g4dp4lo2`), colour order pattern
+[GBBBBBBGBY](/stripes/gbbbbbbgby/). It is recorded as a single **variant**, below.
+First attested **2014**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Blue Peter](/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/) ★ | 2014 | ![Blue Peter sett](/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/sett.png) |

@@ -1,5 +1,12 @@
 ---
 title: "Terre D'Ecosse"
-redirect: "/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Terre D'Ecosse](/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/).
+This is the **Terre D'Ecosse** sett — one scale-free proportion (`w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3`), colour order pattern
+[WGKGKGKGYGKGKW](/stripes/wgkgkgkgygkgkw/). It is recorded as a single **variant**, below.
+First attested **2000**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Terre D'Ecosse](/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/) ★ | 2000 | ![Terre D'Ecosse sett](/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/sett.png) |

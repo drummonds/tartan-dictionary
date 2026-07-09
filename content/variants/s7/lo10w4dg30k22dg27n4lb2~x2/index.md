@@ -1,14 +1,16 @@
 ---
 title: "Aggreko Shepherd (Personal)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Aggreko Shepherd (Personal)"
-  url: ""
+  url: "/setts/lo10w4dg30k22dg27n4lb2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo10w4dg30k22dg27n4lb2/)
-(the same proportion at any scale), whose colour order is pattern [WBGKGWY](/stripes/wbgkgwy/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/lo10w4dg30k22dg27n4lb2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGKGWY](/stripes/wbgkgwy/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -61,6 +63,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="155.0" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.3" cy="142.8" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="268.0" cy="180.7" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="272.6" cy="171.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><circle cx="230.5" cy="152.1" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="182.2" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s6/g26db3g12k10dp15w2~x2/"><circle cx="230.6" cy="185.5" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="143.1" cy="150.7" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="151.0" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><circle cx="227.7" cy="149.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.3" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="154.9" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.4" cy="142.7" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="268.0" cy="180.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="272.7" cy="171.4" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><circle cx="230.5" cy="152.0" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="182.2" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s6/g26db3g12k10dp15w2~x2/"><circle cx="230.6" cy="185.4" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="143.1" cy="150.6" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.9" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><circle cx="227.7" cy="149.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lo10w4dg30k22dg27n4lb2~x2/

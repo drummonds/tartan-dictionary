@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
+<tr><td><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/">Campbell Dress Artifact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><img src="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/sett.png" alt="Campbell Dress Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/">Campbell, 42nd Dress (Balhousie)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/"><img src="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/sett.png" alt="Campbell, 42nd Dress (Balhousie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/">Campbell, 42nd dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><img src="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/sett.png" alt="Campbell, 42nd dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

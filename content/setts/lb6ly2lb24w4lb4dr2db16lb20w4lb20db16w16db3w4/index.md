@@ -1,5 +1,12 @@
 ---
 title: "MacHinery Dress (Fashion)"
-redirect: "/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [MacHinery Dress (Fashion)](/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/).
+This is the **MacHinery Dress (Fashion)** sett — one scale-free proportion (`lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4`), colour order pattern
+[WBWBWWWBBWWWYW](/stripes/wbwbwwwbbwwwyw/). It is recorded as a single **variant**, below.
+First attested **1984**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [MacHinery Dress (Fashion)](/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/) ★ | 1984 | ![MacHinery Dress (Fashion) sett](/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/sett.png) |

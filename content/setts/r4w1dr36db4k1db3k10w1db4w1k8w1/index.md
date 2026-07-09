@@ -1,5 +1,12 @@
 ---
 title: "YMCA"
-redirect: "/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [YMCA](/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/).
+This is the **YMCA** sett — one scale-free proportion (`r4w1dr36db4k1db3k10w1db4w1k8w1`), colour order pattern
+[RWBBKBKWBWKW](/stripes/rwbbkbkwbwkw/). It is recorded as a single **variant**, below.
+First attested **2013**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [YMCA](/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/) ★ | 2013 | ![YMCA sett](/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/sett.png) |

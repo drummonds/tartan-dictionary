@@ -1,14 +1,16 @@
 ---
 title: "Mizzou American Corporate Tartan"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Mizzou (Corporate)"
   url: "/setts/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/)
-(the same proportion at any scale), whose colour order is pattern [BGWKWGKWKWKGKRKGWKWG](/stripes/bgwkwgkwkwkgkrkgwkwg/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWKWGKWKWKGKRKGWKWG](/stripes/bgwkwgkwkwkgkrkgwkwg/).
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
@@ -23,7 +25,7 @@ Earliest known date: August 2008 From the Missouri University (Mizzou) website: 
 <dl class="dataset-prov">
 <dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
 <dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
-<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>data date</dt><dd>August 2008 <small>(this record)</small></dd>
 <dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
@@ -58,6 +60,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><circle cx="230.0" cy="66.1" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.2" cy="60.2" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s18/k36dg2k2dg2k18o18k3w3k3o18k18dg2k2dg2k18o18k3r3~x2/"><circle cx="267.6" cy="88.0" r="4" fill="#3465a4"><title>Chapman (Personal)</title></circle></a><a href="/variants/s18/k10lyi1ly2k1n2k1ly2lyi1k1n2k3n1k17ly18lyi1ly2k1dg2~x2~lyi3106095-ly3104101/"><circle cx="210.1" cy="69.6" r="4" fill="#3465a4"><title>Raznotravie (Corporate)</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.5" cy="72.2" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s15/g2r4g2k16g4k16g4k2g2k2g4k4db8k1w2~x2/"><circle cx="223.1" cy="110.4" r="4" fill="#3465a4"><title>MacKean Hunting Family Tartan</title></circle></a><a href="/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="211.8" cy="93.8" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="227.9" cy="96.6" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><circle cx="313.6" cy="52.1" r="4" fill="#3465a4"><title>Clutha</title></circle></a><a href="/variants/s11/k16n4o3k2db1w1r1k2o3n4k12~x4~n1900000-o2500000/"><circle cx="179.0" cy="76.3" r="4" fill="#3465a4"><title>Iron Horse (Corporate)</title></circle></a><circle cx="230.0" cy="66.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><circle cx="230.0" cy="65.9" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.2" cy="60.0" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s18/k36dg2k2dg2k18o18k3w3k3o18k18dg2k2dg2k18o18k3r3~x2/"><circle cx="267.6" cy="87.8" r="4" fill="#3465a4"><title>Chapman (Personal)</title></circle></a><a href="/variants/s18/k10lyi1ly2k1n2k1ly2lyi1k1n2k3n1k17ly18lyi1ly2k1dg2~x2~lyi3106095-ly3104101/"><circle cx="210.1" cy="69.4" r="4" fill="#3465a4"><title>Raznotravie (Corporate)</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.4" cy="72.0" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s15/g2r4g2k16g4k16g4k2g2k2g4k4db8k1w2~x2/"><circle cx="223.1" cy="110.2" r="4" fill="#3465a4"><title>MacKean Hunting Family Tartan</title></circle></a><a href="/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="211.8" cy="93.6" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="227.9" cy="96.5" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><circle cx="313.6" cy="51.9" r="4" fill="#3465a4"><title>Clutha</title></circle></a><a href="/variants/s11/k16n4o3k2db1w1r1k2o3n4k12~x4~n1900000-o2500000/"><circle cx="179.0" cy="76.1" r="4" fill="#3465a4"><title>Iron Horse (Corporate)</title></circle></a><circle cx="230.0" cy="65.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2~r2109032/

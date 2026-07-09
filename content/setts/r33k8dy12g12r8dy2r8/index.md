@@ -1,5 +1,12 @@
 ---
 title: "Tipperary, County"
-redirect: "/variants/s7/r33k8dy12g12r8dy2r8~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Tipperary, County](/variants/s7/r33k8dy12g12r8dy2r8~x2/).
+This is the **Tipperary, County** sett — one scale-free proportion (`r33k8dy12g12r8dy2r8`), colour order pattern
+[RGRGGKR](/stripes/rgrggkr/). It is recorded as a single **variant**, below.
+First attested **1996**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Tipperary, County](/variants/s7/r33k8dy12g12r8dy2r8~x2/) ★ | 1996 | ![Tipperary, County sett](/variants/s7/r33k8dy12g12r8dy2r8~x2/sett.png) |

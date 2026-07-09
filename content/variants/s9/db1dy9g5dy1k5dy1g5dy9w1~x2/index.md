@@ -1,16 +1,18 @@
 ---
 title: "Duchess of York"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Duchess of York"
   url: "/tartans/duchess-of-york/"
 - name: "Duchess of York"
-  url: ""
+  url: "/setts/db1dy9g5dy1k5dy1g5dy9w1/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1dy9g5dy1k5dy1g5dy9w1/)
-(the same proportion at any scale), whose colour order is pattern [BGGGKGGGW](/stripes/bgggkgggw/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/db1dy9g5dy1k5dy1g5dy9w1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGKGGGW](/stripes/bgggkgggw/).
 
 Part of the [Duchess of York](/tartans/duchess-of-york/) tartan — the named design grouping this sett with its other cloths.
 
@@ -65,6 +67,6 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/"><circle cx="232.6" cy="178.6" r="4" fill="#3465a4"><title>Duchess of York Family Tartan</title></circle></a><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="256.7" cy="185.1" r="4" fill="#3465a4"><title>Taylor Family Tartan</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="272.6" cy="171.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="151.0" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s8/r3k8g17y2g17k8db8k2~x2/"><circle cx="182.0" cy="186.8" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><a href="/variants/s7/y9dg4y22k9y9dg36r4~x2/"><circle cx="247.9" cy="210.6" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><circle cx="212.3" cy="155.9" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><circle cx="158.4" cy="171.8" r="4" fill="#3465a4"><title>Royal College of Physicians Corporate Tartan</title></circle></a><a href="/variants/s9/y3g24k18r4g22r6k4r3w3~x2/"><circle cx="187.8" cy="165.8" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/"><circle cx="279.3" cy="169.4" r="4" fill="#3465a4"><title>Fulton</title></circle></a><circle cx="233.6" cy="183.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/"><circle cx="232.6" cy="178.5" r="4" fill="#3465a4"><title>Duchess of York Family Tartan</title></circle></a><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="256.7" cy="185.0" r="4" fill="#3465a4"><title>Taylor Family Tartan</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="272.7" cy="171.4" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.9" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s8/r3k8g17y2g17k8db8k2~x2/"><circle cx="182.0" cy="186.7" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><a href="/variants/s7/y9dg4y22k9y9dg36r4~x2/"><circle cx="247.9" cy="210.5" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><circle cx="212.3" cy="155.8" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><circle cx="158.4" cy="171.7" r="4" fill="#3465a4"><title>Royal College of Physicians Corporate Tartan</title></circle></a><a href="/variants/s9/y3g24k18r4g22r6k4r3w3~x2/"><circle cx="187.8" cy="165.7" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/"><circle cx="279.3" cy="169.3" r="4" fill="#3465a4"><title>Fulton</title></circle></a><circle cx="233.6" cy="183.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/

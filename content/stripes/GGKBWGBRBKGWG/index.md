@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/">Greylock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/"><img src="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/sett.png" alt="Greylock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/">Greylock Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/"><img src="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/sett.png" alt="Greylock Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

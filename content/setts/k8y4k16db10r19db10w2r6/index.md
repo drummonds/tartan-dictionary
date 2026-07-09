@@ -1,5 +1,12 @@
 ---
 title: "Sullivan of Braemar"
-redirect: "/variants/s8/k8y4k16db10r19db10w2r6~x2/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Sullivan of Braemar](/variants/s8/k8y4k16db10r19db10w2r6~x2/).
+This is the **Sullivan of Braemar** sett — one scale-free proportion (`k8y4k16db10r19db10w2r6`), colour order pattern
+[KGKBRBWR](/stripes/kgkbrbwr/). It is recorded as a single **variant**, below.
+First attested **2009**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Sullivan of Braemar](/variants/s8/k8y4k16db10r19db10w2r6~x2/) ★ | 2009 | ![Sullivan of Braemar sett](/variants/s8/k8y4k16db10r19db10w2r6~x2/sett.png) |

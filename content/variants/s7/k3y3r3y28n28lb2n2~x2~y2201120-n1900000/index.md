@@ -1,14 +1,16 @@
 ---
 title: "Isle of Cumbrae (Corporate)"
 date: 2023-03-18
+type: variants
 crumbs:
 - name: "Home"
   url: "/"
 - name: "Isle of Cumbrae (Corporate)"
-  url: ""
+  url: "/setts/k3y3r3y28n28lb2n2/"
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3y3r3y28n28lb2n2/)
-(the same proportion at any scale), whose colour order is pattern [BWBGRGK](/stripes/bwbgrgk/).
+This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
+provenance below. It is one weaving of the [sett](/setts/k3y3r3y28n28lb2n2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBGRGK](/stripes/bwbgrgk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

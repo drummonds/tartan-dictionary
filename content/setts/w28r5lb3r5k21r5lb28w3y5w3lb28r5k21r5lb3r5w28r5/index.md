@@ -1,5 +1,12 @@
 ---
 title: "Stirling & Bannockburn Dress"
-redirect: "/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Stirling & Bannockburn Dress](/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/).
+This is the **Stirling & Bannockburn Dress** sett — one scale-free proportion (`w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5`), colour order pattern
+[RWRWRKRWWGWWRKRWRW](/stripes/rwrwrkrwwgwwrkrwrw/). It is recorded as a single **variant**, below.
+First attested **1987**.
+
+
+| Scale | Variant | Earliest | |
+|---|---|---|---|
+| ×2 | [Stirling & Bannockburn Dress](/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/) ★ | 1987 | ![Stirling & Bannockburn Dress sett](/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/sett.png) |

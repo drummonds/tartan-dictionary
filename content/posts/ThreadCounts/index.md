@@ -11,8 +11,8 @@ This uses an ebnf specifcation which is [elaborated here][] which includes furth
 [elaborated here]:https://www.bytestone.uk/posts/ebnf/
 
 ```ebnf
-Tartan = WarpThreadCountList { "!" WeftThreadCountList } {Pallette}. 
-Pallette = ColourSpec { ColourSpec}
+Tartan = WarpThreadCountList { "!" WeftThreadCountList } {Palette}. 
+Palette = ColourSpec { ColourSpec}
 ColourSpec = ColourThreadCode HexChar ColourHex | ColourThreadCode "~"  OKLabColour
 HexChar = "#"|"$"
 ColourHex = Red Green Blue
@@ -109,7 +109,7 @@ Sometimes the choice of this major version will be arbitrary.
 So the Drummond of Megginch tartan is:
 https://tartandictionary.org/tc/R/14DB2R4DB4R70LB4R4DB20R4G4R4G74R6DB4R/12/
 
-A particular pallette would be:
+A particular palette would be:
 https://tartandictionary.org/tc/R/14DB2R4DB4R70LB4R4DB20R4G4R4G74R6DB4R/12/DB#000064G#004c00LB#98c8e8R#c80000/
 
 The URLs of each colour variation also have a unique reference.  They have the following relationship.

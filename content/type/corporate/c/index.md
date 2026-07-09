@@ -6,12 +6,12 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s4/k62db15w6y4~x2/"><img src="/variants/s4/k62db15w6y4~x2/sett.png" alt="C-Tec N.I. Ltd" width="140"><br>C-Tec N.I. Ltd</a></li>
-<li><a class="tartan" href="/variants/s7/dt51g5r15g37dt17r6g7~x2/"><img src="/variants/s7/dt51g5r15g37dt17r6g7~x2/sett.png" alt="Cadence Design Systems (Corporate)" width="140"><br>Cadence Design Systems (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s7/db51g5r15g37db17r6g7~x2/"><img src="/variants/s7/db51g5r15g37db17r6g7~x2/sett.png" alt="Cadence Design Systems (Corporate)" width="140"><br>Cadence Design Systems (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s7/dt51g5r15g37dt17r6g7~x2/"><img src="/variants/s7/dt51g5r15g37dt17r6g7~x2/sett.png" alt="Cadence Design Systems (Corporate)" width="140"><br>Cadence Design Systems (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><img src="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/sett.png" alt="Cahonas Scotland" width="140"><br>Cahonas Scotland</a></li>
 <li><a class="tartan" href="/variants/s7/w3r2dp31g30y2dp2y1~x2/"><img src="/variants/s7/w3r2dp31g30y2dp2y1~x2/sett.png" alt="Caig (Corporate)" width="140"><br>Caig (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/"><img src="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/sett.png" alt="Cairngorms National Park" width="140"><br>Cairngorms National Park</a></li>
 <li><a class="tartan" href="/variants/s8/o57r5o2r8n2o3ly2o14~x2/"><img src="/variants/s8/o57r5o2r8n2o3ly2o14~x2/sett.png" alt="Cairngorms National Park" width="140"><br>Cairngorms National Park</a></li>
+<li><a class="tartan" href="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/"><img src="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/sett.png" alt="Cairngorms National Park" width="140"><br>Cairngorms National Park</a></li>
 <li><a class="tartan" href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><img src="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/sett.png" alt="Caisteal Leòdhais" width="140"><br>Caisteal Leòdhais</a></li>
 <li><a class="tartan" href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><img src="/variants/s6/r1lr10y2lr16db40lr1~x2/sett.png" alt="Caithness Glass (Corporate)" width="140"><br>Caithness Glass (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/w3lb2n14o8lb14db16n13lb2w3~x2~n1900000-o2500000/"><img src="/variants/s9/w3lb2n14o8lb14db16n13lb2w3~x2~n1900000-o2500000/sett.png" alt="Caitriot" width="140"><br>Caitriot</a></li>
@@ -21,8 +21,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/"><img src="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/sett.png" alt="Cala Homes (Corporate)" width="140"><br>Cala Homes (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><img src="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/sett.png" alt="Caledon (Corporate)" width="140"><br>Caledon (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/"><img src="/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/sett.png" alt="Caledonian Airways (Corporate)" width="140"><br>Caledonian Airways (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s7/w4dg20g10r25lb2r2g2~x2/"><img src="/variants/s7/w4dg20g10r25lb2r2g2~x2/sett.png" alt="Caledonian Brewery (Corporate)" width="140"><br>Caledonian Brewery (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><img src="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/sett.png" alt="Caledonian Brewery (Corporate)" width="140"><br>Caledonian Brewery (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s7/w4dg20g10r25lb2r2g2~x2/"><img src="/variants/s7/w4dg20g10r25lb2r2g2~x2/sett.png" alt="Caledonian Brewery (Corporate)" width="140"><br>Caledonian Brewery (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/sett.png" alt="Caledonian Cameron Commando" width="140"><br>Caledonian Cameron Commando</a></li>
 <li><a class="tartan" href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/"><img src="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/sett.png" alt="Caledonian Canals (Corporate)" width="140"><br>Caledonian Canals (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/"><img src="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/sett.png" alt="Caledonian Club" width="140"><br>Caledonian Club</a></li>
@@ -60,8 +60,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/"><img src="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/sett.png" alt="Canuck Place (Corporate)" width="140"><br>Canuck Place (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/"><img src="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/sett.png" alt="Canyon County Idaho Sheriff" width="140"><br>Canyon County Idaho Sheriff</a></li>
 <li><a class="tartan" href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><img src="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/sett.png" alt="Capco" width="140"><br>Capco</a></li>
-<li><a class="tartan" href="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/"><img src="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/sett.png" alt="Cape Breton Polish Society" width="140"><br>Cape Breton Polish Society</a></li>
 <li><a class="tartan" href="/variants/s10/w3r28k1n5k1y3g8r5w21k2~x2/"><img src="/variants/s10/w3r28k1n5k1y3g8r5w21k2~x2/sett.png" alt="Cape Breton Polish Society" width="140"><br>Cape Breton Polish Society</a></li>
+<li><a class="tartan" href="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/"><img src="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/sett.png" alt="Cape Breton Polish Society" width="140"><br>Cape Breton Polish Society</a></li>
 <li><a class="tartan" href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><img src="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/sett.png" alt="Cape Breton University Chemistry Society" width="140"><br>Cape Breton University Chemistry Society</a></li>
 <li><a class="tartan" href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/"><img src="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/sett.png" alt="Capercaillie" width="140"><br>Capercaillie</a></li>
 <li><a class="tartan" href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/"><img src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/sett.png" alt="Carbon" width="140"><br>Carbon</a></li>
@@ -83,8 +83,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/"><img src="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/sett.png" alt="Celtic 2009 (Sports)" width="140"><br>Celtic 2009 (Sports)</a></li>
 <li><a class="tartan" href="/variants/s14/dg5g3dg16k2dg4k12g4dg2lb5dg2g16dg2k2y3~x2/"><img src="/variants/s14/dg5g3dg16k2dg4k12g4dg2lb5dg2g16dg2k2y3~x2/sett.png" alt="Celtic Football Club (1996)" width="140"><br>Celtic Football Club (1996)</a></li>
 <li><a class="tartan" href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/"><img src="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/sett.png" alt="Celtic Football Club (2005)" width="140"><br>Celtic Football Club (2005)</a></li>
-<li><a class="tartan" href="/variants/s5/n10k1db3g3ly1~x6/"><img src="/variants/s5/n10k1db3g3ly1~x6/sett.png" alt="Celtic Norse Heritage Society" width="140"><br>Celtic Norse Heritage Society</a></li>
 <li><a class="tartan" href="/variants/s5/n10k1db3g3y1~x6/"><img src="/variants/s5/n10k1db3g3y1~x6/sett.png" alt="Celtic Norse Heritage Society" width="140"><br>Celtic Norse Heritage Society</a></li>
+<li><a class="tartan" href="/variants/s5/n10k1db3g3ly1~x6/"><img src="/variants/s5/n10k1db3g3ly1~x6/sett.png" alt="Celtic Norse Heritage Society" width="140"><br>Celtic Norse Heritage Society</a></li>
 <li><a class="tartan" href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><img src="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/sett.png" alt="Celtic Women International" width="140"><br>Celtic Women International</a></li>
 <li><a class="tartan" href="/variants/s7/lp10dp9n59dp9k59dp9lp5/"><img src="/variants/s7/lp10dp9n59dp9k59dp9lp5/sett.png" alt="Central Newcastle School" width="140"><br>Central Newcastle School</a></li>
 <li><a class="tartan" href="/variants/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/"><img src="/variants/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/sett.png" alt="Central Washington University Wildcat" width="140"><br>Central Washington University Wildcat</a></li>
@@ -126,8 +126,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/"><img src="/variants/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/sett.png" alt="Citymoves (2012) (Corporate)" width="140"><br>Citymoves (2012) (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><img src="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/sett.png" alt="Clan An Caigeann (Corporate)" width="140"><br>Clan An Caigeann (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s4/k3dr20k20dr3~x2/"><img src="/variants/s4/k3dr20k20dr3~x2/sett.png" alt="Clan Anord (Corporate)" width="140"><br>Clan Anord (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s5/r13y13g13db22w4~x2/"><img src="/variants/s5/r13y13g13db22w4~x2/sett.png" alt="Clan Haggis World (Corporate)" width="140"><br>Clan Haggis World (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s5/r13lo13g13db22w4~x2/"><img src="/variants/s5/r13lo13g13db22w4~x2/sett.png" alt="Clan Haggis World (Corporate)" width="140"><br>Clan Haggis World (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s5/r13y13g13db22w4~x2/"><img src="/variants/s5/r13y13g13db22w4~x2/sett.png" alt="Clan Haggis World (Corporate)" width="140"><br>Clan Haggis World (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><img src="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/sett.png" alt="Clan Inebriated" width="140"><br>Clan Inebriated</a></li>
 <li><a class="tartan" href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><img src="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/sett.png" alt="Clan Inebriated (Corporate)" width="140"><br>Clan Inebriated (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s8/k4y2k4r29w29db4w2g4~x2/"><img src="/variants/s8/k4y2k4r29w29db4w2g4~x2/sett.png" alt="Clan MacLeod Societies of Canada" width="140"><br>Clan MacLeod Societies of Canada</a></li>

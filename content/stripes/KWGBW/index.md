@@ -34,10 +34,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s5/k7lb3g18db18w2~x2/"><img src="/variants/s5/k7lb3g18db18w2~x2/sett.png" alt="Bhatti (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k2lb2g8db8w1/">Douglas</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/k2lb2g8db8w1/"><img src="/variants/s5/k2lb2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k1lb1g8db8w1~x4/">Douglas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k1lb1g8db8w1~x4/"><img src="/variants/s5/k1lb1g8db8w1~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/k2w2g8db8w1/">Douglas</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/k2w2g8db8w1/"><img src="/variants/s5/k2w2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1lb1g8db8w1~x4/">Douglas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k1lb1g8db8w1~x4/"><img src="/variants/s5/k1lb1g8db8w1~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/k4w2g8db8w1/">Douglas Green</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/k4w2g8db8w1/"><img src="/variants/s5/k4w2g8db8w1/sett.png" alt="Douglas Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k4lb2g8db8w1/">Dougles Green</a></td></tr>

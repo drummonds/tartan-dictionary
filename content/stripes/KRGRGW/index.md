@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k2r16g6r3g8lb1~x2/">MacAulay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><img src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="MacAulay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k2r16g6r3g8w1/">MacAulay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/k2r16g6r3g8w1/"><img src="/variants/s6/k2r16g6r3g8w1/sett.png" alt="MacAulay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2r16g6r3g8lb1~x2/">MacAulay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><img src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="MacAulay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -7,8 +7,8 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><img src="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/sett.png" alt="Sandhu (Name)" width="140"><br>Sandhu (Name)</a></li>
 <li><a class="tartan" href="/variants/s5/ly6r1ly4r4db2~x5/"><img src="/variants/s5/ly6r1ly4r4db2~x5/sett.png" alt="Sands-Pingot (Name?)" width="140"><br>Sands-Pingot (Name?)</a></li>
-<li><a class="tartan" href="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db0705267-dbi1204274/"><img src="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db0705267-dbi1204274/sett.png" alt="Schmidt (2014)" width="140"><br>Schmidt (2014)</a></li>
 <li><a class="tartan" href="/variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db1204274-dbi1406275/"><img src="/variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db1204274-dbi1406275/sett.png" alt="Schmidt (2014)" width="140"><br>Schmidt (2014)</a></li>
+<li><a class="tartan" href="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db0705267-dbi1204274/"><img src="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db0705267-dbi1204274/sett.png" alt="Schmidt (2014)" width="140"><br>Schmidt (2014)</a></li>
 <li><a class="tartan" href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><img src="/variants/s8/r1k23y3db16y3k22r1w1~x2/sett.png" alt="Schöbitz (2016)" width="140"><br>Schöbitz (2016)</a></li>
 <li><a class="tartan" href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><img src="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/sett.png" alt="Scobie (Blackford)" width="140"><br>Scobie (Blackford)</a></li>
 <li><a class="tartan" href="/variants/s12/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1~x2~r2109032-lr3303019/"><img src="/variants/s12/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1~x2~r2109032-lr3303019/sett.png" alt="Scobie (Name)" width="140"><br>Scobie (Name)</a></li>

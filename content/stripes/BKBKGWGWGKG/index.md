@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/">Forth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/"><img src="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/sett.png" alt="Forth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/">Forth</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/"><img src="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2y3~x2/sett.png" alt="Forth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/">Forth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/"><img src="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/sett.png" alt="Forth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

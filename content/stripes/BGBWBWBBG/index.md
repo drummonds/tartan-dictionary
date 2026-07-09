@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/">Mounth, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/"><img src="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/sett.png" alt="Mounth, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/dg2n13t12w3t10w3t12g13dp2~x2~dg1806142-g2203152/">Mounth, The</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/dg2n13t12w3t10w3t12g13dp2~x2~dg1806142-g2203152/"><img src="/variants/s9/dg2n13t12w3t10w3t12g13dp2~x2~dg1806142-g2203152/sett.png" alt="Mounth, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/">Mounth, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/"><img src="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/sett.png" alt="Mounth, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

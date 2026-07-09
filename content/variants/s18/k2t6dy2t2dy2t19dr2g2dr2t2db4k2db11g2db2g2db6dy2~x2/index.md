@@ -46,6 +46,14 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10021](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10021)
 
+## History
+
+Where this cloth's colourway came from and what descended from it — the source and evolution of its palette. Same design, different variants; a genuine colour difference is history, not an error.
+
+Descended from:
+
+- *registered* ← [Harmon of Plenderleith Personal Tartan](/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/) — The Scottish Register of Tartans entry (ref 10021) — the official reading: a substantially different colourway (opal / lemon / moss) of the same developed sett.
+
 ## Thread count
 K/4 T12 DY4 T4 DY4 T38 DR4 G4 DR4 T4 DB8 K4 DB22 G4 DB4 G4 DB12 DY/4
 

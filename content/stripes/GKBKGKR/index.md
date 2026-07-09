@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s7/y4k2t20k10g15k2r3~x2/">Green MacLeod</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><img src="/variants/s7/y4k2t20k10g15k2r3~x2/sett.png" alt="Green MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r3k2g15k10db20k2y2/">MacLeod</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r3k2g15k10db20k2y2/"><img src="/variants/s7/r3k2g15k10db20k2y2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/r3k2g15k10db21k1y2/">MacLeod</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/r3k2g15k10db21k1y2/"><img src="/variants/s7/r3k2g15k10db21k1y2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r3k2g15k10db20k2y2/">MacLeod</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r3k2g15k10db20k2y2/"><img src="/variants/s7/r3k2g15k10db20k2y2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/r1k1g7k5db10k1y1~x2/">MacLeod Small Clan Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><img src="/variants/s7/r1k1g7k5db10k1y1~x2/sett.png" alt="MacLeod Small Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

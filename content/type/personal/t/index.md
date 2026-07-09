@@ -7,8 +7,8 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/"><img src="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/sett.png" alt="Tau-Taurini (Provisional) (Personal)" width="140"><br>Tau-Taurini (Provisional) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/ly4o24dy19w3g23n13dy3oi13dy3~x2~n1900000-oi2500000/"><img src="/variants/s9/ly4o24dy19w3g23n13dy3oi13dy3~x2~n1900000-oi2500000/sett.png" alt="Teallach (Personal)" width="140"><br>Teallach (Personal)</a></li>
-<li><a class="tartan" href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><img src="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/sett.png" alt="Telfer, Brian William (Personal)" width="140"><br>Telfer, Brian William (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/"><img src="/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/sett.png" alt="Telfer, Brian William (Personal)" width="140"><br>Telfer, Brian William (Personal)</a></li>
+<li><a class="tartan" href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><img src="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/sett.png" alt="Telfer, Brian William (Personal)" width="140"><br>Telfer, Brian William (Personal)</a></li>
 <li><a class="tartan" href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/"><img src="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/sett.png" alt="Thom, Calum (Personal)" width="140"><br>Thom, Calum (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><img src="/variants/s8/y2k4y1dg16k14db23k4r1~x2/sett.png" alt="Thomas of Craigie (Personal)" width="140"><br>Thomas of Craigie (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><img src="/variants/s8/r2k4db23k14g16y1k4y2~x2/sett.png" alt="Thomas, baron of Craigie, Robert (Personal)" width="140"><br>Thomas, baron of Craigie, Robert (Personal)</a></li>

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/">Methven</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><img src="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/sett.png" alt="Methven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/">Methven</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><img src="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/sett.png" alt="Methven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/">Methven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><img src="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/sett.png" alt="Methven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

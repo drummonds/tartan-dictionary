@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/">Fitzpatrick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><img src="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/">Fitzpatrick</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><img src="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/">Fitzpatrick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><img src="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/">Maitland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/"><img src="/variants/s9/g3db9g3k4g8y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/g3db8g3k4g9y2db2y2r2/">Maitland</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/g3db8g3k4g9y2db2y2r2/"><img src="/variants/s9/g3db8g3k4g9y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/">Maitland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/"><img src="/variants/s9/g3db9g3k4g8y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/">Maitland Chief</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><img src="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/sett.png" alt="Maitland Chief sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/">Maitland Chiefs own Tartan</a></td></tr>

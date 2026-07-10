@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w2r12db2w6k6w1/">MacTavish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w2r12db2w6k6w1/"><img src="/variants/s6/w2r12db2w6k6w1/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/setts/lb2r12db2lb6k6lb1/">MacTavish</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/lb2r12db2lb6k6lb1/"><img src="/variants/s6/lb2r12db2lb6k6lb1/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/w2r12db2w6k6w1/">MacTavish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w2r12db2w6k6w1/"><img src="/variants/s6/w2r12db2w6k6w1/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -369,7 +369,7 @@ weight: 15
 | 0.12 | [Grant - 1819 (Clan)](/variants/s15/r15dp1r2dp2r78lb1r2dp21r3g2r3g79r2dp2r10/) | tartans-authority |
 | 0.13 | [Drummond - 1819 (Clan)](/variants/s15/r6dp2r2dg24r2dg2r2dp8r2lb1r32dp2r2dp1r6~x2/) | tartans-authority |
 | 0.13 | [Drummond](/variants/s15/r6t2r2g24r2g2r2t8r2lb1r32t2r2t1r6~x2/) | register-of-tartans |
-| 0.14 | [Drummond of Megginch - 1997 Kilt](/variants/s15/r7dt2r3dg32r2dg2r2dt10r2lb2r31dt2r2dt1r6~x2~r1906028-dt1201300-dg1602166-lb3203246/) | research |
+| 0.13 | [Drummond of Megginch - 1997 Kilt](/variants/s15/r7dt2r3dg32r2dg2r2dt10r2lb2r31dt2r2dt1r6~x2~r1906028-dt1201300-dg1602166-lb3203246/) | research |
 
 ### BKBKBKGKWKGKBKB
 <a class="pat" href="/stripes/bkbkbkgkwkgkbkb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">BKBKBKGKWKGKBKB</span></a>

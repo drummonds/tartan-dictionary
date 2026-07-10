@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db16g4db3g3y2g24r2~x2/">St Andrews Links</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><img src="/variants/s7/db16g4db3g3y2g24r2~x2/sett.png" alt="St Andrews Links sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db26g4db3g3y2g24r2~x2/">St Andrews Links</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><img src="/variants/s7/db26g4db3g3y2g24r2~x2/sett.png" alt="St Andrews Links sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db16g4db3g3y2g24r2~x2/">St Andrews Links</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><img src="/variants/s7/db16g4db3g3y2g24r2~x2/sett.png" alt="St Andrews Links sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

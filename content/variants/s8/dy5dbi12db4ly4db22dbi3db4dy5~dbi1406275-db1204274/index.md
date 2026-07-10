@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Daks"
-  url: "/tartans/daks-4/"
+  url: "/tartans/daks-13/"
 - name: "Daks Muted blue Trade Tartan"
   url: "/setts/dy5dbi12db4ly4db22dbi3db4dy5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy5dbi12db4ly4db22dbi3db4dy5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBYBBG](/stripes/gbbbybbg/).
 
-Part of the [Daks](/tartans/daks-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Daks](/tartans/daks-13/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Smithsonian"
-  url: "/tartans/smithsonian/"
+  url: "/tartans/smithsonian-2/"
 - name: "Smithsonian (Corporate) American Corporate Tartan"
   url: "/setts/dg2db24ly1r2dg2r2ly1k24dg24w2db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg2db24ly1r2dg2r2ly1k24dg24w2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGKYRGRYBG](/stripes/bwgkyrgrybg/).
 
-Part of the [Smithsonian](/tartans/smithsonian/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Smithsonian](/tartans/smithsonian-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

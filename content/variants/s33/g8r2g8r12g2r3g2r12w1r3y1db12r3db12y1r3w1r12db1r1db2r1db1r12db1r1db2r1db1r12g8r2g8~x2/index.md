@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Huntly"
-  url: "/tartans/huntly/"
+  url: "/tartans/huntly-3/"
 - name: "Huntly District Tartan"
   url: "/setts/g8r2g8r12g2r3g2r12w1r3y1db12r3db12y1r3w1r12db1r1db2r1db1r12db1r1db2r1db1r12g8r2g8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g8r2g8r12g2r3g2r12w1r3y1db12r3db12y1r3w1r12db1r1db2r1db1r12db1r1db2r1db1r12g8r2g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRBRBRBRBRBRWRGBRBGRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrgbrbgrwrgrgrgrg/).
 
-Part of the [Huntly](/tartans/huntly/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Huntly](/tartans/huntly-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [33 stripe tartan](/stripes/stripes33/).
 

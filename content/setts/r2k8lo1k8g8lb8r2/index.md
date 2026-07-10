@@ -6,7 +6,7 @@ This is the **Brodie Hunting (Clan)** sett — one scale-free proportion (`r2k8l
 [RKYKGWR](/stripes/rkykgwr/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Brodie Hunting](/tartans/brodie-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Brodie Hunting](/tartans/brodie-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

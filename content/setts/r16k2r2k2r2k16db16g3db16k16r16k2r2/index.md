@@ -7,7 +7,7 @@ This is the **MacLachlan** sett — one scale-free proportion (`r16k2r2k2r2k16db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
-Part of the [MacLachlan](/tartans/maclachlan/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLachlan](/tartans/maclachlan-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

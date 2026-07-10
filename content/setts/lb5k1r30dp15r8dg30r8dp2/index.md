@@ -6,7 +6,7 @@ This is the **Shaw of Tordarroch Red (Dress)** sett — one scale-free proportio
 [KRBRGRBRGRBRKW](/stripes/krbrgrbrgrbrkw/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
-Part of the [Shaw of Tordarroch](/tartans/shaw-of-tordarroch/) tartan — the named design grouping this sett with its kin.
+Part of the [Shaw of Tordarroch](/tartans/shaw-of-tordarroch-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

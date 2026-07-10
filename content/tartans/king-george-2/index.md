@@ -5,7 +5,7 @@ crumbs:
 - name: "Home"
   url: "/"
 ---
-Its design is pattern [BGKYKWKBKBY](/stripes/bgkykwkbkby/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [GYGRBWRBRWBRGRBWRWBRGRBWRBRWBRGY](/stripes/gygrbwrbrwbrgrbwrwbrgrbwrbrwbrgy/) — the page of every tartan sharing this colour sequence.
 
 The **King George** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -13,10 +13,10 @@ The **King George** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3/">King George</a> ★</td><td><code>DR/10 DG60 K12 LY4 K6 LB10 K24 DR16 K6 DR6 LR/6</code></td><td>304</td><td>1974</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3/"><img src="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/sett.png" alt="King George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r3g24k4y2k3db2k6r4k2r3w2/">VI</a></td><td><code>R/6 G48 K8 Y4 K6 DB4 K12 R8 K4 R6 W/4</code></td><td>210</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g24k4y2k3db2k6r4k2r3w2/"><img src="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/sett.png" alt="VI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3/">King George</a> ★</td><td><code>LR/12 DG12 R96 DP4 W4 R12 DP24 R12 W4 DP4 R12 DG96 R12 DP4 W4 R96 W4 DP4 R12 DG96 R12 DP4 W4 R12 DP24 R12 W4 DP4 R96 DG12 LR12 DG/12</code></td><td>—</td><td>1824</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3/"><img src="/variants/s32/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3~x4~lr3204029-r2109032/sett.png" alt="King George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3/">IV - 1824 (Artefact)</a></td><td><code>R/48 W2 DP2 R6 DG48 R6 DP2 W2 R6 DP12 R6 W2 DP2 R48 DG6 LR6 DG/6</code></td><td>366</td><td>1824</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3/"><img src="/variants/s17/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3~x2~r2109032-lr3204029/sett.png" alt="IV - 1824 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -25,5 +25,4 @@ The **King George** tartan groups 2 setts — the same named design recorded as 
 
 This tartan is also recorded under:
 
-- King George VI
-- King George VI Royal
+- King George IV

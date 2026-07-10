@@ -6,7 +6,7 @@ This is the **Longniddry Dress District Tartan** sett — one scale-free proport
 [BBWBBWWB](/stripes/bbwbbwwb/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Longniddry Dress](/tartans/longniddry-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Longniddry Dress](/tartans/longniddry-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

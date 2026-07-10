@@ -7,7 +7,7 @@ This is the **Strathclyde blue** sett — one scale-free proportion (`k3db24lb3k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1993**.
 
-Part of the [Strathclyde](/tartans/strathclyde/) tartan — the named design grouping this sett with its kin.
+Part of the [Strathclyde](/tartans/strathclyde-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Arrol Corporate Tartan** sett — one scale-free proportion (`r5db
 [RBKGWGKGW](/stripes/rbkgwgkgw/). It is recorded as a single **variant**, below.
 First attested **~1910**.
 
-Part of the [Arrol](/tartans/arrol/) tartan — the named design grouping this sett with its kin.
+Part of the [Arrol](/tartans/arrol-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

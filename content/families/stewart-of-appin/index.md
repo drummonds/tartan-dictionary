@@ -21,7 +21,7 @@ A family of [Clan Stewart](/clan/stewart/).
 </tbody>
 </table>
 
-[See the Stewart of Appin Dress tartan and all its setts →](/tartans/stewart-of-appin-dress/)
+[See the Stewart of Appin Dress tartan and all its setts →](/tartans/stewart-of-appin-dress-2/)
 
 ### Stewart of Appin 1
 

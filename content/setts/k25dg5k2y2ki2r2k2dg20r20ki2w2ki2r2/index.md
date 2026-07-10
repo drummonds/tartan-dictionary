@@ -6,7 +6,7 @@ This is the **Quebec, Plaid du (District)** sett — one scale-free proportion (
 [KGKGKRKGRKWKR](/stripes/kgkgkrkgrkwkr/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
-Part of the [Quebec, Plaid du](/tartans/quebec-plaid-du/) tartan — the named design grouping this sett with its kin.
+Part of the [Quebec, Plaid du](/tartans/quebec-plaid-du-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

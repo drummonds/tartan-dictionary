@@ -6,7 +6,7 @@ This is the **Douglas, Grey (Vestiarium Scoticum)** sett — one scale-free prop
 [BKBKBKBK](/stripes/bkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Douglas](/tartans/douglas-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Douglas](/tartans/douglas-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

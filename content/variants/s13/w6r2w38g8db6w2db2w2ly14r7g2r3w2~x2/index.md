@@ -10,7 +10,7 @@ crumbs:
 - name: "Grant of Achnarrow"
   url: "/families/grant-of-achnarrow/"
 - name: "Grant of Achnarrow"
-  url: "/tartans/grant-of-achnarrow/"
+  url: "/tartans/grant-of-achnarrow-2/"
 - name: "Grant of Auchnarrow"
   url: "/setts/w6r2w38g8db6w2db2w2ly14r7g2r3w2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w6r2w38g8db6w2db2w2ly14r7g2r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGRYWBWBGWRW](/stripes/wrgrywbwbgwrw/).
 
-Part of the [Grant of Achnarrow](/tartans/grant-of-achnarrow/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Grant of Achnarrow](/tartans/grant-of-achnarrow-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

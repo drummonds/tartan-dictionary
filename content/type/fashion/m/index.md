@@ -50,8 +50,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/"><img src="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/sett.png" alt="MacRae Grey (Fashion)" width="140"><br>MacRae Grey (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s11/lb1dp3k2w1dp8w1k2w9k1w3lb1~x6/"><img src="/variants/s11/lb1dp3k2w1dp8w1k2w9k1w3lb1~x6/sett.png" alt="MacRae, Dress Purple (Dance)" width="140"><br>MacRae, Dress Purple (Dance)</a></li>
 <li><a class="tartan" href="/variants/s11/lb1r3k2w1r8w1k2w9k1w3lb1~x6/"><img src="/variants/s11/lb1r3k2w1r8w1k2w9k1w3lb1~x6/sett.png" alt="MacRae, Dress Red (Dance)" width="140"><br>MacRae, Dress Red (Dance)</a></li>
-<li><a class="tartan" href="/variants/s5/lb3w10db10g10r2~x4/"><img src="/variants/s5/lb3w10db10g10r2~x4/sett.png" alt="MacTeddy" width="140"><br>MacTeddy</a></li>
 <li><a class="tartan" href="/variants/s5/lb3w10db10g10k2~x4/"><img src="/variants/s5/lb3w10db10g10k2~x4/sett.png" alt="MacTeddy" width="140"><br>MacTeddy</a></li>
+<li><a class="tartan" href="/variants/s5/lb3w10db10g10r2~x4/"><img src="/variants/s5/lb3w10db10g10r2~x4/sett.png" alt="MacTeddy" width="140"><br>MacTeddy</a></li>
 <li><a class="tartan" href="/variants/s7/g28r4dp27r27g28r5dp2~x2/"><img src="/variants/s7/g28r4dp27r27g28r5dp2~x2/sett.png" alt="Madder" width="140"><br>Madder</a></li>
 <li><a class="tartan" href="/variants/s7/dg28dr4dp27dr27dg28dr5dp2~x2/"><img src="/variants/s7/dg28dr4dp27dr27dg28dr5dp2~x2/sett.png" alt="Madder - 1819" width="140"><br>Madder - 1819</a></li>
 <li><a class="tartan" href="/variants/s11/k3g3k2g4r2g6k6g4k4g36k2/"><img src="/variants/s11/k3g3k2g4r2g6k6g4k4g36k2/sett.png" alt="Madoc of Wales" width="140"><br>Madoc of Wales</a></li>
@@ -110,8 +110,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/"><img src="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/sett.png" alt="Miyuki #3" width="140"><br>Miyuki #3</a></li>
 <li><a class="tartan" href="/variants/s18/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6~n1900000-ri2109032/"><img src="/variants/s18/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6~n1900000-ri2109032/sett.png" alt="Miyuki #3 (Fashion)" width="140"><br>Miyuki #3 (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/"><img src="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/sett.png" alt="Miyuki #4" width="140"><br>Miyuki #4</a></li>
-<li><a class="tartan" href="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/"><img src="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/sett.png" alt="Modern Craft (Masonic)" width="140"><br>Modern Craft (Masonic)</a></li>
 <li><a class="tartan" href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"><img src="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/sett.png" alt="Modern Craft (Masonic)" width="140"><br>Modern Craft (Masonic)</a></li>
+<li><a class="tartan" href="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/"><img src="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/sett.png" alt="Modern Craft (Masonic)" width="140"><br>Modern Craft (Masonic)</a></li>
 <li><a class="tartan" href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><img src="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/sett.png" alt="Modowny" width="140"><br>Modowny</a></li>
 <li><a class="tartan" href="/variants/s9/dr1n6k1n1k2n1k1n6ly1~x8/"><img src="/variants/s9/dr1n6k1n1k2n1k1n6ly1~x8/sett.png" alt="Modowny (Fashion)" width="140"><br>Modowny (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><img src="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/sett.png" alt="Moffat (1994)" width="140"><br>Moffat (1994)</a></li>

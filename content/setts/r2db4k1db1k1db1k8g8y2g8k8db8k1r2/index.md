@@ -7,7 +7,7 @@ This is the **Farquharson** sett — one scale-free proportion (`r2db4k1db1k1db1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1774**.
 
-Part of the [Farquharson](/tartans/farquharson/) tartan — the named design grouping this sett with its kin.
+Part of the [Farquharson](/tartans/farquharson-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Grant of Acharrow** sett — one scale-free proportion (`w6r2w38g8
 [WRGRRWBWBGWRW](/stripes/wrgrrwbwbgwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Grant of Achnarrow](/tartans/grant-of-achnarrow/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant of Achnarrow](/tartans/grant-of-achnarrow-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

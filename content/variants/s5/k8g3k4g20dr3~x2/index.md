@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacArthur-Fox"
-  url: "/tartans/macarthur-fox/"
+  url: "/tartans/macarthur-fox-2/"
 - name: "MacArthur-Fox (Personal)"
   url: "/setts/k8g3k4g20dr3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8g3k4g20dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBGKGK](/stripes/gkgbgkgk/).
 
-Part of the [MacArthur-Fox](/tartans/macarthur-fox/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacArthur-Fox](/tartans/macarthur-fox-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

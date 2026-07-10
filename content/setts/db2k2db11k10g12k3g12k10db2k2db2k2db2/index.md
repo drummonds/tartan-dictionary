@@ -6,7 +6,7 @@ This is the **Campbell** sett — one scale-free proportion (`db2k2db11k10g12k3g
 [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Campbell](/tartans/campbell/) tartan — the named design grouping this sett with its kin.
+Part of the [Campbell](/tartans/campbell-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

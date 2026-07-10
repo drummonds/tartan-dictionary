@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDuff"
-  url: "/tartans/macduff/"
+  url: "/tartans/macduff-6/"
 - name: "MacDuff"
   url: "/setts/r8db3k4g6r4k1r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r8db3k4g6r4k1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGRKR](/stripes/rbkgrkr/).
 
-Part of the [MacDuff](/tartans/macduff/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDuff](/tartans/macduff-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

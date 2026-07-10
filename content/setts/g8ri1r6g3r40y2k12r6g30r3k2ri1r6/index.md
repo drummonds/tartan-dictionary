@@ -6,7 +6,7 @@ This is the **MacDonald of Glencoe #3** sett — one scale-free proportion (`g8r
 [GRRGRGKRGRKRR](/stripes/grrgrgkrgrkrr/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
-Part of the [MacDonald of Glencoe](/tartans/macdonald-of-glencoe/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonald of Glencoe](/tartans/macdonald-of-glencoe-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

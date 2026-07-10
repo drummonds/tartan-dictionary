@@ -6,7 +6,7 @@ This is the **Ulster Red Irish District Tartan** sett — one scale-free proport
 [GKGRGKGKRKGK](/stripes/gkgrgkgkrkgk/). It is recorded as a single **variant**, below.
 First attested **~1999**.
 
-Part of the [Ulster](/tartans/ulster/) tartan — the named design grouping this sett with its kin.
+Part of the [Ulster](/tartans/ulster-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Carlisle"
-  url: "/tartans/carlisle/"
+  url: "/tartans/carlisle-4/"
 - name: "Carlisle Family Tartan"
   url: "/setts/lb11dy5k1dy2r1dy2lb11/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb11dy5k1dy2r1dy2lb11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKGRGW](/stripes/wgkgrgw/).
 
-Part of the [Carlisle](/tartans/carlisle/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Carlisle](/tartans/carlisle-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

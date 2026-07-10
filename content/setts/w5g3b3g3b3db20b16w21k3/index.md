@@ -6,7 +6,7 @@ This is the **Oliver, dress** sett — one scale-free proportion (`w5g3b3g3b3db2
 [KWBBBGBGW](/stripes/kwbbbgbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Oliver Dress](/tartans/oliver-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Oliver Dress](/tartans/oliver-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

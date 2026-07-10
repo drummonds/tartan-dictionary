@@ -8,24 +8,18 @@ crumbs:
   url: "/clan/macdougall/"
 ---
 A tartan of [Clan MacDougall of Lorn](/clan/macdougall/).
-Its design is pattern [WBRGRGRBBRBGRGRBRBRW](/stripes/wbrgrgrbbrbgrgrbrbrw/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [WRRRGRGRBRRRRRGRGRBRRRRW](/stripes/wrrrgrgrbrrrrrgrgrbrrrrw/) — the page of every tartan sharing this colour sequence.
 
-Complex clan sett, earliest documented in the Highland Society of London collection, signed by the chief around 1815.
-
-The **MacDougall** tartan groups 4 setts — the same named design recorded as different cloths
+The **MacDougall** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w1dp2r1g22r3g1r3db9dp2r1dp2g8r8g8r1db1r22dp2r2w1/">MacDougall</a> ★</td><td><code>W/2 R4 DP4 R44 DB2 R2 G16 R16 G16 DP4 R2 DP4 DB18 R6 G2 R6 G44 R2 DP4 W/2</code></td><td>396</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w1dp2r1g22r3g1r3db9dp2r1dp2g8r8g8r1db1r22dp2r2w1/"><img src="/variants/s20/w1dp2r1g22r3g1r3db9dp2r1dp2g8r8g8r1db1r22dp2r2w1~x2/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb2dr12r4g72r8g4r8db18dr12r4dr12g18r18g18r8db4r72dr6r4lb1/">MacDougall</a></td><td><code>LB/4 DR24 R8 G144 R16 G8 R16 DB36 DR24 R8 DR24 G36 R36 G36 R16 DB8 R144 DR12 R8 LB/2</code></td><td>1214</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb2dr12r4g72r8g4r8db18dr12r4dr12g18r18g18r8db4r72dr6r4lb1/"><img src="/variants/s20/lb2dr12r4g72r8g4r8db18dr12r4dr12g18r18g18r8db4r72dr6r4lb1~x2~r1908029/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w1dp3r1g23r3g1r3db6dp4r1dp4g6r6g6r2db1r24dp1r1w1/">MacDougall</a></td><td><code>W/2 DP6 R2 G46 R6 G2 R6 DB12 DP8 R2 DP8 G12 R12 G12 R4 DB2 R48 DP2 R2 W/2</code></td><td>388</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w1dp3r1g23r3g1r3db6dp4r1dp4g6r6g6r2db1r24dp1r1w1/"><img src="/variants/s20/w1dp3r1g23r3g1r3db6dp4r1dp4g6r6g6r2db1r24dp1r1w1~x2/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2/">Clan Tartan</a></td><td><code>W/4 R4 LP4 R44 DB4 R4 G16 R16 G16 LP4 R4 LP4 DB18 R6 G2 R6 G44 R4 LP4 W/4</code></td><td>416</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2/"><img src="w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2-rev.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb1r4ri2rii2g27rii4g2rii4dp10r3ri2rii2ri2r3g10rii10g10rii2dp2rii26r3ri2rii3lb1/">MacDougall</a> ★</td><td><code>LB/2 R8 Ri4 Rii4 G54 Rii8 G4 Rii8 DP20 R6 Ri4 Rii4 Ri4 R6 G20 Rii20 G20 Rii4 DP4 Rii52 R6 Ri4 Rii6 LB/2</code></td><td>544</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb1r4ri2rii2g27rii4g2rii4dp10r3ri2rii2ri2r3g10rii10g10rii2dp2rii26r3ri2rii3lb1/"><img src="/variants/s24/lb1r4ri2rii2g27rii4g2rii4dp10r3ri2rii2ri2r3g10rii10g10rii2dp2rii26r3ri2rii3lb1~x2~r2109013-ri2208029-rii2209032/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb1r5ri2rii3g24rii5g2rii5db11r3ri2rii2ri2r3g11rii11g11rii2db2rii25r3ri2rii5lb1/">#2</a></td><td><code>LB/2 R10 Ri4 Rii6 G48 Rii10 G4 Rii10 DB22 R6 Ri4 Rii4 Ri4 R6 G22 Rii22 G22 Rii4 DB4 Rii50 R6 Ri4 Rii10 LB/2</code></td><td>568</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb1r5ri2rii3g24rii5g2rii5db11r3ri2rii2ri2r3g11rii11g11rii2db2rii25r3ri2rii5lb1/"><img src="/variants/s24/lb1r5ri2rii3g24rii5g2rii5db11r3ri2rii2ri2r3g11rii11g11rii2db2rii25r3ri2rii5lb1~x2~r1707016-ri2208029-rii2209032/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,4 +28,4 @@ The **MacDougall** tartan groups 4 setts — the same named design recorded as d
 
 This tartan is also recorded under:
 
-- MacDougall 7
+- MacDougall #2

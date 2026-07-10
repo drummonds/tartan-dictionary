@@ -6,7 +6,7 @@ This is the **MacIntyre** sett — one scale-free proportion (`w1r2db2r4g16r2db1
 [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacIntyre](/tartans/macintyre/) tartan — the named design grouping this sett with its kin.
+Part of the [MacIntyre](/tartans/macintyre-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

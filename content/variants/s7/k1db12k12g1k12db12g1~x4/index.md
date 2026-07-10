@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Marchmont"
-  url: "/tartans/marchmont/"
+  url: "/tartans/marchmont-2/"
 - name: "Marchmont (Personal)"
   url: "/setts/k1db12k12g1k12db12g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1db12k12g1k12db12g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGKBK](/stripes/gbkgkbk/).
 
-Part of the [Marchmont](/tartans/marchmont/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Marchmont](/tartans/marchmont-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

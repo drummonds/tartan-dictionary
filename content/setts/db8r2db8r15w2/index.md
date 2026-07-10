@@ -6,7 +6,7 @@ This is the **Hamilton (Clan)** sett — one scale-free proportion (`db8r2db8r15
 [BRBRW](/stripes/brbrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Hamilton](/tartans/hamilton/) tartan — the named design grouping this sett with its kin.
+Part of the [Hamilton](/tartans/hamilton-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

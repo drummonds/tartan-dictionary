@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Mackintosh (Clan Chattan)"
   url: "/clan/mackintosh/"
 - name: "MacKintosh"
-  url: "/tartans/mackintosh/"
+  url: "/tartans/mackintosh-4/"
 - name: "MacKintosh, Red"
   url: "/setts/r24g5r3g9r3db1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r24g5r3g9r3db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGR](/stripes/brgrgr/).
 
-Part of the [MacKintosh](/tartans/mackintosh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKintosh](/tartans/mackintosh-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

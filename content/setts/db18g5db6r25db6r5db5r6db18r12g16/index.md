@@ -6,7 +6,7 @@ This is the **Fiddes (Artefact)** sett — one scale-free proportion (`db18g5db6
 [BGBRBRBRBRG](/stripes/bgbrbrbrbrg/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
-Part of the [Fiddes](/tartans/fiddes-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Fiddes](/tartans/fiddes-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **MacCallum Clan Tartan** sett — one scale-free proportion (`g8k2l
 [GKWGKBK](/stripes/gkwgkbk/). It is recorded as a single **variant**, below.
 First attested **1893**.
 
-Part of the [MacCallum](/tartans/maccallum/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCallum](/tartans/maccallum-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

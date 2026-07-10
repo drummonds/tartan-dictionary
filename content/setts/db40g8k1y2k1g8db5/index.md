@@ -6,7 +6,7 @@ This is the **Salvation Army Hunting Corporate Tartan** sett — one scale-free 
 [BGKGKGB](/stripes/bgkgkgb/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
-Part of the [Salvation Army Hunting](/tartans/salvation-army-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Salvation Army Hunting](/tartans/salvation-army-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

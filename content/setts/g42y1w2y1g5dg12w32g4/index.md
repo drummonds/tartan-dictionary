@@ -6,7 +6,7 @@ This is the **Longniddry Green Error (Dance)** sett — one scale-free proportio
 [GGWGGGWG](/stripes/ggwgggwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Longniddry](/tartans/longniddry/) tartan — the named design grouping this sett with its kin.
+Part of the [Longniddry](/tartans/longniddry-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

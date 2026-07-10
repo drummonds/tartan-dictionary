@@ -6,7 +6,7 @@ This is the **Braveheart Warrior** sett — one scale-free proportion (`k24db2k3
 [KBKBKBKGBKBW](/stripes/kbkbkbkgbkbw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Braveheart Warrior](/tartans/braveheart-warrior/) tartan — the named design grouping this sett with its kin.
+Part of the [Braveheart Warrior](/tartans/braveheart-warrior-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

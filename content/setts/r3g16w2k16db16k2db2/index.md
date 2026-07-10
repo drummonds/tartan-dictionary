@@ -6,7 +6,7 @@ This is the **Colquhoun Clan Tartan** sett — one scale-free proportion (`r3g16
 [BKBKWGR](/stripes/bkbkwgr/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
-Part of the [Colquhoun](/tartans/colquhoun/) tartan — the named design grouping this sett with its kin.
+Part of the [Colquhoun](/tartans/colquhoun-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

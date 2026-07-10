@@ -6,7 +6,7 @@ This is the **Anderson Red (Westwood) (Estimated threadcount)** sett — one sca
 [RWRKRWKWKYKYKRWRWR](/stripes/rwrkrwkwkykykrwrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Anderson](/tartans/anderson-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Anderson](/tartans/anderson-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

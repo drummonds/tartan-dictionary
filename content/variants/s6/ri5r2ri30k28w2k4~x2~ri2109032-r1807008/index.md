@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Ramsay"
   url: "/clan/ramsay/"
 - name: "Ramsay"
-  url: "/tartans/ramsay/"
+  url: "/tartans/ramsay-6/"
 - name: "Ramsay Red Clan Tartan"
   url: "/setts/ri5r2ri30k28w2k4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri5r2ri30k28w2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRRR](/stripes/kwkrrr/).
 
-Part of the [Ramsay](/tartans/ramsay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ramsay](/tartans/ramsay-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

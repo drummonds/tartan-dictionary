@@ -6,7 +6,7 @@ This is the **King George VI Royal Family Tartan** sett — one scale-free propo
 [RGKGKBKRKRW](/stripes/rgkgkbkrkrw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [King George](/tartans/king-george-2/) tartan — the named design grouping this sett with its kin.
+Part of the [King George](/tartans/king-george-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

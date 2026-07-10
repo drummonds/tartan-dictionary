@@ -6,7 +6,7 @@ This is the **Dundee #2** sett — one scale-free proportion (`ri30r2k6r2g17y7w2
 [RRKRGGWKWGWWKW](/stripes/rrkrggwkwgwwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Dundee](/tartans/dundee-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Dundee](/tartans/dundee-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

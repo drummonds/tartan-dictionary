@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rankin"
-  url: "/tartans/rankin/"
+  url: "/tartans/rankin-2/"
 - name: "Rankin (1998) (Name)"
   url: "/setts/db36g10dr2g10lb2g10dr2g10k14dr2db12dr3db2dr2db4lb2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db36g10dr2g10lb2g10dr2g10k14dr2db12dr3db2dr2db4lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWGBGKBBBBBBW](/stripes/bgbgwgbgkbbbbbbw/).
 
-Part of the [Rankin](/tartans/rankin/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rankin](/tartans/rankin-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

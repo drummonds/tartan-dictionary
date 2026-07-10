@@ -6,7 +6,7 @@ This is the **Strathdon** sett — one scale-free proportion (`lb3dy8dr2dy8db11d
 [BBBBBBBRGBBGBGW](/stripes/bbbbbbbrgbbgbgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Strathdon](/tartans/strathdon/) tartan — the named design grouping this sett with its kin.
+Part of the [Strathdon](/tartans/strathdon-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

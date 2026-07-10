@@ -6,7 +6,7 @@ This is the **Cunningham Dress Purple (Dance)** sett — one scale-free proporti
 [WBKBWBW](/stripes/wbkbwbw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Cunningham Dress](/tartans/cunningham-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Cunningham Dress](/tartans/cunningham-dress-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Colquhoun #2** sett — one scale-free proportion (`r2g8w1k8t8k1t1
 [BKBKWGR](/stripes/bkbkwgr/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
-Part of the [Colquhoun](/tartans/colquhoun/) tartan — the named design grouping this sett with its kin.
+Part of the [Colquhoun](/tartans/colquhoun-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

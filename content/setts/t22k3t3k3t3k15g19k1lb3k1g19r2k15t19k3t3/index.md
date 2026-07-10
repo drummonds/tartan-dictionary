@@ -6,7 +6,7 @@ This is the **Sempill (Clan)** sett — one scale-free proportion (`t22k3t3k3t3k
 [BKBKBKGKWKGRKBKB](/stripes/bkbkbkgkwkgrkbkb/). It is recorded as a single **variant**, below.
 First attested **~1969**.
 
-Part of the [Sempill](/tartans/sempill/) tartan — the named design grouping this sett with its kin.
+Part of the [Sempill](/tartans/sempill-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

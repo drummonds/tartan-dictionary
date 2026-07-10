@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gunn"
-  url: "/tartans/gunn-2/"
+  url: "/tartans/gunn-4/"
 - name: "Gunn Clan Tartan"
   url: "/setts/r2g12k12g1db12g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2g12k12g1db12g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGR](/stripes/gbgkgr/).
 
-Part of the [Gunn](/tartans/gunn-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gunn](/tartans/gunn-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

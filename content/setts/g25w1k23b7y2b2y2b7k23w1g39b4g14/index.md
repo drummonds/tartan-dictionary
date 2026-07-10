@@ -6,7 +6,7 @@ This is the **Duffy** sett — one scale-free proportion (`g25w1k23b7y2b2y2b7k23
 [GBGWKBGBGBKWG](/stripes/gbgwkbgbgbkwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Duffy](/tartans/duffy/) tartan — the named design grouping this sett with its kin.
+Part of the [Duffy](/tartans/duffy-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

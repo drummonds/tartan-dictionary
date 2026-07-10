@@ -6,7 +6,7 @@ This is the **Houston (Personal)** sett — one scale-free proportion (`g2ly1dy2
 [GYGYGYGYBYGYGYBYGYGYGY](/stripes/gygygygybygygybygygygy/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Houston](/tartans/houston/) tartan — the named design grouping this sett with its kin.
+Part of the [Houston](/tartans/houston-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

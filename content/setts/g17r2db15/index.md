@@ -6,7 +6,7 @@ This is the **Ferguson (Old) Clan Tartan** sett — one scale-free proportion (`
 [BRG](/stripes/brg/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [Ferguson](/tartans/ferguson/) tartan — the named design grouping this sett with its kin.
+Part of the [Ferguson](/tartans/ferguson-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Braveheart - Warrior (dress) Universal Tartan** sett — one scale
 [KRWRGWKWKWBW](/stripes/krwrgwkwkwbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Braveheart](/tartans/braveheart/) tartan — the named design grouping this sett with its kin.
+Part of the [Braveheart](/tartans/braveheart-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

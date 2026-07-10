@@ -6,7 +6,7 @@ This is the **Cree (Fashion)** sett — one scale-free proportion (`w3r3k3r6dg6k
 [WRKRGKWKYKBBY](/stripes/wrkrgkwkykbby/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
-Part of the [Cree](/tartans/cree/) tartan — the named design grouping this sett with its kin.
+Part of the [Cree](/tartans/cree-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

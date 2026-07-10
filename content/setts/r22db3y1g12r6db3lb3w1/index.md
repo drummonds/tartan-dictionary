@@ -6,7 +6,7 @@ This is the **Drummond, (Fingask)** sett — one scale-free proportion (`r22db3y
 [RBGGRBWW](/stripes/rbggrbww/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Drummond](/tartans/drummond/) tartan — the named design grouping this sett with its kin.
+Part of the [Drummond](/tartans/drummond-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

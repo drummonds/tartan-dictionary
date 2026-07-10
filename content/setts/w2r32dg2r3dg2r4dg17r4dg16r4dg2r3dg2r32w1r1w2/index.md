@@ -6,7 +6,7 @@ This is the **Rothesay District Tartan** sett — one scale-free proportion (`w2
 [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Rothesay](/tartans/rothesay/) tartan — the named design grouping this sett with its kin.
+Part of the [Rothesay](/tartans/rothesay-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

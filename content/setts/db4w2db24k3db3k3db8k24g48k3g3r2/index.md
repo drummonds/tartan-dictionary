@@ -7,7 +7,7 @@ This is the **Urquhart (White Line)** sett — one scale-free proportion (`db4w2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
-Part of the [Urquhart](/tartans/urquhart-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Urquhart](/tartans/urquhart-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

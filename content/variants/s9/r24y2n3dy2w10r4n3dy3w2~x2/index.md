@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manx Laxey"
-  url: "/tartans/manx-laxey/"
+  url: "/tartans/manx-laxey-2/"
 - name: "Manx Laxey Red District Tartan"
   url: "/setts/r24y2n3dy2w10r4n3dy3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r24y2n3dy2w10r4n3dy3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGWRBGW](/stripes/rgbgwrbgw/).
 
-Part of the [Manx Laxey](/tartans/manx-laxey/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Manx Laxey](/tartans/manx-laxey-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

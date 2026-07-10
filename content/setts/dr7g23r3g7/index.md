@@ -6,7 +6,7 @@ This is the **Highland Spring (Green)** sett — one scale-free proportion (`dr7
 [BGRG](/stripes/bgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Highland Spring](/tartans/highland-spring-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Highland Spring](/tartans/highland-spring-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

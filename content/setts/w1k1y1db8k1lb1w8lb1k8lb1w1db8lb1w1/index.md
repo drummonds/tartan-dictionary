@@ -6,7 +6,7 @@ This is the **Praetorian, Blue (Fashion)** sett — one scale-free proportion (`
 [WKGBKWWWKWWBWW](/stripes/wkgbkwwwkwwbww/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Praetorian](/tartans/praetorian-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Praetorian](/tartans/praetorian-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

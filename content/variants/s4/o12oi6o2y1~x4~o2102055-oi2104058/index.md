@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Garth"
-  url: "/tartans/loch-garth/"
+  url: "/tartans/loch-garth-2/"
 - name: "Loch Garth"
   url: "/setts/o12oi6o2y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o12oi6o2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRR](/stripes/grrr/).
 
-Part of the [Loch Garth](/tartans/loch-garth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Loch Garth](/tartans/loch-garth-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 

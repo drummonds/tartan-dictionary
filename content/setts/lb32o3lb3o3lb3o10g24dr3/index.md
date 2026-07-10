@@ -6,7 +6,7 @@ This is the **Gammell (Personal)** sett — one scale-free proportion (`lb32o3lb
 [BGRWRWRW](/stripes/bgrwrwrw/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
-Part of the [Gammell](/tartans/gammell/) tartan — the named design grouping this sett with its kin.
+Part of the [Gammell](/tartans/gammell-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

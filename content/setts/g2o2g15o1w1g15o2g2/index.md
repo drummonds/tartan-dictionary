@@ -6,7 +6,7 @@ This is the **Bannockbane, hunting** sett — one scale-free proportion (`g2o2g1
 [GRGRWGRG](/stripes/grgrwgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bannockbane Hunting](/tartans/bannockbane-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Bannockbane Hunting](/tartans/bannockbane-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **MacGregor Dress Burgundy (Dance)** sett — one scale-free proport
 [RKRWRW](/stripes/rkrwrw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
-Part of the [MacGregor](/tartans/macgregor/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGregor](/tartans/macgregor-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

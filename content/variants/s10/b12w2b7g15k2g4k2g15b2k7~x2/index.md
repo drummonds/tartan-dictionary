@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Smeaton"
-  url: "/tartans/smeaton/"
+  url: "/tartans/smeaton-2/"
 - name: "Smeaton"
   url: "/setts/b12w2b7g15k2g4k2g15b2k7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b12w2b7g15k2g4k2g15b2k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGKGKGBK](/stripes/bwbgkgkgbk/).
 
-Part of the [Smeaton](/tartans/smeaton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Smeaton](/tartans/smeaton-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

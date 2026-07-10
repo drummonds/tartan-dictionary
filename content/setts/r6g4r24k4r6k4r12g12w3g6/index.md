@@ -6,7 +6,7 @@ This is the **Morrison Old Clan Tartan** sett — one scale-free proportion (`r6
 [GWGRKRKRGR](/stripes/gwgrkrkrgr/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
-Part of the [Morrison](/tartans/morrison/) tartan — the named design grouping this sett with its kin.
+Part of the [Morrison](/tartans/morrison-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Innes Hunting** sett — one scale-free proportion (`k30lb7g36k5`)
 [KGWK](/stripes/kgwk/). It is recorded as a single **variant**, below.
 First attested **1969**.
 
-Part of the [Innes Hunting](/tartans/innes-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Innes Hunting](/tartans/innes-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

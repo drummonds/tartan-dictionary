@@ -6,7 +6,7 @@ This is the **Ross (Clan)** sett — one scale-free proportion (`g18r2g18r18g2r4
 [GRGRBRGRBRBRBRBRBRBRGRGRGRG](/stripes/grgrbrgrbrbrbrbrbrbrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Ross](/tartans/ross/) tartan — the named design grouping this sett with its kin.
+Part of the [Ross](/tartans/ross-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

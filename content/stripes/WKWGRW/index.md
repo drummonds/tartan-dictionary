@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/">MacTavish / Thom(p)son, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/"><img src="/variants/s6/lb3o26g4lb13k13lb2~x2/sett.png" alt="MacTavish / Thom(p)son, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/">MacTavish / Thom(p)son, hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><img src="/variants/s6/lb4o28g6lb12k12lb3~x2/sett.png" alt="MacTavish / Thom(p)son, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/">MacTavish / Thom(p)son, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/"><img src="/variants/s6/lb3o26g4lb13k13lb2~x2/sett.png" alt="MacTavish / Thom(p)son, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

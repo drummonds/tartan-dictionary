@@ -6,7 +6,7 @@ This is the **Balmoral (Old and Rare) Royal Tartan** sett — one scale-free pro
 [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/). It is recorded as a single **variant**, below.
 First attested **1893**.
 
-Part of the [Balmoral](/tartans/balmoral-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Balmoral](/tartans/balmoral-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

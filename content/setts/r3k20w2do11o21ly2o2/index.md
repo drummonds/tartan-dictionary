@@ -6,7 +6,7 @@ This is the **Barbour** sett — one scale-free proportion (`r3k20w2do11o21ly2o2
 [RKWBRYR](/stripes/rkwbryr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Barbour](/tartans/barbour/) tartan — the named design grouping this sett with its kin.
+Part of the [Barbour](/tartans/barbour-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

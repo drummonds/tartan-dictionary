@@ -6,7 +6,7 @@ This is the **Commonwealth Games 1986 (Corp)** sett — one scale-free proportio
 [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Commonwealth Games 1986](/tartans/commonwealth-games-1986/) tartan — the named design grouping this sett with its kin.
+Part of the [Commonwealth Games 1986](/tartans/commonwealth-games-1986-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

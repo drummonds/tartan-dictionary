@@ -6,7 +6,7 @@ This is the **Rotary International** sett — one scale-free proportion (`g15r3l
 [BYGRWRG](/stripes/bygrwrg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Rotary](/tartans/rotary/) tartan — the named design grouping this sett with its kin.
+Part of the [Rotary](/tartans/rotary-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

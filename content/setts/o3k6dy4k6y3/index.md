@@ -6,7 +6,7 @@ This is the **Daks (Black)** sett — one scale-free proportion (`o3k6dy4k6y3`),
 [GKGKR](/stripes/gkgkr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Daks](/tartans/daks-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Daks](/tartans/daks-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

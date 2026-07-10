@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Dunbar"
   url: "/clan/dunbar/"
 - name: "Dunbar"
-  url: "/tartans/dunbar/"
+  url: "/tartans/dunbar-3/"
 - name: "Dunbar (District)"
   url: "/setts/k8dr49k8lb3k20lo3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8dr49k8lb3k20lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWKY](/stripes/kbkwky/).
 
-Part of the [Dunbar](/tartans/dunbar/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dunbar](/tartans/dunbar-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

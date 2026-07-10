@@ -6,7 +6,7 @@ This is the **Rathmore Family Tartan** sett — one scale-free proportion (`r26l
 [RWRBRBYBWRWY](/stripes/rwrbrbybwrwy/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [Rathmore](/tartans/rathmore/) tartan — the named design grouping this sett with its kin.
+Part of the [Rathmore](/tartans/rathmore-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

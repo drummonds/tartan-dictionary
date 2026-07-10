@@ -7,7 +7,7 @@ This is the **Matheson** sett — one scale-free proportion (`g8r4g1r1g1r24db8g4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Matheson](/tartans/matheson/) tartan — the named design grouping this sett with its kin.
+Part of the [Matheson](/tartans/matheson-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

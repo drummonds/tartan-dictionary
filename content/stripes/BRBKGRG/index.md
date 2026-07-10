@@ -36,10 +36,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><img src="/variants/s7/db3r1db10k8g10r1g3~x4/sett.png" alt="Blair Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db3r2db22k11g22r2g3~x2/">Gammell (1978) (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><img src="/variants/s7/db3r2db22k11g22r2g3~x2/sett.png" alt="Gammell (1978) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db3r2db21k11g21r2g3/">MacThomas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db3r2db21k11g21r2g3/"><img src="/variants/s7/db3r2db21k11g21r2g3/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db2r2db21k11g21r2g2~x2/">MacThomas</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><img src="/variants/s7/db2r2db21k11g21r2g2~x2/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db3r2db21k11g21r2g3/">MacThomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db3r2db21k11g21r2g3/"><img src="/variants/s7/db3r2db21k11g21r2g3/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db3r2db22k11g24o2g3~x2/">MacThomas Clan Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><img src="/variants/s7/db3r2db22k11g24o2g3~x2/sett.png" alt="MacThomas Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -7,7 +7,7 @@ This is the **Fort William (District?)** sett — one scale-free proportion (`dg
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
-Part of the [Fort William](/tartans/fort-william/) tartan — the named design grouping this sett with its kin.
+Part of the [Fort William](/tartans/fort-william-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

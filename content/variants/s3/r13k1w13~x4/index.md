@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hose"
-  url: "/tartans/hose/"
+  url: "/tartans/hose-3/"
 - name: "Hose (Dunmore)"
   url: "/setts/r13k1w13/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r13k1w13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKW](/stripes/rkw/).
 
-Part of the [Hose](/tartans/hose/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hose](/tartans/hose-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

@@ -6,7 +6,7 @@ This is the **Burnett of Leys Hunting** sett — one scale-free proportion (`r92
 [RBRWRGRR](/stripes/rbrwrgrr/). It is recorded as a single **variant**, below.
 First attested **1838**.
 
-Part of the [Burnett of Leys Hunting](/tartans/burnett-of-leys-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Burnett of Leys Hunting](/tartans/burnett-of-leys-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

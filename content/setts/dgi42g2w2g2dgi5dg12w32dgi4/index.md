@@ -6,7 +6,7 @@ This is the **Longniddry Green District Tartan** sett — one scale-free proport
 [GGWGGGWG](/stripes/ggwgggwg/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
-Part of the [Longniddry](/tartans/longniddry/) tartan — the named design grouping this sett with its kin.
+Part of the [Longniddry](/tartans/longniddry-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

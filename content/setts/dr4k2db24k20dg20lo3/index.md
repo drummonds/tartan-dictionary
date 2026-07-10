@@ -6,7 +6,7 @@ This is the **Loudoun's Highlanders - 1747 #1 (Mil** sett — one scale-free pro
 [BKBKGY](/stripes/bkbkgy/). It is recorded as a single **variant**, below.
 First attested **1747**.
 
-Part of the [Loudoun's Highlanders](/tartans/loudoun-s-highlanders/) tartan — the named design grouping this sett with its kin.
+Part of the [Loudoun's Highlanders](/tartans/loudoun-s-highlanders-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

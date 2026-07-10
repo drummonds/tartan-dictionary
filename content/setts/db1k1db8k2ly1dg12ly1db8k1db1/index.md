@@ -6,7 +6,7 @@ This is the **Rowan (Name)** sett — one scale-free proportion (`db1k1db8k2ly1d
 [BKBKYGYBKB](/stripes/bkbkygybkb/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Rowan](/tartans/rowan/) tartan — the named design grouping this sett with its kin.
+Part of the [Rowan](/tartans/rowan-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

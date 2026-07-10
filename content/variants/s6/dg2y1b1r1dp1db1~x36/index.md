@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rainbow"
-  url: "/tartans/rainbow/"
+  url: "/tartans/rainbow-7/"
 - name: "Rainbow"
   url: "/setts/dg2y1b1r1dp1db1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg2y1b1r1dp1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBGG](/stripes/bbrbgg/).
 
-Part of the [Rainbow](/tartans/rainbow/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rainbow](/tartans/rainbow-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

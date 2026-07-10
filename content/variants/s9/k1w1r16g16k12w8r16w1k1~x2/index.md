@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNaughton"
-  url: "/tartans/macnaughton-2/"
+  url: "/tartans/macnaughton-3/"
 - name: "MacNaughton"
   url: "/setts/k1w1r16g16k12w8r16w1k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1w1r16g16k12w8r16w1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRGKWRWK](/stripes/kwrgkwrwk/).
 
-Part of the [MacNaughton](/tartans/macnaughton-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacNaughton](/tartans/macnaughton-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

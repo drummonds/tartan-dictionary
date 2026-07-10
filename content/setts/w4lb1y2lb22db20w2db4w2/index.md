@@ -6,7 +6,7 @@ This is the **Gorman Blue (Personal)** sett — one scale-free proportion (`w4lb
 [WBWBWGWW](/stripes/wbwbwgww/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Gorman](/tartans/gorman/) tartan — the named design grouping this sett with its kin.
+Part of the [Gorman](/tartans/gorman-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

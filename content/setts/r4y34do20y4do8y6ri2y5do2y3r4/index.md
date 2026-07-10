@@ -6,7 +6,7 @@ This is the **Morgan Welsh Name Tartan** sett — one scale-free proportion (`r4
 [RGBGBGRGBGR](/stripes/rgbgbgrgbgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Morgan](/tartans/morgan/) tartan — the named design grouping this sett with its kin.
+Part of the [Morgan](/tartans/morgan-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

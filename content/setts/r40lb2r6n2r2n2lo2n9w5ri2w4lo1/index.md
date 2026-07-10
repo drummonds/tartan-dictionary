@@ -6,7 +6,7 @@ This is the **Rathmore (Fashion)** sett — one scale-free proportion (`r40lb2r6
 [RWRBRBYBWRWY](/stripes/rwrbrbybwrwy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Rathmore](/tartans/rathmore/) tartan — the named design grouping this sett with its kin.
+Part of the [Rathmore](/tartans/rathmore-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Skinner** sett — one scale-free proportion (`db1r16k16y1`), colo
 [BRKG](/stripes/brkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Skinner](/tartans/skinner/) tartan — the named design grouping this sett with its kin.
+Part of the [Skinner](/tartans/skinner-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

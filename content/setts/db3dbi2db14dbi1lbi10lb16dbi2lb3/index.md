@@ -6,7 +6,7 @@ This is the **Bannockbane Blue #2** sett — one scale-free proportion (`db3dbi2
 [BBBBWWBW](/stripes/bbbbwwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bannockbane](/tartans/bannockbane/) tartan — the named design grouping this sett with its kin.
+Part of the [Bannockbane](/tartans/bannockbane-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

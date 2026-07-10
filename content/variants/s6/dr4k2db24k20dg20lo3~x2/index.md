@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loudoun's Highlanders"
-  url: "/tartans/loudoun-s-highlanders/"
+  url: "/tartans/loudoun-s-highlanders-2/"
 - name: "Loudoun's Highlanders - 1747 #1 (Mil"
   url: "/setts/dr4k2db24k20dg20lo3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr4k2db24k20dg20lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGY](/stripes/bkbkgy/).
 
-Part of the [Loudoun's Highlanders](/tartans/loudoun-s-highlanders/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Loudoun's Highlanders](/tartans/loudoun-s-highlanders-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

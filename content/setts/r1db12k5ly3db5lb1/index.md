@@ -6,7 +6,7 @@ This is the **Massachusetts (Unofficial)** sett — one scale-free proportion (`
 [RBKYBW](/stripes/rbkybw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Massachusetts](/tartans/massachusetts/) tartan — the named design grouping this sett with its kin.
+Part of the [Massachusetts](/tartans/massachusetts-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

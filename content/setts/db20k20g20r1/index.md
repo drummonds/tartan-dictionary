@@ -6,7 +6,7 @@ This is the **Gunn 2011, Robert (Personal)** sett — one scale-free proportion 
 [BKGR](/stripes/bkgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Gunn](/tartans/gunn/) tartan — the named design grouping this sett with its kin.
+Part of the [Gunn](/tartans/gunn-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

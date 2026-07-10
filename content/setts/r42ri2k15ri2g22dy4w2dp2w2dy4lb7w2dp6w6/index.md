@@ -6,7 +6,7 @@ This is the **Dundee (1819) (District)** sett — one scale-free proportion (`r4
 [RRKRGGWBWGWWBW](/stripes/rrkrggwbwgwwbw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Dundee](/tartans/dundee-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Dundee](/tartans/dundee-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Bermuda Blue** sett — one scale-free proportion (`t12r4db4t42r6t
 [BBRBGBBBRBBRB](/stripes/bbrbgbbbrbbrb/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
-Part of the [Bermuda](/tartans/bermuda/) tartan — the named design grouping this sett with its kin.
+Part of the [Bermuda](/tartans/bermuda-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

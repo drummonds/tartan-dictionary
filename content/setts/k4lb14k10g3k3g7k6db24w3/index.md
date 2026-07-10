@@ -6,7 +6,7 @@ This is the **Kagame Personal Tartan** sett — one scale-free proportion (`k4lb
 [KWKKGKGKBW](/stripes/kwkkgkgkbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Kagame](/tartans/kagame/) tartan — the named design grouping this sett with its kin.
+Part of the [Kagame](/tartans/kagame-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

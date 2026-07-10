@@ -6,7 +6,7 @@ This is the **Stewart Black.. Clan Tartan** sett — one scale-free proportion (
 [KBWKGKWKGRKRW](/stripes/kbwkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **~1830**.
 
-Part of the [Stewart](/tartans/stewart/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart](/tartans/stewart-11/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

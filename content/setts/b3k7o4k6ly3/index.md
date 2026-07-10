@@ -6,7 +6,7 @@ This is the **Daks - Black House Check, C.6700.06** sett — one scale-free prop
 [BKRKY](/stripes/bkrky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Daks](/tartans/daks-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Daks](/tartans/daks-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

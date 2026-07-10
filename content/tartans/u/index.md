@@ -2,24 +2,30 @@
 title: "Tartans — U"
 date: 2023-03-18
 ---
-17 tartans beginning with U. [Back to the A–Z](/tartans/).
+23 tartans beginning with U, each with the number of setts it groups. [Back to the A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/u-s-special-forces/"><img src="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/sett.png" alt="U.S. Special Forces" width="140"><br><strong>U.S. Special Forces</strong></a></li>
-<li><a class="tartan" href="/tartans/us-air-force-reserve-pipe-band/"><img src="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/sett.png" alt="US Air Force Reserve Pipe Band" width="140"><br><strong>US Air Force Reserve Pipe Band</strong></a></li>
-<li><a class="tartan" href="/tartans/us-marine-corps/"><img src="/variants/s8/g40r3g4r3g12db32lo4r3~x2/sett.png" alt="US Marine Corps" width="140"><br><strong>US Marine Corps</strong></a></li>
-<li><a class="tartan" href="/tartans/ulster/"><img src="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/sett.png" alt="Ulster" width="140"><br><strong>Ulster</strong></a></li>
-<li><a class="tartan" href="/tartans/ulster-ancestry/"><img src="/variants/s9/n47r8k22r7w3r24n9r10y3~x2/sett.png" alt="Ulster Ancestry" width="140"><br><strong>Ulster Ancestry</strong></a></li>
-<li><a class="tartan" href="/tartans/unidentified-arisaid/"><img src="/variants/s9/w216k8dg24g24w4k4r45w8r12/sett.png" alt="Unidentified Arisaid" width="140"><br><strong>Unidentified Arisaid</strong></a></li>
-<li><a class="tartan" href="/tartans/unidentified-arisaid-2/"><img src="/variants/s12/r30w24dg15g15w24r30w24g15dg15w24r30w23~x2/sett.png" alt="Unidentified Arisaid" width="140"><br><strong>Unidentified Arisaid</strong></a></li>
-<li><a class="tartan" href="/tartans/unidentified-cant/"><img src="/variants/s5/r44db2g26r3db2/sett.png" alt="Unidentified Cant" width="140"><br><strong>Unidentified Cant</strong></a></li>
-<li><a class="tartan" href="/tartans/unidentified-chair-covering/"><img src="/variants/s11/r15o3dy2do2dy3r3ly3dy3g3r4g2~x2~dy1503057-ly2806085/sett.png" alt="Unidentified Chair Covering" width="140"><br><strong>Unidentified Chair Covering</strong></a></li>
-<li><a class="tartan" href="/tartans/unidentified-gordon-variant/"><img src="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/sett.png" alt="Unidentified Gordon variant" width="140"><br><strong>Unidentified Gordon variant</strong></a></li>
-<li><a class="tartan" href="/tartans/unidentified-lady-s/"><img src="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/sett.png" alt="Unidentified Lady's" width="140"><br><strong>Unidentified Lady's</strong></a></li>
-<li><a class="tartan" href="/tartans/unidentified-phyllis-gordon/"><img src="/variants/s20/k40g8r1g57y5g9w5g57r1g8k40o7k4g4k2w4k2g4k4o7~x2/sett.png" alt="Unidentified Phyllis Gordon" width="140"><br><strong>Unidentified Phyllis Gordon</strong></a></li>
-<li><a class="tartan" href="/tartans/unidentified-ross-shire/"><img src="/variants/s8/w75dy1r18g9dy1r27w2r5~x2/sett.png" alt="Unidentified Ross-shire" width="140"><br><strong>Unidentified Ross-shire</strong></a></li>
-<li><a class="tartan" href="/tartans/united-arrows-house-check/"><img src="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/sett.png" alt="United Arrows House Check" width="140"><br><strong>United Arrows House Check</strong></a></li>
-<li><a class="tartan" href="/tartans/urquhart/"><img src="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/sett.png" alt="Urquhart" width="140"><br><strong>Urquhart</strong></a></li>
-<li><a class="tartan" href="/tartans/urquhart-2/"><img src="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/sett.png" alt="Urquhart" width="140"><br><strong>Urquhart</strong></a></li>
-<li><a class="tartan" href="/tartans/urquhart-3/"><img src="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/sett.png" alt="Urquhart" width="140"><br><strong>Urquhart</strong></a></li>
+<li><a class="tartan" href="/setts/dbi49g3k22r2t33db3t7/"><img src="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/sett.png" alt="U.S. 2001 Air Force" width="140"><br><strong>U.S. 2001 Air Force (1)</strong></a></li>
+<li><a class="tartan" href="/setts/t33db3t7db3t33r2k22g3dbi49g3k22r2/"><img src="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/sett.png" alt="U.S. 2001 Air Force" width="140"><br><strong>U.S. 2001 Air Force (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db44k3ly20dr3db8k34db5k15/"><img src="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/sett.png" alt="U.S. Air Force Reserve P. B. (Corpor" width="140"><br><strong>U.S. Air Force Reserve P. B. (Corpor (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r3g2w2g3db3g20k20db2k2db2ly15db3ly3/"><img src="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/sett.png" alt="U.S. Ancient Order of Hibernians (Co" width="140"><br><strong>U.S. Ancient Order of Hibernians (Co (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k17y4dg51dy3g4dy3dg51y4k17db6/"><img src="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/sett.png" alt="U.S. Army" width="140"><br><strong>U.S. Army (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db6k17y4dg51dy3g4/"><img src="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/sett.png" alt="U.S. Army" width="140"><br><strong>U.S. Army (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k10t10k15g40k15t10k10y3/"><img src="/variants/s8/k10t10k15g40k15t10k10y3~x2/sett.png" alt="U.S. Border Patrol" width="140"><br><strong>U.S. Border Patrol (1)</strong></a></li>
+<li><a class="tartan" href="/setts/g40k15t10k10y3/"><img src="/variants/s5/g40k15t10k10y3~x2/sett.png" alt="U.S. Border Patrol" width="140"><br><strong>U.S. Border Patrol (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r5db6r1db6r1db6r5w5/"><img src="/variants/s8/r5db6r1db6r1db6r5w5~x4/sett.png" alt="U.S. Coast Guard" width="140"><br><strong>U.S. Coast Guard (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db6r1db6r5w5/"><img src="/variants/s5/db6r1db6r5w5~x4/sett.png" alt="U.S. Coast Guard" width="140"><br><strong>U.S. Coast Guard (1)</strong></a></li>
+<li><a class="tartan" href="/setts/ly24k7db1k1w1k1dy4dr3k1dr2ly1/"><img src="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/sett.png" alt="U.S. Customs &amp; Border Protection (C" width="140"><br><strong>U.S. Customs & Border Protection (C (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20/"><img src="/variants/s13/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20~x2/sett.png" alt="U.S. Forces Thurso" width="140"><br><strong>U.S. Forces Thurso (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db40dr3k10lo2lb15w2lb4/"><img src="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/sett.png" alt="U.S. Forces Thurso" width="140"><br><strong>U.S. Forces Thurso (1)</strong></a></li>
+<li><a class="tartan" href="/setts/y4k3db6dbi4db57n3db3n3db3r3/"><img src="/variants/s10/y4k3db6dbi4db57n3db3n3db3r3~x2~db1204274-dbi1406275/sett.png" alt="U.S. Law Enforcement" width="140"><br><strong>U.S. Law Enforcement (1)</strong></a></li>
+<li><a class="tartan" href="/setts/n37ly2r6ly2n8db49n3/"><img src="/variants/s7/n37ly2r6ly2n8db49n3~x2/sett.png" alt="U.S. Merchant Marine Academy" width="140"><br><strong>U.S. Merchant Marine Academy (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dt45db7w3db27r1db7/"><img src="/variants/s6/dt45db7w3db27r1db7~x2/sett.png" alt="U.S. Navy/Edzell" width="140"><br><strong>U.S. Navy/Edzell (1)</strong></a></li>
+<li><a class="tartan" href="/setts/t10r5w2db2w2r2w2db2w2r5t10k2/"><img src="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/sett.png" alt="U.S. Postal Service" width="140"><br><strong>U.S. Postal Service (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k2lb10r5w2db2w2r2/"><img src="/variants/s7/k2lb10r5w2db2w2r2~x6/sett.png" alt="U.S. Postal Service" width="140"><br><strong>U.S. Postal Service (1)</strong></a></li>
+<li><a class="tartan" href="/setts/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72/"><img src="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2~db1406275/sett.png" alt="U.S. Seabees" width="140"><br><strong>U.S. Seabees (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/u-s-special-forces/"><img src="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/sett.png" alt="U.S. Special Forces" width="140"><br><strong>U.S. Special Forces (2)</strong></a></li>
+<li><a class="tartan" href="/setts/db20n2lb2n4g20w2db16n7lb2db3lb5/"><img src="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/sett.png" alt="U.S.I. Limited" width="140"><br><strong>U.S.I. Limited (1)</strong></a></li>
+<li><a class="tartan" href="/setts/bi3db1b16db16b2lb2/"><img src="/variants/s6/bi3db1b16db16b2lb2~x4~bi2706275-b1709272/sett.png" alt="U.S.S. John Paul Jones" width="140"><br><strong>U.S.S. John Paul Jones (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lg3db1b16db16b2lb2/"><img src="/variants/s6/lg3db1b16db16b2lb2~x4/sett.png" alt="U.S.S. John Paul Jones" width="140"><br><strong>U.S.S. John Paul Jones (1)</strong></a></li>
 </ul>

@@ -6,7 +6,7 @@ This is the **Drummond of Perth** sett — one scale-free proportion (`r36w1db3y
 [RWBGGRBW](/stripes/rwbggrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Drummond of Perth](/tartans/drummond-of-perth/) tartan — the named design grouping this sett with its kin.
+Part of the [Drummond of Perth](/tartans/drummond-of-perth-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

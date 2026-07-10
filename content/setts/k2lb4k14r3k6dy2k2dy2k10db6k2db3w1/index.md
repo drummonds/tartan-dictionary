@@ -6,7 +6,7 @@ This is the **Kennedy (Irish)** sett — one scale-free proportion (`k2lb4k14r3k
 [KWKRKGKGKBKBW](/stripes/kwkrkgkgkbkbw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
-Part of the [Kennedy](/tartans/kennedy/) tartan — the named design grouping this sett with its kin.
+Part of the [Kennedy](/tartans/kennedy-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

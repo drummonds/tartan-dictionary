@@ -7,7 +7,7 @@ This is the **Hay** sett — one scale-free proportion (`r6g4y2g36r2g2r2g12r48g4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Hay](/tartans/hay/) tartan — the named design grouping this sett with its kin.
+Part of the [Hay](/tartans/hay-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -4492,6 +4492,8 @@ A tartan is one sett proportion — the same cloth woven fine or broad. These 12
 <li><a href="/setts/db3k2lb3r2lb3k2lb24dt24r3db3w2/">Hamburg #2 (Corporate)</a> <small>1 scale · earliest 2005 · <code>db3k2lb3r2lb3k2lb24dt24r3db3w2</code></small></li>
 <li><a href="/setts/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2/">Hamburg 2</a> <small>1 scale · earliest 2005 · <code>db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2</code></small></li>
 <li><a href="/setts/r25k13w8db5/">Hamby Sport (Personal)</a> <small>1 scale · earliest 2011 · <code>r25k13w8db5</code></small></li>
+<li><a href="/setts/b1o4b1o4b2w1/">Hami</a> <small>1 scale · earliest undated · <code>b1o4b1o4b2w1</code></small></li>
+<li><a href="/setts/w1lg2ly4lg1ly4lg1/">Hami (as found)</a> <small>1 scale · earliest undated · <code>w1lg2ly4lg1ly4lg1</code></small></li>
 <li><a href="/setts/db6r1db6r9w1/">Hamilton</a> <small>2 scales · earliest 1842 · <code>db6r1db6r9w1</code></small></li>
 <li><a href="/setts/r15db8r2db8r2db8r15w2/">Hamilton</a> <small>1 scale · earliest 1842 · <code>r15db8r2db8r2db8r15w2</code></small></li>
 <li><a href="/setts/db8r2db8r15w2/">Hamilton (Clan)</a> <small>1 scale · earliest 1842 · <code>db8r2db8r15w2</code></small></li>
@@ -11348,8 +11350,6 @@ A tartan is one sett proportion — the same cloth woven fine or broad. These 12
 <li><a href="/setts/k8ly8k8ly2g100k42r8t8w8k21ly2k8ly8k8/">Tarassow Russian Scout (Corporate)</a> <small>1 scale · earliest 2008 · <code>k8ly8k8ly2g100k42r8t8w8k21ly2k8ly8k8</code></small></li>
 <li><a href="/setts/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/">Tarassow Russian Scouts Corporate Tartan</a> <small>1 scale · earliest 2008 · <code>k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8</code></small></li>
 <li><a href="/setts/w80db30lo5y4/">Tarbh Deargh (Red Bull)</a> <small>1 scale · earliest 2001 · <code>w80db30lo5y4</code></small></li>
-<li><a href="/setts/b1o4b1o4b2w1/">Tarim</a> <small>1 scale · earliest undated · <code>b1o4b1o4b2w1</code></small></li>
-<li><a href="/setts/w1lg2ly4lg1ly4lg1/">Tarim (as found)</a> <small>1 scale · earliest undated · <code>w1lg2ly4lg1ly4lg1</code></small></li>
 <li><a href="/setts/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4/">Tartan Army</a> <small>1 scale · earliest ~2016 · <code>db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4</code></small></li>
 <li><a href="/setts/db2k1/">Tartan Army</a> <small>1 scale · earliest ~2016 · <code>db2k1</code></small></li>
 <li><a href="/setts/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4/">Tartan Army</a> <small>1 scale · earliest 1997 · <code>t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4</code></small></li>

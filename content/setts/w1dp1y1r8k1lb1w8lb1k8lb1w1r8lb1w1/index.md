@@ -6,7 +6,7 @@ This is the **Praetorian (Fashion)** sett — one scale-free proportion (`w1dp1y
 [WBGRKWWWKWWRWW](/stripes/wbgrkwwwkwwrww/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Praetorian](/tartans/praetorian/) tartan — the named design grouping this sett with its kin.
+Part of the [Praetorian](/tartans/praetorian-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

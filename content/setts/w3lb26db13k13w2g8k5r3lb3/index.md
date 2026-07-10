@@ -6,7 +6,7 @@ This is the **Moran (Virgin Islands) (Personal)** sett — one scale-free propor
 [WRKGWKBWW](/stripes/wrkgwkbww/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [Moran](/tartans/moran/) tartan — the named design grouping this sett with its kin.
+Part of the [Moran](/tartans/moran-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

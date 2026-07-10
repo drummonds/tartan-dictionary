@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kennedy"
-  url: "/tartans/kennedy/"
+  url: "/tartans/kennedy-3/"
 - name: "Kennedy (Irish)"
   url: "/setts/k2lb4k14r3k6dy2k2dy2k10db6k2db3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2lb4k14r3k6dy2k2dy2k10db6k2db3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRKGKGKBKBW](/stripes/kwkrkgkgkbkbw/).
 
-Part of the [Kennedy](/tartans/kennedy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kennedy](/tartans/kennedy-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

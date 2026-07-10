@@ -6,7 +6,7 @@ This is the **Greylock** sett — one scale-free proportion (`g11lr2g12k3lb15dr3
 [GWKWYGWBWKGYG](/stripes/gwkwygwbwkgyg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Greylock](/tartans/greylock/) tartan — the named design grouping this sett with its kin.
+Part of the [Greylock](/tartans/greylock-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

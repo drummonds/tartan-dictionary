@@ -6,7 +6,7 @@ This is the **Glover, Thomas Blake (Corporate)** sett — one scale-free proport
 [BBYBYBBWBWBY](/stripes/bbybybbwbwby/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Glover, Thomas Blake](/tartans/glover-thomas-blake/) tartan — the named design grouping this sett with its kin.
+Part of the [Glover, Thomas Blake](/tartans/glover-thomas-blake-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

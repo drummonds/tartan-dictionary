@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highlands Country Club"
-  url: "/tartans/highlands-country-club/"
+  url: "/tartans/highlands-country-club-2/"
 - name: "Highlands Country Club Corporate Tartan"
   url: "/setts/g5db15lb11w2lb1w1dg4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g5db15lb11w2lb1w1dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWWWWG](/stripes/gbwwwwg/).
 
-Part of the [Highlands Country Club](/tartans/highlands-country-club/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Highlands Country Club](/tartans/highlands-country-club-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

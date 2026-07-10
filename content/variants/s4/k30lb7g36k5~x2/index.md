@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Innes,"
   url: "/clan/innes/"
 - name: "Innes Hunting"
-  url: "/tartans/innes-hunting/"
+  url: "/tartans/innes-hunting-2/"
 - name: "Innes Hunting"
   url: "/setts/k30lb7g36k5/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k30lb7g36k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWK](/stripes/kgwk/).
 
-Part of the [Innes Hunting](/tartans/innes-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Innes Hunting](/tartans/innes-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

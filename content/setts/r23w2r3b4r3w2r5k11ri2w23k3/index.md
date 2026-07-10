@@ -6,7 +6,7 @@ This is the **MacKellar Dress Red Fashion Tartan** sett — one scale-free propo
 [KWRKRWRBRWR](/stripes/kwrkrwrbrwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacKellar Dress](/tartans/mackellar-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKellar Dress](/tartans/mackellar-dress-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Fletcher #2** sett — one scale-free proportion (`t10k3t10k14r2g1
 [BKBKRGK](/stripes/bkbkrgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Fletcher](/tartans/fletcher/) tartan — the named design grouping this sett with its kin.
+Part of the [Fletcher](/tartans/fletcher-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

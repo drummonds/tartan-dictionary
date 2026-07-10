@@ -6,7 +6,7 @@ This is the **Harmer (Corporate)** sett — one scale-free proportion (`ly12dg4l
 [BGYKYGY](/stripes/bgykygy/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
-Part of the [Harmer](/tartans/harmer/) tartan — the named design grouping this sett with its kin.
+Part of the [Harmer](/tartans/harmer-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

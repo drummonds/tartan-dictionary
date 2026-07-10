@@ -6,7 +6,7 @@ This is the **King George IV** sett — one scale-free proportion (`dg3lr3dg3r24
 [GYGRBWRBRWBRGRBWRWBRGRBWRBRWBRGY](/stripes/gygrbwrbrwbrgrbwrwbrgrbwrbrwbrgy/). It is recorded as a single **variant**, below.
 First attested **1824**.
 
-Part of the [King George](/tartans/king-george/) tartan — the named design grouping this sett with its kin.
+Part of the [King George](/tartans/king-george-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

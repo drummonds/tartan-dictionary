@@ -6,7 +6,7 @@ This is the **Ayrshire District Tartan** sett — one scale-free proportion (`db
 [BRBWGGGG](/stripes/brbwgggg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Ayrshire](/tartans/ayrshire/) tartan — the named design grouping this sett with its kin.
+Part of the [Ayrshire](/tartans/ayrshire-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

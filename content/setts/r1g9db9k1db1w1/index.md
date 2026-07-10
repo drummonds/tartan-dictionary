@@ -6,7 +6,7 @@ This is the **Irving of Glentulchan Family Tartan** sett — one scale-free prop
 [RGBKBW](/stripes/rgbkbw/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [Irving of Glentulchan](/tartans/irving-of-glentulchan/) tartan — the named design grouping this sett with its kin.
+Part of the [Irving of Glentulchan](/tartans/irving-of-glentulchan-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

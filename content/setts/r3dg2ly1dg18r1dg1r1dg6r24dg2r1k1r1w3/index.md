@@ -6,7 +6,7 @@ This is the **Hay - 1842 (Clan)** sett — one scale-free proportion (`r3dg2ly1d
 [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Hay](/tartans/hay/) tartan — the named design grouping this sett with its kin.
+Part of the [Hay](/tartans/hay-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

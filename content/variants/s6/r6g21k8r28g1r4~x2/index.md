@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Dunbar"
   url: "/clan/dunbar/"
 - name: "Dunbar"
-  url: "/tartans/dunbar-2/"
+  url: "/tartans/dunbar-4/"
 - name: "Dunbar"
   url: "/setts/r6g21k8r28g1r4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6g21k8r28g1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRGR](/stripes/rgkrgr/).
 
-Part of the [Dunbar](/tartans/dunbar-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dunbar](/tartans/dunbar-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ This is the **MacDougall (Paton)** sett — one scale-free proportion (`w1dp2r1g
 [WBRGRGRBBRBGRGRBRBRW](/stripes/wbrgrgrbbrbgrgrbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacDougall](/tartans/macdougall-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDougall](/tartans/macdougall-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

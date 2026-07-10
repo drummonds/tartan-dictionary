@@ -6,7 +6,7 @@ This is the **Scottish Tourist Board (1990) (Corp)** sett — one scale-free pro
 [BBWBW](/stripes/bbwbw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Scottish Tourist Board](/tartans/scottish-tourist-board/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Tourist Board](/tartans/scottish-tourist-board-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

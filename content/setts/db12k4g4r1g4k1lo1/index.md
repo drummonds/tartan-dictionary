@@ -6,7 +6,7 @@ This is the **MacLaren (Clan)** sett — one scale-free proportion (`db12k4g4r1g
 [BKGRGKY](/stripes/bkgrgky/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacLaren](/tartans/maclaren-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLaren](/tartans/maclaren-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

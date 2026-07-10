@@ -6,7 +6,7 @@ This is the **New Brunswick (PIK Mills, Toronto)** sett — one scale-free propo
 [GKGKGKGKGKGKGKGGGKRGRGRGRGRGRGRGRKGK](/stripes/gkgkgkgkgkgkgkgggkrgrgrgrgrgrgrgrkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [New Brunswick](/tartans/new-brunswick/) tartan — the named design grouping this sett with its kin.
+Part of the [New Brunswick](/tartans/new-brunswick-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

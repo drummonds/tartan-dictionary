@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
+<tr><td><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/">Hami</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><img src="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/sett.png" alt="Hami sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db3r24db3r3db25w3~x2/">Matthews (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db3r24db3r3db25w3~x2/"><img src="/variants/s6/db3r24db3r3db25w3~x2/sett.png" alt="Matthews (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/">Tarim</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><img src="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/sett.png" alt="Tarim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/db1o5db1o5db2w1~x4/">Tokharian</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db1o5db1o5db2w1~x4/"><img src="/variants/s6/db1o5db1o5db2w1~x4/sett.png" alt="Tokharian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

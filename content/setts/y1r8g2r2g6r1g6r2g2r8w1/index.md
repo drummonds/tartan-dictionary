@@ -7,7 +7,7 @@ This is the **Bruce** sett — one scale-free proportion (`y1r8g2r2g6r1g6r2g2r8w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1797**.
 
-Part of the [Bruce](/tartans/bruce/) tartan — the named design grouping this sett with its kin.
+Part of the [Bruce](/tartans/bruce-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

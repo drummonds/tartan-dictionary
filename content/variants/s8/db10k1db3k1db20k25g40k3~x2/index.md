@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Military"
+  url: "/groups/military/"
+- name: "Black Watch"
+  url: "/groups/military/black-watch/"
 - name: "Black Watch RHR"
   url: "/setts/db10k1db3k1db20k25g40k3/"
 ---

@@ -7,7 +7,7 @@ This is the **Stephenson, hunting** sett — one scale-free proportion (`r5k3db2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1981**.
 
-Part of the [Stephenson Hunting](/tartans/stephenson-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Stephenson Hunting](/tartans/stephenson-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

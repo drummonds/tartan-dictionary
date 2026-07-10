@@ -6,7 +6,7 @@ This is the **MacNab (Clan)** sett — one scale-free proportion (`dg16m2dg2m2dg
 [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [MacNab](/tartans/macnab-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNab](/tartans/macnab-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

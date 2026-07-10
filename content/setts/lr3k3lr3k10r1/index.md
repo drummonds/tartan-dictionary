@@ -6,7 +6,7 @@ This is the **Burberry Black** sett — one scale-free proportion (`lr3k3lr3k10r
 [RKYKY](/stripes/rkyky/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Burberry](/tartans/burberry-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Burberry](/tartans/burberry-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

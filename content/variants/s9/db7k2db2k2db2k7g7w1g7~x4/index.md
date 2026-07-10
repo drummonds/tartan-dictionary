@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Abercrombie"
-  url: "/tartans/abercrombie/"
+  url: "/tartans/abercrombie-4/"
 - name: "Abercrombie"
   url: "/setts/db7k2db2k2db2k7g7w1g7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db7k2db2k2db2k7g7w1g7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWG](/stripes/bkbkbkgwg/).
 
-Part of the [Abercrombie](/tartans/abercrombie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Abercrombie](/tartans/abercrombie-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [9 stripe tartan](/stripes/stripes9/).
 

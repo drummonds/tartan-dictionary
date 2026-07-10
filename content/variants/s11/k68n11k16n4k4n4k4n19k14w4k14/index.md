@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Stewart"
   url: "/clan/stewart/"
 - name: "Stewart Mourning"
-  url: "/tartans/stewart-mourning/"
+  url: "/tartans/stewart-mourning-2/"
 - name: "Stewart Mourning"
   url: "/setts/k68n11k16n4k4n4k4n19k14w4k14/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k68n11k16n4k4n4k4n19k14w4k14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKWK](/stripes/kbkbkbkbkwk/).
 
-Part of the [Stewart Mourning](/tartans/stewart-mourning/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart Mourning](/tartans/stewart-mourning-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

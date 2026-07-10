@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Galloway"
-  url: "/tartans/galloway/"
+  url: "/tartans/galloway-3/"
 - name: "Galloway Green (yellow line)"
   url: "/setts/r3dg2g32dg32g2y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3dg2g32dg32g2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGR](/stripes/gggggr/).
 
-Part of the [Galloway](/tartans/galloway/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Galloway](/tartans/galloway-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

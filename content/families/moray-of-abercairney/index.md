@@ -18,5 +18,5 @@ A family of [Clan Moray](/clan/moray/).
 </tbody>
 </table>
 
-[See the Moray of Abercairney tartan and all its setts →](/tartans/moray-of-abercairney-2/)
+[See the Moray of Abercairney tartan and all its setts →](/tartans/moray-of-abercairney-3/)
 

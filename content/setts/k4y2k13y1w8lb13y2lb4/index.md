@@ -6,7 +6,7 @@ This is the **Bannockbane Blue Trade Tartan** sett — one scale-free proportion
 [KGKGWWGW](/stripes/kgkgwwgw/). It is recorded as a single **variant**, below.
 First attested **~1984**.
 
-Part of the [Bannockbane](/tartans/bannockbane-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Bannockbane](/tartans/bannockbane-9/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

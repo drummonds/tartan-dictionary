@@ -6,7 +6,7 @@ This is the **Bowie** sett — one scale-free proportion (`db9r3db3r5db16r2k17g1
 [BRBRBRKGRGGG](/stripes/brbrbrkgrggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bowie](/tartans/bowie/) tartan — the named design grouping this sett with its kin.
+Part of the [Bowie](/tartans/bowie-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

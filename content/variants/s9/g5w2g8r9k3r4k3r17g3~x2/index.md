@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Morrison"
-  url: "/tartans/morrison/"
+  url: "/tartans/morrison-2/"
 - name: "Morrison"
   url: "/setts/g5w2g8r9k3r4k3r17g3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g5w2g8r9k3r4k3r17g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRGWG](/stripes/grkrkrgwg/).
 
-Part of the [Morrison](/tartans/morrison/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Morrison](/tartans/morrison-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

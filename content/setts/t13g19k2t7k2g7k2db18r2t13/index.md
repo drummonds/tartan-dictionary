@@ -6,7 +6,7 @@ This is the **South Australia** sett — one scale-free proportion (`t13g19k2t7k
 [BRBKGKBKGBGKBKGKBR](/stripes/brbkgkbkgbgkbkgkbr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [South Australia](/tartans/south-australia/) tartan — the named design grouping this sett with its kin.
+Part of the [South Australia](/tartans/south-australia-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

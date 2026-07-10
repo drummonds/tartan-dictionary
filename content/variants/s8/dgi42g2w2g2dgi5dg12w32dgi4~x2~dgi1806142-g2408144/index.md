@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Longniddry"
-  url: "/tartans/longniddry/"
+  url: "/tartans/longniddry-2/"
 - name: "Longniddry Green District Tartan"
   url: "/setts/dgi42g2w2g2dgi5dg12w32dgi4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dgi42g2w2g2dgi5dg12w32dgi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGGGWG](/stripes/ggwgggwg/).
 
-Part of the [Longniddry](/tartans/longniddry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Longniddry](/tartans/longniddry-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

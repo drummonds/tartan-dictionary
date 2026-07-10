@@ -6,7 +6,7 @@ This is the **MacArthur-Fox Family Tartan** sett — one scale-free proportion (
 [KGKGR](/stripes/kgkgr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [MacArthur-Fox](/tartans/macarthur-fox/) tartan — the named design grouping this sett with its kin.
+Part of the [MacArthur-Fox](/tartans/macarthur-fox-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

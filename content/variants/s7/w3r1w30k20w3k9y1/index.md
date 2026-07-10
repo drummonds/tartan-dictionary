@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacPherson"
   url: "/clan/macpherson/"
 - name: "MacPherson Dress"
-  url: "/tartans/macpherson-dress-3/"
+  url: "/tartans/macpherson-dress-4/"
 - name: "MacPherson 6"
   url: "/setts/w3r1w30k20w3k9y1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3r1w30k20w3k9y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWRW](/stripes/gkwkwrw/).
 
-Part of the [MacPherson Dress](/tartans/macpherson-dress-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacPherson Dress](/tartans/macpherson-dress-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

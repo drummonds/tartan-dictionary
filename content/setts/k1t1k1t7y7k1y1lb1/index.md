@@ -6,7 +6,7 @@ This is the **Auld Lang Syne (Philip King Tailoring)** sett — one scale-free p
 [KBKBGKGW](/stripes/kbkbgkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Auld Lang Syne](/tartans/auld-lang-syne-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Auld Lang Syne](/tartans/auld-lang-syne-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

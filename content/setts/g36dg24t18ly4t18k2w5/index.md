@@ -6,7 +6,7 @@ This is the **Hughes (Inverbervie) (Personal)** sett — one scale-free proporti
 [GGBYBKW](/stripes/ggbybkw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Hughes](/tartans/hughes/) tartan — the named design grouping this sett with its kin.
+Part of the [Hughes](/tartans/hughes-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New Brunswick"
-  url: "/tartans/new-brunswick/"
+  url: "/tartans/new-brunswick-2/"
 - name: "New Brunswick (CIDD 28101)"
   url: "/setts/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRGRGRGRGRGRGRKYKGKGKGKGKGKGKGKYGY](/stripes/krgrgrgrgrgrgrgrkykgkgkgkgkgkgkgkygy/).
 
-Part of the [New Brunswick](/tartans/new-brunswick/) tartan — the named design grouping this sett with its other cloths.
+Part of the [New Brunswick](/tartans/new-brunswick-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 

@@ -7,7 +7,7 @@ This is the **Shaw** sett — one scale-free proportion (`lb5k1r30dr15r8g30r8dr2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Shaw](/tartans/shaw/) tartan — the named design grouping this sett with its kin.
+Part of the [Shaw](/tartans/shaw-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

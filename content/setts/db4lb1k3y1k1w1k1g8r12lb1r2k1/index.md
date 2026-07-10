@@ -7,7 +7,7 @@ This is the **MacLean of Duart #6** sett — one scale-free proportion (`db4lb1k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
-Part of the [MacLean](/tartans/maclean/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLean](/tartans/maclean-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

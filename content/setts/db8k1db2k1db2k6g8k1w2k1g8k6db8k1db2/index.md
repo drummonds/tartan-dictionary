@@ -7,7 +7,7 @@ This is the **Forbes** sett — one scale-free proportion (`db8k1db2k1db2k6g8k1w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
-Part of the [Forbes](/tartans/forbes/) tartan — the named design grouping this sett with its kin.
+Part of the [Forbes](/tartans/forbes-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -7,7 +7,7 @@ This is the **MacIntyre** sett — one scale-free proportion (`lb1r2db2r4g16r2db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacIntyre](/tartans/macintyre/) tartan — the named design grouping this sett with its kin.
+Part of the [MacIntyre](/tartans/macintyre-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Grant (Wilson's 1819 Key Pattern Book)** sett — one scale-free p
 [BKBKBKGRGKG](/stripes/bkbkbkgrgkg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Grant](/tartans/grant-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant](/tartans/grant-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

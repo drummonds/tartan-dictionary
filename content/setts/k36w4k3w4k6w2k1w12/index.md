@@ -6,7 +6,7 @@ This is the **Menzies (1938)** sett — one scale-free proportion (`k36w4k3w4k6w
 [KWKWKWKW](/stripes/kwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1934**.
 
-Part of the [Menzies](/tartans/menzies-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Menzies](/tartans/menzies-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

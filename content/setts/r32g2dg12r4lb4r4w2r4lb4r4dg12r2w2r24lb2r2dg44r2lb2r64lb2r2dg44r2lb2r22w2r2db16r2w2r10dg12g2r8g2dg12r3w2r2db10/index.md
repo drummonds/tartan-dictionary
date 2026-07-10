@@ -6,7 +6,7 @@ This is the **MacAlister (Logan 1831)** sett — one scale-free proportion (`r32
 [BRWRGGRGGRWRBRWRWRGRWRWRGRWRWRGRWRWRWRGGR](/stripes/brwrggrggrwrbrwrwrgrwrwrgrwrwrgrwrwrwrggr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacAlister](/tartans/macalister/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAlister](/tartans/macalister-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Bethune (Personal)** sett — one scale-free proportion (`lb2db18l
 [WBYKYKWKGRKRW](/stripes/wbykykwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Bethune](/tartans/bethune/) tartan — the named design grouping this sett with its kin.
+Part of the [Bethune](/tartans/bethune-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

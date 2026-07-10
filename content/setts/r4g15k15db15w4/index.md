@@ -6,7 +6,7 @@ This is the **Dalmeny (Wlison's) Family Tartan** sett — one scale-free proport
 [RGKBW](/stripes/rgkbw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Dalmeny](/tartans/dalmeny/) tartan — the named design grouping this sett with its kin.
+Part of the [Dalmeny](/tartans/dalmeny-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

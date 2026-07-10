@@ -7,7 +7,7 @@ This is the **Bracken** sett — one scale-free proportion (`dy5db9r3db5dy2db4dy
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1951**.
 
-Part of the [Bracken](/tartans/bracken/) tartan — the named design grouping this sett with its kin.
+Part of the [Bracken](/tartans/bracken-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

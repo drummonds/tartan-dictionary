@@ -6,7 +6,7 @@ This is the **Bell of the Borders.** sett — one scale-free proportion (`r3g2k9
 [GBGBKBKGR](/stripes/gbgbkbkgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bell of the Borders.](/tartans/bell-of-the-borders/) tartan — the named design grouping this sett with its kin.
+Part of the [Bell of the Borders.](/tartans/bell-of-the-borders-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

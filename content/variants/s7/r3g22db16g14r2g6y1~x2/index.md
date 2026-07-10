@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Scouts"
-  url: "/tartans/scottish-scouts/"
+  url: "/tartans/scottish-scouts-2/"
 - name: "Scottish Scouts Corporate Tartan"
   url: "/setts/r3g22db16g14r2g6y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3g22db16g14r2g6y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGBGR](/stripes/ggrgbgr/).
 
-Part of the [Scottish Scouts](/tartans/scottish-scouts/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Scouts](/tartans/scottish-scouts-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

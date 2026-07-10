@@ -6,7 +6,7 @@ This is the **Manx, Cornaa** sett — one scale-free proportion (`b1db5b5w1`), c
 [BBBW](/stripes/bbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Manx, Cornaa](/tartans/manx-cornaa/) tartan — the named design grouping this sett with its kin.
+Part of the [Manx, Cornaa](/tartans/manx-cornaa-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

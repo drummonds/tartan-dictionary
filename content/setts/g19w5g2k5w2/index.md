@@ -6,7 +6,7 @@ This is the **Loch Rannoch** sett — one scale-free proportion (`g19w5g2k5w2`),
 [GWGKW](/stripes/gwgkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Loch Rannoch](/tartans/loch-rannoch/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Rannoch](/tartans/loch-rannoch-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

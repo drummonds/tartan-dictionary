@@ -6,7 +6,7 @@ This is the **Lindsay** sett — one scale-free proportion (`g20db2g2db2g2db8dr2
 [BBBBGBGBG](/stripes/bbbbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Lindsay](/tartans/lindsay/) tartan — the named design grouping this sett with its kin.
+Part of the [Lindsay](/tartans/lindsay-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

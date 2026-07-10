@@ -6,7 +6,7 @@ This is the **Stephenson Hunting #2** sett — one scale-free proportion (`r2k1t
 [GKBKBGKWKWKGKBKRKBKGKWKWKGBKBK](/stripes/gkbkbgkwkwkgkbkrkbkgkwkwkgbkbk/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Stephenson Hunting](/tartans/stephenson-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Stephenson Hunting](/tartans/stephenson-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

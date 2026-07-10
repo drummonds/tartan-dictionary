@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Colquhoun"
-  url: "/tartans/colquhoun/"
+  url: "/tartans/colquhoun-2/"
 - name: "Colquhoun (Clan)"
   url: "/setts/db5k10db48k72w12dg48r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db5k10db48k72w12dg48r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWGR](/stripes/bkbkwgr/).
 
-Part of the [Colquhoun](/tartans/colquhoun/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Colquhoun](/tartans/colquhoun-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

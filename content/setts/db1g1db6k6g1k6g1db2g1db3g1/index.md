@@ -7,7 +7,7 @@ This is the **Clergy** sett — one scale-free proportion (`db1g1db6k6g1k6g1db2g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1880**.
 
-Part of the [Clergy](/tartans/clergy/) tartan — the named design grouping this sett with its kin.
+Part of the [Clergy](/tartans/clergy-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

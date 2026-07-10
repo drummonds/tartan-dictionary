@@ -6,7 +6,7 @@ This is the **Matheson (Clan)** sett — one scale-free proportion (`g8r4g1r1g1r
 [GRGBRGRGRGRGRGBRGRGRG](/stripes/grgbrgrgrgrgrgbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [Matheson](/tartans/matheson/) tartan — the named design grouping this sett with its kin.
+Part of the [Matheson](/tartans/matheson-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

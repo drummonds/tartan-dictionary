@@ -6,7 +6,7 @@ This is the **O'Neill Clan/Family Tartan** sett — one scale-free proportion (`
 [GKGKGBGWGBGKGK](/stripes/gkgkgbgwgbgkgk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [O'Neill](/tartans/o-neill-2/) tartan — the named design grouping this sett with its kin.
+Part of the [O'Neill](/tartans/o-neill-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

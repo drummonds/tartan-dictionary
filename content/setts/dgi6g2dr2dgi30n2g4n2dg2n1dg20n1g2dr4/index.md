@@ -6,7 +6,7 @@ This is the **All Ireland Green** sett — one scale-free proportion (`dgi6g2dr2
 [BGBGBGBGBGBGG](/stripes/bgbgbgbgbgbgg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [All Ireland](/tartans/all-ireland/) tartan — the named design grouping this sett with its kin.
+Part of the [All Ireland](/tartans/all-ireland-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

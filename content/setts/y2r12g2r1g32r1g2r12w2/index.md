@@ -6,7 +6,7 @@ This is the **MacFie** sett — one scale-free proportion (`y2r12g2r1g32r1g2r12w
 [GRGRGRGRW](/stripes/grgrgrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacFie](/tartans/macfie/) tartan — the named design grouping this sett with its kin.
+Part of the [MacFie](/tartans/macfie-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

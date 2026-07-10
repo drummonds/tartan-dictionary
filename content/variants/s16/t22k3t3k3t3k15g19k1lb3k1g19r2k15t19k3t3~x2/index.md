@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sempill"
-  url: "/tartans/sempill/"
+  url: "/tartans/sempill-2/"
 - name: "Sempill (Clan)"
   url: "/setts/t22k3t3k3t3k15g19k1lb3k1g19r2k15t19k3t3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t22k3t3k3t3k15g19k1lb3k1g19r2k15t19k3t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGRKBKB](/stripes/bkbkbkgkwkgrkbkb/).
 
-Part of the [Sempill](/tartans/sempill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sempill](/tartans/sempill-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

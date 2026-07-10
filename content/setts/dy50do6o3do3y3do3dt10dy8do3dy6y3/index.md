@@ -6,7 +6,7 @@ This is the **Williams (Fashion)** sett — one scale-free proportion (`dy50do6o
 [GBRBGBBGBGG](/stripes/gbrbgbbgbgg/). It is recorded as a single **variant**, below.
 First attested **~1983**.
 
-Part of the [Williams](/tartans/williams/) tartan — the named design grouping this sett with its kin.
+Part of the [Williams](/tartans/williams-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

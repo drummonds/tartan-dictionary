@@ -6,7 +6,7 @@ This is the **Daks (Chino Check) (Fashion)** sett — one scale-free proportion 
 [KGKGBKKKKKK](/stripes/kgkgbkkkkkk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Daks](/tartans/daks/) tartan — the named design grouping this sett with its kin.
+Part of the [Daks](/tartans/daks-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

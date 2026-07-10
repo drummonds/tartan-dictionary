@@ -6,7 +6,7 @@ This is the **Orkney** sett — one scale-free proportion (`dr6dg2db12k2dg12dr9k
 [BGBKGBKB](/stripes/bgbkgbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Orkney](/tartans/orkney/) tartan — the named design grouping this sett with its kin.
+Part of the [Orkney](/tartans/orkney-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Morgan of Wales** sett — one scale-free proportion (`dr4y34do20y
 [BGBGBGRGBGB](/stripes/bgbgbgrgbgb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Morgan](/tartans/morgan/) tartan — the named design grouping this sett with its kin.
+Part of the [Morgan](/tartans/morgan-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

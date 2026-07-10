@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Ayrton"
   url: "/clan/ayrton/"
 - name: "Ayrton"
-  url: "/tartans/ayrton/"
+  url: "/tartans/ayrton-2/"
 - name: "Ayrton (1979) (Personal)"
   url: "/setts/dy4k2db25k2g4k2lb10k2g25k2r4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy4k2db25k2g4k2lb10k2g25k2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKWKGKR](/stripes/gkbkgkwkgkr/).
 
-Part of the [Ayrton](/tartans/ayrton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ayrton](/tartans/ayrton-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

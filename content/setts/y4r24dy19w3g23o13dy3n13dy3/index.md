@@ -6,7 +6,7 @@ This is the **Teallach Family Tartan** sett — one scale-free proportion (`y4r2
 [GBGRGWGRG](/stripes/gbgrgwgrg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Teallach](/tartans/teallach/) tartan — the named design grouping this sett with its kin.
+Part of the [Teallach](/tartans/teallach-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

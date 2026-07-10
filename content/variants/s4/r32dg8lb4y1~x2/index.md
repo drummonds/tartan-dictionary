@@ -10,7 +10,7 @@ crumbs:
 - name: "MacLaine of Lochbuie"
   url: "/families/maclaine-of-lochbuie/"
 - name: "MacLaine of Lochbuie"
-  url: "/tartans/maclaine-of-lochbuie/"
+  url: "/tartans/maclaine-of-lochbuie-2/"
 - name: "MacLaine of Lochbuie (Coburn)"
   url: "/setts/r32dg8lb4y1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r32dg8lb4y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGR](/stripes/gwgr/).
 
-Part of the [MacLaine of Lochbuie](/tartans/maclaine-of-lochbuie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLaine of Lochbuie](/tartans/maclaine-of-lochbuie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

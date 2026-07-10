@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brodie"
-  url: "/tartans/brodie/"
+  url: "/tartans/brodie-3/"
 - name: "Brodie (Clan)"
   url: "/setts/k3r15k11y2k4r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3r15k11y2k4r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKR](/stripes/krkgkr/).
 
-Part of the [Brodie](/tartans/brodie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brodie](/tartans/brodie-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -21,5 +21,5 @@ A family of [Clan MacDonell](/clan/macdonell/).
 </tbody>
 </table>
 
-[See the MacDonell of Keppoch tartan and all its setts →](/tartans/macdonell-of-keppoch-2/)
+[See the MacDonell of Keppoch tartan and all its setts →](/tartans/macdonell-of-keppoch-4/)
 

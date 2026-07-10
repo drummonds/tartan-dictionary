@@ -7,7 +7,7 @@ This is the **MacFie** sett — one scale-free proportion (`y1r12g2r1g16r1g2r12w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1880**.
 
-Part of the [MacFie](/tartans/macfie/) tartan — the named design grouping this sett with its kin.
+Part of the [MacFie](/tartans/macfie-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

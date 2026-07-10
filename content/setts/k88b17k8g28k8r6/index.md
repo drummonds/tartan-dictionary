@@ -6,7 +6,7 @@ This is the **Childers** sett — one scale-free proportion (`k88b17k8g28k8r6`),
 [KBKGKR](/stripes/kbkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Childers](/tartans/childers/) tartan — the named design grouping this sett with its kin.
+Part of the [Childers](/tartans/childers-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

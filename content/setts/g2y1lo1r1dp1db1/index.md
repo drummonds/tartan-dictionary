@@ -6,7 +6,7 @@ This is the **Rainbow (Fashion)** sett — one scale-free proportion (`g2y1lo1r1
 [BBRYGG](/stripes/bbrygg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Rainbow](/tartans/rainbow/) tartan — the named design grouping this sett with its kin.
+Part of the [Rainbow](/tartans/rainbow-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

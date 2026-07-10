@@ -6,7 +6,7 @@ This is the **MacKenzie - 1780 (Clan) as 78th** sett — one scale-free proporti
 [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacKenzie](/tartans/mackenzie/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKenzie](/tartans/mackenzie-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

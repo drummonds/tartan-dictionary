@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Braveheart Warrior"
-  url: "/tartans/braveheart-warrior/"
+  url: "/tartans/braveheart-warrior-3/"
 - name: "Braveheart Warrior"
   url: "/setts/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKGBKBW](/stripes/kbkbkbkgbkbw/).
 
-Part of the [Braveheart Warrior](/tartans/braveheart-warrior/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Braveheart Warrior](/tartans/braveheart-warrior-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

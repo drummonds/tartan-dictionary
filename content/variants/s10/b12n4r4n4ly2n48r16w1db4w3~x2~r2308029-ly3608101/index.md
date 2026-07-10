@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Confederate Memorial"
-  url: "/tartans/confederate-memorial/"
+  url: "/tartans/confederate-memorial-2/"
 - name: "Confederate Memorial"
   url: "/setts/b12n4r4n4ly2n48r16w1db4w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b12n4r4n4ly2n48r16w1db4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBYBRWBW](/stripes/bbrbybrwbw/).
 
-Part of the [Confederate Memorial](/tartans/confederate-memorial/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Confederate Memorial](/tartans/confederate-memorial-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

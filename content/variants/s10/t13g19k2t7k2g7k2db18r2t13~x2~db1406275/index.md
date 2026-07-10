@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "South Australia"
-  url: "/tartans/south-australia/"
+  url: "/tartans/south-australia-3/"
 - name: "South Australia"
   url: "/setts/t13g19k2t7k2g7k2db18r2t13/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t13g19k2t7k2g7k2db18r2t13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGKBKGBGKBKGKBR](/stripes/brbkgkbkgbgkbkgkbr/).
 
-Part of the [South Australia](/tartans/south-australia/) tartan — the named design grouping this sett with its other cloths.
+Part of the [South Australia](/tartans/south-australia-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

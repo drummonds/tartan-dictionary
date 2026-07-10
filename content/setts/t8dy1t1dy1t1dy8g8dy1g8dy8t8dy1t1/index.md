@@ -6,7 +6,7 @@ This is the **Tyneside Scottish (Blue)** sett — one scale-free proportion (`t8
 [BGBGBGGGGGBGB](/stripes/bgbgbgggggbgb/). It is recorded as a single **variant**, below.
 First attested **1914**.
 
-Part of the [Tyneside Scottish](/tartans/tyneside-scottish/) tartan — the named design grouping this sett with its kin.
+Part of the [Tyneside Scottish](/tartans/tyneside-scottish-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

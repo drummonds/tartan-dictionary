@@ -6,7 +6,7 @@ This is the **Menzies** sett — one scale-free proportion (`r24t3w1g9r12`), col
 [GWBRBWGR](/stripes/gwbrbwgr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [Menzies](/tartans/menzies/) tartan — the named design grouping this sett with its kin.
+Part of the [Menzies](/tartans/menzies-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

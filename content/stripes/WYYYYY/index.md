@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w1lg2ly4lg1ly4lg1~x4~w3502083-lg3101240-ly2503076/">Tarim (as found)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w1lg2ly4lg1ly4lg1~x4~w3502083-lg3101240-ly2503076/"><img src="/variants/s6/w1lg2ly4lg1ly4lg1~x4~w3502083-lg3101240-ly2503076/sett.png" alt="Tarim (as found) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w1lg2ly4lg1ly4lg1~x4~w3502083-lg3101240-ly2503076/">Hami (as found)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w1lg2ly4lg1ly4lg1~x4~w3502083-lg3101240-ly2503076/"><img src="/variants/s6/w1lg2ly4lg1ly4lg1~x4~w3502083-lg3101240-ly2503076/sett.png" alt="Hami (as found) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

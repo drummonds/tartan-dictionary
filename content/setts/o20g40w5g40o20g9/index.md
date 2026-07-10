@@ -6,7 +6,7 @@ This is the **O'Neill (Australia)** sett — one scale-free proportion (`o20g40w
 [GRGWGR](/stripes/grgwgr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [O'Neill](/tartans/o-neill/) tartan — the named design grouping this sett with its kin.
+Part of the [O'Neill](/tartans/o-neill-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

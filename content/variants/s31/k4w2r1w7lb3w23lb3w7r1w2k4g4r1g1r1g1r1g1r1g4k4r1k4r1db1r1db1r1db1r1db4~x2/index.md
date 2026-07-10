@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacDonald"
   url: "/clan/macdonald/"
 - name: "MacDonald Dress"
-  url: "/tartans/macdonald-dress/"
+  url: "/tartans/macdonald-dress-4/"
 - name: "MacDonald Dress Clan Tartan"
   url: "/setts/k4w2r1w7lb3w23lb3w7r1w2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4w2r1w7lb3w23lb3w7r1w2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRKRKGRGRGRGRGKWRWWWWWRWK](/stripes/brbrbrbrkrkgrgrgrgrgkwrwwwwwrwk/).
 
-Part of the [MacDonald Dress](/tartans/macdonald-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonald Dress](/tartans/macdonald-dress-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [31 stripe tartan](/stripes/stripes31/).
 

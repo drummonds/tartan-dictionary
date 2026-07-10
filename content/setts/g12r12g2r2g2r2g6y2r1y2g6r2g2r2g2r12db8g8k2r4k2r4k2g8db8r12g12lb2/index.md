@@ -6,7 +6,7 @@ This is the **MacMaster (New) Family Tartan** sett — one scale-free proportion
 [GRGRGRGGRGGRGRGRBGKRKRKGBRGW](/stripes/grgrgrggrggrgrgrbgkrkrkgbrgw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [MacMaster](/tartans/macmaster-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMaster](/tartans/macmaster-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -7,7 +7,7 @@ This is the **New Brunswick (CIDD 28101)** sett — one scale-free proportion (`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1966**.
 
-Part of the [New Brunswick](/tartans/new-brunswick/) tartan — the named design grouping this sett with its kin.
+Part of the [New Brunswick](/tartans/new-brunswick-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

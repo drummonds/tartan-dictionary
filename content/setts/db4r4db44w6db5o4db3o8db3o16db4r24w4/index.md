@@ -6,7 +6,7 @@ This is the **Largs (1981) (District)** sett — one scale-free proportion (`db4
 [BRBWBRBRBRBRW](/stripes/brbwbrbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Largs](/tartans/largs/) tartan — the named design grouping this sett with its kin.
+Part of the [Largs](/tartans/largs-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

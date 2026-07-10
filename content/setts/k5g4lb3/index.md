@@ -6,7 +6,7 @@ This is the **Glen Lyon (District)** sett — one scale-free proportion (`k5g4lb
 [KGW](/stripes/kgw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Glen Lyon](/tartans/glen-lyon/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Lyon](/tartans/glen-lyon-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

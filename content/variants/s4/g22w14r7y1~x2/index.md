@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Lomond"
-  url: "/tartans/loch-lomond/"
+  url: "/tartans/loch-lomond-5/"
 - name: "Loch Lomond"
   url: "/setts/g22w14r7y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g22w14r7y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWG](/stripes/grwg/).
 
-Part of the [Loch Lomond](/tartans/loch-lomond/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Loch Lomond](/tartans/loch-lomond-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 

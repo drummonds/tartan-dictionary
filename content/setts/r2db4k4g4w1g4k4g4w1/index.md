@@ -6,7 +6,7 @@ This is the **Arrol** sett — one scale-free proportion (`r2db4k4g4w1g4k4g4w1`)
 [RBKGWGKGW](/stripes/rbkgwgkgw/). It is recorded as a single **variant**, below.
 First attested **1900**.
 
-Part of the [Arrol](/tartans/arrol/) tartan — the named design grouping this sett with its kin.
+Part of the [Arrol](/tartans/arrol-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Clark** sett — one scale-free proportion (`db4w4db19k19w4k19w4db
 [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Clark](/tartans/clark-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Clark](/tartans/clark-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

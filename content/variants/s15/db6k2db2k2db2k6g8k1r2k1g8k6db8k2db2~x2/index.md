@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKinlay"
-  url: "/tartans/mackinlay/"
+  url: "/tartans/mackinlay-2/"
 - name: "MacKinlay Clan Tartan"
   url: "/setts/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-Part of the [MacKinlay](/tartans/mackinlay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKinlay](/tartans/mackinlay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

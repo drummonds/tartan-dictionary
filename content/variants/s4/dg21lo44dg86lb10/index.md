@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Special, Saffron"
-  url: "/tartans/special-saffron/"
+  url: "/tartans/special-saffron-3/"
 - name: "Special Saffron (Fashion)"
   url: "/setts/dg21lo44dg86lb10/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg21lo44dg86lb10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGW](/stripes/gygw/).
 
-Part of the [Special, Saffron](/tartans/special-saffron/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Special, Saffron](/tartans/special-saffron-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

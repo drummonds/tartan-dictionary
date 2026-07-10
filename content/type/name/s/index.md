@@ -36,8 +36,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/"><img src="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/sett.png" alt="Silverton Family (Basingstoke)" width="140"><br>Silverton Family (Basingstoke)</a></li>
 <li><a class="tartan" href="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/"><img src="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends (Hamburg) (Persona" width="140"><br>Simon and Friends (Hamburg) (Persona</a></li>
 <li><a class="tartan" href="/variants/s6/r36t8w1k5g20r18~x4/"><img src="/variants/s6/r36t8w1k5g20r18~x4/sett.png" alt="Sinclair" width="140"><br>Sinclair</a></li>
-<li><a class="tartan" href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><img src="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><img src="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
+<li><a class="tartan" href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><img src="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/sett.png" alt="Sirrell (2014)" width="140"><br>Sirrell (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><img src="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/sett.png" alt="Skinner" width="140"><br>Skinner</a></li>
 <li><a class="tartan" href="/variants/s4/db1r8k8lo1~x4/"><img src="/variants/s4/db1r8k8lo1~x4/sett.png" alt="Skinner (Name)" width="140"><br>Skinner (Name)</a></li>
 <li><a class="tartan" href="/variants/s10/db12w2db7g15k2g4k2g15db2k7~x2/"><img src="/variants/s10/db12w2db7g15k2g4k2g15db2k7~x2/sett.png" alt="Smeaton (Wedding) #2" width="140"><br>Smeaton (Wedding) #2</a></li>
@@ -51,8 +51,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/"><img src="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/sett.png" alt="Solberg-Bell Hunting" width="140"><br>Solberg-Bell Hunting</a></li>
 <li><a class="tartan" href="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><img src="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/sett.png" alt="Somerville Dress (Name?)" width="140"><br>Somerville Dress (Name?)</a></li>
 <li><a class="tartan" href="/variants/s6/r1t1k17t17k1w1~x4/"><img src="/variants/s6/r1t1k17t17k1w1~x4/sett.png" alt="Sorbie (Name)" width="140"><br>Sorbie (Name)</a></li>
-<li><a class="tartan" href="/variants/s6/g55y4db15w3dr3w5~x2/"><img src="/variants/s6/g55y4db15w3dr3w5~x2/sett.png" alt="Spencer (2013)" width="140"><br>Spencer (2013)</a></li>
 <li><a class="tartan" href="/variants/s6/g55y4db15w3r3w5~x2/"><img src="/variants/s6/g55y4db15w3r3w5~x2/sett.png" alt="Spencer (2013)" width="140"><br>Spencer (2013)</a></li>
+<li><a class="tartan" href="/variants/s6/g55y4db15w3dr3w5~x2/"><img src="/variants/s6/g55y4db15w3dr3w5~x2/sett.png" alt="Spencer (2013)" width="140"><br>Spencer (2013)</a></li>
 <li><a class="tartan" href="/variants/s15/dt103lo12dt20db7k5w5r5w5k5db7dt5g32dp14k5dp22~dt1402277-db1306275/"><img src="/variants/s15/dt103lo12dt20db7k5w5r5w5k5db7dt5g32dp14k5dp22~dt1402277-db1306275/sett.png" alt="Spirit of de Jong" width="140"><br>Spirit of de Jong</a></li>
 <li><a class="tartan" href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><img src="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/sett.png" alt="Spragg (Name)" width="140"><br>Spragg (Name)</a></li>
 <li><a class="tartan" href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/"><img src="/variants/s7/dr2b16r1dr2r12y1lb1~x2/sett.png" alt="Spragg, Andrew" width="140"><br>Spragg, Andrew</a></li>

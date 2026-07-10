@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aberdeen"
-  url: "/tartans/aberdeen/"
+  url: "/tartans/aberdeen-4/"
 - name: "Aberdeen - 1819 (District)"
   url: "/setts/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1g4k16w2r23ri3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1g4k16w2r23ri3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW](/stripes/wgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/).
 
-Part of the [Aberdeen](/tartans/aberdeen/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Aberdeen](/tartans/aberdeen-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [44 stripe tartan](/stripes/stripes44/).
 

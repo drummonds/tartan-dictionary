@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Shadow"
-  url: "/tartans/black-shadow/"
+  url: "/tartans/black-shadow-2/"
 - name: "Black Shadow"
   url: "/setts/do18k5do34k12do8k8do24k5do24k5do14/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/do18k5do34k12do8k8do24k5do24k5do14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
 
-Part of the [Black Shadow](/tartans/black-shadow/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Shadow](/tartans/black-shadow-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacBain"
-  url: "/tartans/macbain/"
+  url: "/tartans/macbain-2/"
 - name: "MacBain"
   url: "/setts/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRBGBRWKGKWWKWKWWR](/stripes/gwrbgbrwkgkwwkwkwwr/).
 
-Part of the [MacBain](/tartans/macbain/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacBain](/tartans/macbain-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 

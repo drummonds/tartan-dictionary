@@ -6,7 +6,7 @@ This is the **MacColl, Ancient** sett — one scale-free proportion (`ri7r3ri6db
 [RRGRGRRGRBRBRBRRR](/stripes/rrgrgrrgrbrbrbrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacColl](/tartans/maccoll-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacColl](/tartans/maccoll-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

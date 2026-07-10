@@ -6,7 +6,7 @@ This is the **Pollock (Name)** sett — one scale-free proportion (`g6lo2g32k8w6
 [GYGKWYG](/stripes/gygkwyg/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [Pollock](/tartans/pollock/) tartan — the named design grouping this sett with its kin.
+Part of the [Pollock](/tartans/pollock-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Whitworth"
-  url: "/tartans/whitworth/"
+  url: "/tartans/whitworth-3/"
 - name: "Whitworth"
   url: "/setts/r5y1r8w1db20w1b20w1g20y1r5y1r5y1g20y2r52w1y5w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5y1r8w1db20w1b20w1g20y1r5y1r5y1g20y2r52w1y5w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRWBWBWGGRGRGGGRWGW](/stripes/rgrwbwbwggrgrgggrwgw/).
 
-Part of the [Whitworth](/tartans/whitworth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Whitworth](/tartans/whitworth-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 

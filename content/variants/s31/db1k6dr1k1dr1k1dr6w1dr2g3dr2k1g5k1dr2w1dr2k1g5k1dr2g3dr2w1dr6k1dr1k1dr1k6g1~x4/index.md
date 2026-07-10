@@ -10,7 +10,7 @@ crumbs:
 - name: "Innes, of Cowie"
   url: "/families/innes-of-cowie/"
 - name: "Innes of Cowie"
-  url: "/tartans/innes-of-cowie/"
+  url: "/tartans/innes-of-cowie-2/"
 - name: "Innes of Cowie (Clan?)"
   url: "/setts/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBWBGBKGKBWBKGKBGBWBKBKBKG](/stripes/bkbkbkbwbgbkgkbwbkgkbgbwbkbkbkg/).
 
-Part of the [Innes of Cowie](/tartans/innes-of-cowie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Innes of Cowie](/tartans/innes-of-cowie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 

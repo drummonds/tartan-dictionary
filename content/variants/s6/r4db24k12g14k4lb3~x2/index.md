@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacPhail Hunting"
-  url: "/tartans/macphail-hunting/"
+  url: "/tartans/macphail-hunting-2/"
 - name: "MacPhail Hunting #2"
   url: "/setts/r4db24k12g14k4lb3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4db24k12g14k4lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKW](/stripes/rbkgkw/).
 
-Part of the [MacPhail Hunting](/tartans/macphail-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacPhail Hunting](/tartans/macphail-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

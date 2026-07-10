@@ -7,7 +7,7 @@ This is the **Scotia** sett — one scale-free proportion (`g6dp14t22db6ly16w1db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1850**.
 
-Part of the [Scotia](/tartans/scotia/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotia](/tartans/scotia-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

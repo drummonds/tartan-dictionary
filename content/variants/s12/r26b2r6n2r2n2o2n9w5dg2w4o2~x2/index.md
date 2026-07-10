@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rathmore"
-  url: "/tartans/rathmore/"
+  url: "/tartans/rathmore-2/"
 - name: "Rathmore"
   url: "/setts/r26b2r6n2r2n2o2n9w5dg2w4o2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r26b2r6n2r2n2o2n9w5dg2w4o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRBWGWR](/stripes/rbrbrbrbwgwr/).
 
-Part of the [Rathmore](/tartans/rathmore/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rathmore](/tartans/rathmore-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

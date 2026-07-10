@@ -6,7 +6,7 @@ This is the **Henderson Dress** sett — one scale-free proportion (`y1k6g4k1w16
 [GKGKWBWBW](/stripes/gkgkwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Henderson Dress](/tartans/henderson-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Henderson Dress](/tartans/henderson-dress-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

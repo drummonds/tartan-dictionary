@@ -6,7 +6,7 @@ This is the **Hyndman Family Tartan** sett — one scale-free proportion (`dbi8d
 [BBBBBGYGKBRBRY](/stripes/bbbbbgygkbrbry/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Hyndman](/tartans/hyndman-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Hyndman](/tartans/hyndman-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

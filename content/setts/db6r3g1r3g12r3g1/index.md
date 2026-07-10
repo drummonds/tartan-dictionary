@@ -7,7 +7,7 @@ This is the **Skene** sett — one scale-free proportion (`db6r3g1r3g12r3g1`), c
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1830**.
 
-Part of the [Skene](/tartans/skene/) tartan — the named design grouping this sett with its kin.
+Part of the [Skene](/tartans/skene-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

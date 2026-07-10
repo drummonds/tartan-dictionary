@@ -6,7 +6,7 @@ This is the **King George (Nash)** sett — one scale-free proportion (`dr5dg30k
 [BGKYKWKBKBY](/stripes/bgkykwkbkby/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
-Part of the [King George](/tartans/king-george-2/) tartan — the named design grouping this sett with its kin.
+Part of the [King George](/tartans/king-george-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

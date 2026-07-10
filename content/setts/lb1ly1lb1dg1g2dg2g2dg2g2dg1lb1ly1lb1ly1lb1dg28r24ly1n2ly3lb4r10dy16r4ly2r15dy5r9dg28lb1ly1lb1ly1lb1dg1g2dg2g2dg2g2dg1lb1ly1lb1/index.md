@@ -6,7 +6,7 @@ This is the **New Brunswick** sett — one scale-free proportion (`lb1ly1lb1dg1g
 [WYWGGGGGGGWYWYWGRGRYRGRWYBYRGWYWYWGGGGGGGWYW](/stripes/wywgggggggwywywgrgryrgrwybyrgwywywgggggggwyw/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
-Part of the [New Brunswick](/tartans/new-brunswick-2/) tartan — the named design grouping this sett with its kin.
+Part of the [New Brunswick](/tartans/new-brunswick-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

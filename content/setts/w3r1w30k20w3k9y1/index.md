@@ -7,7 +7,7 @@ This is the **MacPherson 6** sett — one scale-free proportion (`w3r1w30k20w3k9
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacPherson Dress](/tartans/macpherson-dress-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPherson Dress](/tartans/macpherson-dress-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

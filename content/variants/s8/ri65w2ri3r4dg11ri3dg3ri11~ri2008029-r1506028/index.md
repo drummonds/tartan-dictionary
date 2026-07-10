@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Gudbrandsdalen"
   url: "/clan/gudbrandsdalen/"
 - name: "Gudbrandsdalen, Rondastakken"
-  url: "/tartans/gudbrandsdalen-rondastakken/"
+  url: "/tartans/gudbrandsdalen-rondastakken-2/"
 - name: "Gudbrandsdalen, Rondastakken"
   url: "/setts/ri65w2ri3r4dg11ri3dg3ri11/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri65w2ri3r4dg11ri3dg3ri11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRRWR](/stripes/rgrgrrwr/).
 
-Part of the [Gudbrandsdalen, Rondastakken](/tartans/gudbrandsdalen-rondastakken/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gudbrandsdalen, Rondastakken](/tartans/gudbrandsdalen-rondastakken-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

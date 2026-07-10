@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Glen"
   url: "/clan/glen/"
 - name: "Glen Lyon"
-  url: "/tartans/glen-lyon/"
+  url: "/tartans/glen-lyon-4/"
 - name: "Glenlyon"
   url: "/setts/k8g7db8/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8g7db8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGK](/stripes/bgk/).
 
-Part of the [Glen Lyon](/tartans/glen-lyon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glen Lyon](/tartans/glen-lyon-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

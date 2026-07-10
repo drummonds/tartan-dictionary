@@ -6,7 +6,7 @@ This is the **Auld Lang Syne, Blue (Fashion)** sett — one scale-free proportio
 [WBKGKBKBKBKW](/stripes/wbkgkbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Auld Lang Syne](/tartans/auld-lang-syne/) tartan — the named design grouping this sett with its kin.
+Part of the [Auld Lang Syne](/tartans/auld-lang-syne-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

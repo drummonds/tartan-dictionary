@@ -6,7 +6,7 @@ This is the **Douglas (alternative threadcount)** sett — one scale-free propor
 [KBGKW](/stripes/kbgkw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Douglas](/tartans/douglas/) tartan — the named design grouping this sett with its kin.
+Part of the [Douglas](/tartans/douglas-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

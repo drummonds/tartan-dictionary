@@ -7,7 +7,7 @@ This is the **MacDuff** sett — one scale-free proportion (`r8db3k4g6r4k1r4`), 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
-Part of the [MacDuff](/tartans/macduff/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDuff](/tartans/macduff-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

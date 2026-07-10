@@ -6,7 +6,7 @@ This is the **Royal Marines Condor** sett — one scale-free proportion (`k8r4k3
 [KRKBRGY](/stripes/krkbrgy/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Royal Marines Condor](/tartans/royal-marines-condor/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Marines Condor](/tartans/royal-marines-condor-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

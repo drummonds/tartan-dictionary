@@ -6,7 +6,7 @@ This is the **Saltcoats (Saskatchewan) (District?)** sett — one scale-free pro
 [BGBWWBBWGGR](/stripes/bgbwwbbwggr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
-Part of the [Saltcoats](/tartans/saltcoats/) tartan — the named design grouping this sett with its kin.
+Part of the [Saltcoats](/tartans/saltcoats-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

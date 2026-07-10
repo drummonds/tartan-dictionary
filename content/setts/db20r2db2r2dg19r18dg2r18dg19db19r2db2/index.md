@@ -6,7 +6,7 @@ This is the **Fraser - 1800** sett — one scale-free proportion (`db20r2db2r2dg
 [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Fraser](/tartans/fraser-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Fraser](/tartans/fraser-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

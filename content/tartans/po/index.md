@@ -1,0 +1,72 @@
+---
+title: "Tartans — Po"
+date: 2023-03-18
+---
+64 tartans beginning with Po, each with the number of setts it groups. [Back to the A–Z](/tartans/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/setts/t27db8t14db8t14db26r84db6r12/"><img src="/variants/s9/t27db8t14db8t14db26r84db6r12/sett.png" alt="POF" width="140"><br><strong>POF (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db6k1db1k1db1k7g6y1db1lb1db1y1g6k7db7k1db1/"><img src="/variants/s17/db6k1db1k1db1k7g6y1db1lb1db1y1g6k7db7k1db1~x4~db1204274/sett.png" alt="Polaris" width="140"><br><strong>Polaris (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db6k1db1k1db1k7g6y1g1dbi1g1y1g6k7db7k1db1/"><img src="/variants/s17/db6k1db1k1db1k7g6y1g1dbi1g1y1g6k7db7k1db1~x4~db0805267-dbi1604274/sett.png" alt="Polaris" width="140"><br><strong>Polaris (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k17g6ly1k1db1k1ly1g6k16/"><img src="/variants/s9/k17g6ly1k1db1k1ly1g6k16~x4~db1106275/sett.png" alt="Polaris" width="140"><br><strong>Polaris (1)</strong></a></li>
+<li><a class="tartan" href="/setts/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1/"><img src="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/sett.png" alt="Polaris Military" width="140"><br><strong>Polaris Military (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db2k4kii36g1ki34db4w2/"><img src="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/sett.png" alt="Police College Tulliallan" width="140"><br><strong>Police College Tulliallan (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r4w2r24w8db2w1db2w4db2w1db2w8db16w4/"><img src="/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/sett.png" alt="Polish" width="140"><br><strong>Polish (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k7ly3db62n16g5n5g5n5g16db16k4/"><img src="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/sett.png" alt="Polkemmet" width="140"><br><strong>Polkemmet (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/pollard/"><img src="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/sett.png" alt="Pollard" width="140"><br><strong>Pollard (2)</strong></a></li>
+<li><a class="tartan" href="/setts/g3r16w4k6g28r1g3/"><img src="/variants/s7/g3r16w4k6g28r1g3~x2/sett.png" alt="Pollock" width="140"><br><strong>Pollock (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/pollock-2/"><img src="/variants/s7/g3lo16w4k6g28lo1g3~x4/sett.png" alt="Pollock" width="140"><br><strong>Pollock (2)</strong></a></li>
+<li><a class="tartan" href="/setts/k80ri1db25w1db3r2db3w1db25lb1/"><img src="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/sett.png" alt="Pompili, Antonio and Alessandro" width="140"><br><strong>Pompili, Antonio and Alessandro (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w2dp2db25r3y3g1/"><img src="/variants/s6/w2dp2db25r3y3g1~x4/sett.png" alt="Pool, Robert David" width="140"><br><strong>Pool, Robert David (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/pope/"><img src="/variants/s12/k10dr26k2dr4k2dr26k3dg36k3g30k3n2/sett.png" alt="Pope" width="140"><br><strong>Pope (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/pople/"><img src="/variants/s5/k10dr9n8y8w1~n1900000-y2400000/sett.png" alt="Pople" width="140"><br><strong>Pople (2)</strong></a></li>
+<li><a class="tartan" href="/setts/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3/"><img src="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/sett.png" alt="Popular" width="140"><br><strong>Popular (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lb24o9n23y3/"><img src="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/sett.png" alt="Porcelanosa" width="140"><br><strong>Porcelanosa (1)</strong></a></li>
+<li><a class="tartan" href="/setts/n1r1n3ly1n1dy8y7g1n1lb1w1/"><img src="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/sett.png" alt="Porcupine" width="140"><br><strong>Porcupine (1)</strong></a></li>
+<li><a class="tartan" href="/setts/n1r1n3o1n1do8y7g1n1lb1w1/"><img src="/variants/s11/n1r1n3o1n1do8y7g1n1lb1w1~x2/sett.png" alt="Porcupine" width="140"><br><strong>Porcupine (1)</strong></a></li>
+<li><a class="tartan" href="/setts/o10n3db1lb8db1lo2g5/"><img src="/variants/s7/o10n3db1lb8db1lo2g5~x4/sett.png" alt="Porcupine City of" width="140"><br><strong>Porcupine City of (1)</strong></a></li>
+<li><a class="tartan" href="/setts/n1r1n3ly1n1do8y7g1n1lb1w1/"><img src="/variants/s11/n1r1n3ly1n1do8y7g1n1lb1w1~x2/sett.png" alt="Porcupine Fancy" width="140"><br><strong>Porcupine Fancy (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db49k2g2k2g2k10r38db5r4k4n10/"><img src="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/sett.png" alt="Porsche Bank Austria" width="140"><br><strong>Porsche Bank Austria (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/port-authority-of-ny-nj/"><img src="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/sett.png" alt="Port Authority of NY &amp; NJ" width="140"><br><strong>Port Authority of NY & NJ (2)</strong></a></li>
+<li><a class="tartan" href="/setts/r2y36k12w3g2/"><img src="/variants/s5/r2y36k12w3g2~x2/sett.png" alt="Port Moresby City" width="140"><br><strong>Port Moresby City (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r2y33k5w3g2/"><img src="/variants/s5/r2y33k5w3g2~x2/sett.png" alt="Port Moresby City Pipes and Drums" width="140"><br><strong>Port Moresby City Pipes and Drums (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/porteous/"><img src="/variants/s6/k3y3db20g25lb18w3~x2/sett.png" alt="Porteous" width="140"><br><strong>Porteous (3)</strong></a></li>
+<li><a class="tartan" href="/setts/k2ly6k2ly11k9r1/"><img src="/variants/s6/k2ly6k2ly11k9r1~x2/sett.png" alt="Porter Drinkers" width="140"><br><strong>Porter Drinkers (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k2y6k2y11k9r1/"><img src="/variants/s6/k2y6k2y11k9r1~x2/sett.png" alt="Porter Drinkers', The" width="140"><br><strong>Porter Drinkers', The (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w56g5w5lb10w33dr14w5dp27w33lb10g5w33dp27w5dr14/"><img src="/variants/s15/w56g5w5lb10w33dr14w5dp27w33lb10g5w33dp27w5dr14/sett.png" alt="Portmeirion" width="140"><br><strong>Portmeirion (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/portosalvo/"><img src="/variants/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/sett.png" alt="Portosalvo" width="140"><br><strong>Portosalvo (2)</strong></a></li>
+<li><a class="tartan" href="/setts/do2o11do2k11do16w2/"><img src="/variants/s6/do2o11do2k11do16w2~x4/sett.png" alt="Portrait, The" width="140"><br><strong>Portrait, The (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w20ly4w12dp2w4lb3w4t28w2t4lb2/"><img src="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/sett.png" alt="Portree" width="140"><br><strong>Portree (1)</strong></a></li>
+<li><a class="tartan" href="/setts/n20t4n12y2n4w3n4dr18do10n2do4w2/"><img src="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/sett.png" alt="Portree" width="140"><br><strong>Portree (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w20ly4w12dp2w4lb3w4t18db10w2db4lb2/"><img src="/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/sett.png" alt="Portree" width="140"><br><strong>Portree (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/portree-check/"><img src="/variants/s12/o38db4o8ly2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/sett.png" alt="Portree Check" width="140"><br><strong>Portree Check (2)</strong></a></li>
+<li><a class="tartan" href="/setts/n38db4n8o2n4w3n4dr14b7n2b4w2/"><img src="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/sett.png" alt="Portree, Check" width="140"><br><strong>Portree, Check (1)</strong></a></li>
+<li><a class="tartan" href="/setts/g3r1g12w4lb15ly1lb3/"><img src="/variants/s7/g3r1g12w4lb15ly1lb3~x4/sett.png" alt="Postcode Lottery" width="140"><br><strong>Postcode Lottery (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/potts/"><img src="/variants/s6/k1y3db3do28db36y1~x2/sett.png" alt="Potts" width="140"><br><strong>Potts (2)</strong></a></li>
+<li><a class="tartan" href="/setts/dy6lb38k3/"><img src="/variants/s3/dy6lb38k3~x2/sett.png" alt="Poulain League" width="140"><br><strong>Poulain League (1)</strong></a></li>
+<li><a class="tartan" href="/setts/o25k4o4k4o4k23g23y4g23k23o23k4o4/"><img src="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/sett.png" alt="Poulter" width="140"><br><strong>Poulter (1)</strong></a></li>
+<li><a class="tartan" href="/setts/t25db4t4db4t4db23b23lr4b23db23t23db4t4/"><img src="/variants/s13/t25db4t4db4t4db23b23lr4b23db23t23db4t4~x2/sett.png" alt="Poulter" width="140"><br><strong>Poulter (1)</strong></a></li>
+<li><a class="tartan" href="/setts/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4/"><img src="/variants/s13/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4~x2/sett.png" alt="Poulter" width="140"><br><strong>Poulter (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w25k4w4k4w4k23n23w4n23k23w23k4w4/"><img src="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/sett.png" alt="Poulter" width="140"><br><strong>Poulter (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4/"><img src="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/sett.png" alt="Poulter" width="140"><br><strong>Poulter (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/poulter-hoylake/"><img src="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/sett.png" alt="Poulter Hoylake" width="140"><br><strong>Poulter Hoylake (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/poulter-millicent/"><img src="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/sett.png" alt="Poulter Millicent" width="140"><br><strong>Poulter Millicent (2)</strong></a></li>
+<li><a class="tartan" href="/setts/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4/"><img src="/variants/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2~lb3401300-lr3000000/sett.png" alt="Poulter Pink" width="140"><br><strong>Poulter Pink (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w25g8w8g8w8g46lb46y8lb46g46w46g8w8/"><img src="/variants/s13/w25g8w8g8w8g46lb46y8lb46g46w46g8w8/sett.png" alt="Poulter SG 096" width="140"><br><strong>Poulter SG 096 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w25r8w8r8w8r46lr46w8lr46r46w46r8w8/"><img src="/variants/s13/w25r8w8r8w8r46lr46w8lr46r46w46r8w8~r2109032-lr3303019/sett.png" alt="Poulter SG 097" width="140"><br><strong>Poulter SG 097 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><img src="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/sett.png" alt="Poulter SG 100" width="140"><br><strong>Poulter SG 100 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/"><img src="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/sett.png" alt="Poulter SG 101" width="140"><br><strong>Poulter SG 101 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><img src="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/sett.png" alt="Poulter SG 102" width="140"><br><strong>Poulter SG 102 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><img src="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/sett.png" alt="Poulter SG 103" width="140"><br><strong>Poulter SG 103 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/"><img src="/variants/s13/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/sett.png" alt="Poulter SG 104" width="140"><br><strong>Poulter SG 104 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lg25lo8lg8lo8lg8lo46w46g8w46lo46lg46lo8lg8/"><img src="/variants/s13/lg25lo8lg8lo8lg8lo46w46g8w46lo46lg46lo8lg8~lg3202166-g2408144/sett.png" alt="Poulter SG 105" width="140"><br><strong>Poulter SG 105 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w25k8w8k8w8k46w46y8w46k46w46k8w8/"><img src="/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/sett.png" alt="Poulter SG ? Black &amp;" width="140"><br><strong>Poulter SG ? Black & (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/poulter-sandwich/"><img src="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/sett.png" alt="Poulter Sandwich" width="140"><br><strong>Poulter Sandwich (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/poulter-sonic/"><img src="/variants/s13/db69lb14db13lb14db13lb69w72r13w72lb69db68lb14db13/sett.png" alt="Poulter Sonic" width="140"><br><strong>Poulter Sonic (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/poulter-tron/"><img src="/variants/s13/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/sett.png" alt="Poulter Tron" width="140"><br><strong>Poulter Tron (2)</strong></a></li>
+<li><a class="tartan" href="/setts/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><img src="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/sett.png" alt="Poulter, Jet" width="140"><br><strong>Poulter, Jet (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4/"><img src="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/sett.png" alt="Poulter, Pink" width="140"><br><strong>Poulter, Pink (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/pounds/"><img src="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/sett.png" alt="Pounds" width="140"><br><strong>Pounds (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/pownall/"><img src="/variants/s5/dp30ly7w6db30y8~x2/sett.png" alt="Pownall" width="140"><br><strong>Pownall (2)</strong></a></li>
+<li><a class="tartan" href="/setts/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><img src="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/sett.png" alt="Powys" width="140"><br><strong>Powys (1)</strong></a></li>
+</ul>

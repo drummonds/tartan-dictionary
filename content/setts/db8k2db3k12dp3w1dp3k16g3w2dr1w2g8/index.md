@@ -6,7 +6,7 @@ This is the **MacKusick** sett — one scale-free proportion (`db8k2db3k12dp3w1d
 [BKBKBWBKGWBWG](/stripes/bkbkbwbkgwbwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacKusick](/tartans/mackusick/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKusick](/tartans/mackusick-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

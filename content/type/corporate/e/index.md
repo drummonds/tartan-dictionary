@@ -20,8 +20,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/"><img src="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/sett.png" alt="Edinburgh '86" width="140"><br>Edinburgh '86</a></li>
 <li><a class="tartan" href="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/"><img src="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/sett.png" alt="Edinburgh and Lothian Tourist Board" width="140"><br>Edinburgh and Lothian Tourist Board</a></li>
 <li><a class="tartan" href="/variants/s6/db3r2g5r8db12w3~x2/"><img src="/variants/s6/db3r2g5r8db12w3~x2/sett.png" alt="Edinburgh Bus Company (Corporate)" width="140"><br>Edinburgh Bus Company (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/"><img src="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/sett.png" alt="Edinburgh Bus Tours" width="140"><br>Edinburgh Bus Tours</a></li>
 <li><a class="tartan" href="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/"><img src="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/sett.png" alt="Edinburgh Bus Tours" width="140"><br>Edinburgh Bus Tours</a></li>
+<li><a class="tartan" href="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/"><img src="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/sett.png" alt="Edinburgh Bus Tours" width="140"><br>Edinburgh Bus Tours</a></li>
 <li><a class="tartan" href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/"><img src="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/sett.png" alt="Edinburgh Castle (Corporate?)" width="140"><br>Edinburgh Castle (Corporate?)</a></li>
 <li><a class="tartan" href="/variants/s5/dt30lb2k6db3r3~x4/"><img src="/variants/s5/dt30lb2k6db3r3~x4/sett.png" alt="Edinburgh Crystal" width="140"><br>Edinburgh Crystal</a></li>
 <li><a class="tartan" href="/variants/s5/dt30w2k6db3r3~x4/"><img src="/variants/s5/dt30w2k6db3r3~x4/sett.png" alt="Edinburgh Crystal (Corporate)" width="140"><br>Edinburgh Crystal (Corporate)</a></li>
@@ -63,7 +63,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/dp18ly1k15r15k24db4w1~x2/"><img src="/variants/s7/dp18ly1k15r15k24db4w1~x2/sett.png" alt="European Congress of Immunology (Cor" width="140"><br>European Congress of Immunology (Cor</a></li>
 <li><a class="tartan" href="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/"><img src="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/sett.png" alt="European Congress of Immunology 2012" width="140"><br>European Congress of Immunology 2012</a></li>
 <li><a class="tartan" href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><img src="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/sett.png" alt="European Judo Union" width="140"><br>European Judo Union</a></li>
-<li><a class="tartan" href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett.png" alt="Ewell Castle School" width="140"><br>Ewell Castle School</a></li>
 <li><a class="tartan" href="/variants/s6/db4r1db18t18w1t4~x4/"><img src="/variants/s6/db4r1db18t18w1t4~x4/sett.png" alt="Ewell Castle School" width="140"><br>Ewell Castle School</a></li>
+<li><a class="tartan" href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett.png" alt="Ewell Castle School" width="140"><br>Ewell Castle School</a></li>
 <li><a class="tartan" href="/variants/s5/dr3n34db4g47lb3~x2/"><img src="/variants/s5/dr3n34db4g47lb3~x2/sett.png" alt="Exabyte" width="140"><br>Exabyte</a></li>
 </ul>

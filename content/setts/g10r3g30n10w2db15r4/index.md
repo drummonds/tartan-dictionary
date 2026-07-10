@@ -6,7 +6,7 @@ This is the **Sinclair** sett — one scale-free proportion (`g10r3g30n10w2db15r
 [GRGBWBR](/stripes/grgbwbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Sinclair](/tartans/sinclair-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Sinclair](/tartans/sinclair-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

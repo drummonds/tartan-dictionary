@@ -1682,6 +1682,13 @@
       "rank": 1
     },
     {
+      "name": "ancient",
+      "display": "Ancient",
+      "kind": "group",
+      "url": "/groups/ancient/",
+      "rank": 1
+    },
+    {
       "name": "anderson of ardbrake",
       "display": "Anderson of Ardbrake",
       "kind": "family",
@@ -1791,6 +1798,13 @@
       "display": "Bird of Paradise",
       "kind": "family",
       "url": "/families/bird-of-paradise/",
+      "rank": 1
+    },
+    {
+      "name": "black watch",
+      "display": "Black Watch",
+      "kind": "group",
+      "url": "/groups/military/black-watch/",
       "rank": 1
     },
     {
@@ -2267,6 +2281,13 @@
       "display": "Falconer of Labhdal",
       "kind": "family",
       "url": "/families/falconer-of-labhdal/",
+      "rank": 1
+    },
+    {
+      "name": "falkirk",
+      "display": "Falkirk",
+      "kind": "group",
+      "url": "/groups/towns-and-cities/falkirk/",
       "rank": 1
     },
     {
@@ -3495,6 +3516,13 @@
       "rank": 1
     },
     {
+      "name": "military",
+      "display": "Military",
+      "kind": "group",
+      "url": "/groups/military/",
+      "rank": 1
+    },
+    {
       "name": "milne of corstorphine",
       "display": "Milne of Corstorphine",
       "kind": "family",
@@ -4062,6 +4090,13 @@
       "rank": 1
     },
     {
+      "name": "tarim basin",
+      "display": "Tarim Basin",
+      "kind": "group",
+      "url": "/groups/ancient/tarim-basin/",
+      "rank": 1
+    },
+    {
       "name": "teall of teallach",
       "display": "Teall of Teallach",
       "kind": "family",
@@ -4073,6 +4108,13 @@
       "display": "Thomas of Craigie",
       "kind": "family",
       "url": "/families/thomas-of-craigie/",
+      "rank": 1
+    },
+    {
+      "name": "towns \u0026 cities",
+      "display": "Towns \u0026 Cities",
+      "kind": "group",
+      "url": "/groups/towns-and-cities/",
       "rank": 1
     },
     {
@@ -83498,6 +83540,13 @@
       "rank": 4
     },
     {
+      "name": "takla makan (artefact)",
+      "display": "Takla Makan (Artefact)",
+      "kind": "tartan",
+      "url": "/variants/s60/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2~x2~db1106275/",
+      "rank": 4
+    },
+    {
       "name": "takla makan (red)",
       "display": "Takla Makan (Red)",
       "kind": "tartan",
@@ -83614,13 +83663,6 @@
       "display": "Tarbh Deargh (Red Bull)",
       "kind": "tartan",
       "url": "/variants/s4/w80db30lo5y4~x2/",
-      "rank": 4
-    },
-    {
-      "name": "tarim",
-      "display": "Tarim",
-      "kind": "tartan",
-      "url": "/variants/s60/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2~x2~db1106275/",
       "rank": 4
     },
     {

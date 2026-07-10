@@ -6,7 +6,7 @@ This is the **Invertere (Daks #2)** sett — one scale-free proportion (`g14dy4d
 [GGBGGGYGGGBGGY](/stripes/ggbgggygggbggy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Invertere](/tartans/invertere-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Invertere](/tartans/invertere-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

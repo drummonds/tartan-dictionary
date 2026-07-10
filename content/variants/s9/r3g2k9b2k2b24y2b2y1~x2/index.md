@@ -10,7 +10,7 @@ crumbs:
 - name: "Bell of the Borders"
   url: "/families/bell-of-the-borders/"
 - name: "Bell of the Borders."
-  url: "/tartans/bell-of-the-borders/"
+  url: "/tartans/bell-of-the-borders-2/"
 - name: "Bell of the Borders."
   url: "/setts/r3g2k9b2k2b24y2b2y1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3g2k9b2k2b24y2b2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKBKGR](/stripes/gbgbkbkgr/).
 
-Part of the [Bell of the Borders.](/tartans/bell-of-the-borders/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bell of the Borders.](/tartans/bell-of-the-borders-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

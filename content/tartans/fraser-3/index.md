@@ -8,7 +8,7 @@ crumbs:
   url: "/clan/fraser/"
 ---
 A tartan of [Clan Fraser](/clan/fraser/).
-Its design is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [GBGGGWR](/stripes/gbgggwr/) — the page of every tartan sharing this colour sequence.
 
 The **Fraser** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -16,11 +16,10 @@ The **Fraser** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db16r1db1r1g12r16g2r16g12db12r1db1/">Fraser</a> ★</td><td><code>DB/16 R1 DB1 R1 G12 R16 G2 R16 G12 DB12 R1 DB/1</code></td><td>165</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db16r1db1r1g12r16g2r16g12db12r1db1/"><img src="/variants/s12/db16r1db1r1g12r16g2r16g12db12r1db1/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/db16r1db1r1g12r16g2r16g12db12r1db1/">Fraser</a> · <a href="/variants/s12/db16r1db1r1g12r16g2r16g12db12r1db1~x2/">Stewart of Athol</a></td></tr>
-<tr><td><a href="/setts/db20r2db2r2dg19r18dg2r18dg19db19r2db2/">1800</a></td><td><code>DB/40 R4 DB4 R4 DG38 R36 DG4 R36 DG38 DB38 R4 DB/4</code></td><td>456</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db20r2db2r2dg19r18dg2r18dg19db19r2db2/"><img src="/variants/s12/db20r2db2r2dg19r18dg2r18dg19db19r2db2~x2/sett.png" alt="1800 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r2w2y27g14y2db14y2/">Fraser</a> ★</td><td><code>R/4 W4 Y54 G28 Y4 DB28 Y/4</code></td><td>244</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2w2y27g14y2db14y2/"><img src="/variants/s7/r2w2y27g14y2db14y2~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/y1db3y1g3y8w1/">Yellow #2</a></td><td><code>Y/4 DB12 Y4 G12 Y32 W/4</code></td><td>128</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/y1db3y1g3y8w1/"><img src="y1db3y1g3y8w1-rev.png" alt="Yellow #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,4 +28,6 @@ The **Fraser** tartan groups 2 setts — the same named design recorded as diffe
 
 This tartan is also recorded under:
 
-- Fraser, Stewart of Athol
+- Fraser Yellow
+- Fraser Yellow #2
+- Fraser, Yellow

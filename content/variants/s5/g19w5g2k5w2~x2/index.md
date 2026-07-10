@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Rannoch"
-  url: "/tartans/loch-rannoch/"
+  url: "/tartans/loch-rannoch-4/"
 - name: "Loch Rannoch"
   url: "/setts/g19w5g2k5w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g19w5g2k5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKW](/stripes/gwgkw/).
 
-Part of the [Loch Rannoch](/tartans/loch-rannoch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Loch Rannoch](/tartans/loch-rannoch-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -1187,7 +1187,7 @@ weight: 6
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.18 | [Tarim (as found)](/variants/s6/w1lg2ly4lg1ly4lg1~x4~w3502083-lg3101240-ly2503076/) | research |
+| 0.18 | [Hami (as found)](/variants/s6/w1lg2ly4lg1ly4lg1~x4~w3502083-lg3101240-ly2503076/) | research |
 
 ### YBBGGY
 <a class="pat" href="/stripes/ybbggy/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YBBGGY</span></a>

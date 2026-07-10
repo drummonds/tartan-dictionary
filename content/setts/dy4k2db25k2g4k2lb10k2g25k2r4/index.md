@@ -6,7 +6,7 @@ This is the **Ayrton (1979) (Personal)** sett — one scale-free proportion (`dy
 [GKBKGKWKGKR](/stripes/gkbkgkwkgkr/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
-Part of the [Ayrton](/tartans/ayrton/) tartan — the named design grouping this sett with its kin.
+Part of the [Ayrton](/tartans/ayrton-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

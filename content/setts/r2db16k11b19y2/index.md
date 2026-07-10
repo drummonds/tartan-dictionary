@@ -6,7 +6,7 @@ This is the **Sanix Modern** sett — one scale-free proportion (`r2db16k11b19y2
 [GBKBR](/stripes/gbkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Sanix](/tartans/sanix/) tartan — the named design grouping this sett with its kin.
+Part of the [Sanix](/tartans/sanix-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

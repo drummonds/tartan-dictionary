@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db24k8g8r2g8k1y2/">MacLaren</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db24k8g8r2g8k1y2/"><img src="/variants/s7/db24k8g8r2g8k1y2/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db12k4g4r1g4k1y1~x4/">MacLaren</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><img src="/variants/s7/db12k4g4r1g4k1y1~x4/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db24k8g8r2g8k1y2/">MacLaren</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db24k8g8r2g8k1y2/"><img src="/variants/s7/db24k8g8r2g8k1y2/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db36k10g3r3g6k1y2~x2/">MacLaurin of Brioch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><img src="/variants/s7/db36k10g3r3g6k1y2~x2/sett.png" alt="MacLaurin of Brioch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

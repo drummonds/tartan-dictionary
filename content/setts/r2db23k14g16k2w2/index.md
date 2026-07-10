@@ -6,7 +6,7 @@ This is the **MacPhail Hunting Clan Tartan** sett — one scale-free proportion 
 [RBKGKW](/stripes/rbkgkw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [MacPhail Hunting](/tartans/macphail-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPhail Hunting](/tartans/macphail-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Canadian Air Force"
-  url: "/tartans/royal-canadian-air-force/"
+  url: "/tartans/royal-canadian-air-force-2/"
 - name: "Royal Canadian Air Force"
   url: "/setts/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRKRKWKWKRKWR](/stripes/rbrbrbrkrkwkwkrkwr/).
 
-Part of the [Royal Canadian Air Force](/tartans/royal-canadian-air-force/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Royal Canadian Air Force](/tartans/royal-canadian-air-force-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

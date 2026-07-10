@@ -6,7 +6,7 @@ This is the **Fitzgerald Hunting Family Tartan** sett — one scale-free proport
 [RWGBRBKBWBW](/stripes/rwgbrbkbwbw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Fitzgerald, hunting](/tartans/fitzgerald-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Fitzgerald, hunting](/tartans/fitzgerald-hunting-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

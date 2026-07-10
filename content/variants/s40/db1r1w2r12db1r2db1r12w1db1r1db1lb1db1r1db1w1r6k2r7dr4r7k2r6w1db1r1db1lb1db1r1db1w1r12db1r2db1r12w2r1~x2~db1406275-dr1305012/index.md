@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ancient"
+  url: "/groups/ancient/"
+- name: "Tarim Basin"
+  url: "/groups/ancient/tarim-basin/"
 - name: "Takla Makan (Red)"
   url: "/setts/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1/"
 ---

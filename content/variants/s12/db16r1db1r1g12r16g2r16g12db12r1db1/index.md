@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Fraser"
   url: "/clan/fraser/"
 - name: "Fraser"
-  url: "/tartans/fraser-3/"
+  url: "/tartans/fraser-7/"
 - name: "Fraser"
   url: "/setts/db16r1db1r1g12r16g2r16g12db12r1db1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16r1db1r1g12r16g2r16g12db12r1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
-Part of the [Fraser](/tartans/fraser-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fraser](/tartans/fraser-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

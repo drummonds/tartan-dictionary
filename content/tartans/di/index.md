@@ -1,0 +1,51 @@
+---
+title: "Tartans — Di"
+date: 2023-03-18
+---
+43 tartans beginning with Di, each with the number of setts it groups. [Back to the A–Z](/tartans/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/setts/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2/"><img src="/variants/s10/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2~x2~dbi1204274-db1106275/sett.png" alt="Diamond Jubilee" width="140"><br><strong>Diamond Jubilee (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dp36o8dp2o8dp1k2dp4k2dp4k18w2k1w4/"><img src="/variants/s13/dp36o8dp2o8dp1k2dp4k2dp4k18w2k1w4~x2/sett.png" alt="Diamond Jubilee" width="140"><br><strong>Diamond Jubilee (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4/"><img src="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp1105325-dpi1607327/sett.png" alt="Diamond Jubilee" width="140"><br><strong>Diamond Jubilee (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2/"><img src="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/sett.png" alt="Diana Hunting" width="140"><br><strong>Diana Hunting (1)</strong></a></li>
+<li><a class="tartan" href="/setts/doi22g2doi4dg1dr1dg1lb1dg6db3do1db2lb1/"><img src="/variants/s12/doi22g2doi4dg1dr1dg1lb1dg6db3do1db2lb1~x4~doi1402055-g2203152-dg1806142-do1103038/sett.png" alt="Diana Hunting, Lady" width="140"><br><strong>Diana Hunting, Lady (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2/"><img src="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/sett.png" alt="Diana Memorial Rose" width="140"><br><strong>Diana Memorial Rose (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1/"><img src="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/sett.png" alt="Diana Pink" width="140"><br><strong>Diana Pink (1)</strong></a></li>
+<li><a class="tartan" href="/setts/g5dr1r4db2r20g12db16r4dr1/"><img src="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/sett.png" alt="Diana Princess of Wales" width="140"><br><strong>Diana Princess of Wales (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lb2w1lb12t6k3w1ti1w1ti4w2k1w1r1/"><img src="/variants/s13/lb2w1lb12t6k3w1ti1w1ti4w2k1w1r1~x4~lb3402249-t2003265-ti2404216/sett.png" alt="Diana Princess of Wales Commemorative" width="140"><br><strong>Diana Princess of Wales Commemorative (1)</strong></a></li>
+<li><a class="tartan" href="/setts/y2w1y12dt6k3w1g1w1g4w2k1w1r1/"><img src="/variants/s13/y2w1y12dt6k3w1g1w1g4w2k1w1r1~x4/sett.png" alt="Diana Princess of Wales Memorial" width="140"><br><strong>Diana Princess of Wales Memorial (1)</strong></a></li>
+<li><a class="tartan" href="/setts/b2w1b12db6k3dg1w1dg4w2k1w1r1/"><img src="/variants/s12/b2w1b12db6k3dg1w1dg4w2k1w1r1~x4/sett.png" alt="Diana Princess of Wales Memorial, The" width="140"><br><strong>Diana Princess of Wales Memorial, The (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lr46r3do2y2lr7do2lr2do11ly6lb2ly3lr3/"><img src="/variants/s12/lr46r3do2y2lr7do2lr2do11ly6lb2ly3lr3~x2/sett.png" alt="Diana, Plaid Dress" width="140"><br><strong>Diana, Plaid Dress (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w46r3w7do2y2do2w2do11o6b2o3w2/"><img src="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/sett.png" alt="Diana, Plaid dress" width="140"><br><strong>Diana, Plaid dress (1)</strong></a></li>
+<li><a class="tartan" href="/setts/o46b3o7g2r2g2w2g11b6db2b3r2/"><img src="/variants/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/sett.png" alt="Diana, hunting" width="140"><br><strong>Diana, hunting (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db3dg1dr22k12db28w3/"><img src="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a></li>
+<li><a class="tartan" href="/setts/b3dg1r24b16db28w3/"><img src="/variants/s6/b3dg1r24b16db28w3~x2/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lr3db28dt12dr22dg1/"><img src="/variants/s5/lr3db28dt12dr22dg1~x2/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db1r1/"><img src="/variants/s2/db1r1~x100/sett.png" alt="Dice" width="140"><br><strong>Dice (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k5g30y3t15k15t7w3/"><img src="/variants/s7/k5g30y3t15k15t7w3~x2/sett.png" alt="Dick" width="140"><br><strong>Dick (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2/"><img src="/variants/s17/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2~x4/sett.png" alt="Dickie" width="140"><br><strong>Dickie (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dg8o2dg12k6dg3db6o24k4/"><img src="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/sett.png" alt="Dickie" width="140"><br><strong>Dickie (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/dickson/"><img src="/variants/s7/lb6k8lb6g12db29w3db4~x2/sett.png" alt="Dickson" width="140"><br><strong>Dickson (2)</strong></a></li>
+<li><a class="tartan" href="/setts/n6dbi8n8g12db29w3db4/"><img src="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/sett.png" alt="Dickson" width="140"><br><strong>Dickson (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/"><img src="/variants/s15/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/sett.png" alt="Dickson" width="140"><br><strong>Dickson (1)</strong></a></li>
+<li><a class="tartan" href="/setts/b6k3b10o5b2o2b2o2b7w2/"><img src="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/sett.png" alt="Digital" width="140"><br><strong>Digital (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lb6k3lb10ly5lb2ly2lb2ly2lb7w2/"><img src="/variants/s10/lb6k3lb10ly5lb2ly2lb2ly2lb7w2~x2/sett.png" alt="Digital" width="140"><br><strong>Digital (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lg8k5lg16n9lg3n3lg3n3lg10lr3/"><img src="/variants/s10/lg8k5lg16n9lg3n3lg3n3lg10lr3~x2/sett.png" alt="Digital Equipment Corp." width="140"><br><strong>Digital Equipment Corp. (1)</strong></a></li>
+<li><a class="tartan" href="/setts/t8k5t16n9t3n3t3n3t10lr3/"><img src="/variants/s10/t8k5t16n9t3n3t3n3t10lr3~x2/sett.png" alt="Digital Equipment Corp." width="140"><br><strong>Digital Equipment Corp. (1)</strong></a></li>
+<li><a class="tartan" href="/setts/y2r1lb16k5dp2w11dp1/"><img src="/variants/s7/y2r1lb16k5dp2w11dp1~x4/sett.png" alt="Dignan" width="140"><br><strong>Dignan (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lo4dr2t32k10dp4lb21dp2/"><img src="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/sett.png" alt="Dignan Corporate School" width="140"><br><strong>Dignan Corporate School (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w5k5w10r2w10dp8w15dp8lb3k3/"><img src="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/sett.png" alt="Dijkgraaf, Markus Jack" width="140"><br><strong>Dijkgraaf, Markus Jack (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k6r2k10o6k3lb8k3n9k13r5k1g2/"><img src="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/sett.png" alt="Dilanan" width="140"><br><strong>Dilanan (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2/"><img src="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/sett.png" alt="Dinarzh:" width="140"><br><strong>Dinarzh: (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w4y10db20k1w12y1db4w2k4y5k10w5db2/"><img src="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/sett.png" alt="Dinarzh: Fortress of the Bear" width="140"><br><strong>Dinarzh: Fortress of the Bear (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/dinwiddie/"><img src="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/sett.png" alt="Dinwiddie" width="140"><br><strong>Dinwiddie (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/dinwiddie-hunting/"><img src="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/sett.png" alt="Dinwiddie Hunting" width="140"><br><strong>Dinwiddie Hunting (2)</strong></a></li>
+<li><a class="tartan" href="/setts/dy12n2k2n42k13g25n6k2r4k10/"><img src="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/sett.png" alt="Dinwoodie" width="140"><br><strong>Dinwoodie (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k22g21k5g12lb12n3w4/"><img src="/variants/s7/k22g21k5g12lb12n3w4~x2/sett.png" alt="Disciples of Christ MM" width="140"><br><strong>Disciples of Christ MM (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dp6y1dp20db6g19dp2/"><img src="/variants/s6/dp6y1dp20db6g19dp2~x4/sett.png" alt="Discover Islay" width="140"><br><strong>Discover Islay (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r6k1w4k4n15r1k35o2/"><img src="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/sett.png" alt="Distripress" width="140"><br><strong>Distripress (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r12k2w8k4n16r2k31n2/"><img src="/variants/s8/r12k2w8k4n16r2k31n2/sett.png" alt="Distripress Annual Congress 2012" width="140"><br><strong>Distripress Annual Congress 2012 (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1/"><img src="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/sett.png" alt="Dixon, Clyde" width="140"><br><strong>Dixon, Clyde (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lg2y1g2dg8g8o9g3y2r1o1r1o1r1o1r1/"><img src="/variants/s15/lg2y1g2dg8g8o9g3y2r1o1r1o1r1o1r1~x2/sett.png" alt="Dixon, Clyde" width="140"><br><strong>Dixon, Clyde (1)</strong></a></li>
+</ul>

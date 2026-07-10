@@ -6,7 +6,7 @@ This is the **Grant** sett — one scale-free proportion (`db24k4db4k4db4k24g24r
 [BKBKBKGRGKG](/stripes/bkbkbkgrgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Grant](/tartans/grant-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant](/tartans/grant-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

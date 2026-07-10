@@ -6,7 +6,7 @@ This is the **Douglas (Clan)** sett — one scale-free proportion (`k6db4dg44k41
 [KBGKW](/stripes/kbgkw/). It is recorded as a single **variant**, below.
 First attested **1826**.
 
-Part of the [Douglas](/tartans/douglas/) tartan — the named design grouping this sett with its kin.
+Part of the [Douglas](/tartans/douglas-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

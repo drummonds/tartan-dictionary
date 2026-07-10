@@ -6,7 +6,7 @@ This is the **Milne, Dress (Dance)** sett — one scale-free proportion (`w12lb2
 [BWWWRWWW](/stripes/bwwwrwww/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Milne, Dress](/tartans/milne-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Milne, Dress](/tartans/milne-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

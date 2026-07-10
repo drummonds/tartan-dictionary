@@ -6,7 +6,7 @@ This is the **Loch Garth** sett — one scale-free proportion (`do12y6do2lo1`), 
 [BGBY](/stripes/bgby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Loch Garth](/tartans/loch-garth/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Garth](/tartans/loch-garth-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

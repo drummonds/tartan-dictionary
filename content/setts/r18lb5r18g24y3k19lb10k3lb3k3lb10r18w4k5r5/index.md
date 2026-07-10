@@ -6,7 +6,7 @@ This is the **MacPherson #5** sett — one scale-free proportion (`r18lb5r18g24y
 [RKWRWKWKWKGGRWR](/stripes/rkwrwkwkwkggrwr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacPherson](/tartans/macpherson/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPherson](/tartans/macpherson-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Longniddry"
-  url: "/tartans/longniddry/"
+  url: "/tartans/longniddry-2/"
 - name: "Longniddry Green Error (Dance)"
   url: "/setts/g42y1w2y1g5dg12w32g4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g42y1w2y1g5dg12w32g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGGGWG](/stripes/ggwgggwg/).
 
-Part of the [Longniddry](/tartans/longniddry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Longniddry](/tartans/longniddry-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

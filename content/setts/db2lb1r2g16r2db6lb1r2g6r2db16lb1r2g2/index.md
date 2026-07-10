@@ -7,7 +7,7 @@ This is the **Glenorchy** sett — one scale-free proportion (`db2lb1r2g16r2db6l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1870**.
 
-Part of the [Glen Orchy](/tartans/glen-orchy/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Orchy](/tartans/glen-orchy-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

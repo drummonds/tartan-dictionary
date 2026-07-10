@@ -6,7 +6,7 @@ This is the **Confederate Memorial** sett — one scale-free proportion (`b12n4r
 [BBRBYBRWBW](/stripes/bbrbybrwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Confederate Memorial](/tartans/confederate-memorial/) tartan — the named design grouping this sett with its kin.
+Part of the [Confederate Memorial](/tartans/confederate-memorial-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

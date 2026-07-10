@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Urquhart"
-  url: "/tartans/urquhart-2/"
+  url: "/tartans/urquhart-3/"
 - name: "Urquhart Broad Red Clan Tartan"
   url: "/setts/r9db11k3db3k3db3k20g20k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r9db11k3db3k3db3k20g20k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKBKBR](/stripes/kgkbkbkbr/).
 
-Part of the [Urquhart](/tartans/urquhart-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Urquhart](/tartans/urquhart-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

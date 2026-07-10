@@ -6,7 +6,7 @@ This is the **Stewart/Stuart Mourning** sett — one scale-free proportion (`k40
 [BKBKBKBKWKWKBKBKBKBK](/stripes/bkbkbkbkwkwkbkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Stewart Mourning](/tartans/stewart-mourning/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart Mourning](/tartans/stewart-mourning-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

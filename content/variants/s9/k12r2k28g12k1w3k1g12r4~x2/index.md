@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDiarmid"
-  url: "/tartans/macdiarmid/"
+  url: "/tartans/macdiarmid-3/"
 - name: "MacDiarmid Clan Tartan"
   url: "/setts/k12r2k28g12k1w3k1g12r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k12r2k28g12k1w3k1g12r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKWKGR](/stripes/krkgkwkgr/).
 
-Part of the [MacDiarmid](/tartans/macdiarmid/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDiarmid](/tartans/macdiarmid-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

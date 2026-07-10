@@ -19,5 +19,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Strange of Balcaskie tartan and all its setts →](/tartans/strange-of-balcaskie/)
+[See the Strange of Balcaskie tartan and all its setts →](/tartans/strange-of-balcaskie-2/)
 

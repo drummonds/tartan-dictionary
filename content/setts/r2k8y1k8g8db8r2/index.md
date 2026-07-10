@@ -7,7 +7,7 @@ This is the **Brodie Hunting** sett — one scale-free proportion (`r2k8y1k8g8db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1880**.
 
-Part of the [Brodie Hunting](/tartans/brodie-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Brodie Hunting](/tartans/brodie-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

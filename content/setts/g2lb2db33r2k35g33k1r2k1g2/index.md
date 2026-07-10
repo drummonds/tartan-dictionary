@@ -6,7 +6,7 @@ This is the **Lochaber - 1819 (District)** sett — one scale-free proportion (`
 [GKRKGKRBWG](/stripes/gkrkgkrbwg/). It is recorded as a single **variant**, below.
 First attested **1797**.
 
-Part of the [Lochaber](/tartans/lochaber/) tartan — the named design grouping this sett with its kin.
+Part of the [Lochaber](/tartans/lochaber-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

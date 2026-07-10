@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Salvation Army Hunting"
-  url: "/tartans/salvation-army-hunting/"
+  url: "/tartans/salvation-army-hunting-2/"
 - name: "Salvation Army Htg (Corporate)"
   url: "/setts/db5dg8k1y2k1dg8db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db5dg8k1y2k1dg8db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGB](/stripes/bgkgkgb/).
 
-Part of the [Salvation Army Hunting](/tartans/salvation-army-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Salvation Army Hunting](/tartans/salvation-army-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

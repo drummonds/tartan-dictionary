@@ -6,7 +6,7 @@ This is the **Morrison** sett — one scale-free proportion (`g5w2g8r9k3r4k3r17g
 [GRKRKRGWG](/stripes/grkrkrgwg/). It is recorded as a single **variant**, below.
 First attested **1747**.
 
-Part of the [Morrison](/tartans/morrison/) tartan — the named design grouping this sett with its kin.
+Part of the [Morrison](/tartans/morrison-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

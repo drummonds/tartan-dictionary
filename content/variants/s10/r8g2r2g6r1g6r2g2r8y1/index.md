@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Bruce"
   url: "/clan/bruce/"
 - name: "Bruce"
-  url: "/tartans/bruce/"
+  url: "/tartans/bruce-3/"
 - name: "Bruce"
   url: "/setts/r8g2r2g6r1g6r2g2r8y1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r8g2r2g6r1g6r2g2r8y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-Part of the [Bruce](/tartans/bruce/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bruce](/tartans/bruce-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

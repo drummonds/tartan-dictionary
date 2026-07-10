@@ -1,0 +1,23 @@
+---
+title: "Tartans — Hy"
+date: 2023-03-18
+---
+15 tartans beginning with Hy, each with the number of setts it groups. [Back to the A–Z](/tartans/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/setts/db58y2r1lb4y2r2lb7r8y6/"><img src="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/sett.png" alt="Hybelius, J-A" width="140"><br><strong>Hybelius, J-A (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dg30db6r2db2dy2db15w2/"><img src="/variants/s7/dg30db6r2db2dy2db15w2~x2/sett.png" alt="Hydesville Tower" width="140"><br><strong>Hydesville Tower (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db15dy2db2r2db6dg30db6r2db2dy2db15w2/"><img src="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/sett.png" alt="Hydesville Tower" width="140"><br><strong>Hydesville Tower (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r3k1w5k4db11r1/"><img src="/variants/s6/r3k1w5k4db11r1~x4/sett.png" alt="Hydro-Electric" width="140"><br><strong>Hydro-Electric (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k3db30k8w8k2r3/"><img src="/variants/s6/k3db30k8w8k2r3~x2/sett.png" alt="Hydro-Electric" width="140"><br><strong>Hydro-Electric (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db11k4w5k1r3k1w5k4db11r1/"><img src="/variants/s10/db11k4w5k1r3k1w5k4db11r1~x4~db1406275/sett.png" alt="Hydro-Electric" width="140"><br><strong>Hydro-Electric (1)</strong></a></li>
+<li><a class="tartan" href="/setts/o3dy2o26dy4do6dy29do2lo3/"><img src="/variants/s8/o3dy2o26dy4do6dy29do2lo3~x2~dy1603076/sett.png" alt="Hyland Day" width="140"><br><strong>Hyland Day (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dp3lo2r19o4dpi6k36dpi2lo3/"><img src="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/sett.png" alt="Hyland Evening" width="140"><br><strong>Hyland Evening (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/hynde/"><img src="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/sett.png" alt="Hynde" width="140"><br><strong>Hynde (3)</strong></a></li>
+<li><a class="tartan" href="/tartans/hyndman/"><img src="/variants/s14/t4r2t3r4t8g4y2g2k2t6r4t2r2w2~x4~w4000000/sett.png" alt="Hyndman" width="140"><br><strong>Hyndman (2)</strong></a></li>
+<li><a class="tartan" href="/setts/g12t5dr2k1dr2t5g12y3dr12g2w1g2dr12r3/"><img src="/variants/s14/g12t5dr2k1dr2t5g12y3dr12g2w1g2dr12r3~x4/sett.png" alt="Hyndman" width="140"><br><strong>Hyndman (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db12g24r5do20g4w2g4do21y5g24db12do4k2do4/"><img src="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/sett.png" alt="Hyndman" width="140"><br><strong>Hyndman (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/hyndman-4/"><img src="/variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/sett.png" alt="Hyndman" width="140"><br><strong>Hyndman (2)</strong></a></li>
+<li><a class="tartan" href="/setts/ri1db14k10db10k1db2k1db10k10dr8db2r2w1/"><img src="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/sett.png" alt="Hynett, William" width="140"><br><strong>Hynett, William (1)</strong></a></li>
+<li><a class="tartan" href="/setts/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2/"><img src="/variants/s18/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png" alt="Hyslop Hunting" width="140"><br><strong>Hyslop Hunting (1)</strong></a></li>
+</ul>

@@ -6,7 +6,7 @@ This is the **MacPherson Dress, Blue (Dance)** sett — one scale-free proportio
 [GBWBWRW](/stripes/gbwbwrw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [MacPherson Dress](/tartans/macpherson-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPherson Dress](/tartans/macpherson-dress-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

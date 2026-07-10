@@ -6,7 +6,7 @@ This is the **MacLean (rare)** sett — one scale-free proportion (`do9lb5k8y2k4
 [BWKGKWKGRWRK](/stripes/bwkgkwkgrwrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacLean](/tartans/maclean/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLean](/tartans/maclean-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **McCartney (Night)** sett — one scale-free proportion (`db4g2db24
 [BGBGBRBGBBW](/stripes/bgbgbrbgbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [McCartney](/tartans/mccartney/) tartan — the named design grouping this sett with its kin.
+Part of the [McCartney](/tartans/mccartney-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

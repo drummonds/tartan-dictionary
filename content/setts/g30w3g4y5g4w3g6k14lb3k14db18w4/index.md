@@ -6,7 +6,7 @@ This is the **MacKellar** sett — one scale-free proportion (`g30w3g4y5g4w3g6k1
 [GWGGGWGKWKBW](/stripes/gwgggwgkwkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacKellar](/tartans/mackellar/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKellar](/tartans/mackellar-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

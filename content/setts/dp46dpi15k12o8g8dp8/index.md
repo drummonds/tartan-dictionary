@@ -6,7 +6,7 @@ This is the **Haut Name Tartan** sett — one scale-free proportion (`dp46dpi15k
 [BBKRGB](/stripes/bbkrgb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Haut](/tartans/haut/) tartan — the named design grouping this sett with its kin.
+Part of the [Haut](/tartans/haut-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

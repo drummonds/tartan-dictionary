@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lindsay"
-  url: "/tartans/lindsay/"
+  url: "/tartans/lindsay-4/"
 - name: "Lindsay"
   url: "/setts/g20db2g2db2g2db8r24db2r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g20db2g2db2g2db8r24db2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBRBR](/stripes/gbgbgbrbr/).
 
-Part of the [Lindsay](/tartans/lindsay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lindsay](/tartans/lindsay-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

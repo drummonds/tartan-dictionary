@@ -6,7 +6,7 @@ This is the **Highlands School, (North Carolina)** sett — one scale-free propo
 [GBGBBBBW](/stripes/gbgbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Highlands School](/tartans/highlands-school/) tartan — the named design grouping this sett with its kin.
+Part of the [Highlands School](/tartans/highlands-school-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

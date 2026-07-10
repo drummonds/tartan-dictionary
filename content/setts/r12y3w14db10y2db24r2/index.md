@@ -6,7 +6,7 @@ This is the **Yusra (Malay) (Personal)** sett — one scale-free proportion (`r1
 [RBGBWGR](/stripes/rbgbwgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Yusra](/tartans/yusra/) tartan — the named design grouping this sett with its kin.
+Part of the [Yusra](/tartans/yusra-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

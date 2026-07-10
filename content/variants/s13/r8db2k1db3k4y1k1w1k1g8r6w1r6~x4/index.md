@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Christie"
-  url: "/tartans/christie/"
+  url: "/tartans/christie-3/"
 - name: "Christie Family Tartan"
   url: "/setts/r8db2k1db3k4y1k1w1k1g8r6w1r6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r8db2k1db3k4y1k1w1k1g8r6w1r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKGKWKGRWR](/stripes/rbkbkgkwkgrwr/).
 
-Part of the [Christie](/tartans/christie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Christie](/tartans/christie-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

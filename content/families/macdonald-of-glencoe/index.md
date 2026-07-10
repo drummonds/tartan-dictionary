@@ -25,5 +25,5 @@ A family of [Clan MacDonald](/clan/macdonald/).
 </tbody>
 </table>
 
-[See the MacDonald of Glencoe tartan and all its setts →](/tartans/macdonald-of-glencoe/)
+[See the MacDonald of Glencoe tartan and all its setts →](/tartans/macdonald-of-glencoe-3/)
 

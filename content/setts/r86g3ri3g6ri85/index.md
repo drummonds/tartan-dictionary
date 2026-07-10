@@ -6,7 +6,7 @@ This is the **MacNab #4** sett — one scale-free proportion (`r86g3ri3g6ri85`),
 [RGRGR](/stripes/rgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacNab](/tartans/macnab/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNab](/tartans/macnab-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

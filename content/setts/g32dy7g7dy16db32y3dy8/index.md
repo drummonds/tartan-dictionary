@@ -7,7 +7,7 @@ This is the **Strange of Balcaskie (Clan)** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1995**.
 
-Part of the [Strange of Balcaskie](/tartans/strange-of-balcaskie/) tartan — the named design grouping this sett with its kin.
+Part of the [Strange of Balcaskie](/tartans/strange-of-balcaskie-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Land's End"
-  url: "/tartans/land-s-end/"
+  url: "/tartans/land-s-end-3/"
 - name: "Land's End Blue"
   url: "/setts/dg2db26g2db2g9dr2g9db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg2db26g2db2g9dr2g9db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
 
-Part of the [Land's End](/tartans/land-s-end/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Land's End](/tartans/land-s-end-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -7,7 +7,7 @@ This is the **MacLaren** sett — one scale-free proportion (`db24k8g8r2g8k1y2`)
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1820**.
 
-Part of the [MacLaren](/tartans/maclaren-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLaren](/tartans/maclaren-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

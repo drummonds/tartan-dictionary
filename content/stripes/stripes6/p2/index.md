@@ -162,7 +162,7 @@ weight: 6
 |---|---|---|
 | 0.04 | [Matthews (Personal)](/variants/s6/db3r24db3r3db25w3~x2/) | register-of-tartans |
 | 0.08 | [Tokharian](/variants/s6/db1o5db1o5db2w1~x4/) | weddslist |
-| 0.10 | [Tarim](/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/) | research |
+| 0.10 | [Hami](/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/) | research |
 
 ### BWBBBR
 <a class="pat" href="/stripes/bwbbbr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BWBBBR</span></a>

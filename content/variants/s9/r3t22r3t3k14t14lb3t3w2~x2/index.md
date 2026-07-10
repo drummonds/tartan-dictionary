@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fitzgerald"
-  url: "/tartans/fitzgerald/"
+  url: "/tartans/fitzgerald-3/"
 - name: "Fitzgerald (Family)"
   url: "/setts/r3t22r3t3k14t14lb3t3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3t22r3t3k14t14lb3t3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKBWBW](/stripes/rbrbkbwbw/).
 
-Part of the [Fitzgerald](/tartans/fitzgerald/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fitzgerald](/tartans/fitzgerald-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

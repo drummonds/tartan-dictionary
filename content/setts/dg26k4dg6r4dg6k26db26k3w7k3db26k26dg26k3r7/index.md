@@ -6,7 +6,7 @@ This is the **MacRae Htg - 1820 (Wilsons)** sett — one scale-free proportion (
 [GKGRGKBKWKBKGKR](/stripes/gkgrgkbkwkbkgkr/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
-Part of the [MacRae Hunting](/tartans/macrae-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacRae Hunting](/tartans/macrae-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Hebridean Old** sett — one scale-free proportion (`k2db3g16b1k13
 [BKBBKBGBK](/stripes/bkbbkbgbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Hebridean Old](/tartans/hebridean-old/) tartan — the named design grouping this sett with its kin.
+Part of the [Hebridean Old](/tartans/hebridean-old-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

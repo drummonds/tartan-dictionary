@@ -6,7 +6,7 @@ This is the **George (Personal)** sett — one scale-free proportion (`r6db2r1db
 [GWGBRBRBR](/stripes/gwgbrbrbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [George](/tartans/george/) tartan — the named design grouping this sett with its kin.
+Part of the [George](/tartans/george-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

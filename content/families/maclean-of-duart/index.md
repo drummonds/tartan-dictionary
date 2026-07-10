@@ -30,7 +30,7 @@ A family of [Clan Maclean](/clan/maclean/).
 </tbody>
 </table>
 
-[See the MacLean of Duart tartan and all its setts →](/tartans/maclean-of-duart/)
+[See the MacLean of Duart tartan and all its setts →](/tartans/maclean-of-duart-2/)
 
 ### MacLean of Duart 4
 

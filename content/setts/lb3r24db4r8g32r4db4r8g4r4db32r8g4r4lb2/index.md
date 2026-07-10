@@ -6,7 +6,7 @@ This is the **MacIntyre (of Gatehouse)** sett — one scale-free proportion (`lb
 [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [MacIntyre](/tartans/macintyre/) tartan — the named design grouping this sett with its kin.
+Part of the [MacIntyre](/tartans/macintyre-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

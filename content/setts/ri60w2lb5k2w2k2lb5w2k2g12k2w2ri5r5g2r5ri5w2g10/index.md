@@ -7,7 +7,7 @@ This is the **MacBain/MacBean** sett — one scale-free proportion (`ri60w2lb5k2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1960**.
 
-Part of the [MacBain](/tartans/macbain/) tartan — the named design grouping this sett with its kin.
+Part of the [MacBain](/tartans/macbain-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

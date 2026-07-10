@@ -6,7 +6,7 @@ This is the **Lochnagar Plaid (District)** sett — one scale-free proportion (`
 [WRBRWW](/stripes/wrbrww/). It is recorded as a single **variant**, below.
 First attested **~1974**.
 
-Part of the [Lochnagar](/tartans/lochnagar/) tartan — the named design grouping this sett with its kin.
+Part of the [Lochnagar](/tartans/lochnagar-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Matheson (WCWM)** sett — one scale-free proportion (`g4dr4g2dr2g
 [GBGBBGBGBGBGBGBBGBGBG](/stripes/gbgbbgbgbgbgbgbbgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Matheson](/tartans/matheson/) tartan — the named design grouping this sett with its kin.
+Part of the [Matheson](/tartans/matheson-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

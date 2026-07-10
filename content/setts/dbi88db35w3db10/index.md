@@ -7,7 +7,7 @@ This is the **Scottish Tourist Board (1990)** sett — one scale-free proportion
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
-Part of the [Scottish Tourist Board](/tartans/scottish-tourist-board/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Tourist Board](/tartans/scottish-tourist-board-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

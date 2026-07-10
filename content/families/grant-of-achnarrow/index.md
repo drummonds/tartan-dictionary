@@ -18,5 +18,5 @@ A family of [Clan Grant](/clan/grant/).
 </tbody>
 </table>
 
-[See the Grant of Achnarrow tartan and all its setts →](/tartans/grant-of-achnarrow/)
+[See the Grant of Achnarrow tartan and all its setts →](/tartans/grant-of-achnarrow-2/)
 

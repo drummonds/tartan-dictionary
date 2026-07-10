@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Largs"
-  url: "/tartans/largs/"
+  url: "/tartans/largs-2/"
 - name: "Largs (1981) (District)"
   url: "/setts/db4r4db44w6db5o4db3o8db3o16db4r24w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4r4db44w6db5o4db3o8db3o16db4r24w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBRBRBRBRW](/stripes/brbwbrbrbrbrw/).
 
-Part of the [Largs](/tartans/largs/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Largs](/tartans/largs-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

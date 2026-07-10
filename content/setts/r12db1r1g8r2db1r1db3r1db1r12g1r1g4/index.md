@@ -7,7 +7,7 @@ This is the **MacColl** sett — one scale-free proportion (`r12db1r1g8r2db1r1db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1797**.
 
-Part of the [MacColl](/tartans/maccoll/) tartan — the named design grouping this sett with its kin.
+Part of the [MacColl](/tartans/maccoll-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

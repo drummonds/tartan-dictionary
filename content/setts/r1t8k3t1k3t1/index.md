@@ -6,7 +6,7 @@ This is the **Mackay (Blue)** sett — one scale-free proportion (`r1t8k3t1k3t1`
 [BKBKBR](/stripes/bkbkbr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Mackay](/tartans/mackay-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Mackay](/tartans/mackay-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

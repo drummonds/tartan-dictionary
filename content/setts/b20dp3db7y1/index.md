@@ -6,7 +6,7 @@ This is the **Peacock** sett — one scale-free proportion (`b20dp3db7y1`), colo
 [BBBG](/stripes/bbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Peacock](/tartans/peacock/) tartan — the named design grouping this sett with its kin.
+Part of the [Peacock](/tartans/peacock-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

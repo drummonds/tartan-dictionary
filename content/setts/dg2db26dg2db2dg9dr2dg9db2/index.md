@@ -6,7 +6,7 @@ This is the **Land's End, Blue (Fashion)** sett — one scale-free proportion (`
 [BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Land's End](/tartans/land-s-end/) tartan — the named design grouping this sett with its kin.
+Part of the [Land's End](/tartans/land-s-end-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

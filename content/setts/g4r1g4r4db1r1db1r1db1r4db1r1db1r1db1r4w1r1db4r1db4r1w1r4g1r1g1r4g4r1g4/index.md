@@ -7,7 +7,7 @@ This is the **MacRae** sett — one scale-free proportion (`g4r1g4r4db1r1db1r1db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1850**.
 
-Part of the [MacRae](/tartans/macrae-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacRae](/tartans/macrae-12/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

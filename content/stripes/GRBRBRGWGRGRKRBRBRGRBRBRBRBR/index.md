@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g4r1db1r3db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/">MacDonald of Staffa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g4r1db1r3db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/"><img src="/variants/s28/r15db1r1db1r1db1r1db1r3g4r1db1r3db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g3r1db1r4db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/">MacDonald of Staffa</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g3r1db1r4db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/"><img src="/variants/s28/r15db1r1db1r1db1r1db1r3g3r1db1r4db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g4r1db1r3db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/">MacDonald of Staffa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g4r1db1r3db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/"><img src="/variants/s28/r15db1r1db1r1db1r1db1r3g4r1db1r3db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,7 @@ This is the **Caledonian Brewery** sett — one scale-free proportion (`w4dg20g1
 [GRBRGGW](/stripes/grbrggw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Caledonian Brewery](/tartans/caledonian-brewery/) tartan — the named design grouping this sett with its kin.
+Part of the [Caledonian Brewery](/tartans/caledonian-brewery-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

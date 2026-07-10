@@ -6,7 +6,7 @@ This is the **Strathmore** sett — one scale-free proportion (`dgi3r15dg2r2dg2r
 [GRGRGRGYGYGYKYKY](/stripes/grgrgrgygygykyky/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Strathmore](/tartans/strathmore/) tartan — the named design grouping this sett with its kin.
+Part of the [Strathmore](/tartans/strathmore-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Balmoral (Green) (Royal)** sett — one scale-free proportion (`lb
 [GWKWBWBWKBWGW](/stripes/gwkwbwbwkbwgw/). It is recorded as a single **variant**, below.
 First attested **1853**.
 
-Part of the [Balmoral](/tartans/balmoral-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Balmoral](/tartans/balmoral-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

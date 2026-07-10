@@ -6,7 +6,7 @@ This is the **Ayrshire** sett — one scale-free proportion (`db2r1db10w1o4g8y1g
 [BRBWRGGG](/stripes/brbwrggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Ayrshire](/tartans/ayrshire/) tartan — the named design grouping this sett with its kin.
+Part of the [Ayrshire](/tartans/ayrshire-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

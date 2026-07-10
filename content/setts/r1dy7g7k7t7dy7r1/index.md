@@ -6,7 +6,7 @@ This is the **Tennant #2** sett — one scale-free proportion (`r1dy7g7k7t7dy7r1
 [RGBKGGR](/stripes/rgbkggr/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
-Part of the [Tennant](/tartans/tennant-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Tennant](/tartans/tennant-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

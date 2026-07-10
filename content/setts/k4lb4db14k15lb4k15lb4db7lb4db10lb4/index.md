@@ -6,7 +6,7 @@ This is the **Clark (Clerke/Clergy/Priest)** sett — one scale-free proportion 
 [KWBKWKWBWBW](/stripes/kwbkwkwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Clark](/tartans/clark-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Clark](/tartans/clark-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

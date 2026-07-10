@@ -6,7 +6,7 @@ This is the **Gudbrandsdalen, Rondastakken** sett — one scale-free proportion 
 [RGRGBRWR](/stripes/rgrgbrwr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [Gudbrandsdalen, Rondastakken](/tartans/gudbrandsdalen-rondastakken/) tartan — the named design grouping this sett with its kin.
+Part of the [Gudbrandsdalen, Rondastakken](/tartans/gudbrandsdalen-rondastakken-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

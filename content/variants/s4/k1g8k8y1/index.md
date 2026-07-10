@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wallace Hunting"
-  url: "/tartans/wallace-hunting/"
+  url: "/tartans/wallace-hunting-2/"
 - name: "Wallace Hunting"
   url: "/setts/k1g8k8y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1g8k8y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGK](/stripes/gkgk/).
 
-Part of the [Wallace Hunting](/tartans/wallace-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wallace Hunting](/tartans/wallace-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 

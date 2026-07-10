@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lochaber"
-  url: "/tartans/lochaber/"
+  url: "/tartans/lochaber-5/"
 - name: "Lochaber"
   url: "/setts/g4lb2db33r2k35g33k1r2k1g4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g4lb2db33r2k35g33k1r2k1g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGKRBWG](/stripes/gkrkgkrbwg/).
 
-Part of the [Lochaber](/tartans/lochaber/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lochaber](/tartans/lochaber-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

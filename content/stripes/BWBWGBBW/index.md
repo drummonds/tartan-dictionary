@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/">Ancient Gathering</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><img src="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/">Ancient Gathering</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/"><img src="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/">Ancient Gathering</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><img src="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

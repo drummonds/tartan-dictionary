@@ -1,0 +1,52 @@
+---
+title: "Tartans — Ab"
+date: 2023-03-18
+---
+44 tartans beginning with Ab, each with the number of setts it groups. [Back to the A–Z](/tartans/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/setts/k25g29b24r2g11r2b24g29k25dy4k5r4/"><img src="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k0604259-b1813263/sett.png" alt="ABF The Soldiers' Charity" width="140"><br><strong>ABF The Soldiers' Charity (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db60r2db2r6db1r2db1r6db1r2db1r6db2n2/"><img src="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/sett.png" alt="Abaco Loyalist" width="140"><br><strong>Abaco Loyalist (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dg30g1dg3dr30k1y3/"><img src="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/sett.png" alt="Abadia Da Cova" width="140"><br><strong>Abadia Da Cova (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/abbink-ingmar/"><img src="/variants/s5/r39db22k11y22g5~x2/sett.png" alt="Abbink, Ingmar" width="140"><br><strong>Abbink, Ingmar (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/abbotsford/"><img src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/sett.png" alt="Abbotsford" width="140"><br><strong>Abbotsford (2)</strong></a></li>
+<li><a class="tartan" href="/setts/g50k3w4k1y5r4k1w2k2db15k5g4w2/"><img src="/variants/s13/g50k3w4k1y5r4k1w2k2db15k5g4w2~x2/sett.png" alt="Abbotsford, City of" width="140"><br><strong>Abbotsford, City of (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db22g22w6db4y7g20db24k20r2n24k6n24r2k20/"><img src="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/sett.png" alt="Abel" width="140"><br><strong>Abel (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db27k4db4k4db4k14lb14w2lb27/"><img src="/variants/s9/db27k4db4k4db4k14lb14w2lb27/sett.png" alt="Abercrombie" width="140"><br><strong>Abercrombie (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k12r1g14w1g14k14r1db8k2/"><img src="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png" alt="Abercrombie" width="140"><br><strong>Abercrombie (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k6g6y1g6k6dp6k1/"><img src="/variants/s7/k6g6y1g6k6dp6k1~x4/sett.png" alt="Abercrombie" width="140"><br><strong>Abercrombie (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/abercrombie-4/"><img src="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/sett.png" alt="Abercrombie" width="140"><br><strong>Abercrombie (2)</strong></a></li>
+<li><a class="tartan" href="/setts/db14k2db2k2db2k7g7w1g14/"><img src="/variants/s9/db14k2db2k2db2k7g7w1g14/sett.png" alt="Abercrombie D" width="140"><br><strong>Abercrombie D (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2/"><img src="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/sett.png" alt="Aberdale" width="140"><br><strong>Aberdale (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2/"><img src="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/sett.png" alt="Aberdeen" width="140"><br><strong>Aberdeen (1)</strong></a></li>
+<li><a class="tartan" href="/setts/g4w1ri6r3w1r3ri6w1lb10w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2dp6lb4w2lb4dp6w2k16g4w2g4k16w2dp6lb4w2lb4dp6w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2lb10w1ri6r3w1r3ri6w1g4k16w2ri23r3w2/"><img src="/variants/s82/g4w1ri6r3w1r3ri6w1lb10w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2dp6lb4w2lb4dp6w2k16g4w2g4k16w2dp6lb4w2lb4dp6w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2lb10w1ri6r3w1r3ri6w1g4k16w2ri2-h9a2519dbca078ee2/sett.png" alt="Aberdeen" width="140"><br><strong>Aberdeen (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1/"><img src="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/sett.png" alt="Aberdeen" width="140"><br><strong>Aberdeen (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/aberdeen-4/"><img src="/variants/s44/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1g4k16w2r23ri3w2~x2~r2209032-ri2806019/sett.png" alt="Aberdeen" width="140"><br><strong>Aberdeen (2)</strong></a></li>
+<li><a class="tartan" href="/setts/db4dpi2dp3db24lb24w3/"><img src="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/sett.png" alt="Aberdeen Academy of Performing Art" width="140"><br><strong>Aberdeen Academy of Performing Art (1)</strong></a></li>
+<li><a class="tartan" href="/setts/db4b2dp3db24t24w3/"><img src="/variants/s6/db4b2dp3db24t24w3~x2~db1004274-b2308302-dp1105325-t2105244/sett.png" alt="Aberdeen Academy of Performing Arts" width="140"><br><strong>Aberdeen Academy of Performing Arts (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k6r2db18lo2g2lo2g10r20db2lb1db6/"><img src="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/sett.png" alt="Aberdeen Asset Management" width="140"><br><strong>Aberdeen Asset Management (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1/"><img src="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/sett.png" alt="Aberdeen Dress" width="140"><br><strong>Aberdeen Dress (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k4r4ly2r41k4r4k12w2/"><img src="/variants/s8/k4r4ly2r41k4r4k12w2~x2/sett.png" alt="Aberdeen F. C." width="140"><br><strong>Aberdeen F. C. (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lo5db1r2db4r36db22w4y2/"><img src="/variants/s8/lo5db1r2db4r36db22w4y2~x2/sett.png" alt="Aberdeen F.C." width="140"><br><strong>Aberdeen F.C. (1)</strong></a></li>
+<li><a class="tartan" href="/setts/dg5k1r2k4r36k23w4y2/"><img src="/variants/s8/dg5k1r2k4r36k23w4y2~x2/sett.png" alt="Aberdeen F.C." width="140"><br><strong>Aberdeen F.C. (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w2k1dr28k3r28k1w2/"><img src="/variants/s7/w2k1dr28k3r28k1w2~x2/sett.png" alt="Aberdeen Football Club" width="140"><br><strong>Aberdeen Football Club (1)</strong></a></li>
+<li><a class="tartan" href="/setts/k4r4y2r41k4r4k12w2/"><img src="/variants/s8/k4r4y2r41k4r4k12w2~x2/sett.png" alt="Aberdeen Football Club" width="140"><br><strong>Aberdeen Football Club (1)</strong></a></li>
+<li><a class="tartan" href="/setts/o5k1r2k4r36k23w4y2/"><img src="/variants/s8/o5k1r2k4r36k23w4y2~x2/sett.png" alt="Aberdeen Football Club" width="140"><br><strong>Aberdeen Football Club (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/aberdeen-forever/"><img src="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/sett.png" alt="Aberdeen Forever" width="140"><br><strong>Aberdeen Forever (2)</strong></a></li>
+<li><a class="tartan" href="/setts/db58n3g16dr3ly2g7db29dr3n2/"><img src="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/sett.png" alt="Aberdeen Mither Kirk" width="140"><br><strong>Aberdeen Mither Kirk (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/aberdeen-university/"><img src="/variants/s5/dy4r27k12db15dy4~x2/sett.png" alt="Aberdeen University" width="140"><br><strong>Aberdeen University (2)</strong></a></li>
+<li><a class="tartan" href="/setts/dg8ly3k60dg3k3dg3k3dg4/"><img src="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/sett.png" alt="Aberdeen-Angus Cattle Society" width="140"><br><strong>Aberdeen-Angus Cattle Society (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/aberdeenshire-home-colours/"><img src="/variants/s7/lb19lo12r4y8n4g6lg16~x2~g2203152-lg3105139/sett.png" alt="Aberdeenshire Home Colours" width="140"><br><strong>Aberdeenshire Home Colours (2)</strong></a></li>
+<li><a class="tartan" href="/setts/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2/"><img src="/variants/s14/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2~x2/sett.png" alt="Aberfeldy" width="140"><br><strong>Aberfeldy (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><img src="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/sett.png" alt="Abergavenny" width="140"><br><strong>Abergavenny (1)</strong></a></li>
+<li><a class="tartan" href="/setts/w23k4w4k4w4k22o23ly5/"><img src="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/sett.png" alt="Aberlour" width="140"><br><strong>Aberlour (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/aberlour-bicentenary/"><img src="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/sett.png" alt="Aberlour Bicentenary" width="140"><br><strong>Aberlour Bicentenary (2)</strong></a></li>
+<li><a class="tartan" href="/setts/y1db14r28dg14r1g14y1/"><img src="/variants/s7/y1db14r28dg14r1g14y1~x2/sett.png" alt="Abernethy" width="140"><br><strong>Abernethy (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lo1db14r28g14r1g14lo1/"><img src="/variants/s7/lo1db14r28g14r1g14lo1~x2/sett.png" alt="Abernethy" width="140"><br><strong>Abernethy (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r5db15g3db15y3db3/"><img src="/variants/s6/r5db15g3db15y3db3~x2/sett.png" alt="Abertay University" width="140"><br><strong>Abertay University (1)</strong></a></li>
+<li><a class="tartan" href="/setts/o8k2dy10dp30dy30g55k4lo6/"><img src="/variants/s8/o8k2dy10dp30dy30g55k4lo6/sett.png" alt="Aberuchill" width="140"><br><strong>Aberuchill (1)</strong></a></li>
+<li><a class="tartan" href="/setts/oi8k2g10dp30g30dg55k4o6/"><img src="/variants/s8/oi8k2g10dp30g30dg55k4o6~oi2404317-g1803114-dg1806142-o2206047/sett.png" alt="Aberuchill" width="140"><br><strong>Aberuchill (1)</strong></a></li>
+<li><a class="tartan" href="/setts/r2ly1r5k4g5w1/"><img src="/variants/s6/r2ly1r5k4g5w1~x4/sett.png" alt="Aboyne" width="140"><br><strong>Aboyne (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4/"><img src="/variants/s13/lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4~x2/sett.png" alt="Aboyne" width="140"><br><strong>Aboyne (1)</strong></a></li>
+<li><a class="tartan" href="/setts/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4/"><img src="/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/sett.png" alt="Aboyne I" width="140"><br><strong>Aboyne I (1)</strong></a></li>
+</ul>

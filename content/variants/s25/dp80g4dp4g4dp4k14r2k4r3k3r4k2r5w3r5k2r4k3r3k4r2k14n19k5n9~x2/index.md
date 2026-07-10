@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Arran"
-  url: "/tartans/arran/"
+  url: "/tartans/arran-3/"
 - name: "Arran"
   url: "/setts/dp80g4dp4g4dp4k14r2k4r3k3r4k2r5w3r5k2r4k3r3k4r2k14n19k5n9/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp80g4dp4g4dp4k14r2k4r3k3r4k2r5w3r5k2r4k3r3k4r2k14n19k5n9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKRKRKRKRWRKRKRKRKBKB](/stripes/bgbgbkrkrkrkrwrkrkrkrkbkb/).
 
-Part of the [Arran](/tartans/arran/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Arran](/tartans/arran-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 

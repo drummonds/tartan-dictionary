@@ -6,7 +6,7 @@ This is the **Dunedin (USA)** sett — one scale-free proportion (`k3r3g21r8ri3r
 [KRGRRRKWW](/stripes/krgrrrkww/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Dunedin](/tartans/dunedin/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunedin](/tartans/dunedin-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

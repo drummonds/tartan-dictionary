@@ -6,7 +6,7 @@ This is the **O'Neill, Red** sett — one scale-free proportion (`g46o20g9o20g46
 [GRGRGY](/stripes/grgrgy/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [O'Neill](/tartans/o-neill/) tartan — the named design grouping this sett with its kin.
+Part of the [O'Neill](/tartans/o-neill-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

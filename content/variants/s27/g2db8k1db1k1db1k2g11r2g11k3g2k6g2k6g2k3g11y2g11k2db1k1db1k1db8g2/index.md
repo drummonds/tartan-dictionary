@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Stewart"
   url: "/clan/stewart/"
 - name: "Stewart Hunting"
-  url: "/tartans/stewart-hunting/"
+  url: "/tartans/stewart-hunting-2/"
 - name: "Stewart Hunting"
   url: "/setts/g2db8k1db1k1db1k2g11r2g11k3g2k6g2k6g2k3g11y2g11k2db1k1db1k1db8g2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2db8k1db1k1db1k2g11r2g11k3g2k6g2k6g2k3g11y2g11k2db1k1db1k1db8g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBKGGGKGKGKGKGRGKBKBKBG](/stripes/gbkbkbkgggkgkgkgkgrgkbkbkbg/).
 
-Part of the [Stewart Hunting](/tartans/stewart-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart Hunting](/tartans/stewart-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKellar Dress"
-  url: "/tartans/mackellar-dress-2/"
+  url: "/tartans/mackellar-dress-4/"
 - name: "MacKellar Dress Red Fashion Tartan"
   url: "/setts/r23w2r3b4r3w2r5k11ri2w23k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r23w2r3b4r3w2r5k11ri2w23k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRKRWRBRWR](/stripes/kwrkrwrbrwr/).
 
-Part of the [MacKellar Dress](/tartans/mackellar-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKellar Dress](/tartans/mackellar-dress-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

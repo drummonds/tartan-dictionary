@@ -6,7 +6,7 @@ This is the **Valley of the Green (The ) Canadian Tartan** sett — one scale-fr
 [WGGWGGW](/stripes/wggwggw/). It is recorded as a single **variant**, below.
 First attested **1968**.
 
-Part of the [Valley of the](/tartans/valley-of-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Valley of the](/tartans/valley-of-the-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Gray (Name)** sett — one scale-free proportion (`r3n33g10r3g3r3g
 [RBGRGRGRBR](/stripes/rbgrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Gray](/tartans/gray/) tartan — the named design grouping this sett with its kin.
+Part of the [Gray](/tartans/gray-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wells"
-  url: "/tartans/wells/"
+  url: "/tartans/wells-3/"
 - name: "Wells (2014)"
   url: "/setts/db50g25ly3lb8r1w1r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db50g25ly3lb8r1w1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYWRWR](/stripes/bgywrwr/).
 
-Part of the [Wells](/tartans/wells/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wells](/tartans/wells-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

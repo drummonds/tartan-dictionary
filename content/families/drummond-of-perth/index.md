@@ -33,5 +33,5 @@ A family of [Clan Drummond](/clan/drummond/).
 </tbody>
 </table>
 
-[See the Drummond of Perth tartan and all its setts →](/tartans/drummond-of-perth/)
+[See the Drummond of Perth tartan and all its setts →](/tartans/drummond-of-perth-2/)
 

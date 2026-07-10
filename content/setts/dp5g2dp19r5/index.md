@@ -6,7 +6,7 @@ This is the **Highland Spring Corporate Tartan** sett — one scale-free proport
 [BGBR](/stripes/bgbr/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [Highland Spring](/tartans/highland-spring/) tartan — the named design grouping this sett with its kin.
+Part of the [Highland Spring](/tartans/highland-spring-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

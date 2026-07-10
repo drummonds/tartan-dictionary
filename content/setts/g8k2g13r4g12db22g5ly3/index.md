@@ -6,7 +6,7 @@ This is the **Taylor** sett — one scale-free proportion (`g8k2g13r4g12db22g5ly
 [GKGRGBGY](/stripes/gkgrgbgy/). It is recorded as a single **variant**, below.
 First attested **1955**.
 
-Part of the [Taylor](/tartans/taylor/) tartan — the named design grouping this sett with its kin.
+Part of the [Taylor](/tartans/taylor-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

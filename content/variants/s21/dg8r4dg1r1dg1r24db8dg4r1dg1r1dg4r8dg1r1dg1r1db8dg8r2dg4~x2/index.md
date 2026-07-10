@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Matheson"
-  url: "/tartans/matheson/"
+  url: "/tartans/matheson-3/"
 - name: "Matheson Clan Tartan"
   url: "/setts/dg8r4dg1r1dg1r24db8dg4r1dg1r1dg4r8dg1r1dg1r1db8dg8r2dg4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg8r4dg1r1dg1r24db8dg4r1dg1r1dg4r8dg1r1dg1r1db8dg8r2dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBRGRGRGRGRGBRGRGRG](/stripes/grgbrgrgrgrgrgbrgrgrg/).
 
-Part of the [Matheson](/tartans/matheson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Matheson](/tartans/matheson-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 

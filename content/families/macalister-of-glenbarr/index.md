@@ -30,5 +30,5 @@ A family of [Clan MacAlister](/clan/macalister/).
 </tbody>
 </table>
 
-[See the MacAlister of Glenbarr tartan and all its setts →](/tartans/macalister-of-glenbarr/)
+[See the MacAlister of Glenbarr tartan and all its setts →](/tartans/macalister-of-glenbarr-2/)
 

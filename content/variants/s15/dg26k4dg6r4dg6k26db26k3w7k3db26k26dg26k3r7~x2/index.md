@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacRae"
   url: "/clan/macrae/"
 - name: "MacRae Hunting"
-  url: "/tartans/macrae-hunting/"
+  url: "/tartans/macrae-hunting-2/"
 - name: "MacRae Htg - 1820 (Wilsons)"
   url: "/setts/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRGKBKWKBKGKR](/stripes/gkgrgkbkwkbkgkr/).
 
-Part of the [MacRae Hunting](/tartans/macrae-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacRae Hunting](/tartans/macrae-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

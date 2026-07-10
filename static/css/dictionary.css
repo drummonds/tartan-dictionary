@@ -383,6 +383,51 @@ body.container a {
   background: #1a4f8b14;
 }
 
+/* Third level: a dropdown child that itself has children (e.g. Colour → its palettes)
+   opens a flyout submenu to the side, so you can navigate straight to one. */
+.nav-subdropdown {
+  position: relative;
+}
+.nav-subdropdown > a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .6rem;
+}
+.nav-submenu {
+  position: absolute;
+  top: -.25rem;            /* line the flyout's top up with the parent item */
+  left: 100%;              /* open to the right of the parent menu */
+  z-index: 101;
+  min-width: 10rem;
+  margin: 0;
+  padding: .25rem 0;
+  list-style: none;
+  background: #ffffff;
+  border: 1px solid #0002;
+  border-radius: .4rem;
+  box-shadow: 0 4px 16px #0002;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .12s ease;
+}
+.nav-subdropdown:focus-within > .nav-submenu {
+  opacity: 1;
+  visibility: visible;
+}
+@media (hover: hover) {
+  .nav-subdropdown:hover > .nav-submenu {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+/* In the right-hand (Info) dropdown the parent menu is flush right, so the flyout opens
+   to the LEFT to stay on-screen. */
+.nav-dropdown--right .nav-submenu {
+  left: auto;
+  right: 100%;
+}
+
 /* ------- mobile hamburger -------
    Hidden on desktop; the @media block below shows it and collapses the nav into a
    stacked panel that drops below the brand row. nav.js toggles `.nav-open` on <nav>. */
@@ -463,6 +508,17 @@ body.container a {
   }
   .nav-dropdown.open .nav-dropdown-menu { display: block; }
   .nav-dropdown--right .nav-dropdown-menu { right: auto; }
+  /* Third level stacks inline and indented when its parent dropdown is open — no flyout. */
+  .nav-submenu {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    box-shadow: none;
+    border: none;
+    padding: .1rem 0 .1rem 1rem;
+    min-width: 0;
+  }
+  .nav-dropdown--right .nav-submenu { right: auto; left: auto; }
 }
 
 /* ------- holding / "coming soon" pages -------
@@ -849,4 +905,51 @@ span[id^="s-"]:target code {
   background: #fff3bf;
   outline: 2px solid #f0c000;
   border-radius: 3px;
+}
+
+/* Colour-dictionary index (/colour/named/): a wrapping grid of colour cards — a swatch over its
+   name and code. Ordered by the light-gradient rule in the generator. Replaces the old bare inline
+   links, which wrapped raggedly with no alignment. */
+.cdict-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+  margin: 0.9rem 0 1.4rem;
+}
+.cdict {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 5rem;
+  font-size: 0.72rem;
+  line-height: 1.25;
+  text-decoration: none;
+  color: inherit;
+}
+.cdict:hover {
+  color: inherit;
+}
+.cdict-sw {
+  display: block;
+  width: 3.2rem;
+  height: 3.2rem;
+  border: 1px solid #0003;
+  border-radius: 4px;
+  transition: outline 0.1s;
+}
+.cdict:hover .cdict-sw,
+.cdict:focus-visible .cdict-sw {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+.cdict-name {
+  display: block;
+  margin-top: 0.3rem;
+  text-align: center;
+}
+.cdict-code {
+  display: block;
+  font-family: monospace;
+  opacity: 0.55;
 }

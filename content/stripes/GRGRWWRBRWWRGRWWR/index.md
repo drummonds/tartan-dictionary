@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/">MacDonald of Lochmaddy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/"><img src="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/sett.png" alt="MacDonald of Lochmaddy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s17/r13w1lb2r2g14r2w1lb2r2db4r2lb2w1r16g1r2g3~x2/">MacDonald of Lochmaddy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s17/r13w1lb2r2g14r2w1lb2r2db4r2lb2w1r16g1r2g3~x2/"><img src="/variants/s17/r13w1lb2r2g14r2w1lb2r2db4r2lb2w1r16g1r2g3~x2/sett.png" alt="MacDonald of Lochmaddy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/">MacDonald of Lochmaddy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/"><img src="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/sett.png" alt="MacDonald of Lochmaddy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

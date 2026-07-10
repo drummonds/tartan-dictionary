@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/">Pollard (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/"><img src="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/sett.png" alt="Pollard (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/">Pollard (2014)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/"><img src="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/sett.png" alt="Pollard (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/">Pollard (2014)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/"><img src="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/sett.png" alt="Pollard (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db9w4dg36lb36r4~x2/">Alvis of Lee (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db9w4dg36lb36r4~x2/"><img src="/variants/s5/db9w4dg36lb36r4~x2/sett.png" alt="Alvis of Lee (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/db9w4g36lb36r4/">Alvis of Lee (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/db9w4g36lb36r4/"><img src="/variants/s5/db9w4g36lb36r4/sett.png" alt="Alvis of Lee (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db9w4dg36lb36r4~x2/">Alvis of Lee (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db9w4dg36lb36r4~x2/"><img src="/variants/s5/db9w4dg36lb36r4~x2/sett.png" alt="Alvis of Lee (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s5/dp1lb1g1w1r1~x16/">Daughter of Mull</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/dp1lb1g1w1r1~x16/"><img src="/variants/s5/dp1lb1g1w1r1~x16/sett.png" alt="Daughter of Mull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

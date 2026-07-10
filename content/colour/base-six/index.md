@@ -16,11 +16,13 @@ And plotted over the fine grid in three illuminance layers — light, mid and da
 
 ## The shades
 
-| Shade | Code | Name | Family | Ref | sRGB | OKLab L | a | b |
+Each shade in OKLCh — lightness **L**, chroma **C** and hue **h** (degrees). The small number under each is that axis's fine-grid index: the lattice level, chroma ring and snapped hue angle that together make the shade's grid code.
+
+| Shade | Code | Name | Family | Ref | sRGB | L | C | h |
 |---|---|---|---|---|---|---|---|---|
-| <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | <span id="s-f7f7f7"><code>W</code></span> | White | White · Grey · Black | 39-00 | `#F7F7F7` | 0.976 | +0.000 | +0.000 |
-| <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | <span id="s-000000"><code>K</code></span> | Black | White · Grey · Black | 00-00 | `#000000` | 0.000 | +0.000 | +0.000 |
-| <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | <span id="s-cc0000"><code>R</code></span> | Red | Red | 21-09-05 | `#CC0000` | 0.531 | +0.190 | +0.106 |
-| <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | <span id="s-f2bf00"><code>Y</code></span> | Yellow | Yellow | 33-07-11 | `#F2BF00` | 0.827 | +0.002 | +0.169 |
-| <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | <span id="s-006100"><code>G</code></span> | Green | Green | 17-06-15 | `#006100` | 0.427 | -0.115 | +0.088 |
-| <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | <span id="s-2a418a"><code>B</code></span> | Blue | Blue | 16-05-23 | `#2A418A` | 0.400 | -0.006 | -0.125 |
+| <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | <span id="s-f7f7f7"><code>W</code></span> | White | White · Grey · Black | 39-00 | `#F7F7F7` | 0.976 <sub>39</sub> | 0.000 <sub>0</sub> | — |
+| <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | <span id="s-000000"><code>K</code></span> | Black | White · Grey · Black | 00-00 | `#000000` | 0.000 <sub>0</sub> | 0.000 <sub>0</sub> | — |
+| <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | <span id="s-cc0000"><code>R</code></span> | Red | Red | 21-09-05 | `#CC0000` | 0.531 <sub>21</sub> | 0.218 <sub>9</sub> | 29° <sub>032</sub> |
+| <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | <span id="s-f2bf00"><code>Y</code></span> | Yellow | Yellow | 33-07-11 | `#F2BF00` | 0.827 <sub>33</sub> | 0.169 <sub>7</sub> | 89° <sub>090</sub> |
+| <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | <span id="s-006100"><code>G</code></span> | Green | Green | 17-06-15 | `#006100` | 0.427 <sub>17</sub> | 0.145 <sub>6</sub> | 142° <sub>142</sub> |
+| <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | <span id="s-2a418a"><code>B</code></span> | Blue | Blue | 16-05-23 | `#2A418A` | 0.400 <sub>16</sub> | 0.125 <sub>5</sub> | 267° <sub>267</sub> |

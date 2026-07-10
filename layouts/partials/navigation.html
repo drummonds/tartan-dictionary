@@ -31,7 +31,18 @@
         <span class="nav-dropdown-label" tabindex="0">{{ .Name }} <span class="nav-dropdown-caret">▾</span></span>
         <ul class="nav-dropdown-menu">
           {{ range .Children }}
+          {{ if .HasChildren }}
+          <li class="nav-subdropdown">
+            <a href="{{ .URL }}">{{ .Name }} <span class="nav-dropdown-caret">▸</span></a>
+            <ul class="nav-submenu">
+              {{ range .Children }}
+              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ else }}
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
           {{ end }}
         </ul>
       </span>
@@ -47,7 +58,18 @@
         <span class="nav-dropdown-label" tabindex="0">{{ .Name }} <span class="nav-dropdown-caret">▾</span></span>
         <ul class="nav-dropdown-menu">
           {{ range .Children }}
+          {{ if .HasChildren }}
+          <li class="nav-subdropdown">
+            <a href="{{ .URL }}">{{ .Name }} <span class="nav-dropdown-caret">▸</span></a>
+            <ul class="nav-submenu">
+              {{ range .Children }}
+              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ else }}
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
           {{ end }}
         </ul>
       </span>

@@ -132,8 +132,61 @@ weight = 1
   [[menu.info]]
   parent = "info"
   name = "Colour"
+  identifier = "colour"
   url = "/colour/"
   weight = 1
+    # Third-level flyout: navigate straight to any one colour palette. The reference
+    # palettes first, then the per-source / per-supplier palettes.
+    [[menu.info]]
+    parent = "colour"
+    name = "Base six"
+    url = "/colour/base-six/"
+    weight = 1
+    [[menu.info]]
+    parent = "colour"
+    name = "Human palette"
+    url = "/colour/human-palette/"
+    weight = 2
+    [[menu.info]]
+    parent = "colour"
+    name = "Human (extended)"
+    url = "/colour/human-extended/"
+    weight = 3
+    [[menu.info]]
+    parent = "colour"
+    name = "OKLab grid"
+    url = "/colour/oklab-grid/"
+    weight = 4
+    [[menu.info]]
+    parent = "colour"
+    name = "Colour dictionary"
+    url = "/colour/named/"
+    weight = 5
+    [[menu.info]]
+    parent = "colour"
+    name = "Tartan Dictionary"
+    url = "/colour/tartan-dictionary/"
+    weight = 6
+    [[menu.info]]
+    parent = "colour"
+    name = "Tartan Register"
+    url = "/colour/tartan-register/"
+    weight = 7
+    [[menu.info]]
+    parent = "colour"
+    name = "Logan (1831)"
+    url = "/colour/logan-1831/"
+    weight = 8
+    [[menu.info]]
+    parent = "colour"
+    name = "Ingles Buchan"
+    url = "/colour/ingles-buchan/"
+    weight = 9
+    [[menu.info]]
+    parent = "colour"
+    name = "Lochcarron"
+    url = "/colour/lochcarron/"
+    weight = 10
   # Placeholder sections — "coming soon" holding pages (layout: holding) until the real
   # Sources / Designers / Suppliers content is built. See content/{sources,designers,suppliers}/.
   [[menu.info]]

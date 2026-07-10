@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/">MacGillivray</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><img src="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/">MacGillivray</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><img src="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/">MacGillivray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><img src="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s13/r6lb1dt1r57lb2r2dt23r4g30r6lb1r6dt2~x2/">MacGillivray</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/r6lb1dt1r57lb2r2dt23r4g30r6lb1r6dt2~x2/"><img src="/variants/s13/r6lb1dt1r57lb2r2dt23r4g30r6lb1r6dt2~x2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/">Auld Reekie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/"><img src="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/sett.png" alt="Auld Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db4r3db3r22dg8r2~x2/">Auld Reekie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db4r3db3r22dg8r2~x2/"><img src="/variants/s6/db4r3db3r22dg8r2~x2/sett.png" alt="Auld Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/">Auld Reekie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/"><img src="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/sett.png" alt="Auld Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/db48r18db6r13y4r14~x2/">Butler</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db48r18db6r13y4r14~x2/"><img src="/variants/s6/db48r18db6r13y4r14~x2/sett.png" alt="Butler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

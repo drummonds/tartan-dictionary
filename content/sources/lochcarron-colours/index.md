@@ -12,7 +12,7 @@ Lochcarron of Scotland's mill shade card — yarn references, colour names and r
 | **Code** | `lochcarron-colours` |
 | **Status** | scaffold — schema defined, data not yet captured |
 | **Kind** | colour / shade definitions |
-| **Records** | 1 |
+| **Records** | 15 |
 | **Source** | [https://www.lochcarron.co.uk/](https://www.lochcarron.co.uk/) |
 | **Attribution** | Colour definitions: Lochcarron of Scotland |
 | **Licence** | TBD — confirm with Lochcarron before capture |

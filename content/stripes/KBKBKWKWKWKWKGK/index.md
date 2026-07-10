@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/">Fair Trade</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><img src="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png" alt="Fair Trade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/">Fair Trade</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/"><img src="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png" alt="Fair Trade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/">Fair Trade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><img src="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png" alt="Fair Trade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

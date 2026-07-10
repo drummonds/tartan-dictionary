@@ -22,5 +22,5 @@ When the same cloth is recorded by more than one source, the records **collapse*
 | [Ingles Buchan](/sources/inglesbuchan/) | cloth photographs | 519 | pending |
 | [Paintings](/sources/paintings/) | cloth photographs | 1 | pending |
 | [Scottish Register of Tartans (site mirror)](/sources/registry/) | cloth photographs | 9505 | pending |
-| [Lochcarron shade card](/sources/lochcarron-colours/) | colour / shade definitions | 1 | scaffold |
+| [Lochcarron shade card](/sources/lochcarron-colours/) | colour / shade definitions | 15 | scaffold |
 | [Wikipedia](/sources/wikipedia/) | descriptive text | 1 | scaffold |

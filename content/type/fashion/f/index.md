@@ -6,8 +6,8 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s10/o42y11o5y4dg29dgi19g24dpi2dp8dpii23~x2~y2303114-dg1204144-dgi1303152-g1903114-dpi1508310-dp1507327-dpii1607327/"><img src="/variants/s10/o42y11o5y4dg29dgi19g24dpi2dp8dpii23~x2~y2303114-dg1204144-dgi1303152-g1903114-dpi1508310-dp1507327-dpii1607327/sett.png" alt="Fabric of Scotland (Prickly Thistle), The" width="140"><br>Fabric of Scotland (Prickly Thistle), The</a></li>
-<li><a class="tartan" href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><img src="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png" alt="Fair Trade" width="140"><br>Fair Trade</a></li>
 <li><a class="tartan" href="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/"><img src="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png" alt="Fair Trade" width="140"><br>Fair Trade</a></li>
+<li><a class="tartan" href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><img src="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png" alt="Fair Trade" width="140"><br>Fair Trade</a></li>
 <li><a class="tartan" href="/variants/s6/ly3w17ly11w2ly11w2~x4/"><img src="/variants/s6/ly3w17ly11w2ly11w2~x4/sett.png" alt="Fallow Deer (Fashion)" width="140"><br>Fallow Deer (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s6/o3w17o11w2o11w2~x4/"><img src="/variants/s6/o3w17o11w2o11w2~x4/sett.png" alt="Fallow Deer, The" width="140"><br>Fallow Deer, The</a></li>
 <li><a class="tartan" href="/variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/"><img src="/variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/sett.png" alt="Father's Pride, The" width="140"><br>Father's Pride, The</a></li>

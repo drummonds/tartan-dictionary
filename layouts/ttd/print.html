@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{/* The print & export page (#175): a clean app shell weaver.js boots in print mode. It reads
+     the same fragment grammar as the editor (#slug=…&base=…&name=…&pal=…) and renders the
+     sample sheet IN the page as its own preview — paper size, browser print, PDF download,
+     postcard and full-page weave all live here. Variant pages and the editor link in with
+     plain HTML, so reading never loads the engine. */}}
+<article class="post" id="weaver-app" data-weaver="print">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    <p>Printing needs JavaScript — the sheet is woven in your browser at print resolution.
+       Without it, every variant page still shows its cloth, thread count and palette.</p>
+  </div>
+</article>
+<style>
+  /* The sheet doubles as its own on-screen preview; frame it like the paper it becomes. */
+  [data-weaver="print"] #weaver-print-sheet {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 1.2em 1.6em;
+    background: #fff;
+  }
+</style>
+<script src="{{ "js/weaver.js" | relURL }}" defer></script>
+{{ end }}

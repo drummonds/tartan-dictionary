@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
+<tr><td><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/">MacDonell of Keppoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><img src="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/">MacDonell of Keppoch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><img src="/variants/s10/g2r2db1r24w1db6r3g12r4db1/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/g2r2db1r24lb1db6r3g12r4db1/">MacDonell of Keppoch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/g2r2db1r24lb1db6r3g12r4db1/"><img src="/variants/s10/g2r2db1r24lb1db6r3g12r4db1/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/">MacDonell of Keppoch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><img src="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/">MacKillop Clan Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/"><img src="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/sett.png" alt="MacKillop Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

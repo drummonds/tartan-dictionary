@@ -1,15 +1,18 @@
-/* The in-browser weaver behind the TTD (Total Tartan Dictionary) editor at /ttd/edit/, plus two
- * smaller jobs. The editor page boots the Go WASM tartan engine and is where tartans are woven
- * from scratch, varied shade by shade, and explored through their ΔTartan nearest neighbours —
- * arriving with #slug=<slug> opens that variant for editing (/ttd/ itself is the prose landing
- * page; it forwards any old #slug= address here). On the 404 app-shell, a stale variant URL
- * first heals to its canonical form and redirects there when that page exists (the client-side
- * replacement for build-time alias stubs — the site is alpha, URLs move); any /variants/ URL
- * with no static page is woven read-only — the slug alone encodes the whole cloth — and the
- * old .../edit/ and /setts/new/ addresses forward to the TTD editor. On static variant pages
- * the script only hydrates the print controls; the pages must read exactly as they do without it.
+/* The in-browser weaver behind the TTD (Total Tartan Dictionary) editor at /ttd/edit/ and the
+ * print & export page at /ttd/print/, plus two smaller jobs. The editor page boots the Go WASM
+ * tartan engine and is where tartans are woven from scratch, varied shade by shade, and explored
+ * through their ΔTartan nearest neighbours — arriving with #slug=<slug> opens that variant for
+ * editing (/ttd/ itself is the prose landing page; it forwards any old #slug= address here).
+ * The print page (#175) receives the same fragment grammar (#slug=…&base=…&name=…&pal=…) and
+ * renders the sample sheet in-page as its own preview — paper size, browser print, PDF, postcard
+ * and full-page weave all live there; variant pages and the editor link to it with plain HTML,
+ * so reading never pays for the engine. On the 404 app-shell, a stale variant URL first heals to
+ * its canonical form and redirects there when that page exists (the client-side replacement for
+ * build-time alias stubs — the site is alpha, URLs move); any /variants/ URL with no static page
+ * is woven read-only — the slug alone encodes the whole cloth — and the old .../edit/ and
+ * /setts/new/ addresses forward to the TTD editor.
  * Posts carrying a {{< collection_poster >}} shortcode get "Print collection poster: A4 A3 A2"
- * controls the same way — the poster is woven at print resolution on first click.
+ * hydrated controls — the poster is woven at print resolution on first click.
  * Plain JS, no framework. */
 (function () {
   'use strict';
@@ -26,9 +29,10 @@
    * measure; px sizes the woven render so the printed cloth stays comfortably crisp. Assigned
    * before init() can run — the deferred script calls it synchronously. */
   var PAPER = {
-    A4: { page: 'A4', px: 1400 },
-    A3: { page: 'A3', px: 2000 },
-    A2: { page: '420mm 594mm', px: 2800 }
+    A4: { page: 'A4', px: 1400, cm: 21 },
+    A3: { page: 'A3', px: 2000, cm: 29.7 },
+    A2: { page: '420mm 594mm', px: 2800, cm: 42 },
+    'SC-P5000': { page: '432mm 297mm', px: 2900, cm: 43.2 } // the printer's 17″ roll width, landscape
   };
 
   document.addEventListener('DOMContentLoaded', init);
@@ -47,6 +51,11 @@
         bootTTD(shell);
         shell.scrollIntoView();
       });
+      return;
+    }
+    if (shell && shell.dataset.weaver === 'print') {
+      bootPrint(shell);
+      window.addEventListener('hashchange', function () { bootPrint(shell); });
       return;
     }
     if (shell && shell.dataset.weaver === 'shell') {
@@ -75,28 +84,9 @@
       return;
     }
     hydrateCollections();
-    hydrateStatic();
-  }
-
-  /* On a static variant page, add the print controls (and honour the ?weaverprint= dev hook).
-   * Editing and neighbour exploration live in the TTD — the page's "Edit this in the TTD" link
-   * is plain HTML in the layout, so reading never pays for the engine. */
-  function hydrateStatic() {
-    var header = document.querySelector('.post-header h1');
-    var text = document.querySelector('.post-text');
-    var m = /^\/variants\/s\d+\/([0-9a-z~-]+)\/$/.exec(location.pathname);
-    var edit = document.querySelector('a.weaver-edit');
-    var em = edit && /[#&]slug=([0-9a-z~-]+)/.exec(edit.getAttribute('href') || '');
-    var slug = (em && em[1]) || (m && m[1]);
-    if (!slug || !text) return;
-
-    if (!document.getElementById('weaver-print-controls')) {
-      text.parentNode.insertBefore(
-        printControls(slug, header ? header.textContent : document.title), text);
-    }
-
-    var pm = /[?&]weaverprint=(A[234])/.exec(location.search);
-    if (pm && PAPER[pm[1]]) printSample(slug, pm[1], header ? header.textContent : document.title, true);
+    // Static variant pages need no hydration at all any more: their "Edit this in the TTD" and
+    // "Print / export" links are plain HTML in the layout (#175), so reading never pays for the
+    // engine and the pages read exactly as they do without this script.
   }
 
   function status(shell, msg) {
@@ -150,17 +140,10 @@
     return URL.createObjectURL(new Blob([bytes], { type: 'image/png' }));
   }
 
-  /* Weave the whole sett tessellated across a page-sized image (at the cloth's real density), open it
-   * in a new tab, and offer it for download. Popup-blocked? fall back to a direct download. */
-  function weaveFullPage(info) {
-    var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
-    var png = window.weaver.renderWoven(info.slug, 1400, tpcm, 1800, overlayArg());
-    if (!png || png.error) {
-      statLine('full-page weave failed: ' + ((png && png.error) || 'unknown'));
-      return;
-    }
+  /* Open a woven PNG in a new tab with a download link; popup-blocked? fall back to a direct
+   * download. Shared by the full-page, postcard and arbitrary-image weaves. */
+  function offerPNG(png, file) {
     var url = pngURL(png);
-    var file = ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'tartan') + '.png';
     var win = window.open('', '_blank');
     if (win) {
       win.document.write('<!doctype html><meta charset="utf-8"><title>' + esc(file) + '</title>' +
@@ -175,6 +158,22 @@
       a.download = file;
       a.click();
     }
+  }
+
+  function pngName(info, suffix) {
+    return ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'tartan') + suffix + '.png';
+  }
+
+  /* Weave the whole sett tessellated across a page-sized image (at the cloth's real density), open it
+   * in a new tab, and offer it for download. */
+  function weaveFullPage(info) {
+    var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
+    var png = window.weaver.renderWoven(info.slug, 1400, tpcm, 1800, overlayArg());
+    if (!png || png.error) {
+      statLine('full-page weave failed: ' + ((png && png.error) || 'unknown'));
+      return;
+    }
+    offerPNG(png, pngName(info, ''));
   }
 
   /* Render a print-ready 4×6" postcard (1800×1200 @300dpi, woven full-bleed with a QR back to the
@@ -186,22 +185,24 @@
       statLine('postcard failed: ' + ((png && png.error) || 'unknown'));
       return;
     }
-    var url = pngURL(png);
-    var file = ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'tartan') + '-postcard.png';
-    var win = window.open('', '_blank');
-    if (win) {
-      win.document.write('<!doctype html><meta charset="utf-8"><title>' + esc(file) + '</title>' +
-        '<body style="margin:0;background:#222;text-align:center;font:14px system-ui">' +
-        '<p style="margin:.5em"><a href="' + url + '" download="' + esc(file) + '" style="color:#9cf">⤓ Download ' + esc(file) + '</a></p>' +
-        '<img src="' + url + '" style="max-width:100%;height:auto">' +
-        '</body>');
-      win.document.close();
-    } else {
-      var a = document.createElement('a');
-      a.href = url;
-      a.download = file;
-      a.click();
+    offerPNG(png, pngName(info, '-postcard'));
+  }
+
+  /* Weave an arbitrary image from the generator row: pixel size, cloth density (threads per cm or
+   * inch) and render resolution (ppi) are all the user's to choose. */
+  function weaveCustom(info) {
+    var w = Math.round(+document.getElementById('weaver-gen-w').value) || 1600;
+    var h = Math.round(+document.getElementById('weaver-gen-h').value) || 900;
+    var den = +document.getElementById('weaver-gen-density').value || 16;
+    var unit = document.getElementById('weaver-gen-unit').value;
+    var ppi = +document.getElementById('weaver-gen-ppi').value || 96;
+    var tpcm = unit === 'in' ? den / 2.54 : den;
+    var png = window.weaver.renderWoven(info.slug, w, tpcm, h, overlayArg(), ppi);
+    if (!png || png.error) {
+      statLine('image weave failed: ' + ((png && png.error) || 'unknown'));
+      return;
     }
+    offerPNG(png, pngName(info, '-' + w + 'x' + h));
   }
 
   function wireFullPage(shell, info) {
@@ -209,12 +210,14 @@
     if (btn) btn.addEventListener('click', function () { weaveFullPage(info); });
     var pc = document.getElementById('weaver-postcard');
     if (pc) pc.addEventListener('click', function () { weavePostcard(info); });
+    var gen = document.getElementById('weaver-gen-go');
+    if (gen) gen.addEventListener('click', function () { weaveCustom(info); });
   }
 
   /* Build the sample sheet as a PDF (rendered in pure Go via the wasm engine — name, woven sample,
    * thread count, palette) and download it directly, no server and no browser print dialog. */
-  function downloadSheet(info, paper) {
-    var res = window.weaver.sampleSheet(info.slug, paper || 'A4');
+  function downloadSheet(info, paper, scale) {
+    var res = window.weaver.sampleSheet(info.slug, paper || 'A4', scale || 'reduced');
     if (!res || res.error) {
       statLine('sample sheet failed: ' + ((res && res.error) || 'unknown'));
       return;
@@ -228,15 +231,6 @@
     a.click();
     document.body.removeChild(a);
     setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
-  }
-
-  function wirePdf(shell, info) {
-    var btn = document.getElementById('weaver-pdf');
-    if (!btn) return;
-    btn.addEventListener('click', function () {
-      var sel = document.getElementById('weaver-pdf-paper');
-      downloadSheet(info, sel ? sel.value : 'A4');
-    });
   }
 
   /* The TTD entry: #slug=<slug> opens that variant for editing; no fragment starts from a blank
@@ -367,11 +361,11 @@
     var nnEl = document.getElementById('weaver-nn');
     if (nnEl) renderExtras(nnEl, info.slug);
 
-    // Print + full-page controls (page-side: canvas / anchor / print dialog).
-    var slot = document.getElementById('weaver-print-slot');
-    if (slot) slot.replaceWith(printControls(info.slug, name));
-    wireFullPage(ed.shell, info);
-    wirePdf(ed.shell, info);
+    // Print & export moved to /ttd/print/ (#175); the page renders the link, and this refresh
+    // rebuilds its fragment from LIVE editor state at click time — a rename or fine jog since
+    // the last full render still travels (the address is the handover).
+    var pl = document.getElementById('weaver-print-link');
+    if (pl) pl.addEventListener('click', function () { pl.href = '/ttd/print/' + stateFragment(); });
 
     // Keep the address on the canonical cloth (replaceState ⇒ no hashchange, so no re-boot loop).
     if (ed.ttd) setTTDFragment(ed.slug, ed.base);
@@ -495,7 +489,10 @@
     // The rows already carry the exact colours (the overlay rendered them), so the rebuilt cloth keeps
     // them — carry its exact palette forward so a structural edit doesn't drop a fine shade.
     ed.palette = palMap(next);
-    gotoSlug(next.slug);
+    // fromInput rebuilt the address from scratch, so re-attach the working cloth's ~q card name —
+    // the engine slots it canonically, and drops it if the new cloth spells no palette entries.
+    var q = window.weaver.paletteName ? window.weaver.paletteName(ed.slug) : '';
+    gotoSlug(q ? window.weaver.withPaletteName(next.slug, q) : next.slug);
   }
 
   /* ---- Stage 1: pin a baseline, reset to it, diff against it (epic #36) ----
@@ -529,6 +526,129 @@
       '&pal=' + encodeURIComponent(JSON.stringify(ed.palette)) : '';
     history.replaceState(null, '', TTD_PATH + '#slug=' + slug +
       (base ? '&base=' + base : '') + (nm ? '&name=' + encodeURIComponent(nm) : '') + pal);
+  }
+
+  /* The whole cloth state as a fragment — what the editor and the print page hand each other. */
+  function stateFragment() {
+    var f = '#slug=' + ed.slug;
+    if (ed.base) f += '&base=' + ed.base;
+    if (ed.name) f += '&name=' + encodeURIComponent(ed.name);
+    var ov = overlayArg();
+    if (ov) f += '&pal=' + encodeURIComponent(ov);
+    return f;
+  }
+
+  /* ---- The /ttd/print/ page (#175): the sample sheet in-page as its own preview ---- */
+
+  function bootPrint(shell) {
+    var m = /[#&]slug=([0-9a-z~-]+)/.exec(location.hash);
+    if (!m) {
+      status(shell, 'No tartan given — open printing from a variant page or the TTD editor.');
+      return;
+    }
+    status(shell, 'Weaving the print sheet in your browser…');
+    loadEngine().then(function () {
+      ed.shell = shell; ed.ttd = false; ed.pick = '';
+      ed.slug = m[1]; ed.base = baseSlugFromHash() || '';
+      ed.palette = paletteFromHash(); ed.name = nameFromHash() || '';
+      renderPrint(shell);
+    }).catch(function (err) {
+      status(shell, 'The weaver could not start: ' + err);
+    });
+  }
+
+  /* The page HTML comes whole from the Go engine (printPage, like editorPage); this glue fills
+   * the sheet's two images at the chosen paper's print resolution and wires the controls. */
+  function renderPrint(shell) {
+    var html = window.weaver.printPage(ed.slug, ed.base, ed.name || '', overlayArg());
+    if (html && html.error) {
+      status(shell, 'This sett address could not be read: ' + html.error);
+      return;
+    }
+    shell.innerHTML = html;
+    var info = window.weaver.parseSlug(ed.slug);
+    if (info.error) { status(shell, 'This sett address could not be read: ' + info.error); return; }
+    info.name = ed.name || ((window.weaver.title(info.slug, '') || {}).text) || 'Tartan variant';
+    paintSheet(info);
+    var paper = document.getElementById('weaver-print-paper');
+    if (paper) paper.addEventListener('change', function () { paintSheet(info); });
+    var scale = document.getElementById('weaver-print-scale');
+    if (scale) scale.addEventListener('change', function () { paintSheet(info); });
+    var go = document.getElementById('weaver-print-go');
+    if (go) go.addEventListener('click', function () { printSheet(info); });
+    var pdf = document.getElementById('weaver-pdf');
+    if (pdf) pdf.addEventListener('click', function () { downloadSheet(info, paperSize(), printScale()); });
+    wireFullPage(shell, info); // the postcard + full-page buttons share the editor's wiring
+    stampBuild(window.weaver);
+    statLine('engine ' + Math.round(performance.now() - t0) + ' ms');
+  }
+
+  function paperSize() {
+    var sel = document.getElementById('weaver-print-paper');
+    return (sel && PAPER[sel.value]) ? sel.value : 'A4';
+  }
+
+  function printScale() {
+    var sel = document.getElementById('weaver-print-scale');
+    return (sel && sel.value === 'actual') ? 'actual' : 'reduced';
+  }
+
+  /* Fill the sheet's images: the sett strip once, the woven sample at the paper's print px.
+   * Actual size weaves at 300 dpi and pins the img's CSS width in centimetres, so the browser
+   * print comes out 1:1 with the cloth; reduced keeps the legacy fit-the-paper swatch. */
+  function paintSheet(info) {
+    var settImg = document.getElementById('weaver-print-sett');
+    var wovenImg = document.getElementById('weaver-print-tartan');
+    if (!settImg || !wovenImg) return null;
+    var settPNG = window.weaver.renderSett(info.slug, 2000, 120, overlayArg());
+    var wovenPNG;
+    if (printScale() === 'actual') {
+      var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
+      var cm = PAPER[paperSize()].cm - 3; // the printable width, inside typical page margins
+      wovenPNG = window.weaver.renderWoven(info.slug, Math.round(cm * 300 / 2.54), tpcm, 0, overlayArg(), 300);
+      wovenImg.style.width = cm + 'cm';
+    } else {
+      wovenPNG = window.weaver.renderWoven(info.slug, PAPER[paperSize()].px, 0, 0, overlayArg());
+      wovenImg.style.width = '';
+    }
+    if (settPNG.error || wovenPNG.error) {
+      statLine('sheet render failed: ' + (settPNG.error || wovenPNG.error));
+      return null;
+    }
+    settImg.src = pngURL(settPNG);
+    wovenImg.src = pngURL(wovenPNG);
+    // Both images must be decoded before print, or the sheet comes out blank.
+    return Promise.all([settImg.decode(), wovenImg.decode()]);
+  }
+
+  /* Print the in-page sheet: re-parent it to <body> so print.css's weaver-printing rules apply
+   * exactly as they did for the old hidden-DOM sheet, and put it back afterwards. */
+  function printSheet(info) {
+    var decoded = paintSheet(info);
+    if (!decoded) return;
+    var sheet = document.getElementById('weaver-print-sheet');
+    var size = paperSize();
+    var style = document.getElementById('weaver-page-size');
+    if (!style) {
+      style = document.createElement('style');
+      style.id = 'weaver-page-size';
+      document.head.appendChild(style);
+    }
+    style.textContent = '@page { size: ' + PAPER[size].page + ' }';
+    var mark = document.createComment('weaver-sheet-home');
+    sheet.parentNode.insertBefore(mark, sheet);
+    decoded.then(function () {
+      document.body.appendChild(sheet); // top level, where the weaver-printing rules bite
+      document.body.classList.add('weaver-printing');
+      var done = function () {
+        document.body.classList.remove('weaver-printing');
+        mark.parentNode.insertBefore(sheet, mark);
+        mark.remove();
+        window.removeEventListener('afterprint', done);
+      };
+      window.addEventListener('afterprint', done);
+      window.print();
+    });
   }
 
   /* Fetches the shipped ΔTartan index lazily, then fills container with the nearest existing
@@ -674,63 +794,6 @@
     if (el) el.textContent = (el.textContent ? el.textContent + ' · ' : '') + msg;
   }
 
-  /* "Print sample sheet: A4 A3 A2" — on static variant pages and weaver pages alike. The engine
-   * loads on first click, so the buttons cost nothing until used. */
-  function printControls(slug, title) {
-    var p = document.createElement('p');
-    p.id = 'weaver-print-controls';
-    p.appendChild(document.createTextNode('Print sample sheet: '));
-    Object.keys(PAPER).forEach(function (size) {
-      var b = document.createElement('button');
-      b.textContent = size;
-      b.addEventListener('click', function () { printSample(slug, size, title, false); });
-      p.appendChild(b);
-      p.appendChild(document.createTextNode(' '));
-    });
-    return p;
-  }
-
-  /* Builds the dedicated print sheet — title, threadcount, palette, woven sample re-rendered at
-   * print resolution from the slug — then prints it at the chosen paper size. print.css hides
-   * everything else while body carries the weaver-printing class. preview=true (the ?weaverprint=
-   * dev hook) shows the sheet on screen instead of printing. */
-  function printSample(slug, size, title, preview) {
-    loadEngine().then(function () {
-      var info = window.weaver.parseSlug(slug);
-      if (info.error) throw new Error(info.error);
-
-      var old = document.getElementById('weaver-print-sheet');
-      if (old) old.remove();
-      var sheet = document.createElement('div');
-      sheet.id = 'weaver-print-sheet';
-      sheet.style.display = 'none';
-      sheet.innerHTML =
-        '<h1>' + esc(title || 'Tartan variant') + '</h1>' +
-        '<p class="weaver-print-id">' + esc(location.origin + info.path) + '</p>' +
-        '<h2>Thread count</h2>' +
-        '<p class="weaver-print-threadcount">' + esc(info.threadcount) + '</p>' +
-        '<p><img class="weaver-print-sett" alt="Sett"></p>' +
-        '<h2>Palette</h2>' +
-        window.weaver.paletteHTML(info.slug) +
-        '<div class="weaver-print-sample"><h2>Woven sample</h2>' +
-        '<p><img class="weaver-print-tartan" alt="Woven sample"></p></div>';
-      document.body.appendChild(sheet);
-
-      var settPNG = window.weaver.renderSett(info.slug, 2000, 120, overlayArg());
-      var wovenPNG = window.weaver.renderWoven(info.slug, PAPER[size].px, 0, 0, overlayArg());
-      if (settPNG.error || wovenPNG.error) throw new Error(settPNG.error || wovenPNG.error);
-      var settImg = sheet.querySelector('.weaver-print-sett');
-      var wovenImg = sheet.querySelector('.weaver-print-tartan');
-      settImg.src = pngURL(settPNG);
-      wovenImg.src = pngURL(wovenPNG);
-
-      // Both images must be decoded before print, or the sheet comes out blank.
-      return showAndPrint(sheet, size, preview, Promise.all([settImg.decode(), wovenImg.decode()]));
-    }).catch(function (err) {
-      alert('Could not build the print sheet: ' + (err.message || err));
-    });
-  }
-
   /* A post's {{< collection_poster >}} shortcode: the items (name, slug, note) ride hidden in
    * its markup; the visible part gains the A4/A3/A2 buttons here. ?weaverprint=<size> previews
    * the poster on screen, as on the variant pages. */
@@ -807,9 +870,9 @@
     });
   }
 
-  /* The shared tail of both print paths: inject the @page size, wait for the images to decode
-   * (or the print comes out blank), then either show the sheet on screen (the ?weaverprint=
-   * preview hook) or print it. */
+  /* The poster's print tail: inject the @page size, wait for the images to decode (or the print
+   * comes out blank), then either show the sheet on screen (the ?weaverprint= preview hook) or
+   * print it. Single-cloth sheets print from /ttd/print/ instead (printSheet above). */
   function showAndPrint(sheet, size, preview, decoded) {
     var style = document.getElementById('weaver-page-size');
     if (!style) {

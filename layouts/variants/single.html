@@ -1,9 +1,9 @@
 {{ define "main" }}
-{{/* Variant pages: _default/single.html plus one hook into the TTD editor (/ttd/edit/), which
-     owns editing and live neighbour exploration — the page itself stays plain reading. The slug
+{{/* Variant pages: _default/single.html plus two plain-HTML hooks into the TTD — the editor
+     (/ttd/edit/), which owns editing and live neighbour exploration, and the print & export page
+     (/ttd/print/, #175) — so the page itself stays plain reading and loads no engine. The slug
      is normally the URL leaf; hashed-leaf pages carry their full slug in front matter (slug_full)
-     because the truncated leaf alone cannot be decoded. weaver.js still hydrates the print
-     controls. */}}
+     because the truncated leaf alone cannot be decoded. */}}
 {{ $slug := .Params.slug_full | default (path.Base .RelPermalink) }}
 <article class="post">
   <header class="post-header">
@@ -17,6 +17,8 @@
       &nbsp;
     {{ end }}
       <a class="weaver-edit" href="/ttd/edit/#slug={{ $slug }}">⌗ Edit this in the TTD</a>
+      &nbsp;
+      <a class="weaver-print" href="/ttd/print/#slug={{ $slug }}">🖨 Print / export</a>
     </div>
   </header>
 

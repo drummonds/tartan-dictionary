@@ -36,8 +36,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/lo24k5lo4k2lo3k2~x2/"><img src="/variants/s6/lo24k5lo4k2lo3k2~x2/sett.png" alt="Schranz-Gritte (Corporate)" width="140"><br>Schranz-Gritte (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/"><img src="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/sett.png" alt="Schwarzen Keiler, Die" width="140"><br>Schwarzen Keiler, Die</a></li>
 <li><a class="tartan" href="/variants/s12/g6k6r1w1k6g32k6r1w1k6g6y2~x4/"><img src="/variants/s12/g6k6r1w1k6g32k6r1w1k6g6y2~x4/sett.png" alt="Schwarzen Keiler, Die" width="140"><br>Schwarzen Keiler, Die</a></li>
-<li><a class="tartan" href="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/"><img src="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/sett.png" alt="Scotch House (Corporate)" width="140"><br>Scotch House (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s8/y52db6lb3db2lb2db2lb16dr3~x2/"><img src="/variants/s8/y52db6lb3db2lb2db2lb16dr3~x2/sett.png" alt="Scotch House (Corporate)" width="140"><br>Scotch House (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/"><img src="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/sett.png" alt="Scotch House (Corporate)" width="140"><br>Scotch House (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/"><img src="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/sett.png" alt="Scotch Mist" width="140"><br>Scotch Mist</a></li>
 <li><a class="tartan" href="/variants/s3/g30k20g3~x2/"><img src="/variants/s3/g30k20g3~x2/sett.png" alt="Scotch Tape" width="140"><br>Scotch Tape</a></li>
 <li><a class="tartan" href="/variants/s4/k3g15k20y3~x2/"><img src="/variants/s4/k3g15k20y3~x2/sett.png" alt="Scotch Tape #2" width="140"><br>Scotch Tape #2</a></li>
@@ -46,8 +46,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><img src="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/sett.png" alt="Scotland's Charity Air Ambulance" width="140"><br>Scotland's Charity Air Ambulance</a></li>
 <li><a class="tartan" href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><img src="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/sett.png" alt="Scotland’s Golf Coast" width="140"><br>Scotland’s Golf Coast</a></li>
 <li><a class="tartan" href="/variants/s5/dr4db14k15dg14y4~x2/"><img src="/variants/s5/dr4db14k15dg14y4~x2/sett.png" alt="Scots Heritage" width="140"><br>Scots Heritage</a></li>
-<li><a class="tartan" href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><img src="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/sett.png" alt="Scotshill" width="140"><br>Scotshill</a></li>
 <li><a class="tartan" href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><img src="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/sett.png" alt="Scotshill" width="140"><br>Scotshill</a></li>
+<li><a class="tartan" href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><img src="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/sett.png" alt="Scotshill" width="140"><br>Scotshill</a></li>
 <li><a class="tartan" href="/variants/s7/g21k14g9db21k3db12dp3~x2/"><img src="/variants/s7/g21k14g9db21k3db12dp3~x2/sett.png" alt="Scotsman" width="140"><br>Scotsman</a></li>
 <li><a class="tartan" href="/variants/s6/db4g18db3k17db18o4~x2/"><img src="/variants/s6/db4g18db3k17db18o4~x2/sett.png" alt="Scottish Airports" width="140"><br>Scottish Airports</a></li>
 <li><a class="tartan" href="/variants/s6/db4g18db3k17db18dp4~x2/"><img src="/variants/s6/db4g18db3k17db18dp4~x2/sett.png" alt="Scottish Airports (Corporate)" width="140"><br>Scottish Airports (Corporate)</a></li>

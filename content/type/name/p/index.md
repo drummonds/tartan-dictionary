@@ -42,6 +42,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/"><img src="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/sett.png" alt="Proctor (Name)" width="140"><br>Proctor (Name)</a></li>
 <li><a class="tartan" href="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/"><img src="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/sett.png" alt="Proven" width="140"><br>Proven</a></li>
 <li><a class="tartan" href="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/"><img src="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/sett.png" alt="Purdy Black (Illinois)" width="140"><br>Purdy Black (Illinois)</a></li>
-<li><a class="tartan" href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/"><img src="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/sett.png" alt="Purves (2014)" width="140"><br>Purves (2014)</a></li>
 <li><a class="tartan" href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><img src="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/sett.png" alt="Purves (2014)" width="140"><br>Purves (2014)</a></li>
+<li><a class="tartan" href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/"><img src="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/sett.png" alt="Purves (2014)" width="140"><br>Purves (2014)</a></li>
 </ul>

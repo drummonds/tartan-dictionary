@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w35dp7w7dp7w7dp35db36ly7db36dp35w35dp7w7/">Poulter Tron</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w35dp7w7dp7w7dp35db36ly7db36dp35w35dp7w7/"><img src="/variants/s13/w35dp7w7dp7w7dp35db36ly7db36dp35w35dp7w7/sett.png" alt="Poulter Tron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/">Poulter Tron</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/"><img src="/variants/s13/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/sett.png" alt="Poulter Tron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w35dp7w7dp7w7dp35db36ly7db36dp35w35dp7w7/">Poulter Tron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w35dp7w7dp7w7dp35db36ly7db36dp35w35dp7w7/"><img src="/variants/s13/w35dp7w7dp7w7dp35db36ly7db36dp35w35dp7w7/sett.png" alt="Poulter Tron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/">Adair (Name)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/"><img src="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/sett.png" alt="Adair (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Calgary"
+  url: "/clan/calgary/"
 - name: "Calgary"
-  url: "/tartans/c/ca/calgary/"
+  url: "/families/calgary/"
+- name: "Calgary"
+  url: "/tartans/c/ca/calgary-3/"
 - name: "Calgary (Fashion)"
   url: "/setts/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGYGBYBYBY](/stripes/bbbbgygbybyby/).
 
-Part of the [Calgary](/tartans/c/ca/calgary/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Calgary](/tartans/c/ca/calgary-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

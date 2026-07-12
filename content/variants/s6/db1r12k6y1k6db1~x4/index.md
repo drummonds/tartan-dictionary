@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cetoloni"
+  url: "/clan/cetoloni/"
 - name: "Cetoloni"
-  url: "/tartans/c/ce/cetoloni-4/"
+  url: "/families/cetoloni/"
+- name: "Cetoloni"
+  url: "/tartans/c/ce/cetoloni-3/"
 - name: "Cetoloni (Personal)"
   url: "/setts/db1r12k6y1k6db1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1r12k6y1k6db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRB](/stripes/bkgkrb/).
 
-Part of the [Cetoloni](/tartans/c/ce/cetoloni-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cetoloni](/tartans/c/ce/cetoloni-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

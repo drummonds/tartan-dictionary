@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Otago"
+  url: "/clan/otago/"
 - name: "Otago Peninsula"
   url: "/tartans/o/ot/otago-peninsula-2/"
 - name: "Otago Peninsula"

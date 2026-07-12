@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan MacDonald"
   url: "/clan/macdonald/"
 - name: "MacDonald"
+  url: "/families/macdonald/"
+- name: "MacDonald"
   url: "/tartans/m/ma/macdonald-3/"
 - name: "MacDonald"
   url: "/setts/db8r1db2r3db12r1k12g12r3g2r1g8/"

@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacNeil"
   url: "/clan/macneil/"
 - name: "MacNeil"
-  url: "/tartans/m/ma/macneil/"
+  url: "/families/macneil/"
+- name: "MacNeil"
+  url: "/tartans/m/ma/macneil-2/"
 - name: "MacNeil - 1840 (Chief's sett)"
   url: "/setts/y2k6g33k33db33r3w2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y2k6g33k33db33r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBRW](/stripes/gkgkbrw/).
 
-Part of the [MacNeil](/tartans/m/ma/macneil/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacNeil](/tartans/m/ma/macneil-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

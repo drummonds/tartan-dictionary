@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacLeod"
   url: "/clan/macleod/"
 - name: "MacLeod"
-  url: "/tartans/m/ma/macleod-6/"
+  url: "/families/macleod/"
+- name: "MacLeod"
+  url: "/tartans/m/ma/macleod-2/"
 - name: "MacLeod Red"
   url: "/setts/db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRGRBRBRGRGRBRG](/stripes/brbrbrbrgrbrbrgrgrbrg/).
 
-Part of the [MacLeod](/tartans/m/ma/macleod-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLeod](/tartans/m/ma/macleod-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

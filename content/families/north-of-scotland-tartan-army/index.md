@@ -8,13 +8,6 @@ date: 2023-03-18
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2/">North of Scotland Tartan Army</a></td><td><code>DP/6 K6 DP20 K22 G28 DB6 G28 K22 W6 LB6 DB30 LB4 W/4</code></td><td>366</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2/"><img src="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/sett.png" alt="North of Scotland Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the North of Scotland Tartan Army tartan and all its setts →](/tartans/n/no/north-of-scotland-tartan-army/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/n/no/north-of-scotland-tartan-army/"><img src="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/sett.png" alt="North of Scotland Tartan Army" width="140"><br><strong>North of Scotland Tartan Army (1)</strong></a></li>
+</ul>

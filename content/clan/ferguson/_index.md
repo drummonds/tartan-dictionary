@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s7/t24k8g8r2g8k1w2~x2/"><img src="/variants/s7/t24k8g8r2g8k1w2~x2/sett.png" alt="Ferguson of Atholl Clan" width="240"><br>Ferguson of Atholl Clan</a>
+<a class="tartan" href="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/"><img src="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/sett.png" alt="Ferguson (Tarlogie)" width="240"><br>Ferguson (Tarlogie)</a>
 
 ## Families
 
+- [Ferguson](/families/ferguson/)
 - [Ferguson of Atholl](/families/ferguson-of-atholl/)
 - [Ferguson of Balquhidder](/families/ferguson-of-balquhidder/)
 

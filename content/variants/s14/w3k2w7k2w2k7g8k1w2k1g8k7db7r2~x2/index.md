@@ -7,8 +7,10 @@ crumbs:
   url: "/"
 - name: "Clan MacKenzie"
   url: "/clan/mackenzie/"
+- name: "MacKenzie"
+  url: "/families/mackenzie/"
 - name: "MacKenzie Dress"
-  url: "/tartans/m/ma/mackenzie-dress-4/"
+  url: "/tartans/m/ma/mackenzie-dress/"
 - name: "MacKenzie Dress - 1950 (Clan)"
   url: "/setts/w3k2w7k2w2k7g8k1w2k1g8k7db7r2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3k2w7k2w2k7g8k1w2k1g8k7db7r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKWKGKWKWKW](/stripes/rbkgkwkgkwkwkw/).
 
-Part of the [MacKenzie Dress](/tartans/m/ma/mackenzie-dress-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKenzie Dress](/tartans/m/ma/mackenzie-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

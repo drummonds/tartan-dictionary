@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Holden"
+  url: "/clan/holden/"
 - name: "Holden"
-  url: "/tartans/h/ho/holden-2/"
+  url: "/families/holden/"
+- name: "Holden"
+  url: "/tartans/h/ho/holden/"
 - name: "Holden Black (Corporate)"
   url: "/setts/n13k3n3k3n3k35r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n13k3n3k3n3k35r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKR](/stripes/bkbkbkr/).
 
-Part of the [Holden](/tartans/h/ho/holden-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Holden](/tartans/h/ho/holden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

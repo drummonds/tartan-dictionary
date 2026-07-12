@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Turnberry"
+  url: "/clan/turnberry/"
 - name: "Turnberry Manx Snaefell"
   url: "/tartans/t/tu/turnberry-manx-snaefell/"
 - name: "Turnberry Manx Snaefell Family Tartan"

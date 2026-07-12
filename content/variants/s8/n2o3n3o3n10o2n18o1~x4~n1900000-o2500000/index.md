@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hebridean"
+  url: "/clan/hebridean/"
 - name: "Hebridean Cairn"
-  url: "/tartans/h/he/hebridean-cairn-3/"
+  url: "/tartans/h/he/hebridean-cairn/"
 - name: "Hebridean Cairn (Fashion)"
   url: "/setts/n2o3n3o3n10o2n18o1/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n2o3n3o3n10o2n18o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-Part of the [Hebridean Cairn](/tartans/h/he/hebridean-cairn-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hebridean Cairn](/tartans/h/he/hebridean-cairn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

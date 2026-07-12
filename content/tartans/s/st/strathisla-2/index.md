@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Strathisla"
+  url: "/clan/strathisla/"
+- name: "Strathisla"
+  url: "/families/strathisla/"
 ---
+A tartan of the [Strathisla](/families/strathisla/) family.
 Its design is pattern [BGBRBGBBBWBBBGBRBG](/stripes/bgbrbgbbbwbbbgbrbg/) — the page of every tartan sharing this colour sequence.
 
 District tartan reflecting the colours of Angus's Strathisla glen.

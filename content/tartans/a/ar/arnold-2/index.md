@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Arnold"
+  url: "/clan/arnold/"
+- name: "Arnold"
+  url: "/families/arnold/"
 ---
+A tartan of the [Arnold](/families/arnold/) family.
 Its design is pattern [KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY](/stripes/kkykkkkkkkkkkkkrkkbkkkwkkkbkkrkkkkkkkkkkkky/) — the page of every tartan sharing this colour sequence.
 
 The **Arnold** tartan is recorded as a single sett.

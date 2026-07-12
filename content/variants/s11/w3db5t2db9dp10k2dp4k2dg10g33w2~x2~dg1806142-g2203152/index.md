@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Inverclyde"
+  url: "/clan/inverclyde/"
 - name: "Inverclyde"
-  url: "/tartans/i/in/inverclyde-3/"
+  url: "/families/inverclyde/"
+- name: "Inverclyde"
+  url: "/tartans/i/in/inverclyde-4/"
 - name: "Inverclyde, Green (Corporate)"
   url: "/setts/w3db5t2db9dp10k2dp4k2dg10g33w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3db5t2db9dp10k2dp4k2dg10g33w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBKBKGGW](/stripes/wbbbbkbkggw/).
 
-Part of the [Inverclyde](/tartans/i/in/inverclyde-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Inverclyde](/tartans/i/in/inverclyde-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

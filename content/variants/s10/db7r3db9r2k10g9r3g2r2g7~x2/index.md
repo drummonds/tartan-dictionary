@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Cameron"
   url: "/clan/cameron/"
 - name: "Cameron"
-  url: "/tartans/c/ca/cameron-3/"
+  url: "/families/cameron/"
+- name: "Cameron"
+  url: "/tartans/c/ca/cameron/"
 - name: "Cameron (altered by weaver)"
   url: "/setts/db7r3db9r2k10g9r3g2r2g7/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db7r3db9r2k10g9r3g2r2g7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRKGRGRG](/stripes/brbrkgrgrg/).
 
-Part of the [Cameron](/tartans/c/ca/cameron-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cameron](/tartans/c/ca/cameron/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

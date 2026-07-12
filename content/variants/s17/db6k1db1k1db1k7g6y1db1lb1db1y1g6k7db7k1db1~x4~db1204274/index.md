@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Polaris"
+  url: "/clan/polaris/"
 - name: "Polaris"
-  url: "/tartans/p/po/polaris/"
+  url: "/families/polaris/"
+- name: "Polaris"
+  url: "/tartans/p/po/polaris-2/"
 - name: "Polaris Corporate Tartan"
   url: "/setts/db6k1db1k1db1k7g6y1db1lb1db1y1g6k7db7k1db1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6k1db1k1db1k7g6y1db1lb1db1y1g6k7db7k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGBWBGGKBKB](/stripes/bkbkbkggbwbggkbkb/).
 
-Part of the [Polaris](/tartans/p/po/polaris/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Polaris](/tartans/p/po/polaris-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

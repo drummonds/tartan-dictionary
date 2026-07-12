@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Edinburgh"
+  url: "/clan/edinburgh/"
 ---
+A tartan of [Clan Edinburgh](/clan/edinburgh/).
 Its design is pattern [BBBBBBBBBBBRBBBWBWBWBWBWBWBBBR](/stripes/bbbbbbbbbbbrbbbwbwbwbwbwbwbbbr/) — the page of every tartan sharing this colour sequence.
 
 The **Edinburgh, '86 Border** tartan is recorded as a single sett.

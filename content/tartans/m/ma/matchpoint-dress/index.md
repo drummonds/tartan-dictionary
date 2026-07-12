@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Matchpoint"
+  url: "/clan/matchpoint/"
+- name: "Matchpoint"
+  url: "/families/matchpoint/"
 ---
+A tartan of the [Matchpoint](/families/matchpoint/) family.
 Its design is pattern [BGGBGBGBGBBBRBW](/stripes/bggbgbgbgbbbrbw/) — the page of every tartan sharing this colour sequence.
 
 The **MatchPoint Dress** tartan is recorded as a single sett.

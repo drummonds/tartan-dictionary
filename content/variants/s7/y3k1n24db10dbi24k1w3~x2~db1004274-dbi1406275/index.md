@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan George"
+  url: "/clan/george/"
 - name: "George Heriot's"
   url: "/tartans/g/ge/george-heriot-s/"
 - name: "George Heriot's School"

@@ -1,0 +1,14 @@
+---
+title: "Little"
+date: 2023-03-18
+---
+A family of [Clan Little](/clan/little/).
+
+**Trove of Scotland:** [search “Little”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Little&viewmode=grid)
+
+## Tartans
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/l/li/little-hunting/"><img src="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/sett.png" alt="Little Hunting" width="140"><br><strong>Little Hunting (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/l/li/little-dress/"><img src="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/sett.png" alt="Little Dress" width="140"><br><strong>Little Dress (1)</strong></a></li>
+</ul>

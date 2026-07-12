@@ -8,7 +8,7 @@ A lowland clan of Strathearn, the chiefly house seated at Drummond Castle. Its g
 
 ## Tartan
 
-<a class="tartan" href="/variants/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18~r2109032-db0906265-lb3203246-dg1405139/"><img src="/variants/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18~r2109032-db0906265-lb3203246-dg1405139/sett.png" alt="Drummond of Megginch - 1820 Plaid" width="240"><br>Drummond of Megginch - 1820 Plaid</a>
+<a class="tartan" href="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><img src="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/sett.png" alt="Drummond #2" width="240"><br>Drummond #2</a>
 
 ## Other tartans
 
@@ -20,6 +20,7 @@ A lowland clan of Strathearn, the chiefly house seated at Drummond Castle. Its g
 
 ## Families
 
+- [Drummond](/families/drummond/)
 - [Drummond of Megginch](/families/drummond-of-megginch/) — seat: Megginch Castle
 - [Drummond of Perth](/families/drummond-of-perth/)
 - [Drummond of Strathallan](/families/drummond-of-strathallan/)

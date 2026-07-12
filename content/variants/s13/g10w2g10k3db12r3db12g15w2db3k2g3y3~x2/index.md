@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Greylock"
+  url: "/clan/greylock/"
 - name: "Greylock"
-  url: "/tartans/g/gr/greylock/"
+  url: "/families/greylock/"
+- name: "Greylock"
+  url: "/tartans/g/gr/greylock-2/"
 - name: "Greylock Corporate Tartan"
   url: "/setts/g10w2g10k3db12r3db12g15w2db3k2g3y3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g10w2g10k3db12r3db12g15w2db3k2g3y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBWGBRBKGWG](/stripes/ggkbwgbrbkgwg/).
 
-Part of the [Greylock](/tartans/g/gr/greylock/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Greylock](/tartans/g/gr/greylock-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGlashan"
+  url: "/clan/macglashan/"
+- name: "MacGlashan"
+  url: "/families/macglashan/"
 ---
+A tartan of the [MacGlashan](/families/macglashan/) family.
 Its design is pattern [BWBWBWBRGRGRGR](/stripes/bwbwbwbrgrgrgr/) — the page of every tartan sharing this colour sequence.
 
 The **MacGlashan** tartan is recorded as a single sett.

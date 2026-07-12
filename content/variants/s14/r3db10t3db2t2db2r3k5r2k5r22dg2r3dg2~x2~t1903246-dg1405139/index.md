@@ -7,6 +7,8 @@ crumbs:
   url: "/"
 - name: "Clan Lochcarron"
   url: "/clan/lochcarron/"
+- name: "Lochcarron"
+  url: "/families/lochcarron/"
 - name: "Lochcarron Dress"
   url: "/tartans/l/lo/lochcarron-dress/"
 - name: "Lochcarron Dress"

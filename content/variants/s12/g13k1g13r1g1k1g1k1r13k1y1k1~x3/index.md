@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ulster"
+  url: "/clan/ulster/"
 - name: "Ulster"
-  url: "/tartans/u/ul/ulster-3/"
+  url: "/families/ulster/"
+- name: "Ulster"
+  url: "/tartans/u/ul/ulster-4/"
 - name: "Ulster Red Irish District Tartan"
   url: "/setts/g13k1g13r1g1k1g1k1r13k1y1k1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g13k1g13r1g1k1g1k1r13k1y1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRGKGKRKGK](/stripes/gkgrgkgkrkgk/).
 
-Part of the [Ulster](/tartans/u/ul/ulster-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ulster](/tartans/u/ul/ulster-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

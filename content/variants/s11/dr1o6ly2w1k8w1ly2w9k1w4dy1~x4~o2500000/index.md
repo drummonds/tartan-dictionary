@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kintyre"
+  url: "/clan/kintyre/"
 - name: "Kintyre"
-  url: "/tartans/k/ki/kintyre-2/"
+  url: "/families/kintyre/"
+- name: "Kintyre"
+  url: "/tartans/k/ki/kintyre/"
 - name: "Kintyre"
   url: "/setts/dr1o6ly2w1k8w1ly2w9k1w4dy1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr1o6ly2w1k8w1ly2w9k1w4dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRYWKWYWKWG](/stripes/brywkwywkwg/).
 
-Part of the [Kintyre](/tartans/k/ki/kintyre-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kintyre](/tartans/k/ki/kintyre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

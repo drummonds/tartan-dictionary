@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Australian"
+  url: "/clan/australian/"
 - name: "Australian, The"
   url: "/tartans/a/au/australian-the/"
 - name: "Australian, The"

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cox"
+  url: "/clan/cox/"
+- name: "Cox"
+  url: "/families/cox/"
 ---
+A tartan of the [Cox](/families/cox/) family.
 Its design is pattern [GGGGWGWGBGWGBGBGWGWGGW](/stripes/ggggwgwgbgwgbgbgwgwggw/) — the page of every tartan sharing this colour sequence.
 
 The **Cox** tartan is recorded as a single sett.

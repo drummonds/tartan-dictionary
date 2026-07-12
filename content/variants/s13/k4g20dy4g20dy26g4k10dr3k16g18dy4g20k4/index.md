@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Greenshields"
+  url: "/clan/greenshields/"
 - name: "Greenshields"
-  url: "/tartans/g/gr/greenshields/"
+  url: "/families/greenshields/"
+- name: "Greenshields"
+  url: "/tartans/g/gr/greenshields-2/"
 - name: "Greenshields, Alan (Personal)"
   url: "/setts/k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGGGKBKGGGK](/stripes/kgggggkbkgggk/).
 
-Part of the [Greenshields](/tartans/g/gr/greenshields/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Greenshields](/tartans/g/gr/greenshields-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

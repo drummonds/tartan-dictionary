@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Buchanan"
+  url: "/clan/buchanan/"
+- name: "Buchanan"
+  url: "/families/buchanan/"
 - name: "Buchanan Dress"
-  url: "/tartans/b/bu/buchanan-dress/"
+  url: "/tartans/b/bu/buchanan-dress-3/"
 - name: "Buchanan Dress (Fashion)"
   url: "/setts/dr3w34k2n4k2lo7k2lo7k2n4k2do34lb3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr3w34k2n4k2lo7k2lo7k2n4k2do34lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKYKYKBKBW](/stripes/bwkbkykykbkbw/).
 
-Part of the [Buchanan Dress](/tartans/b/bu/buchanan-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Buchanan Dress](/tartans/b/bu/buchanan-dress-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cavalier"
+  url: "/clan/cavalier/"
 - name: "Cavalier"
-  url: "/tartans/c/ca/cavalier-2/"
+  url: "/families/cavalier/"
+- name: "Cavalier"
+  url: "/tartans/c/ca/cavalier-4/"
 - name: "Cavalier, Green"
   url: "/setts/g40dt10o2dt2w2dt3r8g6dt2g4w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g40dt10o2dt2w2dt3r8g6dt2g4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBWBRGBGW](/stripes/gbrbwbrgbgw/).
 
-Part of the [Cavalier](/tartans/c/ca/cavalier-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cavalier](/tartans/c/ca/cavalier-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

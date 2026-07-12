@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Heather"
+  url: "/clan/heather/"
 - name: "Heather"
-  url: "/tartans/h/he/heather-2/"
+  url: "/families/heather/"
+- name: "Heather"
+  url: "/tartans/h/he/heather/"
 - name: "Heather (RSPCC)"
   url: "/setts/db4lb3n30lb3dp16lb3dp10dpi48g4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4lb3n30lb3dp16lb3dp10dpi48g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBGBBWBWBW](/stripes/bwbwbwbbgbbwbwbw/).
 
-Part of the [Heather](/tartans/h/he/heather-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Heather](/tartans/h/he/heather/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

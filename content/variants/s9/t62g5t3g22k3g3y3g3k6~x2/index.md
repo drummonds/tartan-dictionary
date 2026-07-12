@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Oliver"
+  url: "/clan/oliver/"
+- name: "Oliver"
+  url: "/families/oliver/"
 - name: "Oliver Hunting"
   url: "/tartans/o/ol/oliver-hunting/"
 - name: "Oliver Hunting - 1973 (Clan)"

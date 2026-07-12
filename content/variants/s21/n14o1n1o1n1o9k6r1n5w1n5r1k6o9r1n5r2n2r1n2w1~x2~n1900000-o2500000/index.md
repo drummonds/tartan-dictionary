@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rankin"
+  url: "/clan/rankin/"
 - name: "Rankin"
-  url: "/tartans/r/ra/rankin-4/"
+  url: "/families/rankin/"
+- name: "Rankin"
+  url: "/tartans/r/ra/rankin-5/"
 - name: "Rankin Grey (Personal)"
   url: "/setts/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKRBWBRKRRBRBRBW](/stripes/brbrbrkrbwbrkrrbrbrbw/).
 
-Part of the [Rankin](/tartans/r/ra/rankin-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rankin](/tartans/r/ra/rankin-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

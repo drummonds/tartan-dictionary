@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Commonwealth"
+  url: "/clan/commonwealth/"
 ---
+A tartan of [Clan Commonwealth](/clan/commonwealth/).
 Its design is pattern [BBWGWBBGBRBGBBWGWBBBRYRB](/stripes/bbwgwbbgbrbgbbwgwbbbryrb/) — the page of every tartan sharing this colour sequence.
 
 The **Commonwealth Bid** tartan is recorded as a single sett.

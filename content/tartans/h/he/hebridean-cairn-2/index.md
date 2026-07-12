@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hebridean"
+  url: "/clan/hebridean/"
 ---
+A tartan of [Clan Hebridean](/clan/hebridean/).
 Its design is pattern [BGBGBGBG](/stripes/bgbgbgbg/) — the page of every tartan sharing this colour sequence.
 
 The **Hebridean Cairn** tartan is recorded as a single sett.

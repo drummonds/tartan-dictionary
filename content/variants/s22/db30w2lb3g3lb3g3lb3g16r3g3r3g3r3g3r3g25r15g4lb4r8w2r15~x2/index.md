@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wilson"
+  url: "/clan/wilson/"
 - name: "Wilson"
-  url: "/tartans/w/wi/wilson-3/"
+  url: "/families/wilson/"
+- name: "Wilson"
+  url: "/tartans/w/wi/wilson/"
 - name: "Wilson (Janet) #2"
   url: "/setts/db30w2lb3g3lb3g3lb3g16r3g3r3g3r3g3r3g25r15g4lb4r8w2r15/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db30w2lb3g3lb3g3lb3g16r3g3r3g3r3g3r3g25r15g4lb4r8w2r15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWGWGWGRGRGRGRGRGWRWR](/stripes/bwwgwgwgrgrgrgrgrgwrwr/).
 
-Part of the [Wilson](/tartans/w/wi/wilson-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wilson](/tartans/w/wi/wilson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

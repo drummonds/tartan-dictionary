@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Miyuki"
+  url: "/clan/miyuki/"
 - name: "Miyuki"
-  url: "/tartans/m/mi/miyuki-2/"
+  url: "/families/miyuki/"
+- name: "Miyuki"
+  url: "/tartans/m/mi/miyuki/"
 - name: "Miyuki #4"
   url: "/setts/r3ly8r3ly20dy20ly3dy8ly3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3ly8r3ly20dy20ly3dy8ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYRYGYGY](/stripes/ryrygygy/).
 
-Part of the [Miyuki](/tartans/m/mi/miyuki-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Miyuki](/tartans/m/mi/miyuki/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hebrides"
+  url: "/clan/hebrides/"
 ---
+A tartan of [Clan Hebrides](/clan/hebrides/).
 Its design is pattern [BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/) — the page of every tartan sharing this colour sequence.
 
 The **Hebrides Inner** tartan is recorded as a single sett.

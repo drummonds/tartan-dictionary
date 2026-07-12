@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Millennium"
+  url: "/clan/millennium/"
 - name: "Millennium by Texcraft"
   url: "/tartans/m/mi/millennium-by-texcraft/"
 - name: "Millennium by Texcraft"

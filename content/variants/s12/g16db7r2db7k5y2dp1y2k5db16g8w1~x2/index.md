@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Waipu"
+  url: "/clan/waipu/"
+- name: "Waipu"
+  url: "/families/waipu/"
 - name: "Waipu"
   url: "/tartans/w/wa/waipu/"
 - name: "Waipu (District)"

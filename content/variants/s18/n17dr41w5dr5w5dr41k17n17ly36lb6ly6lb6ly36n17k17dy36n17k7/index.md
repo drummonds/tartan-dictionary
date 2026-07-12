@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ruairidh"
+  url: "/clan/ruairidh/"
 - name: "Ruairidh"
-  url: "/tartans/r/ru/ruairidh/"
+  url: "/families/ruairidh/"
+- name: "Ruairidh"
+  url: "/tartans/r/ru/ruairidh-2/"
 - name: "Ruairidh (Personal)"
   url: "/setts/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBKBYWYWYBKGBK](/stripes/bbwbwbkbywywybkgbk/).
 
-Part of the [Ruairidh](/tartans/r/ru/ruairidh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ruairidh](/tartans/r/ru/ruairidh-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

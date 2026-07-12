@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacAlister"
   url: "/clan/macalister/"
 - name: "MacAlister"
-  url: "/tartans/m/ma/macalister-2/"
+  url: "/families/macalister/"
+- name: "MacAlister"
+  url: "/tartans/m/ma/macalister-8/"
 - name: "MacAlister"
   url: "/setts/r32b2dg12r4lb4r4w2r4lb4r4dg12r2w2r24lb2r2dg44r2lb2r64lb2r2dg44r2lb2r22w2r2db16r2w2r10dg12b2r8b2dg12r3w2r2db10/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r32b2dg12r4lb4r4w2r4lb4r4dg12r2w2r24lb2r2dg44r2lb2r64lb2r2dg44r2lb2r22w2r2db16r2w2r10dg12b2r8b2dg12r3w2r2db10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRGBRBGRWRBRWRWRGRWRWRGRWRWRGRWRWRWRGBR](/stripes/brwrgbrbgrwrbrwrwrgrwrwrgrwrwrgrwrwrwrgbr/).
 
-Part of the [MacAlister](/tartans/m/ma/macalister-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacAlister](/tartans/m/ma/macalister-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [41 stripe tartan](/stripes/stripes41/).
 

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Longniddry"
+  url: "/clan/longniddry/"
+- name: "Longniddry"
+  url: "/families/longniddry/"
 ---
+A tartan of the [Longniddry](/families/longniddry/) family.
 Its design is pattern [BWBBWWWB](/stripes/bwbbwwwb/) — the page of every tartan sharing this colour sequence.
 
 The **Longniddry** tartan is recorded as a single sett.

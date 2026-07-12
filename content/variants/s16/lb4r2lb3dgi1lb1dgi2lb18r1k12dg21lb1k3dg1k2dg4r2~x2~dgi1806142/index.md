@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Munster"
+  url: "/clan/munster/"
+- name: "Munster"
+  url: "/families/munster/"
 - name: "Munster"
   url: "/tartans/m/mu/munster/"
 - name: "Munster Irish District Tartan"

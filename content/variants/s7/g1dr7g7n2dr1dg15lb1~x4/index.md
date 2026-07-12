@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Ramsay"
   url: "/clan/ramsay/"
 - name: "Ramsay"
-  url: "/tartans/r/ra/ramsay-2/"
+  url: "/families/ramsay/"
+- name: "Ramsay"
+  url: "/tartans/r/ra/ramsay-3/"
 - name: "Ramsay (Green Fashion)"
   url: "/setts/g1dr7g7n2dr1dg15lb1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g1dr7g7n2dr1dg15lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBGW](/stripes/gbgbbgw/).
 
-Part of the [Ramsay](/tartans/r/ra/ramsay-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ramsay](/tartans/r/ra/ramsay-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

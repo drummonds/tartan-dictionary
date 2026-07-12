@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/"><img src="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/sett.png" alt="MacIntyre of Glenorchy Clan Tartan" width="240"><br>MacIntyre of Glenorchy Clan Tartan</a>
+<a class="tartan" href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><img src="/variants/s7/k12g12k2g12k12db12lb3~x2/sett.png" alt="MacIntyre" width="240"><br>MacIntyre</a>
 
 ## Families
 
+- [MacIntyre](/families/macintyre/)
 - [MacIntyre of Glenorchy](/families/macintyre-of-glenorchy/)
 - [MacIntyre of Littleport](/families/macintyre-of-littleport/)
 - [MacIntyre of Whitehouse](/families/macintyre-of-whitehouse/)

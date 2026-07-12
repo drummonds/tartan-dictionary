@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hebridean"
+  url: "/clan/hebridean/"
 - name: "Hebridean Arisaid"
-  url: "/tartans/h/he/hebridean-arisaid-2/"
+  url: "/tartans/h/he/hebridean-arisaid/"
 - name: "Hebridean Arisaid Red (Dance)"
   url: "/setts/w37k4db12g12w2lr2r23k4r6/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w37k4db12g12w2lr2r23k4r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRYWGBKWKBGWYRKR](/stripes/krywgbkwkbgwyrkr/).
 
-Part of the [Hebridean Arisaid](/tartans/h/he/hebridean-arisaid-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hebridean Arisaid](/tartans/h/he/hebridean-arisaid/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

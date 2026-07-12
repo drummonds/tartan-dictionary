@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Tilburg"
+  url: "/clan/tilburg/"
+- name: "Tilburg"
+  url: "/families/tilburg/"
 - name: "Tilburg Hunting"
   url: "/tartans/t/ti/tilburg-hunting/"
 - name: "Tilburg Hunting (District)"

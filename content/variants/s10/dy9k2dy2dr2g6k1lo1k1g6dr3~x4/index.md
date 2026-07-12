@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacAart"
+  url: "/clan/macaart/"
 - name: "MacAart"
-  url: "/tartans/m/ma/macaart-2/"
+  url: "/families/macaart/"
+- name: "MacAart"
+  url: "/tartans/m/ma/macaart-3/"
 - name: "MacAart (Personal)"
   url: "/setts/dy9k2dy2dr2g6k1lo1k1g6dr3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy9k2dy2dr2g6k1lo1k1g6dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKYKGBGKG](/stripes/bgkykgbgkg/).
 
-Part of the [MacAart](/tartans/m/ma/macaart-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacAart](/tartans/m/ma/macaart-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

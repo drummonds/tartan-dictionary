@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cornish"
+  url: "/clan/cornish/"
 - name: "Cornish Flag"
   url: "/tartans/c/co/cornish-flag/"
 - name: "St. Piran Cornish Flag"

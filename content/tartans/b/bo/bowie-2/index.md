@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bowie"
+  url: "/clan/bowie/"
+- name: "Bowie"
+  url: "/families/bowie/"
 ---
+A tartan of the [Bowie](/families/bowie/) family.
 Its design is pattern [BRBRBRKGRGYK](/stripes/brbrbrkgrgyk/) — the page of every tartan sharing this colour sequence.
 
 The **Bowie** tartan is recorded as a single sett.

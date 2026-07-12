@@ -8,13 +8,6 @@ date: 2023-03-18
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/db2w2db21ly3db4ri3db3r4g18t4w2/">Sons of Scotland</a></td><td><code>DB/4 W4 DB42 LY6 DB8 Ri6 DB6 R8 G36 T8 W/4</code></td><td>256</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2w2db21ly3db4ri3db3r4g18t4w2/"><img src="/variants/s11/db2w2db21ly3db4ri3db3r4g18t4w2~x2~ri2109032-r1707008/sett.png" alt="Sons of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Sons of Scotland tartan and all its setts →](/tartans/s/so/sons-of-scotland/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/s/so/sons-of-scotland/"><img src="/variants/s11/db2w2db21ly3db4ri3db3r4g18t4w2~x2~ri2109032-r1707008/sett.png" alt="Sons of Scotland" width="140"><br><strong>Sons of Scotland (1)</strong></a></li>
+</ul>

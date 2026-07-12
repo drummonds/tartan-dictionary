@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Craig"
+  url: "/clan/craig/"
 - name: "Craig"
-  url: "/tartans/c/cr/craig-2/"
+  url: "/families/craig/"
+- name: "Craig"
+  url: "/tartans/c/cr/craig/"
 - name: "Craig"
   url: "/setts/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGGBKGKBBKBKBKGKB](/stripes/bkbggbkgkbbkbkbkgkb/).
 
-Part of the [Craig](/tartans/c/cr/craig-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Craig](/tartans/c/cr/craig/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

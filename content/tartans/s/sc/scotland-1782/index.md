@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scotland"
+  url: "/clan/scotland/"
+- name: "Scotland"
+  url: "/families/scotland/"
 ---
+A tartan of the [Scotland](/families/scotland/) family.
 Its design is pattern [GBKBKBBBBGKBW](/stripes/gbkbkbbbbgkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Scotland 1782** tartan is recorded as a single sett.

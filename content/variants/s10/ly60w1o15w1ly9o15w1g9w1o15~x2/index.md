@@ -7,6 +7,8 @@ crumbs:
   url: "/"
 - name: "Clan Smith"
   url: "/clan/smith/"
+- name: "Smith"
+  url: "/families/smith/"
 - name: "Smith Hunting"
   url: "/tartans/s/sm/smith-hunting/"
 - name: "Smith Hunting (Name)"

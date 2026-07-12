@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Urquhart"
+  url: "/clan/urquhart/"
 - name: "Urquhart"
-  url: "/tartans/u/ur/urquhart-4/"
+  url: "/families/urquhart/"
+- name: "Urquhart"
+  url: "/tartans/u/ur/urquhart/"
 - name: "Urquhart"
   url: "/setts/db2w1db12k1db2k1db4k12g24k1g2r1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2w1db12k1db2k1db4k12g24k1g2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBKGKGR](/stripes/bwbkbkbkgkgr/).
 
-Part of the [Urquhart](/tartans/u/ur/urquhart-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Urquhart](/tartans/u/ur/urquhart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

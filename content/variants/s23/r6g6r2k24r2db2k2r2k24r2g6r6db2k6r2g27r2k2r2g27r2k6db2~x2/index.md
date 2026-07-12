@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Buchan"
+  url: "/clan/buchan/"
+- name: "Buchan"
+  url: "/families/buchan/"
 - name: "Buchan"
   url: "/tartans/b/bu/buchan-2/"
 - name: "Buchan Cumming MacIntyre District Tartan"

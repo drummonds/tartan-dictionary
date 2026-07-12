@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Ramsay"
   url: "/clan/ramsay/"
 - name: "Ramsay"
-  url: "/tartans/r/ra/ramsay-3/"
+  url: "/families/ramsay/"
+- name: "Ramsay"
+  url: "/tartans/r/ra/ramsay-5/"
 - name: "Ramsay (Orange)"
   url: "/setts/k4lo9k13g6lo3g9w4/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4lo9k13g6lo3g9w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKGYGW](/stripes/kykgygw/).
 
-Part of the [Ramsay](/tartans/r/ra/ramsay-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ramsay](/tartans/r/ra/ramsay-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

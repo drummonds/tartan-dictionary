@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bannockbane"
+  url: "/clan/bannockbane/"
 - name: "Bannockbane"
-  url: "/tartans/b/ba/bannockbane-5/"
+  url: "/families/bannockbane/"
+- name: "Bannockbane"
+  url: "/tartans/b/ba/bannockbane-9/"
 - name: "Bannockbane Grey #2"
   url: "/setts/n2dy2n15dy2w10ly15dy2ly2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n2dy2n15dy2w10ly15dy2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWYGY](/stripes/bgbgwygy/).
 
-Part of the [Bannockbane](/tartans/b/ba/bannockbane-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bannockbane](/tartans/b/ba/bannockbane-9/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

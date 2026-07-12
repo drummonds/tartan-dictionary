@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mercer"
+  url: "/clan/mercer/"
 - name: "Mercer"
-  url: "/tartans/m/me/mercer-2/"
+  url: "/families/mercer/"
+- name: "Mercer"
+  url: "/tartans/m/me/mercer/"
 - name: "Mercer, Charles"
   url: "/setts/db9t2db2y1t7db2r1t4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db9t2db2y1t7db2r1t4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBBRB](/stripes/bbbgbbrb/).
 
-Part of the [Mercer](/tartans/m/me/mercer-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mercer](/tartans/m/me/mercer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

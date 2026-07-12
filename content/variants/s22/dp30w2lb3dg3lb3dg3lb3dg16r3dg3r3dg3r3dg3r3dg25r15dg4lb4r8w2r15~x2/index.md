@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wilson"
+  url: "/clan/wilson/"
 - name: "Wilson, Janet"
   url: "/tartans/w/wi/wilson-janet/"
 - name: "Wilson, Janet (1780 Original)"

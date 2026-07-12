@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s9/lb3n1k1ri12r1g9r1n1lb3~x2~ri2209032-r2208029/"><img src="/variants/s9/lb3n1k1ri12r1g9r1n1lb3~x2~ri2209032-r2208029/sett.png" alt="Murray of Abercairney (Personal)" width="240"><br>Murray of Abercairney (Personal)</a>
+<a class="tartan" href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/"><img src="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/sett.png" alt="Murray" width="240"><br>Murray</a>
 
 ## Families
 
+- [Murray](/families/murray/)
 - [Murray of Abercairney](/families/murray-of-abercairney/)
 - [Murray of Atholl](/families/murray-of-atholl/)
 - [Murray of Dunmore](/families/murray-of-dunmore/)

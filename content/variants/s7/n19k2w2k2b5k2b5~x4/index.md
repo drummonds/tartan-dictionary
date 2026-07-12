@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kyle"
+  url: "/clan/kyle/"
 - name: "Kyle"
-  url: "/tartans/k/ky/kyle-3/"
+  url: "/families/kyle/"
+- name: "Kyle"
+  url: "/tartans/k/ky/kyle-4/"
 - name: "Kyle"
   url: "/setts/n19k2w2k2b5k2b5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n19k2w2k2b5k2b5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKB](/stripes/bkbkwkb/).
 
-Part of the [Kyle](/tartans/k/ky/kyle-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kyle](/tartans/k/ky/kyle-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rainbow"
+  url: "/clan/rainbow/"
 - name: "Rainbow"
-  url: "/tartans/r/ra/rainbow-3/"
+  url: "/families/rainbow/"
+- name: "Rainbow"
+  url: "/tartans/r/ra/rainbow-7/"
 - name: "Rainbow (Canada)"
   url: "/setts/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBRYRYGYGY](/stripes/bggbryrygygy/).
 
-Part of the [Rainbow](/tartans/r/ra/rainbow-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rainbow](/tartans/r/ra/rainbow-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

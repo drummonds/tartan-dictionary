@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Orkney"
+  url: "/clan/orkney/"
 - name: "Orkney Slate"
-  url: "/tartans/o/or/orkney-slate-2/"
+  url: "/tartans/o/or/orkney-slate/"
 - name: "Orkney Slate (Fashion)"
   url: "/setts/n8o74lb8n42o11dp2o16n4/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n8o74lb8n42o11dp2o16n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWRB](/stripes/brbrbwrb/).
 
-Part of the [Orkney Slate](/tartans/o/or/orkney-slate-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Orkney Slate](/tartans/o/or/orkney-slate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

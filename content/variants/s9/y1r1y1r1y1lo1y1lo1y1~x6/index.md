@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Compaq"
+  url: "/clan/compaq/"
 - name: "Compaq Check"
   url: "/tartans/c/co/compaq-check/"
 - name: "Compaq Corporate Tartan"

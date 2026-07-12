@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Highland"
+  url: "/clan/highland/"
 - name: "Highland Sky"
   url: "/tartans/h/hi/highland-sky/"
 - name: "Highland Sky (Fashion)"

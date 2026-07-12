@@ -7,6 +7,8 @@ crumbs:
   url: "/"
 - name: "Clan MacRae"
   url: "/clan/macrae/"
+- name: "MacRae"
+  url: "/families/macrae/"
 - name: "MacRae Hunting"
   url: "/tartans/m/ma/macrae-hunting-2/"
 - name: "MacRae Htg - 1820 (Wilsons)"

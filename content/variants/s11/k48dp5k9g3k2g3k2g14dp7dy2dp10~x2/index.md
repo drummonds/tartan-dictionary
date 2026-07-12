@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Paxton"
+  url: "/clan/paxton/"
 - name: "Paxton"
-  url: "/tartans/p/pa/paxton-3/"
+  url: "/families/paxton/"
+- name: "Paxton"
+  url: "/tartans/p/pa/paxton/"
 - name: "Paxton (Personal)"
   url: "/setts/k48dp5k9g3k2g3k2g14dp7dy2dp10/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k48dp5k9g3k2g3k2g14dp7dy2dp10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKGKGKBK](/stripes/bgbgkgkgkbk/).
 
-Part of the [Paxton](/tartans/p/pa/paxton-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Paxton](/tartans/p/pa/paxton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -10,6 +10,7 @@ date: 2023-03-18
 
 ## Families
 
+- [Fraser](/families/fraser/)
 - [Fraser of Altyre](/families/fraser-of-altyre/)
 - [Fraser of Boblainy, Hugh](/families/fraser-of-boblainy-hugh/)
 - [Fraser of Castle Leathers, Major James](/families/fraser-of-castle-leathers-major-james/)

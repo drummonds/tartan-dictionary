@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Harmony"
+  url: "/clan/harmony/"
+- name: "Harmony"
+  url: "/families/harmony/"
 - name: "Harmony 5"
-  url: "/tartans/h/ha/harmony-5/"
+  url: "/tartans/h/ha/harmony-5-2/"
 - name: "Harmony 5"
   url: "/setts/g9b3g4o3g3o4g3dg11oi30b3oi4g3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g9b3g4o3g3o4g3dg11oi30b3oi4g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRGRGGRBRG](/stripes/gbgrgrggrbrg/).
 
-Part of the [Harmony 5](/tartans/h/ha/harmony-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harmony 5](/tartans/h/ha/harmony-5-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

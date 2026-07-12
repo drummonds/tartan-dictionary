@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Carrick"
+  url: "/clan/carrick/"
 - name: "Carrick High"
   url: "/tartans/c/ca/carrick-high/"
 - name: "Carrick High School"

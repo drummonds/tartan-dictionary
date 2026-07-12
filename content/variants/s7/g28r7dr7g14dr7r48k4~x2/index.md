@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacNab"
+  url: "/clan/macnab/"
 - name: "MacNab"
-  url: "/tartans/m/ma/macnab-4/"
+  url: "/families/macnab/"
+- name: "MacNab"
+  url: "/tartans/m/ma/macnab-6/"
 - name: "MacNab (Crimson)"
   url: "/setts/g28r7dr7g14dr7r48k4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g28r7dr7g14dr7r48k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBRK](/stripes/grbgbrk/).
 
-Part of the [MacNab](/tartans/m/ma/macnab-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacNab](/tartans/m/ma/macnab-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

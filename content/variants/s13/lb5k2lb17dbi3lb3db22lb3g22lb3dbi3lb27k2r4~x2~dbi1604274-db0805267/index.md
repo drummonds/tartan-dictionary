@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Leith"
+  url: "/clan/leith/"
 - name: "Leith"
-  url: "/tartans/l/le/leith/"
+  url: "/families/leith/"
+- name: "Leith"
+  url: "/tartans/l/le/leith-3/"
 - name: "Leith"
   url: "/setts/lb5k2lb17dbi3lb3db22lb3g22lb3dbi3lb27k2r4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb5k2lb17dbi3lb3db22lb3g22lb3dbi3lb27k2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWBWGWBWBWKW](/stripes/rkwbwgwbwbwkw/).
 
-Part of the [Leith](/tartans/l/le/leith/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Leith](/tartans/l/le/leith-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan DunBroch"
+  url: "/clan/dunbroch/"
+- name: "DunBroch"
+  url: "/families/dunbroch/"
 ---
+A tartan of the [DunBroch](/families/dunbroch/) family.
 Its design is pattern [BBKBWBGBGBG](/stripes/bbkbwbgbgbg/) — the page of every tartan sharing this colour sequence.
 
 The **DunBroch** tartan groups 2 setts — the same named design recorded as different cloths

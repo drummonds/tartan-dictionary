@@ -10,5 +10,6 @@ date: 2023-03-18
 
 ## Families
 
+- [MacKay](/families/mackay/)
 - [MacKay, of Strathnaver](/families/mackay-of-strathnaver/)
 

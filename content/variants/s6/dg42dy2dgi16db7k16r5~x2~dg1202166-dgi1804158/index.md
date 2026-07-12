@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Waterford"
+  url: "/clan/waterford/"
 - name: "Waterford Irish County"
   url: "/tartans/w/wa/waterford-irish-county/"
 - name: "Waterford Irish County Tartan"

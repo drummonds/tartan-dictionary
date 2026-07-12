@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Cockburn"
   url: "/clan/cockburn/"
 - name: "Cockburn"
+  url: "/families/cockburn/"
+- name: "Cockburn"
   url: "/tartans/c/co/cockburn-2/"
 - name: "Cockburn Blue"
   url: "/setts/db15k1g1k1g1k1db5k1w1k1db5k1y1k1g5k1r1/"

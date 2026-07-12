@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Indigo"
+  url: "/clan/indigo/"
 - name: "Indigo Blue Works"
   url: "/tartans/i/in/indigo-blue-works/"
 - name: "Indigo Blue Works"

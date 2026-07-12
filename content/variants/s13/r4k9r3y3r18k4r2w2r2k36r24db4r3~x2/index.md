@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan First"
+  url: "/clan/first/"
 - name: "First Special Services Forces"
   url: "/tartans/f/fi/first-special-services-forces/"
 - name: "First Special Services Forces (Mil)"

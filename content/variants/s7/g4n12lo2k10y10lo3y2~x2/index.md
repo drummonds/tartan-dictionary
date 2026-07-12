@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rothesay"
+  url: "/clan/rothesay/"
 - name: "Rothesay"
-  url: "/tartans/r/ro/rothesay/"
+  url: "/families/rothesay/"
+- name: "Rothesay"
+  url: "/tartans/r/ro/rothesay-4/"
 - name: "Rothesay"
   url: "/setts/g4n12lo2k10y10lo3y2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g4n12lo2k10y10lo3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYKGYG](/stripes/gbykgyg/).
 
-Part of the [Rothesay](/tartans/r/ro/rothesay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rothesay](/tartans/r/ro/rothesay-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

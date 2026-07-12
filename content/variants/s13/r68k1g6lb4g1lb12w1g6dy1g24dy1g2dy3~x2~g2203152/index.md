@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ellis"
+  url: "/clan/ellis/"
 - name: "Ellis Island"
   url: "/tartans/e/el/ellis-island/"
 - name: "Ellis Island (District)"

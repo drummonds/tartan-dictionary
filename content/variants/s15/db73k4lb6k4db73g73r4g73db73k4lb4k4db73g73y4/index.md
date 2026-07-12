@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cambridge"
+  url: "/clan/cambridge/"
 - name: "Cambridge"
-  url: "/tartans/c/ca/cambridge/"
+  url: "/families/cambridge/"
+- name: "Cambridge"
+  url: "/tartans/c/ca/cambridge-2/"
 - name: "Cambridge"
   url: "/setts/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBGRGBKWKBGG](/stripes/bkwkbgrgbkwkbgg/).
 
-Part of the [Cambridge](/tartans/c/ca/cambridge/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cambridge](/tartans/c/ca/cambridge-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

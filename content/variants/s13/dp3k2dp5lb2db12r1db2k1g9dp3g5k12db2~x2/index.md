@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacKusick"
+  url: "/clan/mackusick/"
 - name: "MacKusick"
-  url: "/tartans/m/ma/mackusick/"
+  url: "/families/mackusick/"
+- name: "MacKusick"
+  url: "/tartans/m/ma/mackusick-2/"
 - name: "MacKusick (Piper) #2 (Personal)"
   url: "/setts/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBRBKGBGKB](/stripes/bkbwbrbkgbgkb/).
 
-Part of the [MacKusick](/tartans/m/ma/mackusick/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKusick](/tartans/m/ma/mackusick-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

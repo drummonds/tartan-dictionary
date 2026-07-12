@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gleneagles"
+  url: "/clan/gleneagles/"
 - name: "Gleneagles USA"
   url: "/tartans/g/gl/gleneagles-usa/"
 - name: "Gleneagles USA (Dalgleish)"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Weir"
+  url: "/clan/weir/"
 - name: "Weir"
-  url: "/tartans/w/we/weir/"
+  url: "/families/weir/"
+- name: "Weir"
+  url: "/tartans/w/we/weir-2/"
 - name: "Weir Clan Tartan"
   url: "/setts/k8y1k1db28k12g2k1lb2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8y1k1db28k12g2k1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKGKW](/stripes/kgkbkgkw/).
 
-Part of the [Weir](/tartans/w/we/weir/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Weir](/tartans/w/we/weir-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Virginia"
+  url: "/clan/virginia/"
 - name: "Virginia International Tattoo Hixon"
   url: "/tartans/v/vi/virginia-international-tattoo-hixon/"
 - name: "Virginia International Tattoo Hixon"

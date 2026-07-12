@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Vipont"
+  url: "/clan/vipont/"
+- name: "Vipont"
+  url: "/families/vipont/"
 - name: "Vipont"
   url: "/tartans/v/vi/vipont-2/"
 - name: "Vipont (White line)"

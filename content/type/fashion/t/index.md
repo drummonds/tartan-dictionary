@@ -17,8 +17,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/"><img src="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/sett.png" alt="Teirney (Estimated threadcount)" width="140"><br>Teirney (Estimated threadcount)</a></li>
 <li><a class="tartan" href="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/"><img src="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/sett.png" alt="Telfer, Jamie of the Fair Dodhead" width="140"><br>Telfer, Jamie of the Fair Dodhead</a></li>
 <li><a class="tartan" href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/"><img src="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/sett.png" alt="Tenmaya Check" width="140"><br>Tenmaya Check</a></li>
-<li><a class="tartan" href="/variants/s7/g23db3k8db4g4db56ly8/"><img src="/variants/s7/g23db3k8db4g4db56ly8/sett.png" alt="Tern House" width="140"><br>Tern House</a></li>
 <li><a class="tartan" href="/variants/s7/g23db3k8db4g4db56dy8/"><img src="/variants/s7/g23db3k8db4g4db56dy8/sett.png" alt="Tern House" width="140"><br>Tern House</a></li>
+<li><a class="tartan" href="/variants/s7/g23db3k8db4g4db56ly8/"><img src="/variants/s7/g23db3k8db4g4db56ly8/sett.png" alt="Tern House" width="140"><br>Tern House</a></li>
 <li><a class="tartan" href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/sett.png" alt="Terre D'Ecosse" width="140"><br>Terre D'Ecosse</a></li>
 <li><a class="tartan" href="/variants/s7/r50db14w6db9y3db4r4~x2/"><img src="/variants/s7/r50db14w6db9y3db4r4~x2/sett.png" alt="Texas Lone Star" width="140"><br>Texas Lone Star</a></li>
 <li><a class="tartan" href="/variants/s7/r50db14w6db9ly3db4r4~x2/"><img src="/variants/s7/r50db14w6db9ly3db4r4~x2/sett.png" alt="Texas Lone Star (Fashion)" width="140"><br>Texas Lone Star (Fashion)</a></li>
@@ -43,8 +43,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/"><img src="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/sett.png" alt="Titanium (Fashion)" width="140"><br>Titanium (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s6/db1ly5db1ly5db2w1~x4/"><img src="/variants/s6/db1ly5db1ly5db2w1~x4/sett.png" alt="Tokharion" width="140"><br>Tokharion</a></li>
 <li><a class="tartan" href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><img src="/variants/s8/t18r1t1r1t1k7t13w2~x4/sett.png" alt="Tokyo Bluebells (Dance)" width="140"><br>Tokyo Bluebells (Dance)</a></li>
-<li><a class="tartan" href="/variants/s5/w15r20y2g1lg1~x4/"><img src="/variants/s5/w15r20y2g1lg1~x4/sett.png" alt="Tomomi" width="140"><br>Tomomi</a></li>
 <li><a class="tartan" href="/variants/s6/ly5w15r40y4g2lb2~x2/"><img src="/variants/s6/ly5w15r40y4g2lb2~x2/sett.png" alt="Tomomi" width="140"><br>Tomomi</a></li>
+<li><a class="tartan" href="/variants/s5/w15r20y2g1lg1~x4/"><img src="/variants/s5/w15r20y2g1lg1~x4/sett.png" alt="Tomomi" width="140"><br>Tomomi</a></li>
 <li><a class="tartan" href="/variants/s9/do3dy1lr1do1dy3do3lr3y6dp1~x6~do1301000-lr3100000/"><img src="/variants/s9/do3dy1lr1do1dy3do3lr3y6dp1~x6~do1301000-lr3100000/sett.png" alt="Toorak Chapler" width="140"><br>Toorak Chapler</a></li>
 <li><a class="tartan" href="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/"><img src="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/sett.png" alt="Toorak Chapler (Fashion)" width="140"><br>Toorak Chapler (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><img src="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/sett.png" alt="Torana" width="140"><br>Torana</a></li>

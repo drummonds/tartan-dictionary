@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Campbell"
   url: "/clan/campbell/"
 - name: "Campbell"
-  url: "/tartans/c/ca/campbell-2/"
+  url: "/families/campbell/"
+- name: "Campbell"
+  url: "/tartans/c/ca/campbell-4/"
 - name: "Campbell (Clan)"
   url: "/setts/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKGKGKWKWKW](/stripes/wkwkgkgkwkwkw/).
 
-Part of the [Campbell](/tartans/c/ca/campbell-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Campbell](/tartans/c/ca/campbell-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

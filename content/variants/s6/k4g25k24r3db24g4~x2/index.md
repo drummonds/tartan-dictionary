@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Ferguson"
   url: "/clan/ferguson/"
 - name: "Ferguson"
+  url: "/families/ferguson/"
+- name: "Ferguson"
   url: "/tartans/f/fe/ferguson-5/"
 - name: "Ferguson of Balquhidder #2"
   url: "/setts/k4g25k24r3db24g4/"

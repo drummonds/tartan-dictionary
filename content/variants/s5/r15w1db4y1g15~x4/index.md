@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Eglinton"
+  url: "/clan/eglinton/"
 - name: "Eglinton, Duke of"
   url: "/tartans/e/eg/eglinton-duke-of/"
 - name: "Eglinton, Duke of (Artefact)"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Freger"
+  url: "/clan/freger/"
 - name: "Freger"
-  url: "/tartans/f/fr/freger-2/"
+  url: "/families/freger/"
+- name: "Freger"
+  url: "/tartans/f/fr/freger/"
 - name: "Freger (Corporate)"
   url: "/setts/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBKGKBKGWGKBKGKWKBWGW](/stripes/gwbkgkbkgwgkbkgkwkbwgw/).
 
-Part of the [Freger](/tartans/f/fr/freger-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Freger](/tartans/f/fr/freger/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 

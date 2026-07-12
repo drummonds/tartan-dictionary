@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGillivray"
+  url: "/clan/macgillivray/"
 - name: "MacGillivray Dress, Janice"
   url: "/tartans/m/ma/macgillivray-dress-janice/"
 - name: "MacGillivray Dress, Janice (Personal"

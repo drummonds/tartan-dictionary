@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Cian"
   url: "/clan/cian/"
 - name: "Cian"
-  url: "/tartans/c/ci/cian-2/"
+  url: "/families/cian/"
+- name: "Cian"
+  url: "/tartans/c/ci/cian/"
 - name: "Cian (Carroll), Clan"
   url: "/setts/db16k1lb1db10k4b8dp4db7lb1k1lo2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16k1lb1db10k4b8dp4db7lb1k1lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBKBBBWKY](/stripes/bkwbkbbbwky/).
 
-Part of the [Cian](/tartans/c/ci/cian-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cian](/tartans/c/ci/cian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

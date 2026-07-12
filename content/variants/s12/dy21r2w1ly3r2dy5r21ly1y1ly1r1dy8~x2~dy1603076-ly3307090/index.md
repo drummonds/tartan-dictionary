@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glendronach"
+  url: "/clan/glendronach/"
+- name: "Glendronach"
+  url: "/families/glendronach/"
 - name: "Glendronach"
   url: "/tartans/g/gl/glendronach/"
 - name: "Glendronach Corporate Tartan"

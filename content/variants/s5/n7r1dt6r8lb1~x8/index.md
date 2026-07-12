@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Callum"
+  url: "/clan/callum/"
 - name: "Callum"
-  url: "/tartans/c/ca/callum/"
+  url: "/families/callum/"
+- name: "Callum"
+  url: "/tartans/c/ca/callum-2/"
 - name: "Callum (Buchan) (Name)"
   url: "/setts/n7r1dt6r8lb1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n7r1dt6r8lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRW](/stripes/brbrw/).
 
-Part of the [Callum](/tartans/c/ca/callum/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Callum](/tartans/c/ca/callum-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

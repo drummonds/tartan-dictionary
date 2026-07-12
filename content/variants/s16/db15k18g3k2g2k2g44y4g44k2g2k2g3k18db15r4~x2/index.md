@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sarafilovic"
+  url: "/clan/sarafilovic/"
 - name: "Sarafilovic"
-  url: "/tartans/s/sa/sarafilovic/"
+  url: "/families/sarafilovic/"
+- name: "Sarafilovic"
+  url: "/tartans/s/sa/sarafilovic-2/"
 - name: "Sarafilovic"
   url: "/setts/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGGGKGKGKBR](/stripes/bkgkgkgggkgkgkbr/).
 
-Part of the [Sarafilovic](/tartans/s/sa/sarafilovic/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sarafilovic](/tartans/s/sa/sarafilovic-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

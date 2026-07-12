@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Benedictus"
+  url: "/clan/benedictus/"
+- name: "Benedictus"
+  url: "/families/benedictus/"
 - name: "Benedictus"
   url: "/tartans/b/be/benedictus/"
 - name: "Benedictus Blue (Personal)"

@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Scott"
   url: "/clan/scott/"
 - name: "Scott"
-  url: "/tartans/s/sc/scott-9/"
+  url: "/families/scott/"
+- name: "Scott"
+  url: "/tartans/s/sc/scott-8/"
 - name: "Scott (Black and White)"
   url: "/setts/k31w2k4w1k1w1k1w1k1w1k3w3/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k31w2k4w1k1w1k1w1k1w1k3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkwkw/).
 
-Part of the [Scott](/tartans/s/sc/scott-9/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scott](/tartans/s/sc/scott-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

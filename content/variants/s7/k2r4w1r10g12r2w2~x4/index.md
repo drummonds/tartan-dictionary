@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Starr"
+  url: "/clan/starr/"
 - name: "Starr"
-  url: "/tartans/s/st/starr-2/"
+  url: "/families/starr/"
+- name: "Starr"
+  url: "/tartans/s/st/starr/"
 - name: "Starr (1978) (Name)"
   url: "/setts/k2r4w1r10g12r2w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2r4w1r10g12r2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRGRW](/stripes/krwrgrw/).
 
-Part of the [Starr](/tartans/s/st/starr-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Starr](/tartans/s/st/starr/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

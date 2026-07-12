@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Caledonia"
+  url: "/clan/caledonia/"
+- name: "Caledonia"
+  url: "/families/caledonia/"
 - name: "Caledonia"
   url: "/tartans/c/ca/caledonia/"
 - name: "Caledonia - 1819 (Wilsons') No.155"

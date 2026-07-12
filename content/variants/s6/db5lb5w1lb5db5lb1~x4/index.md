@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Manx"
+  url: "/clan/manx/"
 - name: "Manx Cornaa"
   url: "/tartans/m/ma/manx-cornaa/"
 - name: "Manx Cornaa (Personal)"

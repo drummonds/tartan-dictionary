@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Venters"
+  url: "/clan/venters/"
 - name: "Venters"
-  url: "/tartans/v/ve/venters-2/"
+  url: "/families/venters/"
+- name: "Venters"
+  url: "/tartans/v/ve/venters/"
 - name: "Venters (Personal)"
   url: "/setts/dbi15db55w1dp5r2ly1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi15db55w1dp5r2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBRY](/stripes/bbwbry/).
 
-Part of the [Venters](/tartans/v/ve/venters-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Venters](/tartans/v/ve/venters/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

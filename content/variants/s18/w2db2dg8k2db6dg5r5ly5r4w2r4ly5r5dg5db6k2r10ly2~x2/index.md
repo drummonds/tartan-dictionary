@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kutztown"
+  url: "/clan/kutztown/"
+- name: "Kutztown"
+  url: "/families/kutztown/"
 - name: "Kutztown"
   url: "/tartans/k/ku/kutztown/"
 - name: "Kutztown (Berks County, PA)"

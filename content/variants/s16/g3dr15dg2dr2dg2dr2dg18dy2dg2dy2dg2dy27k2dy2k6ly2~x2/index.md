@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Strathmore"
+  url: "/clan/strathmore/"
 - name: "Strathmore"
-  url: "/tartans/s/st/strathmore-2/"
+  url: "/families/strathmore/"
+- name: "Strathmore"
+  url: "/tartans/s/st/strathmore/"
 - name: "Strathmore (District)"
   url: "/setts/g3dr15dg2dr2dg2dr2dg18dy2dg2dy2dg2dy27k2dy2k6ly2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3dr15dg2dr2dg2dr2dg18dy2dg2dy2dg2dy27k2dy2k6ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGGGGGGKGKY](/stripes/gbgbgbggggggkgky/).
 
-Part of the [Strathmore](/tartans/s/st/strathmore-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathmore](/tartans/s/st/strathmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

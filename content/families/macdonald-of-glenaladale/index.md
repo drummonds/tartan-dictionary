@@ -6,15 +6,11 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 **Trove of Scotland:** [search “Glenaladale”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Glenaladale&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/db3lb1r30db32r3w1r3g23r31db3w1/">MacDonald of Glenaladale</a></td><td><code>DB/3 LB1 R30 DB32 R3 W1 R3 G23 R31 DB3 W/1</code></td><td>258</td><td>~1745</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3lb1r30db32r3w1r3g23r31db3w1/"><img src="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/sett.png" alt="MacDonald of Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the MacDonald of Glenaladale tartan and all its setts →](/tartans/m/ma/macdonald-of-glenaladale/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/m/ma/macdonald-of-glenaladale/"><img src="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/sett.png" alt="MacDonald of Glenaladale" width="140"><br><strong>MacDonald of Glenaladale (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macdonald-of-glenaladale-3/"><img src="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/sett.png" alt="MacDonald of Glenaladale" width="140"><br><strong>MacDonald of Glenaladale (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macdonald-of-glenaladale-4/"><img src="/variants/s6/g5w2r27g27r5w2~x2/sett.png" alt="MacDonald of Glenaladale" width="140"><br><strong>MacDonald of Glenaladale (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macdonald-of-glenaladale-2/"><img src="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/sett.png" alt="MacDonald of Glenaladale" width="140"><br><strong>MacDonald of Glenaladale (1)</strong></a></li>
+</ul>

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Portree"
+  url: "/clan/portree/"
+- name: "Portree"
+  url: "/families/portree/"
 - name: "Portree"
   url: "/tartans/p/po/portree/"
 - name: "Portree Blue (Dance)"

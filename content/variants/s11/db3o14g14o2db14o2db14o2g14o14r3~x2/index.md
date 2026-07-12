@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Buchanan"
+  url: "/clan/buchanan/"
+- name: "Buchanan"
+  url: "/families/buchanan/"
 - name: "Buchanan, hunting"
-  url: "/tartans/b/bu/buchanan-hunting-4/"
+  url: "/tartans/b/bu/buchanan-hunting-5/"
 - name: "Buchanan, hunting"
   url: "/setts/db3o14g14o2db14o2db14o2g14o14r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3o14g14o2db14o2db14o2g14o14r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRBRGRR](/stripes/brgrbrbrgrr/).
 
-Part of the [Buchanan, hunting](/tartans/b/bu/buchanan-hunting-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Buchanan, hunting](/tartans/b/bu/buchanan-hunting-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

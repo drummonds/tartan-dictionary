@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lomond"
+  url: "/clan/lomond/"
 - name: "Lomond Mist"
-  url: "/tartans/l/lo/lomond-mist/"
+  url: "/tartans/l/lo/lomond-mist-2/"
 - name: "Lomond Mist (Fashion)"
   url: "/setts/k8lb1o1do10o16r2k3n33lb1n3w2/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8lb1o1do10o16r2k3n33lb1n3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRBRRKBWBW](/stripes/kwrbrrkbwbw/).
 
-Part of the [Lomond Mist](/tartans/l/lo/lomond-mist/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lomond Mist](/tartans/l/lo/lomond-mist-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

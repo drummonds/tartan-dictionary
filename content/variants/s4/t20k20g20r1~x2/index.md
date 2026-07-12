@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gunn"
+  url: "/clan/gunn/"
 - name: "Gunn"
-  url: "/tartans/g/gu/gunn-3/"
+  url: "/families/gunn/"
+- name: "Gunn"
+  url: "/tartans/g/gu/gunn-2/"
 - name: "Gunn (2011) Personal Tartan"
   url: "/setts/t20k20g20r1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t20k20g20r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGR](/stripes/bkgr/).
 
-Part of the [Gunn](/tartans/g/gu/gunn-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gunn](/tartans/g/gu/gunn-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

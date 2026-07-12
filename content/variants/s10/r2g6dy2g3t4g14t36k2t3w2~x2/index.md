@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sarasota"
+  url: "/clan/sarasota/"
+- name: "Sarasota"
+  url: "/families/sarasota/"
 - name: "Sarasota"
   url: "/tartans/s/sa/sarasota-2/"
 - name: "Sarasota - Dunfermline (Commemorat)"

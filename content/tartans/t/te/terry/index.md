@@ -4,36 +4,33 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Terry"
+  url: "/clan/terry/"
+- name: "Terry"
+  url: "/families/terry/"
 ---
-Its design is pattern [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/) — the page of every tartan sharing this colour sequence.
-
-Designed 1993 by Thomas Terry of Geneseo, Illinois, for all bearing the Terry name.
+A tartan of the [Terry](/families/terry/) family.
+Its design is pattern [BGBRGGGGGRGGG](/stripes/bgbrgggggrggg/) — the page of every tartan sharing this colour sequence.
 
 The **Terry** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21/">Terry</a></td><td><code>G/66 LO2 G6 R6 DG6 LO2 DG42 LO2 DG6 R6 DG6 LO2 DG/42</code></td><td>280</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21/"><img src="/variants/s13/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g1903114-dg1806142/sett.png" alt="Terry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/b33y1b3r3g3y1g21y1g3r3g3y1g21/">Terry</a></td><td><code>B/66 Y2 B6 R6 G6 Y2 G42 Y2 G6 R6 G6 Y2 G/42</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/b33y1b3r3g3y1g21y1g3r3g3y1g21/"><img src="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/sett.png" alt="Terry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
 
-## Also known as
-
-This tartan is also recorded under:
-
-- Terry Clan/Family Weavers
-
 ## Nearest tartans
 
-The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s13/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g1903114-dg1806142/">Terry</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g1903114-dg1806142/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg20dgi2ly3dgi2dg32dgi32dg2r3dg2dgi32dg12~x2~dgi1605139&amp;base=g33lo1g3r3dg3lo1dg21lo1dg3r3dg3lo1dg21~x2~g1903114-dg1806142" title="compare in the TTD">3.92</a></div><div class="nn-threads nn-far2">504</div><div class="nn-name nn-far2"><a href="/variants/s11/dg20dgi2ly3dgi2dg32dgi32dg2r3dg2dgi32dg12~x2~dgi1605139/">Galloway District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg20dgi2ly3dgi2dg32dgi32dg2r3dg2dgi32dg12~x2~dgi1605139/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/">Terry</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r2db2g16y1db6r1y1r1db6y1g16y2~x2&amp;base=b33y1b3r3g3y1g21y1g3r3g3y1g21~x2" title="compare in the TTD">3.87</a></div><div class="nn-threads nn-far2">212</div><div class="nn-name nn-far2"><a href="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/">Monroig, Eric</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144&amp;base=b33y1b3r3g3y1g21y1g3r3g3y1g21~x2" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">288</div><div class="nn-name nn-far2"><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/">Wiregrass</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 10225 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg20dgi2ly3dgi2dg32dgi32dg2r3dg2dgi32dg12~x2~dgi1605139/"><circle cx="482.7" cy="231.6" r="4" fill="#3465a4"><title>Galloway District Tartan</title></circle></a><circle cx="509.5" cy="173.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/"><circle cx="348.7" cy="160.4" r="4" fill="#3465a4"><title>Monroig, Eric</title></circle></a><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><circle cx="367.4" cy="173.1" r="4" fill="#3465a4"><title>Wiregrass</title></circle></a><circle cx="398.0" cy="141.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

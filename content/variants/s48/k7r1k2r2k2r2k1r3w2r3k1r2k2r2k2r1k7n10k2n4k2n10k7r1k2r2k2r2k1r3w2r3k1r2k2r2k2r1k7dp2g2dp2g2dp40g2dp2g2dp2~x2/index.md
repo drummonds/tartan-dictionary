@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Arran"
+  url: "/clan/arran/"
 - name: "Arran, Isle of"
   url: "/tartans/a/ar/arran-isle-of-2/"
 - name: "Arran, Isle of (Lochcarron)"

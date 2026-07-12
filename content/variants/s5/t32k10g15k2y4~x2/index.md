@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rothesay"
+  url: "/clan/rothesay/"
 - name: "Rothesay & Caithness Fencibles"
   url: "/tartans/r/ro/rothesay-caithness-fencibles/"
 - name: "Rothesay & Caithness Fencibles (Mil)"

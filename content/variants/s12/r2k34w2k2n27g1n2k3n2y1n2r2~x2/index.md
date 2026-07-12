@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hudson"
+  url: "/clan/hudson/"
 - name: "Hudson Bay Company"
-  url: "/tartans/h/hu/hudson-bay-company/"
+  url: "/tartans/h/hu/hudson-bay-company-2/"
 - name: "Hudson's Bay Company"
   url: "/setts/r2k34w2k2n27g1n2k3n2y1n2r2/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2k34w2k2n27g1n2k3n2y1n2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBKBGBKWKR](/stripes/rbgbkbgbkwkr/).
 
-Part of the [Hudson Bay Company](/tartans/h/hu/hudson-bay-company/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hudson Bay Company](/tartans/h/hu/hudson-bay-company-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

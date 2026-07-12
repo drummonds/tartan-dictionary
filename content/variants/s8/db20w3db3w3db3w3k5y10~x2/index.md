@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kile"
+  url: "/clan/kile/"
 - name: "Kile"
-  url: "/tartans/k/ki/kile-2/"
+  url: "/families/kile/"
+- name: "Kile"
+  url: "/tartans/k/ki/kile/"
 - name: "Kile"
   url: "/setts/db20w3db3w3db3w3k5y10/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20w3db3w3db3w3k5y10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWKG](/stripes/bwbwbwkg/).
 
-Part of the [Kile](/tartans/k/ki/kile-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kile](/tartans/k/ki/kile/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Daks"
+  url: "/clan/daks/"
 - name: "Daks"
-  url: "/tartans/d/da/daks-15/"
+  url: "/families/daks/"
+- name: "Daks"
+  url: "/tartans/d/da/daks-8/"
 - name: "Daks - Chino Check - B.11155"
   url: "/setts/oi22o3k7y2k2n2k2db10dy6k2dy3oi2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/oi22o3k7y2k2n2k2db10dy6k2dy3oi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGBKBKGKRR](/stripes/rgkgbkbkgkrr/).
 
-Part of the [Daks](/tartans/d/da/daks-15/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Daks](/tartans/d/da/daks-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

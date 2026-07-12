@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Leith"
+  url: "/clan/leith/"
 - name: "Leith"
-  url: "/tartans/l/le/leith-3/"
+  url: "/families/leith/"
+- name: "Leith"
+  url: "/tartans/l/le/leith/"
 - name: "Leith (Hay)"
   url: "/setts/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGKRBRGRBRKWGRGRGRKGRKRGKRGRGRGWKRBRGRBRKGR](/stripes/krgkrbrgrbrkwgrgrgrkgrkrgkrgrgrgwkrbrgrbrkgr/).
 
-Part of the [Leith](/tartans/l/le/leith-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Leith](/tartans/l/le/leith/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 

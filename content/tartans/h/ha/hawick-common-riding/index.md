@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hawick"
+  url: "/clan/hawick/"
 ---
+A tartan of [Clan Hawick](/clan/hawick/).
 Its design is pattern [BBBBBBBBBBBBG](/stripes/bbbbbbbbbbbbg/) — the page of every tartan sharing this colour sequence.
 
 The **Hawick Common Riding** tartan groups 2 setts — the same named design recorded as different cloths

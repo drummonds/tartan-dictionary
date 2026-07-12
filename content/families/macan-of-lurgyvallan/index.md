@@ -6,15 +6,10 @@ date: 2023-03-18
 
 **Trove of Scotland:** [search “Lurgyvallan”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Lurgyvallan&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/dr9k1dr5g6dr4k2/">MacAn of Lurgyvallan</a></td><td><code>DR/36 K4 DR20 G24 DR16 K/8</code></td><td>172</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr9k1dr5g6dr4k2/"><img src="/variants/s6/dr9k1dr5g6dr4k2~x4/sett.png" alt="MacAn of Lurgyvallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the MacAn of Lurgyvallan tartan and all its setts →](/tartans/m/ma/macan-of-lurgyvallan-2/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/m/ma/macan-of-lurgyvallan-2/"><img src="/variants/s6/dr9k1dr5g6dr4k2~x4/sett.png" alt="MacAn of Lurgyvallan" width="140"><br><strong>MacAn of Lurgyvallan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macan-of-lurgyvallan/"><img src="/variants/s24/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1~x4~lb3200000-t2503227/sett.png" alt="MacAn of Lurgyvallan" width="140"><br><strong>MacAn of Lurgyvallan (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macan-of-lurgyvallan-3/"><img src="/variants/s4/r10k1r4g6~x2/sett.png" alt="Macan, of Lurgyvallan" width="140"><br><strong>Macan, of Lurgyvallan (1)</strong></a></li>
+</ul>

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kinross"
+  url: "/clan/kinross/"
+- name: "Kinross"
+  url: "/families/kinross/"
 ---
+A tartan of the [Kinross](/families/kinross/) family.
 Its design is pattern [RWWWBRKRKRWWWYRKRYWWWYKRKRBW](/stripes/rwwwbrkrkrwwwyrkrywwwykrkrbw/) — the page of every tartan sharing this colour sequence.
 
 The **Kinross** tartan is recorded as a single sett.

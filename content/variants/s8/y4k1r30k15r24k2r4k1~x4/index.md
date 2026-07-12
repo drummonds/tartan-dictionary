@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Oilmens"
+  url: "/clan/oilmens/"
 - name: "Oilmens"
-  url: "/tartans/o/oi/oilmens/"
+  url: "/families/oilmens/"
+- name: "Oilmens"
+  url: "/tartans/o/oi/oilmens-2/"
 - name: "Oilmens Corporate Tartan"
   url: "/setts/y4k1r30k15r24k2r4k1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y4k1r30k15r24k2r4k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRKRK](/stripes/gkrkrkrk/).
 
-Part of the [Oilmens](/tartans/o/oi/oilmens/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Oilmens](/tartans/o/oi/oilmens-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

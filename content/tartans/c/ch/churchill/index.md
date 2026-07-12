@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Churchill"
+  url: "/clan/churchill/"
+- name: "Churchill"
+  url: "/families/churchill/"
 ---
+A tartan of the [Churchill](/families/churchill/) family.
 Its design is pattern [BKWKBKBKBGK](/stripes/bkwkbkbkbgk/) — the page of every tartan sharing this colour sequence.
 
 The **Churchill** tartan groups 2 setts — the same named design recorded as different cloths

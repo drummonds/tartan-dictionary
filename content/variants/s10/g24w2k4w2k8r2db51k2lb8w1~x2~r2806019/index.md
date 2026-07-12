@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Victoria"
+  url: "/clan/victoria/"
+- name: "Victoria"
+  url: "/families/victoria/"
 - name: "Victoria"
   url: "/tartans/v/vi/victoria/"
 - name: "Victoria (Australia)"

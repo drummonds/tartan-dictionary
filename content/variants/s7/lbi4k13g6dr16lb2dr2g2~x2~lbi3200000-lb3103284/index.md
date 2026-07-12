@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Caledonian"
+  url: "/clan/caledonian/"
 - name: "Caledonian Brewery"
   url: "/tartans/c/ca/caledonian-brewery/"
 - name: "Caledonian Brewery Corporate Tartan"

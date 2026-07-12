@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Dunbar"
   url: "/clan/dunbar/"
 - name: "Dunbar"
-  url: "/tartans/d/du/dunbar-5/"
+  url: "/families/dunbar/"
+- name: "Dunbar"
+  url: "/tartans/d/du/dunbar-2/"
 - name: "Dunbar Plaid (Artefact)"
   url: "/setts/w6k1w1k1w1k5w2k5w4k4r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k4w24k4/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w6k1w1k1w1k5w2k5w4k4r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k4w24k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW](/stripes/kwkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkwkwkwkwkw/).
 
-Part of the [Dunbar](/tartans/d/du/dunbar-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dunbar](/tartans/d/du/dunbar-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [84 stripe tartan](/stripes/stripes84/).
 

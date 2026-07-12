@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Baillie"
   url: "/clan/baillie/"
 - name: "Baillie"
+  url: "/families/baillie/"
+- name: "Baillie"
   url: "/tartans/b/ba/baillie/"
 - name: "Baillie Clan Tartan"
   url: "/setts/db28k4db4k4db4k28g26k3y5k3g26k28db26k3r5/"

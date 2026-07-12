@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Munro"
   url: "/clan/munro/"
 - name: "Munro"
+  url: "/families/munro/"
+- name: "Munro"
   url: "/tartans/m/mu/munro/"
 - name: "Munro (Logan)"
   url: "/setts/r19y1db1r2g18r2db1y1r2db4r2y1db1r19g2r2g2/"

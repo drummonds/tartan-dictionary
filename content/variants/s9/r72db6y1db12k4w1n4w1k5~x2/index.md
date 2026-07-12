@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Inverness"
+  url: "/clan/inverness/"
 - name: "Inverness Cathedral"
   url: "/tartans/i/in/inverness-cathedral/"
 - name: "Inverness Cathedral (Corporate)"

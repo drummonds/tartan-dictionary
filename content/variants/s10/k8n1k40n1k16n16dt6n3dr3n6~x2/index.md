@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lochnagar"
+  url: "/clan/lochnagar/"
 - name: "Lochnagar Dark"
-  url: "/tartans/l/lo/lochnagar-dark/"
+  url: "/tartans/l/lo/lochnagar-dark-2/"
 - name: "Lochnagar Dark Fashion Tartan"
   url: "/setts/k8n1k40n1k16n16dt6n3dr3n6/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8n1k40n1k16n16dt6n3dr3n6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKBKBK](/stripes/bbbbbkbkbk/).
 
-Part of the [Lochnagar Dark](/tartans/l/lo/lochnagar-dark/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lochnagar Dark](/tartans/l/lo/lochnagar-dark-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

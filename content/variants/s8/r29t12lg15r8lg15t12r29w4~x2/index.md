@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Snowbird"
+  url: "/clan/snowbird/"
 - name: "Snowbird"
-  url: "/tartans/s/sn/snowbird-2/"
+  url: "/families/snowbird/"
+- name: "Snowbird"
+  url: "/tartans/s/sn/snowbird/"
 - name: "Snowbird"
   url: "/setts/r29t12lg15r8lg15t12r29w4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r29t12lg15r8lg15t12r29w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYRYBRW](/stripes/rbyrybrw/).
 
-Part of the [Snowbird](/tartans/s/sn/snowbird-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Snowbird](/tartans/s/sn/snowbird/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

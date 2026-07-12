@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dunoon"
+  url: "/clan/dunoon/"
 - name: "Dunoon Burgh Hall Trust"
   url: "/tartans/d/du/dunoon-burgh-hall-trust/"
 - name: "Dunoon Burgh Hall Trust"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Westwood"
+  url: "/clan/westwood/"
 - name: "Westwood"
-  url: "/tartans/w/we/westwood/"
+  url: "/families/westwood/"
+- name: "Westwood"
+  url: "/tartans/w/we/westwood-2/"
 - name: "Westwood"
   url: "/setts/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGYKWKYRYKWKYGWRW](/stripes/rwgykwkyrykwkygwrw/).
 
-Part of the [Westwood](/tartans/w/we/westwood/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Westwood](/tartans/w/we/westwood-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

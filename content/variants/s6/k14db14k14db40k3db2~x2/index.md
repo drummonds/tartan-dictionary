@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Atlin"
+  url: "/clan/atlin/"
 - name: "Atlin"
-  url: "/tartans/a/at/atlin-2/"
+  url: "/families/atlin/"
+- name: "Atlin"
+  url: "/tartans/a/at/atlin/"
 - name: "Atlin (Fashion)"
   url: "/setts/k14db14k14db40k3db2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k14db14k14db40k3db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
-Part of the [Atlin](/tartans/a/at/atlin-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Atlin](/tartans/a/at/atlin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

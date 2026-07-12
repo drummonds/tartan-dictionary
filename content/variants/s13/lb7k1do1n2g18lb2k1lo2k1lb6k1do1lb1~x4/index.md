@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
 - name: "Wcwm 972-1"
   url: "/tartans/w/wc/wcwm-972-1/"
 - name: "Wcwm 972-1"

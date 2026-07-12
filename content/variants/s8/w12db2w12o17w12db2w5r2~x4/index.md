@@ -7,6 +7,8 @@ crumbs:
   url: "/"
 - name: "Clan Milne"
   url: "/clan/milne/"
+- name: "Milne"
+  url: "/families/milne/"
 - name: "Milne Purple Dress"
   url: "/tartans/m/mi/milne-purple-dress-2/"
 - name: "Milne Purple Dress (Dance)"

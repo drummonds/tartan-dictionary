@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ralston"
+  url: "/clan/ralston/"
 - name: "Ralston"
-  url: "/tartans/r/ra/ralston-2/"
+  url: "/families/ralston/"
+- name: "Ralston"
+  url: "/tartans/r/ra/ralston-3/"
 - name: "Ralston Personal Tartan"
   url: "/setts/dg12n4dr4db4dr4n4dg18g5dg5g5db4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg12n4dr4db4dr4n4dg18g5dg5g5db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGBBBBBG](/stripes/bggggbbbbbg/).
 
-Part of the [Ralston](/tartans/r/ra/ralston-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ralston](/tartans/r/ra/ralston-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

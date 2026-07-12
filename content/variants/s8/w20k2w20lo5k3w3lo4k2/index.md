@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Guzzo"
+  url: "/clan/guzzo/"
+- name: "Guzzo"
+  url: "/families/guzzo/"
 - name: "Guzzo Dress"
   url: "/tartans/g/gu/guzzo-dress-2/"
 - name: "Guzzo Dress (Personal)"

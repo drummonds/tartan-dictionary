@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Aberuchill"
+  url: "/clan/aberuchill/"
 - name: "Aberuchill"
-  url: "/tartans/a/ab/aberuchill/"
+  url: "/families/aberuchill/"
+- name: "Aberuchill"
+  url: "/tartans/a/ab/aberuchill-2/"
 - name: "Aberuchill"
   url: "/setts/o8k2dy10dp30dy30g55k4lo6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o8k2dy10dp30dy30g55k4lo6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGBGGKY](/stripes/rkgbggky/).
 
-Part of the [Aberuchill](/tartans/a/ab/aberuchill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Aberuchill](/tartans/a/ab/aberuchill-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Jenkins"
   url: "/clan/jenkins/"
 - name: "Jenkins"
-  url: "/tartans/j/je/jenkins/"
+  url: "/families/jenkins/"
+- name: "Jenkins"
+  url: "/tartans/j/je/jenkins-2/"
 - name: "Jenkins (Name)"
   url: "/setts/db2r30g8r3g8r6db4r3db12w2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2r30g8r3g8r6db4r3db12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRBRBW](/stripes/brgrgrbrbw/).
 
-Part of the [Jenkins](/tartans/j/je/jenkins/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Jenkins](/tartans/j/je/jenkins-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

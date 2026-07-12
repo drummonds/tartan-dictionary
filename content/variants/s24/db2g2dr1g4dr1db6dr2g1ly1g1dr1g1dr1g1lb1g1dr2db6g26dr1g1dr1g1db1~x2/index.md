@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ettrick"
+  url: "/clan/ettrick/"
 - name: "Ettrick Forest"
   url: "/tartans/e/et/ettrick-forest/"
 - name: "Ettrick Forest"

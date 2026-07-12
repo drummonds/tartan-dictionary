@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Allison"
+  url: "/clan/allison/"
 - name: "Allison"
-  url: "/tartans/a/al/allison-4/"
+  url: "/families/allison/"
+- name: "Allison"
+  url: "/tartans/a/al/allison/"
 - name: "Allison (MacBean and Bishop)"
   url: "/setts/db3k2db12k18g14k2g14k8y2k8lb4r4k2w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3k2db12k18g14k2g14k8y2k8lb4r4k2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKWRKW](/stripes/bkbkgkgkgkwrkw/).
 
-Part of the [Allison](/tartans/a/al/allison-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Allison](/tartans/a/al/allison/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -36,10 +36,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s6/db2r25g10r2db10r2~x2/"><img src="/variants/s6/db2r25g10r2db10r2~x2/sett.png" alt="Grant of Lurg Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r80dp19r8g36r10dp2~x2/">Lovat or Fraser #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><img src="/variants/s6/r80dp19r8g36r10dp2~x2/sett.png" alt="Lovat or Fraser #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r24db6r3g12r4db1/">MacKintosh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r24db6r3g12r4db1/"><img src="/variants/s6/r24db6r3g12r4db1/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r70db20r10g40r10db3/">MacKintosh</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r70db20r10g40r10db3/"><img src="/variants/s6/r70db20r10g40r10db3/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r24db6r3g12r4db1/">MacKintosh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r24db6r3g12r4db1/"><img src="/variants/s6/r24db6r3g12r4db1/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r68db18r9g34r9db3~x2/">MacKintosh #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r68db18r9g34r9db3~x2/"><img src="/variants/s6/r68db18r9g34r9db3~x2/sett.png" alt="MacKintosh #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r48db2r3g28r4db2~x2/">MacKintosh #3</a></td></tr>

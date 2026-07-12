@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Stirling"
   url: "/clan/stirling/"
+- name: "Stirling"
+  url: "/families/stirling/"
 ---
-A tartan of [Clan Stirling](/clan/stirling/).
+A tartan of the [Stirling](/families/stirling/) family.
 Its design is pattern [RYBYKYGKWKGYKYBY](/stripes/rybykygkwkgykyby/) — the page of every tartan sharing this colour sequence.
 
 Designed by Tony Murray for the Stirling Clan Society, chosen by internet poll; woven by Lochcarron.

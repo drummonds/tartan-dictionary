@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hueg"
+  url: "/clan/hueg/"
 - name: "Hueg Scottish Thistle"
   url: "/tartans/h/hu/hueg-scottish-thistle/"
 - name: "Hueg (Bavaria) Scottish Thistle (Personal)"

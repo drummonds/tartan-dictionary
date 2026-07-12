@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Ogilvie"
   url: "/clan/ogilvie/"
 - name: "Ogilvie"
-  url: "/tartans/o/og/ogilvie-3/"
+  url: "/families/ogilvie/"
+- name: "Ogilvie"
+  url: "/tartans/o/og/ogilvie-8/"
 - name: "Ogilvie Clan Tartan"
   url: "/setts/r4w1k2y2dp4y2g6y2k2r2k2r2k2r2k2y4g8y4k2r8w2r8w2r8k2y2g8w2g8y2dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y4g6y2g6y4k12w1db4w1k12r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k2y2g8w2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4w1k2y2dp4y2g6y2k2r2k2r2k2r2k2y4g8y4k2r8w2r8w2r8k2y2g8w2g8y2dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y4g6y2g6y4k12w1db4w1k12r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k2y2g8w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKGBGGGKRKRKRKGGGKRWRWRKGGWGGBRKRWBWRWBWRKRBGGGGGKWBWKRWRWRKGGKGKGGKRWRWRKGGW](/stripes/rwkgbgggkrkrkrkgggkrwrwrkggwggbrkrwbwrwbwrkrbgggggkwbwkrwrwrkggkgkggkrwrwrkggw/).
 
-Part of the [Ogilvie](/tartans/o/og/ogilvie-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ogilvie](/tartans/o/og/ogilvie-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [78 stripe tartan](/stripes/stripes78/).
 

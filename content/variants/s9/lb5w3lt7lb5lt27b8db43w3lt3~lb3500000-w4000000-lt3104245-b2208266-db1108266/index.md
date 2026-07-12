@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Queensferry"
+  url: "/clan/queensferry/"
 - name: "Queensferry High School: Ferry Fling"
   url: "/tartans/q/qu/queensferry-high-school-ferry-fling/"
 - name: "Queensferry High School: Ferry Fling"

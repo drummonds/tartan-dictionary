@@ -7,6 +7,8 @@ crumbs:
   url: "/"
 - name: "Clan Casey"
   url: "/clan/casey/"
+- name: "Casey"
+  url: "/families/casey/"
 - name: "Casey Dress"
   url: "/tartans/c/ca/casey-dress/"
 - name: "Casey Dress (Estimated threadcount)"

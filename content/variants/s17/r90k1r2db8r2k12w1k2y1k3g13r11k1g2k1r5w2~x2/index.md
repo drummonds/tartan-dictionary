@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scotia"
+  url: "/clan/scotia/"
 - name: "Scotia Village"
   url: "/tartans/s/sc/scotia-village/"
 - name: "Scotia Village (Corporate)"

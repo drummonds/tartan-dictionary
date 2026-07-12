@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Hill"
   url: "/clan/hill/"
+- name: "Hill"
+  url: "/families/hill/"
 ---
-A tartan of [Clan Hill](/clan/hill/).
+A tartan of the [Hill](/families/hill/) family.
 Its design is pattern [BKRWRBBGRGRGRG](/stripes/bkrwrbbgrgrgrg/) — the page of every tartan sharing this colour sequence.
 
 The **Hill 70** tartan groups 2 setts — the same named design recorded as different cloths

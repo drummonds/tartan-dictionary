@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Livingstone"
+  url: "/clan/livingstone/"
+- name: "Livingstone"
+  url: "/families/livingstone/"
 - name: "Livingstone Dress"
-  url: "/tartans/l/li/livingstone-dress-2/"
+  url: "/tartans/l/li/livingstone-dress/"
 - name: "Livingstone Dress"
   url: "/setts/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKGKWKWKWKWKG](/stripes/bwkwkgkwkwkwkwkg/).
 
-Part of the [Livingstone Dress](/tartans/l/li/livingstone-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Livingstone Dress](/tartans/l/li/livingstone-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

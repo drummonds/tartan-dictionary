@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lander"
+  url: "/clan/lander/"
 - name: "Lander"
-  url: "/tartans/l/la/lander-2/"
+  url: "/families/lander/"
+- name: "Lander"
+  url: "/tartans/l/la/lander/"
 - name: "Lander (2013)"
   url: "/setts/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGGRGRGGKGKGK](/stripes/kgkggrgrggkgkgk/).
 
-Part of the [Lander](/tartans/l/la/lander-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lander](/tartans/l/la/lander/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

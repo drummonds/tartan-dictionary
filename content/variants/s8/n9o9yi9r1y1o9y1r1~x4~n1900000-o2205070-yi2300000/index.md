@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Jardine,"
   url: "/clan/jardine/"
 - name: "Jardine"
-  url: "/tartans/j/ja/jardine-3/"
+  url: "/families/jardine/"
+- name: "Jardine"
+  url: "/tartans/j/ja/jardine-2/"
 - name: "Jardine"
   url: "/setts/n9o9yi9r1y1o9y1r1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n9o9yi9r1y1o9y1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRGR](/stripes/brgrgrgr/).
 
-Part of the [Jardine](/tartans/j/ja/jardine-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Jardine](/tartans/j/ja/jardine-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

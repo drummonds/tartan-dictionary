@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacFarlane"
+  url: "/clan/macfarlane/"
 - name: "MacFarlane VS"
   url: "/tartans/m/ma/macfarlane-vs/"
 - name: "Lendrum (B&W)"

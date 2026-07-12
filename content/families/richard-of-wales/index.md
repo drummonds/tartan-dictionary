@@ -8,13 +8,6 @@ date: 2023-03-18
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3/">Richard of Wales</a></td><td><code>DB/20 DG8 DB8 DG8 DB8 DBi20 DG8 DBi4 LB4 DBi4 DG40 DR/12</code></td><td>—</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db1204274-dbi1404245/sett.png" alt="Richard of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Richard of Wales tartan and all its setts →](/tartans/r/ri/richard-of-wales/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/r/ri/richard-of-wales/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db1204274-dbi1404245/sett.png" alt="Richard of Wales" width="140"><br><strong>Richard of Wales (1)</strong></a></li>
+</ul>

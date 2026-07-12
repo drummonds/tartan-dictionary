@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Forsyth"
+  url: "/clan/forsyth/"
 - name: "Forsyth"
-  url: "/tartans/f/fo/forsyth-2/"
+  url: "/families/forsyth/"
+- name: "Forsyth"
+  url: "/tartans/f/fo/forsyth/"
 - name: "Forsyth"
   url: "/setts/k23lb25r4lb25k23y2g25k4g25y4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k23lb25r4lb25k23y2g25k4g25y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGGKWRWK](/stripes/ggkggkwrwk/).
 
-Part of the [Forsyth](/tartans/f/fo/forsyth-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Forsyth](/tartans/f/fo/forsyth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

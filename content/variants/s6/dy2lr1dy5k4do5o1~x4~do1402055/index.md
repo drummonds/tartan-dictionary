@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Huntly"
+  url: "/clan/huntly/"
 - name: "Huntly"
-  url: "/tartans/h/hu/huntly/"
+  url: "/families/huntly/"
+- name: "Huntly"
+  url: "/tartans/h/hu/huntly-3/"
 - name: "Huntly #3"
   url: "/setts/dy2lr1dy5k4do5o1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy2lr1dy5k4do5o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGKBRBKGY](/stripes/gygkbrbkgy/).
 
-Part of the [Huntly](/tartans/h/hu/huntly/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Huntly](/tartans/h/hu/huntly-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Matheson"
+  url: "/clan/matheson/"
 - name: "Matheson Htg Dance"
   url: "/tartans/m/ma/matheson-htg-dance/"
 - name: "Matheson Hunting (Crowe 1974) (Personal)"

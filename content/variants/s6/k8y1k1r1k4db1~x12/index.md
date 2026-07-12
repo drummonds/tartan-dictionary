@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Justus"
+  url: "/clan/justus/"
+- name: "Justus"
+  url: "/families/justus/"
 - name: "Justus"
   url: "/tartans/j/ju/justus-3/"
 - name: "Justus"

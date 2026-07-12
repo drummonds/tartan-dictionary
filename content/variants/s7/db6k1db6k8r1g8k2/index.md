@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Fletcher"
   url: "/clan/fletcher/"
 - name: "Fletcher"
-  url: "/tartans/f/fl/fletcher-2/"
+  url: "/families/fletcher/"
+- name: "Fletcher"
+  url: "/tartans/f/fl/fletcher/"
 - name: "Fletcher"
   url: "/setts/db6k1db6k8r1g8k2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6k1db6k8r1g8k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKRGK](/stripes/bkbkrgk/).
 
-Part of the [Fletcher](/tartans/f/fl/fletcher-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fletcher](/tartans/f/fl/fletcher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

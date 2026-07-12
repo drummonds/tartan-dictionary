@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glenlivet"
+  url: "/clan/glenlivet/"
 - name: "Glenlivet Check"
   url: "/tartans/g/gl/glenlivet-check/"
 - name: "Glenlivet Check (Corporate)"

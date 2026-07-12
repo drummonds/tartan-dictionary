@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Balmoral"
+  url: "/clan/balmoral/"
 - name: "Balmoral"
-  url: "/tartans/b/ba/balmoral-3/"
+  url: "/families/balmoral/"
+- name: "Balmoral"
+  url: "/tartans/b/ba/balmoral/"
 - name: "Balmoral"
   url: "/setts/n2r1n8b2k2n1b1n1b4n2k1n1r1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n2r1n8b2k2n1b1n1b4n2k1n1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBKBBBBBKBR](/stripes/brbbkbbbbbkbr/).
 
-Part of the [Balmoral](/tartans/b/ba/balmoral-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Balmoral](/tartans/b/ba/balmoral/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

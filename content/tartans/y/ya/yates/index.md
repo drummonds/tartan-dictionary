@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Yates"
+  url: "/clan/yates/"
+- name: "Yates"
+  url: "/families/yates/"
 ---
+A tartan of the [Yates](/families/yates/) family.
 Its design is pattern [GBWKBBRK](/stripes/gbwkbbrk/) — the page of every tartan sharing this colour sequence.
 
 Designed in 2006 to honour Thomas Yates of Glasgow; wearable by anyone named Yates or derivations.

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Allison"
+  url: "/clan/allison/"
+- name: "Allison"
+  url: "/families/allison/"
 ---
+A tartan of the [Allison](/families/allison/) family.
 Its design is pattern [BKBKGKGWKBRKG](/stripes/bkbkgkgwkbrkg/) — the page of every tartan sharing this colour sequence.
 
 The **Allison** tartan is recorded as a single sett.

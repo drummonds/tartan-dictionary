@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mehrtens"
+  url: "/clan/mehrtens/"
 - name: "Mehrtens variant"
   url: "/tartans/m/me/mehrtens-variant/"
 - name: "Mehrtens variant (Personal)"

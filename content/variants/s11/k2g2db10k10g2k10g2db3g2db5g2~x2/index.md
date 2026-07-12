@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Clergy"
+  url: "/clan/clergy/"
 - name: "Clergy"
-  url: "/tartans/c/cl/clergy-6/"
+  url: "/families/clergy/"
+- name: "Clergy"
+  url: "/tartans/c/cl/clergy-11/"
 - name: "Clergy (Clark) (Clan)"
   url: "/setts/k2g2db10k10g2k10g2db3g2db5g2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2g2db10k10g2k10g2db3g2db5g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGKGKBGK](/stripes/gbgbgkgkbgk/).
 
-Part of the [Clergy](/tartans/c/cl/clergy-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clergy](/tartans/c/cl/clergy-11/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

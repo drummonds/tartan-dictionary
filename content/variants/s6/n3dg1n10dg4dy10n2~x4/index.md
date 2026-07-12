@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacGregor (Clan Gregor)"
   url: "/clan/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-8/"
+  url: "/families/macgregor/"
+- name: "MacGregor"
+  url: "/tartans/m/ma/macgregor-7/"
 - name: "Rob Roy (Film) (Corporate)"
   url: "/setts/n3dg1n10dg4dy10n2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n3dg1n10dg4dy10n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGB](/stripes/bgbggb/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-8/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

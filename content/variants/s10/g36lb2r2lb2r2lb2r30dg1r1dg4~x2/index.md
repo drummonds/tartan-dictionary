@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Connaught"
+  url: "/clan/connaught/"
 - name: "Connaught"
-  url: "/tartans/c/co/connaught-3/"
+  url: "/families/connaught/"
+- name: "Connaught"
+  url: "/tartans/c/co/connaught/"
 - name: "Connaught (Lochcarron)"
   url: "/setts/g36lb2r2lb2r2lb2r30dg1r1dg4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g36lb2r2lb2r2lb2r30dg1r1dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRWRWRWG](/stripes/grgrwrwrwg/).
 
-Part of the [Connaught](/tartans/c/co/connaught-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Connaught](/tartans/c/co/connaught/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

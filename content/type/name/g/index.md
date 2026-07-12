@@ -23,8 +23,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/r3g13db13dy2dg34w3~x2/"><img src="/variants/s6/r3g13db13dy2dg34w3~x2/sett.png" alt="Glencross, Tynron (Name)" width="140"><br>Glencross, Tynron (Name)</a></li>
 <li><a class="tartan" href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><img src="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/sett.png" alt="Goldwire (2015)" width="140"><br>Goldwire (2015)</a></li>
 <li><a class="tartan" href="/variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/"><img src="/variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/sett.png" alt="Gordon" width="140"><br>Gordon</a></li>
-<li><a class="tartan" href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><img src="/variants/s7/r3dp8g20k20db17k3lg3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
 <li><a class="tartan" href="/variants/s7/o3dp8g20k20db17k3lb3~x2/"><img src="/variants/s7/o3dp8g20k20db17k3lb3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
+<li><a class="tartan" href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><img src="/variants/s7/r3dp8g20k20db17k3lg3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
 <li><a class="tartan" href="/variants/s5/g47dr3g6db35lo3~x2/"><img src="/variants/s5/g47dr3g6db35lo3~x2/sett.png" alt="Gracie" width="140"><br>Gracie</a></li>
 <li><a class="tartan" href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><img src="/variants/s7/db3g13lb1r3lb1db10y1~x2/sett.png" alt="Graeme Heckenberg Hunting" width="140"><br>Graeme Heckenberg Hunting</a></li>
 <li><a class="tartan" href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><img src="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/sett.png" alt="Graham" width="140"><br>Graham</a></li>

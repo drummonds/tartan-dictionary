@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacPherson"
   url: "/clan/macpherson/"
 - name: "MacPherson"
-  url: "/tartans/m/ma/macpherson-5/"
+  url: "/families/macpherson/"
+- name: "MacPherson"
+  url: "/tartans/m/ma/macpherson/"
 - name: "MacPherson"
   url: "/setts/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/rkwrbkbkbkygrbrbrgykbkbkbrwkr/).
 
-Part of the [MacPherson](/tartans/m/ma/macpherson-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacPherson](/tartans/m/ma/macpherson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [29 stripe tartan](/stripes/stripes29/).
 

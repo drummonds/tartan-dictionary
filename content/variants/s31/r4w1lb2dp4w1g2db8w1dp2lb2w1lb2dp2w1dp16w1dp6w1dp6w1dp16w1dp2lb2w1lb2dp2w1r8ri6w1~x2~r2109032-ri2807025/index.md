@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Brides"
+  url: "/clan/brides/"
 - name: "Brides"
-  url: "/tartans/b/br/brides-2/"
+  url: "/families/brides/"
+- name: "Brides"
+  url: "/tartans/b/br/brides/"
 - name: "Brides Plaid"
   url: "/setts/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWWBWGBWBWWWBWBWBWBWBWBWWWBWRRW](/stripes/rwwbwgbwbwwwbwbwbwbwbwbwwwbwrrw/).
 
-Part of the [Brides](/tartans/b/br/brides-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brides](/tartans/b/br/brides/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 

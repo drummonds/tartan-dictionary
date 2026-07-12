@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ballarat"
+  url: "/clan/ballarat/"
+- name: "Ballarat"
+  url: "/families/ballarat/"
 ---
+A tartan of the [Ballarat](/families/ballarat/) family.
 Its design is pattern [WBGBGBGBWY](/stripes/wbgbgbgbwy/) — the page of every tartan sharing this colour sequence.
 
 The **Ballarat** tartan groups 2 setts — the same named design recorded as different cloths

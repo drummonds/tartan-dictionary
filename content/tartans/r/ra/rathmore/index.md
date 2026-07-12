@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rathmore"
+  url: "/clan/rathmore/"
+- name: "Rathmore"
+  url: "/families/rathmore/"
 ---
+A tartan of the [Rathmore](/families/rathmore/) family.
 Its design is pattern [BWBBBBYBWRWY](/stripes/bwbbbbybwrwy/) — the page of every tartan sharing this colour sequence.
 
 The **Rathmore** tartan is recorded as a single sett.

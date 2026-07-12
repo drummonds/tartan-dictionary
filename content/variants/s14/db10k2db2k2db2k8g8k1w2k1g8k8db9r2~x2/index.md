@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan MacKenzie"
   url: "/clan/mackenzie/"
 - name: "MacKenzie"
+  url: "/families/mackenzie/"
+- name: "MacKenzie"
   url: "/tartans/m/ma/mackenzie-4/"
 - name: "MacKenzie (Miniture) Clan Tartan"
   url: "/setts/db10k2db2k2db2k8g8k1w2k1g8k8db9r2/"

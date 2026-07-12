@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sanix"
+  url: "/clan/sanix/"
 - name: "Sanix"
-  url: "/tartans/s/sa/sanix-2/"
+  url: "/families/sanix/"
+- name: "Sanix"
+  url: "/tartans/s/sa/sanix/"
 - name: "Sanix Modern"
   url: "/setts/r2db16k11b19y2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2db16k11b19y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBR](/stripes/gbkbr/).
 
-Part of the [Sanix](/tartans/s/sa/sanix-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sanix](/tartans/s/sa/sanix/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

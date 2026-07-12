@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacShimsi"
+  url: "/clan/macshimsi/"
+- name: "MacShimsi"
+  url: "/families/macshimsi/"
 ---
+A tartan of the [MacShimsi](/families/macshimsi/) family.
 Its design is pattern [GKGRR](/stripes/gkgrr/) — the page of every tartan sharing this colour sequence.
 
 The **MacShimsi** tartan groups 2 setts — the same named design recorded as different cloths

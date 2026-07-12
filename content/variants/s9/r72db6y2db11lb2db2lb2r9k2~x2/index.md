@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Junor"
+  url: "/clan/junor/"
 - name: "Junor"
-  url: "/tartans/j/ju/junor-3/"
+  url: "/families/junor/"
+- name: "Junor"
+  url: "/tartans/j/ju/junor-2/"
 - name: "Junor (Personal)"
   url: "/setts/r72db6y2db11lb2db2lb2r9k2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r72db6y2db11lb2db2lb2r9k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWBWBGBR](/stripes/krwbwbgbr/).
 
-Part of the [Junor](/tartans/j/ju/junor-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Junor](/tartans/j/ju/junor-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

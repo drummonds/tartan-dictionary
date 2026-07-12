@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
+- name: "Wcwm"
+  url: "/families/wcwm/"
 ---
+A tartan of the [Wcwm](/families/wcwm/) family.
 Its design is pattern [WBWBWBWBWBWYWYWYWYWYWBYBYBYBYBY](/stripes/wbwbwbwbwbwywywywywywbybybybyby/) — the page of every tartan sharing this colour sequence.
 
 The **Wcwm 1131** tartan is recorded as a single sett.

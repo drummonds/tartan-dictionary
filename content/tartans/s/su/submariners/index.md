@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Submariners"
+  url: "/clan/submariners/"
+- name: "Submariners"
+  url: "/families/submariners/"
 ---
+A tartan of the [Submariners](/families/submariners/) family.
 Its design is pattern [RBGBWBWBWRBBBW](/stripes/rbgbwbwbwrbbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Submariners** tartan groups 2 setts — the same named design recorded as different cloths

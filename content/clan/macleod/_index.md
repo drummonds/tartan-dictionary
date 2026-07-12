@@ -10,6 +10,7 @@ date: 2023-03-18
 
 ## Families
 
+- [MacLeod](/families/macleod/)
 - [MacLeod of Assynt](/families/macleod-of-assynt/)
 - [MacLeod of Gesto](/families/macleod-of-gesto/)
 - [MacLeod of Lewis](/families/macleod-of-lewis/)

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Newfoundland"
+  url: "/clan/newfoundland/"
 - name: "Newfoundland"
-  url: "/tartans/n/ne/newfoundland-2/"
+  url: "/families/newfoundland/"
+- name: "Newfoundland"
+  url: "/tartans/n/ne/newfoundland/"
 - name: "Newfoundland"
   url: "/setts/r4g3o8w3o4g18y3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4g3o8w3o4g18y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRWRGR](/stripes/ggrwrgr/).
 
-Part of the [Newfoundland](/tartans/n/ne/newfoundland-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Newfoundland](/tartans/n/ne/newfoundland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

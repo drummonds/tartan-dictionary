@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacMillan"
+  url: "/clan/macmillan/"
 - name: "MacMillan"
-  url: "/tartans/m/ma/macmillan-5/"
+  url: "/families/macmillan/"
+- name: "MacMillan"
+  url: "/tartans/m/ma/macmillan-4/"
 - name: "MacMillan - 2002 (Black - Unofficial"
   url: "/setts/k3ly18g6dr17k31g3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3ly18g6dr17k31g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBGYK](/stripes/gkbgyk/).
 
-Part of the [MacMillan](/tartans/m/ma/macmillan-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacMillan](/tartans/m/ma/macmillan-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

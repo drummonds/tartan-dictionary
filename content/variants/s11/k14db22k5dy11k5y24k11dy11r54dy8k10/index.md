@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Derry"
+  url: "/clan/derry/"
 - name: "Derry County, Crest Range"
   url: "/tartans/d/de/derry-county-crest-range/"
 - name: "Derry County, Crest Range"

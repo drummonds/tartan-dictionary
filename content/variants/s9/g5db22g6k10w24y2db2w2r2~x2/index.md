@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Haymarket"
+  url: "/clan/haymarket/"
+- name: "Haymarket"
+  url: "/families/haymarket/"
 - name: "Haymarket Dress"
   url: "/tartans/h/ha/haymarket-dress/"
 - name: "Haymarket Dress Blue Trade Tartan"

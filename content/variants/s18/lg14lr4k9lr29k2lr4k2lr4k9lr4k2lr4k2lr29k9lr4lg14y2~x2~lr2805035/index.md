@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hannay"
+  url: "/clan/hannay/"
+- name: "Hannay"
+  url: "/families/hannay/"
 - name: "Hannay Dress"
-  url: "/tartans/h/ha/hannay-dress/"
+  url: "/tartans/h/ha/hannay-dress-2/"
 - name: "Hannay Dress"
   url: "/setts/lg14lr4k9lr29k2lr4k2lr4k9lr4k2lr4k2lr29k9lr4lg14y2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lg14lr4k9lr29k2lr4k2lr4k9lr4k2lr4k2lr29k9lr4lg14y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYYKYKYKYKYKYKYKYY](/stripes/gyykykykykykykykyy/).
 
-Part of the [Hannay Dress](/tartans/h/ha/hannay-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hannay Dress](/tartans/h/ha/hannay-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Tennant"
+  url: "/clan/tennant/"
 - name: "Tennant"
-  url: "/tartans/t/te/tennant/"
+  url: "/families/tennant/"
+- name: "Tennant"
+  url: "/tartans/t/te/tennant-4/"
 - name: "Tennant (Yules)"
   url: "/setts/r1dy7g7db7g7db7r1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1dy7g7db7g7db7r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGGR](/stripes/rbgbggr/).
 
-Part of the [Tennant](/tartans/t/te/tennant/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tennant](/tartans/t/te/tennant-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

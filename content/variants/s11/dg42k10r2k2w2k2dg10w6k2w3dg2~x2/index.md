@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Laggen"
+  url: "/clan/laggen/"
+- name: "Laggen"
+  url: "/families/laggen/"
 - name: "Laggen Dress"
-  url: "/tartans/l/la/laggen-dress/"
+  url: "/tartans/l/la/laggen-dress-2/"
 - name: "Laggen Dress"
   url: "/setts/dg42k10r2k2w2k2dg10w6k2w3dg2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg42k10r2k2w2k2dg10w6k2w3dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKWKGWKWG](/stripes/gkrkwkgwkwg/).
 
-Part of the [Laggen Dress](/tartans/l/la/laggen-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Laggen Dress](/tartans/l/la/laggen-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Angus"
+  url: "/clan/angus/"
 - name: "Angus"
-  url: "/tartans/a/an/angus-2/"
+  url: "/families/angus/"
+- name: "Angus"
+  url: "/tartans/a/an/angus/"
 - name: "Angus, Red (Fashion)"
   url: "/setts/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2lb6k3lb6k3lb6k3lb6k3lb6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2lb6k3lb6k3lb6k3lb6k3lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRKRKRKWKWKWKWKW](/stripes/krkrkrkrkrkrkrkwkwkwkwkw/).
 
-Part of the [Angus](/tartans/a/an/angus-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Angus](/tartans/a/an/angus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

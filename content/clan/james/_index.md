@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><img src="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/sett.png" alt="James of Glencarr (Personal)" width="240"><br>James of Glencarr (Personal)</a>
+<a class="tartan" href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><img src="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/sett.png" alt="James (Personal)" width="240"><br>James (Personal)</a>
 
 ## Families
 
+- [James](/families/james/)
 - [James of Glencarr](/families/james-of-glencarr/)
 - [James of Wales](/families/james-of-wales/)
 

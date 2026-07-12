@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Moggach"
+  url: "/clan/moggach/"
+- name: "Moggach"
+  url: "/families/moggach/"
 - name: "Moggach"
   url: "/tartans/m/mo/moggach/"
 - name: "Moggach (Strathspey)"

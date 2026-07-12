@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Calgary"
+  url: "/clan/calgary/"
 - name: "Calgary, University of"
   url: "/tartans/c/ca/calgary-university-of/"
 - name: "Calgary, University of (Estimated Threadcount)"

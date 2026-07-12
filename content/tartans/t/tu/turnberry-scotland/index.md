@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Turnberry"
+  url: "/clan/turnberry/"
 ---
+A tartan of [Clan Turnberry](/clan/turnberry/).
 Its design is pattern [BBBWBWKBW](/stripes/bbbwbwkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Turnberry Scotland** tartan is recorded as a single sett.

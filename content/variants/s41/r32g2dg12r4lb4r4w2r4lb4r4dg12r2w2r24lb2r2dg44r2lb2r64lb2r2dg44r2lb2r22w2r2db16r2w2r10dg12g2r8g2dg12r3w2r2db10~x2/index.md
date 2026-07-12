@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan MacAlister"
   url: "/clan/macalister/"
 - name: "MacAlister"
+  url: "/families/macalister/"
+- name: "MacAlister"
   url: "/tartans/m/ma/macalister-3/"
 - name: "MacAlister (Logan 1831)"
   url: "/setts/r32g2dg12r4lb4r4w2r4lb4r4dg12r2w2r24lb2r2dg44r2lb2r64lb2r2dg44r2lb2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10/"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan BlackRock"
+  url: "/clan/blackrock/"
 - name: "BlackRock"
-  url: "/tartans/b/bl/blackrock-2/"
+  url: "/families/blackrock/"
+- name: "BlackRock"
+  url: "/tartans/b/bl/blackrock/"
 - name: "BlackRock (Asymmetrical)"
   url: "/setts/w8r4k8ki20db6ki3db5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w8r4k8ki20db6ki3db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKKRW](/stripes/bkbkkrw/).
 
-Part of the [BlackRock](/tartans/b/bl/blackrock-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [BlackRock](/tartans/b/bl/blackrock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

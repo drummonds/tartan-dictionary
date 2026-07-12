@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Forsyth"
+  url: "/clan/forsyth/"
 - name: "Forsyth"
-  url: "/tartans/f/fo/forsyth/"
+  url: "/families/forsyth/"
+- name: "Forsyth"
+  url: "/tartans/f/fo/forsyth-2/"
 - name: "Forsyth (1795)"
   url: "/setts/k2g11y1k8t9r2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2g11y1k8t9r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGKBR](/stripes/kggkbr/).
 
-Part of the [Forsyth](/tartans/f/fo/forsyth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Forsyth](/tartans/f/fo/forsyth-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

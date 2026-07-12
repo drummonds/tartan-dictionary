@@ -7,7 +7,7 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/a/am/am-yisrael-chai/"><img src="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9dy2y1dy2y1dy2y1dy2y1~x2/sett.png" alt="Am Yisrael Chai" width="140"><br><strong>Am Yisrael Chai (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/am/am-yisrael-chair/"><img src="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/sett.png" alt="Am Yisrael Chair" width="140"><br><strong>Am Yisrael Chair (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/am/amarillo/"><img src="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/sett.png" alt="Amarillo" width="140"><br><strong>Amarillo (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/a/am/amarillo/"><img src="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/sett.png" alt="Amarillo" width="140"><br><strong>Amarillo (2)</strong></a><div class="clan-territory">Amarillo</div></li>
 <li><a class="tartan" href="/tartans/a/am/amazing-union/"><img src="/variants/s9/r2do15dg12do2dt12do2dg12do15ly2~x4~dt0803284/sett.png" alt="Amazing Union" width="140"><br><strong>Amazing Union (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/am/amazon/"><img src="/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/sett.png" alt="Amazon" width="140"><br><strong>Amazon (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/am/ambassador/"><img src="/variants/s10/k85r6k1w3k3w3k1r6k6y1~x2/sett.png" alt="Ambassador" width="140"><br><strong>Ambassador (1)</strong></a></li>
@@ -29,9 +29,9 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/a/am/american-soc-of-travel-agents-2/"><img src="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/sett.png" alt="American Soc.of Travel Agents" width="140"><br><strong>American Soc.of Travel Agents (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/am/american-society-of-travel-agents-the/"><img src="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/sett.png" alt="American Society of Travel Agents, The" width="140"><br><strong>American Society of Travel Agents, The (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/am/american-st-andrews-societies/"><img src="/variants/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/sett.png" alt="American St Andrews Societies" width="140"><br><strong>American St Andrews Societies (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/am/americana/"><img src="/variants/s8/db33w7db5r2db5w2r13db3~x2/sett.png" alt="Americana" width="140"><br><strong>Americana (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/am/americana-2/"><img src="/variants/s7/db2r2db28k11r27w2r2~x2/sett.png" alt="Americana" width="140"><br><strong>Americana (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/am/amnesty/"><img src="/variants/s16/db42k5db42o32g42ly5g42o32db42w5db42o32g42dy5g42o32~ly2705081/sett.png" alt="Amnesty" width="140"><br><strong>Amnesty (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/am/amnesty-international/"><img src="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/sett.png" alt="Amnesty International" width="140"><br><strong>Amnesty International (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/a/am/americana/"><img src="/variants/s7/db2r2db28k11r27w2r2~x2/sett.png" alt="Americana" width="140"><br><strong>Americana (1)</strong></a><div class="clan-territory">Americana</div></li>
+<li><a class="tartan" href="/tartans/a/am/americana-2/"><img src="/variants/s8/db33w7db5r2db5w2r13db3~x2/sett.png" alt="Americana" width="140"><br><strong>Americana (1)</strong></a><div class="clan-territory">Americana</div></li>
+<li><a class="tartan" href="/tartans/a/am/amnesty/"><img src="/variants/s16/db42k5db42o32g42ly5g42o32db42w5db42o32g42dy5g42o32~ly2705081/sett.png" alt="Amnesty" width="140"><br><strong>Amnesty (2)</strong></a><div class="clan-territory">Amnesty</div></li>
+<li><a class="tartan" href="/tartans/a/am/amnesty-international/"><img src="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/sett.png" alt="Amnesty International" width="140"><br><strong>Amnesty International (1)</strong></a><div class="clan-territory">Clan Amnesty</div></li>
 <li><a class="tartan" href="/tartans/a/am/amstartan/"><img src="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/sett.png" alt="Amstartan" width="140"><br><strong>Amstartan (1)</strong></a></li>
 </ul>

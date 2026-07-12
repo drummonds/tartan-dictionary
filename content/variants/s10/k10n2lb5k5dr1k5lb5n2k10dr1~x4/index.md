@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Callaway"
+  url: "/clan/callaway/"
 - name: "Callaway"
-  url: "/tartans/c/ca/callaway-2/"
+  url: "/families/callaway/"
+- name: "Callaway"
+  url: "/tartans/c/ca/callaway-3/"
 - name: "Callaway Corporate Tartan"
   url: "/setts/k10n2lb5k5dr1k5lb5n2k10dr1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k10n2lb5k5dr1k5lb5n2k10dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWKBKWBK](/stripes/bkbwkbkwbk/).
 
-Part of the [Callaway](/tartans/c/ca/callaway-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Callaway](/tartans/c/ca/callaway-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

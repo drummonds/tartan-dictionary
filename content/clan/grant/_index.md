@@ -10,6 +10,7 @@ date: 2023-03-18
 
 ## Families
 
+- [Grant](/families/grant/)
 - [Grant of Achnarrow](/families/grant-of-achnarrow/)
 - [Grant of Ballindalloch](/families/grant-of-ballindalloch/)
 - [Grant of Glenmoriston](/families/grant-of-glenmoriston/)

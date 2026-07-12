@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bethune"
+  url: "/clan/bethune/"
 - name: "Bethune"
-  url: "/tartans/b/be/bethune-2/"
+  url: "/families/bethune/"
+- name: "Bethune"
+  url: "/tartans/b/be/bethune/"
 - name: "Bethune"
   url: "/setts/b2db18y4k5y1k1w1k2g8k1r3w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b2db18y4k5y1k1w1k2g8k1r3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGKGKWKGKRW](/stripes/bbgkgkwkgkrw/).
 
-Part of the [Bethune](/tartans/b/be/bethune-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bethune](/tartans/b/be/bethune/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

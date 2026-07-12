@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Watkins"
   url: "/clan/watkins/"
 - name: "Watkins"
+  url: "/families/watkins/"
+- name: "Watkins"
   url: "/tartans/w/wa/watkins/"
 - name: "Watkins (Welsh Name)"
   url: "/setts/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/"

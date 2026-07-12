@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Davidson"
   url: "/clan/davidson/"
 - name: "Davidson"
-  url: "/tartans/d/da/davidson-3/"
+  url: "/families/davidson/"
+- name: "Davidson"
+  url: "/tartans/d/da/davidson/"
 - name: "Davidson Half.. Clan Tartan"
   url: "/setts/k3g22db3g3db19r3/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3g22db3g3db19r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGBR](/stripes/kgbgbr/).
 
-Part of the [Davidson](/tartans/d/da/davidson-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Davidson](/tartans/d/da/davidson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

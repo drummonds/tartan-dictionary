@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Strathclyde"
+  url: "/clan/strathclyde/"
+- name: "Strathclyde"
+  url: "/families/strathclyde/"
 - name: "Strathclyde 1975"
   url: "/tartans/s/st/strathclyde-1975/"
 - name: "Strathclyde 1975 (District)"

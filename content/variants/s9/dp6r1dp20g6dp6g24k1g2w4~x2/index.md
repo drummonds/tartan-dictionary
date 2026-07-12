@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacNeill"
+  url: "/clan/macneill/"
 - name: "MacNeill"
-  url: "/tartans/m/ma/macneill/"
+  url: "/families/macneill/"
+- name: "MacNeill"
+  url: "/tartans/m/ma/macneill-2/"
 - name: "MacNeill"
   url: "/setts/dp6r1dp20g6dp6g24k1g2w4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp6r1dp20g6dp6g24k1g2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBGKGW](/stripes/brbgbgkgw/).
 
-Part of the [MacNeill](/tartans/m/ma/macneill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacNeill](/tartans/m/ma/macneill-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

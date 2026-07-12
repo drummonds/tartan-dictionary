@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gemmell"
+  url: "/clan/gemmell/"
+- name: "Gemmell"
+  url: "/families/gemmell/"
 - name: "Gemmell Dress"
   url: "/tartans/g/ge/gemmell-dress/"
 - name: "Gemmell of Dumfries & Galloway (Personal)"

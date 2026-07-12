@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan McCurrach"
+  url: "/clan/mccurrach/"
 - name: "McCurrach"
-  url: "/tartans/m/mc/mccurrach/"
+  url: "/families/mccurrach/"
+- name: "McCurrach"
+  url: "/tartans/m/mc/mccurrach-2/"
 - name: "McCurrach (2014)"
   url: "/setts/k4r3k16g4do4k3do20k3do4ly3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4r3k16g4do4k3do20k3do4ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGBKBKBY](/stripes/krkgbkbkby/).
 
-Part of the [McCurrach](/tartans/m/mc/mccurrach/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McCurrach](/tartans/m/mc/mccurrach-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

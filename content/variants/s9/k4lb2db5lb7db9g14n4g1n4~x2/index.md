@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Antigonish"
+  url: "/clan/antigonish/"
 - name: "Antigonish"
-  url: "/tartans/a/an/antigonish-2/"
+  url: "/families/antigonish/"
+- name: "Antigonish"
+  url: "/tartans/a/an/antigonish/"
 - name: "Antigonish Centennial"
   url: "/setts/k4lb2db5lb7db9g14n4g1n4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4lb2db5lb7db9g14n4g1n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBWK](/stripes/bgbgbwbwk/).
 
-Part of the [Antigonish](/tartans/a/an/antigonish-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Antigonish](/tartans/a/an/antigonish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

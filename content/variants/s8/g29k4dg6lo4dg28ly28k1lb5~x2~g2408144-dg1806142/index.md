@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Keogh"
+  url: "/clan/keogh/"
 - name: "Keogh"
-  url: "/tartans/k/ke/keogh/"
+  url: "/families/keogh/"
+- name: "Keogh"
+  url: "/tartans/k/ke/keogh-2/"
 - name: "Keogh (Name?)"
   url: "/setts/g29k4dg6lo4dg28ly28k1lb5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g29k4dg6lo4dg28ly28k1lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGYGYKW](/stripes/gkgygykw/).
 
-Part of the [Keogh](/tartans/k/ke/keogh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Keogh](/tartans/k/ke/keogh-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

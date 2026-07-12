@@ -10,6 +10,7 @@ date: 2023-03-18
 
 ## Families
 
+- [Campbell](/families/campbell/)
 - [Campbell of Argyll](/families/campbell-of-argyll/)
 - [Campbell of Armaddie](/families/campbell-of-armaddie/)
 - [Campbell of Breadalbane](/families/campbell-of-breadalbane/)

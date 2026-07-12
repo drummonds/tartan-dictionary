@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Livingston"
+  url: "/clan/livingston/"
 - name: "Livingston Football Club"
-  url: "/tartans/l/li/livingston-football-club/"
+  url: "/tartans/l/li/livingston-football-club-2/"
 - name: "Livingston Football Club (2001)"
   url: "/setts/w4k24dy5k10dy12r1/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4k24dy5k10dy12r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKW](/stripes/rgkgkw/).
 
-Part of the [Livingston Football Club](/tartans/l/li/livingston-football-club/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Livingston Football Club](/tartans/l/li/livingston-football-club-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

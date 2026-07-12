@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Dunbar"
   url: "/clan/dunbar/"
 - name: "Dunbar"
+  url: "/families/dunbar/"
+- name: "Dunbar"
   url: "/tartans/d/du/dunbar-3/"
 - name: "Dunbar #2"
   url: "/setts/k4r26k4w2k13y4/"

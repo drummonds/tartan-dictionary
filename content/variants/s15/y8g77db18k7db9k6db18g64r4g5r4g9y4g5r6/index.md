@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kennedy"
+  url: "/clan/kennedy/"
 - name: "Kennedy"
-  url: "/tartans/k/ke/kennedy-5/"
+  url: "/families/kennedy/"
+- name: "Kennedy"
+  url: "/tartans/k/ke/kennedy/"
 - name: "Kennedy #2"
   url: "/setts/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBKBKBGRGRGGGR](/stripes/ggbkbkbgrgrgggr/).
 
-Part of the [Kennedy](/tartans/k/ke/kennedy-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kennedy](/tartans/k/ke/kennedy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ferrari"
+  url: "/clan/ferrari/"
+- name: "Ferrari"
+  url: "/families/ferrari/"
 - name: "Ferrari"
   url: "/tartans/f/fe/ferrari-2/"
 - name: "Ferrari (Name)"

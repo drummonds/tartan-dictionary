@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Harbison"
+  url: "/clan/harbison/"
 - name: "Harbison"
-  url: "/tartans/h/ha/harbison-2/"
+  url: "/families/harbison/"
+- name: "Harbison"
+  url: "/tartans/h/ha/harbison/"
 - name: "Harbison (2015)"
   url: "/setts/db21g34r14w6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db21g34r14w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRW](/stripes/bgrw/).
 
-Part of the [Harbison](/tartans/h/ha/harbison-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harbison](/tartans/h/ha/harbison/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

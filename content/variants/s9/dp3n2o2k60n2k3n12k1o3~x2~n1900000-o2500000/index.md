@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Grassi"
+  url: "/clan/grassi/"
 - name: "Grassi"
-  url: "/tartans/g/gr/grassi-2/"
+  url: "/families/grassi/"
+- name: "Grassi"
+  url: "/tartans/g/gr/grassi/"
 - name: "Grassi (Personal)"
   url: "/setts/dp3n2o2k60n2k3n12k1o3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp3n2o2k60n2k3n12k1o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRKBKBKR](/stripes/bbrkbkbkr/).
 
-Part of the [Grassi](/tartans/g/gr/grassi-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Grassi](/tartans/g/gr/grassi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hawick"
+  url: "/clan/hawick/"
+- name: "Hawick"
+  url: "/families/hawick/"
 - name: "Hawick Dress"
   url: "/tartans/h/ha/hawick-dress/"
 - name: "Hawick Dress (District)"

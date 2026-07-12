@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lennox"
+  url: "/clan/lennox/"
 - name: "Lennox Primary School"
   url: "/tartans/l/le/lennox-primary-school/"
 - name: "Lennox Primary School"

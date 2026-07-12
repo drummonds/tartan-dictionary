@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Aberdeen"
+  url: "/clan/aberdeen/"
 - name: "Aberdeen Football Club"
   url: "/tartans/a/ab/aberdeen-football-club-3/"
 - name: "Aberdeen Football Club (1999)"

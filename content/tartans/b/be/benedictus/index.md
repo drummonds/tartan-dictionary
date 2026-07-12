@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Benedictus"
+  url: "/clan/benedictus/"
+- name: "Benedictus"
+  url: "/families/benedictus/"
 ---
+A tartan of the [Benedictus](/families/benedictus/) family.
 Its design is pattern [BBBBBBBBBBBBBK](/stripes/bbbbbbbbbbbbbk/) — the page of every tartan sharing this colour sequence.
 
 The **Benedictus** tartan groups 2 setts — the same named design recorded as different cloths

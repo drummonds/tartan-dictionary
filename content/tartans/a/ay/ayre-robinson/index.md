@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ayre"
+  url: "/clan/ayre/"
 ---
+A tartan of [Clan Ayre](/clan/ayre/).
 Its design is pattern [BBGBGBGBGRBW](/stripes/bbgbgbgbgrbw/) — the page of every tartan sharing this colour sequence.
 
 The **Ayre Robinson** tartan is recorded as a single sett.

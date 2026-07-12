@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Rice"
   url: "/clan/rice/"
+- name: "Rice"
+  url: "/families/rice/"
 ---
-A tartan of [Clan Rice](/clan/rice/).
+A tartan of the [Rice](/families/rice/) family.
 Its design is pattern [YBYBGBGBGY](/stripes/ybybgbgbgy/) — the page of every tartan sharing this colour sequence.
 
 Welsh surname tartan (Brice, Bryce, Price, Rice, Rhys) woven at Cambrian Woollen Mill, with differing warp and weft creating a predominant stripe.

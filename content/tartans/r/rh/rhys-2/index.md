@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Rhys"
   url: "/clan/rhys/"
+- name: "Rhys"
+  url: "/families/rhys/"
 ---
-A tartan of [Clan Rhys](/clan/rhys/).
+A tartan of the [Rhys](/families/rhys/) family.
 Its design is pattern [BYBYBBBBBW](/stripes/bybybbbbbw/) — the page of every tartan sharing this colour sequence.
 
 Welsh surname tartan (Rees, Preece, Reese), woven at Cambrian Woollen Mill; differing warp and weft create predominant vertical stripe.

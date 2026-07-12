@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan MacIver"
   url: "/clan/maciver/"
 - name: "MacIver"
+  url: "/families/maciver/"
+- name: "MacIver"
   url: "/tartans/m/ma/maciver/"
 - name: "MacIver (Clan)"
   url: "/setts/w2r12k3r3k16r3k3r12ly2/"

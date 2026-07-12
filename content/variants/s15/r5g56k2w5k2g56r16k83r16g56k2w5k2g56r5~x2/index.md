@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDiarmid"
+  url: "/clan/macdiarmid/"
 - name: "MacDiarmid"
-  url: "/tartans/m/ma/macdiarmid/"
+  url: "/families/macdiarmid/"
+- name: "MacDiarmid"
+  url: "/tartans/m/ma/macdiarmid-2/"
 - name: "MacDiarmid"
   url: "/setts/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWKGRKRGKWKGR](/stripes/rgkwkgrkrgkwkgr/).
 
-Part of the [MacDiarmid](/tartans/m/ma/macdiarmid/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDiarmid](/tartans/m/ma/macdiarmid-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

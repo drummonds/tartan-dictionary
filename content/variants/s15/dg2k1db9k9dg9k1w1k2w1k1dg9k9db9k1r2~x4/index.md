@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stephenson"
+  url: "/clan/stephenson/"
+- name: "Stephenson"
+  url: "/families/stephenson/"
 - name: "Stephenson Hunting"
-  url: "/tartans/s/st/stephenson-hunting-2/"
+  url: "/tartans/s/st/stephenson-hunting/"
 - name: "Stephenson Htg (Name)"
   url: "/setts/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKWKWKGKBKR](/stripes/gkbkgkwkwkgkbkr/).
 
-Part of the [Stephenson Hunting](/tartans/s/st/stephenson-hunting-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stephenson Hunting](/tartans/s/st/stephenson-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

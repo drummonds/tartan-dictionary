@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dabney"
+  url: "/clan/dabney/"
 - name: "Dabney"
-  url: "/tartans/d/da/dabney/"
+  url: "/families/dabney/"
+- name: "Dabney"
+  url: "/tartans/d/da/dabney-2/"
 - name: "Dabney Red (Personal)"
   url: "/setts/r5t3r24g7db6r3g3r3g11r6db3r3t3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5t3r24g7db6r3g3r3g11r6db3r3t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRGRBGRBR](/stripes/brbrgrgrbgrbr/).
 
-Part of the [Dabney](/tartans/d/da/dabney/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dabney](/tartans/d/da/dabney-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

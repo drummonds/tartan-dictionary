@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Malcolm"
+  url: "/clan/malcolm/"
+- name: "Malcolm"
+  url: "/families/malcolm/"
 - name: "Malcolm Dress"
-  url: "/tartans/m/ma/malcolm-dress/"
+  url: "/tartans/m/ma/malcolm-dress-2/"
 - name: "Malcolm Dress (Lochcarron 2005)"
   url: "/setts/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKYKBKGKBRBRBKWBWBWBWBWKWBWBWBWBWK](/stripes/kgkykbkgkbrbrbkwbwbwbwbwkwbwbwbwbwk/).
 
-Part of the [Malcolm Dress](/tartans/m/ma/malcolm-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Malcolm Dress](/tartans/m/ma/malcolm-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 

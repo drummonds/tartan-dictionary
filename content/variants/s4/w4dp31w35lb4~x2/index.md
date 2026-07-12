@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lewis"
+  url: "/clan/lewis/"
 - name: "Lewis Magenta"
   url: "/tartans/l/le/lewis-magenta/"
 - name: "Lewis, Magenta (Dance)"

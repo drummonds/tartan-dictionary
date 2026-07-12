@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Kincaid"
   url: "/clan/kincaid/"
 - name: "Kincaid of Kincaid"
-  url: "/families/kincaid-of-kincaid/"
+  url: "/families/kincaid/"
 - name: "Kincaid of Kincaid"
   url: "/tartans/k/ki/kincaid-of-kincaid/"
 - name: "Kincaid of Kincaid Family Tartan"

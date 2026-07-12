@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Livingston"
+  url: "/clan/livingston/"
 - name: "Livingston"
-  url: "/tartans/l/li/livingston/"
+  url: "/families/livingston/"
+- name: "Livingston"
+  url: "/tartans/l/li/livingston-3/"
 - name: "Livingston"
   url: "/setts/g12r3k1r3k1r4g16r20g2r8/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g12r3k1r3k1r4g16r20g2r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRGRGR](/stripes/grkrkrgrgr/).
 
-Part of the [Livingston](/tartans/l/li/livingston/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Livingston](/tartans/l/li/livingston-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

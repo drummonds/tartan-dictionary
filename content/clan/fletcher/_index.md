@@ -1,5 +1,15 @@
 ---
 title: "Clan Fletcher"
-redirect: "/families/fletcher-of-dunans/"
+date: 2023-03-18
 ---
-Clan Fletcher is recorded as the single family [Fletcher of Dunans](/families/fletcher-of-dunans/) — redirecting there.
+*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+
+## Tartan
+
+<a class="tartan" href="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><img src="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/sett.png" alt="Fletcher" width="240"><br>Fletcher</a>
+
+## Families
+
+- [Fletcher](/families/fletcher/)
+- [Fletcher of Dunans](/families/fletcher-of-dunans/)
+

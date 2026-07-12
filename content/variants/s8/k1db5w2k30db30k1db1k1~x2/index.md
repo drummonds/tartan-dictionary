@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Binder"
+  url: "/clan/binder/"
 - name: "Binder Wedding"
   url: "/tartans/b/bi/binder-wedding-2/"
 - name: "Binder Wedding (Personal) Name Tartan"

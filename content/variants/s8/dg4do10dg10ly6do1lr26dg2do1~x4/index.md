@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dogwood"
+  url: "/clan/dogwood/"
 - name: "Dogwood"
-  url: "/tartans/d/do/dogwood/"
+  url: "/families/dogwood/"
+- name: "Dogwood"
+  url: "/tartans/d/do/dogwood-2/"
 - name: "Dogwood"
   url: "/setts/dg4do10dg10ly6do1lr26dg2do1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg4do10dg10ly6do1lr26dg2do1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYBYGBG](/stripes/bgybygbg/).
 
-Part of the [Dogwood](/tartans/d/do/dogwood/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dogwood](/tartans/d/do/dogwood-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

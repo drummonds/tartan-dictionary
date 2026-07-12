@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacCandlish"
+  url: "/clan/maccandlish/"
 ---
+A tartan of [Clan MacCandlish](/clan/maccandlish/).
 Its design is pattern [WKGKGKGKWKY](/stripes/wkgkgkgkwky/) — the page of every tartan sharing this colour sequence.
 
 The **MacCandlish Arisaid** tartan is recorded as a single sett.

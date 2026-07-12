@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
 - name: "Poulter, Pink"
   url: "/tartans/p/po/poulter-pink-2/"
 - name: "Poulter, Pink (Corporate)"

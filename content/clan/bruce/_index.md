@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s11/r1g8db2g2db6g1db6g2db2g8y1~x4/"><img src="/variants/s11/r1g8db2g2db6g1db6g2db2g8y1~x4/sett.png" alt="Bruce of Crionaich (Personal)" width="240"><br>Bruce of Crionaich (Personal)</a>
+<a class="tartan" href="/variants/s11/y1r8g2r2g6r1g6r2g2r8w1~x2/"><img src="/variants/s11/y1r8g2r2g6r1g6r2g2r8w1~x2/sett.png" alt="Bruce" width="240"><br>Bruce</a>
 
 ## Families
 
+- [Bruce](/families/bruce/)
 - [Bruce of Crionaich](/families/bruce-of-crionaich/)
 - [Bruce of Kinnaird](/families/bruce-of-kinnaird/)
 

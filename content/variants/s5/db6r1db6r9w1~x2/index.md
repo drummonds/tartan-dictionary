@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Hamilton"
   url: "/clan/hamilton/"
 - name: "Hamilton"
-  url: "/tartans/h/ha/hamilton-3/"
+  url: "/families/hamilton/"
+- name: "Hamilton"
+  url: "/tartans/h/ha/hamilton-5/"
 - name: "Hamilton"
   url: "/setts/db6r1db6r9w1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6r1db6r9w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRW](/stripes/brbrw/).
 
-Part of the [Hamilton](/tartans/h/ha/hamilton-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hamilton](/tartans/h/ha/hamilton-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

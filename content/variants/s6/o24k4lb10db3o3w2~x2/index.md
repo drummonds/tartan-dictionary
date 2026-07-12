@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cramer"
+  url: "/clan/cramer/"
 - name: "Cramer"
-  url: "/tartans/c/cr/cramer/"
+  url: "/families/cramer/"
+- name: "Cramer"
+  url: "/tartans/c/cr/cramer-2/"
 - name: "Cramer (Personal)"
   url: "/setts/o24k4lb10db3o3w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o24k4lb10db3o3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWBRW](/stripes/rkwbrw/).
 
-Part of the [Cramer](/tartans/c/cr/cramer/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cramer](/tartans/c/cr/cramer-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

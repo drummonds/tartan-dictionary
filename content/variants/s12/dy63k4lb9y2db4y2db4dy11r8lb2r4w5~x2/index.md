@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Seller"
+  url: "/clan/seller/"
 - name: "Seller"
-  url: "/tartans/s/se/seller-2/"
+  url: "/families/seller/"
+- name: "Seller"
+  url: "/tartans/s/se/seller/"
 - name: "Seller Sillar Family Tartan"
   url: "/setts/dy63k4lb9y2db4y2db4dy11r8lb2r4w5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy63k4lb9y2db4y2db4dy11r8lb2r4w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWGBGBGRWRW](/stripes/gkwgbgbgrwrw/).
 
-Part of the [Seller](/tartans/s/se/seller-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Seller](/tartans/s/se/seller/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

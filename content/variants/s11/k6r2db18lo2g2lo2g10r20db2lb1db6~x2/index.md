@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Aberdeen"
+  url: "/clan/aberdeen/"
 - name: "Aberdeen Asset Management"
   url: "/tartans/a/ab/aberdeen-asset-management/"
 - name: "Aberdeen Asset Management (Corp)"

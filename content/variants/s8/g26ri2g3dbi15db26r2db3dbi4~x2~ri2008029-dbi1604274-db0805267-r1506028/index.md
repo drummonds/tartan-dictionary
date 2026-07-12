@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Grampian"
+  url: "/clan/grampian/"
 - name: "Grampian"
-  url: "/tartans/g/gr/grampian-3/"
+  url: "/families/grampian/"
+- name: "Grampian"
+  url: "/tartans/g/gr/grampian/"
 - name: "Grampian"
   url: "/setts/g26ri2g3dbi15db26r2db3dbi4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g26ri2g3dbi15db26r2db3dbi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBGRG](/stripes/bbrbbgrg/).
 
-Part of the [Grampian](/tartans/g/gr/grampian-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Grampian](/tartans/g/gr/grampian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

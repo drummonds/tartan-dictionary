@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cairn"
+  url: "/clan/cairn/"
 - name: "Cairn"
-  url: "/tartans/c/ca/cairn-2/"
+  url: "/families/cairn/"
+- name: "Cairn"
+  url: "/tartans/c/ca/cairn/"
 - name: "Cairn (Fashion)"
   url: "/setts/n3w20dr1db1dr1db3dr4db2dr4db2dr4db1g8dy1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n3w20dr1db1dr1db3dr4db2dr4db2dr4db1g8dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBBBBBGG](/stripes/bwbbbbbbbbbbgg/).
 
-Part of the [Cairn](/tartans/c/ca/cairn-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cairn](/tartans/c/ca/cairn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

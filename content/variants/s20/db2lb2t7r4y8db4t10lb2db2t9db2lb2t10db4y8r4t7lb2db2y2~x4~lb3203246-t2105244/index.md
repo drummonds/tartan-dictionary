@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Healy"
+  url: "/clan/healy/"
 - name: "Healy"
-  url: "/tartans/h/he/healy/"
+  url: "/families/healy/"
+- name: "Healy"
+  url: "/tartans/h/he/healy-2/"
 - name: "Healy (Suspect)"
   url: "/setts/db2lb2t7r4y8db4t10lb2db2t9db2lb2t10db4y8r4t7lb2db2y2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2lb2t7r4y8db4t10lb2db2t9db2lb2t10db4y8r4t7lb2db2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRGBBWBBBWBBGRBWBG](/stripes/bwbrgbbwbbbwbbgrbwbg/).
 
-Part of the [Healy](/tartans/h/he/healy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Healy](/tartans/h/he/healy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

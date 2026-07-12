@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacMugen"
+  url: "/clan/macmugen/"
 - name: "MacMugen"
-  url: "/tartans/m/ma/macmugen/"
+  url: "/families/macmugen/"
+- name: "MacMugen"
+  url: "/tartans/m/ma/macmugen-2/"
 - name: "MacMugen"
   url: "/setts/k3b16k4b3k12w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3b16k4b3k12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKW](/stripes/kbkbkw/).
 
-Part of the [MacMugen](/tartans/m/ma/macmugen/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacMugen](/tartans/m/ma/macmugen-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

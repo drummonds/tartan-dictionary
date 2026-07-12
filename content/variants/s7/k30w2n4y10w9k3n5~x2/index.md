@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Virginia"
+  url: "/clan/virginia/"
 - name: "Virginia Commonwealth University"
   url: "/tartans/v/vi/virginia-commonwealth-university/"
 - name: "Virginia Commonwealth University"

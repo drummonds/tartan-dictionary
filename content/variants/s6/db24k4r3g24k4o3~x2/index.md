@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Skene"
   url: "/clan/skene/"
 - name: "Skene"
+  url: "/families/skene/"
+- name: "Skene"
   url: "/tartans/s/sk/skene-3/"
 - name: "(1) Skene"
   url: "/setts/db24k4r3g24k4o3/"

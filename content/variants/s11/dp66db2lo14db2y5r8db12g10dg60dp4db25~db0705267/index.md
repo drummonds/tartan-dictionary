@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dundee"
+  url: "/clan/dundee/"
 - name: "Dundee Carers Centre"
   url: "/tartans/d/du/dundee-carers-centre/"
 - name: "Dundee Carers Centre"

@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hebridean"
+  url: "/clan/hebridean/"
 - name: "Hebridean Granite"
-  url: "/tartans/h/he/hebridean-granite/"
+  url: "/tartans/h/he/hebridean-granite-2/"
 - name: "Hebridean Granite Fashion Tartan"
   url: "/setts/o3lb4o4k4o18k3dt36w3/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o3lb4o4k4o18k3dt36w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKRKBW](/stripes/rwrkrkbw/).
 
-Part of the [Hebridean Granite](/tartans/h/he/hebridean-granite/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hebridean Granite](/tartans/h/he/hebridean-granite-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

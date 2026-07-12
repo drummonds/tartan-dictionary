@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Daks"
+  url: "/clan/daks/"
 ---
+A tartan of [Clan Daks](/clan/daks/).
 Its design is pattern [RBGBBBGR](/stripes/rbgbbbgr/) — the page of every tartan sharing this colour sequence.
 
 The **Daks, Navy** tartan is recorded as a single sett.

@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Milne"
   url: "/clan/milne/"
 - name: "Milne"
+  url: "/families/milne/"
+- name: "Milne"
   url: "/tartans/m/mi/milne/"
 - name: "Milne (Personal)"
   url: "/setts/w12dg2w12r17w12dg2w5p2/"

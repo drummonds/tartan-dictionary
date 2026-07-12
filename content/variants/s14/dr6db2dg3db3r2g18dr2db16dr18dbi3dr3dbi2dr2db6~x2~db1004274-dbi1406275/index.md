@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Minster"
+  url: "/clan/minster/"
 - name: "Minster"
-  url: "/tartans/m/mi/minster-2/"
+  url: "/families/minster/"
+- name: "Minster"
+  url: "/tartans/m/mi/minster/"
 - name: "Minster"
   url: "/setts/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBGRBGBB](/stripes/bbbbbbbbgrbgbb/).
 
-Part of the [Minster](/tartans/m/mi/minster-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Minster](/tartans/m/mi/minster/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

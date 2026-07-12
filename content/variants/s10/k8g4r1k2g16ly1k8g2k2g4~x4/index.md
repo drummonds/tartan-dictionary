@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Manitoba"
+  url: "/clan/manitoba/"
 - name: "Manitoba Cue"
   url: "/tartans/m/ma/manitoba-cue/"
 - name: "Manitoba Cue (Corporate)"

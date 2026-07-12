@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan McClurg"
+  url: "/clan/mcclurg/"
 - name: "McClurg"
-  url: "/tartans/m/mc/mcclurg/"
+  url: "/families/mcclurg/"
+- name: "McClurg"
+  url: "/tartans/m/mc/mcclurg-2/"
 - name: "McClurg (Name)"
   url: "/setts/k4y1g2y1g35db32lb4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4y1g2y1g35db32lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGGBW](/stripes/kggggbw/).
 
-Part of the [McClurg](/tartans/m/mc/mcclurg/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McClurg](/tartans/m/mc/mcclurg-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -10,5 +10,6 @@ date: 2023-03-18
 
 ## Families
 
+- [Menzies](/families/menzies/)
 - [Menzies of Culdares](/families/menzies-of-culdares/)
 

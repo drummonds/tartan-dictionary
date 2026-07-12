@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Malcolm"
+  url: "/clan/malcolm/"
+- name: "Malcolm"
+  url: "/families/malcolm/"
 ---
+A tartan of the [Malcolm](/families/malcolm/) family.
 Its design is pattern [WBWBKBRBRBKGKBGKGKWBWBW](/stripes/wbwbkbrbrbkgkbgkgkwbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Malcolm, Dress** tartan groups 2 setts — the same named design recorded as different cloths

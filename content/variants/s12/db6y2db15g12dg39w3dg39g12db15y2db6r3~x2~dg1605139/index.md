@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wagland"
+  url: "/clan/wagland/"
 - name: "Wagland"
-  url: "/tartans/w/wa/wagland/"
+  url: "/families/wagland/"
+- name: "Wagland"
+  url: "/tartans/w/wa/wagland-2/"
 - name: "Wagland"
   url: "/setts/db6y2db15g12dg39w3dg39g12db15y2db6r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6y2db15g12dg39w3dg39g12db15y2db6r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGWGGBGBR](/stripes/bgbggwggbgbr/).
 
-Part of the [Wagland](/tartans/w/wa/wagland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wagland](/tartans/w/wa/wagland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

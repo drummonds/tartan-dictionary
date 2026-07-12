@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Highland"
+  url: "/clan/highland/"
 - name: "Highland Spring"
-  url: "/tartans/h/hi/highland-spring-5/"
+  url: "/tartans/h/hi/highland-spring-2/"
 - name: "Highland Spring (1997) (Corporate)"
   url: "/setts/dp7g23r3g7/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp7g23r3g7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRG](/stripes/bgrg/).
 
-Part of the [Highland Spring](/tartans/h/hi/highland-spring-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Highland Spring](/tartans/h/hi/highland-spring-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

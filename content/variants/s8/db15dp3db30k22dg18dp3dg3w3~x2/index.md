@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Moray"
   url: "/clan/moray/"
 - name: "Moray"
+  url: "/families/moray/"
+- name: "Moray"
   url: "/tartans/m/mo/moray-2/"
 - name: "Moray (Corporate)"
   url: "/setts/db15dp3db30k22dg18dp3dg3w3/"

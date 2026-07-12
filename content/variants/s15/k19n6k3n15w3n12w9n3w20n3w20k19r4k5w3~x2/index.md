@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Black"
+  url: "/clan/black/"
 - name: "Black and"
-  url: "/tartans/b/bl/black-and-2/"
+  url: "/tartans/b/bl/black-and/"
 - name: "Black and White"
   url: "/setts/k19n6k3n15w3n12w9n3w20n3w20k19r4k5w3/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k19n6k3n15w3n12w9n3w20n3w20k19r4k5w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBWBWBWBWKRKW](/stripes/kbkbwbwbwbwkrkw/).
 
-Part of the [Black and](/tartans/b/bl/black-and-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black and](/tartans/b/bl/black-and/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

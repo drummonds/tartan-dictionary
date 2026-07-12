@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGillivray"
+  url: "/clan/macgillivray/"
 - name: "MacGillivray"
-  url: "/tartans/m/ma/macgillivray-2/"
+  url: "/families/macgillivray/"
+- name: "MacGillivray"
+  url: "/tartans/m/ma/macgillivray-4/"
 - name: "MacGillivray"
   url: "/setts/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRGRBRWRBWR](/stripes/brwrgrbrwrbwr/).
 
-Part of the [MacGillivray](/tartans/m/ma/macgillivray-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGillivray](/tartans/m/ma/macgillivray-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

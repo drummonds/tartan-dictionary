@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Thompson"
+  url: "/clan/thompson/"
 - name: "Thompson"
-  url: "/tartans/t/th/thompson-3/"
+  url: "/families/thompson/"
+- name: "Thompson"
+  url: "/tartans/t/th/thompson-6/"
 - name: "Thompson, D.C. (Personal)"
   url: "/setts/k4lb28r6w12r12w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4lb28r6w12r12w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRWRW](/stripes/kwrwrw/).
 
-Part of the [Thompson](/tartans/t/th/thompson-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Thompson](/tartans/t/th/thompson-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

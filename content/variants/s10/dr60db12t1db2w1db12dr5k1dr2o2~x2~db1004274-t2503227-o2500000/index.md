@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kervegant"
+  url: "/clan/kervegant/"
+- name: "Kervegant"
+  url: "/families/kervegant/"
 - name: "Kervegant Dress"
   url: "/tartans/k/ke/kervegant-dress/"
 - name: "Kervegant Dress (Personal)"

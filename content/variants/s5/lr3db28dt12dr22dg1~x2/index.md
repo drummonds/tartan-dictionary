@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Diaspora"
+  url: "/clan/diaspora/"
 - name: "Diaspora"
-  url: "/tartans/d/di/diaspora-3/"
+  url: "/families/diaspora/"
+- name: "Diaspora"
+  url: "/tartans/d/di/diaspora/"
 - name: "Diaspora (Fashion)"
   url: "/setts/lr3db28dt12dr22dg1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lr3db28dt12dr22dg1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBY](/stripes/gbbby/).
 
-Part of the [Diaspora](/tartans/d/di/diaspora-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Diaspora](/tartans/d/di/diaspora/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

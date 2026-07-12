@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hopkins"
+  url: "/clan/hopkins/"
 - name: "Hopkins"
-  url: "/tartans/h/ho/hopkins-3/"
+  url: "/families/hopkins/"
+- name: "Hopkins"
+  url: "/tartans/h/ho/hopkins-2/"
 - name: "Hopkins (Name)"
   url: "/setts/r36k18r4k7w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r36k18r4k7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKW](/stripes/rkrkw/).
 
-Part of the [Hopkins](/tartans/h/ho/hopkins-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hopkins](/tartans/h/ho/hopkins-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

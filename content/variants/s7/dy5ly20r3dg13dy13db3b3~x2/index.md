@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Christmas"
+  url: "/clan/christmas/"
 - name: "Christmas Hill Game Farm"
   url: "/tartans/c/ch/christmas-hill-game-farm/"
 - name: "Christmas Hill Game Farm (Corporate)"

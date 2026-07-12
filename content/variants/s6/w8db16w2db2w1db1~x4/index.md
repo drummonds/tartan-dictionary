@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ikelman"
+  url: "/clan/ikelman/"
 - name: "Ikelman"
-  url: "/tartans/i/ik/ikelman/"
+  url: "/families/ikelman/"
+- name: "Ikelman"
+  url: "/tartans/i/ik/ikelman-3/"
 - name: "Ikelman #1 (Personal)"
   url: "/setts/w8db16w2db2w1db1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w8db16w2db2w1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
-Part of the [Ikelman](/tartans/i/ik/ikelman/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ikelman](/tartans/i/ik/ikelman-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

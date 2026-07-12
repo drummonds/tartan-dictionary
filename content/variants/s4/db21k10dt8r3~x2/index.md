@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rangers"
+  url: "/clan/rangers/"
+- name: "Rangers"
+  url: "/families/rangers/"
 - name: "Rangers 1989"
-  url: "/tartans/r/ra/rangers-1989/"
+  url: "/tartans/r/ra/rangers-1989-2/"
 - name: "Rangers 1989 (Sports)"
   url: "/setts/db21k10dt8r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db21k10dt8r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBR](/stripes/bkbr/).
 
-Part of the [Rangers 1989](/tartans/r/ra/rangers-1989/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rangers 1989](/tartans/r/ra/rangers-1989-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Australian"
+  url: "/clan/australian/"
 ---
+A tartan of [Clan Australian](/clan/australian/).
 Its design is pattern [BGWGWGGGKBWBRB](/stripes/bgwgwgggkbwbrb/) — the page of every tartan sharing this colour sequence.
 
 Australian national/district tartan designed by Betty Johnston, Canberra; colours symbolise the flag, Southern Cross, patron saints, and convict past.

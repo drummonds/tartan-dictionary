@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jacobite"
+  url: "/clan/jacobite/"
 - name: "Jacobite"
-  url: "/tartans/j/ja/jacobite/"
+  url: "/families/jacobite/"
+- name: "Jacobite"
+  url: "/tartans/j/ja/jacobite-2/"
 - name: "Jacobite #2"
   url: "/setts/y70k30w3g30k3y10/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y70k30w3g30k3y10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWKG](/stripes/gkgwkg/).
 
-Part of the [Jacobite](/tartans/j/ja/jacobite/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Jacobite](/tartans/j/ja/jacobite-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

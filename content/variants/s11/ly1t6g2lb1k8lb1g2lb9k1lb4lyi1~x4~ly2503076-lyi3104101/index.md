@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Tiree"
+  url: "/clan/tiree/"
 - name: "Tiree"
-  url: "/tartans/t/ti/tiree-2/"
+  url: "/families/tiree/"
+- name: "Tiree"
+  url: "/tartans/t/ti/tiree/"
 - name: "Tiree"
   url: "/setts/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBGWKWGWKWY](/stripes/ybgwkwgwkwy/).
 
-Part of the [Tiree](/tartans/t/ti/tiree-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tiree](/tartans/t/ti/tiree/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

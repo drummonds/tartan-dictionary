@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rangers"
+  url: "/clan/rangers/"
 - name: "Rangers Football Club"
   url: "/tartans/r/ra/rangers-football-club/"
 - name: "Rangers Football Club"

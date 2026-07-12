@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan McWilliams"
+  url: "/clan/mcwilliams/"
 - name: "McWilliams"
-  url: "/tartans/m/mc/mcwilliams/"
+  url: "/families/mcwilliams/"
+- name: "McWilliams"
+  url: "/tartans/m/mc/mcwilliams-3/"
 - name: "McWilliams (2014)"
   url: "/setts/k3db15k9dy3k2dy14k2dy3k9db13k2db3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3db15k9dy3k2dy14k2dy3k9db13k2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKBK](/stripes/bkbkgkgkgkbk/).
 
-Part of the [McWilliams](/tartans/m/mc/mcwilliams/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McWilliams](/tartans/m/mc/mcwilliams-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

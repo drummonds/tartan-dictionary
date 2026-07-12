@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Knox"
+  url: "/clan/knox/"
+- name: "Knox"
+  url: "/families/knox/"
 ---
+A tartan of the [Knox](/families/knox/) family.
 Its design is pattern [BWWYBYBWYBBYBGBYGKW](/stripes/bwwybybwybbybgbygkw/) — the page of every tartan sharing this colour sequence.
 
 The **Knox** tartan is recorded as a single sett.

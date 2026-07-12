@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Clanedin"
+  url: "/clan/clanedin/"
 - name: "Clanedin"
-  url: "/tartans/c/cl/clanedin/"
+  url: "/families/clanedin/"
+- name: "Clanedin"
+  url: "/tartans/c/cl/clanedin-2/"
 - name: "Clanedin (Commemorative)"
   url: "/setts/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKWBWKWKWKWKW](/stripes/bkwkwkwbwkwkwkwkw/).
 
-Part of the [Clanedin](/tartans/c/cl/clanedin/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clanedin](/tartans/c/cl/clanedin-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lorne"
+  url: "/clan/lorne/"
 - name: "Lorne Asymmetric"
   url: "/tartans/l/lo/lorne-asymmetric/"
 - name: "Lorne Asymmetric (Artefact)"

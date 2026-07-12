@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Semple"
+  url: "/clan/semple/"
 - name: "Semple"
-  url: "/tartans/s/se/semple/"
+  url: "/families/semple/"
+- name: "Semple"
+  url: "/tartans/s/se/semple-2/"
 - name: "Semple (Name)"
   url: "/setts/r4t11k3t3k3t4k15g36w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4t11k3t3k3t4k15g36w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBKGW](/stripes/rbkbkbkgw/).
 
-Part of the [Semple](/tartans/s/se/semple/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Semple](/tartans/s/se/semple-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

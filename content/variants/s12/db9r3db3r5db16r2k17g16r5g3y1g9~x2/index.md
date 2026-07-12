@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bowie"
+  url: "/clan/bowie/"
 - name: "Bowie"
-  url: "/tartans/b/bo/bowie-4/"
+  url: "/families/bowie/"
+- name: "Bowie"
+  url: "/tartans/b/bo/bowie-5/"
 - name: "Bowie"
   url: "/setts/db9r3db3r5db16r2k17g16r5g3y1g9/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db9r3db3r5db16r2k17g16r5g3y1g9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKGRGGG](/stripes/brbrbrkgrggg/).
 
-Part of the [Bowie](/tartans/b/bo/bowie-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bowie](/tartans/b/bo/bowie-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

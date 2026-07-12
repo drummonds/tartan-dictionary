@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jacobite"
+  url: "/clan/jacobite/"
 - name: "Jacobite Old Sett"
   url: "/tartans/j/ja/jacobite-old-sett/"
 - name: "Jacobite Old Sett"

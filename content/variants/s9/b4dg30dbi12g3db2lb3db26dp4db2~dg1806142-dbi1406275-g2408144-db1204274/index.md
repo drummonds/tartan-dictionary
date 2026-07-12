@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Begg"
+  url: "/clan/begg/"
 - name: "Begg"
-  url: "/tartans/b/be/begg-2/"
+  url: "/families/begg/"
+- name: "Begg"
+  url: "/tartans/b/be/begg/"
 - name: "Begg (Personal)"
   url: "/setts/b4dg30dbi12g3db2lb3db26dp4db2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b4dg30dbi12g3db2lb3db26dp4db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBGBGB](/stripes/bbbwbgbgb/).
 
-Part of the [Begg](/tartans/b/be/begg-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Begg](/tartans/b/be/begg/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

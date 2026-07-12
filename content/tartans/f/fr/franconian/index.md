@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Franconian"
+  url: "/clan/franconian/"
+- name: "Franconian"
+  url: "/families/franconian/"
 ---
+A tartan of the [Franconian](/families/franconian/) family.
 Its design is pattern [GRGWGRGKBKGKGKGKGKGKRKGKGBGKGKBK](/stripes/grgwgrgkbkgkgkgkgkgkrkgkgbgkgkbk/) — the page of every tartan sharing this colour sequence.
 
 The **Franconian** tartan is recorded as a single sett.

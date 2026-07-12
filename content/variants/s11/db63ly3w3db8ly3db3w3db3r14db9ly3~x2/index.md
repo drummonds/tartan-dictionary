@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ottawa"
+  url: "/clan/ottawa/"
 - name: "Ottawa Fire Service"
   url: "/tartans/o/ot/ottawa-fire-service/"
 - name: "Ottawa Fire Service (Corporate)"

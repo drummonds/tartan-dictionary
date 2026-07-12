@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Seattle"
+  url: "/clan/seattle/"
+- name: "Seattle"
+  url: "/families/seattle/"
 - name: "Seattle"
   url: "/tartans/s/se/seattle/"
 - name: "Seattle (District)"

@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Washington"
+  url: "/clan/washington/"
 - name: "Washington DC"
   url: "/tartans/w/wa/washington-dc/"
 - name: "Washington DC (Fashion)"

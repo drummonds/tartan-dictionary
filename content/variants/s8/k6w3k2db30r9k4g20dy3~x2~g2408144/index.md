@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Minnesota"
+  url: "/clan/minnesota/"
+- name: "Minnesota"
+  url: "/families/minnesota/"
 - name: "Minnesota"
   url: "/tartans/m/mi/minnesota/"
 - name: "Minnesota (District)"

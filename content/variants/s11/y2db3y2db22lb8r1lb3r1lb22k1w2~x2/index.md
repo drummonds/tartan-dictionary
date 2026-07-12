@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Liddell"
+  url: "/clan/liddell/"
 - name: "Liddell"
-  url: "/tartans/l/li/liddell-2/"
+  url: "/families/liddell/"
+- name: "Liddell"
+  url: "/tartans/l/li/liddell/"
 - name: "Liddell (Newfane, New York)"
   url: "/setts/y2db3y2db22lb8r1lb3r1lb22k1w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y2db3y2db22lb8r1lb3r1lb22k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWRWRWKW](/stripes/gbgbwrwrwkw/).
 
-Part of the [Liddell](/tartans/l/li/liddell-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Liddell](/tartans/l/li/liddell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

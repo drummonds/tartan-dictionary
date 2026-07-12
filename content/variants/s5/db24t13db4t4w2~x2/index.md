@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gallaecia"
+  url: "/clan/gallaecia/"
+- name: "Gallaecia"
+  url: "/families/gallaecia/"
 - name: "Gallaecia"
   url: "/tartans/g/ga/gallaecia/"
 - name: "Gallaecia - Galicia National"

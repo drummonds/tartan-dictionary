@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Young"
+  url: "/clan/young/"
 - name: "Young in Australia"
   url: "/tartans/y/yo/young-in-australia/"
 - name: "Young in Australia (Name)"

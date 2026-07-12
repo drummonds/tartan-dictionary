@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dunn"
+  url: "/clan/dunn/"
 - name: "Dunn"
-  url: "/tartans/d/du/dunn-3/"
+  url: "/families/dunn/"
+- name: "Dunn"
+  url: "/tartans/d/du/dunn-4/"
 - name: "Dunn (Scotland) (Name)"
   url: "/setts/t45y6t3y6t3w3db5w3db5w20t2w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t45y6t3y6t3w3db5w3db5w20t2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBWBWBW](/stripes/bgbgbwbwbwbw/).
 
-Part of the [Dunn](/tartans/d/du/dunn-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dunn](/tartans/d/du/dunn-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

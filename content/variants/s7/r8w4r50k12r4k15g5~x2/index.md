@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Instakilt"
+  url: "/clan/instakilt/"
+- name: "Instakilt"
+  url: "/families/instakilt/"
 - name: "Instakilt"
   url: "/tartans/i/in/instakilt/"
 - name: "Instakilt, Red (Fashion)"

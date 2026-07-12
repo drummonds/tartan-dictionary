@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacMaster"
+  url: "/clan/macmaster/"
 - name: "MacMaster"
-  url: "/tartans/m/ma/macmaster/"
+  url: "/families/macmaster/"
+- name: "MacMaster"
+  url: "/tartans/m/ma/macmaster-2/"
 - name: "MacMaster Corporate Tartan"
   url: "/setts/g34k1r4w1r4k1g4k1y2k1g7k1r3k1g3k1r3k1g3w1db5w1y4w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g34k1r4w1r4k1g4k1y2k1g7k1r3k1g3k1r3k1g3w1db5w1y4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRWRKGKGKGKRKGKRKGWBWGW](/stripes/gkrwrkgkgkgkrkgkrkgwbwgw/).
 
-Part of the [MacMaster](/tartans/m/ma/macmaster/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacMaster](/tartans/m/ma/macmaster-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 

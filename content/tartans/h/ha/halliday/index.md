@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Halliday"
+  url: "/clan/halliday/"
+- name: "Halliday"
+  url: "/families/halliday/"
 ---
+A tartan of the [Halliday](/families/halliday/) family.
 Its design is pattern [GWKWKWKWKWGWKWR](/stripes/gwkwkwkwkwgwkwr/) — the page of every tartan sharing this colour sequence.
 
 The **Halliday** tartan groups 2 setts — the same named design recorded as different cloths

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Barbecue"
+  url: "/clan/barbecue/"
 ---
+A tartan of [Clan Barbecue](/clan/barbecue/).
 Its design is pattern [GRGRGKBRGRGRG](/stripes/grgrgkbrgrgrg/) — the page of every tartan sharing this colour sequence.
 
 The **Barbecue Presbyterian Church** tartan groups 2 setts — the same named design recorded as different cloths

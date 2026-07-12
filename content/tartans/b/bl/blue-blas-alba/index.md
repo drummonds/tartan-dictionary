@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Blue"
+  url: "/clan/blue/"
 ---
+A tartan of [Clan Blue](/clan/blue/).
 Its design is pattern [GYGBBBBBW](/stripes/gygbbbbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Blue Blas Alba** tartan is recorded as a single sett.

@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Drummond"
   url: "/clan/drummond/"
 - name: "Drummond"
-  url: "/tartans/d/dr/drummond-4/"
+  url: "/families/drummond/"
+- name: "Drummond"
+  url: "/tartans/d/dr/drummond-7/"
 - name: "Drummond, (Fingask)"
   url: "/setts/r22db3y1g12r6db3lb3w1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r22db3y1g12r6db3lb3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGGRBWW](/stripes/rbggrbww/).
 
-Part of the [Drummond](/tartans/d/dr/drummond-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Drummond](/tartans/d/dr/drummond-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

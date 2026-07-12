@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bryson"
+  url: "/clan/bryson/"
 - name: "Bryson"
-  url: "/tartans/b/br/bryson/"
+  url: "/families/bryson/"
+- name: "Bryson"
+  url: "/tartans/b/br/bryson-3/"
 - name: "Bryson (1988) (Name)"
   url: "/setts/lr2r1t7k7lb1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lr2r1t7k7lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBRY](/stripes/wkbry/).
 
-Part of the [Bryson](/tartans/b/br/bryson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bryson](/tartans/b/br/bryson-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

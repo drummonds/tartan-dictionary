@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Montrose"
   url: "/clan/montrose/"
 - name: "Montrose"
+  url: "/families/montrose/"
+- name: "Montrose"
   url: "/tartans/m/mo/montrose-2/"
 - name: "Montrose (Macnaughton variation)"
   url: "/setts/db1k1dr12g12k6db5dr12k1db1/"

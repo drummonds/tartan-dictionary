@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Deighan"
+  url: "/clan/deighan/"
+- name: "Deighan"
+  url: "/families/deighan/"
 - name: "Deighan"
   url: "/tartans/d/de/deighan/"
 - name: "Deighan (Burham Kent) (Name)"

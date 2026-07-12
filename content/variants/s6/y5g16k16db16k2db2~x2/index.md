@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hudson"
+  url: "/clan/hudson/"
 - name: "Hudson Valley Reg. Police P & D (Cor"
   url: "/tartans/h/hu/hudson-valley-reg-police-p-d-cor/"
 - name: "Hudson Valley Reg. Police P & D (Cor"

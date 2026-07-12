@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Huntly"
+  url: "/clan/huntly/"
 - name: "Huntly Old"
-  url: "/tartans/h/hu/huntly-old/"
+  url: "/tartans/h/hu/huntly-old-2/"
 - name: "Huntly Old"
   url: "/setts/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKWWBWGWGRKRK](/stripes/bwbwkwwbwgwgrkrk/).
 
-Part of the [Huntly Old](/tartans/h/hu/huntly-old/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Huntly Old](/tartans/h/hu/huntly-old-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

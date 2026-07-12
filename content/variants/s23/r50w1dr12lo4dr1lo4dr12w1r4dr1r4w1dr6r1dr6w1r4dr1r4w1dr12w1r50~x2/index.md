@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glenorchy"
+  url: "/clan/glenorchy/"
 - name: "Glenorchy, Lord"
   url: "/tartans/g/gl/glenorchy-lord/"
 - name: "Glenorchy, Lord (Portrait)"

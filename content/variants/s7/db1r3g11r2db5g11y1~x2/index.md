@@ -7,6 +7,8 @@ crumbs:
   url: "/"
 - name: "Clan Mackintosh (Clan Chattan)"
   url: "/clan/mackintosh/"
+- name: "MacKintosh"
+  url: "/families/mackintosh/"
 - name: "MacKintosh Hunting"
   url: "/tartans/m/ma/mackintosh-hunting/"
 - name: "MacKintosh Hunting Clan Tartan"

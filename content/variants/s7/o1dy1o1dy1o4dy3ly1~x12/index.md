@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Burns"
+  url: "/clan/burns/"
 - name: "Burns' Birthplace"
   url: "/tartans/b/bu/burns-birthplace/"
 - name: "Burns' Birthplace (Commem)"

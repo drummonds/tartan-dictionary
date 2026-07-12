@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Praetorian"
+  url: "/clan/praetorian/"
 - name: "Praetorian Imperator"
   url: "/tartans/p/pr/praetorian-imperator/"
 - name: "Praetorian Imperator"

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/">Bouguet, Adrian Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/"><img src="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/sett.png" alt="Bouguet, Adrian Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/">Bouguet, Adrian Hunting (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/"><img src="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/sett.png" alt="Bouguet, Adrian Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/">Bouguet, Adrian Hunting (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/"><img src="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/sett.png" alt="Bouguet, Adrian Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

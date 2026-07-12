@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fife"
+  url: "/clan/fife/"
 - name: "Fife"
-  url: "/tartans/f/fi/fife/"
+  url: "/families/fife/"
+- name: "Fife"
+  url: "/tartans/f/fi/fife-3/"
 - name: "Fife (Mann)"
   url: "/setts/t2w1t12ly3t7dy2ly1t2k1g4w1t2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t2w1t12ly3t7dy2ly1t2k1g4w1t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYBGYBKGWB](/stripes/bwbybgybkgwb/).
 
-Part of the [Fife](/tartans/f/fi/fife/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fife](/tartans/f/fi/fife-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

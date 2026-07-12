@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Queensland"
+  url: "/clan/queensland/"
+- name: "Queensland"
+  url: "/families/queensland/"
 - name: "Queensland"
   url: "/tartans/q/qu/queensland/"
 - name: "Queensland (District)"

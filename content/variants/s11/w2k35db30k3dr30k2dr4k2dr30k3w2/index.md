@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Gwyn"
   url: "/clan/gwyn/"
 - name: "Gwyn"
+  url: "/families/gwyn/"
+- name: "Gwyn"
   url: "/tartans/g/gw/gwyn/"
 - name: "Gwyn (Welsh Name)"
   url: "/setts/w2k35db30k3dr30k2dr4k2dr30k3w2/"

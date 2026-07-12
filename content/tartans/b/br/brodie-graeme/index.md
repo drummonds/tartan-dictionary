@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Brodie"
+  url: "/clan/brodie/"
 ---
+A tartan of [Clan Brodie](/clan/brodie/).
 Its design is pattern [BBKBRBRRBKR](/stripes/bbkbrbrrbkr/) — the page of every tartan sharing this colour sequence.
 
 The **Brodie, Graeme** tartan is recorded as a single sett.

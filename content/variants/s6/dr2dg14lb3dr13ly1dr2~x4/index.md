@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Swedish"
+  url: "/clan/swedish/"
 - name: "Swedish Para Whisky Club (Corporate"
   url: "/tartans/s/sw/swedish-para-whisky-club-corporate/"
 - name: "Swedish Para Whisky Club (Corporate"

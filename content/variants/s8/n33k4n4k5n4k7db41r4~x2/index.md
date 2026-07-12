@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kinnaird"
+  url: "/clan/kinnaird/"
 - name: "Kinnaird"
-  url: "/tartans/k/ki/kinnaird-2/"
+  url: "/families/kinnaird/"
+- name: "Kinnaird"
+  url: "/tartans/k/ki/kinnaird-4/"
 - name: "Kinnaird"
   url: "/setts/n33k4n4k5n4k7db41r4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n33k4n4k5n4k7db41r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBRBKBKBK](/stripes/bkbkbkbrbkbkbk/).
 
-Part of the [Kinnaird](/tartans/k/ki/kinnaird-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kinnaird](/tartans/k/ki/kinnaird-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

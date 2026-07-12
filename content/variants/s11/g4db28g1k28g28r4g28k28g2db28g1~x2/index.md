@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gunn"
+  url: "/clan/gunn/"
 - name: "Gunn"
-  url: "/tartans/g/gu/gunn-2/"
+  url: "/families/gunn/"
+- name: "Gunn"
+  url: "/tartans/g/gu/gunn/"
 - name: "Gunn"
   url: "/setts/g4db28g1k28g28r4g28k28g2db28g1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g4db28g1k28g28r4g28k28g2db28g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/).
 
-Part of the [Gunn](/tartans/g/gu/gunn-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gunn](/tartans/g/gu/gunn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 

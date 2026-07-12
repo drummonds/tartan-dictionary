@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Somerset"
+  url: "/clan/somerset/"
 - name: "Somerset"
-  url: "/tartans/s/so/somerset-4/"
+  url: "/families/somerset/"
+- name: "Somerset"
+  url: "/tartans/s/so/somerset/"
 - name: "Somerset District Tartan"
   url: "/setts/g8n8lb7r5dy2k2dy2k2dy2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g8n8lb7r5dy2k2dy2k2dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWRGKGKG](/stripes/gbwrgkgkg/).
 
-Part of the [Somerset](/tartans/s/so/somerset-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Somerset](/tartans/s/so/somerset/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

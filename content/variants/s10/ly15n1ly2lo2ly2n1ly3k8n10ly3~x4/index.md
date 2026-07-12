@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Annan"
+  url: "/clan/annan/"
 - name: "Annan"
-  url: "/tartans/a/an/annan-2/"
+  url: "/families/annan/"
+- name: "Annan"
+  url: "/tartans/a/an/annan/"
 - name: "Annan Trade Tartan"
   url: "/setts/ly15n1ly2lo2ly2n1ly3k8n10ly3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly15n1ly2lo2ly2n1ly3k8n10ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKYBYYYBY](/stripes/ybkybyyyby/).
 
-Part of the [Annan](/tartans/a/an/annan-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Annan](/tartans/a/an/annan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

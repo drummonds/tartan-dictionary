@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ontario"
+  url: "/clan/ontario/"
 - name: "Ontario, Ensign of"
   url: "/tartans/o/on/ontario-ensign-of/"
 - name: "Ontario Ensign of.. District Tartan"

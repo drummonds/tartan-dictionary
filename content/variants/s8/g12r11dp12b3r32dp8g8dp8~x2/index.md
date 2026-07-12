@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fiddes"
+  url: "/clan/fiddes/"
 - name: "Fiddes"
-  url: "/tartans/f/fi/fiddes-2/"
+  url: "/families/fiddes/"
+- name: "Fiddes"
+  url: "/tartans/f/fi/fiddes-3/"
 - name: "Fiddes"
   url: "/setts/g12r11dp12b3r32dp8g8dp8/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g12r11dp12b3r32dp8g8dp8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBBRG](/stripes/bgbrbbrg/).
 
-Part of the [Fiddes](/tartans/f/fi/fiddes-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fiddes](/tartans/f/fi/fiddes-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

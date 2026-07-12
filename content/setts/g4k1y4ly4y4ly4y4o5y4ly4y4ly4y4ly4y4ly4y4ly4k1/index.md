@@ -6,7 +6,7 @@ This is the **Peeper (check)** sett — one scale-free proportion (`g4k1y4ly4y4l
 [GKGYGYGRGYGYGYGYGYK](/stripes/gkgygygrgygygygygyk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Peeper](/tartans/p/pe/peeper/) tartan — the named design grouping this sett with its kin.
+Part of the [Peeper](/tartans/p/pe/peeper-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

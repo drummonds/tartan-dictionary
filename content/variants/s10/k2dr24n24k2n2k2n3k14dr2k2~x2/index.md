@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Douglas"
   url: "/clan/douglas/"
 - name: "Douglas"
+  url: "/families/douglas/"
+- name: "Douglas"
   url: "/tartans/d/do/douglas-6/"
 - name: "Douglas (WCWM)"
   url: "/setts/k2dr24n24k2n2k2n3k14dr2k2/"

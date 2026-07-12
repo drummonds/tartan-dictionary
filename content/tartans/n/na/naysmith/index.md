@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Naysmith"
+  url: "/clan/naysmith/"
+- name: "Naysmith"
+  url: "/families/naysmith/"
 ---
+A tartan of the [Naysmith](/families/naysmith/) family.
 Its design is pattern [WBBKWKWKBW](/stripes/wbbkwkwkbw/) — the page of every tartan sharing this colour sequence.
 
 Family tartan based loosely on Gunn, designed by textile designer William A Naysmith; restricted to his family.

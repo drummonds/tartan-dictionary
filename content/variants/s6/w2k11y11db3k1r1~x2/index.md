@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cornish"
+  url: "/clan/cornish/"
 - name: "Cornish National"
-  url: "/tartans/c/co/cornish-national/"
+  url: "/tartans/c/co/cornish-national-2/"
 - name: "Cornish National #2"
   url: "/setts/w2k11y11db3k1r1/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2k11y11db3k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBGKW](/stripes/rkbgkw/).
 
-Part of the [Cornish National](/tartans/c/co/cornish-national/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cornish National](/tartans/c/co/cornish-national-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

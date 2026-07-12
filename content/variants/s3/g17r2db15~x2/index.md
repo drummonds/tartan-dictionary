@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Ferguson"
   url: "/clan/ferguson/"
 - name: "Ferguson"
-  url: "/tartans/f/fe/ferguson-2/"
+  url: "/families/ferguson/"
+- name: "Ferguson"
+  url: "/tartans/f/fe/ferguson/"
 - name: "Ferguson (Old) Clan Tartan"
   url: "/setts/g17r2db15/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g17r2db15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRG](/stripes/brg/).
 
-Part of the [Ferguson](/tartans/f/fe/ferguson-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ferguson](/tartans/f/fe/ferguson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [3 stripe tartan](/stripes/stripes3/).
 

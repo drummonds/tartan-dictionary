@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bumbee"
+  url: "/clan/bumbee/"
+- name: "Bumbee"
+  url: "/families/bumbee/"
 ---
+A tartan of the [Bumbee](/families/bumbee/) family.
 Its design is pattern [KBKRKBKBKBKBKRKBKR](/stripes/kbkrkbkbkbkbkrkbkr/) — the page of every tartan sharing this colour sequence.
 
 The **Bumbee** tartan is recorded as a single sett.

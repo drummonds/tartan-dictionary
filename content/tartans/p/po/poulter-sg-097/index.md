@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
 ---
+A tartan of [Clan Poulter](/clan/poulter/).
 Its design is pattern [WRWRWRYWYRWRW](/stripes/wrwrwrywyrwrw/) — the page of every tartan sharing this colour sequence.
 
 The **Poulter SG 097** tartan is recorded as a single sett.

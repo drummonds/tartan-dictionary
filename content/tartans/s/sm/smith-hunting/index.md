@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Smith"
   url: "/clan/smith/"
+- name: "Smith"
+  url: "/families/smith/"
 ---
-A tartan of [Clan Smith](/clan/smith/).
+A tartan of the [Smith](/families/smith/) family.
 Its design is pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/) — the page of every tartan sharing this colour sequence.
 
 The **Smith Hunting** tartan is recorded as a single sett.

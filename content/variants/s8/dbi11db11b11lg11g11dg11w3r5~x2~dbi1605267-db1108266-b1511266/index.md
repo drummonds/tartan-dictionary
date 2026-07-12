@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Reid"
   url: "/clan/reid/"
 - name: "Reid"
-  url: "/tartans/r/re/reid/"
+  url: "/families/reid/"
+- name: "Reid"
+  url: "/tartans/r/re/reid-2/"
 - name: "Reid (Mill City)"
   url: "/setts/dbi11db11b11lg11g11dg11w3r5/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi11db11b11lg11g11dg11w3r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYGGWR](/stripes/bbbyggwr/).
 
-Part of the [Reid](/tartans/r/re/reid/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Reid](/tartans/r/re/reid-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

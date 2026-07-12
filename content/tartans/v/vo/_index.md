@@ -13,6 +13,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/v/vo/vonarb-alfred/"><img src="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/sett.png" alt="Vonarb, Alfred" width="140"><br><strong>Vonarb, Alfred (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/vo/vorwerk-the/"><img src="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/sett.png" alt="Vorwerk, The" width="140"><br><strong>Vorwerk, The (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/vo/vorwerk-the-2/"><img src="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/sett.png" alt="Vorwerk, The" width="140"><br><strong>Vorwerk, The (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/vo/vosko/"><img src="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/sett.png" alt="Vosko" width="140"><br><strong>Vosko (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/v/vo/vosko/"><img src="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/sett.png" alt="Vosko" width="140"><br><strong>Vosko (2)</strong></a><div class="clan-territory">Vosko</div></li>
 <li><a class="tartan" href="/tartans/v/vo/von-prondzynski/"><img src="/variants/s7/db4lb4db8n8db12lb12y1~x2/sett.png" alt="von Prondzynski" width="140"><br><strong>von Prondzynski (1)</strong></a></li>
 </ul>

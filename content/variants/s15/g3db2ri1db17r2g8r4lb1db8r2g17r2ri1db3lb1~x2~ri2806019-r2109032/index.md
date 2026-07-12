@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glenorchy"
+  url: "/clan/glenorchy/"
 - name: "Glenorchy"
-  url: "/tartans/g/gl/glenorchy-2/"
+  url: "/families/glenorchy/"
+- name: "Glenorchy"
+  url: "/tartans/g/gl/glenorchy/"
 - name: "Glenorchy - National Archives"
   url: "/setts/g3db2ri1db17r2g8r4lb1db8r2g17r2ri1db3lb1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3db2ri1db17r2g8r4lb1db8r2g17r2ri1db3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBRGRWBRGRRBW](/stripes/gbrbrgrwbrgrrbw/).
 
-Part of the [Glenorchy](/tartans/g/gl/glenorchy-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glenorchy](/tartans/g/gl/glenorchy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

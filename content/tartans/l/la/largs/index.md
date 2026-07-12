@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Largs"
+  url: "/clan/largs/"
+- name: "Largs"
+  url: "/families/largs/"
 ---
+A tartan of the [Largs](/families/largs/) family.
 Its design is pattern [BBBWBGBGBGBBW](/stripes/bbbwbgbgbgbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Largs** tartan is recorded as a single sett.

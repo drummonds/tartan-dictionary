@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Smithsonian"
+  url: "/clan/smithsonian/"
+- name: "Smithsonian"
+  url: "/families/smithsonian/"
 ---
+A tartan of the [Smithsonian](/families/smithsonian/) family.
 Its design is pattern [BYRGRYKGWBWGKYRGRYBG](/stripes/byrgrykgwbwgkyrgrybg/) — the page of every tartan sharing this colour sequence.
 
 Designed by Alistair Buchan of Lochcarron for Scotland's participation in the Smithsonian's 2003 For Life Festival, Washington DC.

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Moir"
+  url: "/clan/moir/"
 - name: "Moir"
-  url: "/tartans/m/mo/moir-2/"
+  url: "/families/moir/"
+- name: "Moir"
+  url: "/tartans/m/mo/moir/"
 - name: "Moir (Loch Insch) (Personal)"
   url: "/setts/r31g3r2g2r3g2r2g3r15k15g2lb15g3lb3w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r31g3r2g2r3g2r2g3r15k15g2lb15g3lb3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRGRKGWGWW](/stripes/rgrgrgrgrkgwgww/).
 
-Part of the [Moir](/tartans/m/mo/moir-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Moir](/tartans/m/mo/moir/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

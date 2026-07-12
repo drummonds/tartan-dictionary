@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scotland"
+  url: "/clan/scotland/"
 - name: "Scotland the Brave"
-  url: "/tartans/s/sc/scotland-the-brave/"
+  url: "/tartans/s/sc/scotland-the-brave-2/"
 - name: "Scotland the Brave"
   url: "/setts/db6w1db40o1k12dg12o6dg2dp2dg4/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6w1db40o1k12dg12o6dg2dp2dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRKGRGBGBGRGKRBW](/stripes/bwbrkgrgbgbgrgkrbw/).
 
-Part of the [Scotland the Brave](/tartans/s/sc/scotland-the-brave/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scotland the Brave](/tartans/s/sc/scotland-the-brave-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

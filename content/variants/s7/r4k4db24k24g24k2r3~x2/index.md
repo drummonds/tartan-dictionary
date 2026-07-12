@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Black"
+  url: "/clan/black/"
 - name: "Black Watch"
-  url: "/tartans/b/bl/black-watch/"
+  url: "/tartans/b/bl/black-watch-3/"
 - name: "Black Watch"
   url: "/setts/r4k4db24k24g24k2r3/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4k4db24k24g24k2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBKGKR](/stripes/rkbkgkr/).
 
-Part of the [Black Watch](/tartans/b/bl/black-watch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Watch](/tartans/b/bl/black-watch-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

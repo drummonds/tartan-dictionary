@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Arizona"
+  url: "/clan/arizona/"
+- name: "Arizona"
+  url: "/families/arizona/"
 ---
+A tartan of the [Arizona](/families/arizona/) family.
 Its design is pattern [GGWGRGKYRWGY](/stripes/ggwgrgkyrwgy/) — the page of every tartan sharing this colour sequence.
 
 Designed 1995 by Phil Smith, proclaimed by Governor Symington; colours symbolise Arizona's forests, desert, minerals, and peoples.

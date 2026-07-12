@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan VeMMA"
+  url: "/clan/vemma/"
 - name: "Vemma XXXXXXXXX"
   url: "/tartans/v/ve/vemma-xxxxxxxxx/"
 - name: "Vemma (Corporate) XXXXXXXXX"

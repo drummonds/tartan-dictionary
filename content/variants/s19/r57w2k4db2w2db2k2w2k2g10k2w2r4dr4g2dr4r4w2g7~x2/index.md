@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacBean"
   url: "/clan/macbean/"
 - name: "MacBean"
-  url: "/tartans/m/ma/macbean-4/"
+  url: "/families/macbean/"
+- name: "MacBean"
+  url: "/tartans/m/ma/macbean/"
 - name: "MacBean Clan Tartan"
   url: "/setts/r57w2k4db2w2db2k2w2k2g10k2w2r4dr4g2dr4r4w2g7/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r57w2k4db2w2db2k2w2k2g10k2w2r4dr4g2dr4r4w2g7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRBGBRWKGKWKBWBKWR](/stripes/gwrbgbrwkgkwkbwbkwr/).
 
-Part of the [MacBean](/tartans/m/ma/macbean-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacBean](/tartans/m/ma/macbean/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Iowa"
+  url: "/clan/iowa/"
 - name: "Iowa"
-  url: "/tartans/i/io/iowa/"
+  url: "/families/iowa/"
+- name: "Iowa"
+  url: "/tartans/i/io/iowa-2/"
 - name: "Iowa"
   url: "/setts/r4y3g12k16dy5db20k4w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4y3g12k16dy5db20k4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGBKWKBGKGGR](/stripes/ggkgbkwkbgkggr/).
 
-Part of the [Iowa](/tartans/i/io/iowa/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Iowa](/tartans/i/io/iowa-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

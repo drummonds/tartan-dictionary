@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Southdown"
+  url: "/clan/southdown/"
 - name: "Southdown"
-  url: "/tartans/s/so/southdown-3/"
+  url: "/families/southdown/"
+- name: "Southdown"
+  url: "/tartans/s/so/southdown-4/"
 - name: "Southdown Tartan"
   url: "/setts/k8r1k3w5k5w3k5dr23r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8r1k3w5k5w3k5dr23r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKWKBR](/stripes/krkwkwkbr/).
 
-Part of the [Southdown](/tartans/s/so/southdown-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Southdown](/tartans/s/so/southdown-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

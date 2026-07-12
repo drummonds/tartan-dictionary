@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Waggrall"
+  url: "/clan/waggrall/"
+- name: "Waggrall"
+  url: "/families/waggrall/"
 ---
+A tartan of the [Waggrall](/families/waggrall/) family.
 Its design is pattern [RWRRWBGWGBWGYWBWYGWGGWGGWGBWBGWRRWRWRRWGBWBGWGGYWYGGWRRWRWRRWGGYWYGGWGBWBGWRRWRWR](/stripes/rwrrwbgwgbwgywbwygwggwggwgbwbgwrrwrwrrwgbwbgwggywyggwrrwrwrrwggywyggwgbwbgwrrwrwr/) — the page of every tartan sharing this colour sequence.
 
 The **Waggrall** tartan is recorded as a single sett.

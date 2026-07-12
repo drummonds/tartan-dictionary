@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Aquascutum"
+  url: "/clan/aquascutum/"
 - name: "Aquascutum"
-  url: "/tartans/a/aq/aquascutum-2/"
+  url: "/families/aquascutum/"
+- name: "Aquascutum"
+  url: "/tartans/a/aq/aquascutum-3/"
 - name: "Aquascutum"
   url: "/setts/dy1w2db1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy1w2db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWG](/stripes/bwg/).
 
-Part of the [Aquascutum](/tartans/a/aq/aquascutum-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Aquascutum](/tartans/a/aq/aquascutum-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

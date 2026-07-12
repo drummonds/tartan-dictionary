@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Burberry"
+  url: "/clan/burberry/"
 - name: "Burberry Counterfeit"
   url: "/tartans/b/bu/burberry-counterfeit/"
 - name: "Burberry Counterfeit"

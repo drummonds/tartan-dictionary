@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Ogilvy"
   url: "/clan/ogilvy/"
 - name: "Ogilvy"
+  url: "/families/ogilvy/"
+- name: "Ogilvy"
   url: "/tartans/o/og/ogilvy-3/"
 - name: "Ogilvy"
   url: "/setts/w10r3w10y5k2r6w2r6w2r6db2y2w5g2/"

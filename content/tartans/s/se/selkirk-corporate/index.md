@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Selkirk"
+  url: "/clan/selkirk/"
 ---
+A tartan of [Clan Selkirk](/clan/selkirk/).
 Its design is pattern [BGBKWKRKBKRKWKRGB](/stripes/bgbkwkrkbkrkwkrgb/) — the page of every tartan sharing this colour sequence.
 
 The **Selkirk Corporate** tartan is recorded as a single sett.

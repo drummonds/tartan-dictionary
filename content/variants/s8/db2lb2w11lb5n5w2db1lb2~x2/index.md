@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Conquergood"
+  url: "/clan/conquergood/"
 - name: "Conquergood"
-  url: "/tartans/c/co/conquergood/"
+  url: "/families/conquergood/"
+- name: "Conquergood"
+  url: "/tartans/c/co/conquergood-2/"
 - name: "Conquergood Family Tartan"
   url: "/setts/db2lb2w11lb5n5w2db1lb2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2lb2w11lb5n5w2db1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWBWBW](/stripes/bwwwbwbw/).
 
-Part of the [Conquergood](/tartans/c/co/conquergood/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Conquergood](/tartans/c/co/conquergood-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

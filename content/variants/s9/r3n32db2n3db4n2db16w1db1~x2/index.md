@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dauphinee"
+  url: "/clan/dauphinee/"
 - name: "Dauphinee, Andrew Hunter"
   url: "/tartans/d/da/dauphinee-andrew-hunter/"
 - name: "Dauphinee, Andrew Hunter (Personal)"

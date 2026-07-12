@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Holyrood"
+  url: "/clan/holyrood/"
 - name: "Holyrood"
-  url: "/tartans/h/ho/holyrood-3/"
+  url: "/families/holyrood/"
+- name: "Holyrood"
+  url: "/tartans/h/ho/holyrood/"
 - name: "Holyrood (Chair)"
   url: "/setts/r34w1db10dg10w1ly1dg2lb2w1db2lb10r6w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r34w1db10dg10w1ly1dg2lb2w1db2lb10r6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBGWYGWWBWRWRWBWWGYWGBW](/stripes/rwbgwygwwbwrwrwbwwgywgbw/).
 
-Part of the [Holyrood](/tartans/h/ho/holyrood-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Holyrood](/tartans/h/ho/holyrood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Richards"
+  url: "/clan/richards/"
+- name: "Richards"
+  url: "/families/richards/"
 ---
+A tartan of the [Richards](/families/richards/) family.
 Its design is pattern [BGBGBBGBWBGR](/stripes/bgbgbbgbwbgr/) — the page of every tartan sharing this colour sequence.
 
 The **Richards** tartan is recorded as a single sett.

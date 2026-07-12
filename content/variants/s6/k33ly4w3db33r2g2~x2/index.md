@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Atlantic"
+  url: "/clan/atlantic/"
 - name: "Atlantic Police Academy"
   url: "/tartans/a/at/atlantic-police-academy/"
 - name: "Atlantic Police Academy"

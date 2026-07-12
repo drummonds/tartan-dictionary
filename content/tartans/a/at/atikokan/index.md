@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Atikokan"
+  url: "/clan/atikokan/"
+- name: "Atikokan"
+  url: "/families/atikokan/"
 ---
+A tartan of the [Atikokan](/families/atikokan/) family.
 Its design is pattern [GBWRYGW](/stripes/gbwrygw/) — the page of every tartan sharing this colour sequence.
 
 The **Atikokan** tartan groups 3 setts — the same named design recorded as different cloths

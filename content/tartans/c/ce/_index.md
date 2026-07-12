@@ -31,8 +31,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/c/ce/cercle-de-fermi-res-de-saint-lie-d-orford/"><img src="/variants/s7/r2y1db8r1g7y1r2~x6/sett.png" alt="Cercle de Fermières de Saint-Élie d'Orford" width="140"><br><strong>Cercle de Fermières de Saint-Élie d'Orford (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/c/ce/cercles-de-fermieres/"><img src="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/sett.png" alt="Cercles de Fermieres" width="140"><br><strong>Cercles de Fermieres (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/c/ce/ceredigion/"><img src="/variants/s5/g5n1g1n12r1~x8/sett.png" alt="Ceredigion" width="140"><br><strong>Ceredigion (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/ce/cetoloni/"><img src="/variants/s6/db2b22dg11y2dg11db2~x2/sett.png" alt="Cetoloni" width="140"><br><strong>Cetoloni (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/ce/cetoloni-2/"><img src="/variants/s6/db1r12g6y1g6db1~x4/sett.png" alt="Cetoloni" width="140"><br><strong>Cetoloni (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/ce/cetoloni-3/"><img src="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/sett.png" alt="Cetoloni" width="140"><br><strong>Cetoloni (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/ce/cetoloni-4/"><img src="/variants/s6/db1r12k6y1k6db1~x4/sett.png" alt="Cetoloni" width="140"><br><strong>Cetoloni (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/c/ce/cetoloni/"><img src="/variants/s6/db1r12g6y1g6db1~x4/sett.png" alt="Cetoloni" width="140"><br><strong>Cetoloni (1)</strong></a><div class="clan-territory">Cetoloni</div></li>
+<li><a class="tartan" href="/tartans/c/ce/cetoloni-2/"><img src="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/sett.png" alt="Cetoloni" width="140"><br><strong>Cetoloni (1)</strong></a><div class="clan-territory">Cetoloni</div></li>
+<li><a class="tartan" href="/tartans/c/ce/cetoloni-3/"><img src="/variants/s6/db1r12k6y1k6db1~x4/sett.png" alt="Cetoloni" width="140"><br><strong>Cetoloni (1)</strong></a><div class="clan-territory">Cetoloni</div></li>
+<li><a class="tartan" href="/tartans/c/ce/cetoloni-4/"><img src="/variants/s6/db2b22dg11y2dg11db2~x2/sett.png" alt="Cetoloni" width="140"><br><strong>Cetoloni (1)</strong></a><div class="clan-territory">Cetoloni</div></li>
 </ul>

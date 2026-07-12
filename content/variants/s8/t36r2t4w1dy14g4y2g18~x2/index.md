@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Yorkland"
+  url: "/clan/yorkland/"
 - name: "Yorkland"
-  url: "/tartans/y/yo/yorkland/"
+  url: "/families/yorkland/"
+- name: "Yorkland"
+  url: "/tartans/y/yo/yorkland-2/"
 - name: "Yorkland (Personal)"
   url: "/setts/t36r2t4w1dy14g4y2g18/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t36r2t4w1dy14g4y2g18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWGGGG](/stripes/brbwgggg/).
 
-Part of the [Yorkland](/tartans/y/yo/yorkland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Yorkland](/tartans/y/yo/yorkland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

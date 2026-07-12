@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Miyuki"
+  url: "/clan/miyuki/"
 ---
+A tartan of [Clan Miyuki](/clan/miyuki/).
 Its design is pattern [RRRRRRR](/stripes/rrrrrrr/) — the page of every tartan sharing this colour sequence.
 
 The **Miyuki, House Check Tan, 1004A** tartan is recorded as a single sett.

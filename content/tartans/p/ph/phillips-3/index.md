@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Phillips"
   url: "/clan/phillips/"
+- name: "Phillips"
+  url: "/families/phillips/"
 ---
-A tartan of [Clan Phillips](/clan/phillips/).
+A tartan of the [Phillips](/families/phillips/) family.
 Its design is pattern [KKGKGKGKBKR](/stripes/kkgkgkgkbkr/) — the page of every tartan sharing this colour sequence.
 
 The **Phillips** tartan is recorded as a single sett.

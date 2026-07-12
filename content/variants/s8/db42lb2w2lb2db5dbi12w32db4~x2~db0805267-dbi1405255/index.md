@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Eildon"
+  url: "/clan/eildon/"
 - name: "Eildon"
-  url: "/tartans/e/ei/eildon-2/"
+  url: "/families/eildon/"
+- name: "Eildon"
+  url: "/tartans/e/ei/eildon/"
 - name: "Eildon (1980)"
   url: "/setts/db42lb2w2lb2db5dbi12w32db4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db42lb2w2lb2db5dbi12w32db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWWWB](/stripes/bwbbwwwb/).
 
-Part of the [Eildon](/tartans/e/ei/eildon-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Eildon](/tartans/e/ei/eildon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

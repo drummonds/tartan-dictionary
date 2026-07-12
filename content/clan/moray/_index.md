@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><img src="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/sett.png" alt="Moray of Abercairney #2" width="240"><br>Moray of Abercairney #2</a>
+<a class="tartan" href="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/"><img src="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/sett.png" alt="Moray Plaid" width="240"><br>Moray Plaid</a>
 
 ## Families
 
+- [Moray](/families/moray/)
 - [Moray of Abercairney](/families/moray-of-abercairney/)
 - [Moray of Abercairny](/families/moray-of-abercairny/)
 

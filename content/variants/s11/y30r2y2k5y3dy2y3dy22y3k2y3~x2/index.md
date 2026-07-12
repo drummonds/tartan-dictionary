@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dunbarton"
+  url: "/clan/dunbarton/"
 - name: "Dunbarton"
-  url: "/tartans/d/du/dunbarton/"
+  url: "/families/dunbarton/"
+- name: "Dunbarton"
+  url: "/tartans/d/du/dunbarton-2/"
 - name: "Dunbarton Trade Tartan"
   url: "/setts/y30r2y2k5y3dy2y3dy22y3k2y3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y30r2y2k5y3dy2y3dy22y3k2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGGGGKGRG](/stripes/gkgggggkgrg/).
 
-Part of the [Dunbarton](/tartans/d/du/dunbarton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dunbarton](/tartans/d/du/dunbarton-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

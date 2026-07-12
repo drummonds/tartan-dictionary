@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ellis"
+  url: "/clan/ellis/"
 - name: "Ellis"
-  url: "/tartans/e/el/ellis/"
+  url: "/families/ellis/"
+- name: "Ellis"
+  url: "/tartans/e/el/ellis-2/"
 - name: "Ellis (Welsh Name)"
   url: "/setts/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKBKGKW](/stripes/kwkwkwkbkgkw/).
 
-Part of the [Ellis](/tartans/e/el/ellis/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ellis](/tartans/e/el/ellis-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

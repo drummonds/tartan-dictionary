@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Maclean"
   url: "/clan/maclean/"
 - name: "MacLean"
-  url: "/tartans/m/ma/maclean-4/"
+  url: "/families/maclean/"
+- name: "MacLean"
+  url: "/tartans/m/ma/maclean/"
 - name: "MacLean, Black & White"
   url: "/setts/w20k6w9k6w6k12w6k48w8k16w16/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w20k6w9k6w6k12w6k48w8k16w16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
-Part of the [MacLean](/tartans/m/ma/maclean-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLean](/tartans/m/ma/maclean/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Laing"
   url: "/clan/laing/"
 - name: "Laing"
+  url: "/families/laing/"
+- name: "Laing"
   url: "/tartans/l/la/laing/"
 - name: "Laing Clan/Family Tartan"
   url: "/setts/r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1/"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wanstall"
+  url: "/clan/wanstall/"
 - name: "Wanstall"
-  url: "/tartans/w/wa/wanstall-2/"
+  url: "/families/wanstall/"
+- name: "Wanstall"
+  url: "/tartans/w/wa/wanstall/"
 - name: "Wanstall (Name)"
   url: "/setts/dr12dg4dr8dt3dg3dt3dg8dt12dr38ly2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr12dg4dr8dt3dg3dt3dg8dt12dr38ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBGBGBBY](/stripes/bgbbgbgbby/).
 
-Part of the [Wanstall](/tartans/w/wa/wanstall-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wanstall](/tartans/w/wa/wanstall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

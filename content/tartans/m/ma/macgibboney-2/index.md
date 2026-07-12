@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGibboney"
+  url: "/clan/macgibboney/"
+- name: "MacGibboney"
+  url: "/families/macgibboney/"
 ---
+A tartan of the [MacGibboney](/families/macgibboney/) family.
 Its design is pattern [GWBWGW](/stripes/gwbwgw/) — the page of every tartan sharing this colour sequence.
 
 The **MacGibboney** tartan is recorded as a single sett.

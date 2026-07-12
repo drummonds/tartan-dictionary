@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Mackay"
   url: "/clan/mackay/"
 - name: "MacKay"
-  url: "/tartans/m/ma/mackay/"
+  url: "/families/mackay/"
+- name: "MacKay"
+  url: "/tartans/m/ma/mackay-3/"
 - name: "MacKay"
   url: "/setts/k3g14k14g2db14g3/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3g14k14g2db14g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGK](/stripes/gbgkgk/).
 
-Part of the [MacKay](/tartans/m/ma/mackay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKay](/tartans/m/ma/mackay-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

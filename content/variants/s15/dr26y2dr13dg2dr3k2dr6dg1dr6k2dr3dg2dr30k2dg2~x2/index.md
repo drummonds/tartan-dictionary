@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Williams"
   url: "/clan/williams/"
 - name: "Williams"
-  url: "/tartans/w/wi/williams-5/"
+  url: "/families/williams/"
+- name: "Williams"
+  url: "/tartans/w/wi/williams-3/"
 - name: "Williams (Welsh Name)"
   url: "/setts/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKBGBKBGBKG](/stripes/bgbgbkbgbkbgbkg/).
 
-Part of the [Williams](/tartans/w/wi/williams-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Williams](/tartans/w/wi/williams-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

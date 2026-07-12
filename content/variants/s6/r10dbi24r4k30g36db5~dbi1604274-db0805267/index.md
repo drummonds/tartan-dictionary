@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacWilliam"
+  url: "/clan/macwilliam/"
 - name: "MacWilliam"
-  url: "/tartans/m/ma/macwilliam-2/"
+  url: "/families/macwilliam/"
+- name: "MacWilliam"
+  url: "/tartans/m/ma/macwilliam/"
 - name: "MacWilliam"
   url: "/setts/r10dbi24r4k30g36db5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r10dbi24r4k30g36db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKRBR](/stripes/bgkrbr/).
 
-Part of the [MacWilliam](/tartans/m/ma/macwilliam-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacWilliam](/tartans/m/ma/macwilliam/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

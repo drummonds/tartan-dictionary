@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gillespie"
+  url: "/clan/gillespie/"
+- name: "Gillespie"
+  url: "/families/gillespie/"
 ---
+A tartan of the [Gillespie](/families/gillespie/) family.
 Its design is pattern [RGKYGRKGW](/stripes/rgkygrkgw/) — the page of every tartan sharing this colour sequence.
 
 The **Gillespie** tartan groups 3 setts — the same named design recorded as different cloths

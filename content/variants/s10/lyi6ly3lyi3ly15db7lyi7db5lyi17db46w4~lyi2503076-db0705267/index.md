@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Rhys"
   url: "/clan/rhys/"
 - name: "Rhys"
+  url: "/families/rhys/"
+- name: "Rhys"
   url: "/tartans/r/rh/rhys/"
 - name: "Rhys (Welsh Name)"
   url: "/setts/lyi6ly3lyi3ly15db7lyi7db5lyi17db46w4/"

@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Scott"
   url: "/clan/scott/"
 - name: "Scott"
+  url: "/families/scott/"
+- name: "Scott"
   url: "/tartans/s/sc/scott-6/"
 - name: "Scott Red Clan Tartan"
   url: "/setts/r4g4w3g4r4g14r28k2r2g3/"

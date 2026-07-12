@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Buccleuch"
+  url: "/clan/buccleuch/"
 - name: "Buccleuch"
-  url: "/tartans/b/bu/buccleuch/"
+  url: "/families/buccleuch/"
+- name: "Buccleuch"
+  url: "/tartans/b/bu/buccleuch-2/"
 - name: "Buccleuch Family Tartan"
   url: "/setts/r107k9r5db41r5g51r14/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r107k9r5db41r5g51r14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRKR](/stripes/rgrbrkr/).
 
-Part of the [Buccleuch](/tartans/b/bu/buccleuch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Buccleuch](/tartans/b/bu/buccleuch-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

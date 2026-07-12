@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bannatyne"
+  url: "/clan/bannatyne/"
 - name: "Bannatyne"
-  url: "/tartans/b/ba/bannatyne-2/"
+  url: "/families/bannatyne/"
+- name: "Bannatyne"
+  url: "/tartans/b/ba/bannatyne/"
 - name: "Bannatyne (Corporate)"
   url: "/setts/k8dr8k42ki4k4ki4k4ki20dg4ki10dg25w8/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8dr8k42ki4k4ki4k4ki20dg4ki10dg25w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKKKKKKGKGW](/stripes/kbkkkkkkgkgw/).
 
-Part of the [Bannatyne](/tartans/b/ba/bannatyne-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bannatyne](/tartans/b/ba/bannatyne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

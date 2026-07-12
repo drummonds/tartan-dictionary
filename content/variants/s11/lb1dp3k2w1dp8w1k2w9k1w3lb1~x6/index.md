@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan MacRae"
   url: "/clan/macrae/"
 - name: "MacRae"
+  url: "/families/macrae/"
+- name: "MacRae"
   url: "/tartans/m/ma/macrae-6/"
 - name: "MacRae, Dress Purple (Dance)"
   url: "/setts/lb1dp3k2w1dp8w1k2w9k1w3lb1/"

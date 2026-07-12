@@ -1,5 +1,15 @@
 ---
 title: "Clan Phillips"
-redirect: "/families/phillips-of-wales/"
+date: 2023-03-18
 ---
-Clan Phillips is recorded as the single family [Phillips of Wales](/families/phillips-of-wales/) — redirecting there.
+*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+
+## Tartan
+
+<a class="tartan" href="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp1105325-dpi1607327/"><img src="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp1105325-dpi1607327/sett.png" alt="Phillips" width="240"><br>Phillips</a>
+
+## Families
+
+- [Phillips](/families/phillips/)
+- [Phillips of Wales](/families/phillips-of-wales/)
+

@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/"><img src="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/sett.png" alt="Graham of Airth" width="240"><br>Graham of Airth</a>
+<a class="tartan" href="/variants/s3/g12k4g1~x2/"><img src="/variants/s3/g12k4g1~x2/sett.png" alt="Graham" width="240"><br>Graham</a>
 
 ## Families
 
+- [Graham](/families/graham/)
 - [Graham of Airth](/families/graham-of-airth/)
 - [Graham of Menteith](/families/graham-of-menteith/)
 - [Graham of Montrose](/families/graham-of-montrose/)

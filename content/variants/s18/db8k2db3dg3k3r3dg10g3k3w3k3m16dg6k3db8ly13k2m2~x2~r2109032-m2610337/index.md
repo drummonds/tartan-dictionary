@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kukri"
+  url: "/clan/kukri/"
 - name: "Kukri"
-  url: "/tartans/k/ku/kukri-2/"
+  url: "/families/kukri/"
+- name: "Kukri"
+  url: "/tartans/k/ku/kukri/"
 - name: "Kukri"
   url: "/setts/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKRGGKWKRGKBYKR](/stripes/bkbgkrggkwkrgkbykr/).
 
-Part of the [Kukri](/tartans/k/ku/kukri-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kukri](/tartans/k/ku/kukri/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

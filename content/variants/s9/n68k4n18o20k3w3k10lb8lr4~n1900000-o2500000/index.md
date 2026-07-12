@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Carbon"
+  url: "/clan/carbon/"
 - name: "Carbon"
-  url: "/tartans/c/ca/carbon-2/"
+  url: "/families/carbon/"
+- name: "Carbon"
+  url: "/tartans/c/ca/carbon/"
 - name: "Carbon (Corporate)"
   url: "/setts/n68k4n18o20k3w3k10lb8lr4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n68k4n18o20k3w3k10lb8lr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRKWKWY](/stripes/bkbrkwkwy/).
 
-Part of the [Carbon](/tartans/c/ca/carbon-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Carbon](/tartans/c/ca/carbon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

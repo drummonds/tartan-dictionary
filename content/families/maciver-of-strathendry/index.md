@@ -8,13 +8,6 @@ A family of [Clan MacIver](/clan/maciver/).
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/dr3o28do5o5do33o5do5o28ly3/">MacIver of Strathendry Hunting</a></td><td><code>LY/6 O56 DO10 O10 DO66 O10 DO10 O56 DR/6</code></td><td>448</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr3o28do5o5do33o5do5o28ly3/"><img src="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/sett.png" alt="MacIver of Strathendry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the MacIver of Strathendry Hunting tartan and all its setts →](/tartans/m/ma/maciver-of-strathendry-hunting/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/m/ma/maciver-of-strathendry-hunting/"><img src="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/sett.png" alt="MacIver of Strathendry Hunting" width="140"><br><strong>MacIver of Strathendry Hunting (1)</strong></a></li>
+</ul>

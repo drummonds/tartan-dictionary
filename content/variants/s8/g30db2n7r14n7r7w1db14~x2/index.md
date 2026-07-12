@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Harding"
+  url: "/clan/harding/"
 - name: "Harding"
-  url: "/tartans/h/ha/harding-4/"
+  url: "/families/harding/"
+- name: "Harding"
+  url: "/tartans/h/ha/harding-3/"
 - name: "Harding Personal Tartan"
   url: "/setts/g30db2n7r14n7r7w1db14/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g30db2n7r14n7r7w1db14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBRBBG](/stripes/bwrbrbbg/).
 
-Part of the [Harding](/tartans/h/ha/harding-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harding](/tartans/h/ha/harding-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

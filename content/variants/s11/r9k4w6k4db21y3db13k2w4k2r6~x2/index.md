@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dauphinee"
+  url: "/clan/dauphinee/"
+- name: "Dauphinee"
+  url: "/families/dauphinee/"
 - name: "Dauphinee"
   url: "/tartans/d/da/dauphinee/"
 - name: "Dauphinee (Trussville, Alabama) (Personal)"

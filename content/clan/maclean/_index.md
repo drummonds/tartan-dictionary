@@ -10,6 +10,7 @@ date: 2023-03-18
 
 ## Families
 
+- [MacLean](/families/maclean/)
 - [MacLean of Duart](/families/maclean-of-duart/)
 - [MacLean of Kingairloch](/families/maclean-of-kingairloch/)
 

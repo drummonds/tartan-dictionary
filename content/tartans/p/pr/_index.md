@@ -5,12 +5,12 @@ date: 2023-03-18
 115 tartans beginning with Pr, each with the number of setts it groups. Back to [P](/tartans/p/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/p/pr/praetorian/"><img src="/variants/s14/w1dg1y1g8k1lb1w8lb1k8lb1w1g8lb1w1~x6/sett.png" alt="Praetorian" width="140"><br><strong>Praetorian (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/praetorian-2/"><img src="/variants/s14/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/sett.png" alt="Praetorian" width="140"><br><strong>Praetorian (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/praetorian-3/"><img src="/variants/s14/w1k1y1dg8k1lb1w8lb1k8lb1w1dg8lb1w1~x6/sett.png" alt="Praetorian" width="140"><br><strong>Praetorian (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/praetorian-4/"><img src="/variants/s14/w1ki1y1db8k1lb1w8lb1k8lb1w1db8lb1w1~x6~ki0705267-db1505255/sett.png" alt="Praetorian" width="140"><br><strong>Praetorian (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/praetorian-imperator/"><img src="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/sett.png" alt="Praetorian Imperator" width="140"><br><strong>Praetorian Imperator (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/praetorian-imperatur/"><img src="/variants/s14/w1k1y1b8k1lb1w8lb1k8lb1w1b8lb1w1~x6/sett.png" alt="Praetorian Imperatur" width="140"><br><strong>Praetorian Imperatur (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/p/pr/praetorian/"><img src="/variants/s14/w1dg1y1g8k1lb1w8lb1k8lb1w1g8lb1w1~x6/sett.png" alt="Praetorian" width="140"><br><strong>Praetorian (1)</strong></a><div class="clan-territory">Praetorian</div></li>
+<li><a class="tartan" href="/tartans/p/pr/praetorian-2/"><img src="/variants/s14/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/sett.png" alt="Praetorian" width="140"><br><strong>Praetorian (2)</strong></a><div class="clan-territory">Praetorian</div></li>
+<li><a class="tartan" href="/tartans/p/pr/praetorian-3/"><img src="/variants/s14/w1k1y1dg8k1lb1w8lb1k8lb1w1dg8lb1w1~x6/sett.png" alt="Praetorian" width="140"><br><strong>Praetorian (1)</strong></a><div class="clan-territory">Praetorian</div></li>
+<li><a class="tartan" href="/tartans/p/pr/praetorian-4/"><img src="/variants/s14/w1ki1y1db8k1lb1w8lb1k8lb1w1db8lb1w1~x6~ki0705267-db1505255/sett.png" alt="Praetorian" width="140"><br><strong>Praetorian (2)</strong></a><div class="clan-territory">Praetorian</div></li>
+<li><a class="tartan" href="/tartans/p/pr/praetorian-imperator/"><img src="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/sett.png" alt="Praetorian Imperator" width="140"><br><strong>Praetorian Imperator (1)</strong></a><div class="clan-territory">Clan Praetorian</div></li>
+<li><a class="tartan" href="/tartans/p/pr/praetorian-imperatur/"><img src="/variants/s14/w1k1y1b8k1lb1w8lb1k8lb1w1b8lb1w1~x6/sett.png" alt="Praetorian Imperatur" width="140"><br><strong>Praetorian Imperatur (1)</strong></a><div class="clan-territory">Clan Praetorian</div></li>
 <li><a class="tartan" href="/tartans/p/pr/prehospital-ems/"><img src="/variants/s5/k1w7lo7db16dy1~x4/sett.png" alt="Prehospital EMS" width="140"><br><strong>Prehospital EMS (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/presbyterian-college-band/"><img src="/variants/s7/r28k2p36k2w4k2p7~x2/sett.png" alt="Presbyterian College Band" width="140"><br><strong>Presbyterian College Band (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/presbyterian-synod/"><img src="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/sett.png" alt="Presbyterian Synod" width="140"><br><strong>Presbyterian Synod (1)</strong></a></li>
@@ -65,9 +65,9 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/p/pr/pride-of-the-nation/"><img src="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/sett.png" alt="Pride of the Nation" width="140"><br><strong>Pride of the Nation (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/pride-george/"><img src="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/sett.png" alt="Pride, George" width="140"><br><strong>Pride, George (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/pride-the-tartan-of/"><img src="/variants/s6/r8lo4y3g6lb6dp1~x5/sett.png" alt="Pride, The Tartan of" width="140"><br><strong>Pride, The Tartan of (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/priest/"><img src="/variants/s8/k1w8k8w1k8w4k4w1~x2/sett.png" alt="Priest" width="140"><br><strong>Priest (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/priest-2/"><img src="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/sett.png" alt="Priest" width="140"><br><strong>Priest (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/priest-3/"><img src="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/sett.png" alt="Priest" width="140"><br><strong>Priest (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/p/pr/priest/"><img src="/variants/s8/k1w8k8w1k8w4k4w1~x2/sett.png" alt="Priest" width="140"><br><strong>Priest (1)</strong></a><div class="clan-territory">Priest</div></li>
+<li><a class="tartan" href="/tartans/p/pr/priest-2/"><img src="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/sett.png" alt="Priest" width="140"><br><strong>Priest (1)</strong></a><div class="clan-territory">Priest</div></li>
+<li><a class="tartan" href="/tartans/p/pr/priest-3/"><img src="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/sett.png" alt="Priest" width="140"><br><strong>Priest (1)</strong></a><div class="clan-territory">Priest</div></li>
 <li><a class="tartan" href="/tartans/p/pr/prince-albert/"><img src="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/sett.png" alt="Prince Albert" width="140"><br><strong>Prince Albert (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/prince-albert-2/"><img src="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/sett.png" alt="Prince Albert" width="140"><br><strong>Prince Albert (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/prince-charles-cloak/"><img src="/variants/s8/r48db3y1g14r8db3lb4w1/sett.png" alt="Prince Charles Cloak" width="140"><br><strong>Prince Charles Cloak (2)</strong></a></li>
@@ -106,8 +106,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/p/pr/princess-marina/"><img src="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/sett.png" alt="Princess Marina" width="140"><br><strong>Princess Marina (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/princess-marina-2/"><img src="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/sett.png" alt="Princess Marina" width="140"><br><strong>Princess Marina (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/princess-mary/"><img src="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="Princess Mary" width="140"><br><strong>Princess Mary (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/pringle/"><img src="/variants/s11/dr3g32ly2g2k3dt2ly2dt28lb2dt2lb3~x2/sett.png" alt="Pringle" width="140"><br><strong>Pringle (3)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pr/pringle-james/"><img src="/variants/s7/g20dp2g3dp2g14k18g4~x2/sett.png" alt="Pringle, James" width="140"><br><strong>Pringle, James (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/p/pr/pringle/"><img src="/variants/s11/dr3g32ly2g2k3dt2ly2dt28lb2dt2lb3~x2/sett.png" alt="Pringle" width="140"><br><strong>Pringle (3)</strong></a><div class="clan-territory">Pringle</div></li>
+<li><a class="tartan" href="/tartans/p/pr/pringle-james/"><img src="/variants/s7/g20dp2g3dp2g14k18g4~x2/sett.png" alt="Pringle, James" width="140"><br><strong>Pringle, James (1)</strong></a><div class="clan-territory">Clan Pringle</div></li>
 <li><a class="tartan" href="/tartans/p/pr/printing-industries-of-america/"><img src="/variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/sett.png" alt="Printing Industries of America" width="140"><br><strong>Printing Industries of America (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/pritchard/"><img src="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/sett.png" alt="Pritchard" width="140"><br><strong>Pritchard (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/p/pr/private-sa-club/"><img src="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/sett.png" alt="Private SA Club" width="140"><br><strong>Private SA Club (1)</strong></a></li>

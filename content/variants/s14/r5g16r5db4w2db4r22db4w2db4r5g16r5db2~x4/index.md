@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Chisholm"
   url: "/clan/chisholm/"
 - name: "Chisholm"
+  url: "/families/chisholm/"
+- name: "Chisholm"
   url: "/tartans/c/ch/chisholm-3/"
 - name: "Chisholm"
   url: "/setts/r5g16r5db4w2db4r22db4w2db4r5g16r5db2/"

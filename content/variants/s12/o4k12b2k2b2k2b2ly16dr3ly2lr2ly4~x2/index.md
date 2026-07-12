@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cailean"
+  url: "/clan/cailean/"
 - name: "Cailean"
-  url: "/tartans/c/ca/cailean/"
+  url: "/families/cailean/"
+- name: "Cailean"
+  url: "/tartans/c/ca/cailean-2/"
 - name: "Cailean #2 (Fashion)"
   url: "/setts/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBKBKBYBYYY](/stripes/rkbkbkbybyyy/).
 
-Part of the [Cailean](/tartans/c/ca/cailean/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cailean](/tartans/c/ca/cailean-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

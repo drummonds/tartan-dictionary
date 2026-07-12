@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Longniddry"
+  url: "/clan/longniddry/"
 - name: "Longniddry, dress Burgundy"
   url: "/tartans/l/lo/longniddry-dress-burgundy/"
 - name: "Longniddry, dress Burgundy"

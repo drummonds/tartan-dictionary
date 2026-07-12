@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wellington"
+  url: "/clan/wellington/"
 - name: "Wellington or Waterloo Commemorative"
   url: "/tartans/w/we/wellington-or-waterloo-commemorative/"
 - name: "Wellington or Waterloo Commemorative Tartan"

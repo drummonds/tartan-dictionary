@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dundee"
+  url: "/clan/dundee/"
 ---
+A tartan of [Clan Dundee](/clan/dundee/).
 Its design is pattern [BBGGBRGBYBB](/stripes/bbggbrgbybb/) — the page of every tartan sharing this colour sequence.
 
 The **Dundee Carers Centre** tartan is recorded as a single sett.

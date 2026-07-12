@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Borthwick"
+  url: "/clan/borthwick/"
+- name: "Borthwick"
+  url: "/families/borthwick/"
 - name: "Borthwick Dress"
   url: "/tartans/b/bo/borthwick-dress/"
 - name: "Borthwick Dress (Clan)"

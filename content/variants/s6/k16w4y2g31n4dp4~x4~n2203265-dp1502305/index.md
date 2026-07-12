@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lethcoe"
+  url: "/clan/lethcoe/"
 - name: "Lethcoe"
-  url: "/tartans/l/le/lethcoe-2/"
+  url: "/families/lethcoe/"
+- name: "Lethcoe"
+  url: "/tartans/l/le/lethcoe/"
 - name: "Lethcoe (Thousand Oaks) (Personal)"
   url: "/setts/k16w4y2g31n4dp4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k16w4y2g31n4dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGWK](/stripes/bbggwk/).
 
-Part of the [Lethcoe](/tartans/l/le/lethcoe-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lethcoe](/tartans/l/le/lethcoe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

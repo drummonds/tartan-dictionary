@@ -6,15 +6,10 @@ A family of [Clan MacPherson](/clan/macpherson/).
 
 **Trove of Scotland:** [search “Cluny”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Cluny&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/r5k2r2g42r5k36r70k2y2r7g2/">MacPherson of Cluny</a></td><td><code>R/5 K2 R2 G42 R5 K36 R70 K2 Y2 R7 G/2</code></td><td>343</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5k2r2g42r5k36r70k2y2r7g2/"><img src="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/sett.png" alt="MacPherson of Cluny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the MacPherson of Cluny tartan and all its setts →](/tartans/m/ma/macpherson-of-cluny-2/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/m/ma/macpherson-of-cluny-2/"><img src="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/sett.png" alt="MacPherson of Cluny" width="140"><br><strong>MacPherson of Cluny (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macpherson-of-cluny/"><img src="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2/sett.png" alt="MacPherson Of Cluny" width="140"><br><strong>MacPherson Of Cluny (4)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macpherson-of-cluny-3/"><img src="/variants/s7/w5r3w35k28w4k11w2~x2/sett.png" alt="MacPherson of Cluny" width="140"><br><strong>MacPherson of Cluny (1)</strong></a></li>
+</ul>

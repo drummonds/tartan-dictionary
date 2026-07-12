@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Logan"
+  url: "/clan/logan/"
 - name: "Logan"
-  url: "/tartans/l/lo/logan-9/"
+  url: "/families/logan/"
+- name: "Logan"
+  url: "/tartans/l/lo/logan-11/"
 - name: "Logan"
   url: "/setts/db8r3db1r3g14r3db1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8r3db1r3g14r3db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRB](/stripes/brbrgrb/).
 
-Part of the [Logan](/tartans/l/lo/logan-9/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Logan](/tartans/l/lo/logan-11/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

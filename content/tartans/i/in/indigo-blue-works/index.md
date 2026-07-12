@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Indigo"
+  url: "/clan/indigo/"
 ---
+A tartan of [Clan Indigo](/clan/indigo/).
 Its design is pattern [BBKBKBBKBKB](/stripes/bbkbkbbkbkb/) — the page of every tartan sharing this colour sequence.
 
 The **Indigo Blue Works** tartan is recorded as a single sett.

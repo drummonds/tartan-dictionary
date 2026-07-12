@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Clyde"
+  url: "/clan/clyde/"
 - name: "Clyde"
-  url: "/tartans/c/cl/clyde/"
+  url: "/families/clyde/"
+- name: "Clyde"
+  url: "/tartans/c/cl/clyde-2/"
 - name: "Clyde (Personal)"
   url: "/setts/r64k30g30t18w4t2w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r64k30g30t18w4t2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGBWBW](/stripes/rkgbwbw/).
 
-Part of the [Clyde](/tartans/c/cl/clyde/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clyde](/tartans/c/cl/clyde-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Semper"
+  url: "/clan/semper/"
+- name: "Semper"
+  url: "/families/semper/"
 ---
+A tartan of the [Semper](/families/semper/) family.
 Its design is pattern [GGGYGYGG](/stripes/gggygygg/) — the page of every tartan sharing this colour sequence.
 
 The **Semper** tartan groups 2 setts — the same named design recorded as different cloths

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Delmarva"
+  url: "/clan/delmarva/"
+- name: "Delmarva"
+  url: "/families/delmarva/"
 ---
+A tartan of the [Delmarva](/families/delmarva/) family.
 Its design is pattern [BRBWBWBWBRBRBRBWBYBWBRBWBYBWB](/stripes/brbwbwbwbrbrbrbwbybwbrbwbybwb/) — the page of every tartan sharing this colour sequence.
 
 The **Delmarva** tartan is recorded as a single sett.

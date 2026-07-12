@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Louise"
   url: "/clan/louise/"
 - name: "Louise"
+  url: "/families/louise/"
+- name: "Louise"
   url: "/tartans/l/lo/louise/"
 - name: "Louise of Lorne"
   url: "/setts/k1r1g6k1g1k1g1k6db9k1db1/"

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Boucherville"
+  url: "/clan/boucherville/"
+- name: "Boucherville"
+  url: "/families/boucherville/"
 - name: "Boucherville Dress"
   url: "/tartans/b/bo/boucherville-dress/"
 - name: "Boucherville Dress (District)"

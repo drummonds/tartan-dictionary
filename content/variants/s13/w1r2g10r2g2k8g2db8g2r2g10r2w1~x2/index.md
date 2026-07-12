@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Reid"
   url: "/clan/reid/"
 - name: "Reid"
+  url: "/families/reid/"
+- name: "Reid"
   url: "/tartans/r/re/reid-4/"
 - name: "Reid, Green"
   url: "/setts/w1r2g10r2g2k8g2db8g2r2g10r2w1/"

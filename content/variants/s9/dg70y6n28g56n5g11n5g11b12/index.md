@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dalwhinnie"
+  url: "/clan/dalwhinnie/"
 - name: "Dalwhinnie"
-  url: "/tartans/d/da/dalwhinnie/"
+  url: "/families/dalwhinnie/"
+- name: "Dalwhinnie"
+  url: "/tartans/d/da/dalwhinnie-2/"
 - name: "Dalwhinnie"
   url: "/setts/dg70y6n28g56n5g11n5g11b12/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg70y6n28g56n5g11n5g11b12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGG](/stripes/bgbgbgbgg/).
 
-Part of the [Dalwhinnie](/tartans/d/da/dalwhinnie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dalwhinnie](/tartans/d/da/dalwhinnie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

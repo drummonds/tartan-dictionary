@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Barbour"
+  url: "/clan/barbour/"
 - name: "Barbour"
-  url: "/tartans/b/ba/barbour-2/"
+  url: "/families/barbour/"
+- name: "Barbour"
+  url: "/tartans/b/ba/barbour-5/"
 - name: "Barbour Corporate Tartan"
   url: "/setts/ly4y2ly21do11w2k20r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly4y2ly21do11w2k20r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWBYGY](/stripes/rkwbygy/).
 
-Part of the [Barbour](/tartans/b/ba/barbour-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Barbour](/tartans/b/ba/barbour-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

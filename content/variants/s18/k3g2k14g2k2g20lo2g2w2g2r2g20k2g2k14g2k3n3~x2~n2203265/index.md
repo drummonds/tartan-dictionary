@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lorne"
+  url: "/clan/lorne/"
 - name: "Lorne"
-  url: "/tartans/l/lo/lorne-2/"
+  url: "/families/lorne/"
+- name: "Lorne"
+  url: "/tartans/l/lo/lorne/"
 - name: "Lorne - Marquis of (Personal)"
   url: "/setts/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/).
 
-Part of the [Lorne](/tartans/l/lo/lorne-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lorne](/tartans/l/lo/lorne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

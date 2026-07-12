@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wood"
+  url: "/clan/wood/"
 - name: "Wood"
-  url: "/tartans/w/wo/wood/"
+  url: "/families/wood/"
+- name: "Wood"
+  url: "/tartans/w/wo/wood-2/"
 - name: "Wood Clan/Family Tartan"
   url: "/setts/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGBRBRBRBRBRBGKGKYK](/stripes/kgkgkgbrbrbrbrbrbgkgkyk/).
 
-Part of the [Wood](/tartans/w/wo/wood/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wood](/tartans/w/wo/wood-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
 

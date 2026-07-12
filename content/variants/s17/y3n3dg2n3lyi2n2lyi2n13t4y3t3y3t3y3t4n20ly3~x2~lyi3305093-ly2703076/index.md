@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fermanagh"
+  url: "/clan/fermanagh/"
 - name: "Fermanagh Irish County"
   url: "/tartans/f/fe/fermanagh-irish-county/"
 - name: "Fermanagh Irish County Tartan"

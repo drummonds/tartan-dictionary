@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Albannach"
+  url: "/clan/albannach/"
+- name: "Albannach"
+  url: "/families/albannach/"
 - name: "Albannach"
   url: "/tartans/a/al/albannach/"
 - name: "Albannach"

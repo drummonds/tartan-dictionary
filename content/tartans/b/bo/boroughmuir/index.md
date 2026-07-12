@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Boroughmuir"
+  url: "/clan/boroughmuir/"
+- name: "Boroughmuir"
+  url: "/families/boroughmuir/"
 ---
+A tartan of the [Boroughmuir](/families/boroughmuir/) family.
 Its design is pattern [BBBGBGB](/stripes/bbbgbgb/) — the page of every tartan sharing this colour sequence.
 
 The **Boroughmuir** tartan is recorded as a single sett.

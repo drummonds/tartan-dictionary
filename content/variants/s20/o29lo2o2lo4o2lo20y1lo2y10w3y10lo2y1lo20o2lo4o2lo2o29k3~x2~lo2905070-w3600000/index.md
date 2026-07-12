@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Shenzhen"
+  url: "/clan/shenzhen/"
 - name: "Shenzhen"
-  url: "/tartans/s/sh/shenzhen-2/"
+  url: "/families/shenzhen/"
+- name: "Shenzhen"
+  url: "/tartans/s/sh/shenzhen/"
 - name: "Shenzhen"
   url: "/setts/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRYRYRYGYGWGYGYRYRYR](/stripes/kryryrygygwgygyryryr/).
 
-Part of the [Shenzhen](/tartans/s/sh/shenzhen-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Shenzhen](/tartans/s/sh/shenzhen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

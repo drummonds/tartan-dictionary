@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Sutherland"
   url: "/clan/sutherland/"
 - name: "Sutherland"
-  url: "/tartans/s/su/sutherland-2/"
+  url: "/families/sutherland/"
+- name: "Sutherland"
+  url: "/tartans/s/su/sutherland-3/"
 - name: "Sutherland #3"
   url: "/setts/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBGBGBWBWBW](/stripes/wbwbgbgbwbwbw/).
 
-Part of the [Sutherland](/tartans/s/su/sutherland-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sutherland](/tartans/s/su/sutherland-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -8,13 +8,6 @@ A family of [Clan MacPherson](/clan/macpherson/).
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/db1dr1k8dr1db1dr1w8dr1db1/">MacPherson of Pitmain</a></td><td><code>DB/4 DR4 K32 DR4 DB4 DR4 W32 DR4 DB/4</code></td><td>176</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1dr1k8dr1db1dr1w8dr1db1/"><img src="/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/sett.png" alt="MacPherson of Pitmain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the MacPherson of Pitmain tartan and all its setts →](/tartans/m/ma/macpherson-of-pitmain/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/m/ma/macpherson-of-pitmain/"><img src="/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/sett.png" alt="MacPherson of Pitmain" width="140"><br><strong>MacPherson of Pitmain (1)</strong></a></li>
+</ul>

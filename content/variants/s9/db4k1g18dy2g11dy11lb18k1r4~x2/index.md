@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Morgan"
+  url: "/clan/morgan/"
 - name: "Morgan in Maryland"
   url: "/tartans/m/mo/morgan-in-maryland/"
 - name: "Morgan in Maryland (USA) (Name)"

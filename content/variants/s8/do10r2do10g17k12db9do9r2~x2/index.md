@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDuff"
+  url: "/clan/macduff/"
+- name: "MacDuff"
+  url: "/families/macduff/"
 - name: "MacDuff Hunting"
-  url: "/tartans/m/ma/macduff-hunting-2/"
+  url: "/tartans/m/ma/macduff-hunting/"
 - name: "MacDuff Hunting"
   url: "/setts/do10r2do10g17k12db9do9r2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/do10r2do10g17k12db9do9r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGKBBR](/stripes/brbgkbbr/).
 
-Part of the [MacDuff Hunting](/tartans/m/ma/macduff-hunting-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDuff Hunting](/tartans/m/ma/macduff-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

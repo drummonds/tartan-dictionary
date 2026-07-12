@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lorne"
+  url: "/clan/lorne/"
+- name: "Lorne"
+  url: "/families/lorne/"
 - name: "Lorne Dress"
   url: "/tartans/l/lo/lorne-dress-2/"
 - name: "Lorne Dress (Dance)"

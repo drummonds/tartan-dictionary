@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Menzies"
   url: "/clan/menzies/"
 - name: "Menzies"
+  url: "/families/menzies/"
+- name: "Menzies"
   url: "/tartans/m/me/menzies-3/"
 - name: "Menzies Green"
   url: "/setts/k19g10k6g10k12g6k4g14/"

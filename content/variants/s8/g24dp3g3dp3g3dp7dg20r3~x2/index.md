@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Crantock"
+  url: "/clan/crantock/"
 - name: "Crantock"
-  url: "/tartans/c/cr/crantock-2/"
+  url: "/families/crantock/"
+- name: "Crantock"
+  url: "/tartans/c/cr/crantock/"
 - name: "Crantock"
   url: "/setts/g24dp3g3dp3g3dp7dg20r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g24dp3g3dp3g3dp7dg20r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGR](/stripes/gbgbgbgr/).
 
-Part of the [Crantock](/tartans/c/cr/crantock-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Crantock](/tartans/c/cr/crantock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

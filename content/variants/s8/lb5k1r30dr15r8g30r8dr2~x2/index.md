@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Shaw"
   url: "/clan/shaw/"
 - name: "Shaw"
-  url: "/tartans/s/sh/shaw-2/"
+  url: "/families/shaw/"
+- name: "Shaw"
+  url: "/tartans/s/sh/shaw/"
 - name: "Shaw"
   url: "/setts/lb5k1r30dr15r8g30r8dr2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb5k1r30dr15r8g30r8dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRKW](/stripes/brgrbrkw/).
 
-Part of the [Shaw](/tartans/s/sh/shaw-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Shaw](/tartans/s/sh/shaw/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

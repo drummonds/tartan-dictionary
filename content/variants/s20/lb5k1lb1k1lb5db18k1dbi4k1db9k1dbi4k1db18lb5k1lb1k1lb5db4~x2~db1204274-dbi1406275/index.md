@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Indigo"
+  url: "/clan/indigo/"
 - name: "Indigo"
-  url: "/tartans/i/in/indigo/"
+  url: "/families/indigo/"
+- name: "Indigo"
+  url: "/tartans/i/in/indigo-2/"
 - name: "Indigo Blue"
   url: "/setts/lb5k1lb1k1lb5db18k1dbi4k1db9k1dbi4k1db18lb5k1lb1k1lb5db4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb5k1lb1k1lb5db18k1dbi4k1db9k1dbi4k1db18lb5k1lb1k1lb5db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKWBKBKBKBKBWKWKW](/stripes/bwkwkwbkbkbkbkbwkwkw/).
 
-Part of the [Indigo](/tartans/i/in/indigo/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Indigo](/tartans/i/in/indigo-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Carter"
+  url: "/clan/carter/"
+- name: "Carter"
+  url: "/families/carter/"
 ---
+A tartan of the [Carter](/families/carter/) family.
 Its design is pattern [GGGYGWGWGG](/stripes/gggygwgwgg/) — the page of every tartan sharing this colour sequence.
 
 The **Carter** tartan is recorded as a single sett.

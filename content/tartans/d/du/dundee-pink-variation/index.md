@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dundee"
+  url: "/clan/dundee/"
 ---
+A tartan of [Clan Dundee](/clan/dundee/).
 Its design is pattern [RBKBGYWBWYWWBW](/stripes/rbkbgywbwywwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Dundee Pink Variation** tartan is recorded as a single sett.

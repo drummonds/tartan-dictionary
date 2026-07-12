@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Angotta"
+  url: "/clan/angotta/"
+- name: "Angotta"
+  url: "/families/angotta/"
 ---
+A tartan of the [Angotta](/families/angotta/) family.
 Its design is pattern [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/) — the page of every tartan sharing this colour sequence.
 
 The **Angotta** tartan groups 2 setts — the same named design recorded as different cloths

@@ -10,5 +10,6 @@ date: 2023-03-18
 
 ## Families
 
+- [Sutherland](/families/sutherland/)
 - [Sutherland of Duffus](/families/sutherland-of-duffus/)
 

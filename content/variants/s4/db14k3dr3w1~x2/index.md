@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bacon"
+  url: "/clan/bacon/"
 - name: "Bacon"
-  url: "/tartans/b/ba/bacon/"
+  url: "/families/bacon/"
+- name: "Bacon"
+  url: "/tartans/b/ba/bacon-2/"
 - name: "Bacon, Blue"
   url: "/setts/db14k3dr3w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db14k3dr3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBW](/stripes/bkbw/).
 
-Part of the [Bacon](/tartans/b/ba/bacon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bacon](/tartans/b/ba/bacon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

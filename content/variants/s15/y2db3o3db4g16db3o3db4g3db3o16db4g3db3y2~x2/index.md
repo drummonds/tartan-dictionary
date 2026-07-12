@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kerry"
+  url: "/clan/kerry/"
 - name: "Kerry"
-  url: "/tartans/k/ke/kerry/"
+  url: "/families/kerry/"
+- name: "Kerry"
+  url: "/tartans/k/ke/kerry-2/"
 - name: "Kerry"
   url: "/setts/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBRBGBRBGBRBG](/stripes/gbgbrbgbrbgbrbg/).
 
-Part of the [Kerry](/tartans/k/ke/kerry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kerry](/tartans/k/ke/kerry-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

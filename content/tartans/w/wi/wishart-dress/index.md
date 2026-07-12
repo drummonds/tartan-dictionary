@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wishart"
+  url: "/clan/wishart/"
+- name: "Wishart"
+  url: "/families/wishart/"
 ---
+A tartan of the [Wishart](/families/wishart/) family.
 Its design is pattern [BRBGBWBGBRBK](/stripes/brbgbwbgbrbk/) — the page of every tartan sharing this colour sequence.
 
 Designed 1990 by Dr David Wishart, combining Wallace and Douglas setts for the lowland Wishart family.

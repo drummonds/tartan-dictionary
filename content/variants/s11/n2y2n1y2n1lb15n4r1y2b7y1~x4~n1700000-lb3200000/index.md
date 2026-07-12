@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hutt"
+  url: "/clan/hutt/"
 - name: "Hutt"
-  url: "/tartans/h/hu/hutt/"
+  url: "/families/hutt/"
+- name: "Hutt"
+  url: "/tartans/h/hu/hutt-3/"
 - name: "Hutt Tartan"
   url: "/setts/n2y2n1y2n1lb15n4r1y2b7y1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n2y2n1y2n1lb15n4r1y2b7y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBRGBG](/stripes/bgbgbwbrgbg/).
 
-Part of the [Hutt](/tartans/h/hu/hutt/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hutt](/tartans/h/hu/hutt-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

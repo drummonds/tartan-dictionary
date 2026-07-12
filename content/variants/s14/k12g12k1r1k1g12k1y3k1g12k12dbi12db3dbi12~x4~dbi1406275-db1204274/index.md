@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gow"
+  url: "/clan/gow/"
+- name: "Gow"
+  url: "/families/gow/"
 - name: "Gow Hunting"
-  url: "/tartans/g/go/gow-hunting/"
+  url: "/tartans/g/go/gow-hunting-2/"
 - name: "Gow Hunting Family Tartan"
   url: "/setts/k12g12k1r1k1g12k1y3k1g12k12dbi12db3dbi12/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k12g12k1r1k1g12k1y3k1g12k12dbi12db3dbi12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGKGKGKRKGK](/stripes/bbbkgkgkgkrkgk/).
 
-Part of the [Gow Hunting](/tartans/g/go/gow-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gow Hunting](/tartans/g/go/gow-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

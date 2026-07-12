@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Womble"
+  url: "/clan/womble/"
 - name: "Womble"
-  url: "/tartans/w/wo/womble-2/"
+  url: "/families/womble/"
+- name: "Womble"
+  url: "/tartans/w/wo/womble-3/"
 - name: "Womble"
   url: "/setts/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWBRWRBWYWBWBWYWBRWRBWGWBW](/stripes/bwgwbrwrbwywbwbwywbrwrbwgwbw/).
 
-Part of the [Womble](/tartans/w/wo/womble-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Womble](/tartans/w/wo/womble-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

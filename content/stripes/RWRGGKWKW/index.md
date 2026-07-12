@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r4w1r4g10y1k10lb4k2lb4/">Cumming LO</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r4w1r4g10y1k10lb4k2lb4/"><img src="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/sett.png" alt="Cumming LO sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s9/r4w1r4g10y1k10w4k2w4/">Cumming LO</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/r4w1r4g10y1k10w4k2w4/"><img src="/variants/s9/r4w1r4g10y1k10w4k2w4/sett.png" alt="Cumming LO sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/r4w1r4g10y1k10lb4k2lb4/">Cumming LO</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r4w1r4g10y1k10lb4k2lb4/"><img src="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/sett.png" alt="Cumming LO sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Algarve"
+  url: "/clan/algarve/"
+- name: "Algarve"
+  url: "/families/algarve/"
 ---
+A tartan of the [Algarve](/families/algarve/) family.
 Its design is pattern [BWBK](/stripes/bwbk/) — the page of every tartan sharing this colour sequence.
 
 The **Algarve** tartan is recorded as a single sett.

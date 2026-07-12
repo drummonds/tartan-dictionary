@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/"><img src="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/sett.png" alt="MacRae of Ardentoul" width="240"><br>MacRae of Ardentoul</a>
+<a class="tartan" href="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/"><img src="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/sett.png" alt="MacRae" width="240"><br>MacRae</a>
 
 ## Families
 
+- [MacRae](/families/macrae/)
 - [MacRae of Ardentoul](/families/macrae-of-ardentoul/)
 - [MacRae of Conchra](/families/macrae-of-conchra/)
 - [MacRae of Inverinate](/families/macrae-of-inverinate/)

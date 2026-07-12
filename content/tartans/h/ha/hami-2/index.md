@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hami"
+  url: "/clan/hami/"
+- name: "Hami"
+  url: "/families/hami/"
 ---
+A tartan of the [Hami](/families/hami/) family.
 Its design is pattern [WYYYYY](/stripes/wyyyyy/) — the page of every tartan sharing this colour sequence.
 
 The **Hami** tartan is recorded as a single sett.

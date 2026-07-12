@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Musselburgh"
+  url: "/clan/musselburgh/"
+- name: "Musselburgh"
+  url: "/families/musselburgh/"
 ---
+A tartan of the [Musselburgh](/families/musselburgh/) family.
 Its design is pattern [BBBWBYBWB](/stripes/bbbwbybwb/) — the page of every tartan sharing this colour sequence.
 
 Designed by G. Lawson of the Musselburgh Co-operative Society for the town's 1958-59 celebrations.

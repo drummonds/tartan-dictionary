@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan MacGregor (Clan Gregor)"
   url: "/clan/macgregor/"
 - name: "MacGregor"
+  url: "/families/macgregor/"
+- name: "MacGregor"
   url: "/tartans/m/ma/macgregor-3/"
 - name: "MacGregor of Glengyle"
   url: "/setts/db1r1db7r7db1r1/"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Highland"
+  url: "/clan/highland/"
 - name: "Highland"
-  url: "/tartans/h/hi/highland/"
+  url: "/families/highland/"
+- name: "Highland"
+  url: "/tartans/h/hi/highland-2/"
 - name: "Highland, Green (Corporate)"
   url: "/setts/dp4g13db5y3lb6y3db5n6g28w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp4g13db5y3lb6y3db5n6g28w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWGBBGW](/stripes/bgbgwgbbgw/).
 
-Part of the [Highland](/tartans/h/hi/highland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Highland](/tartans/h/hi/highland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

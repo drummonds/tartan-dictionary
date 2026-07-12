@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Williams"
   url: "/clan/williams/"
+- name: "Williams"
+  url: "/families/williams/"
 ---
-A tartan of [Clan Williams](/clan/williams/).
+A tartan of the [Williams](/families/williams/) family.
 Its design is pattern [GKRGRKRGRKRGRGRGRGRKRGRKRGRK](/stripes/gkrgrkrgrkrgrgrgrgrkrgrkrgrk/) — the page of every tartan sharing this colour sequence.
 
 The **Williams** tartan is recorded as a single sett.

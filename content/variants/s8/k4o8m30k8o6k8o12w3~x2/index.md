@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Believe"
+  url: "/clan/believe/"
 - name: "Believe"
-  url: "/tartans/b/be/believe-2/"
+  url: "/families/believe/"
+- name: "Believe"
+  url: "/tartans/b/be/believe/"
 - name: "Believe - Corinna"
   url: "/setts/k4o8m30k8o6k8o12w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4o8m30k8o6k8o12w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRRKRKRW](/stripes/krrkrkrw/).
 
-Part of the [Believe](/tartans/b/be/believe-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Believe](/tartans/b/be/believe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

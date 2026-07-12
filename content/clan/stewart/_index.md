@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/"><img src="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/sett.png" alt="Stewart of Achnacone Clan Tartan" width="240"><br>Stewart of Achnacone Clan Tartan</a>
+<a class="tartan" href="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/"><img src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/sett.png" alt="Stewart Htg (Clan)" width="240"><br>Stewart Htg (Clan)</a>
 
 ## Families
 
+- [Stewart](/families/stewart/)
 - [Stewart of Achnacone](/families/stewart-of-achnacone/)
 - [Stewart of Appin](/families/stewart-of-appin/)
 - [Stewart of Ardshiel](/families/stewart-of-ardshiel/)

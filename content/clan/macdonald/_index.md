@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/"><img src="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley" width="240"><br>MacDonald of Aird & Valley</a>
+<a class="tartan" href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><img src="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/sett.png" alt="MacDonald #2" width="240"><br>MacDonald #2</a>
 
 ## Families
 
+- [MacDonald](/families/macdonald/)
 - [MacDonald of Aird & Valley](/families/macdonald-of-aird-valley/)
 - [MacDonald of Ardnamurchan](/families/macdonald-of-ardnamurchan/)
 - [MacDonald of Belfinlay](/families/macdonald-of-belfinlay/)

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/">Bootneck 350</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><img src="/variants/s8/k6r4k19g4db25r5g3y2~x2/sett.png" alt="Bootneck 350 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/">Bootneck 350</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><img src="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/sett.png" alt="Bootneck 350 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/">Bootneck 350</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><img src="/variants/s8/k6r4k19g4db25r5g3y2~x2/sett.png" alt="Bootneck 350 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

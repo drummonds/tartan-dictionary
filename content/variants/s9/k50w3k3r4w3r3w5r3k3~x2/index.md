@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Tweedside"
+  url: "/clan/tweedside/"
 - name: "Tweedside Variation"
   url: "/tartans/t/tw/tweedside-variation/"
 - name: "Tweedside Variation (silk sample)"

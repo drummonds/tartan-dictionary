@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Springbok"
+  url: "/clan/springbok/"
+- name: "Springbok"
+  url: "/families/springbok/"
 - name: "Springbok"
   url: "/tartans/s/sp/springbok/"
 - name: "Springbok (Fashion)"

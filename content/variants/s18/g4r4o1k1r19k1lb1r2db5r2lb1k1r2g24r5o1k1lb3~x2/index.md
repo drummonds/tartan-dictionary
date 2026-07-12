@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dundas"
+  url: "/clan/dundas/"
 - name: "Dundas"
-  url: "/tartans/d/du/dundas-3/"
+  url: "/families/dundas/"
+- name: "Dundas"
+  url: "/tartans/d/du/dundas-4/"
 - name: "Dundas (Red)"
   url: "/setts/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRKRKWRBRWKRGRRKW](/stripes/grrkrkwrbrwkrgrrkw/).
 
-Part of the [Dundas](/tartans/d/du/dundas-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dundas](/tartans/d/du/dundas-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

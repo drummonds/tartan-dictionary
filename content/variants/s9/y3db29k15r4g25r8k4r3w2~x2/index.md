@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan George"
+  url: "/clan/george/"
 - name: "George"
-  url: "/tartans/g/ge/george/"
+  url: "/families/george/"
+- name: "George"
+  url: "/tartans/g/ge/george-2/"
 - name: "George Brown Family Tartan"
   url: "/setts/y3db29k15r4g25r8k4r3w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y3db29k15r4g25r8k4r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKRGRKRW](/stripes/gbkrgrkrw/).
 
-Part of the [George](/tartans/g/ge/george/) tartan — the named design grouping this sett with its other cloths.
+Part of the [George](/tartans/g/ge/george-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

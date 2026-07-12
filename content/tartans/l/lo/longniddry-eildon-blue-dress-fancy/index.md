@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Longniddry"
+  url: "/clan/longniddry/"
 ---
+A tartan of [Clan Longniddry](/clan/longniddry/).
 Its design is pattern [BWBBWWWB](/stripes/bwbbwwwb/) — the page of every tartan sharing this colour sequence.
 
 Fashion tartan from Lochcarron's 1996 'Borders Collection'.

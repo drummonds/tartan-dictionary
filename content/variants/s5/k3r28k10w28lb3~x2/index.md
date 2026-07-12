@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wallace"
+  url: "/clan/wallace/"
+- name: "Wallace"
+  url: "/families/wallace/"
 - name: "Wallace Dress"
-  url: "/tartans/w/wa/wallace-dress-2/"
+  url: "/tartans/w/wa/wallace-dress/"
 - name: "Wallace Dress, Red (Dance)"
   url: "/setts/k3r28k10w28lb3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3r28k10w28lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWW](/stripes/krkww/).
 
-Part of the [Wallace Dress](/tartans/w/wa/wallace-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wallace Dress](/tartans/w/wa/wallace-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

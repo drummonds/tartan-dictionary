@@ -6,9 +6,9 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/c/ci/ci/"><img src="/variants/s9/k100dp8n4k4n4dp8k25db10n4/sett.png" alt="CI" width="140"><br><strong>CI (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/ci/cian/"><img src="/variants/s11/lb38db2t2lb19db8r18o8lb18t18db2dy4~lb3103284-t2405244/sett.png" alt="Cian" width="140"><br><strong>Cian (1)</strong></a><div class="clan-territory">Clan Cian</div></li>
-<li><a class="tartan" href="/tartans/c/ci/cian-2/"><img src="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/sett.png" alt="Cian" width="140"><br><strong>Cian (1)</strong></a><div class="clan-territory">Clan Cian</div></li>
-<li><a class="tartan" href="/tartans/c/ci/cian-3/"><img src="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/sett.png" alt="Cian" width="140"><br><strong>Cian (1)</strong></a><div class="clan-territory">Clan Cian</div></li>
+<li><a class="tartan" href="/tartans/c/ci/cian/"><img src="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/sett.png" alt="Cian" width="140"><br><strong>Cian (1)</strong></a><div class="clan-territory">Cian</div></li>
+<li><a class="tartan" href="/tartans/c/ci/cian-2/"><img src="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/sett.png" alt="Cian" width="140"><br><strong>Cian (1)</strong></a><div class="clan-territory">Cian</div></li>
+<li><a class="tartan" href="/tartans/c/ci/cian-3/"><img src="/variants/s11/lb38db2t2lb19db8r18o8lb18t18db2dy4~lb3103284-t2405244/sett.png" alt="Cian" width="140"><br><strong>Cian (1)</strong></a><div class="clan-territory">Cian</div></li>
 <li><a class="tartan" href="/tartans/c/ci/cian-of-ely/"><img src="/variants/s11/lb38db4y4lb19db8lr18dp8lb18y4db4ly4~x2~y2602166-lr3102083/sett.png" alt="Cian of Ely" width="140"><br><strong>Cian of Ely (1)</strong></a><div class="clan-territory">Cian of Ely</div></li>
 <li><a class="tartan" href="/tartans/c/ci/cian-of-ely-2/"><img src="/variants/s11/b19k1yi1b10k4y9dp4b9yi1k1ly2~x4~b2206256-yi2602166/sett.png" alt="Cian of Ely" width="140"><br><strong>Cian of Ely (1)</strong></a><div class="clan-territory">Cian of Ely</div></li>
 <li><a class="tartan" href="/tartans/c/ci/cirse-3d/"><img src="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/sett.png" alt="Cirse 3D" width="140"><br><strong>Cirse 3D (1)</strong></a></li>

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacSween"
+  url: "/clan/macsween/"
+- name: "MacSween"
+  url: "/families/macsween/"
 - name: "MacSween Hunting"
   url: "/tartans/m/ma/macsween-hunting/"
 - name: "MacSween Hunting (Lochs, Isle of Lewis) (Personal)"

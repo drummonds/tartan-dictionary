@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
 ---
+A tartan of [Clan Wcwm](/clan/wcwm/).
 Its design is pattern [GBKBGYGBWBGYGBKBGBWK](/stripes/gbkbgygbwbgygbkbgbwk/) — the page of every tartan sharing this colour sequence.
 
 The **Wcwm 9275-1572-1** tartan is recorded as a single sett.

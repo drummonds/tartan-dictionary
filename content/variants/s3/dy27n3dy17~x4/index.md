@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Outlander"
+  url: "/clan/outlander/"
 - name: "Outlander"
-  url: "/tartans/o/ou/outlander/"
+  url: "/families/outlander/"
+- name: "Outlander"
+  url: "/tartans/o/ou/outlander-4/"
 - name: "Outlander #4"
   url: "/setts/dy27n3dy17/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy27n3dy17/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBG](/stripes/gbg/).
 
-Part of the [Outlander](/tartans/o/ou/outlander/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Outlander](/tartans/o/ou/outlander-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

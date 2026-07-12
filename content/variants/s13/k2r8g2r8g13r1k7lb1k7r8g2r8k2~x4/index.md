@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Nicolson"
   url: "/clan/nicolson/"
 - name: "Nicolson"
+  url: "/families/nicolson/"
+- name: "Nicolson"
   url: "/tartans/n/ni/nicolson/"
 - name: "Nicolson (Lochcarron)"
   url: "/setts/k2r8g2r8g13r1k7lb1k7r8g2r8k2/"

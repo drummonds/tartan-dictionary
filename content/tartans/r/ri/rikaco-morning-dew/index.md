@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rikaco"
+  url: "/clan/rikaco/"
 ---
+A tartan of [Clan Rikaco](/clan/rikaco/).
 Its design is pattern [BWBWBWBWBR](/stripes/bwbwbwbwbr/) — the page of every tartan sharing this colour sequence.
 
 The **Rikaco Morning Dew** tartan is recorded as a single sett.

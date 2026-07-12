@@ -10,6 +10,7 @@ date: 2023-03-18
 
 ## Families
 
+- [Gordon](/families/gordon/)
 - [Gordon of Abergeldie](/families/gordon-of-abergeldie/)
 - [Gordon of Esselmont](/families/gordon-of-esselmont/)
 - [Gordon of Esslemont](/families/gordon-of-esslemont/)

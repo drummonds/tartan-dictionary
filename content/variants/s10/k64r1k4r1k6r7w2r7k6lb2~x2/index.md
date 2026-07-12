@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Noordermeer"
+  url: "/clan/noordermeer/"
 - name: "Noordermeer"
-  url: "/tartans/n/no/noordermeer/"
+  url: "/families/noordermeer/"
+- name: "Noordermeer"
+  url: "/tartans/n/no/noordermeer-2/"
 - name: "Noordermeer (Personal)"
   url: "/setts/k64r1k4r1k6r7w2r7k6lb2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k64r1k4r1k6r7w2r7k6lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRWRKW](/stripes/krkrkrwrkw/).
 
-Part of the [Noordermeer](/tartans/n/no/noordermeer/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Noordermeer](/tartans/n/no/noordermeer-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

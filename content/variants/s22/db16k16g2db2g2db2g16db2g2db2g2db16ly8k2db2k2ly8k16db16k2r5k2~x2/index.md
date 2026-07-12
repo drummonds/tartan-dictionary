@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lamquet"
+  url: "/clan/lamquet/"
 - name: "Lamquet"
-  url: "/tartans/l/la/lamquet-2/"
+  url: "/families/lamquet/"
+- name: "Lamquet"
+  url: "/tartans/l/la/lamquet/"
 - name: "Lamquet (2015)"
   url: "/setts/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBGBGBGBGBYKBKYKBKRK](/stripes/bkgbgbgbgbgbykbkykbkrk/).
 
-Part of the [Lamquet](/tartans/l/la/lamquet-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lamquet](/tartans/l/la/lamquet/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 

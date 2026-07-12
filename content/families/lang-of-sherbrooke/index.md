@@ -6,15 +6,9 @@ date: 2023-03-18
 
 **Trove of Scotland:** [search “Sherbrooke”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Sherbrooke&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/dg10y2k2dg2k13dg2k2dg1dp13db24w2/">Lang of Sherbrooke</a></td><td><code>DG/20 Y4 K4 DG4 K26 DG4 K4 DG2 DP26 DB48 W/4</code></td><td>268</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg10y2k2dg2k13dg2k2dg1dp13db24w2/"><img src="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/sett.png" alt="Lang of Sherbrooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Lang of Sherbrooke tartan and all its setts →](/tartans/l/la/lang-of-sherbrooke-2/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/l/la/lang-of-sherbrooke-2/"><img src="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/sett.png" alt="Lang of Sherbrooke" width="140"><br><strong>Lang of Sherbrooke (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/l/la/lang-of-sherbrooke/"><img src="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/sett.png" alt="Lang of Sherbrooke" width="140"><br><strong>Lang of Sherbrooke (1)</strong></a></li>
+</ul>

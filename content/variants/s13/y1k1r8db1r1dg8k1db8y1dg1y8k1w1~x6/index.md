@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Robieson"
+  url: "/clan/robieson/"
 - name: "Robieson Playfield"
   url: "/tartans/r/ro/robieson-playfield/"
 - name: "Robieson Playfield (School)"

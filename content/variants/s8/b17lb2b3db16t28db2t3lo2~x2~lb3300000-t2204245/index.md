@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Banff"
+  url: "/clan/banff/"
 - name: "Banff & Buchan"
   url: "/tartans/b/ba/banff-buchan/"
 - name: "Banff & Buchan (District)"

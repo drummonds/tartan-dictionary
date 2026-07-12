@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Coldstream"
+  url: "/clan/coldstream/"
 - name: "Coldstream"
-  url: "/tartans/c/co/coldstream-2/"
+  url: "/families/coldstream/"
+- name: "Coldstream"
+  url: "/tartans/c/co/coldstream/"
 - name: "Coldstream"
   url: "/setts/w6db1g35r6bi8r6b8db5b4db48ri2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w6db1g35r6bi8r6b8db5b4db48ri2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/).
 
-Part of the [Coldstream](/tartans/c/co/coldstream-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Coldstream](/tartans/c/co/coldstream/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

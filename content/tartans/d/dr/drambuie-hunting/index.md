@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Drambuie"
+  url: "/clan/drambuie/"
+- name: "Drambuie"
+  url: "/families/drambuie/"
 ---
+A tartan of the [Drambuie](/families/drambuie/) family.
 Its design is pattern [YBKRKY](/stripes/ybkrky/) — the page of every tartan sharing this colour sequence.
 
 The **Drambuie Hunting** tartan groups 2 setts — the same named design recorded as different cloths

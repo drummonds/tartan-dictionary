@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Loyalhanna"
+  url: "/clan/loyalhanna/"
 - name: "Loyalhanna"
-  url: "/tartans/l/lo/loyalhanna-2/"
+  url: "/families/loyalhanna/"
+- name: "Loyalhanna"
+  url: "/tartans/l/lo/loyalhanna/"
 - name: "Loyalhanna (District?)"
   url: "/setts/db15w2g2k18db21k3g15/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db15w2g2k18db21k3g15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGKBKG](/stripes/bwgkbkg/).
 
-Part of the [Loyalhanna](/tartans/l/lo/loyalhanna-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Loyalhanna](/tartans/l/lo/loyalhanna/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

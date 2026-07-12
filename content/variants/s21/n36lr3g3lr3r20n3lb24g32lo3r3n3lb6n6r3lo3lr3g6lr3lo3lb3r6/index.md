@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Victoria"
+  url: "/clan/victoria/"
 - name: "Victoria, County of"
   url: "/tartans/v/vi/victoria-county-of/"
 - name: "Victoria, County of (District)"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Strathclyde"
+  url: "/clan/strathclyde/"
 - name: "Strathclyde"
-  url: "/tartans/s/st/strathclyde-2/"
+  url: "/families/strathclyde/"
+- name: "Strathclyde"
+  url: "/tartans/s/st/strathclyde-3/"
 - name: "Strathclyde blue"
   url: "/setts/k3db24lb3ki25lb22k3lb3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3db24lb3ki25lb22k3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWKWKW](/stripes/kbwkwkw/).
 
-Part of the [Strathclyde](/tartans/s/st/strathclyde-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathclyde](/tartans/s/st/strathclyde-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

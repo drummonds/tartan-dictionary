@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Blue"
+  url: "/clan/blue/"
 ---
+A tartan of [Clan Blue](/clan/blue/).
 Its design is pattern [BGBGBGBRBG](/stripes/bgbgbgbrbg/) — the page of every tartan sharing this colour sequence.
 
 The **Blue Ridge** tartan groups 2 setts — the same named design recorded as different cloths

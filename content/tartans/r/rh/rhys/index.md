@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Rhys"
   url: "/clan/rhys/"
+- name: "Rhys"
+  url: "/families/rhys/"
 ---
-A tartan of [Clan Rhys](/clan/rhys/).
+A tartan of the [Rhys](/families/rhys/) family.
 Its design is pattern [WBYBYBYYYY](/stripes/wbybybyyyy/) — the page of every tartan sharing this colour sequence.
 
 The **Rhys** tartan is recorded as a single sett.

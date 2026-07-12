@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Virginia"
+  url: "/clan/virginia/"
 ---
+A tartan of [Clan Virginia](/clan/virginia/).
 Its design is pattern [WBBWBRBW](/stripes/wbbwbrbw/) — the page of every tartan sharing this colour sequence.
 
 The **Virginia International Tattoo Hixon** tartan groups 2 setts — the same named design recorded as different cloths

@@ -14,11 +14,11 @@ The Black Watch — the 42nd, later the Royal Highland Regiment (RHR) — and th
 ## Tartans
 
 <ul class="tartan-grid">
-<li><a class="tartan" href="/variants/s7/r4k4db24k24g24k2r3~x2/"><img src="/variants/s7/r4k4db24k24g24k2r3~x2/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
-<li><a class="tartan" href="/variants/s20/db12k1db1k1db1k8g8k1g8k8db8k1db1g6k1g6k3db4k1db1/"><img src="/variants/s20/db12k1db1k1db1k8g8k1g8k8db8k1db1g6k1g6k3db4k1db1/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
-<li><a class="tartan" href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><img src="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
 <li><a class="tartan" href="/variants/s6/t3k2t8db8g8db2~x2/"><img src="/variants/s6/t3k2t8db8g8db2~x2/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
 <li><a class="tartan" href="/variants/s6/db1g10db9t10db1t1~x4/"><img src="/variants/s6/db1g10db9t10db1t1~x4/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
+<li><a class="tartan" href="/variants/s7/r4k4db24k24g24k2r3~x2/"><img src="/variants/s7/r4k4db24k24g24k2r3~x2/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
+<li><a class="tartan" href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><img src="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
+<li><a class="tartan" href="/variants/s20/db12k1db1k1db1k8g8k1g8k8db8k1db1g6k1g6k3db4k1db1/"><img src="/variants/s20/db12k1db1k1db1k8g8k1g8k8db8k1db1g6k1g6k3db4k1db1/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
 <li><a class="tartan" href="/variants/s13/db12w2db2w2db2r10g12r3g12r10db12w2db2~x2/"><img src="/variants/s13/db12w2db2w2db2r10g12r3g12r10db12w2db2~x2/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
 <li><a class="tartan" href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><img src="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/sett.png" alt="Black Watch" width="140"><br>Black Watch</a></li>
 <li><a class="tartan" href="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/"><img src="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/sett.png" alt="Black Watch Dress" width="140"><br>Black Watch Dress</a></li>

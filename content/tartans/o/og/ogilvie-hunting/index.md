@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Ogilvie"
   url: "/clan/ogilvie/"
+- name: "Ogilvie"
+  url: "/families/ogilvie/"
 ---
-A tartan of [Clan Ogilvie](/clan/ogilvie/).
+A tartan of the [Ogilvie](/families/ogilvie/) family.
 Its design is pattern [GKGKBYBYBKGKGR](/stripes/gkgkbybybkgkgr/) — the page of every tartan sharing this colour sequence.
 
 Hunting variant of the Ogilvie clan tartan, once restricted to family use but now woven commercially.

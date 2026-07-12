@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glasgow"
+  url: "/clan/glasgow/"
 - name: "Glasgow Cathedral 2000"
   url: "/tartans/g/gl/glasgow-cathedral-2000/"
 - name: "Glasgow Cathedral 2000"

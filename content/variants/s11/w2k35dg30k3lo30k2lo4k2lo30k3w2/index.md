@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Vaughan"
+  url: "/clan/vaughan/"
 - name: "Vaughan"
-  url: "/tartans/v/va/vaughan-2/"
+  url: "/families/vaughan/"
+- name: "Vaughan"
+  url: "/tartans/v/va/vaughan/"
 - name: "Vaughan (Welsh Series)"
   url: "/setts/w2k35dg30k3lo30k2lo4k2lo30k3w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2k35dg30k3lo30k2lo4k2lo30k3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGKYKYKYKW](/stripes/wkgkykykykw/).
 
-Part of the [Vaughan](/tartans/v/va/vaughan-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Vaughan](/tartans/v/va/vaughan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

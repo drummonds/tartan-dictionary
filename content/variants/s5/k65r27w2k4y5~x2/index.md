@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Perry"
+  url: "/clan/perry/"
 - name: "Perry"
-  url: "/tartans/p/pe/perry/"
+  url: "/families/perry/"
+- name: "Perry"
+  url: "/tartans/p/pe/perry-2/"
 - name: "Perry, Ancient"
   url: "/setts/k65r27w2k4y5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k65r27w2k4y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWRK](/stripes/gkwrk/).
 
-Part of the [Perry](/tartans/p/pe/perry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Perry](/tartans/p/pe/perry-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

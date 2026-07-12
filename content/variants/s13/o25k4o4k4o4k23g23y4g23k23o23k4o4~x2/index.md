@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
 - name: "Poulter"
-  url: "/tartans/p/po/poulter/"
+  url: "/families/poulter/"
+- name: "Poulter"
+  url: "/tartans/p/po/poulter-2/"
 - name: "Poulter, Green (Corporate)"
   url: "/setts/o25k4o4k4o4k23g23y4g23k23o23k4o4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o25k4o4k4o4k23g23y4g23k23o23k4o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKGGGKRKRKR](/stripes/rkrkgggkrkrkr/).
 
-Part of the [Poulter](/tartans/p/po/poulter/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Poulter](/tartans/p/po/poulter-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

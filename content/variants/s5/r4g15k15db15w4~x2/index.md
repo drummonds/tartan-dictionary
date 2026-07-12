@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dalmeny"
+  url: "/clan/dalmeny/"
+- name: "Dalmeny"
+  url: "/families/dalmeny/"
 - name: "Dalmeny"
   url: "/tartans/d/da/dalmeny-2/"
 - name: "Dalmeny (Wlison's) Family Tartan"

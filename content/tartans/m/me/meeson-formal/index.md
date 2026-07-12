@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Meeson"
+  url: "/clan/meeson/"
 ---
+A tartan of [Clan Meeson](/clan/meeson/).
 Its design is pattern [BGBBBW](/stripes/bgbbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Meeson Formal** tartan is recorded as a single sett.

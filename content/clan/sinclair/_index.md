@@ -10,5 +10,6 @@ date: 2023-03-18
 
 ## Families
 
+- [Sinclair](/families/sinclair/)
 - [Sinclair of Ulbster](/families/sinclair-of-ulbster/)
 

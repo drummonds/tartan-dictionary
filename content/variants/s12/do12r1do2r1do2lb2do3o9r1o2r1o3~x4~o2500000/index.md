@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Shieldhall"
+  url: "/clan/shieldhall/"
 - name: "Shieldhall"
-  url: "/tartans/s/sh/shieldhall-2/"
+  url: "/families/shieldhall/"
+- name: "Shieldhall"
+  url: "/tartans/s/sh/shieldhall/"
 - name: "Shieldhall"
   url: "/setts/do12r1do2r1do2lb2do3o9r1o2r1o3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/do12r1do2r1do2lb2do3o9r1o2r1o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRRBWBRBRBRBRBWBRRRRR](/stripes/rrrrbwbrbrbrbrbwbrrrrr/).
 
-Part of the [Shieldhall](/tartans/s/sh/shieldhall-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Shieldhall](/tartans/s/sh/shieldhall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

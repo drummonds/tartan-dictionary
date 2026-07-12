@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Murray"
   url: "/clan/murray/"
 - name: "Murray"
-  url: "/tartans/m/mu/murray-4/"
+  url: "/families/murray/"
+- name: "Murray"
+  url: "/tartans/m/mu/murray/"
 - name: "Murray"
   url: "/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/).
 
-Part of the [Murray](/tartans/m/mu/murray-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Murray](/tartans/m/mu/murray/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

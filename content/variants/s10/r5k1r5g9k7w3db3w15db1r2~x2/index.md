@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDuff"
+  url: "/clan/macduff/"
+- name: "MacDuff"
+  url: "/families/macduff/"
 - name: "MacDuff Dress"
-  url: "/tartans/m/ma/macduff-dress/"
+  url: "/tartans/m/ma/macduff-dress-2/"
 - name: "MacDuff, dress"
   url: "/setts/r5k1r5g9k7w3db3w15db1r2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5k1r5g9k7w3db3w15db1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBWKGRKR](/stripes/rbwbwkgrkr/).
 
-Part of the [MacDuff Dress](/tartans/m/ma/macduff-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDuff Dress](/tartans/m/ma/macduff-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glassary"
+  url: "/clan/glassary/"
 - name: "Glassary"
-  url: "/tartans/g/gl/glassary-3/"
+  url: "/families/glassary/"
+- name: "Glassary"
+  url: "/tartans/g/gl/glassary-2/"
 - name: "Glassary #3"
   url: "/setts/db4y1r12y2r2y12r1y4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4y1r12y2r2y12r1y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRGRG](/stripes/bgrgrgrg/).
 
-Part of the [Glassary](/tartans/g/gl/glassary-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glassary](/tartans/g/gl/glassary-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

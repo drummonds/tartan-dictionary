@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Pendleton"
+  url: "/clan/pendleton/"
+- name: "Pendleton"
+  url: "/families/pendleton/"
 ---
+A tartan of the [Pendleton](/families/pendleton/) family.
 Its design is pattern [BBGRGKGYGBB](/stripes/bbgrgkgygbb/) — the page of every tartan sharing this colour sequence.
 
 Designed 1998 by Annette Hoeffel for Oregon-based Pendleton Mills; nearly identical to tartan #2468.

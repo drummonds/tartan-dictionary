@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Smithsonian"
+  url: "/clan/smithsonian/"
+- name: "Smithsonian"
+  url: "/families/smithsonian/"
 - name: "Smithsonian"
   url: "/tartans/s/sm/smithsonian-2/"
 - name: "Smithsonian (Corporate) American Corporate Tartan"

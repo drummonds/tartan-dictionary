@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Oliver"
+  url: "/clan/oliver/"
+- name: "Oliver"
+  url: "/families/oliver/"
 - name: "Oliver Dress"
-  url: "/tartans/o/ol/oliver-dress-3/"
+  url: "/tartans/o/ol/oliver-dress-2/"
 - name: "Oliver Dress (Red)"
   url: "/setts/r15k1r1dt5r1g1r1g1lo1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r15k1r1dt5r1g1r1g1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRBRGRGY](/stripes/rkrbrgrgy/).
 
-Part of the [Oliver Dress](/tartans/o/ol/oliver-dress-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Oliver Dress](/tartans/o/ol/oliver-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

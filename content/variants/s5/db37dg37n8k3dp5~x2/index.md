@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dallard"
+  url: "/clan/dallard/"
 - name: "Dallard"
-  url: "/tartans/d/da/dallard/"
+  url: "/families/dallard/"
+- name: "Dallard"
+  url: "/tartans/d/da/dallard-2/"
 - name: "Dallard Personal Tartan"
   url: "/setts/db37dg37n8k3dp5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db37dg37n8k3dp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKB](/stripes/bgbkb/).
 
-Part of the [Dallard](/tartans/d/da/dallard/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dallard](/tartans/d/da/dallard-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

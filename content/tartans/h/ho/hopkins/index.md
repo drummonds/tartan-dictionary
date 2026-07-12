@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hopkins"
+  url: "/clan/hopkins/"
+- name: "Hopkins"
+  url: "/families/hopkins/"
 ---
+A tartan of the [Hopkins](/families/hopkins/) family.
 Its design is pattern [BKBBBKBBKBKB](/stripes/bkbbbkbbkbkb/) — the page of every tartan sharing this colour sequence.
 
 Welsh surname tartan woven at Cambrian Woollen Mill; differing warp and weft create a predominant vertical stripe.

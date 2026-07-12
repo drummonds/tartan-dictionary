@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Newmill"
+  url: "/clan/newmill/"
 - name: "Newmill"
-  url: "/tartans/n/ne/newmill-2/"
+  url: "/families/newmill/"
+- name: "Newmill"
+  url: "/tartans/n/ne/newmill-3/"
 - name: "Newmill Corporate Tartan"
   url: "/setts/r5o20db13dbi42db13o20lo5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5o20db13dbi42db13o20lo5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRBBBRY](/stripes/rrbbbry/).
 
-Part of the [Newmill](/tartans/n/ne/newmill-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Newmill](/tartans/n/ne/newmill-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

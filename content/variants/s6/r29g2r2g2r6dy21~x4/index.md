@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Maguire"
+  url: "/clan/maguire/"
 - name: "Maguire"
-  url: "/tartans/m/ma/maguire/"
+  url: "/families/maguire/"
+- name: "Maguire"
+  url: "/tartans/m/ma/maguire-2/"
 - name: "Maguire Clan Family Tartan"
   url: "/setts/r29g2r2g2r6dy21/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r29g2r2g2r6dy21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-Part of the [Maguire](/tartans/m/ma/maguire/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Maguire](/tartans/m/ma/maguire-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

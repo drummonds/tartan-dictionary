@@ -6,12 +6,12 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/n/no/nobiliary-fraternity/"><img src="/variants/s5/dp11lb2k10g10y3~x2/sett.png" alt="Nobiliary Fraternity. . ." width="140"><br><strong>Nobiliary Fraternity. . . (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/no/noble/"><img src="/variants/s10/y4dy3dg2k6g4w1dg12k10g2dg3~x2/sett.png" alt="Noble" width="140"><br><strong>Noble (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/no/noble/"><img src="/variants/s10/y4dy3dg2k6g4w1dg12k10g2dg3~x2/sett.png" alt="Noble" width="140"><br><strong>Noble (2)</strong></a><div class="clan-territory">Noble</div></li>
 <li><a class="tartan" href="/tartans/n/no/nocken/"><img src="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/sett.png" alt="Nocken" width="140"><br><strong>Nocken (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/no/nolan/"><img src="/variants/s5/dr8g19dg42ly3r1~x2/sett.png" alt="Nolan" width="140"><br><strong>Nolan (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/no/nolan-family-john-j/"><img src="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/sett.png" alt="Nolan Family, John J" width="140"><br><strong>Nolan Family, John J (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/no/noordermeer/"><img src="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/sett.png" alt="Noordermeer" width="140"><br><strong>Noordermeer (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/no/noordermeer-2/"><img src="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/sett.png" alt="Noordermeer" width="140"><br><strong>Noordermeer (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/no/noordermeer/"><img src="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/sett.png" alt="Noordermeer" width="140"><br><strong>Noordermeer (1)</strong></a><div class="clan-territory">Noordermeer</div></li>
+<li><a class="tartan" href="/tartans/n/no/noordermeer-2/"><img src="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/sett.png" alt="Noordermeer" width="140"><br><strong>Noordermeer (1)</strong></a><div class="clan-territory">Noordermeer</div></li>
 <li><a class="tartan" href="/tartans/n/no/nooten-boom/"><img src="/variants/s7/k10y2k10w2k2y13w3~x2/sett.png" alt="Nooten-Boom" width="140"><br><strong>Nooten-Boom (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/no/nor-westers/"><img src="/variants/s9/k1g23k1y3k1w8r1lb5k1~x2/sett.png" alt="Nor Westers" width="140"><br><strong>Nor Westers (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/no/nor-westers-2/"><img src="/variants/s9/k1g15dy1y2dy1w6r1db3k1~x2/sett.png" alt="Nor Westers" width="140"><br><strong>Nor Westers (1)</strong></a></li>
@@ -20,9 +20,9 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/no/norham-and-ladykirk-2/"><img src="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/sett.png" alt="Norham and Ladykirk" width="140"><br><strong>Norham and Ladykirk (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/no/normandy/"><img src="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/sett.png" alt="Normandy" width="140"><br><strong>Normandy (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/no/normandy-bay-myth/"><img src="/variants/s22/w2k1w1r1y1k3w18k2w2k1w1y2db8w4k48w3k2w2k1w1y1r1~x2/sett.png" alt="Normandy Bay Myth" width="140"><br><strong>Normandy Bay Myth (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/no/norris/"><img src="/variants/s6/k2w1g5dr1lb18r2~x2/sett.png" alt="Norris" width="140"><br><strong>Norris (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/no/norris-2/"><img src="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/sett.png" alt="Norris" width="140"><br><strong>Norris (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/no/norris-hunting/"><img src="/variants/s6/k2w1n8dr1lb28dr2~x2/sett.png" alt="Norris Hunting" width="140"><br><strong>Norris Hunting (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/no/norris/"><img src="/variants/s6/k2w1g5dr1lb18r2~x2/sett.png" alt="Norris" width="140"><br><strong>Norris (2)</strong></a><div class="clan-territory">Norris</div></li>
+<li><a class="tartan" href="/tartans/n/no/norris-2/"><img src="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/sett.png" alt="Norris" width="140"><br><strong>Norris (1)</strong></a><div class="clan-territory">Norris</div></li>
+<li><a class="tartan" href="/tartans/n/no/norris-hunting/"><img src="/variants/s6/k2w1n8dr1lb28dr2~x2/sett.png" alt="Norris Hunting" width="140"><br><strong>Norris Hunting (1)</strong></a><div class="clan-territory">Norris</div></li>
 <li><a class="tartan" href="/tartans/n/no/norsemen/"><img src="/variants/s6/db65k2db4lb2db10dr24~x2/sett.png" alt="Norsemen" width="140"><br><strong>Norsemen (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/no/norsemen-the/"><img src="/variants/s6/db65k2db4k2db10dr24~x2/sett.png" alt="Norsemen, The" width="140"><br><strong>Norsemen, The (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/no/north-berwick/"><img src="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/sett.png" alt="North Berwick" width="140"><br><strong>North Berwick (1)</strong></a><div class="clan-territory">Clan North</div></li>

@@ -8,3 +8,7 @@ date: 2023-03-18
 
 <a class="tartan" href="/variants/s15/w10k3w3k3w3k5w5g9k1w2k1g9k10w13r2~x2/"><img src="/variants/s15/w10k3w3k3w3k5w5g9k1w2k1g9k10w13r2~x2/sett.png" alt="MacKenzie (MacGregor-Hastie)" width="240"><br>MacKenzie (MacGregor-Hastie)</a>
 
+## Families
+
+- [MacKenzie](/families/mackenzie/)
+

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Druid"
+  url: "/clan/druid/"
 - name: "Druid"
-  url: "/tartans/d/dr/druid/"
+  url: "/families/druid/"
+- name: "Druid"
+  url: "/tartans/d/dr/druid-2/"
 - name: "Druid"
   url: "/setts/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGWGKGWGRGWGWG](/stripes/bbbgwgkgwgrgwgwg/).
 
-Part of the [Druid](/tartans/d/dr/druid/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Druid](/tartans/d/dr/druid-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

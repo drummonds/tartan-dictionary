@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Pincock"
+  url: "/clan/pincock/"
 - name: "Pincock , Dougie"
   url: "/tartans/p/pi/pincock-dougie/"
 - name: "Pincock (Plockton), Dougie"

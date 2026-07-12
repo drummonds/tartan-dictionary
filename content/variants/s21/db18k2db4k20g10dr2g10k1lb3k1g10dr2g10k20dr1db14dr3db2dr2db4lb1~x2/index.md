@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rankin"
+  url: "/clan/rankin/"
+- name: "Rankin"
+  url: "/families/rankin/"
 - name: "Rankin"
   url: "/tartans/r/ra/rankin-3/"
 - name: "Rankin (Dalgleish)"

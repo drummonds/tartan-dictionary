@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Silvicola"
+  url: "/clan/silvicola/"
+- name: "Silvicola"
+  url: "/families/silvicola/"
 - name: "Silvicola"
   url: "/tartans/s/si/silvicola-2/"
 - name: "Silvicola (Corporate)"

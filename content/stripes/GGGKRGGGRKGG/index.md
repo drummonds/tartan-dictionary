@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/">McCamley (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/"><img src="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/sett.png" alt="McCamley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16~dgi1806142-g2003208/">McCamley (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16~dgi1806142-g2003208/"><img src="/variants/s12/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16~dgi1806142-g2003208/sett.png" alt="McCamley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/">McCamley (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/"><img src="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/sett.png" alt="McCamley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

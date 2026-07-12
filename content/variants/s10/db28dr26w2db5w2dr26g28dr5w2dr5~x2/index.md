@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glenfinnan"
+  url: "/clan/glenfinnan/"
 - name: "Glenfinnan"
-  url: "/tartans/g/gl/glenfinnan/"
+  url: "/families/glenfinnan/"
+- name: "Glenfinnan"
+  url: "/tartans/g/gl/glenfinnan-3/"
 - name: "Glenfinnan (Clan?)"
   url: "/setts/db28dr26w2db5w2dr26g28dr5w2dr5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db28dr26w2db5w2dr26g28dr5w2dr5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBGBWB](/stripes/bbwbwbgbwb/).
 
-Part of the [Glenfinnan](/tartans/g/gl/glenfinnan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glenfinnan](/tartans/g/gl/glenfinnan-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

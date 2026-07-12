@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGuire"
+  url: "/clan/macguire/"
+- name: "MacGuire"
+  url: "/families/macguire/"
 ---
+A tartan of the [MacGuire](/families/macguire/) family.
 Its design is pattern [BGRWRWRWRWRGBW](/stripes/bgrwrwrwrwrgbw/) — the page of every tartan sharing this colour sequence.
 
 The **MacGuire** tartan is recorded as a single sett.

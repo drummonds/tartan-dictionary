@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rothesay"
+  url: "/clan/rothesay/"
+- name: "Rothesay"
+  url: "/families/rothesay/"
 - name: "Rothesay Hunting"
-  url: "/tartans/r/ro/rothesay-hunting/"
+  url: "/tartans/r/ro/rothesay-hunting-2/"
 - name: "Rothesay Hunting (District)"
   url: "/setts/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/).
 
-Part of the [Rothesay Hunting](/tartans/r/ro/rothesay-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rothesay Hunting](/tartans/r/ro/rothesay-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

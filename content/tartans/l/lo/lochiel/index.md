@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lochiel"
+  url: "/clan/lochiel/"
+- name: "Lochiel"
+  url: "/families/lochiel/"
 ---
+A tartan of the [Lochiel](/families/lochiel/) family.
 Its design is pattern [GRGRBGRBRGBRGRBGR](/stripes/grgrbgrbrgbrgrbgr/) — the page of every tartan sharing this colour sequence.
 
 The **Lochiel** tartan is recorded as a single sett.

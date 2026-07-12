@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Grant"
   url: "/clan/grant/"
 - name: "Grant"
-  url: "/tartans/g/gr/grant-7/"
+  url: "/families/grant/"
+- name: "Grant"
+  url: "/tartans/g/gr/grant/"
 - name: "Grant"
   url: "/setts/r6db2r2g24r2db2r2db8r2w1r32db2r2db1r6/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6db2r2g24r2db2r2db8r2w1r32db2r2db1r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRWRBRBRGRBR](/stripes/rbrbrwrbrbrgrbr/).
 
-Part of the [Grant](/tartans/g/gr/grant-7/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Grant](/tartans/g/gr/grant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

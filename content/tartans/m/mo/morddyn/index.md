@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Morddyn"
+  url: "/clan/morddyn/"
+- name: "Morddyn"
+  url: "/families/morddyn/"
 ---
+A tartan of the [Morddyn](/families/morddyn/) family.
 Its design is pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/) — the page of every tartan sharing this colour sequence.
 
 The **Morddyn** tartan is recorded as a single sett.

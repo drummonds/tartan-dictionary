@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Owen"
   url: "/clan/owen/"
+- name: "Owen"
+  url: "/families/owen/"
 ---
-A tartan of [Clan Owen](/clan/owen/).
+A tartan of the [Owen](/families/owen/) family.
 Its design is pattern [BGRGRGBGBG](/stripes/bgrgrgbgbg/) — the page of every tartan sharing this colour sequence.
 
 The **Owen** tartan groups 2 setts — the same named design recorded as different cloths

@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Aberdeen"
+  url: "/clan/aberdeen/"
+- name: "Aberdeen"
+  url: "/families/aberdeen/"
 ---
+A tartan of the [Aberdeen](/families/aberdeen/) family.
 Its design is pattern [GWRRWRRWWWBRRWRRBWKGKWBRRWRRBWBWWWBWKGWGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW](/stripes/gwrrwrrwwwbrrwrrbwkgkwbrrwrrbwbwwwbwkgwgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/) — the page of every tartan sharing this colour sequence.
 
 One of Scotland's oldest district tartans, likely introduced by Wilsons of Bannockburn; documented from 1794.

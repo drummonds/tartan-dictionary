@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Porcupine"
+  url: "/clan/porcupine/"
 - name: "Porcupine"
-  url: "/tartans/p/po/porcupine/"
+  url: "/families/porcupine/"
+- name: "Porcupine"
+  url: "/tartans/p/po/porcupine-2/"
 - name: "Porcupine"
   url: "/setts/n1r1n3ly1n1dy8y7g1n1lb1w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n1r1n3ly1n1dy8y7g1n1lb1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBYBGGGBWW](/stripes/brbybgggbww/).
 
-Part of the [Porcupine](/tartans/p/po/porcupine/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Porcupine](/tartans/p/po/porcupine-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lauder"
+  url: "/clan/lauder/"
+- name: "Lauder"
+  url: "/families/lauder/"
 - name: "Lauder Dress"
-  url: "/tartans/l/la/lauder-dress/"
+  url: "/tartans/l/la/lauder-dress-2/"
 - name: "Lauder Dress"
   url: "/setts/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBWKGRGKGBGBGKWBR](/stripes/rbwbwkgrgkgbgbgkwbr/).
 
-Part of the [Lauder Dress](/tartans/l/la/lauder-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lauder Dress](/tartans/l/la/lauder-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

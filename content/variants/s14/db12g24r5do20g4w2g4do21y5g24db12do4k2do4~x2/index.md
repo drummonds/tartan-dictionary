@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hyndman"
+  url: "/clan/hyndman/"
 - name: "Hyndman"
-  url: "/tartans/h/hy/hyndman-3/"
+  url: "/families/hyndman/"
+- name: "Hyndman"
+  url: "/tartans/h/hy/hyndman-4/"
 - name: "Hyndman (Personal)"
   url: "/setts/db12g24r5do20g4w2g4do21y5g24db12do4k2do4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db12g24r5do20g4w2g4do21y5g24db12do4k2do4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBGWGBGGBBKB](/stripes/bgrbgwgbggbbkb/).
 
-Part of the [Hyndman](/tartans/h/hy/hyndman-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hyndman](/tartans/h/hy/hyndman-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

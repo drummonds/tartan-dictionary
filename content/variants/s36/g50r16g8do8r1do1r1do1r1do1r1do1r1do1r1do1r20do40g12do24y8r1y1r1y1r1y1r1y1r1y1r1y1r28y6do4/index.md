@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Newfoundland"
+  url: "/clan/newfoundland/"
+- name: "Newfoundland"
+  url: "/families/newfoundland/"
 - name: "Newfoundland"
   url: "/tartans/n/ne/newfoundland-3/"
 - name: "Newfoundland (CIDD 28098)"

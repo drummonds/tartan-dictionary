@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacNab"
+  url: "/clan/macnab/"
 - name: "MacNab WI 1"
   url: "/tartans/m/ma/macnab-wi-1/"
 - name: "MacNab WI 1"

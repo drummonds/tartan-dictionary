@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Stirling"
   url: "/clan/stirling/"
 - name: "Stirling"
+  url: "/families/stirling/"
+- name: "Stirling"
   url: "/tartans/s/st/stirling-2/"
 - name: "Stirling"
   url: "/setts/dg2gi1o1dg1g1gi1o1w1b2/"

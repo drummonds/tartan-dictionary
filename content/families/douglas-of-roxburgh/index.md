@@ -2,19 +2,12 @@
 title: "Douglas of Roxburgh"
 date: 2023-03-18
 ---
-*Single family clan, so not under clans.*
+A family of [Clan Douglas](/clan/douglas/).
 
 **Trove of Scotland:** [search “Roxburgh”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Roxburgh&viewmode=grid)
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/k6db3dg20r20y3/">Douglas of Roxburgh</a></td><td><code>K/12 DB6 DG40 R40 Y/6</code></td><td>190</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k6db3dg20r20y3/"><img src="/variants/s5/k6db3dg20r20y3~x2/sett.png" alt="Douglas of Roxburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Douglas of Roxburgh tartan and all its setts →](/tartans/d/do/douglas-of-roxburgh/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/d/do/douglas-of-roxburgh/"><img src="/variants/s5/k6db3dg20r20y3~x2/sett.png" alt="Douglas of Roxburgh" width="140"><br><strong>Douglas of Roxburgh (1)</strong></a></li>
+</ul>

@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Currie"
   url: "/clan/currie/"
 - name: "Currie"
-  url: "/tartans/c/cu/currie-2/"
+  url: "/families/currie/"
+- name: "Currie"
+  url: "/tartans/c/cu/currie/"
 - name: "Currie"
   url: "/setts/db16w3db1y4g24r1g3r4g3r1lb8/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16w3db1y4g24r1g3r4g3r1lb8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGGRGRGRW](/stripes/bwbggrgrgrw/).
 
-Part of the [Currie](/tartans/c/cu/currie-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Currie](/tartans/c/cu/currie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

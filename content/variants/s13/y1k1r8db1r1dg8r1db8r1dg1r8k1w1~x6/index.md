@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Robieson"
+  url: "/clan/robieson/"
 - name: "Robieson"
-  url: "/tartans/r/ro/robieson/"
+  url: "/families/robieson/"
+- name: "Robieson"
+  url: "/tartans/r/ro/robieson-2/"
 - name: "Robieson"
   url: "/setts/y1k1r8db1r1dg8r1db8r1dg1r8k1w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y1k1r8db1r1dg8r1db8r1dg1r8k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBRGRBRGRKW](/stripes/gkrbrgrbrgrkw/).
 
-Part of the [Robieson](/tartans/r/ro/robieson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Robieson](/tartans/r/ro/robieson-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Saorsa"
+  url: "/clan/saorsa/"
 - name: "Saorsa"
-  url: "/tartans/s/sa/saorsa/"
+  url: "/families/saorsa/"
+- name: "Saorsa"
+  url: "/tartans/s/sa/saorsa-2/"
 - name: "Saorsa Corporate Tartan"
   url: "/setts/k11db3o5k2g15dp11/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k11db3o5k2g15dp11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKRBK](/stripes/bgkrbk/).
 
-Part of the [Saorsa](/tartans/s/sa/saorsa/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Saorsa](/tartans/s/sa/saorsa-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

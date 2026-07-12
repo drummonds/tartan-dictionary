@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Farquharson"
   url: "/clan/farquharson/"
 - name: "Farquharson"
+  url: "/families/farquharson/"
+- name: "Farquharson"
   url: "/tartans/f/fa/farquharson/"
 - name: "Farquharson"
   url: "/setts/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7/"

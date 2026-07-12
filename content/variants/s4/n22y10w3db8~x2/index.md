@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Louisburg"
+  url: "/clan/louisburg/"
 - name: "Louisburg"
-  url: "/tartans/l/lo/louisburg/"
+  url: "/families/louisburg/"
+- name: "Louisburg"
+  url: "/tartans/l/lo/louisburg-2/"
 - name: "Louisburg"
   url: "/setts/n22y10w3db8/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n22y10w3db8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWB](/stripes/bgwb/).
 
-Part of the [Louisburg](/tartans/l/lo/louisburg/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Louisburg](/tartans/l/lo/louisburg-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Teallach"
+  url: "/clan/teallach/"
 - name: "Teallach"
-  url: "/tartans/t/te/teallach-2/"
+  url: "/families/teallach/"
+- name: "Teallach"
+  url: "/tartans/t/te/teallach/"
 - name: "Teallach Family Tartan"
   url: "/setts/y4r24dy19w3g23o13dy3n13dy3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y4r24dy19w3g23o13dy3n13dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRGWGRG](/stripes/gbgrgwgrg/).
 
-Part of the [Teallach](/tartans/t/te/teallach-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Teallach](/tartans/t/te/teallach/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

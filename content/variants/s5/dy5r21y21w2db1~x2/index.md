@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Haughey"
+  url: "/clan/haughey/"
 - name: "Haughey"
-  url: "/tartans/h/ha/haughey-2/"
+  url: "/families/haughey/"
+- name: "Haughey"
+  url: "/tartans/h/ha/haughey/"
 - name: "Haughey (2015)"
   url: "/setts/dy5r21y21w2db1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy5r21y21w2db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGRG](/stripes/bwgrg/).
 
-Part of the [Haughey](/tartans/h/ha/haughey-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Haughey](/tartans/h/ha/haughey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

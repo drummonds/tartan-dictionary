@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Burnett"
   url: "/clan/burnett/"
 - name: "Burnett"
+  url: "/families/burnett/"
+- name: "Burnett"
   url: "/tartans/b/bu/burnett/"
 - name: "Burnett"
   url: "/setts/r2g6y1g6r3g2r16db1/"

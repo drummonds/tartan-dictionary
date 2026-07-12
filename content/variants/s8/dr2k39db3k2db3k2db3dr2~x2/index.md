@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Impulse"
+  url: "/clan/impulse/"
 - name: "Impulse"
-  url: "/tartans/i/im/impulse/"
+  url: "/families/impulse/"
+- name: "Impulse"
+  url: "/tartans/i/im/impulse-2/"
 - name: "Impulse (Fashion)"
   url: "/setts/dr2k39db3k2db3k2db3dr2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr2k39db3k2db3k2db3dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBKKKKB](/stripes/bbkbkbkkkkb/).
 
-Part of the [Impulse](/tartans/i/im/impulse/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Impulse](/tartans/i/im/impulse-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

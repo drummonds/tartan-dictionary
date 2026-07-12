@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Blackwater"
+  url: "/clan/blackwater/"
+- name: "Blackwater"
+  url: "/families/blackwater/"
 - name: "Blackwater"
   url: "/tartans/b/bl/blackwater-2/"
 - name: "Blackwater (Fashion)"

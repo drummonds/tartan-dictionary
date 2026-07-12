@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/"><img src="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/sett.png" alt="Lumsden of Clova" width="240"><br>Lumsden of Clova</a>
+<a class="tartan" href="/variants/s39/g21w2g20r8g6y3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/"><img src="/variants/s39/g21w2g20r8g6y3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/sett.png" alt="Lumsden (Waistcoat)" width="240"><br>Lumsden (Waistcoat)</a>
 
 ## Families
 
+- [Lumsden](/families/lumsden/)
 - [Lumsden of Clova](/families/lumsden-of-clova/)
 - [Lumsden of Kintore](/families/lumsden-of-kintore/)
 

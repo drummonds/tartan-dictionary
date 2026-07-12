@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Earthrise"
+  url: "/clan/earthrise/"
 - name: "Earthrise"
-  url: "/tartans/e/ea/earthrise/"
+  url: "/families/earthrise/"
+- name: "Earthrise"
+  url: "/tartans/e/ea/earthrise-2/"
 - name: "Earthrise"
   url: "/setts/k4dt6k4n4dt29n6k68db10k4t6db4w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4dt6k4n4dt29n6k68db10k4t6db4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBBBKBKBBW](/stripes/kbkbbbkbkbbw/).
 
-Part of the [Earthrise](/tartans/e/ea/earthrise/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Earthrise](/tartans/e/ea/earthrise-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

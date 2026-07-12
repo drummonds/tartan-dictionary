@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fife"
+  url: "/clan/fife/"
 ---
+A tartan of [Clan Fife](/clan/fife/).
 Its design is pattern [BWBBBKBW](/stripes/bwbbbkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Fife Flyers** tartan groups 2 setts — the same named design recorded as different cloths

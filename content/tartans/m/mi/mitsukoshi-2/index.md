@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mitsukoshi"
+  url: "/clan/mitsukoshi/"
+- name: "Mitsukoshi"
+  url: "/families/mitsukoshi/"
 ---
+A tartan of the [Mitsukoshi](/families/mitsukoshi/) family.
 Its design is pattern [RKBWKWKW](/stripes/rkbwkwkw/) — the page of every tartan sharing this colour sequence.
 
 The **Mitsukoshi** tartan is recorded as a single sett.

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Carlisle"
+  url: "/clan/carlisle/"
 - name: "Carlisle"
-  url: "/tartans/c/ca/carlisle-2/"
+  url: "/families/carlisle/"
+- name: "Carlisle"
+  url: "/tartans/c/ca/carlisle/"
 - name: "Carlisle Ancient"
   url: "/setts/t11lo2dr1lo2dr1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t11lo2dr1lo2dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYB](/stripes/bybyb/).
 
-Part of the [Carlisle](/tartans/c/ca/carlisle-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Carlisle](/tartans/c/ca/carlisle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

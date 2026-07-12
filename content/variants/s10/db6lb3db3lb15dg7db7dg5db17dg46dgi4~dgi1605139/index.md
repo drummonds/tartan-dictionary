@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Jones"
   url: "/clan/jones/"
 - name: "Jones"
-  url: "/tartans/j/jo/jones/"
+  url: "/families/jones/"
+- name: "Jones"
+  url: "/tartans/j/jo/jones-2/"
 - name: "Jones (Welsh Name)"
   url: "/setts/db6lb3db3lb15dg7db7dg5db17dg46dgi4/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6lb3db3lb15dg7db7dg5db17dg46dgi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGBGBGG](/stripes/bwbwgbgbgg/).
 
-Part of the [Jones](/tartans/j/jo/jones/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Jones](/tartans/j/jo/jones-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

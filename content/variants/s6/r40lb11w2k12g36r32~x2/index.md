@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Caithness"
+  url: "/clan/caithness/"
 - name: "Caithness"
-  url: "/tartans/c/ca/caithness-2/"
+  url: "/families/caithness/"
+- name: "Caithness"
+  url: "/tartans/c/ca/caithness-4/"
 - name: "Caithness (1848) (District?)"
   url: "/setts/r40lb11w2k12g36r32/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r40lb11w2k12g36r32/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWWR](/stripes/rgkwwr/).
 
-Part of the [Caithness](/tartans/c/ca/caithness-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Caithness](/tartans/c/ca/caithness-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan MacKenzie"
   url: "/clan/mackenzie/"
 - name: "MacKenzie"
+  url: "/families/mackenzie/"
+- name: "MacKenzie"
   url: "/tartans/m/ma/mackenzie-3/"
 - name: "MacKenzie (Vestiarium Scoticum)"
   url: "/setts/db18k2db2k2db2k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2/"

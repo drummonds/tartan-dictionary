@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hebridean"
+  url: "/clan/hebridean/"
+- name: "Hebridean"
+  url: "/families/hebridean/"
 ---
+A tartan of the [Hebridean](/families/hebridean/) family.
 Its design is pattern [BBRGRBRGRGRGRGRBRGRB](/stripes/bbrgrbrgrgrgrgrbrgrb/) — the page of every tartan sharing this colour sequence.
 
 The **Hebridean 5** tartan is recorded as a single sett.

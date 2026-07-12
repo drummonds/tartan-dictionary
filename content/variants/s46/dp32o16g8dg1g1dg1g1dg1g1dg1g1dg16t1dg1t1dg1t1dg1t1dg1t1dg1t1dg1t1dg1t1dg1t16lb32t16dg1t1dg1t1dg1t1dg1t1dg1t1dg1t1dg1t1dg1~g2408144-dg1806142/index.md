@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Virginia"
+  url: "/clan/virginia/"
 - name: "Virginia"
-  url: "/tartans/v/vi/virginia-2/"
+  url: "/families/virginia/"
+- name: "Virginia"
+  url: "/tartans/v/vi/virginia/"
 - name: "Virginia (Fashion)"
   url: "/setts/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGGGGGGGGGGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBG](/stripes/brggggggggggbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbg/).
 
-Part of the [Virginia](/tartans/v/vi/virginia-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Virginia](/tartans/v/vi/virginia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [46 stripe tartan](/stripes/stripes46/).
 

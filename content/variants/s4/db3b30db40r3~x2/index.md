@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sanix"
+  url: "/clan/sanix/"
 - name: "Sanix Large"
   url: "/tartans/s/sa/sanix-large/"
 - name: "Sanix Large Muted"

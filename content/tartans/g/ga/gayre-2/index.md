@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gayre"
+  url: "/clan/gayre/"
+- name: "Gayre"
+  url: "/families/gayre/"
 ---
+A tartan of the [Gayre](/families/gayre/) family.
 Its design is pattern [KRGWGRKWGRGWKGR](/stripes/krgwgrkwgrgwkgr/) — the page of every tartan sharing this colour sequence.
 
 The **Gayre** tartan is recorded as a single sett.

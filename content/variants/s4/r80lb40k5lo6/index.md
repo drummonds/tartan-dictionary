@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Broberg"
+  url: "/clan/broberg/"
+- name: "Broberg"
+  url: "/families/broberg/"
 - name: "Broberg"
   url: "/tartans/b/br/broberg/"
 - name: "Broberg (Scania) (Personal)"

@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ontario"
+  url: "/clan/ontario/"
 - name: "Ontario Provincial Police"
   url: "/tartans/o/on/ontario-provincial-police/"
 - name: "Ontario Provincial Police"

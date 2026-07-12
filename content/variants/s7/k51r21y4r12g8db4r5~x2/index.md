@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Tott )"
+  url: "/clan/tott/"
+- name: "Tott )"
+  url: "/families/tott/"
 - name: "Totté"
   url: "/tartans/t/to/tott/"
 - name: "Totté (from Hofstade de Baerebeeck) (Personal)"

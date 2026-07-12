@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bermuda"
+  url: "/clan/bermuda/"
 - name: "Bermuda"
-  url: "/tartans/b/be/bermuda-2/"
+  url: "/families/bermuda/"
+- name: "Bermuda"
+  url: "/tartans/b/be/bermuda/"
 - name: "Bermuda Blue (1962) (District)"
   url: "/setts/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWGWBWRWBRW](/stripes/bwrwgwbwrwbrw/).
 
-Part of the [Bermuda](/tartans/b/be/bermuda-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bermuda](/tartans/b/be/bermuda/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

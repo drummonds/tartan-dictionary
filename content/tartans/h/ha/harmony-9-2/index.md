@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Harmony"
+  url: "/clan/harmony/"
+- name: "Harmony"
+  url: "/families/harmony/"
 ---
+A tartan of the [Harmony](/families/harmony/) family.
 Its design is pattern [GRRGR](/stripes/grrgr/) — the page of every tartan sharing this colour sequence.
 
 The **Harmony, 9** tartan is recorded as a single sett.

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Nairn"
+  url: "/clan/nairn/"
 - name: "Nairn"
-  url: "/tartans/n/na/nairn-2/"
+  url: "/families/nairn/"
+- name: "Nairn"
+  url: "/tartans/n/na/nairn/"
 - name: "Nairn (Edinburgh Woollen Mill)"
   url: "/setts/dr2g10db10k5b2k5g10k10b2k10lo2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr2g10db10k5b2k5g10k10b2k10lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBKGKBKY](/stripes/bgbkbkgkbky/).
 
-Part of the [Nairn](/tartans/n/na/nairn-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Nairn](/tartans/n/na/nairn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

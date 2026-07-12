@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Casely"
   url: "/clan/casely/"
 - name: "Casely"
+  url: "/families/casely/"
+- name: "Casely"
   url: "/tartans/c/ca/casely-2/"
 - name: "Casely Family Tartan"
   url: "/setts/k19g3db19lo5db19g3k19g19r7g19/"

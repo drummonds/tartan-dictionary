@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Banff"
+  url: "/clan/banff/"
 ---
+A tartan of [Clan Banff](/clan/banff/).
 Its design is pattern [KBKBGKGY](/stripes/kbkbgkgy/) — the page of every tartan sharing this colour sequence.
 
 The **Banff Centennial** tartan groups 2 setts — the same named design recorded as different cloths

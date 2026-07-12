@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Binder"
+  url: "/clan/binder/"
 ---
+A tartan of [Clan Binder](/clan/binder/).
 Its design is pattern [GBKBKWBY](/stripes/gbkbkwby/) — the page of every tartan sharing this colour sequence.
 
 Created in 2012 to celebrate the wedding of pipers Anna Binder and Michael Slozga and found a family tartan.

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cree"
+  url: "/clan/cree/"
 - name: "Cree"
-  url: "/tartans/c/cr/cree-2/"
+  url: "/families/cree/"
+- name: "Cree"
+  url: "/tartans/c/cr/cree/"
 - name: "Cree (Fashion)"
   url: "/setts/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRKRGKWKYKBBY](/stripes/wrkrgkwkykbby/).
 
-Part of the [Cree](/tartans/c/cr/cree-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cree](/tartans/c/cr/cree/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

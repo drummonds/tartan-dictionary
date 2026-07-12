@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Waggrall"
+  url: "/clan/waggrall/"
 - name: "Waggrall"
-  url: "/tartans/w/wa/waggrall/"
+  url: "/families/waggrall/"
+- name: "Waggrall"
+  url: "/tartans/w/wa/waggrall-4/"
 - name: "Waggrall (Clan)"
   url: "/setts/r4w1ri11r2w2dp11lb4w2lb4dp11w2g4dy4w1dp5w1dy4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2r2ri11w1r4w1ri11r2w2lb2dp6w1dp6lb2w2dg6g2dy2w1dy2g2dg6w2r2ri11w1r4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4w1ri11r2w2dp11lb4w2lb4dp11w2g4dy4w1dp5w1dy4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2r2ri11w1r4w1ri11r2w2lb2dp6w1dp6lb2w2dg6g2dy2w1dy2g2dg6w2r2ri11w1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRRWBWWWBWGGWBWGGWGGWGGWWBWBWWRRWRWRRWWBWBWWGGGWGGGWRRWR](/stripes/rwrrwbwwwbwggwbwggwggwggwwbwbwwrrwrwrrwwbwbwwgggwgggwrrwr/).
 
-Part of the [Waggrall](/tartans/w/wa/waggrall/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Waggrall](/tartans/w/wa/waggrall-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [57 stripe tartan](/stripes/stripes57/).
 

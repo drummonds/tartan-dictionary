@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Carnegie"
   url: "/clan/carnegie/"
 - name: "Carnegie"
-  url: "/tartans/c/ca/carnegie-4/"
+  url: "/families/carnegie/"
+- name: "Carnegie"
+  url: "/tartans/c/ca/carnegie-2/"
 - name: "Carnegie Check"
   url: "/setts/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYKYKYKYKYKYKYKY](/stripes/gkykykykykykykyky/).
 
-Part of the [Carnegie](/tartans/c/ca/carnegie-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Carnegie](/tartans/c/ca/carnegie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

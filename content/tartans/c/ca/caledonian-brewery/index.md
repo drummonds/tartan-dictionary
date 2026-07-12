@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Caledonian"
+  url: "/clan/caledonian/"
 ---
+A tartan of [Clan Caledonian](/clan/caledonian/).
 Its design is pattern [GBWBGKW](/stripes/gbwbgkw/) — the page of every tartan sharing this colour sequence.
 
 The **Caledonian Brewery** tartan is recorded as a single sett.

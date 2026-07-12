@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Perth"
+  url: "/clan/perth/"
+- name: "Perth"
+  url: "/families/perth/"
 - name: "Perth"
   url: "/tartans/p/pe/perth-2/"
 - name: "Perth (Duke of.. ) Portrait Tartan"

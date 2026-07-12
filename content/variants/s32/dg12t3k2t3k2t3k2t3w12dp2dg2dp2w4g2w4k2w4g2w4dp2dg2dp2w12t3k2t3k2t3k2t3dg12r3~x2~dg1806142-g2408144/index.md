@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kennedy"
+  url: "/clan/kennedy/"
+- name: "Kennedy"
+  url: "/families/kennedy/"
 - name: "Kennedy Dress"
-  url: "/tartans/k/ke/kennedy-dress-2/"
+  url: "/tartans/k/ke/kennedy-dress/"
 - name: "Kennedy Dress"
   url: "/setts/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBKBWBGBWGWKWGWBGBWBKBKBKBGR](/stripes/gbkbkbkbwbgbwgwkwgwbgbwbkbkbkbgr/).
 
-Part of the [Kennedy Dress](/tartans/k/ke/kennedy-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kennedy Dress](/tartans/k/ke/kennedy-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Highland"
+  url: "/clan/highland/"
 - name: "Highland Aircraft"
-  url: "/tartans/h/hi/highland-aircraft/"
+  url: "/tartans/h/hi/highland-aircraft-2/"
 - name: "Highland Aircraft"
   url: "/setts/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYYYYKYKYKYYYYYYYYYY](/stripes/kyyyykykykyyyyyyyyyy/).
 
-Part of the [Highland Aircraft](/tartans/h/hi/highland-aircraft/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Highland Aircraft](/tartans/h/hi/highland-aircraft-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

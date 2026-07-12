@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ettrick"
+  url: "/clan/ettrick/"
 - name: "Ettrick"
-  url: "/tartans/e/et/ettrick-2/"
+  url: "/families/ettrick/"
+- name: "Ettrick"
+  url: "/tartans/e/et/ettrick-3/"
 - name: "Ettrick (Fashion)"
   url: "/setts/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKBWBYBWBYBWBY](/stripes/ybkbwbybwbybwby/).
 
-Part of the [Ettrick](/tartans/e/et/ettrick-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ettrick](/tartans/e/et/ettrick-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

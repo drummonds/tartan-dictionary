@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Compaq"
+  url: "/clan/compaq/"
+- name: "Compaq"
+  url: "/families/compaq/"
 ---
+A tartan of the [Compaq](/families/compaq/) family.
 Its design is pattern [GYGYGRGRGRGRGYGY](/stripes/gygygrgrgrgrgygy/) — the page of every tartan sharing this colour sequence.
 
 The **Compaq** tartan is recorded as a single sett.

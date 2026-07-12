@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Skye"
+  url: "/clan/skye/"
 - name: "Skye Highland Outfitters"
   url: "/tartans/s/sk/skye-highland-outfitters/"
 - name: "Skye Highland Outfitters (Corporate)"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Deeside"
+  url: "/clan/deeside/"
 - name: "Deeside"
-  url: "/tartans/d/de/deeside-2/"
+  url: "/families/deeside/"
+- name: "Deeside"
+  url: "/tartans/d/de/deeside/"
 - name: "Deeside Plaid (Taobh Dhi) (District)"
   url: "/setts/y4b22g4n24dp6n4w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y4b22g4n24dp6n4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBBW](/stripes/gbgbbbw/).
 
-Part of the [Deeside](/tartans/d/de/deeside-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Deeside](/tartans/d/de/deeside/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

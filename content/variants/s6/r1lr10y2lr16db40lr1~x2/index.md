@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Caithness"
+  url: "/clan/caithness/"
 - name: "Caithness Glass"
   url: "/tartans/c/ca/caithness-glass/"
 - name: "Caithness Glass (Corporate)"

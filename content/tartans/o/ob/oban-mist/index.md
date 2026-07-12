@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Oban"
+  url: "/clan/oban/"
 ---
+A tartan of [Clan Oban](/clan/oban/).
 Its design is pattern [KWGBGWKBWBW](/stripes/kwgbgwkbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Oban Mist** tartan is recorded as a single sett.

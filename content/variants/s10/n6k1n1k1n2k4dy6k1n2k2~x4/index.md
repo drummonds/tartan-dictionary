@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Tyndrum"
+  url: "/clan/tyndrum/"
+- name: "Tyndrum"
+  url: "/families/tyndrum/"
 - name: "Tyndrum"
   url: "/tartans/t/ty/tyndrum/"
 - name: "Tyndrum District Tartan"

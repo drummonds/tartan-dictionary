@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Shepherd"
+  url: "/clan/shepherd/"
 - name: "Shepherd"
-  url: "/tartans/s/sh/shepherd-3/"
+  url: "/families/shepherd/"
+- name: "Shepherd"
+  url: "/tartans/s/sh/shepherd/"
 - name: "Shepherd, (Name)"
   url: "/setts/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKWGWGGGGGWGWGKWGW](/stripes/ggkwgwgggggwgwgkwgw/).
 
-Part of the [Shepherd](/tartans/s/sh/shepherd-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Shepherd](/tartans/s/sh/shepherd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

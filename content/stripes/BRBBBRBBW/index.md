@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/">Brash</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/"><img src="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/sett.png" alt="Brash sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/db60r5db60t40db36r10db36t40w5/">Brash</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><img src="/variants/s9/db60r5db60t40db36r10db36t40w5/sett.png" alt="Brash sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/">Brash</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/"><img src="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/sett.png" alt="Brash sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

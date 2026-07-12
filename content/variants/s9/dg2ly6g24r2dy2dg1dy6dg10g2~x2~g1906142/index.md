@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fitzgibbon"
+  url: "/clan/fitzgibbon/"
 - name: "Fitzgibbon"
-  url: "/tartans/f/fi/fitzgibbon/"
+  url: "/families/fitzgibbon/"
+- name: "Fitzgibbon"
+  url: "/tartans/f/fi/fitzgibbon-2/"
 - name: "Fitzgibbon"
   url: "/setts/dg2ly6g24r2dy2dg1dy6dg10g2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg2ly6g24r2dy2dg1dy6dg10g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGRGYG](/stripes/gggggrgyg/).
 
-Part of the [Fitzgibbon](/tartans/f/fi/fitzgibbon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fitzgibbon](/tartans/f/fi/fitzgibbon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

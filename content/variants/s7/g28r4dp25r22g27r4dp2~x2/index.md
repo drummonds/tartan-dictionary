@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glasgow"
+  url: "/clan/glasgow/"
 - name: "Glasgow, City of"
-  url: "/tartans/g/gl/glasgow-city-of-2/"
+  url: "/tartans/g/gl/glasgow-city-of/"
 - name: "Glasgow, City of"
   url: "/setts/g28r4dp25r22g27r4dp2/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g28r4dp25r22g27r4dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRG](/stripes/brgrbrg/).
 
-Part of the [Glasgow, City of](/tartans/g/gl/glasgow-city-of-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glasgow, City of](/tartans/g/gl/glasgow-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

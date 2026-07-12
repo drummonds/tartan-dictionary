@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Redgate"
+  url: "/clan/redgate/"
 - name: "Redgate in Connecticut"
   url: "/tartans/r/re/redgate-in-connecticut/"
 - name: "Redgate in Connecticut (Ulster-Scots)"

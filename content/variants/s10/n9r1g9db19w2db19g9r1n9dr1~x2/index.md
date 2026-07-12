@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wilton"
+  url: "/clan/wilton/"
 - name: "Wilton"
-  url: "/tartans/w/wi/wilton-2/"
+  url: "/families/wilton/"
+- name: "Wilton"
+  url: "/tartans/w/wi/wilton/"
 - name: "Wilton (Toronto) (Personal)"
   url: "/setts/n9r1g9db19w2db19g9r1n9dr1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n9r1g9db19w2db19g9r1n9dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRGBWBGRB](/stripes/bbrgbwbgrb/).
 
-Part of the [Wilton](/tartans/w/wi/wilton-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wilton](/tartans/w/wi/wilton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

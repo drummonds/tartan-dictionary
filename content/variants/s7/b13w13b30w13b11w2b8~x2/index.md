@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jubilation"
+  url: "/clan/jubilation/"
 - name: "Jubilation"
-  url: "/tartans/j/ju/jubilation-2/"
+  url: "/families/jubilation/"
+- name: "Jubilation"
+  url: "/tartans/j/ju/jubilation/"
 - name: "Jubilation Tartan"
   url: "/setts/b13w13b30w13b11w2b8/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b13w13b30w13b11w2b8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWB](/stripes/bwbwbwb/).
 
-Part of the [Jubilation](/tartans/j/ju/jubilation-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Jubilation](/tartans/j/ju/jubilation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

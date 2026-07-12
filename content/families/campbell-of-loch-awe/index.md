@@ -8,15 +8,6 @@ A family of [Clan Campbell](/clan/campbell/).
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/k2db11k26g11k2/">Campbell of Loch Awe</a> ★</td><td><code>K/4 G22 K52 DB22 K/4</code></td><td>200</td><td>1770</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2db11k26g11k2/"><img src="/variants/s5/k2db11k26g11k2~x2/sett.png" alt="Campbell of Loch Awe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k2g11k26t11k2/">(Clan)</a></td><td><code>K/4 G22 K52 T22 K/4</code></td><td>200</td><td>1770</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2g11k26t11k2/"><img src="/variants/s5/k2g11k26t11k2~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Campbell of Loch Awe tartan and all its setts →](/tartans/c/ca/campbell-of-loch-awe/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/c/ca/campbell-of-loch-awe/"><img src="/variants/s5/k2db11k26g11k2~x2/sett.png" alt="Campbell of Loch Awe" width="140"><br><strong>Campbell of Loch Awe (2)</strong></a></li>
+</ul>

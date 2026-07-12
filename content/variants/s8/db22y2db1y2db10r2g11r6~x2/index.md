@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Katsushika"
+  url: "/clan/katsushika/"
+- name: "Katsushika"
+  url: "/families/katsushika/"
 - name: "Katsushika"
   url: "/tartans/k/ka/katsushika/"
 - name: "Katsushika Corporate Tartan"

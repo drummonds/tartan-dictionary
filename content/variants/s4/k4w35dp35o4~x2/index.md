@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacRae"
   url: "/clan/macrae/"
 - name: "MacRae"
-  url: "/tartans/m/ma/macrae/"
+  url: "/families/macrae/"
+- name: "MacRae"
+  url: "/tartans/m/ma/macrae-3/"
 - name: "MacRae - 2000 (Dress, Purple)"
   url: "/setts/k4w35dp35o4/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4w35dp35o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBR](/stripes/kwbr/).
 
-Part of the [MacRae](/tartans/m/ma/macrae/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacRae](/tartans/m/ma/macrae-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

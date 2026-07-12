@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Lumsden"
   url: "/clan/lumsden/"
 - name: "Lumsden"
+  url: "/families/lumsden/"
+- name: "Lumsden"
   url: "/tartans/l/lu/lumsden-3/"
 - name: "Lumsden Green"
   url: "/setts/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14/"

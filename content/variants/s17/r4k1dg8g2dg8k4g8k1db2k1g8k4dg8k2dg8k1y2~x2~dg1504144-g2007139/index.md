@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Redmond"
+  url: "/clan/redmond/"
+- name: "Redmond"
+  url: "/families/redmond/"
 - name: "Redmond"
   url: "/tartans/r/re/redmond/"
 - name: "Redmond (2014)"

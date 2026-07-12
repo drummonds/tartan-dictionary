@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dunbarton"
+  url: "/clan/dunbarton/"
 - name: "Dunbarton Warp/Weft"
   url: "/tartans/d/du/dunbarton-warp-weft/"
 - name: "Dunbarton Warp/Weft"

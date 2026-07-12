@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><img src="/variants/s8/r92db10r8w3r8g4r8lo3~x2/sett.png" alt="Burnett of Leys" width="240"><br>Burnett of Leys</a>
+<a class="tartan" href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><img src="/variants/s8/r4g14ly3g14r4g3r29y4~x2/sett.png" alt="Burnett" width="240"><br>Burnett</a>
 
 ## Families
 
+- [Burnett](/families/burnett/)
 - [Burnett of Leys](/families/burnett-of-leys/)
 - [Burnett of Powis](/families/burnett-of-powis/)
 

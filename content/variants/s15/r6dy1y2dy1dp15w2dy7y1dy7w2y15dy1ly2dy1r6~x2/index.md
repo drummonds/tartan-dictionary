@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wells"
+  url: "/clan/wells/"
 - name: "Wells, Greg Dress"
   url: "/tartans/w/we/wells-greg-dress/"
 - name: "Wells, Greg Dress (Personal)"

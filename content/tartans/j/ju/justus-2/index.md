@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Justus"
+  url: "/clan/justus/"
+- name: "Justus"
+  url: "/families/justus/"
 ---
+A tartan of the [Justus](/families/justus/) family.
 Its design is pattern [KYKYKY](/stripes/kykyky/) — the page of every tartan sharing this colour sequence.
 
 The **Justus** tartan groups 3 setts — the same named design recorded as different cloths

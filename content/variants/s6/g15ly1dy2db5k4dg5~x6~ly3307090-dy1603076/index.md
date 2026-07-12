@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dobson"
+  url: "/clan/dobson/"
+- name: "Dobson"
+  url: "/families/dobson/"
 - name: "Dobson"
   url: "/tartans/d/do/dobson-2/"
 - name: "Dobson (Palm Bay) (Personal)"

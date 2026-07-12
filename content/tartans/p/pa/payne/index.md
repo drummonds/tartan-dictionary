@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Payne"
   url: "/clan/payne/"
+- name: "Payne"
+  url: "/families/payne/"
 ---
-A tartan of [Clan Payne](/clan/payne/).
+A tartan of the [Payne](/families/payne/) family.
 Its design is pattern [BKBBBBKBKBKBKB](/stripes/bkbbbbkbkbkbkb/) — the page of every tartan sharing this colour sequence.
 
 The **Payne** tartan groups 3 setts — the same named design recorded as different cloths

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Harding"
+  url: "/clan/harding/"
+- name: "Harding"
+  url: "/families/harding/"
 - name: "Harding"
   url: "/tartans/h/ha/harding-2/"
 - name: "Harding (Florida) (Personal)"

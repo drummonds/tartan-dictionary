@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Diana"
+  url: "/clan/diana/"
 ---
+A tartan of [Clan Diana](/clan/diana/).
 Its design is pattern [BGBGBGWGBBBW](/stripes/bgbgbgwgbbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Diana Hunting, Lady** tartan is recorded as a single sett.

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Strathblane"
+  url: "/clan/strathblane/"
 - name: "Strathblane"
-  url: "/tartans/s/st/strathblane-3/"
+  url: "/families/strathblane/"
+- name: "Strathblane"
+  url: "/tartans/s/st/strathblane/"
 - name: "Strathblane"
   url: "/setts/o12k4w2n6r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o12k4w2n6r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWKR](/stripes/rbwkr/).
 
-Part of the [Strathblane](/tartans/s/st/strathblane-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathblane](/tartans/s/st/strathblane/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

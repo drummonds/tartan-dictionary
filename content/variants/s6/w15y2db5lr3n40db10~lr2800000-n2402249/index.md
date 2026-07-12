@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Herriot"
+  url: "/clan/herriot/"
 - name: "Herriot"
-  url: "/tartans/h/he/herriot/"
+  url: "/families/herriot/"
+- name: "Herriot"
+  url: "/tartans/h/he/herriot-2/"
 - name: "Herriot (New Zealand) (Name)"
   url: "/setts/w15y2db5lr3n40db10/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w15y2db5lr3n40db10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBGW](/stripes/bbybgw/).
 
-Part of the [Herriot](/tartans/h/he/herriot/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Herriot](/tartans/h/he/herriot-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

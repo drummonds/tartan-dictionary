@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glenmorangie"
+  url: "/clan/glenmorangie/"
 - name: "Glenmorangie"
-  url: "/tartans/g/gl/glenmorangie/"
+  url: "/families/glenmorangie/"
+- name: "Glenmorangie"
+  url: "/tartans/g/gl/glenmorangie-2/"
 - name: "Glenmorangie #2"
   url: "/setts/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBYBYBY](/stripes/gbgbgbybyby/).
 
-Part of the [Glenmorangie](/tartans/g/gl/glenmorangie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glenmorangie](/tartans/g/gl/glenmorangie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

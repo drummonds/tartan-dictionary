@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Saltcoats"
+  url: "/clan/saltcoats/"
 - name: "Saltcoats"
-  url: "/tartans/s/sa/saltcoats/"
+  url: "/families/saltcoats/"
+- name: "Saltcoats"
+  url: "/tartans/s/sa/saltcoats-2/"
 - name: "Saltcoats"
   url: "/setts/dp5w1k1t14k1r12k1t14k1r5k1y3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp5w1k1t14k1r12k1t14k1r5k1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKRKBKRKGKRKBKRKBKW](/stripes/bwkbkrkbkrkgkrkbkrkbkw/).
 
-Part of the [Saltcoats](/tartans/s/sa/saltcoats/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Saltcoats](/tartans/s/sa/saltcoats-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

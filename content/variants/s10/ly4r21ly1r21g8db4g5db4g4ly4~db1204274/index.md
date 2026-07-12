@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Rice"
   url: "/clan/rice/"
 - name: "Rice"
+  url: "/families/rice/"
+- name: "Rice"
   url: "/tartans/r/ri/rice/"
 - name: "Rice Welsh Name Tartan"
   url: "/setts/ly4r21ly1r21g8db4g5db4g4ly4/"

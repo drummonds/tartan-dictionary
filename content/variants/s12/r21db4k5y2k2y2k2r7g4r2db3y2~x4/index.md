@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hepburn"
+  url: "/clan/hepburn/"
 - name: "Hepburn"
-  url: "/tartans/h/he/hepburn/"
+  url: "/families/hepburn/"
+- name: "Hepburn"
+  url: "/tartans/h/he/hepburn-2/"
 - name: "Hepburn (Clan)"
   url: "/setts/r21db4k5y2k2y2k2r7g4r2db3y2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r21db4k5y2k2y2k2r7g4r2db3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRGRKGKGKBR](/stripes/gbrgrkgkgkbr/).
 
-Part of the [Hepburn](/tartans/h/he/hepburn/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hepburn](/tartans/h/he/hepburn-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

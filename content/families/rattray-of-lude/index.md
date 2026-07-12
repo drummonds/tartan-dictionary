@@ -8,13 +8,6 @@ date: 2023-03-18
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/k1g8k4r1db8r1db1r8g1w1/">Rattray of Lude</a></td><td><code>K/4 G32 K16 R4 DB32 R4 DB4 R32 G4 W/4</code></td><td>264</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1g8k4r1db8r1db1r8g1w1/"><img src="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png" alt="Rattray of Lude sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Rattray of Lude tartan and all its setts →](/tartans/r/ra/rattray-of-lude/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/r/ra/rattray-of-lude/"><img src="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png" alt="Rattray of Lude" width="140"><br><strong>Rattray of Lude (1)</strong></a></li>
+</ul>

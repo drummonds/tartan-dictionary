@@ -6,15 +6,9 @@ A family of [Clan MacRae](/clan/macrae/).
 
 **Trove of Scotland:** [search “Conchra”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Conchra&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/k5w37r37w5/">MacRae of Conchra</a></td><td><code>K/10 W74 R74 W/10</code></td><td>316</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k5w37r37w5/"><img src="/variants/s4/k5w37r37w5~x2/sett.png" alt="MacRae of Conchra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the MacRae of Conchra tartan and all its setts →](/tartans/m/ma/macrae-of-conchra-2/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/m/ma/macrae-of-conchra-2/"><img src="/variants/s4/k5w37r37w5~x2/sett.png" alt="MacRae of Conchra" width="140"><br><strong>MacRae of Conchra (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macrae-of-conchra/"><img src="/variants/s4/r7w36db36y7~x2/sett.png" alt="MacRae of Conchra" width="140"><br><strong>MacRae of Conchra (2)</strong></a></li>
+</ul>

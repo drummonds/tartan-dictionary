@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Queensferry"
+  url: "/clan/queensferry/"
 ---
+A tartan of [Clan Queensferry](/clan/queensferry/).
 Its design is pattern [WWBBWWWWW](/stripes/wwbbwwwww/) — the page of every tartan sharing this colour sequence.
 
 The **Queensferry High School: Ferry Fling** tartan is recorded as a single sett.

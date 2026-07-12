@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Livingstone"
+  url: "/clan/livingstone/"
 - name: "Livingstone Australia"
   url: "/tartans/l/li/livingstone-australia/"
 - name: "Livingstone Australia (NSW) (Clan)"

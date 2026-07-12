@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan McGran"
+  url: "/clan/mcgran/"
 - name: "McGran"
-  url: "/tartans/m/mc/mcgran-2/"
+  url: "/families/mcgran/"
+- name: "McGran"
+  url: "/tartans/m/mc/mcgran/"
 - name: "McGran (Personal)"
   url: "/setts/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBGBGGBRWGRGWRBGGBGBGGBY](/stripes/bggbgbggbrwgrgwrbggbgbggby/).
 
-Part of the [McGran](/tartans/m/mc/mcgran-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McGran](/tartans/m/mc/mcgran/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 

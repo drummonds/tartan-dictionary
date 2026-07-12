@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Swedish"
+  url: "/clan/swedish/"
 - name: "Swedish"
-  url: "/tartans/s/sw/swedish/"
+  url: "/families/swedish/"
+- name: "Swedish"
+  url: "/tartans/s/sw/swedish-2/"
 - name: "Swedish District Tartan"
   url: "/setts/db80lo1k4lo4k4lo4k22g36db4b6lb2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db80lo1k4lo4k4lo4k22g36db4b6lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKYKYKGBBW](/stripes/bykykykgbbw/).
 
-Part of the [Swedish](/tartans/s/sw/swedish/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Swedish](/tartans/s/sw/swedish-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

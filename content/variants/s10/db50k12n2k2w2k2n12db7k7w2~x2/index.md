@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Skye"
+  url: "/clan/skye/"
 - name: "Skye"
-  url: "/tartans/s/sk/skye/"
+  url: "/families/skye/"
+- name: "Skye"
+  url: "/tartans/s/sk/skye-3/"
 - name: "Skye (Fashion)"
   url: "/setts/db50k12n2k2w2k2n12db7k7w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db50k12n2k2w2k2n12db7k7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKBBKW](/stripes/bkbkwkbbkw/).
 
-Part of the [Skye](/tartans/s/sk/skye/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Skye](/tartans/s/sk/skye-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

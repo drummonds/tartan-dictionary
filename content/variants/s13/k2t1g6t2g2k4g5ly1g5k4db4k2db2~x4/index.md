@@ -7,8 +7,10 @@ crumbs:
   url: "/"
 - name: "Clan Gordon (Duke of Gordon)"
   url: "/clan/gordon/"
+- name: "Gordon"
+  url: "/families/gordon/"
 - name: "Gordon Dress"
-  url: "/tartans/g/go/gordon-dress-8/"
+  url: "/tartans/g/go/gordon-dress-7/"
 - name: "Gordon Dress (US Fashion)"
   url: "/setts/k2t1g6t2g2k4g5ly1g5k4db4k2db2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2t1g6t2g2k4g5ly1g5k4db4k2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGYGKGBGBK](/stripes/bkbkgygkgbgbk/).
 
-Part of the [Gordon Dress](/tartans/g/go/gordon-dress-8/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gordon Dress](/tartans/g/go/gordon-dress-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

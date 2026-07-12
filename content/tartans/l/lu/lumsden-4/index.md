@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Lumsden"
   url: "/clan/lumsden/"
+- name: "Lumsden"
+  url: "/families/lumsden/"
 ---
-A tartan of [Clan Lumsden](/clan/lumsden/).
+A tartan of the [Lumsden](/families/lumsden/) family.
 Its design is pattern [GBKBGRBRBRKBGBGBK](/stripes/gbkbgrbrbrkbgbgbk/) — the page of every tartan sharing this colour sequence.
 
 The **Lumsden** tartan is recorded as a single sett.

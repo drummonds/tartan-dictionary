@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lyon"
+  url: "/clan/lyon/"
 - name: "Lyon, Jeffrey M"
-  url: "/tartans/l/ly/lyon-jeffrey-m/"
+  url: "/tartans/l/ly/lyon-jeffrey-m-2/"
 - name: "Lyon, Jeffrey M (Hunting) (Personal)"
   url: "/setts/lb27db2lb2db16g5r5y2db2dy14db2/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb27db2lb2db16g5r5y2db2dy14db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRGBWBW](/stripes/bgbgrgbwbw/).
 
-Part of the [Lyon, Jeffrey M](/tartans/l/ly/lyon-jeffrey-m/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lyon, Jeffrey M](/tartans/l/ly/lyon-jeffrey-m-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

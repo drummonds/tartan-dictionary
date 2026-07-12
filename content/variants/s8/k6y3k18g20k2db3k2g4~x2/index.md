@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Choinka"
+  url: "/clan/choinka/"
+- name: "Choinka"
+  url: "/families/choinka/"
 - name: "Choinka"
   url: "/tartans/c/ch/choinka/"
 - name: "Choinka Family (Inverness)"

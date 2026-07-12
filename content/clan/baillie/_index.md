@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/"><img src="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/sett.png" alt="Baillie of Polkemett Family Tartan" width="240"><br>Baillie of Polkemett Family Tartan</a>
+<a class="tartan" href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/"><img src="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/sett.png" alt="Baillie (William Wilson)" width="240"><br>Baillie (William Wilson)</a>
 
 ## Families
 
+- [Baillie](/families/baillie/)
 - [Baillie of Polkemett](/families/baillie-of-polkemett/)
 - [Baillie of Polkemmet](/families/baillie-of-polkemmet/)
 

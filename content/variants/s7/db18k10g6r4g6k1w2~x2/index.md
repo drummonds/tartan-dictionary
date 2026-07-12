@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Ferguson"
   url: "/clan/ferguson/"
 - name: "Ferguson"
+  url: "/families/ferguson/"
+- name: "Ferguson"
   url: "/tartans/f/fe/ferguson-3/"
 - name: "Ferguson - 1830 of Atholl (Clan)"
   url: "/setts/db18k10g6r4g6k1w2/"

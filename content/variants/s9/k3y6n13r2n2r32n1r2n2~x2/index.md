@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fueglistal"
+  url: "/clan/fueglistal/"
+- name: "Fueglistal"
+  url: "/families/fueglistal/"
 - name: "Fueglistal"
   url: "/tartans/f/fu/fueglistal/"
 - name: "Fueglistal (Aargau) (Personal)"

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Buccleuch"
+  url: "/clan/buccleuch/"
+- name: "Buccleuch"
+  url: "/families/buccleuch/"
 - name: "Buccleuch Dress"
   url: "/tartans/b/bu/buccleuch-dress/"
 - name: "Buccleuch Dress (Fashion)"

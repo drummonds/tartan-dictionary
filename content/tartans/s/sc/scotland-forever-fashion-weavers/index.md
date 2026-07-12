@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scotland"
+  url: "/clan/scotland/"
 ---
+A tartan of [Clan Scotland](/clan/scotland/).
 Its design is pattern [BKBKBKBGBWB](/stripes/bkbkbkbgbwb/) — the page of every tartan sharing this colour sequence.
 
 Named for the famous Scottish regimental war cry, made famous by the Scots Greys at Waterloo, 1815.

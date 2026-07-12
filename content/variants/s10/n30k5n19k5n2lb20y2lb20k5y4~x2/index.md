@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sonsub"
+  url: "/clan/sonsub/"
 - name: "Sonsub"
-  url: "/tartans/s/so/sonsub-2/"
+  url: "/families/sonsub/"
+- name: "Sonsub"
+  url: "/tartans/s/so/sonsub/"
 - name: "Sonsub"
   url: "/setts/n30k5n19k5n2lb20y2lb20k5y4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n30k5n19k5n2lb20y2lb20k5y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWGWKG](/stripes/bkbkbwgwkg/).
 
-Part of the [Sonsub](/tartans/s/so/sonsub-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sonsub](/tartans/s/so/sonsub/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

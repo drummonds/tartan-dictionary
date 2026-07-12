@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stevenson"
+  url: "/clan/stevenson/"
 - name: "Stevenson"
-  url: "/tartans/s/st/stevenson-2/"
+  url: "/families/stevenson/"
+- name: "Stevenson"
+  url: "/tartans/s/st/stevenson/"
 - name: "Stevenson (Personal)"
   url: "/setts/g6ly1dr2ly1dr2ly1db6ly1db6ly1dr2ly1dr2ly1g6dr1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g6ly1dr2ly1dr2ly1db6ly1db6ly1dr2ly1dr2ly1g6dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYBYBYBYBYBYBYG](/stripes/bgybybybybybybyg/).
 
-Part of the [Stevenson](/tartans/s/st/stevenson-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stevenson](/tartans/s/st/stevenson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hynde"
+  url: "/clan/hynde/"
+- name: "Hynde"
+  url: "/families/hynde/"
 - name: "Hynde"
   url: "/tartans/h/hy/hynde/"
 - name: "Hynde (Sir John) (Artefact)"

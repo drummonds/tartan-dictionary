@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/"><img src="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/sett.png" alt="MacAlister of Glenbarr Hunting" width="240"><br>MacAlister of Glenbarr Hunting</a>
+<a class="tartan" href="/variants/s44/r8g1dg2r2lb1r1w1r1lb1r2dg3r1w1r6lb1r1dg12r1lb1r16lb1r1dg12r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2/"><img src="/variants/s44/r8g1dg2r2lb1r1w1r1lb1r2dg3r1w1r6lb1r1dg12r1lb1r16lb1r1dg12r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2/sett.png" alt="MacAlister Clan Tartan" width="240"><br>MacAlister Clan Tartan</a>
 
 ## Families
 
+- [MacAlister](/families/macalister/)
 - [MacAlister of Glenbarr](/families/macalister-of-glenbarr/)
 - [MacAlister of Skye](/families/macalister-of-skye/)
 

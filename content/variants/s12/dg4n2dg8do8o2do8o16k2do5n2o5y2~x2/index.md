@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Blaylock"
+  url: "/clan/blaylock/"
+- name: "Blaylock"
+  url: "/families/blaylock/"
 - name: "Blaylock Hunting"
-  url: "/tartans/b/bl/blaylock-hunting/"
+  url: "/tartans/b/bl/blaylock-hunting-2/"
 - name: "Blaylock Hunting"
   url: "/setts/dg4n2dg8do8o2do8o16k2do5n2o5y2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg4n2dg8do8o2do8o16k2do5n2o5y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBRBRKBBRG](/stripes/gbgbrbrkbbrg/).
 
-Part of the [Blaylock Hunting](/tartans/b/bl/blaylock-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blaylock Hunting](/tartans/b/bl/blaylock-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jewish"
+  url: "/clan/jewish/"
+- name: "Jewish"
+  url: "/families/jewish/"
 - name: "Jewish"
   url: "/tartans/j/je/jewish-2/"
 - name: "Jewish (Kosher) (Corporate)"

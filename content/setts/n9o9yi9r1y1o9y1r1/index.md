@@ -6,7 +6,7 @@ This is the **Jardine** sett — one scale-free proportion (`n9o9yi9r1y1o9y1r1`)
 [BRGRGRGR](/stripes/brgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
-Part of the [Jardine](/tartans/j/ja/jardine-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Jardine](/tartans/j/ja/jardine-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

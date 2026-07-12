@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Holmes"
+  url: "/clan/holmes/"
 - name: "Holmes"
-  url: "/tartans/h/ho/holmes-2/"
+  url: "/families/holmes/"
+- name: "Holmes"
+  url: "/tartans/h/ho/holmes/"
 - name: "Holmes (Clan?)"
   url: "/setts/k30r3k3r3k6db32dg3db3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k30r3k3r3k6db32dg3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKRKRK](/stripes/bgbkrkrk/).
 
-Part of the [Holmes](/tartans/h/ho/holmes-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Holmes](/tartans/h/ho/holmes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

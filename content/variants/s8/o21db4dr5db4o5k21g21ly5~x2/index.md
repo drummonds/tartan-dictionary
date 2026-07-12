@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Caledonian"
+  url: "/clan/caledonian/"
 - name: "Caledonian Labrador Retrievers"
   url: "/tartans/c/ca/caledonian-labrador-retrievers/"
 - name: "Caledonian Labrador Retrievers"

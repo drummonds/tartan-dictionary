@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scotia"
+  url: "/clan/scotia/"
 - name: "Scotia"
-  url: "/tartans/s/sc/scotia-2/"
+  url: "/families/scotia/"
+- name: "Scotia"
+  url: "/tartans/s/sc/scotia-4/"
 - name: "Scotia"
   url: "/setts/g3dp7b11db3o8w2db3b3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3dp7b11db3o8w2db3b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWRBBBG](/stripes/bbwrbbbg/).
 
-Part of the [Scotia](/tartans/s/sc/scotia-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scotia](/tartans/s/sc/scotia-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Banff"
+  url: "/clan/banff/"
+- name: "Banff"
+  url: "/families/banff/"
 - name: "Banff"
   url: "/tartans/b/ba/banff/"
 - name: "Banff, White (Fashion)"

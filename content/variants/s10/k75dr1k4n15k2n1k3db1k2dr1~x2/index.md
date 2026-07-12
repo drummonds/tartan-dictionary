@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Selkirk"
+  url: "/clan/selkirk/"
 - name: "Selkirk Silver Band"
   url: "/tartans/s/se/selkirk-silver-band/"
 - name: "Selkirk Silver Band (Corporate)"

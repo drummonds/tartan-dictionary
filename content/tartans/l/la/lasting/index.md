@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lasting"
+  url: "/clan/lasting/"
+- name: "Lasting"
+  url: "/families/lasting/"
 ---
+A tartan of the [Lasting](/families/lasting/) family.
 Its design is pattern [WBWGWYWBWYWGWBWBWRWRGRW](/stripes/wbwgwywbwywgwbwbwrwrgrw/) — the page of every tartan sharing this colour sequence.
 
 The **Lasting** tartan groups 2 setts — the same named design recorded as different cloths

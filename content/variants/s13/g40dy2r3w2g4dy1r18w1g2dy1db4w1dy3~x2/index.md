@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Morgan"
+  url: "/clan/morgan/"
 - name: "Morgan Jocelyn Osmélian Peregrine"
   url: "/tartans/m/mo/morgan-jocelyn-osm-lian-peregrine/"
 - name: "Morgan Jocelyn Osmélian Peregrine (Personal)"

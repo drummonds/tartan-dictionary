@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Renfrew"
+  url: "/clan/renfrew/"
 - name: "Renfrew"
-  url: "/tartans/r/re/renfrew-2/"
+  url: "/families/renfrew/"
+- name: "Renfrew"
+  url: "/tartans/r/re/renfrew/"
 - name: "Renfrew #2"
   url: "/setts/lb50db6lo2db3lb2db3y8dy8db2dy8lb2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb50db6lo2db3lb2db3y8dy8db2dy8lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBYBWBGGBGW](/stripes/wbybwbggbgw/).
 
-Part of the [Renfrew](/tartans/r/re/renfrew-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Renfrew](/tartans/r/re/renfrew/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Universal"
+  url: "/clan/universal/"
 - name: "Universal Scientific Indust"
   url: "/tartans/u/un/universal-scientific-indust/"
 - name: "Universal Scientific Indust (Corp.)"

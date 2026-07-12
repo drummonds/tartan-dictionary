@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mariverain"
+  url: "/clan/mariverain/"
 - name: "Mariverain"
-  url: "/tartans/m/ma/mariverain/"
+  url: "/families/mariverain/"
+- name: "Mariverain"
+  url: "/tartans/m/ma/mariverain-2/"
 - name: "Mariverain"
   url: "/setts/db3b8db5r1db5b2y1b2r5db4y1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3b8db5r1db5b2y1b2r5db4y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBBGBRBG](/stripes/bbbrbbgbrbg/).
 
-Part of the [Mariverain](/tartans/m/ma/mariverain/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mariverain](/tartans/m/ma/mariverain-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

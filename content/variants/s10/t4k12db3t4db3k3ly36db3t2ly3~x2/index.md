@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Hughes"
   url: "/clan/hughes/"
 - name: "Hughes"
-  url: "/tartans/h/hu/hughes/"
+  url: "/families/hughes/"
+- name: "Hughes"
+  url: "/tartans/h/hu/hughes-4/"
 - name: "Hughes (USA) (Name)"
   url: "/setts/t4k12db3t4db3k3ly36db3t2ly3/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t4k12db3t4db3k3ly36db3t2ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBKYBBY](/stripes/bkbbbkybby/).
 
-Part of the [Hughes](/tartans/h/hu/hughes/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hughes](/tartans/h/hu/hughes-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

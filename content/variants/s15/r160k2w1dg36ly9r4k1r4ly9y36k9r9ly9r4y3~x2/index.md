@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan MacPherson"
   url: "/clan/macpherson/"
 - name: "MacPherson"
+  url: "/families/macpherson/"
+- name: "MacPherson"
   url: "/tartans/m/ma/macpherson-2/"
 - name: "MacPherson (Crubin Plaid)"
   url: "/setts/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/"

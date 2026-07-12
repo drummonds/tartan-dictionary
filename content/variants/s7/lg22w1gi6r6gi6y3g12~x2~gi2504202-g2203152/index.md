@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dalveen"
+  url: "/clan/dalveen/"
 - name: "Dalveen"
-  url: "/tartans/d/da/dalveen-2/"
+  url: "/families/dalveen/"
+- name: "Dalveen"
+  url: "/tartans/d/da/dalveen/"
 - name: "Dalveen (District)"
   url: "/setts/lg22w1gi6r6gi6y3g12/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lg22w1gi6r6gi6y3g12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGWY](/stripes/gggrgwy/).
 
-Part of the [Dalveen](/tartans/d/da/dalveen-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dalveen](/tartans/d/da/dalveen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

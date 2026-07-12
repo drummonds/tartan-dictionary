@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Orkney"
+  url: "/clan/orkney/"
 - name: "Orkney"
-  url: "/tartans/o/or/orkney-3/"
+  url: "/families/orkney/"
+- name: "Orkney"
+  url: "/tartans/o/or/orkney/"
 - name: "Orkney District Tartan"
   url: "/setts/o3g1lb6k1g6o4k1lo1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o3g1lb6k1g6o4k1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWKGRKY](/stripes/rgwkgrky/).
 
-Part of the [Orkney](/tartans/o/or/orkney-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Orkney](/tartans/o/or/orkney/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

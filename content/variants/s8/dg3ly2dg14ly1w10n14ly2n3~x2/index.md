@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bannockbane"
+  url: "/clan/bannockbane/"
+- name: "Bannockbane"
+  url: "/families/bannockbane/"
 - name: "Bannockbane Hunting"
   url: "/tartans/b/ba/bannockbane-hunting/"
 - name: "Bannockbane Hunting (MacBean and Bishop)"

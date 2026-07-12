@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGiboney"
+  url: "/clan/macgiboney/"
+- name: "MacGiboney"
+  url: "/families/macgiboney/"
 ---
+A tartan of the [MacGiboney](/families/macgiboney/) family.
 Its design is pattern [GWBWGWBWGW](/stripes/gwbwgwbwgw/) — the page of every tartan sharing this colour sequence.
 
 Designed 1999 by Greg McGibonney of Fremont, California; shown from his woven sample.

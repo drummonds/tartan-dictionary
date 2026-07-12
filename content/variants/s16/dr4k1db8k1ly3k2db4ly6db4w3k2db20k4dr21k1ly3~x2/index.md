@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Westmeath"
+  url: "/clan/westmeath/"
 - name: "Westmeath County Crest"
   url: "/tartans/w/we/westmeath-county-crest/"
 - name: "Westmeath County Crest (Fashion)"

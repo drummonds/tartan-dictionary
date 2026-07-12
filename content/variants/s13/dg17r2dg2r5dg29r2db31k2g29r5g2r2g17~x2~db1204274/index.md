@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Barbecue"
+  url: "/clan/barbecue/"
 - name: "Barbecue Presbyterian Church"
   url: "/tartans/b/ba/barbecue-presbyterian-church/"
 - name: "Barbecue Presbyterian Church"

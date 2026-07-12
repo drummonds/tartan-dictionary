@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kumikyoku"
+  url: "/clan/kumikyoku/"
+- name: "Kumikyoku"
+  url: "/families/kumikyoku/"
 - name: "Kumikyoku"
   url: "/tartans/k/ku/kumikyoku-2/"
 - name: "Kumikyoku - Tone of Forest"

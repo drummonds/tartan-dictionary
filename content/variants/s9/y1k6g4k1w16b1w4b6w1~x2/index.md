@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Henderson"
+  url: "/clan/henderson/"
+- name: "Henderson"
+  url: "/families/henderson/"
 - name: "Henderson Dress"
-  url: "/tartans/h/he/henderson-dress-3/"
+  url: "/tartans/h/he/henderson-dress-2/"
 - name: "Henderson Dress"
   url: "/setts/y1k6g4k1w16b1w4b6w1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y1k6g4k1w16b1w4b6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKWBWBW](/stripes/gkgkwbwbw/).
 
-Part of the [Henderson Dress](/tartans/h/he/henderson-dress-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Henderson Dress](/tartans/h/he/henderson-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

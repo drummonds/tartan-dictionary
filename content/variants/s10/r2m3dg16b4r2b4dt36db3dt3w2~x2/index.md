@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fitzgerald"
+  url: "/clan/fitzgerald/"
+- name: "Fitzgerald"
+  url: "/families/fitzgerald/"
 - name: "Fitzgerald Hunting"
-  url: "/tartans/f/fi/fitzgerald-hunting/"
+  url: "/tartans/f/fi/fitzgerald-hunting-2/"
 - name: "Fitzgerald Hunting"
   url: "/setts/r2m3dg16b4r2b4dt36db3dt3w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2m3dg16b4r2b4dt36db3dt3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRGBRBBBBW](/stripes/rrgbrbbbbw/).
 
-Part of the [Fitzgerald Hunting](/tartans/f/fi/fitzgerald-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fitzgerald Hunting](/tartans/f/fi/fitzgerald-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

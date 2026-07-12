@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Heddle"
+  url: "/clan/heddle/"
 - name: "Heddle"
-  url: "/tartans/h/he/heddle/"
+  url: "/families/heddle/"
+- name: "Heddle"
+  url: "/tartans/h/he/heddle-2/"
 - name: "Heddle"
   url: "/setts/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBBKBGBKBW](/stripes/bbkbbbkbgbkbw/).
 
-Part of the [Heddle](/tartans/h/he/heddle/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Heddle](/tartans/h/he/heddle-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

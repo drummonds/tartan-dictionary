@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacKerrell"
   url: "/clan/mackerrell/"
 - name: "MacKerrell"
-  url: "/tartans/m/ma/mackerrell-2/"
+  url: "/families/mackerrell/"
+- name: "MacKerrell"
+  url: "/tartans/m/ma/mackerrell/"
 - name: "MacKerrell"
   url: "/setts/r2db36lb36w3lb36db36y2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2db36lb36w3lb36db36y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWWWBR](/stripes/gbwwwbr/).
 
-Part of the [MacKerrell](/tartans/m/ma/mackerrell-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKerrell](/tartans/m/ma/mackerrell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

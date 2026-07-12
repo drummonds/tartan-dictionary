@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lemania"
+  url: "/clan/lemania/"
 - name: "Lemania"
-  url: "/tartans/l/le/lemania/"
+  url: "/families/lemania/"
+- name: "Lemania"
+  url: "/tartans/l/le/lemania-2/"
 - name: "Lemania"
   url: "/setts/g12db3g3db3g3k15lb20t3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g12db3g3db3g3k15lb20t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGBGBG](/stripes/bwkgbgbg/).
 
-Part of the [Lemania](/tartans/l/le/lemania/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lemania](/tartans/l/le/lemania-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

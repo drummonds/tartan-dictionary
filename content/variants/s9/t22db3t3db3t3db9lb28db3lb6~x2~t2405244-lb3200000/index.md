@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kildonan"
+  url: "/clan/kildonan/"
 - name: "Kildonan"
-  url: "/tartans/k/ki/kildonan-3/"
+  url: "/families/kildonan/"
+- name: "Kildonan"
+  url: "/tartans/k/ki/kildonan/"
 - name: "Kildonan Blue (Fashion)"
   url: "/setts/t22db3t3db3t3db9lb28db3lb6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t22db3t3db3t3db9lb28db3lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBWBW](/stripes/bbbbbbwbw/).
 
-Part of the [Kildonan](/tartans/k/ki/kildonan-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kildonan](/tartans/k/ki/kildonan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

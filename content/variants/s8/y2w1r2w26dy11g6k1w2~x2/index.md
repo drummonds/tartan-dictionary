@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Saskatchewan"
+  url: "/clan/saskatchewan/"
+- name: "Saskatchewan"
+  url: "/families/saskatchewan/"
 - name: "Saskatchewan Dress"
   url: "/tartans/s/sa/saskatchewan-dress/"
 - name: "Saskatchewan Dress (Dance)"

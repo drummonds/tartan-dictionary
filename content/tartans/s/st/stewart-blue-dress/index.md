@@ -6,8 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Stewart"
   url: "/clan/stewart/"
+- name: "Stewart"
+  url: "/families/stewart/"
 ---
-A tartan of [Clan Stewart](/clan/stewart/).
+A tartan of the [Stewart](/families/stewart/) family.
 Its design is pattern [WGGBWGBGGGW](/stripes/wggbwgbgggw/) — the page of every tartan sharing this colour sequence.
 
 Blue-based dress variant of Stewart, possibly originated at Peter MacArthur's in the 1970s.

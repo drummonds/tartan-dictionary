@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Hanna"
   url: "/clan/hanna/"
 - name: "Hanna"
+  url: "/families/hanna/"
+- name: "Hanna"
   url: "/tartans/h/ha/hanna-2/"
 - name: "Hanna"
   url: "/setts/k16w25db4w2db4w2db4w2db4w2db4w2db4/"

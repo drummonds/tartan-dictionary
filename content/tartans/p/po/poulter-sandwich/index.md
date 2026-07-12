@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
 ---
+A tartan of [Clan Poulter](/clan/poulter/).
 Its design is pattern [BBBBBBBWBBBBB](/stripes/bbbbbbbwbbbbb/) — the page of every tartan sharing this colour sequence.
 
 The **Poulter Sandwich** tartan groups 2 setts — the same named design recorded as different cloths

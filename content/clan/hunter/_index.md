@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><img src="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/sett.png" alt="Hunter of Bute (Personal)" width="240"><br>Hunter of Bute (Personal)</a>
+<a class="tartan" href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><img src="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/sett.png" alt="Hunter (USA)" width="240"><br>Hunter (USA)</a>
 
 ## Families
 
+- [Hunter](/families/hunter/)
 - [Hunter of Bute](/families/hunter-of-bute/)
 - [Hunter of Hunterston](/families/hunter-of-hunterston/)
 - [Hunter of Peebleshire](/families/hunter-of-peebleshire/)

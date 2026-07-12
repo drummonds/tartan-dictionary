@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Alexander"
   url: "/clan/alexander/"
 - name: "Alexander"
-  url: "/tartans/a/al/alexander/"
+  url: "/families/alexander/"
+- name: "Alexander"
+  url: "/tartans/a/al/alexander-3/"
 - name: "Alexander Brothers - 1993 (Corp.)"
   url: "/setts/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYKBYKBBYBBYKYB](/stripes/bbykbykbbybbykyb/).
 
-Part of the [Alexander](/tartans/a/al/alexander/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Alexander](/tartans/a/al/alexander-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan McCuaig"
+  url: "/clan/mccuaig/"
+- name: "McCuaig"
+  url: "/families/mccuaig/"
 - name: "McCuaig Hunting"
   url: "/tartans/m/mc/mccuaig-hunting/"
 - name: "McCuaig (Glenelg and the Western Isles) Hunting"

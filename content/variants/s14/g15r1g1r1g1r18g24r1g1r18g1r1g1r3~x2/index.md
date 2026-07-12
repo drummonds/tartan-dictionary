@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Robertson"
   url: "/clan/robertson/"
 - name: "Robertson"
-  url: "/tartans/r/ro/robertson-2/"
+  url: "/families/robertson/"
+- name: "Robertson"
+  url: "/tartans/r/ro/robertson-5/"
 - name: "Robertson - 1746 (Artefact)"
   url: "/setts/g15r1g1r1g1r18g24r1g1r18g1r1g1r3/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g15r1g1r1g1r18g24r1g1r18g1r1g1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/).
 
-Part of the [Robertson](/tartans/r/ro/robertson-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Robertson](/tartans/r/ro/robertson-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

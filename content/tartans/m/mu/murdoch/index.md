@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Murdoch"
+  url: "/clan/murdoch/"
+- name: "Murdoch"
+  url: "/families/murdoch/"
 ---
+A tartan of the [Murdoch](/families/murdoch/) family.
 Its design is pattern [GBBBBK](/stripes/gbbbbk/) — the page of every tartan sharing this colour sequence.
 
 The **Murdoch** tartan groups 2 setts — the same named design recorded as different cloths

@@ -10,5 +10,6 @@ date: 2023-03-18
 
 ## Families
 
+- [Chisholm](/families/chisholm/)
 - [Chisholm of Strathglass](/families/chisholm-of-strathglass/)
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Peeper"
+  url: "/clan/peeper/"
 - name: "Peeper"
-  url: "/tartans/p/pe/peeper-2/"
+  url: "/families/peeper/"
+- name: "Peeper"
+  url: "/tartans/p/pe/peeper/"
 - name: "Peeper"
   url: "/setts/o4g9y1ly1y1ly1y1ly1k1o8k1y1ly1y1ly1o6y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o4g9y1ly1y1ly1y1ly1k1o8k1y1ly1y1ly1o6y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGYGYGYKRKGYGYRGYGYGYGYGYGYGYGYGYGYGYGYGYGYGY](/stripes/rggygygykrkgygyrgygygygygygygygygygygygygygygy/).
 
-Part of the [Peeper](/tartans/p/pe/peeper-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Peeper](/tartans/p/pe/peeper/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [46 stripe tartan](/stripes/stripes46/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Barneys"
+  url: "/clan/barneys/"
 - name: "Barneys"
-  url: "/tartans/b/ba/barneys-2/"
+  url: "/families/barneys/"
+- name: "Barneys"
+  url: "/tartans/b/ba/barneys/"
 - name: "Barneys (Scunthorpe) (Personal)"
   url: "/setts/db25r10db25w8o6g8y5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db25r10db25w8o6g8y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWRGG](/stripes/brbwrgg/).
 
-Part of the [Barneys](/tartans/b/ba/barneys-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Barneys](/tartans/b/ba/barneys/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

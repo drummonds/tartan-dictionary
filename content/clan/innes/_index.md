@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/"><img src="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/sett.png" alt="Innes of Learney Hunting (Personal)" width="240"><br>Innes of Learney Hunting (Personal)</a>
+<a class="tartan" href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><img src="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/sett.png" alt="Innes (D C Stewart)" width="240"><br>Innes (D C Stewart)</a>
 
 ## Families
 
+- [Innes](/families/innes/)
 - [Innes of Learney](/families/innes-of-learney/)
 - [Innes, of Cowie](/families/innes-of-cowie/)
 

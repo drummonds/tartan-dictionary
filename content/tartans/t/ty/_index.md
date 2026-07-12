@@ -5,7 +5,7 @@ date: 2023-03-18
 14 tartans beginning with Ty, each with the number of setts it groups. Back to [T](/tartans/t/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/t/ty/tyndrum/"><img src="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/sett.png" alt="Tyndrum" width="140"><br><strong>Tyndrum (3)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/ty/tyndrum/"><img src="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/sett.png" alt="Tyndrum" width="140"><br><strong>Tyndrum (3)</strong></a><div class="clan-territory">Tyndrum</div></li>
 <li><a class="tartan" href="/tartans/t/ty/tyneside/"><img src="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/sett.png" alt="Tyneside" width="140"><br><strong>Tyneside (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ty/tyneside-blue-north-tyneside-pipe-band/"><img src="/variants/s7/db62k22w3k2w2k3r1~x2/sett.png" alt="Tyneside Blue, North Tyneside Pipe Band" width="140"><br><strong>Tyneside Blue, North Tyneside Pipe Band (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/ty/tyneside-scottish/"><img src="/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/sett.png" alt="Tyneside Scottish" width="140"><br><strong>Tyneside Scottish (1)</strong></a></li>

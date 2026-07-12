@@ -4,19 +4,33 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dunbarton"
+  url: "/clan/dunbarton/"
+- name: "Dunbarton"
+  url: "/families/dunbarton/"
 ---
-Its design is pattern [YKYGYGYKYRY](/stripes/ykygygykyry/) — the page of every tartan sharing this colour sequence.
+A tartan of the [Dunbarton](/families/dunbarton/) family.
+Its design is pattern [GKGRGRGKGRG](/stripes/gkgrgrgkgrg/) — the page of every tartan sharing this colour sequence.
 
-The **Dunbarton** tartan groups 2 setts — the same named design recorded as different cloths
-(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+The **Dunbarton** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly30r2ly2k5ly3y2ly3y22ly3k2ly3/">Dunbarton</a> ★</td><td><code>LY/60 R4 LY4 K10 LY6 Y4 LY6 Y44 LY6 K4 LY/6</code></td><td>—</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly30r2ly2k5ly3y2ly3y22ly3k2ly3/"><img src="/variants/s11/ly30r2ly2k5ly3y2ly3y22ly3k2ly3~x2~ly3307090-y2203076/sett.png" alt="Dunbarton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y30r2y2k5y3dy2y3dy22y3k2y3/">Trade Tartan</a></td><td><code>Y/60 R4 Y4 K10 Y6 DY4 Y6 DY44 Y6 K4 Y/6</code></td><td>242</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y30r2y2k5y3dy2y3dy22y3k2y3/"><img src="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/sett.png" alt="Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/y30r2y2k5y3o2y3o22y3k2y3/">Dunbarton</a></td><td><code>Y/60 R4 Y4 K10 Y6 O4 Y6 O44 Y6 K4 Y/6</code></td><td>242</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/y30r2y2k5y3o2y3o22y3k2y3/"><img src="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/sett.png" alt="Dunbarton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
+
+## Nearest tartans
+
+The nearest NAMED TARTANS — each represented by its master sett — by ΔTartan distance from this tartan's master, which leads the table so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">242</div><div class="nn-name nn-base"><a href="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/">Dunbarton</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr4y34do20y4do8y6r2y5do2y3dr4&amp;base=y30r2y2k5y3o2y3o22y3k2y3~x2" title="compare in the TTD">3.19</a></div><div class="nn-threads nn-far2">176</div><div class="nn-name nn-far2"><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/">Morgan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 10225 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="424.3" cy="187.1" r="4" fill="#3465a4"><title>Morgan</title></circle></a><circle cx="390.2" cy="161.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

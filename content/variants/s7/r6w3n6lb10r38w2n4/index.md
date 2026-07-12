@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Washington"
+  url: "/clan/washington/"
 - name: "Washington State University Cougar"
   url: "/tartans/w/wa/washington-state-university-cougar/"
 - name: "Washington State University Cougar"

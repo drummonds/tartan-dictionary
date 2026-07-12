@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lochaber"
+  url: "/clan/lochaber/"
 - name: "Lochaber Old"
   url: "/tartans/l/lo/lochaber-old/"
 - name: "Lochaber Old.. District Tartan"

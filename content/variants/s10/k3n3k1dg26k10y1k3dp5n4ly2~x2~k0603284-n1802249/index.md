@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rikaco"
+  url: "/clan/rikaco/"
 - name: "Rikaco Heirloom"
-  url: "/tartans/r/ri/rikaco-heirloom-2/"
+  url: "/tartans/r/ri/rikaco-heirloom/"
 - name: "Rikaco Heirloom"
   url: "/setts/k3n3k1dg26k10y1k3dp5n4ly2/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3n3k1dg26k10y1k3dp5n4ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGKGKBBY](/stripes/kbkgkgkbby/).
 
-Part of the [Rikaco Heirloom](/tartans/r/ri/rikaco-heirloom-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rikaco Heirloom](/tartans/r/ri/rikaco-heirloom/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

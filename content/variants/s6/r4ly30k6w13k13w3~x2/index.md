@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Thomson"
+  url: "/clan/thomson/"
 - name: "Thomson Camel"
-  url: "/tartans/t/th/thomson-camel/"
+  url: "/tartans/t/th/thomson-camel-2/"
 - name: "Thomson, Camel (Fashion)"
   url: "/setts/r4ly30k6w13k13w3/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4ly30k6w13k13w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYKWKW](/stripes/rykwkw/).
 
-Part of the [Thomson Camel](/tartans/t/th/thomson-camel/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Thomson Camel](/tartans/t/th/thomson-camel-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

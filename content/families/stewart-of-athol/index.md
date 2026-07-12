@@ -8,13 +8,6 @@ A family of [Clan Stewart](/clan/stewart/).
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/g22k1g2k1g3k8r20k1r6/">Stewart of Athol</a></td><td><code>G/44 K2 G4 K2 G6 K16 R40 K2 R/12</code></td><td>200</td><td>~1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g22k1g2k1g3k8r20k1r6/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Stewart of Athol tartan and all its setts →](/tartans/s/st/stewart-of-athol/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/s/st/stewart-of-athol/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Athol" width="140"><br><strong>Stewart of Athol (1)</strong></a></li>
+</ul>

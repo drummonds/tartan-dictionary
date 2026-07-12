@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Aberdeen"
+  url: "/clan/aberdeen/"
 - name: "Aberdeen"
-  url: "/tartans/a/ab/aberdeen-4/"
+  url: "/families/aberdeen/"
+- name: "Aberdeen"
+  url: "/tartans/a/ab/aberdeen-3/"
 - name: "Aberdeen District Tartan"
   url: "/setts/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1ri4k16w2r23ri3w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1ri4k16w2r23ri3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWRKWRRW](/stripes/wgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwrkwrrw/).
 
-Part of the [Aberdeen](/tartans/a/ab/aberdeen-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Aberdeen](/tartans/a/ab/aberdeen-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [44 stripe tartan](/stripes/stripes44/).
 

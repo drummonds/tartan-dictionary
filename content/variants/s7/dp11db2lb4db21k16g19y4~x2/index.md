@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ayrshire"
+  url: "/clan/ayrshire/"
+- name: "Ayrshire"
+  url: "/families/ayrshire/"
 - name: "Ayrshire"
   url: "/tartans/a/ay/ayrshire-2/"
 - name: "Ayrshire (International Tartans)"

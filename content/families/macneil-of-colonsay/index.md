@@ -6,18 +6,9 @@ A family of [Clan MacNeil](/clan/macneil/).
 
 **Trove of Scotland:** [search “Colonsay”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Colonsay&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/db4g6w1g6k6db6k2/">MacNeil of Colonsay</a> ★</td><td><code>DB/8 G12 W2 G12 K12 DB12 K/4</code></td><td>112</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db4g6w1g6k6db6k2/"><img src="/variants/s7/db4g6w1g6k6db6k2~x2/sett.png" alt="MacNeil of Colonsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/db4g6w1g6k6db6k2~x2/">MacNeil of Colonsay</a> · <a href="/variants/s7/db4g6w1g6k6db6k2~x4/">MacNeil of Colonsay</a></td></tr>
-<tr><td><a href="/setts/db16g14w2g14k13db12k4/">(Clan)</a></td><td><code>DB/32 G28 W4 G28 K26 DB24 K/8</code></td><td>260</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db16g14w2g14k13db12k4/"><img src="/variants/s7/db16g14w2g14k13db12k4~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the MacNeil of Colonsay tartan and all its setts →](/tartans/m/ma/macneil-of-colonsay/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/m/ma/macneil-of-colonsay/"><img src="/variants/s7/db4g6w1g6k6db6k2~x2/sett.png" alt="MacNeil of Colonsay" width="140"><br><strong>MacNeil of Colonsay (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macneil-of-colonsay-2/"><img src="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/sett.png" alt="MacNeil of Colonsay" width="140"><br><strong>MacNeil of Colonsay (2)</strong></a></li>
+</ul>

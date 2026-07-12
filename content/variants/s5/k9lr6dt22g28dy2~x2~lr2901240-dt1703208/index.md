@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wellington"
+  url: "/clan/wellington/"
+- name: "Wellington"
+  url: "/families/wellington/"
 - name: "Wellington"
   url: "/tartans/w/we/wellington-2/"
 - name: "Wellington (Lochcarron)"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Roxburgh"
+  url: "/clan/roxburgh/"
 - name: "Roxburgh"
-  url: "/tartans/r/ro/roxburgh/"
+  url: "/families/roxburgh/"
+- name: "Roxburgh"
+  url: "/tartans/r/ro/roxburgh-2/"
 - name: "Roxburgh"
   url: "/setts/db16w1db1w1db8g16r1db2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16w1db1w1db8g16r1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBWBWB](/stripes/brgbwbwb/).
 
-Part of the [Roxburgh](/tartans/r/ro/roxburgh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Roxburgh](/tartans/r/ro/roxburgh-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

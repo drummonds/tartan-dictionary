@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bracken"
+  url: "/clan/bracken/"
 - name: "Bracken"
-  url: "/tartans/b/br/bracken-2/"
+  url: "/families/bracken/"
+- name: "Bracken"
+  url: "/tartans/b/br/bracken/"
 - name: "Bracken"
   url: "/setts/y20db27r6db15y8db11y78dbi10r12/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y20db27r6db15y8db11y78dbi10r12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGBGBR](/stripes/gbrbgbgbr/).
 
-Part of the [Bracken](/tartans/b/br/bracken-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bracken](/tartans/b/br/bracken/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

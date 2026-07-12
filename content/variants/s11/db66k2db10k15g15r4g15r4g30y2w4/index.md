@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mulcahy"
+  url: "/clan/mulcahy/"
 - name: "Mulcahy"
-  url: "/tartans/m/mu/mulcahy/"
+  url: "/families/mulcahy/"
+- name: "Mulcahy"
+  url: "/tartans/m/mu/mulcahy-2/"
 - name: "Mulcahy"
   url: "/setts/db66k2db10k15g15r4g15r4g30y2w4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db66k2db10k15g15r4g15r4g30y2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGRGRGGW](/stripes/bkbkgrgrggw/).
 
-Part of the [Mulcahy](/tartans/m/mu/mulcahy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mulcahy](/tartans/m/mu/mulcahy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

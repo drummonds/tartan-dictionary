@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Culloden"
+  url: "/clan/culloden/"
 - name: "Culloden"
-  url: "/tartans/c/cu/culloden-6/"
+  url: "/families/culloden/"
+- name: "Culloden"
+  url: "/tartans/c/cu/culloden/"
 - name: "Culloden (Old and Rare) District Tartan"
   url: "/setts/r5lb2o14w2k13dy13k2y3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5lb2o14w2k13dy13k2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKWRWR](/stripes/gkgkwrwr/).
 
-Part of the [Culloden](/tartans/c/cu/culloden-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Culloden](/tartans/c/cu/culloden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

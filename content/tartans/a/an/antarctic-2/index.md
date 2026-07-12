@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Antarctic"
+  url: "/clan/antarctic/"
+- name: "Antarctic"
+  url: "/families/antarctic/"
 ---
+A tartan of the [Antarctic](/families/antarctic/) family.
 Its design is pattern [WRWWKBRWWWWW](/stripes/wrwwkbrwwwww/) — the page of every tartan sharing this colour sequence.
 
 The **Antarctic** tartan is recorded as a single sett.

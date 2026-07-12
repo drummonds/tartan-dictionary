@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cornish"
+  url: "/clan/cornish/"
+- name: "Cornish"
+  url: "/families/cornish/"
 - name: "Cornish Hunting"
-  url: "/tartans/c/co/cornish-hunting/"
+  url: "/tartans/c/co/cornish-hunting-2/"
 - name: "Cornish, hunting"
   url: "/setts/w5k26y2dg24ki7k3r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w5k26y2dg24ki7k3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKKGGKW](/stripes/rkkggkw/).
 
-Part of the [Cornish Hunting](/tartans/c/co/cornish-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cornish Hunting](/tartans/c/co/cornish-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

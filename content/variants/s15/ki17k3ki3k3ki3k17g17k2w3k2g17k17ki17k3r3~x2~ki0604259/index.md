@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cumbernauld"
+  url: "/clan/cumbernauld/"
 - name: "Cumbernauld"
-  url: "/tartans/c/cu/cumbernauld-2/"
+  url: "/families/cumbernauld/"
+- name: "Cumbernauld"
+  url: "/tartans/c/cu/cumbernauld/"
 - name: "Cumbernauld"
   url: "/setts/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKKKKGKWKGKKKR](/stripes/kkkkkkgkwkgkkkr/).
 
-Part of the [Cumbernauld](/tartans/c/cu/cumbernauld-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cumbernauld](/tartans/c/cu/cumbernauld/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

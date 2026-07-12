@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ontario"
+  url: "/clan/ontario/"
 - name: "Ontario"
-  url: "/tartans/o/on/ontario/"
+  url: "/families/ontario/"
+- name: "Ontario"
+  url: "/tartans/o/on/ontario-2/"
 - name: "Ontario (Official)"
   url: "/setts/g19r1g2r2g15r1dt13w1db2r2db21r1w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g19r1g2r2g15r1dt13w1db2r2db21r1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRBWBRBRW](/stripes/grgrgrbwbrbrw/).
 
-Part of the [Ontario](/tartans/o/on/ontario/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ontario](/tartans/o/on/ontario-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ailsa"
+  url: "/clan/ailsa/"
 - name: "Ailsa Royal"
   url: "/tartans/a/ai/ailsa-royal/"
 - name: "Ailsa, Royal Blue (Dance)"

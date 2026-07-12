@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Universal"
+  url: "/clan/universal/"
 - name: "Universal"
-  url: "/tartans/u/un/universal-2/"
+  url: "/families/universal/"
+- name: "Universal"
+  url: "/tartans/u/un/universal/"
 - name: "Universal, Ancient"
   url: "/setts/lb12g2lb2g2lb2o8b8o1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb12g2lb2g2lb2o8b8o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRWGWGW](/stripes/rbrwgwgw/).
 
-Part of the [Universal](/tartans/u/un/universal-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Universal](/tartans/u/un/universal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

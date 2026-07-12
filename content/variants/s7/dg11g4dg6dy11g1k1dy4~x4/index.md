@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Calais"
+  url: "/clan/calais/"
+- name: "Calais"
+  url: "/families/calais/"
 - name: "Calais"
   url: "/tartans/c/ca/calais/"
 - name: "Calais (Fashion)"

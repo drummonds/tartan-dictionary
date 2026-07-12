@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Braddock"
+  url: "/clan/braddock/"
 - name: "Braddock"
-  url: "/tartans/b/br/braddock/"
+  url: "/families/braddock/"
+- name: "Braddock"
+  url: "/tartans/b/br/braddock-2/"
 - name: "Braddock Family (Personal)"
   url: "/setts/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGRGKGWKWGKGRGKBKW](/stripes/kbkgrgkgwkwgkgrgkbkw/).
 
-Part of the [Braddock](/tartans/b/br/braddock/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Braddock](/tartans/b/br/braddock-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

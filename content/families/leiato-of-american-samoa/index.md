@@ -6,15 +6,9 @@ date: 2023-03-18
 
 **Trove of Scotland:** [search “American Samoa”](https://www.trove.scot/search?page_type=Designations+Decisions&q=American+Samoa&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/o45k5o28k5oi5w2do6/">Leiato of American Samoa</a></td><td><code>O/90 K10 O56 K10 Oi10 W4 DO/12</code></td><td>282</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/o45k5o28k5oi5w2do6/"><img src="/variants/s7/o45k5o28k5oi5w2do6~x2~o2005046-oi2007033/sett.png" alt="Leiato of American Samoa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Leiato of American Samoa tartan and all its setts →](/tartans/l/le/leiato-of-american-samoa/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/l/le/leiato-of-american-samoa/"><img src="/variants/s7/o45k5o28k5oi5w2do6~x2~o2005046-oi2007033/sett.png" alt="Leiato of American Samoa" width="140"><br><strong>Leiato of American Samoa (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/l/le/leiato-of-american-samoa-2/"><img src="/variants/s7/dy45k5dy28k5o5w2do6~x2/sett.png" alt="Leiato of American Samoa" width="140"><br><strong>Leiato of American Samoa (1)</strong></a></li>
+</ul>

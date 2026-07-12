@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Moffat"
+  url: "/clan/moffat/"
 - name: "Moffat"
-  url: "/tartans/m/mo/moffat-3/"
+  url: "/families/moffat/"
+- name: "Moffat"
+  url: "/tartans/m/mo/moffat/"
 - name: "Moffat (1994)"
   url: "/setts/dp4g3k1g3dp2g20k10dr20dp2k2lo4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp4g3k1g3dp2g20k10dr20dp2k2lo4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGBGKBBKY](/stripes/bgkgbgkbbky/).
 
-Part of the [Moffat](/tartans/m/mo/moffat-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Moffat](/tartans/m/mo/moffat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

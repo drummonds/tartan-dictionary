@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Banff"
+  url: "/clan/banff/"
 ---
+A tartan of [Clan Banff](/clan/banff/).
 Its design is pattern [BWBBWBWG](/stripes/bwbbwbwg/) — the page of every tartan sharing this colour sequence.
 
 The **Banff and Buchan** tartan is recorded as a single sett.

@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Clark"
   url: "/clan/clark/"
 - name: "Clark"
-  url: "/tartans/c/cl/clark/"
+  url: "/families/clark/"
+- name: "Clark"
+  url: "/tartans/c/cl/clark-3/"
 - name: "Clark (Crook)"
   url: "/setts/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWKWKWWWKW](/stripes/kwwkwkwwwkw/).
 
-Part of the [Clark](/tartans/c/cl/clark/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clark](/tartans/c/cl/clark-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

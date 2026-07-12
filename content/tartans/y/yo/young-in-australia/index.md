@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Young"
+  url: "/clan/young/"
 ---
+A tartan of [Clan Young](/clan/young/).
 Its design is pattern [GYGY](/stripes/gygy/) — the page of every tartan sharing this colour sequence.
 
 The **Young in Australia** tartan is recorded as a single sett.

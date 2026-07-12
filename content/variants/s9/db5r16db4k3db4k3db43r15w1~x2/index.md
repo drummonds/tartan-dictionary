@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Falkirk"
+  url: "/clan/falkirk/"
 - name: "Falkirk Football Club"
   url: "/tartans/f/fa/falkirk-football-club/"
 - name: "Falkirk Football Club (Corporate)"

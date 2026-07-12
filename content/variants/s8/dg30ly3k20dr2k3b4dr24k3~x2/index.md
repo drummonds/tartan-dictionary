@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Waterford"
+  url: "/clan/waterford/"
 - name: "Waterford"
-  url: "/tartans/w/wa/waterford/"
+  url: "/families/waterford/"
+- name: "Waterford"
+  url: "/tartans/w/wa/waterford-2/"
 - name: "Waterford"
   url: "/setts/dg30ly3k20dr2k3b4dr24k3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg30ly3k20dr2k3b4dr24k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYKBKBBK](/stripes/gykbkbbk/).
 
-Part of the [Waterford](/tartans/w/wa/waterford/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Waterford](/tartans/w/wa/waterford-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

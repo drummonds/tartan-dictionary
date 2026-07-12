@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Romsdal"
+  url: "/clan/romsdal/"
 - name: "Romsdal Tresfjord"
   url: "/tartans/r/ro/romsdal-tresfjord/"
 - name: "Romsdal, Tresfjord"

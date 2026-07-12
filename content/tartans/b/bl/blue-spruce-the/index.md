@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Blue"
+  url: "/clan/blue/"
 ---
+A tartan of [Clan Blue](/clan/blue/).
 Its design is pattern [BWWWBBBWGW](/stripes/bwwwbbbwgw/) — the page of every tartan sharing this colour sequence.
 
 The **Blue Spruce, The** tartan is recorded as a single sett.

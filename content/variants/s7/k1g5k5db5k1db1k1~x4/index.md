@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Strathspey"
+  url: "/clan/strathspey/"
 - name: "Strathspey"
-  url: "/tartans/s/st/strathspey/"
+  url: "/families/strathspey/"
+- name: "Strathspey"
+  url: "/tartans/s/st/strathspey-3/"
 - name: "Strathspey District Tartan"
   url: "/setts/k1g5k5db5k1db1k1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1g5k5db5k1db1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKGK](/stripes/kbkbkgk/).
 
-Part of the [Strathspey](/tartans/s/st/strathspey/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathspey](/tartans/s/st/strathspey-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

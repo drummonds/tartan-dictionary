@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Manitoba"
+  url: "/clan/manitoba/"
+- name: "Manitoba"
+  url: "/families/manitoba/"
 - name: "Manitoba Dress"
-  url: "/tartans/m/ma/manitoba-dress/"
+  url: "/tartans/m/ma/manitoba-dress-2/"
 - name: "Manitoba Dress (1958) (District)"
   url: "/setts/db4w1db2w18g3w1r9y4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4w1db2w18g3w1r9y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGWRG](/stripes/bwbwgwrg/).
 
-Part of the [Manitoba Dress](/tartans/m/ma/manitoba-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Manitoba Dress](/tartans/m/ma/manitoba-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

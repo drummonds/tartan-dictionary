@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sarna"
+  url: "/clan/sarna/"
+- name: "Sarna"
+  url: "/families/sarna/"
 ---
+A tartan of the [Sarna](/families/sarna/) family.
 Its design is pattern [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/) — the page of every tartan sharing this colour sequence.
 
 The **Sarna** tartan is recorded as a single sett.

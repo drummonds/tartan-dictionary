@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Coats"
+  url: "/clan/coats/"
+- name: "Coats"
+  url: "/families/coats/"
 ---
+A tartan of the [Coats](/families/coats/) family.
 Its design is pattern [KYBBRBGBW](/stripes/kybbrbgbw/) — the page of every tartan sharing this colour sequence.
 
 The **Coats** tartan groups 2 setts — the same named design recorded as different cloths

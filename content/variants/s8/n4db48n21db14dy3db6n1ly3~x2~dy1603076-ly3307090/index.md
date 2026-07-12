@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Munster"
+  url: "/clan/munster/"
 - name: "Munster Ancestry"
   url: "/tartans/m/mu/munster-ancestry/"
 - name: "Munster Ancestry (Fashion)"

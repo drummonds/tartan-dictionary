@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Seller"
+  url: "/clan/seller/"
+- name: "Seller"
+  url: "/families/seller/"
 - name: "Seller Dress"
-  url: "/tartans/s/se/seller-dress/"
+  url: "/tartans/s/se/seller-dress-2/"
 - name: "Seller, Reproduction Dress"
   url: "/setts/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGWGWGRWRWRWRGWGWGWKW](/stripes/kwgwgwgrwrwrwrgwgwgwkw/).
 
-Part of the [Seller Dress](/tartans/s/se/seller-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Seller Dress](/tartans/s/se/seller-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Highland"
+  url: "/clan/highland/"
 ---
+A tartan of [Clan Highland](/clan/highland/).
 Its design is pattern [BGBBBBBBBBBBBBGBBBBBBBBBBBBG](/stripes/bgbbbbbbbbbbbbgbbbbbbbbbbbbg/) — the page of every tartan sharing this colour sequence.
 
 The **Highland Cathedral** tartan is recorded as a single sett.

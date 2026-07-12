@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Commonwealth"
+  url: "/clan/commonwealth/"
 - name: "Commonwealth Games 1986 Special Event"
   url: "/tartans/c/co/commonwealth-games-1986-special-event/"
 - name: "Commonwealth Games 1986 Special Event Tartan"

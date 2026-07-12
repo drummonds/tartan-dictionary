@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Amnesty"
+  url: "/clan/amnesty/"
 - name: "Amnesty International"
   url: "/tartans/a/am/amnesty-international/"
 - name: "Amnesty International Corporate Tartan"

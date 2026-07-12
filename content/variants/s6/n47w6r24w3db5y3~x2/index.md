@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Duminiak"
+  url: "/clan/duminiak/"
+- name: "Duminiak"
+  url: "/families/duminiak/"
 - name: "Duminiak"
   url: "/tartans/d/du/duminiak/"
 - name: "Duminiak (Trevose, Pennsylvania)"

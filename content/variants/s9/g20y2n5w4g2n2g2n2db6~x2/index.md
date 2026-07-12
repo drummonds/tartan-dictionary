@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Boucherville"
+  url: "/clan/boucherville/"
+- name: "Boucherville"
+  url: "/families/boucherville/"
 - name: "Boucherville"
   url: "/tartans/b/bo/boucherville/"
 - name: "Boucherville (Tartan de..) District Tartan"

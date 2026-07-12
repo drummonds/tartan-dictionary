@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Arran"
+  url: "/clan/arran/"
 ---
+A tartan of [Clan Arran](/clan/arran/).
 Its design is pattern [GKWBKGBBRWG](/stripes/gkwbkgbbrwg/) — the page of every tartan sharing this colour sequence.
 
 The **Arran Mist** tartan is recorded as a single sett.

@@ -6,7 +6,7 @@ This is the **Dunbar Plaid** sett — one scale-free proportion (`w24k4w4k4w4k20
 [KWKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW](/stripes/kwkrkrkrkrkrkrkrkrkrkrkrkrkwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Dunbar](/tartans/d/du/dunbar-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunbar](/tartans/d/du/dunbar-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

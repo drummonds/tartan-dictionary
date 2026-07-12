@@ -6,38 +6,19 @@ crumbs:
   url: "/"
 - name: "Clan MacTavish"
   url: "/clan/mactavish/"
+- name: "MacTavish"
+  url: "/families/mactavish/"
 ---
-A tartan of [Clan MacTavish](/clan/mactavish/).
-Its design is pattern [GKWKWR](/stripes/gkwkwr/) — the page of every tartan sharing this colour sequence.
-
-Designed 1958 by Bain and Bottomley of MacArthurs for Lord Thomson of Fleet, from a mid-19th-century Moy Hall sample.
+A tartan of the [MacTavish](/families/mactavish/) family.
+Its design is pattern [BBKWKY](/stripes/bbkwky/) — the page of every tartan sharing this colour sequence.
 
 The **MacTavish Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4lb28k6w12k12y3/">MacTavish Dress</a></td><td><code>R/8 LB56 K12 W24 K24 Y/6</code></td><td>246</td><td>1958</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4lb28k6w12k12y3/"><img src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="MacTavish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dr4t28k6lb12k12lo3/">MacTavish Dress</a></td><td><code>DR/8 T56 K12 LB24 K24 LO/6</code></td><td>—</td><td>1850</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr4t28k6lb12k12lo3/"><img src="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/sett.png" alt="MacTavish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
-
-## Also known as
-
-This tartan is also recorded under:
-
-- MacTavish / Thomson, dress
-- Thomson Dress
-
-## Nearest tartans
-
-The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
-
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">246</div><div class="nn-name nn-base"><a href="/variants/s6/r4lb28k6w12k12y3~x2/">MacTavish Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1t10k2w4k4y1~x6&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">0.25</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s6/r1t10k2w4k4y1~x6/">Thomson Dress (Blue)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1t10k2w4k4y1~x6/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr4t28k6lr12k12lo3~x2~t2503227-lr3200000&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">0.43</a></div><div class="nn-threads">246</div><div class="nn-name"><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/">MacTavish Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w5k26ly26lb7k3r3~x2&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">1.57</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s6/w5k26ly26lb7k3r3~x2/">Cornish National (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w5k26ly26lb7k3r3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr24lb4k4g4w13k2~x4&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">1.58</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s6/dr24lb4k4g4w13k2~x4/">Rose White Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr24lb4k4g4w13k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w5k26ly4lb24dp8k3r4~x2&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">1.64</a></div><div class="nn-threads">278</div><div class="nn-name"><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/">Pengelly, The Cornish</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w5k26ly4lb24dp8k3r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db15r6g8k2w2k2~x6&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">1.88</a></div><div class="nn-threads">318</div><div class="nn-name"><a href="/variants/s6/db15r6g8k2w2k2~x6/">Stovell (2015)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db15r6g8k2w2k2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k11lb38r11g11k5~x2&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">1.89</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s5/k11lb38r11g11k5~x2/">All as One (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k11lb38r11g11k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2w12lb1k12b12k1~x2&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">1.91</a></div><div class="nn-threads">154</div><div class="nn-name"><a href="/variants/s6/r2w12lb1k12b12k1~x2/">Dutch, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2w12lb1k12b12k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1w7lo7db16y1~x4&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">1.98</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s5/k1w7lo7db16y1~x4/">Prehospital EMS (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1w7lo7db16y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1w7lo7db16dy1~x4&amp;base=r4lb28k6w12k12y3~x2" title="compare in the TTD">1.98</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s5/k1w7lo7db16dy1~x4/">Prehospital EMS Tartan (USA)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1w7lo7db16dy1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
-
-## Neighbour map
-
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
-
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.7" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.9" cy="187.1" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><circle cx="139.3" cy="172.3" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.9" cy="158.3" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="100.7" cy="152.2" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.4" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="183.3" cy="205.8" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="106.8" cy="170.4" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.0" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.8" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><circle cx="136.7" cy="179.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

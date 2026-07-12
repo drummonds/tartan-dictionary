@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Edinburgh"
+  url: "/clan/edinburgh/"
 - name: "Edinburgh Int.Conf. Centre"
   url: "/tartans/e/ed/edinburgh-int-conf-centre/"
 - name: "Edinburgh International Conference Centre, The"

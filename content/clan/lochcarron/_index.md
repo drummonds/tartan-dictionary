@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s14/db2dg6dp1dg1dp1dg1db2k2db1k2db9g1db2g1~x4~dg1806142-g2506142/"><img src="/variants/s14/db2dg6dp1dg1dp1dg1db2k2db1k2db9g1db2g1~x4~dg1806142-g2506142/sett.png" alt="Lochcarron of Scotland" width="240"><br>Lochcarron of Scotland</a>
+<a class="tartan" href="/variants/s5/db12lb1k2db1r1~x8/"><img src="/variants/s5/db12lb1k2db1r1~x8/sett.png" alt="Lochcarron (1985)" width="240"><br>Lochcarron (1985)</a>
 
 ## Families
 
+- [Lochcarron](/families/lochcarron/)
 - [Lochcarron of Scotland](/families/lochcarron-of-scotland/)
 - [Lochcarron of Scotland Diamond Jubilee](/families/lochcarron-of-scotland-diamond-jubilee/)
 

@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s7/dbi8r11g5db3y3w5k3~x2~dbi1406275-db1004274/"><img src="/variants/s7/dbi8r11g5db3y3w5k3~x2~dbi1406275-db1004274/sett.png" alt="Nicolson of Assynt &amp; Coigach" width="240"><br>Nicolson of Assynt & Coigach</a>
+<a class="tartan" href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/"><img src="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/sett.png" alt="Nicolson Green Hunting" width="240"><br>Nicolson Green Hunting</a>
 
 ## Families
 
+- [Nicolson](/families/nicolson/)
 - [Nicolson of Assynt & Coigach](/families/nicolson-of-assynt-coigach/)
 - [Nicolson of Harris](/families/nicolson-of-harris/)
 - [Nicolson of Lewis](/families/nicolson-of-lewis/)

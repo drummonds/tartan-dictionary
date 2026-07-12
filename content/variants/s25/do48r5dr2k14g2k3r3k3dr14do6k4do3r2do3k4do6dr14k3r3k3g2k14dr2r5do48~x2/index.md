@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Berwick"
+  url: "/clan/berwick/"
 - name: "Berwick, Orange"
   url: "/tartans/b/be/berwick-orange/"
 - name: "Berwick, Orange (Fashion)"

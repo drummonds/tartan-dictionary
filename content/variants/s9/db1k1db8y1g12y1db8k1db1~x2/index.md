@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rowan"
+  url: "/clan/rowan/"
 - name: "Rowan"
-  url: "/tartans/r/ro/rowan-2/"
+  url: "/families/rowan/"
+- name: "Rowan"
+  url: "/tartans/r/ro/rowan/"
 - name: "Rowan Family Tartan"
   url: "/setts/db1k1db8y1g12y1db8k1db1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1k1db8y1g12y1db8k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGGGBKB](/stripes/bkbgggbkb/).
 
-Part of the [Rowan](/tartans/r/ro/rowan-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rowan](/tartans/r/ro/rowan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

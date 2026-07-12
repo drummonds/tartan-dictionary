@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sarasota"
+  url: "/clan/sarasota/"
+- name: "Sarasota"
+  url: "/families/sarasota/"
 ---
+A tartan of the [Sarasota](/families/sarasota/) family.
 Its design is pattern [GGGBGBKBWBKBGBGGGR](/stripes/gggbgbkbwbkbgbgggr/) — the page of every tartan sharing this colour sequence.
 
 Commemorates the twinning of Dunfermline, Scotland with Sarasota, Florida; created for Robert Nicol.

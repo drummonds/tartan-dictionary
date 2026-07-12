@@ -11,8 +11,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/ne/nery/"><img src="/variants/s7/y6g28r4k20r3db45k5~x2/sett.png" alt="Nery" width="140"><br><strong>Nery (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/nesbit-rose/"><img src="/variants/s6/r6w3r37k16w16g4~x2/sett.png" alt="Nesbit, Rose" width="140"><br><strong>Nesbit, Rose (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/nethybridge/"><img src="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/sett.png" alt="Nethybridge" width="140"><br><strong>Nethybridge (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/neumann/"><img src="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/sett.png" alt="Neumann" width="140"><br><strong>Neumann (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/neumann-2/"><img src="/variants/s13/k2r3y1k2y1db16y1g32y1k2y1r1k1~x2/sett.png" alt="Neumann" width="140"><br><strong>Neumann (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/neumann/"><img src="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/sett.png" alt="Neumann" width="140"><br><strong>Neumann (1)</strong></a><div class="clan-territory">Neumann</div></li>
+<li><a class="tartan" href="/tartans/n/ne/neumann-2/"><img src="/variants/s13/k2r3y1k2y1db16y1g32y1k2y1r1k1~x2/sett.png" alt="Neumann" width="140"><br><strong>Neumann (1)</strong></a><div class="clan-territory">Neumann</div></li>
 <li><a class="tartan" href="/tartans/n/ne/nevada-state/"><img src="/variants/s9/db32r4db4dy4db9lr9db4lr16w7~x2/sett.png" alt="Nevada State" width="140"><br><strong>Nevada State (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/nevada-state-2/"><img src="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/sett.png" alt="Nevada State" width="140"><br><strong>Nevada State (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/nevis-dress/"><img src="/variants/s11/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2~x2/sett.png" alt="Nevis Dress" width="140"><br><strong>Nevis Dress (1)</strong></a></li>
@@ -65,16 +65,16 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/ne/newgeneration-alchemy-inc/"><img src="/variants/s6/k31r2k10db1k1w1~x4/sett.png" alt="NewGeneration Alchemy Inc" width="140"><br><strong>NewGeneration Alchemy Inc (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/newall/"><img src="/variants/s7/n30dp15w4g12w9n8w3~x2~n2203265-dp1502305/sett.png" alt="Newall" width="140"><br><strong>Newall (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/newcastle/"><img src="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/sett.png" alt="Newcastle" width="140"><br><strong>Newcastle (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/newfoundland/"><img src="/variants/s7/r6g4dy14w4dy7g30y4~x2/sett.png" alt="Newfoundland" width="140"><br><strong>Newfoundland (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/newfoundland-2/"><img src="/variants/s7/r4g3o8w3o4g18y3~x2/sett.png" alt="Newfoundland" width="140"><br><strong>Newfoundland (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/newfoundland-3/"><img src="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/sett.png" alt="Newfoundland" width="140"><br><strong>Newfoundland (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/newfoundland/"><img src="/variants/s7/r4g3o8w3o4g18y3~x2/sett.png" alt="Newfoundland" width="140"><br><strong>Newfoundland (2)</strong></a><div class="clan-territory">Newfoundland</div></li>
+<li><a class="tartan" href="/tartans/n/ne/newfoundland-2/"><img src="/variants/s7/r6g4dy14w4dy7g30y4~x2/sett.png" alt="Newfoundland" width="140"><br><strong>Newfoundland (2)</strong></a><div class="clan-territory">Newfoundland</div></li>
+<li><a class="tartan" href="/tartans/n/ne/newfoundland-3/"><img src="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/sett.png" alt="Newfoundland" width="140"><br><strong>Newfoundland (2)</strong></a><div class="clan-territory">Newfoundland</div></li>
 <li><a class="tartan" href="/tartans/n/ne/newlands/"><img src="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/sett.png" alt="Newlands" width="140"><br><strong>Newlands (1)</strong></a><div class="clan-territory">Clan Newlands</div></li>
 <li><a class="tartan" href="/tartans/n/ne/newlands-of-lauriston/"><img src="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/sett.png" alt="Newlands of Lauriston" width="140"><br><strong>Newlands of Lauriston (2)</strong></a><div class="clan-territory">Newlands of Lauriston</div></li>
 <li><a class="tartan" href="/tartans/n/ne/newlands-charlie/"><img src="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/sett.png" alt="Newlands, Charlie" width="140"><br><strong>Newlands, Charlie (1)</strong></a><div class="clan-territory">Clan Newlands</div></li>
-<li><a class="tartan" href="/tartans/n/ne/newman/"><img src="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/sett.png" alt="Newman" width="140"><br><strong>Newman (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/newmill/"><img src="/variants/s7/dr5b20k13db42k13b20y5~x2/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/newmill-2/"><img src="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/ne/newmill-3/"><img src="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/ne/newman/"><img src="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/sett.png" alt="Newman" width="140"><br><strong>Newman (2)</strong></a><div class="clan-territory">Newman</div></li>
+<li><a class="tartan" href="/tartans/n/ne/newmill/"><img src="/variants/s7/dr5b20k13db42k13b20y5~x2/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a><div class="clan-territory">Newmill</div></li>
+<li><a class="tartan" href="/tartans/n/ne/newmill-2/"><img src="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a><div class="clan-territory">Newmill</div></li>
+<li><a class="tartan" href="/tartans/n/ne/newmill-3/"><img src="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/sett.png" alt="Newmill" width="140"><br><strong>Newmill (1)</strong></a><div class="clan-territory">Newmill</div></li>
 <li><a class="tartan" href="/tartans/n/ne/newton-primary/"><img src="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/sett.png" alt="Newton Primary" width="140"><br><strong>Newton Primary (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/ne/newton-primary-school-dunblane/"><img src="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/sett.png" alt="Newton Primary School, Dunblane" width="140"><br><strong>Newton Primary School, Dunblane (1)</strong></a></li>
 </ul>

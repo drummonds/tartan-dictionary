@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacNiven"
+  url: "/clan/macniven/"
+- name: "MacNiven"
+  url: "/families/macniven/"
 ---
+A tartan of the [MacNiven](/families/macniven/) family.
 Its design is pattern [GGBBWBWBW](/stripes/ggbbwbwbw/) — the page of every tartan sharing this colour sequence.
 
 Based partly on MacNaughton, of whom MacNivens are a sept; accredited by the Scottish Tartans Society in 1988.

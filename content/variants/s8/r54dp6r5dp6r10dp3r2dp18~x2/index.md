@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kyle"
+  url: "/clan/kyle/"
 - name: "Kyle"
-  url: "/tartans/k/ky/kyle-5/"
+  url: "/families/kyle/"
+- name: "Kyle"
+  url: "/tartans/k/ky/kyle/"
 - name: "Kyle Blue (Clan)"
   url: "/setts/r54dp6r5dp6r10dp3r2dp18/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r54dp6r5dp6r10dp3r2dp18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-Part of the [Kyle](/tartans/k/ky/kyle-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kyle](/tartans/k/ky/kyle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Priest"
+  url: "/clan/priest/"
 - name: "Priest"
-  url: "/tartans/p/pr/priest-3/"
+  url: "/families/priest/"
+- name: "Priest"
+  url: "/tartans/p/pr/priest-2/"
 - name: "Priest"
   url: "/setts/k1y1dp7k8y1k8y1dp2y1k4y1/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1y1dp7k8y1k8y1dp2y1k4y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBGKGKBGK](/stripes/gkgbgkgkbgk/).
 
-Part of the [Priest](/tartans/p/pr/priest-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Priest](/tartans/p/pr/priest-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

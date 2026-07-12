@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rikaco"
+  url: "/clan/rikaco/"
 - name: "Rikaco Morning Dew 2"
   url: "/tartans/r/ri/rikaco-morning-dew-2/"
 - name: "Rikaco Morning Dew #2"

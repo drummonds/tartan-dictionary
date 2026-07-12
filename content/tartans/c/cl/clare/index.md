@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Clare"
+  url: "/clan/clare/"
+- name: "Clare"
+  url: "/families/clare/"
 ---
+A tartan of the [Clare](/families/clare/) family.
 Its design is pattern [BYGGR](/stripes/byggr/) — the page of every tartan sharing this colour sequence.
 
 The **Clare** tartan is recorded as a single sett.

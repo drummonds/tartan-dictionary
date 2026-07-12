@@ -8,15 +8,6 @@ date: 2023-03-18
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/db6k1db1k1db1k6g6lb2g6k6db6k1g2/">Cheape of Torosay</a> ★</td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 LB8 G24 K24 DB24 K4 G/8</code></td><td>328</td><td>~1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6k1db1k1db1k6g6lb2g6k6db6k1g2/"><img src="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1g2~x4/sett.png" alt="Cheape of Torosay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db8k1db1k1db1k7g6lb1g6k7db7k1lb1/">(Personal)</a></td><td><code>DB/32 K4 DB4 K4 DB4 K28 G24 LB4 G24 K28 DB28 K4 LB/4</code></td><td>348</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8k1db1k1db1k7g6lb1g6k7db7k1lb1/"><img src="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Cheape of Torosay tartan and all its setts →](/tartans/c/ch/cheape-of-torosay/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/c/ch/cheape-of-torosay/"><img src="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1g2~x4/sett.png" alt="Cheape of Torosay" width="140"><br><strong>Cheape of Torosay (2)</strong></a></li>
+</ul>

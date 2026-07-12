@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Pendleton"
+  url: "/clan/pendleton/"
+- name: "Pendleton"
+  url: "/families/pendleton/"
 ---
+A tartan of the [Pendleton](/families/pendleton/) family.
 Its design is pattern [BBGRGKGGGBBBGGGKGRGB](/stripes/bbgrgkgggbbbgggkgrgb/) — the page of every tartan sharing this colour sequence.
 
 The **Pendleton dress** tartan is recorded as a single sett.

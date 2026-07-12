@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hay"
+  url: "/clan/hay/"
 - name: "Hay"
-  url: "/tartans/h/ha/hay-3/"
+  url: "/families/hay/"
+- name: "Hay"
+  url: "/tartans/h/ha/hay-4/"
 - name: "Hay - 1842 (Clan)"
   url: "/setts/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/).
 
-Part of the [Hay](/tartans/h/ha/hay-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hay](/tartans/h/ha/hay-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

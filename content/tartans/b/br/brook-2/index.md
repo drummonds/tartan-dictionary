@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Brook"
+  url: "/clan/brook/"
+- name: "Brook"
+  url: "/families/brook/"
 ---
+A tartan of the [Brook](/families/brook/) family.
 Its design is pattern [BBYBYBYBYB](/stripes/bbybybybyb/) — the page of every tartan sharing this colour sequence.
 
 The **Brook** tartan is recorded as a single sett.

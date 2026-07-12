@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Avalon"
+  url: "/clan/avalon/"
 - name: "Avalon"
-  url: "/tartans/a/av/avalon-4/"
+  url: "/families/avalon/"
+- name: "Avalon"
+  url: "/tartans/a/av/avalon-2/"
 - name: "Avalon - Carroll House"
   url: "/setts/w3k1t15k6t5k3t8k2t5y3w2y4k1w3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3k1t15k6t5k3t8k2t5y3w2y4k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKBKBKBGWGKW](/stripes/wkbkbkbkbgwgkw/).
 
-Part of the [Avalon](/tartans/a/av/avalon-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Avalon](/tartans/a/av/avalon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

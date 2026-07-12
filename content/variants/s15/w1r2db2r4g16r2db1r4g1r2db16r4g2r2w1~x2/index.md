@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan MacIntyre"
   url: "/clan/macintyre/"
 - name: "MacIntyre"
-  url: "/tartans/m/ma/macintyre-2/"
+  url: "/families/macintyre/"
+- name: "MacIntyre"
+  url: "/tartans/m/ma/macintyre-3/"
 - name: "MacIntyre"
   url: "/setts/w1r2db2r4g16r2db1r4g1r2db16r4g2r2w1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w1r2db2r4g16r2db1r4g1r2db16r4g2r2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/).
 
-Part of the [MacIntyre](/tartans/m/ma/macintyre-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacIntyre](/tartans/m/ma/macintyre-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

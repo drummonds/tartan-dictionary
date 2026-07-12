@@ -19,16 +19,16 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/g/gu/guildry-of-stirling/"><img src="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/sett.png" alt="Guildry of Stirling" width="140"><br><strong>Guildry of Stirling (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/g/gu/gulfmark/"><img src="/variants/s5/db72lb6db12lb17w6~x2/sett.png" alt="GulfMark" width="140"><br><strong>GulfMark (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/g/gu/gullane/"><img src="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/sett.png" alt="Gullane" width="140"><br><strong>Gullane (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/gunn/"><img src="/variants/s6/r2g12k12g1k12g2~x2/sett.png" alt="Gunn" width="140"><br><strong>Gunn (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/gunn-2/"><img src="/variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/sett.png" alt="Gunn" width="140"><br><strong>Gunn (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/gunn-3/"><img src="/variants/s4/db20k20g20r1~x2/sett.png" alt="Gunn" width="140"><br><strong>Gunn (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/gunn-4/"><img src="/variants/s6/dg2db12dg1k12dg12r2~x2/sett.png" alt="Gunn" width="140"><br><strong>Gunn (4)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/gunn-vs/"><img src="/variants/s6/r1g15k8g1k8g1~x2/sett.png" alt="Gunn VS" width="140"><br><strong>Gunn VS (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/g/gu/gunn/"><img src="/variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/sett.png" alt="Gunn" width="140"><br><strong>Gunn (1)</strong></a><div class="clan-territory">Gunn</div></li>
+<li><a class="tartan" href="/tartans/g/gu/gunn-2/"><img src="/variants/s4/db20k20g20r1~x2/sett.png" alt="Gunn" width="140"><br><strong>Gunn (2)</strong></a><div class="clan-territory">Gunn</div></li>
+<li><a class="tartan" href="/tartans/g/gu/gunn-3/"><img src="/variants/s6/r2g12k12g1k12g2~x2/sett.png" alt="Gunn" width="140"><br><strong>Gunn (1)</strong></a><div class="clan-territory">Gunn</div></li>
+<li><a class="tartan" href="/tartans/g/gu/gunn-4/"><img src="/variants/s6/dg2db12dg1k12dg12r2~x2/sett.png" alt="Gunn" width="140"><br><strong>Gunn (4)</strong></a><div class="clan-territory">Gunn</div></li>
+<li><a class="tartan" href="/tartans/g/gu/gunn-vs/"><img src="/variants/s6/r1g15k8g1k8g1~x2/sett.png" alt="Gunn VS" width="140"><br><strong>Gunn VS (1)</strong></a><div class="clan-territory">Clan Gunn</div></li>
 <li><a class="tartan" href="/tartans/g/gu/gunning-robert-maxwell-stewart/"><img src="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/sett.png" alt="Gunning, Robert Maxwell Stewart" width="140"><br><strong>Gunning, Robert Maxwell Stewart (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/g/gu/guszcza-the/"><img src="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/sett.png" alt="Guszcza, The" width="140"><br><strong>Guszcza, The (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/guthrie/"><img src="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/sett.png" alt="Guthrie" width="140"><br><strong>Guthrie (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/guthrie-2/"><img src="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/sett.png" alt="Guthrie" width="140"><br><strong>Guthrie (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/guzzo-check/"><img src="/variants/s8/y20w2y20k4w3y3k3w2/sett.png" alt="Guzzo Check" width="140"><br><strong>Guzzo Check (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/guzzo-dress/"><img src="/variants/s8/w20k2w20y5k3w3y4k2/sett.png" alt="Guzzo Dress" width="140"><br><strong>Guzzo Dress (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gu/guzzo-dress-2/"><img src="/variants/s8/w20k2w20lo5k3w3lo4k2/sett.png" alt="Guzzo Dress" width="140"><br><strong>Guzzo Dress (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/g/gu/guthrie/"><img src="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/sett.png" alt="Guthrie" width="140"><br><strong>Guthrie (1)</strong></a><div class="clan-territory">Guthrie</div></li>
+<li><a class="tartan" href="/tartans/g/gu/guthrie-2/"><img src="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/sett.png" alt="Guthrie" width="140"><br><strong>Guthrie (2)</strong></a><div class="clan-territory">Guthrie</div></li>
+<li><a class="tartan" href="/tartans/g/gu/guzzo-check/"><img src="/variants/s8/y20w2y20k4w3y3k3w2/sett.png" alt="Guzzo Check" width="140"><br><strong>Guzzo Check (1)</strong></a><div class="clan-territory">Clan Guzzo</div></li>
+<li><a class="tartan" href="/tartans/g/gu/guzzo-dress/"><img src="/variants/s8/w20k2w20y5k3w3y4k2/sett.png" alt="Guzzo Dress" width="140"><br><strong>Guzzo Dress (1)</strong></a><div class="clan-territory">Guzzo</div></li>
+<li><a class="tartan" href="/tartans/g/gu/guzzo-dress-2/"><img src="/variants/s8/w20k2w20lo5k3w3lo4k2/sett.png" alt="Guzzo Dress" width="140"><br><strong>Guzzo Dress (1)</strong></a><div class="clan-territory">Guzzo</div></li>
 </ul>

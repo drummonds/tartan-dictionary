@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Teviotdale"
+  url: "/clan/teviotdale/"
 - name: "Teviotdale"
-  url: "/tartans/t/te/teviotdale-2/"
+  url: "/families/teviotdale/"
+- name: "Teviotdale"
+  url: "/tartans/t/te/teviotdale/"
 - name: "Teviotdale District Tartan"
   url: "/setts/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYBGGWGGBYGKK](/stripes/kgybggwggbygkk/).
 
-Part of the [Teviotdale](/tartans/t/te/teviotdale-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Teviotdale](/tartans/t/te/teviotdale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

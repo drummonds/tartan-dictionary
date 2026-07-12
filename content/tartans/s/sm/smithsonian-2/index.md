@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Smithsonian"
+  url: "/clan/smithsonian/"
+- name: "Smithsonian"
+  url: "/families/smithsonian/"
 ---
+A tartan of the [Smithsonian](/families/smithsonian/) family.
 Its design is pattern [BWGKYRGRYBG](/stripes/bwgkyrgrybg/) — the page of every tartan sharing this colour sequence.
 
 The **Smithsonian** tartan groups 2 setts — the same named design recorded as different cloths

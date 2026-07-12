@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Montmorency"
+  url: "/clan/montmorency/"
 - name: "Montmorency"
-  url: "/tartans/m/mo/montmorency/"
+  url: "/families/montmorency/"
+- name: "Montmorency"
+  url: "/tartans/m/mo/montmorency-3/"
 - name: "Montmorency"
   url: "/setts/db21g2db3g2db2g14o15g4o15g14db14g2db3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db21g2db3g2db2g14o15g4o15g14db14g2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGRGRGBGB](/stripes/bgbgbgrgrgbgb/).
 
-Part of the [Montmorency](/tartans/m/mo/montmorency/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Montmorency](/tartans/m/mo/montmorency-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

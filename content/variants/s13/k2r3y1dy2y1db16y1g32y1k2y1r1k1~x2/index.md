@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Neumann"
+  url: "/clan/neumann/"
+- name: "Neumann"
+  url: "/families/neumann/"
 - name: "Neumann"
   url: "/tartans/n/ne/neumann/"
 - name: "Neumann - German Pipe Smokers (Corp)"

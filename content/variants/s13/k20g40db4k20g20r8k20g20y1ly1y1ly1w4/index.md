@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mississippi"
+  url: "/clan/mississippi/"
 - name: "Mississippi"
-  url: "/tartans/m/mi/mississippi/"
+  url: "/families/mississippi/"
+- name: "Mississippi"
+  url: "/tartans/m/mi/mississippi-2/"
 - name: "Mississippi"
   url: "/setts/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBKGRKGGYGYW](/stripes/kgbkgrkggygyw/).
 
-Part of the [Mississippi](/tartans/m/mi/mississippi/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mississippi](/tartans/m/mi/mississippi-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

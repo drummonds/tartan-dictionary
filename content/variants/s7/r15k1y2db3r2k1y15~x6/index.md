@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scrymgeour"
+  url: "/clan/scrymgeour/"
 - name: "Scrymgeour"
-  url: "/tartans/s/sc/scrymgeour/"
+  url: "/families/scrymgeour/"
+- name: "Scrymgeour"
+  url: "/tartans/s/sc/scrymgeour-2/"
 - name: "Scrymgeour"
   url: "/setts/r15k1y2db3r2k1y15/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r15k1y2db3r2k1y15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBGKR](/stripes/gkrbgkr/).
 
-Part of the [Scrymgeour](/tartans/s/sc/scrymgeour/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scrymgeour](/tartans/s/sc/scrymgeour-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Lochcarron"
   url: "/clan/lochcarron/"
 - name: "Lochcarron"
+  url: "/families/lochcarron/"
+- name: "Lochcarron"
   url: "/tartans/l/lo/lochcarron/"
 - name: "Lochcarron (1985)"
   url: "/setts/db12lb1k2db1r1/"

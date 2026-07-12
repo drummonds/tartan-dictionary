@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Colquhoun"
+  url: "/clan/colquhoun/"
+- name: "Colquhoun"
+  url: "/families/colquhoun/"
 - name: "Colquhoun Dress"
-  url: "/tartans/c/co/colquhoun-dress/"
+  url: "/tartans/c/co/colquhoun-dress-2/"
 - name: "Colquhoun Dress"
   url: "/setts/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKYBYBBBYBYKYGBGYK](/stripes/bkbkbkybybbbybykygbgyk/).
 
-Part of the [Colquhoun Dress](/tartans/c/co/colquhoun-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Colquhoun Dress](/tartans/c/co/colquhoun-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

@@ -7,6 +7,8 @@ crumbs:
   url: "/"
 - name: "Clan Gordon (Duke of Gordon)"
   url: "/clan/gordon/"
+- name: "Gordon"
+  url: "/families/gordon/"
 - name: "Gordon 1"
   url: "/tartans/g/go/gordon-1/"
 - name: "Gordon #3"

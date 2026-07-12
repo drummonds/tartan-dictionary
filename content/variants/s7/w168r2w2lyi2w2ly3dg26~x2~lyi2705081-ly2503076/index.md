@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Whisky"
+  url: "/clan/whisky/"
 - name: "Whisky"
-  url: "/tartans/w/wh/whisky-2/"
+  url: "/families/whisky/"
+- name: "Whisky"
+  url: "/tartans/w/wh/whisky/"
 - name: "Whisky Kilt (Fashion)"
   url: "/setts/w168r2w2lyi2w2ly3dg26/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w168r2w2lyi2w2ly3dg26/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYWYWRW](/stripes/gywywrw/).
 
-Part of the [Whisky](/tartans/w/wh/whisky-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Whisky](/tartans/w/wh/whisky/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

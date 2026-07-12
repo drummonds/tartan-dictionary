@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Paterson"
+  url: "/clan/paterson/"
 - name: "Paterson"
-  url: "/tartans/p/pa/paterson-3/"
+  url: "/families/paterson/"
+- name: "Paterson"
+  url: "/tartans/p/pa/paterson/"
 - name: "Paterson Blue (Personal)"
   url: "/setts/db22w2k10g11r3g4/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db22w2k10g11r3g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGRG](/stripes/bwkgrg/).
 
-Part of the [Paterson](/tartans/p/pa/paterson-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Paterson](/tartans/p/pa/paterson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cornish"
+  url: "/clan/cornish/"
 - name: "Cornish Brewery"
-  url: "/tartans/c/co/cornish-brewery/"
+  url: "/tartans/c/co/cornish-brewery-2/"
 - name: "Cornish Brewery, Red"
   url: "/setts/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YRKRKWKBRKRBKWKRKRY](/stripes/yrkrkwkbrkrbkwkrkry/).
 
-Part of the [Cornish Brewery](/tartans/c/co/cornish-brewery/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cornish Brewery](/tartans/c/co/cornish-brewery-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hawick"
+  url: "/clan/hawick/"
 - name: "Hawick"
-  url: "/tartans/h/ha/hawick/"
+  url: "/families/hawick/"
+- name: "Hawick"
+  url: "/tartans/h/ha/hawick-4/"
 - name: "Hawick"
   url: "/setts/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGBGBGKWKGKBKGKWKGBGBKWKGKBK](/stripes/gkwkgbgbgkwkgkbkgkwkgbgbkwkgkbk/).
 
-Part of the [Hawick](/tartans/h/ha/hawick/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hawick](/tartans/h/ha/hawick-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 

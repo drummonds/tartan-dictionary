@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Redgate"
+  url: "/clan/redgate/"
 - name: "Redgate"
-  url: "/tartans/r/re/redgate-4/"
+  url: "/families/redgate/"
+- name: "Redgate"
+  url: "/tartans/r/re/redgate/"
 - name: "Redgate (Name)"
   url: "/setts/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKWKYGYGYRY](/stripes/rgrgkwkygygyry/).
 
-Part of the [Redgate](/tartans/r/re/redgate-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Redgate](/tartans/r/re/redgate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

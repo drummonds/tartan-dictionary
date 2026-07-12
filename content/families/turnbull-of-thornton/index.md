@@ -2,19 +2,12 @@
 title: "Turnbull of Thornton"
 date: 2023-03-18
 ---
-*Single family clan, so not under clans.*
+A family of [Clan Turnbull](/clan/turnbull/).
 
 **Trove of Scotland:** [search “Thornton”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Thornton&viewmode=grid)
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/k6r3g30ly10db30w3/">Turnbull of Thornton</a></td><td><code>K/12 R6 G60 LY20 DB60 W/6</code></td><td>310</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k6r3g30ly10db30w3/"><img src="/variants/s6/k6r3g30ly10db30w3~x2/sett.png" alt="Turnbull of Thornton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Turnbull of Thornton tartan and all its setts →](/tartans/t/tu/turnbull-of-thornton/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/t/tu/turnbull-of-thornton/"><img src="/variants/s6/k6r3g30ly10db30w3~x2/sett.png" alt="Turnbull of Thornton" width="140"><br><strong>Turnbull of Thornton (1)</strong></a></li>
+</ul>

@@ -8,13 +8,6 @@ A family of [Clan Robertson](/clan/robertson/).
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3/">Robertson of Kindeace</a></td><td><code>DB/24 K4 DB4 K4 DB4 K24 G32 K2 R6 K2 G32 K24 DB24 K2 W/6</code></td><td>358</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Robertson of Kindeace tartan and all its setts →](/tartans/r/ro/robertson-of-kindeace/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/r/ro/robertson-of-kindeace/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace" width="140"><br><strong>Robertson of Kindeace (1)</strong></a></li>
+</ul>

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Parkin"
+  url: "/clan/parkin/"
 - name: "Parkin"
-  url: "/tartans/p/pa/parkin/"
+  url: "/families/parkin/"
+- name: "Parkin"
+  url: "/tartans/p/pa/parkin-2/"
 - name: "Parkin (Personal)"
   url: "/setts/w3k9y1lb3dp9lb1k40dp2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3k9y1lb3dp9lb1k40dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBWGKW](/stripes/bkwbwgkw/).
 
-Part of the [Parkin](/tartans/p/pa/parkin/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Parkin](/tartans/p/pa/parkin-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

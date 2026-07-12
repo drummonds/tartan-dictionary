@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacFarlane"
+  url: "/clan/macfarlane/"
 - name: "MacFarlane"
-  url: "/tartans/m/ma/macfarlane/"
+  url: "/families/macfarlane/"
+- name: "MacFarlane"
+  url: "/tartans/m/ma/macfarlane-2/"
 - name: "MacFarlane Red Artifact Tartan"
   url: "/setts/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/).
 
-Part of the [MacFarlane](/tartans/m/ma/macfarlane/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacFarlane](/tartans/m/ma/macfarlane-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

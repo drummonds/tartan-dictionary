@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gleneagles"
+  url: "/clan/gleneagles/"
 - name: "Gleneagles"
-  url: "/tartans/g/gl/gleneagles-2/"
+  url: "/families/gleneagles/"
+- name: "Gleneagles"
+  url: "/tartans/g/gl/gleneagles/"
 - name: "Gleneagles"
   url: "/setts/k4o4w35o1k36o4k2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4o4w35o1k36o4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRWRK](/stripes/krkrwrk/).
 
-Part of the [Gleneagles](/tartans/g/gl/gleneagles-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gleneagles](/tartans/g/gl/gleneagles/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

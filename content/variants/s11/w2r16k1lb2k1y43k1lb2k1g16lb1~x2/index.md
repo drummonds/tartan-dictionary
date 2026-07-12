@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Baxter"
   url: "/clan/baxter/"
 - name: "Baxter"
-  url: "/tartans/b/ba/baxter/"
+  url: "/families/baxter/"
+- name: "Baxter"
+  url: "/tartans/b/ba/baxter-3/"
 - name: "Baxter Clan Tartan"
   url: "/setts/w2r16k1lb2k1y43k1lb2k1g16lb1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2r16k1lb2k1y43k1lb2k1g16lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKWKGKWKRW](/stripes/wgkwkgkwkrw/).
 
-Part of the [Baxter](/tartans/b/ba/baxter/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Baxter](/tartans/b/ba/baxter-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

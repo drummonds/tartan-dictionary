@@ -2,19 +2,12 @@
 title: "Cockburn of Ormiston"
 date: 2023-03-18
 ---
-*Single family clan, so not under clans.*
+A family of [Clan Cockburn](/clan/cockburn/).
 
 **Trove of Scotland:** [search “Ormiston”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Ormiston&viewmode=grid)
 
 ## Tartan
 
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2/">Cockburn of Ormiston Dress</a></td><td><code>W/62 K4 G4 K4 G4 DB16 K4 W4 K4 DB16 K4 Y4 K4 G16 K4 R/4</code></td><td>250</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2/"><img src="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/sett.png" alt="Cockburn of Ormiston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Cockburn of Ormiston Dress tartan and all its setts →](/tartans/c/co/cockburn-of-ormiston-dress/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/c/co/cockburn-of-ormiston-dress/"><img src="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/sett.png" alt="Cockburn of Ormiston Dress" width="140"><br><strong>Cockburn of Ormiston Dress (1)</strong></a></li>
+</ul>

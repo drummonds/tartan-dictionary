@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mitchell"
+  url: "/clan/mitchell/"
 - name: "Mitchell"
-  url: "/tartans/m/mi/mitchell/"
+  url: "/families/mitchell/"
+- name: "Mitchell"
+  url: "/tartans/m/mi/mitchell-2/"
 - name: "Mitchell"
   url: "/setts/k2g12k12r1db12w2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2g12k12r1db12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRBW](/stripes/kgkrbw/).
 
-Part of the [Mitchell](/tartans/m/mi/mitchell/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mitchell](/tartans/m/mi/mitchell-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

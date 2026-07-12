@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dalziel"
+  url: "/clan/dalziel/"
+- name: "Dalziel"
+  url: "/families/dalziel/"
 ---
+A tartan of the [Dalziel](/families/dalziel/) family.
 Its design is pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/) — the page of every tartan sharing this colour sequence.
 
 The **Dalziel** tartan groups 4 setts — the same named design recorded as different cloths

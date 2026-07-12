@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mitsukoshi"
+  url: "/clan/mitsukoshi/"
 - name: "Mitsukoshi Sendai"
   url: "/tartans/m/mi/mitsukoshi-sendai/"
 - name: "Mitsukoshi Sendai"

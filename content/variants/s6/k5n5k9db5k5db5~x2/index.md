@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacIntosh"
+  url: "/clan/macintosh/"
 - name: "Macintosh, Charles Rennie"
   url: "/tartans/m/ma/macintosh-charles-rennie/"
 - name: "Macintosh, Charles Rennie (Commem)"

@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hogeboom"
+  url: "/clan/hogeboom/"
 - name: "Hogeboom"
-  url: "/tartans/h/ho/hogeboom/"
+  url: "/families/hogeboom/"
+- name: "Hogeboom"
+  url: "/tartans/h/ho/hogeboom-2/"
 - name: "Hogeboom (Toronto) (Personal)"
   url: "/setts/gi4g3gi9b14y8b2r35lp2r3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/gi4g3gi9b14y8b2r35lp2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBGBRWR](/stripes/gggbgbrwr/).
 
-Part of the [Hogeboom](/tartans/h/ho/hogeboom/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hogeboom](/tartans/h/ho/hogeboom-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -21,17 +21,17 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/v/va/van-ingelgem-hunting/"><img src="/variants/s18/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2~x2/sett.png" alt="Van Ingelgem Hunting" width="140"><br><strong>Van Ingelgem Hunting (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/va/van-ingelgem-hunting-2/"><img src="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/sett.png" alt="Van Ingelgem Hunting" width="140"><br><strong>Van Ingelgem Hunting (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/va/van-loo/"><img src="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/sett.png" alt="Van Loo" width="140"><br><strong>Van Loo (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/va/vance/"><img src="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/sett.png" alt="Vance" width="140"><br><strong>Vance (3)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/va/vance-corporate/"><img src="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/sett.png" alt="Vance Corporate" width="140"><br><strong>Vance Corporate (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/v/va/vance/"><img src="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/sett.png" alt="Vance" width="140"><br><strong>Vance (3)</strong></a><div class="clan-territory">Vance</div></li>
+<li><a class="tartan" href="/tartans/v/va/vance-corporate/"><img src="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/sett.png" alt="Vance Corporate" width="140"><br><strong>Vance Corporate (1)</strong></a><div class="clan-territory">Clan Vance</div></li>
 <li><a class="tartan" href="/tartans/v/va/vancouver-centennial/"><img src="/variants/s6/g4y2g24w12db26r1~x2/sett.png" alt="Vancouver Centennial" width="140"><br><strong>Vancouver Centennial (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/va/varenne/"><img src="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/sett.png" alt="Varenne" width="140"><br><strong>Varenne (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/va/varrie/"><img src="/variants/s4/lb11db1w1y1~x20/sett.png" alt="Varrie" width="140"><br><strong>Varrie (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/va/varrie-commemorative/"><img src="/variants/s4/lb9db1w1y1~x20/sett.png" alt="Varrie Commemorative" width="140"><br><strong>Varrie Commemorative (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/va/vass/"><img src="/variants/s5/db6w1dy6do12r2~x4/sett.png" alt="Vass" width="140"><br><strong>Vass (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/va/vass-2/"><img src="/variants/s5/db6w1ly6dy12r2~x4/sett.png" alt="Vass" width="140"><br><strong>Vass (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/v/va/vass/"><img src="/variants/s5/db6w1dy6do12r2~x4/sett.png" alt="Vass" width="140"><br><strong>Vass (1)</strong></a><div class="clan-territory">Vass</div></li>
+<li><a class="tartan" href="/tartans/v/va/vass-2/"><img src="/variants/s5/db6w1ly6dy12r2~x4/sett.png" alt="Vass" width="140"><br><strong>Vass (1)</strong></a><div class="clan-territory">Vass</div></li>
 <li><a class="tartan" href="/tartans/v/va/vasseur-mignon/"><img src="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/sett.png" alt="Vasseur Mignon" width="140"><br><strong>Vasseur Mignon (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/va/vassseur-mignon/"><img src="/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/sett.png" alt="Vassseur Mignon" width="140"><br><strong>Vassseur Mignon (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/va/vaughan/"><img src="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/sett.png" alt="Vaughan" width="140"><br><strong>Vaughan (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/va/vaughan-2/"><img src="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/sett.png" alt="Vaughan" width="140"><br><strong>Vaughan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/v/va/vaughan/"><img src="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/sett.png" alt="Vaughan" width="140"><br><strong>Vaughan (1)</strong></a><div class="clan-territory">Vaughan</div></li>
+<li><a class="tartan" href="/tartans/v/va/vaughan-2/"><img src="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/sett.png" alt="Vaughan" width="140"><br><strong>Vaughan (1)</strong></a><div class="clan-territory">Vaughan</div></li>
 <li><a class="tartan" href="/tartans/v/va/van-der-watt/"><img src="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/sett.png" alt="van der Watt" width="140"><br><strong>van der Watt (1)</strong></a></li>
 </ul>

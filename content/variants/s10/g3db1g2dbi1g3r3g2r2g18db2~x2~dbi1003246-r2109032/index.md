@@ -8,6 +8,8 @@ crumbs:
 - name: "Clan Owen"
   url: "/clan/owen/"
 - name: "Owen"
+  url: "/families/owen/"
+- name: "Owen"
   url: "/tartans/o/ow/owen/"
 - name: "Owen (Welsh Name)"
   url: "/setts/g3db1g2dbi1g3r3g2r2g18db2/"

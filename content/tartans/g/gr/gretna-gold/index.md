@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gretna"
+  url: "/clan/gretna/"
 ---
+A tartan of [Clan Gretna](/clan/gretna/).
 Its design is pattern [BRBBYBWBYBBRBR](/stripes/brbbybwbybbrbr/) — the page of every tartan sharing this colour sequence.
 
 The **Gretna Gold** tartan groups 2 setts — the same named design recorded as different cloths

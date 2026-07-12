@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Wishart"
+  url: "/clan/wishart/"
+- name: "Wishart"
+  url: "/families/wishart/"
 ---
+A tartan of the [Wishart](/families/wishart/) family.
 Its design is pattern [KBGBGBW](/stripes/kbgbgbw/) — the page of every tartan sharing this colour sequence.
 
 Combines Wallace and Douglas tartans in an original sett designed by Dr David Wishart for the lowland Wishart family.

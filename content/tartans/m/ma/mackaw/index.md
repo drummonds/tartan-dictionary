@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mackaw"
+  url: "/clan/mackaw/"
+- name: "Mackaw"
+  url: "/families/mackaw/"
 ---
+A tartan of the [Mackaw](/families/mackaw/) family.
 Its design is pattern [GBBR](/stripes/gbbr/) — the page of every tartan sharing this colour sequence.
 
 The **Mackaw** tartan groups 2 setts — the same named design recorded as different cloths

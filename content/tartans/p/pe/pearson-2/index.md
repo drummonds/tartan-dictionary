@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Pearson"
+  url: "/clan/pearson/"
+- name: "Pearson"
+  url: "/families/pearson/"
 ---
+A tartan of the [Pearson](/families/pearson/) family.
 Its design is pattern [RGRGR](/stripes/rgrgr/) — the page of every tartan sharing this colour sequence.
 
 The **Pearson** tartan is recorded as a single sett.

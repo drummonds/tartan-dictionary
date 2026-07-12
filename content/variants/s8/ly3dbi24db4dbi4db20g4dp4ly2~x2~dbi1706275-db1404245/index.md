@@ -5,8 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Blue"
+  url: "/clan/blue/"
 - name: "Blue Peter"
-  url: "/tartans/b/bl/blue-peter-2/"
+  url: "/tartans/b/bl/blue-peter/"
 - name: "Blue Peter"
   url: "/setts/ly3dbi24db4dbi4db20g4dp4ly2/"
 ---
@@ -14,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly3dbi24db4dbi4db20g4dp4ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBBBBGBY](/stripes/ybbbbgby/).
 
-Part of the [Blue Peter](/tartans/b/bl/blue-peter-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blue Peter](/tartans/b/bl/blue-peter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

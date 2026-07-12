@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Bird"
   url: "/clan/bird/"
 - name: "Bird"
-  url: "/tartans/b/bi/bird-3/"
+  url: "/families/bird/"
+- name: "Bird"
+  url: "/tartans/b/bi/bird/"
 - name: "Bird Family (Australia) (Personal)"
   url: "/setts/w3db19w1lb17y11g10w1db3w1/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3db19w1lb17y11g10w1db3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWGGWWBW](/stripes/wbwggwwbw/).
 
-Part of the [Bird](/tartans/b/bi/bird-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bird](/tartans/b/bi/bird/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

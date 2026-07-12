@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewarton"
+  url: "/clan/stewarton/"
 - name: "Stewarton"
-  url: "/tartans/s/st/stewarton/"
+  url: "/families/stewarton/"
+- name: "Stewarton"
+  url: "/tartans/s/st/stewarton-3/"
 - name: "Stewarton"
   url: "/setts/k2g5b7r7b7lp6o5gi2/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2g5b7r7b7lp6o5gi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBRBGK](/stripes/grwbrbgk/).
 
-Part of the [Stewarton](/tartans/s/st/stewarton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewarton](/tartans/s/st/stewarton-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

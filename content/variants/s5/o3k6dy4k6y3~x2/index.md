@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Daks"
+  url: "/clan/daks/"
 - name: "Daks"
-  url: "/tartans/d/da/daks-7/"
+  url: "/families/daks/"
+- name: "Daks"
+  url: "/tartans/d/da/daks-5/"
 - name: "Daks (Black)"
   url: "/setts/o3k6dy4k6y3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o3k6dy4k6y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKR](/stripes/gkgkr/).
 
-Part of the [Daks](/tartans/d/da/daks-7/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Daks](/tartans/d/da/daks-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

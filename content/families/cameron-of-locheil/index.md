@@ -8,28 +8,10 @@ A family of [Clan Cameron](/clan/cameron/).
 
 ## Tartans
 
-### Cameron of Locheil
-
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a></td><td><code>R/24 G12 R24 DB4 W4 DB4 R8 DB32 R/16</code></td><td>216</td><td>1764</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6g3r6db1w1db1r2db8r4/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s9/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a> · <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/">Cameron of Lochiel</a> · <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/">#2</a></td></tr>
-</tbody>
-</table>
-
-[See the Cameron of Locheil tartan and all its setts →](/tartans/c/ca/cameron-of-locheil/)
-
-### Cameron of Locheil Hunting
-
-<table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
-<tbody>
-<tr><td><a href="/setts/r3dg10r3dg14db16dg3dy2/">Cameron of Locheil Hunting</a></td><td><code>R/6 DG20 R6 DG28 DB32 DG6 DY/4</code></td><td>194</td><td>1956</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3dg10r3dg14db16dg3dy2/"><img src="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/sett.png" alt="Cameron of Locheil Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-</tbody>
-</table>
-
-[See the Cameron of Locheil Hunting tartan and all its setts →](/tartans/c/ca/cameron-of-locheil-hunting/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/c/ca/cameron-of-locheil/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/c/ca/cameron-of-locheil-2/"><img src="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/c/ca/cameron-of-locheil-3/"><img src="/variants/s9/r24db8r23k4w4k4r10k32r8/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/c/ca/cameron-of-locheil-4/"><img src="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/c/ca/cameron-of-locheil-hunting/"><img src="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/sett.png" alt="Cameron of Locheil Hunting" width="140"><br><strong>Cameron of Locheil Hunting (1)</strong></a></li>
+</ul>

@@ -6,10 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/"><img src="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/sett.png" alt="Smith of Pennilands (Clan)" width="240"><br>Smith of Pennilands (Clan)</a>
+<a class="tartan" href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><img src="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/sett.png" alt="Smith (Clan)" width="240"><br>Smith (Clan)</a>
 
 ## Families
 
+- [Smith](/families/smith/)
 - [Smith of Pennilands](/families/smith-of-pennilands/)
 - [Smith of Pennylands](/families/smith-of-pennylands/)
 

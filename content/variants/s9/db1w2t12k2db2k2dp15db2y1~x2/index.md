@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hek"
+  url: "/clan/hek/"
+- name: "Hek"
+  url: "/families/hek/"
 - name: "Hek"
   url: "/tartans/h/he/hek/"
 - name: "Hek Family (Sunningdale, Berwick on Tweed)"

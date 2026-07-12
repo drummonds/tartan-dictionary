@@ -8,7 +8,9 @@ crumbs:
 - name: "Clan Hunter"
   url: "/clan/hunter/"
 - name: "Hunter"
-  url: "/tartans/h/hu/hunter-6/"
+  url: "/families/hunter/"
+- name: "Hunter"
+  url: "/tartans/h/hu/hunter-2/"
 - name: "Hunter"
   url: "/setts/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/"
 ---
@@ -16,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRWKWWWGBGBGBGRWRGBGWRWGWWWBKWWWRW](/stripes/wrwkwwwgbgbgbgrwrgbgwrwgwwwbkwwwrw/).
 
-Part of the [Hunter](/tartans/h/hu/hunter-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hunter](/tartans/h/hu/hunter-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
 

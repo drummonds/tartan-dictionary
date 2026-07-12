@@ -5,8 +5,12 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cumming"
+  url: "/clan/cumming/"
 - name: "Cumming"
-  url: "/tartans/c/cu/cumming-6/"
+  url: "/families/cumming/"
+- name: "Cumming"
+  url: "/tartans/c/cu/cumming/"
 - name: "Cumming"
   url: "/setts/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3/"
 ---
@@ -14,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBWRGRBRWBRBRGRWBRG](/stripes/brgrbwrgrbrwbrbrgrwbrg/).
 
-Part of the [Cumming](/tartans/c/cu/cumming-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cumming](/tartans/c/cu/cumming/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

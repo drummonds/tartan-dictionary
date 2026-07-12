@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Washington"
+  url: "/clan/washington/"
 - name: "Washington County Sheriff’s Office"
   url: "/tartans/w/wa/washington-county-sheriff-s-office/"
 - name: "Washington County Sheriff’s Office (Oregon)"

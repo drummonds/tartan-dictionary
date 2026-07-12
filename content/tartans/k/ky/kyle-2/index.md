@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kyle"
+  url: "/clan/kyle/"
+- name: "Kyle"
+  url: "/families/kyle/"
 ---
+A tartan of the [Kyle](/families/kyle/) family.
 Its design is pattern [BKBKWKG](/stripes/bkbkwkg/) — the page of every tartan sharing this colour sequence.
 
 The **Kyle** tartan is recorded as a single sett.

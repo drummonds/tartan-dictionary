@@ -2,7 +2,7 @@
 title: "Tartans — Og"
 date: 2023-03-18
 ---
-28 tartans beginning with Og, each with the number of setts it groups. Back to [O](/tartans/o/) or the [A–Z](/tartans/).
+29 tartans beginning with Og, each with the number of setts it groups. Back to [O](/tartans/o/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/o/og/ogg-of-tarragann/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann" width="140"><br><strong>Ogg of Tarragann (2)</strong></a><div class="clan-territory">Ogg of Tarragann</div></li>
@@ -32,5 +32,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/o/og/ogilvy-d-2/"><img src="/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/sett.png" alt="Ogilvy D" width="140"><br><strong>Ogilvy D (1)</strong></a><div class="clan-territory">Clan Ogilvy</div></li>
 <li><a class="tartan" href="/tartans/o/og/ogilvy-vs/"><img src="/variants/s8/db28y1db2k16g24k1g2r3~x2/sett.png" alt="Ogilvy VS" width="140"><br><strong>Ogilvy VS (1)</strong></a><div class="clan-territory">Clan Ogilvy</div></li>
 <li><a class="tartan" href="/tartans/o/og/ogilvy-of-airlie/"><img src="/variants/s36/r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3~x2/sett.png" alt="Ogilvy of Airlie" width="140"><br><strong>Ogilvy of Airlie (1)</strong></a><div class="clan-territory">Ogilvy of Airlie</div></li>
+<li><a class="tartan" href="/tartans/o/og/ogilvy-of-inverquharity/"><img src="/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/sett.png" alt="Ogilvy of Inverquharity" width="140"><br><strong>Ogilvy of Inverquharity (1)</strong></a><div class="clan-territory">Ogilvy of Inverquharity</div></li>
 <li><a class="tartan" href="/tartans/o/og/ogilvy-or-drummond-of-strathallen/"><img src="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/sett.png" alt="Ogilvy or Drummond of Strathallen" width="140"><br><strong>Ogilvy or Drummond of Strathallen (1)</strong></a></li>
 </ul>

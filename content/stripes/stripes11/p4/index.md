@@ -3,8 +3,36 @@ title: 11 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 11
 ---
-1,030 setts across 999 tartans with 11 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,034 setts across 1,003 tartans with 11 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes11/p3/">‹ prev</a> <a href="/stripes/stripes11/">1</a> <a href="/stripes/stripes11/p2/">2</a> <a href="/stripes/stripes11/p3/">3</a> <strong>4</strong> </nav>
+
+### RGRKBKRKGKR
+<a class="pat" href="/stripes/rgrkbkrkgkr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGRKBKRKGKR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [O'Malley (Name?)](/variants/s11/r45k3y4k3r45k1dp2k1r2g8r2~x2/) | tartans-authority |
+
+### RGRKRKRGRKR
+<a class="pat" href="/stripes/rgrkrkrgrkr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGRKRKRGRKR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [MacDonell of Keppach](/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/) | register-of-tartans |
+
+### RGWRWGWKWKW
+<a class="pat" href="/stripes/rgwrwgwkwkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGWRWGWKWKW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Knox, David Paul (Personal)](/variants/s11/w2k2w2k10lb1dg40w1r4w1dg5ri1~x2~r2209032-ri2806019/) | register-of-tartans |
+
+### RKBKBKBKBKW
+<a class="pat" href="/stripes/rkbkbkbkbkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKBKBKBKBKW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Evans (Welsh Name)](/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/) | tartans-authority |
 
 ### RKBKBKBKBYW
 <a class="pat" href="/stripes/rkbkbkbkbyw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKBKBKBKBYW</span></a>

@@ -3,7 +3,7 @@ title: 15 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 15
 ---
-430 setts across 414 tartans with 15 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+431 setts across 415 tartans with 15 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes15/">‹ prev</a> <a href="/stripes/stripes15/">1</a> <strong>2</strong> </nav>
 
 ### GKGRGRGKBRBKBKW
@@ -740,6 +740,13 @@ weight: 15
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.11 | [Stuart / Stewart, Plaid](/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/) | weddslist |
+
+### RWRWRWRWRWRWRWR
+<a class="pat" href="/stripes/rwrwrwrwrwrwrwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RWRWRWRWRWRWRWR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.01 | [Menzies of Pitfoddels](/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/) | peter-1856 |
 
 ### WBBBBBBBBBBBBBW
 <a class="pat" href="/stripes/wbbbbbbbbbbbbbw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBBBBBBBBBBBBBW</span></a>

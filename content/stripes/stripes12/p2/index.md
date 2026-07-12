@@ -3,8 +3,22 @@ title: 12 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 12
 ---
-1,011 setts across 960 tartans with 12 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,013 setts across 962 tartans with 12 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes12/">‹ prev</a> <a href="/stripes/stripes12/">1</a> <strong>2</strong> <a href="/stripes/stripes12/p3/">3</a> <a href="/stripes/stripes12/p4/">4</a> <a href="/stripes/stripes12/p3/">next ›</a></nav>
+
+### BBBGBWBWBBRB
+<a class="pat" href="/stripes/bbbgbwbwbbrb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">BBBGBWBWBBRB</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [MacDonald of Glencoe (Dance) Fashion Tartan](/variants/s12/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4~x2~dt1003246-db1406275/) | house-of-tartan |
+
+### BBBGGGBGGGBB
+<a class="pat" href="/stripes/bbbgggbgggbb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">BBBGGGBGGGBB</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Crawfordjohn Personal Tartan](/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/) | house-of-tartan |
 
 ### BBBKBKBBKBWB
 <a class="pat" href="/stripes/bbbkbkbbkbwb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">BBBKBKBBKBWB</span></a>
@@ -1154,6 +1168,13 @@ weight: 12
 |---|---|---|
 | 0.10 | [State Seal of New Jersey (Fashion)](/variants/s12/t6k1r4k1t38k17n12dy5n5dy25k1ly4~x2/) | tartans-authority |
 
+### BKRKBKGKWKGK
+<a class="pat" href="/stripes/bkrkbkgkwkgk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">BKRKBKGKWKGK</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Mackenzie of Woodstock](/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/) | peter-1856 |
+
 ### BKRKGKGKGKRK
 <a class="pat" href="/stripes/bkrkgkgkgkrk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">BKRKGKGKGKRK</span></a>
 
@@ -2084,26 +2105,5 @@ weight: 12
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.08 | [Covington, Christopher (Personal)](/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/) | tartans-authority |
-
-### BYBKBRBBBBBW
-<a class="pat" href="/stripes/bybkbrbbbbbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BYBKBRBBBBBW</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.09 | [Edinburgh Bus Tours](/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/) | register-of-tartans |
-
-### BYBRBRBBYBYB
-<a class="pat" href="/stripes/bybrbrbbybyb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">BYBRBRBBYBYB</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.21 | [Lakin (Personal)](/variants/s12/dr5lr1dr1lg1dr1n5o6dr1o6n5lg5dr1~x4~lr2800000-lg2901240-n1900000-o2500000/) | tartans-authority |
-
-### BYBYBBBBBYBW
-<a class="pat" href="/stripes/bybybbbbbybw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BYBYBBBBBYBW</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.09 | [Auld Lang Syne Brown Tartan](/variants/s12/w4db2lo8db2n2db2n2db23lo10db2lo7db2~x2/) | house-of-tartan |
 
 <nav class="pager"><a href="/stripes/stripes12/">‹ prev</a> <a href="/stripes/stripes12/">1</a> <strong>2</strong> <a href="/stripes/stripes12/p3/">3</a> <a href="/stripes/stripes12/p4/">4</a> <a href="/stripes/stripes12/p3/">next ›</a></nav>

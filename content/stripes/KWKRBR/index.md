@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4w2k28r30db1r3~x2/">Ramsay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28r30db1r3~x2/"><img src="/variants/s6/k4w2k28r30db1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k4w2k28r30b1r3~x2/">Ramsay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28r30b1r3~x2/"><img src="/variants/s6/k4w2k28r30b1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2k28r30db1r3~x2/">Ramsay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28r30db1r3~x2/"><img src="/variants/s6/k4w2k28r30db1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k4w1k28r30dp1r3~x2/">Ramsay (Red)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><img src="/variants/s6/k4w1k28r30dp1r3~x2/sett.png" alt="Ramsay (Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

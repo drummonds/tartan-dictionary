@@ -2,7 +2,7 @@
 title: "Tartans — Fr"
 date: 2023-03-18
 ---
-72 tartans beginning with Fr, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
+73 tartans beginning with Fr, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/f/fr/frame/"><img src="/variants/s7/k16g15k4lb12k22w2k6~x2/sett.png" alt="Frame" width="140"><br><strong>Frame (1)</strong></a><div class="clan-territory">Frame</div></li>
@@ -17,11 +17,12 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fr/fraoch-s-grian/"><img src="/variants/s8/lb2o24ly14lb25ly14lb25y20lb2~x2/sett.png" alt="Fraoch's Grian" width="140"><br><strong>Fraoch's Grian (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser/"><img src="/variants/s6/r2db12r2g12r24w1~x2/sett.png" alt="Fraser" width="140"><br><strong>Fraser (3)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-2/"><img src="/variants/s7/r2w2y27g14y2db14y2~x2/sett.png" alt="Fraser" width="140"><br><strong>Fraser (2)</strong></a><div class="clan-territory">Fraser</div></li>
-<li><a class="tartan" href="/tartans/f/fr/fraser-3/"><img src="/variants/s12/db16r1db1r1g12r16g2r16g12db12r1db1/sett.png" alt="Fraser" width="140"><br><strong>Fraser (2)</strong></a><div class="clan-territory">Fraser</div></li>
-<li><a class="tartan" href="/tartans/f/fr/fraser-4/"><img src="/variants/s23/db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5~x4/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
-<li><a class="tartan" href="/tartans/f/fr/fraser-5/"><img src="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
-<li><a class="tartan" href="/tartans/f/fr/fraser-6/"><img src="/variants/s6/w2dr12g6dr1n6dr1~x4/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
-<li><a class="tartan" href="/tartans/f/fr/fraser-7/"><img src="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-3/"><img src="/variants/s25/db10r1db1r1dg10r13dg2r13dg10db10r1db1r1db10dg10r13dg2r13dg2r13dg10r1db1r1db5~x4/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-4/"><img src="/variants/s12/db16r1db1r1g12r16g2r16g12db12r1db1/sett.png" alt="Fraser" width="140"><br><strong>Fraser (2)</strong></a><div class="clan-territory">Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-5/"><img src="/variants/s23/db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5~x4/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-6/"><img src="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-7/"><img src="/variants/s6/w2dr12g6dr1n6dr1~x4/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-8/"><img src="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/sett.png" alt="Fraser" width="140"><br><strong>Fraser (1)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-arisaid/"><img src="/variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/sett.png" alt="Fraser Arisaid" width="140"><br><strong>Fraser Arisaid (2)</strong></a><div class="clan-territory">Clan Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-arisaid-2/"><img src="/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/sett.png" alt="Fraser Arisaid" width="140"><br><strong>Fraser Arisaid (1)</strong></a><div class="clan-territory">Clan Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-arisaid-3/"><img src="/variants/s5/w32dr12db12w2db3~x2/sett.png" alt="Fraser Arisaid" width="140"><br><strong>Fraser Arisaid (1)</strong></a><div class="clan-territory">Clan Fraser</div></li>

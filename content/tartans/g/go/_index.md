@@ -2,7 +2,7 @@
 title: "Tartans — Go"
 date: 2023-03-18
 ---
-69 tartans beginning with Go, each with the number of setts it groups. Back to [G](/tartans/g/) or the [A–Z](/tartans/).
+70 tartans beginning with Go, each with the number of setts it groups. Back to [G](/tartans/g/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/g/go/golf/"><img src="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/sett.png" alt="GOLF" width="140"><br><strong>GOLF (1)</strong></a><div class="clan-territory">GOLF</div></li>
@@ -55,6 +55,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/g/go/gordon-of-esselmont/"><img src="/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/sett.png" alt="Gordon of Esselmont" width="140"><br><strong>Gordon of Esselmont (1)</strong></a><div class="clan-territory">Gordon of Esselmont</div></li>
 <li><a class="tartan" href="/tartans/g/go/gordon-of-esselmont-2/"><img src="/variants/s32/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2~db1406275/sett.png" alt="Gordon of Esselmont" width="140"><br><strong>Gordon of Esselmont (1)</strong></a><div class="clan-territory">Gordon of Esselmont</div></li>
 <li><a class="tartan" href="/tartans/g/go/gordon-of-esslemont/"><img src="/variants/s7/y6g3y3g22k23dp23k4~x2/sett.png" alt="Gordon of Esslemont" width="140"><br><strong>Gordon of Esslemont (1)</strong></a><div class="clan-territory">Gordon of Esslemont</div></li>
+<li><a class="tartan" href="/tartans/g/go/gordon-of-the-burn/"><img src="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/sett.png" alt="Gordon of The Burn" width="140"><br><strong>Gordon of The Burn (1)</strong></a><div class="clan-territory">Gordon of The Burn</div></li>
 <li><a class="tartan" href="/tartans/g/go/gordon-dress-5/"><img src="/variants/s13/w6db3w18k5w5do10o17y4o17do10lb10do2lb4~x2/sett.png" alt="Gordon, dress 5" width="140"><br><strong>Gordon, dress 5 (1)</strong></a><div class="clan-territory">Gordon</div></li>
 <li><a class="tartan" href="/tartans/g/go/gordonstoun/"><img src="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/sett.png" alt="Gordonstoun" width="140"><br><strong>Gordonstoun (1)</strong></a><div class="clan-territory">Gordonstoun</div></li>
 <li><a class="tartan" href="/tartans/g/go/gordonstoun-2/"><img src="/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2~r1506019-g2203152-lb3103284-t2503227-ly3307090/sett.png" alt="Gordonstoun" width="140"><br><strong>Gordonstoun (1)</strong></a><div class="clan-territory">Gordonstoun</div></li>

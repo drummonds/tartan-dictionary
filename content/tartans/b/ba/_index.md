@@ -181,5 +181,5 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/b/ba/baxter/"><img src="/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/sett.png" alt="Baxter" width="140"><br><strong>Baxter (1)</strong></a><div class="clan-territory">Baxter</div></li>
 <li><a class="tartan" href="/tartans/b/ba/baxter-2/"><img src="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/sett.png" alt="Baxter" width="140"><br><strong>Baxter (1)</strong></a><div class="clan-territory">Baxter</div></li>
 <li><a class="tartan" href="/tartans/b/ba/baxter-3/"><img src="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/sett.png" alt="Baxter" width="140"><br><strong>Baxter (1)</strong></a><div class="clan-territory">Baxter</div></li>
-<li><a class="tartan" href="/tartans/b/ba/baxter-of-balgavies/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/sett.png" alt="Baxter of Balgavies" width="140"><br><strong>Baxter of Balgavies (1)</strong></a><div class="clan-territory">Baxter of Balgavies</div></li>
+<li><a class="tartan" href="/tartans/b/ba/baxter-of-balgavies/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/sett.png" alt="Baxter of Balgavies" width="140"><br><strong>Baxter of Balgavies (2)</strong></a><div class="clan-territory">Baxter of Balgavies</div></li>
 </ul>

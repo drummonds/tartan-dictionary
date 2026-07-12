@@ -2,7 +2,7 @@
 title: "Tartans — Fa"
 date: 2023-03-18
 ---
-28 tartans beginning with Fa, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
+29 tartans beginning with Fa, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/f/fa/faber/"><img src="/variants/s7/k10dp4db25w1g13db13r3~x2/sett.png" alt="Faber" width="140"><br><strong>Faber (1)</strong></a></li>
@@ -25,6 +25,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fa/farquharson-2/"><img src="/variants/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/sett.png" alt="Farquharson" width="140"><br><strong>Farquharson (1)</strong></a><div class="clan-territory">Farquharson</div></li>
 <li><a class="tartan" href="/tartans/f/fa/farquharson-3/"><img src="/variants/s14/r2k1db8k8g8y2g8k8db1k1db1k1db4r1~x4/sett.png" alt="Farquharson" width="140"><br><strong>Farquharson (3)</strong></a><div class="clan-territory">Farquharson</div></li>
 <li><a class="tartan" href="/tartans/f/fa/farquharson-dress/"><img src="/variants/s13/w6k1w1k1w1k8g8y2g8k8db8k1dr2~x2/sett.png" alt="Farquharson Dress" width="140"><br><strong>Farquharson Dress (2)</strong></a><div class="clan-territory">Farquharson</div></li>
+<li><a class="tartan" href="/tartans/f/fa/farquharson-of-baldovie/"><img src="/variants/s14/r2k1db8k8dg8ly2dg8k8db1k1db1k1db4r1~x4/sett.png" alt="Farquharson of Baldovie" width="140"><br><strong>Farquharson of Baldovie (1)</strong></a><div class="clan-territory">Farquharson of Baldovie</div></li>
 <li><a class="tartan" href="/tartans/f/fa/farquharson-or-macewan/"><img src="/variants/s28/k19g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/sett.png" alt="Farquharson or MacEwan" width="140"><br><strong>Farquharson or MacEwan (1)</strong></a><div class="clan-territory">Clan Farquharson</div></li>
 <li><a class="tartan" href="/tartans/f/fa/farquharson-or-macewen-macewan/"><img src="/variants/s28/k36g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/sett.png" alt="Farquharson or MacEwen/MacEwan" width="140"><br><strong>Farquharson or MacEwen/MacEwan (1)</strong></a><div class="clan-territory">Clan Farquharson</div></li>
 <li><a class="tartan" href="/tartans/f/fa/faskin/"><img src="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/sett.png" alt="Faskin" width="140"><br><strong>Faskin (1)</strong></a></li>

@@ -3,7 +3,7 @@ title: "Families & clans — B"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-154 clans and families beginning with B. [Back to the A–Z](/families/).
+155 clans and families beginning with B. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/bacon/"><img src="/variants/s4/db14k3dr3w1~x2/sett.png" alt="Bacon" width="140"><br><strong>Bacon</strong></a></li>
@@ -125,6 +125,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/"><strong>Broager</strong></a></li>
 <li><a class="tartan" href="/families/broberg/"><img src="/variants/s4/dr80lb40k5dy6/sett.png" alt="Broberg" width="140"><br><strong>Broberg</strong></a></li>
 <li><a class="tartan" href="/families/brodie/"><img src="/variants/s8/r48w4db4k4r12db4r1y4/sett.png" alt="Brodie" width="140"><br><strong>Brodie</strong></a></li>
+<li><a class="tartan" href="/families/brodie-of-that-ilk-and-the-burn/"><img src="/variants/s8/r48w4db4k4r12db4r1ly4~x2/sett.png" alt="Brodie of that Ilk and The Burn" width="140"><br><strong>Brodie of that Ilk and The Burn</strong></a></li>
 <li><a class="tartan" href="/families/brook/"><img src="/variants/s10/n4w4do4w4n4w4do4w4r1n4~x4/sett.png" alt="Brook" width="140"><br><strong>Brook</strong></a></li>
 <li><a class="tartan" href="/variants/s9/db1lb1db1k8g10k8r1w1y1~x2/"><strong>Brooke</strong></a></li>
 <li><a class="tartan" href="/families/brough/"><img src="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/sett.png" alt="Brough" width="140"><br><strong>Brough</strong></a></li>

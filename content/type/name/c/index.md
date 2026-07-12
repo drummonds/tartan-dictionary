@@ -2,7 +2,7 @@
 title: "Name tartans — C"
 date: 2023-03-18
 ---
-78 Name tartans beginning with C. [Back to all Name tartans](/type/name/).
+81 Name tartans beginning with C. [Back to all Name tartans](/type/name/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s9/lb54dy4n4g12o4g8w1g8db6~x2/"><img src="/variants/s9/lb54dy4n4g12o4g8w1g8db6~x2/sett.png" alt="Cadenhead (2015)" width="140"><br>Cadenhead (2015)</a></li>
@@ -14,8 +14,10 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/dt7r1n6r8lb1~x8/"><img src="/variants/s5/dt7r1n6r8lb1~x8/sett.png" alt="Callum (Buchan)" width="140"><br>Callum (Buchan)</a></li>
 <li><a class="tartan" href="/variants/s5/n7r1dt6r8lb1~x8/"><img src="/variants/s5/n7r1dt6r8lb1~x8/sett.png" alt="Callum (Buchan) (Name)" width="140"><br>Callum (Buchan) (Name)</a></li>
 <li><a class="tartan" href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/"><img src="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/sett.png" alt="Cameron" width="140"><br>Cameron</a></li>
+<li><a class="tartan" href="/variants/s21/ly2db8r3db16r1k16dg16r3dg1r1dg8r1dg1r3dg16k16r1db16r3db8ly1~x4/"><img src="/variants/s21/ly2db8r3db16r1k16dg16r3dg1r1dg8r1dg1r3dg16k16r1db16r3db8ly1~x4/sett.png" alt="Cameron of Fassifern and Arthurston" width="140"><br>Cameron of Fassifern and Arthurston</a></li>
 <li><a class="tartan" href="/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/"><img src="/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/sett.png" alt="Campbell" width="140"><br>Campbell</a></li>
 <li><a class="tartan" href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/"><img src="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/sett.png" alt="Campbell of Breadalbane" width="140"><br>Campbell of Breadalbane</a></li>
+<li><a class="tartan" href="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/"><img src="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/sett.png" alt="Campbell of Stracathro" width="140"><br>Campbell of Stracathro</a></li>
 <li><a class="tartan" href="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/"><img src="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/sett.png" alt="Campbell Simpson (Dalgliesh)" width="140"><br>Campbell Simpson (Dalgliesh)</a></li>
 <li><a class="tartan" href="/variants/s6/k2g8db2k9dp7k2~x2/"><img src="/variants/s6/k2g8db2k9dp7k2~x2/sett.png" alt="Campbell, Sir Walter Scott" width="140"><br>Campbell, Sir Walter Scott</a></li>
 <li><a class="tartan" href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><img src="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/sett.png" alt="Carlisle (Family)" width="140"><br>Carlisle (Family)</a></li>
@@ -39,6 +41,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><img src="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/sett.png" alt="Chindecella Gorse (Kemete Heil)" width="140"><br>Chindecella Gorse (Kemete Heil)</a></li>
 <li><a class="tartan" href="/variants/s8/dr9db4dr4db4dr24n19db19n4~x2/"><img src="/variants/s8/dr9db4dr4db4dr24n19db19n4~x2/sett.png" alt="Chindecella Ruadh (Kemete Heil)" width="140"><br>Chindecella Ruadh (Kemete Heil)</a></li>
 <li><a class="tartan" href="/variants/s14/r5g16r5db4w2db4r22db4w2db4r5g16r5db2~x4/"><img src="/variants/s14/r5g16r5db4w2db4r22db4w2db4r5g16r5db2~x4/sett.png" alt="Chisholm" width="140"><br>Chisholm</a></li>
+<li><a class="tartan" href="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/"><img src="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/sett.png" alt="Chisholm of that Ilk" width="140"><br>Chisholm of that Ilk</a></li>
 <li><a class="tartan" href="/variants/s8/k6y3k18g20k2db3k2g4~x2/"><img src="/variants/s8/k6y3k18g20k2db3k2g4~x2/sett.png" alt="Choinka Family (Inverness)" width="140"><br>Choinka Family (Inverness)</a></li>
 <li><a class="tartan" href="/variants/s5/db16r1k16w1r1~x4/"><img src="/variants/s5/db16r1k16w1r1~x4/sett.png" alt="Christie (2016)" width="140"><br>Christie (2016)</a></li>
 <li><a class="tartan" href="/variants/s6/y5k2g4lb18r25w5~x2/"><img src="/variants/s6/y5k2g4lb18r25w5~x2/sett.png" alt="Christie (London)" width="140"><br>Christie (London)</a></li>

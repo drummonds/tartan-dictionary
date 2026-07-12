@@ -30,6 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/">Graham</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><img src="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/">Grahame of Morphie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/"><img src="/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/sett.png" alt="Grahame of Morphie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

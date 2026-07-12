@@ -2,7 +2,7 @@
 title: "Tartans — Da"
 date: 2023-03-18
 ---
-80 tartans beginning with Da, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
+81 tartans beginning with Da, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/d/da/daks-house/"><img src="/variants/s5/db4g7k4g7y4~x2/sett.png" alt="DAKS House" width="140"><br><strong>DAKS House (1)</strong></a><div class="clan-territory">Clan Daks</div></li>
@@ -78,6 +78,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/d/da/davidson-2/"><img src="/variants/s7/r2db14k6g1w12g1w2~x4/sett.png" alt="Davidson" width="140"><br><strong>Davidson (1)</strong></a><div class="clan-territory">Davidson</div></li>
 <li><a class="tartan" href="/tartans/d/da/davidson-3/"><img src="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/sett.png" alt="Davidson" width="140"><br><strong>Davidson (2)</strong></a><div class="clan-territory">Davidson</div></li>
 <li><a class="tartan" href="/tartans/d/da/davidson-double/"><img src="/variants/s8/k3w2k3g8k8db8r2db3~x2/sett.png" alt="Davidson Double" width="140"><br><strong>Davidson Double (2)</strong></a><div class="clan-territory">Clan Davidson</div></li>
+<li><a class="tartan" href="/tartans/d/da/davidson-of-inchmarlo/"><img src="/variants/s29/r2k8w2r22t8k2t2k2t8k12ly2dg16r22t4r22t4r22dg16ly2k12t8k2t2k2t8r22w2k2r1~x2/sett.png" alt="Davidson of Inchmarlo" width="140"><br><strong>Davidson of Inchmarlo (1)</strong></a><div class="clan-territory">Davidson of Inchmarlo</div></li>
 <li><a class="tartan" href="/tartans/d/da/davidson-of-tulloch/"><img src="/variants/s5/r1db6k3g6w1~x4/sett.png" alt="Davidson of Tulloch" width="140"><br><strong>Davidson of Tulloch (5)</strong></a><div class="clan-territory">Davidson of Tulloch</div></li>
 <li><a class="tartan" href="/tartans/d/da/davidson-of-tulloch-dress/"><img src="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/sett.png" alt="Davidson of Tulloch Dress" width="140"><br><strong>Davidson of Tulloch Dress (1)</strong></a><div class="clan-territory">Davidson of Tulloch</div></li>
 <li><a class="tartan" href="/tartans/d/da/davies/"><img src="/variants/s13/g2k3db30k2db4k2db30k3dg30k3dbi30k2lb2~g2203152-db1106275-dg1806142-dbi1204274/sett.png" alt="Davies" width="140"><br><strong>Davies (1)</strong></a><div class="clan-territory">Clan Davies</div></li>

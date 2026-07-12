@@ -10,7 +10,7 @@ crumbs:
 - name: "MacGregor"
   url: "/families/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-7/"
+  url: "/tartans/m/ma/macgregor-8/"
 - name: "Rob Roy (Film) (Corporate)"
   url: "/setts/n3dg1n10dg4dy10n2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n3dg1n10dg4dy10n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGB](/stripes/bgbggb/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-7/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -68,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 13656 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.5" cy="285.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.3" cy="270.2" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><a href="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2~dp1303322/"><circle cx="438.9" cy="262.9" r="4" fill="#3465a4"><title>Wicks Personal Tartan</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.9" cy="285.9" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.7" cy="292.5" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.6" cy="278.1" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s7/dg28dr4dp27dr27dg28dr5dp2~x2/"><circle cx="497.6" cy="308.6" r="4" fill="#3465a4"><title>Madder - 1819</title></circle></a><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><circle cx="485.3" cy="296.5" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="500.2" cy="258.5" r="4" fill="#3465a4"><title>Jahore District Tartan</title></circle></a><circle cx="470.8" cy="308.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.3" cy="285.0" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.0" cy="270.5" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><a href="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2~dp1303322/"><circle cx="438.6" cy="263.0" r="4" fill="#3465a4"><title>Wicks Personal Tartan</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.5" cy="285.9" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.4" cy="292.3" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.3" cy="296.5" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.5" cy="277.8" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s7/dg28dr4dp27dr27dg28dr5dp2~x2/"><circle cx="497.2" cy="308.8" r="4" fill="#3465a4"><title>Madder - 1819</title></circle></a><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><circle cx="485.0" cy="296.5" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="500.0" cy="258.3" r="4" fill="#3465a4"><title>Jahore District Tartan</title></circle></a><circle cx="470.5" cy="308.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/n3dg1n10dg4dy10n2~x4/

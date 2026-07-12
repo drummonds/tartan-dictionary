@@ -2200,6 +2200,13 @@
       "rank": 0
     },
     {
+      "name": "duff",
+      "display": "Duff",
+      "kind": "clan",
+      "url": "/clan/duff/",
+      "rank": 0
+    },
+    {
       "name": "duffy",
       "display": "Duffy",
       "kind": "clan",
@@ -3023,6 +3030,13 @@
       "display": "Graham",
       "kind": "clan",
       "url": "/clan/graham/",
+      "rank": 0
+    },
+    {
+      "name": "grahame",
+      "display": "Grahame",
+      "kind": "clan",
+      "url": "/clan/grahame/",
       "rank": 0
     },
     {
@@ -4868,7 +4882,7 @@
     },
     {
       "name": "macaulay",
-      "display": "MacAulay",
+      "display": "Macaulay",
       "kind": "clan",
       "url": "/clan/macaulay/",
       "rank": 0
@@ -5466,6 +5480,13 @@
       "display": "MacNiven",
       "kind": "clan",
       "url": "/clan/macniven/",
+      "rank": 0
+    },
+    {
+      "name": "maconachie",
+      "display": "Maconachie",
+      "kind": "clan",
+      "url": "/clan/maconachie/",
       "rank": 0
     },
     {
@@ -9837,6 +9858,13 @@
       "rank": 1
     },
     {
+      "name": "brodie of that ilk and the burn",
+      "display": "Brodie of that Ilk and The Burn",
+      "kind": "family",
+      "url": "/families/brodie-of-that-ilk-and-the-burn/",
+      "rank": 1
+    },
+    {
       "name": "brook",
       "display": "Brook",
       "kind": "family",
@@ -10145,6 +10173,13 @@
       "rank": 1
     },
     {
+      "name": "cameron of fassifern and arthurston",
+      "display": "Cameron of Fassifern and Arthurston",
+      "kind": "family",
+      "url": "/families/cameron-of-fassifern-and-arthurston/",
+      "rank": 1
+    },
+    {
       "name": "cameron of locheil",
       "display": "Cameron of Locheil",
       "kind": "family",
@@ -10233,6 +10268,13 @@
       "display": "Campbell of Loudoun",
       "kind": "family",
       "url": "/families/campbell-of-loudoun/",
+      "rank": 1
+    },
+    {
+      "name": "campbell of stracathro",
+      "display": "Campbell of Stracathro",
+      "kind": "family",
+      "url": "/families/campbell-of-stracathro/",
       "rank": 1
     },
     {
@@ -10415,6 +10457,13 @@
       "display": "Chisholm of Strathglass",
       "kind": "family",
       "url": "/families/chisholm-of-strathglass/",
+      "rank": 1
+    },
+    {
+      "name": "chisholm of that ilk",
+      "display": "Chisholm of that Ilk",
+      "kind": "family",
+      "url": "/families/chisholm-of-that-ilk/",
       "rank": 1
     },
     {
@@ -11055,6 +11104,13 @@
       "rank": 1
     },
     {
+      "name": "davidson of inchmarlo",
+      "display": "Davidson of Inchmarlo",
+      "kind": "family",
+      "url": "/families/davidson-of-inchmarlo/",
+      "rank": 1
+    },
+    {
       "name": "davidson of tulloch",
       "display": "Davidson of Tulloch",
       "kind": "family",
@@ -11328,6 +11384,13 @@
       "rank": 1
     },
     {
+      "name": "drummond of drumtochty",
+      "display": "Drummond of Drumtochty",
+      "kind": "family",
+      "url": "/families/drummond-of-drumtochty/",
+      "rank": 1
+    },
+    {
       "name": "drummond of megginch",
       "display": "Drummond of Megginch",
       "kind": "family",
@@ -11360,6 +11423,13 @@
       "display": "Dryer",
       "kind": "family",
       "url": "/families/dryer/",
+      "rank": 1
+    },
+    {
+      "name": "duff of careston",
+      "display": "Duff of Careston",
+      "kind": "family",
+      "url": "/families/duff-of-careston/",
       "rank": 1
     },
     {
@@ -11664,6 +11734,13 @@
       "rank": 1
     },
     {
+      "name": "farquharson of baldovie",
+      "display": "Farquharson of Baldovie",
+      "kind": "family",
+      "url": "/families/farquharson-of-baldovie/",
+      "rank": 1
+    },
+    {
       "name": "faulkner",
       "display": "Faulkner",
       "kind": "family",
@@ -11689,6 +11766,13 @@
       "display": "Ferguson of Balquhidder",
       "kind": "family",
       "url": "/families/ferguson-of-balquhidder/",
+      "rank": 1
+    },
+    {
+      "name": "ferguson of woodhill",
+      "display": "Ferguson of Woodhill",
+      "kind": "family",
+      "url": "/families/ferguson-of-woodhill/",
       "rank": 1
     },
     {
@@ -12259,6 +12343,13 @@
       "rank": 1
     },
     {
+      "name": "gordon of the burn",
+      "display": "Gordon of The Burn",
+      "kind": "family",
+      "url": "/families/gordon-of-the-burn/",
+      "rank": 1
+    },
+    {
       "name": "gordonstoun",
       "display": "Gordonstoun",
       "kind": "family",
@@ -12319,6 +12410,13 @@
       "display": "Graham of Montrose",
       "kind": "family",
       "url": "/families/graham-of-montrose/",
+      "rank": 1
+    },
+    {
+      "name": "grahame of morphie",
+      "display": "Grahame of Morphie",
+      "kind": "family",
+      "url": "/families/grahame-of-morphie/",
       "rank": 1
     },
     {
@@ -13250,6 +13348,13 @@
       "display": "Innes of Learney",
       "kind": "family",
       "url": "/families/innes-of-learney/",
+      "rank": 1
+    },
+    {
+      "name": "innes of raemoir and cowie",
+      "display": "Innes of Raemoir and Cowie",
+      "kind": "family",
+      "url": "/families/innes-of-raemoir-and-cowie/",
       "rank": 1
     },
     {
@@ -14472,7 +14577,7 @@
     },
     {
       "name": "macaulay of ardincaple",
-      "display": "MacAulay of Ardincaple",
+      "display": "Macaulay of Ardincaple",
       "kind": "family",
       "url": "/families/macaulay-of-ardincaple/",
       "rank": 1
@@ -14713,6 +14818,13 @@
       "display": "MacDonald of Prince Edward Island",
       "kind": "family",
       "url": "/families/macdonald-of-prince-edward-island/",
+      "rank": 1
+    },
+    {
+      "name": "macdonald of rossie",
+      "display": "Macdonald of Rossie",
+      "kind": "family",
+      "url": "/families/macdonald-of-rossie/",
       "rank": 1
     },
     {
@@ -14961,6 +15073,13 @@
       "rank": 1
     },
     {
+      "name": "macinroy of the burn",
+      "display": "MacInroy of The Burn",
+      "kind": "family",
+      "url": "/families/macinroy-of-the-burn/",
+      "rank": 1
+    },
+    {
       "name": "macintosh",
       "display": "MacIntosh",
       "kind": "family",
@@ -15084,6 +15203,13 @@
       "display": "MacKenzie",
       "kind": "family",
       "url": "/families/mackenzie/",
+      "rank": 1
+    },
+    {
+      "name": "mackenzie of woodstock",
+      "display": "Mackenzie of Woodstock",
+      "kind": "family",
+      "url": "/families/mackenzie-of-woodstock/",
       "rank": 1
     },
     {
@@ -15332,6 +15458,13 @@
       "rank": 1
     },
     {
+      "name": "macnab of arthurston",
+      "display": "MacNab of Arthurston",
+      "kind": "family",
+      "url": "/families/macnab-of-arthurston/",
+      "rank": 1
+    },
+    {
       "name": "macnappy",
       "display": "MacNappy",
       "kind": "family",
@@ -15392,6 +15525,13 @@
       "display": "MacNiven",
       "kind": "family",
       "url": "/families/macniven/",
+      "rank": 1
+    },
+    {
+      "name": "maconachie of meadowbank",
+      "display": "Maconachie of Meadowbank",
+      "kind": "family",
+      "url": "/families/maconachie-of-meadowbank/",
       "rank": 1
     },
     {
@@ -15962,6 +16102,13 @@
       "rank": 1
     },
     {
+      "name": "menzies of pitfoddels",
+      "display": "Menzies of Pitfoddels",
+      "kind": "family",
+      "url": "/families/menzies-of-pitfoddels/",
+      "rank": 1
+    },
+    {
       "name": "mercer",
       "display": "Mercer",
       "kind": "family",
@@ -16298,6 +16445,13 @@
       "rank": 1
     },
     {
+      "name": "munro of lindertis",
+      "display": "Munro of Lindertis",
+      "kind": "family",
+      "url": "/families/munro-of-lindertis/",
+      "rank": 1
+    },
+    {
       "name": "munster",
       "display": "Munster",
       "kind": "family",
@@ -16323,6 +16477,13 @@
       "display": "Murray of Abercairney",
       "kind": "family",
       "url": "/families/murray-of-abercairney/",
+      "rank": 1
+    },
+    {
+      "name": "murray of arthurstone",
+      "display": "Murray of Arthurstone",
+      "kind": "family",
+      "url": "/families/murray-of-arthurstone/",
       "rank": 1
     },
     {
@@ -16610,6 +16771,13 @@
       "display": "Ogilvy of Airlie",
       "kind": "family",
       "url": "/families/ogilvy-of-airlie/",
+      "rank": 1
+    },
+    {
+      "name": "ogilvy of inverquharity",
+      "display": "Ogilvy of Inverquharity",
+      "kind": "family",
+      "url": "/families/ogilvy-of-inverquharity/",
       "rank": 1
     },
     {
@@ -17824,6 +17992,13 @@
       "rank": 1
     },
     {
+      "name": "sinclair of auldbar",
+      "display": "Sinclair of Auldbar",
+      "kind": "family",
+      "url": "/families/sinclair-of-auldbar/",
+      "rank": 1
+    },
+    {
       "name": "sinclair of ulbster",
       "display": "Sinclair of Ulbster",
       "kind": "family",
@@ -17849,6 +18024,13 @@
       "display": "Skene of Cromar",
       "kind": "family",
       "url": "/families/skene-of-cromar/",
+      "rank": 1
+    },
+    {
+      "name": "skene of that ilk",
+      "display": "Skene of that Ilk",
+      "kind": "family",
+      "url": "/families/skene-of-that-ilk/",
       "rank": 1
     },
     {
@@ -24761,6 +24943,13 @@
       "rank": 4
     },
     {
+      "name": "baxter of balgavies",
+      "display": "Baxter of Balgavies",
+      "kind": "tartan",
+      "url": "/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/",
+      "rank": 4
+    },
+    {
       "name": "bc corps of commissionaires",
       "display": "BC Corps of Commissionaires",
       "kind": "tartan",
@@ -28429,6 +28618,13 @@
       "rank": 4
     },
     {
+      "name": "brodie of that ilk and the burn",
+      "display": "Brodie of that Ilk and The Burn",
+      "kind": "tartan",
+      "url": "/variants/s8/r48w4db4k4r12db4r1ly4~x2/",
+      "rank": 4
+    },
+    {
       "name": "brodie silver",
       "display": "Brodie Silver",
       "kind": "tartan",
@@ -31089,6 +31285,13 @@
       "rank": 4
     },
     {
+      "name": "cameron of fassifern and arthurston",
+      "display": "Cameron of Fassifern and Arthurston",
+      "kind": "tartan",
+      "url": "/variants/s21/ly2db8r3db16r1k16dg16r3dg1r1dg8r1dg1r3dg16k16r1db16r3db8ly1~x4/",
+      "rank": 4
+    },
+    {
       "name": "cameron of locheil",
       "display": "Cameron of Locheil",
       "kind": "tartan",
@@ -31499,6 +31702,13 @@
       "display": "Campbell of Loudoun, Plaid",
       "kind": "tartan",
       "url": "/variants/s25/db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3g4r14g10r10db5r4db1~x2/",
+      "rank": 4
+    },
+    {
+      "name": "campbell of stracathro",
+      "display": "Campbell of Stracathro",
+      "kind": "tartan",
+      "url": "/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/",
       "rank": 4
     },
     {
@@ -33599,6 +33809,13 @@
       "display": "Chisholm of Strathglass",
       "kind": "tartan",
       "url": "/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/",
+      "rank": 4
+    },
+    {
+      "name": "chisholm of that ilk",
+      "display": "Chisholm of that Ilk",
+      "kind": "tartan",
+      "url": "/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/",
       "rank": 4
     },
     {
@@ -38460,6 +38677,13 @@
       "rank": 4
     },
     {
+      "name": "davidson of inchmarlo",
+      "display": "Davidson of Inchmarlo",
+      "kind": "tartan",
+      "url": "/variants/s29/r2k8w2r22t8k2t2k2t8k12ly2dg16r22t4r22t4r22dg16ly2k12t8k2t2k2t8r22w2k2r1~x2/",
+      "rank": 4
+    },
+    {
       "name": "davidson of tulloch",
       "display": "Davidson of Tulloch",
       "kind": "tartan",
@@ -40455,6 +40679,13 @@
       "rank": 4
     },
     {
+      "name": "drummond of drumtochty",
+      "display": "Drummond of Drumtochty",
+      "kind": "tartan",
+      "url": "/variants/s17/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1~x4/",
+      "rank": 4
+    },
+    {
       "name": "drummond of perth",
       "display": "Drummond of Perth",
       "kind": "tartan",
@@ -40746,6 +40977,13 @@
       "display": "Duchess of York Family Tartan",
       "kind": "tartan",
       "url": "/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/",
+      "rank": 4
+    },
+    {
+      "name": "duff of careston",
+      "display": "Duff of Careston",
+      "kind": "tartan",
+      "url": "/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/",
       "rank": 4
     },
     {
@@ -43556,6 +43794,13 @@
       "rank": 4
     },
     {
+      "name": "farquharson of baldovie",
+      "display": "Farquharson of Baldovie",
+      "kind": "tartan",
+      "url": "/variants/s14/r2k1db8k8dg8ly2dg8k8db1k1db1k1db4r1~x4/",
+      "rank": 4
+    },
+    {
       "name": "farquharson or macewan clan tartan",
       "display": "Farquharson or MacEwan Clan Tartan",
       "kind": "tartan",
@@ -43847,6 +44092,13 @@
       "display": "Ferguson of Balquhidder #3",
       "kind": "tartan",
       "url": "/variants/s6/k3db12r2k12g12k3~x2/",
+      "rank": 4
+    },
+    {
+      "name": "ferguson of woodhill",
+      "display": "Ferguson of Woodhill",
+      "kind": "tartan",
+      "url": "/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/",
       "rank": 4
     },
     {
@@ -45068,6 +45320,13 @@
       "rank": 4
     },
     {
+      "name": "forsythe-grant of ecclesgreig",
+      "display": "Forsythe-Grant of Ecclesgreig",
+      "kind": "tartan",
+      "url": "/variants/s29/r10db2r1db2r72t1r2db20r4dg2r4dg84r2db2r10db2r2dg84r4dg2r4db20r2t1r72db2r2db1r5~x2/",
+      "rank": 4
+    },
+    {
       "name": "fort william",
       "display": "Fort William",
       "kind": "tartan",
@@ -45275,6 +45534,13 @@
       "display": "Fraser",
       "kind": "tartan",
       "url": "/variants/s23/db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5~x4/",
+      "rank": 4
+    },
+    {
+      "name": "fraser",
+      "display": "Fraser",
+      "kind": "tartan",
+      "url": "/variants/s25/db10r1db1r1dg10r13dg2r13dg10db10r1db1r1db10dg10r13dg2r13dg2r13dg10r1db1r1db5~x4/",
       "rank": 4
     },
     {
@@ -48687,6 +48953,13 @@
       "rank": 4
     },
     {
+      "name": "gordon of the burn",
+      "display": "Gordon of The Burn",
+      "kind": "tartan",
+      "url": "/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/",
+      "rank": 4
+    },
+    {
       "name": "gordon red",
       "display": "Gordon Red",
       "kind": "tartan",
@@ -49153,6 +49426,13 @@
       "display": "Grahame Laurie Band (Corporate)",
       "kind": "tartan",
       "url": "/variants/s7/k8ly2dp6ly2k36db84w7/",
+      "rank": 4
+    },
+    {
+      "name": "grahame of morphie",
+      "display": "Grahame of Morphie",
+      "kind": "tartan",
+      "url": "/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/",
       "rank": 4
     },
     {
@@ -55869,6 +56149,13 @@
       "rank": 4
     },
     {
+      "name": "innes of raemoir and cowie",
+      "display": "Innes of Raemoir and Cowie",
+      "kind": "tartan",
+      "url": "/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/",
+      "rank": 4
+    },
+    {
       "name": "innes red, dress (dance)",
       "display": "Innes Red, Dress (Dance)",
       "kind": "tartan",
@@ -62211,6 +62498,13 @@
       "rank": 4
     },
     {
+      "name": "lindsay earl of crawford",
+      "display": "Lindsay Earl of Crawford",
+      "kind": "tartan",
+      "url": "/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/",
+      "rank": 4
+    },
+    {
       "name": "lindsay htg (clan?)",
       "display": "Lindsay Htg (Clan?)",
       "kind": "tartan",
@@ -65186,6 +65480,13 @@
       "rank": 4
     },
     {
+      "name": "macaulay of ardincaple",
+      "display": "Macaulay of Ardincaple",
+      "kind": "tartan",
+      "url": "/variants/s17/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48~x2/",
+      "rank": 4
+    },
+    {
       "name": "macaulay of ardincaple (clan)",
       "display": "MacAulay of Ardincaple (Clan)",
       "kind": "tartan",
@@ -66317,6 +66618,13 @@
       "display": "MacDonald of Prince Edward Island",
       "kind": "tartan",
       "url": "/variants/s24/r24db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/",
+      "rank": 4
+    },
+    {
+      "name": "macdonald of rossie",
+      "display": "Macdonald of Rossie",
+      "kind": "tartan",
+      "url": "/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/",
       "rank": 4
     },
     {
@@ -67527,6 +67835,13 @@
       "name": "macgregor",
       "display": "MacGregor",
       "kind": "tartan",
+      "url": "/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/",
+      "rank": 4
+    },
+    {
+      "name": "macgregor",
+      "display": "MacGregor",
+      "kind": "tartan",
       "url": "/variants/s6/r35g16r5g5w2k3~x2/",
       "rank": 4
     },
@@ -67962,6 +68277,13 @@
       "display": "MacInroy Hunting",
       "kind": "tartan",
       "url": "/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/",
+      "rank": 4
+    },
+    {
+      "name": "macinroy of the burn",
+      "display": "MacInroy of The Burn",
+      "kind": "tartan",
+      "url": "/variants/s31/r1dg17r2db2r17dg2r2dg2r17db2r2dg17r2db17r2dg2r17dg2r2dg2r17dg2r2dg17r2dg17r2db2r17dg2r1~x4/",
       "rank": 4
     },
     {
@@ -68707,6 +69029,13 @@
       "rank": 4
     },
     {
+      "name": "mackenzie of woodstock",
+      "display": "Mackenzie of Woodstock",
+      "kind": "tartan",
+      "url": "/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/",
+      "rank": 4
+    },
+    {
       "name": "mackenzie, bailey",
       "display": "MacKenzie, Bailey",
       "kind": "tartan",
@@ -69033,6 +69362,13 @@
       "display": "MacKinnon Hunting #3",
       "kind": "tartan",
       "url": "/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/",
+      "rank": 4
+    },
+    {
+      "name": "mackinnon of mackinnon",
+      "display": "Mackinnon of Mackinnon",
+      "kind": "tartan",
+      "url": "/variants/s27/w2r3dg2db2r6dg16r2db4dg2r16dg8w2r4w2r4w2dg8r16dg2db4r2dg16r6db2dg2r3w1~x4/",
       "rank": 4
     },
     {
@@ -69428,6 +69764,13 @@
       "rank": 4
     },
     {
+      "name": "maclagan of glenquiech",
+      "display": "MacLagan of Glenquiech",
+      "kind": "tartan",
+      "url": "/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/",
+      "rank": 4
+    },
+    {
       "name": "maclaggan",
       "display": "MacLaggan",
       "kind": "tartan",
@@ -69586,6 +69929,13 @@
       "display": "MacLaurin of Brioch",
       "kind": "tartan",
       "url": "/variants/s7/db36k10g3r3g6k1y2~x2/",
+      "rank": 4
+    },
+    {
+      "name": "maclaurin of broich",
+      "display": "MacLaurin of Broich",
+      "kind": "tartan",
+      "url": "/variants/s14/db37k16dg6r6dg12k2ly4k2dg12r6dg6k20db72k20~x2/",
       "rank": 4
     },
     {
@@ -70618,6 +70968,13 @@
       "rank": 4
     },
     {
+      "name": "macnab of arthurston",
+      "display": "MacNab of Arthurston",
+      "kind": "tartan",
+      "url": "/variants/s24/dg1r1dg6r6ri6r1ri6r6dg1r1dg1r1dg6r1dg1r1dg1r6ri6r1ri6r6dg6r1~x8~r1707016-ri2109032/",
+      "rank": 4
+    },
+    {
       "name": "macnab vs",
       "display": "MacNab VS",
       "kind": "tartan",
@@ -71014,6 +71371,13 @@
       "display": "MacNiven Family Tartan",
       "kind": "tartan",
       "url": "/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/",
+      "rank": 4
+    },
+    {
+      "name": "maconachie of meadowbank",
+      "display": "Maconachie of Meadowbank",
+      "kind": "tartan",
+      "url": "/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/",
       "rank": 4
     },
     {
@@ -72134,6 +72498,13 @@
       "display": "MacThomas LC",
       "kind": "tartan",
       "url": "/variants/s7/db5dp3db32k16g32o3g5/",
+      "rank": 4
+    },
+    {
+      "name": "mactier of durris",
+      "display": "MacTier of Durris",
+      "kind": "tartan",
+      "url": "/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/",
       "rank": 4
     },
     {
@@ -75707,6 +76078,13 @@
       "rank": 4
     },
     {
+      "name": "menzies of pitfoddels",
+      "display": "Menzies of Pitfoddels",
+      "kind": "tartan",
+      "url": "/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/",
+      "rank": 4
+    },
+    {
       "name": "menzies royal blue dress tartan",
       "display": "Menzies Royal Blue Dress Tartan",
       "kind": "tartan",
@@ -77884,6 +78262,13 @@
       "rank": 4
     },
     {
+      "name": "munro of lindertis",
+      "display": "Munro of Lindertis",
+      "kind": "tartan",
+      "url": "/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/",
+      "rank": 4
+    },
+    {
       "name": "munro old artifact tartan",
       "display": "Munro Old Artifact Tartan",
       "kind": "tartan",
@@ -78056,6 +78441,13 @@
       "display": "Murray of Abercairney (Personal)",
       "kind": "tartan",
       "url": "/variants/s9/lb3n1k1ri12r1g9r1n1lb3~x2~ri2209032-r2208029/",
+      "rank": 4
+    },
+    {
+      "name": "murray of arthurstone",
+      "display": "Murray of Arthurstone",
+      "kind": "tartan",
+      "url": "/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/",
       "rank": 4
     },
     {
@@ -81227,6 +81619,13 @@
       "display": "Ogilvy of Airlie",
       "kind": "tartan",
       "url": "/variants/s36/r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3~x2/",
+      "rank": 4
+    },
+    {
+      "name": "ogilvy of inverquharity",
+      "display": "Ogilvy of Inverquharity",
+      "kind": "tartan",
+      "url": "/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/",
       "rank": 4
     },
     {
@@ -93186,6 +93585,13 @@
       "rank": 4
     },
     {
+      "name": "sinclair of auldbar",
+      "display": "Sinclair of Auldbar",
+      "kind": "tartan",
+      "url": "/variants/s6/r36t8w1k5dg20r18~x4/",
+      "rank": 4
+    },
+    {
       "name": "sinclair of ulbster",
       "display": "Sinclair of Ulbster",
       "kind": "tartan",
@@ -93379,6 +93785,13 @@
       "display": "Skene of Cromar (Cant version)",
       "kind": "tartan",
       "url": "/variants/s6/g21k21r1db20r20k2~x2/",
+      "rank": 4
+    },
+    {
+      "name": "skene of that ilk",
+      "display": "Skene of that Ilk",
+      "kind": "tartan",
+      "url": "/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/",
       "rank": 4
     },
     {
@@ -97523,6 +97936,20 @@
       "display": "Stuart of Bute St Colmac",
       "kind": "tartan",
       "url": "/variants/s9/ly16lb8n1lb2n1lb1n8ly34w2~x2/",
+      "rank": 4
+    },
+    {
+      "name": "stuart-forbes of fettercairn and pitsligo",
+      "display": "Stuart-Forbes of Fettercairn and Pitsligo",
+      "kind": "tartan",
+      "url": "/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/",
+      "rank": 4
+    },
+    {
+      "name": "stuart-forbes of fettercairn and pitsligo",
+      "display": "Stuart-Forbes of Fettercairn and Pitsligo",
+      "kind": "tartan",
+      "url": "/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/",
       "rank": 4
     },
     {

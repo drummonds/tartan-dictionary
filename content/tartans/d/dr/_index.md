@@ -2,7 +2,7 @@
 title: "Tartans — Dr"
 date: 2023-03-18
 ---
-46 tartans beginning with Dr, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
+47 tartans beginning with Dr, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/d/dr/dram/"><img src="/variants/s6/db5lb1db15lb25db1lb5~x4/sett.png" alt="Dram!" width="140"><br><strong>Dram! (1)</strong></a></li>
@@ -35,6 +35,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/d/dr/drummond-10/"><img src="/variants/s12/r4g1r1g18k1g1k1g8r28g1r1g4~x2/sett.png" alt="Drummond" width="140"><br><strong>Drummond (1)</strong></a><div class="clan-territory">Drummond</div></li>
 <li><a class="tartan" href="/tartans/d/dr/drummond-c/"><img src="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/sett.png" alt="Drummond C" width="140"><br><strong>Drummond C (1)</strong></a><div class="clan-territory">Clan Drummond</div></li>
 <li><a class="tartan" href="/tartans/d/dr/drummond-relic/"><img src="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/sett.png" alt="Drummond Relic" width="140"><br><strong>Drummond Relic (1)</strong></a><div class="clan-territory">Clan Drummond</div></li>
+<li><a class="tartan" href="/tartans/d/dr/drummond-of-drumtochty/"><img src="/variants/s17/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1~x4/sett.png" alt="Drummond of Drumtochty" width="140"><br><strong>Drummond of Drumtochty (1)</strong></a><div class="clan-territory">Drummond of Drumtochty</div></li>
 <li><a class="tartan" href="/tartans/d/dr/drummond-of-megginch/"><img src="/variants/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2~r2109032-db0906265-lb3203246-dg1405139/sett.png" alt="Drummond of Megginch" width="140"><br><strong>Drummond of Megginch (7)</strong></a><div class="clan-territory">Drummond of Megginch</div></li>
 <li><a class="tartan" href="/tartans/d/dr/drummond-of-perth/"><img src="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/sett.png" alt="Drummond of Perth" width="140"><br><strong>Drummond of Perth (1)</strong></a><div class="clan-territory">Drummond of Perth</div></li>
 <li><a class="tartan" href="/tartans/d/dr/drummond-of-perth-2/"><img src="/variants/s9/r36w1db3y1g16r8db3lb2w1~x2/sett.png" alt="Drummond of Perth" width="140"><br><strong>Drummond of Perth (3)</strong></a><div class="clan-territory">Drummond of Perth</div></li>

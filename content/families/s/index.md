@@ -3,7 +3,7 @@ title: "Families & clans — S"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-172 clans and families beginning with S. [Back to the A–Z](/families/).
+175 clans and families beginning with S. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/saltcoats/"><img src="/variants/s11/db3y3n15lb8w8db6n15lb6y3dg6r3~x2/sett.png" alt="Saltcoats" width="140"><br><strong>Saltcoats</strong></a></li>
@@ -72,11 +72,13 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/simba/"><img src="/variants/s6/dp2g3o21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br><strong>SiMBA</strong></a></li>
 <li><a class="tartan" href="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/"><strong>Simon and Friends (Persona</strong></a></li>
 <li><a class="tartan" href="/families/sinclair/"><img src="/variants/s7/dr4db15w2n15g30dr2g4~x2/sett.png" alt="Sinclair" width="140"><br><strong>Sinclair</strong></a></li>
+<li><a class="tartan" href="/families/sinclair-of-auldbar/"><img src="/variants/s6/r36t8w1k5dg20r18~x4/sett.png" alt="Sinclair of Auldbar" width="140"><br><strong>Sinclair of Auldbar</strong></a></li>
 <li><a class="tartan" href="/families/sinclair-of-ulbster/"><img src="/variants/s4/t12k4g6ly1~x8/sett.png" alt="Sinclair of Ulbster" width="140"><br><strong>Sinclair of Ulbster</strong></a></li>
 <li><a class="tartan" href="/families/singh/"><img src="/variants/s8/dr3lb2g18lo2g18dp34dr3dp3~x2/sett.png" alt="Singh" width="140"><br><strong>Singh</strong></a></li>
 <li><a class="tartan" href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><strong>Sirrell</strong></a></li>
 <li><a class="tartan" href="/families/skene/"><img src="/variants/s7/db6r3g1r3g12r3g1~x2/sett.png" alt="Skene" width="140"><br><strong>Skene</strong></a></li>
 <li><a class="tartan" href="/families/skene-of-cromar/"><img src="/variants/s5/db2r20g20k21r1~x2/sett.png" alt="Skene of Cromar" width="140"><br><strong>Skene of Cromar</strong></a></li>
+<li><a class="tartan" href="/families/skene-of-that-ilk/"><img src="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/sett.png" alt="Skene of that Ilk" width="140"><br><strong>Skene of that Ilk</strong></a></li>
 <li><a class="tartan" href="/families/skibo/"><img src="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/sett.png" alt="Skibo" width="140"><br><strong>Skibo</strong></a></li>
 <li><a class="tartan" href="/families/skinner/"><img src="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/sett.png" alt="Skinner" width="140"><br><strong>Skinner</strong></a></li>
 <li><a class="tartan" href="/families/skye/"><img src="/variants/s6/db4w2db1w36g21y4~x2/sett.png" alt="Skye" width="140"><br><strong>Skye</strong></a></li>
@@ -161,6 +163,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/clan/stuart/"><img src="/variants/s9/r12g6k1g2k1g1k6r24w2~x2/sett.png" alt="Stuart" width="140"><br><strong>Stuart</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/stuart-of-bute/"><img src="/variants/s9/r12g6k1g2k1g1k6r24w2~x2/sett.png" alt="Stuart of Bute" width="140"><br><strong>Stuart of Bute</strong></a></li>
 <li><a class="tartan" href="/families/stuart-of-bute-st-colmac/"><img src="/variants/s9/ly16lb8n1lb2n1lb1n8ly34w2~x2/sett.png" alt="Stuart of Bute St Colmac" width="140"><br><strong>Stuart of Bute St Colmac</strong></a></li>
+<li><a class="tartan" href="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/"><strong>Stuart-Forbes of Fettercairn and Pitsligo</strong></a></li>
 <li><a class="tartan" href="/variants/s12/db20lb6k8y2k4w4k4db13r7k4r4w2~x2~db0804274/"><strong>Stuart/Stewart</strong></a></li>
 <li><a class="tartan" href="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/"><strong>Sturm</strong></a></li>
 <li><a class="tartan" href="/families/sturrock/"><img src="/variants/s6/r52k32g22r16y3r16/sett.png" alt="Sturrock" width="140"><br><strong>Sturrock</strong></a></li>

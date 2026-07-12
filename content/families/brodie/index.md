@@ -4,8 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Brodie"
+  url: "/clan/brodie/"
 ---
-*Single family clan, so not under clans.*
+A family of [Clan Brodie](/clan/brodie/).
 
 **Trove of Scotland:** [search “Brodie”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Brodie&viewmode=grid)
 

@@ -37,10 +37,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s3/dg6db2dg1~x8/">Montgomery - 1842 (VS</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/dg6db2dg1~x8/"><img src="/variants/s3/dg6db2dg1~x8/sett.png" alt="Montgomery - 1842 (VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/g12dp3g1~x2/">Elphinstone</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/g12dp3g1~x2/"><img src="/variants/s3/g12dp3g1~x2/sett.png" alt="Elphinstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/g6dp2g1/">Elphinstone</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/g6dp2g1/"><img src="/variants/s3/g6dp2g1~x4/sett.png" alt="Elphinstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g12dp3g1~x2/">Elphinstone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/g12dp3g1~x2/"><img src="/variants/s3/g12dp3g1~x2/sett.png" alt="Elphinstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s3/g28dp10g3~x2/">Elphinstone Clan Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/g28dp10g3~x2/"><img src="/variants/s3/g28dp10g3~x2/sett.png" alt="Elphinstone Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s4/dg2dp2dg24dpi1~x4~dg1806142-dpi1507327/">Walters (Personal)</a></td></tr>

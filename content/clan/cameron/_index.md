@@ -17,6 +17,7 @@ Designed in the 1940s by J.G. MacKay of Portree, evoking the blue and yellow wor
 
 - [Cameron](/families/cameron/)
 - [Cameron of Erracht](/families/cameron-of-erracht/)
+- [Cameron of Fassifern and Arthurston](/families/cameron-of-fassifern-and-arthurston/)
 - [Cameron of Locheil](/families/cameron-of-locheil/)
 - [Cameron of Lochiel](/families/cameron-of-lochiel/)
 

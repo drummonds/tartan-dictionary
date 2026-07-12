@@ -3,7 +3,7 @@ title: "Families & clans — C"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-178 clans and families beginning with C. [Back to the A–Z](/families/).
+181 clans and families beginning with C. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s9/lb54dy4n4g12o4g8w1g8db6~x2/"><strong>Cadenhead</strong></a></li>
@@ -26,6 +26,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/cambridge/"><img src="/variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/sett.png" alt="Cambridge" width="140"><br><strong>Cambridge</strong></a></li>
 <li><a class="tartan" href="/families/cameron/"><img src="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/sett.png" alt="Cameron" width="140"><br><strong>Cameron</strong></a></li>
 <li><a class="tartan" href="/families/cameron-of-erracht/"><img src="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/sett.png" alt="Cameron of Erracht" width="140"><br><strong>Cameron of Erracht</strong></a></li>
+<li><a class="tartan" href="/families/cameron-of-fassifern-and-arthurston/"><img src="/variants/s21/ly2db8r3db16r1k16dg16r3dg1r1dg8r1dg1r3dg16k16r1db16r3db8ly1~x4/sett.png" alt="Cameron of Fassifern and Arthurston" width="140"><br><strong>Cameron of Fassifern and Arthurston</strong></a></li>
 <li><a class="tartan" href="/families/cameron-of-locheil/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil</strong></a></li>
 <li><a class="tartan" href="/families/cameron-of-lochiel/"><img src="/variants/s7/r5g20r5g20db24g6y4/sett.png" alt="Cameron of Lochiel" width="140"><br><strong>Cameron of Lochiel</strong></a></li>
 <li><a class="tartan" href="/families/campbell/"><img src="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/sett.png" alt="Campbell" width="140"><br><strong>Campbell</strong></a></li>
@@ -39,6 +40,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/campbell-of-lochlane/"><img src="/variants/s7/k2dr1k6dr6k1dr1k1~x4/sett.png" alt="Campbell of Lochlane" width="140"><br><strong>Campbell of Lochlane</strong></a></li>
 <li><a class="tartan" href="/families/campbell-of-loudon/"><img src="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/sett.png" alt="Campbell of Loudon" width="140"><br><strong>Campbell of Loudon</strong></a></li>
 <li><a class="tartan" href="/families/campbell-of-loudoun/"><img src="/variants/s48/r4db5r10dg10r14dg4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3dg4r14dg10r10db5r4db1~x2/sett.png" alt="Campbell of Loudoun" width="140"><br><strong>Campbell of Loudoun</strong></a></li>
+<li><a class="tartan" href="/families/campbell-of-stracathro/"><img src="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/sett.png" alt="Campbell of Stracathro" width="140"><br><strong>Campbell of Stracathro</strong></a></li>
 <li><a class="tartan" href="/families/canna/"><img src="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/sett.png" alt="Canna" width="140"><br><strong>Canna</strong></a></li>
 <li><a class="tartan" href="/families/carbon/"><img src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/sett.png" alt="Carbon" width="140"><br><strong>Carbon</strong></a></li>
 <li><a class="tartan" href="/families/carlisle/"><img src="/variants/s5/t11lo2dr1lo2dr1~x4/sett.png" alt="Carlisle" width="140"><br><strong>Carlisle</strong></a></li>
@@ -80,6 +82,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s8/dr9db4dr4db4dr24n19db19n4~x2/"><strong>Chindecella Ruadh</strong></a></li>
 <li><a class="tartan" href="/families/chisholm/"><img src="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/sett.png" alt="Chisholm" width="140"><br><strong>Chisholm</strong></a></li>
 <li><a class="tartan" href="/families/chisholm-of-strathglass/"><img src="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/sett.png" alt="Chisholm of Strathglass" width="140"><br><strong>Chisholm of Strathglass</strong></a></li>
+<li><a class="tartan" href="/families/chisholm-of-that-ilk/"><img src="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/sett.png" alt="Chisholm of that Ilk" width="140"><br><strong>Chisholm of that Ilk</strong></a></li>
 <li><a class="tartan" href="/families/choinka/"><img src="/variants/s8/k6y3k18g20k2db3k2g4~x2/sett.png" alt="Choinka" width="140"><br><strong>Choinka</strong></a></li>
 <li><a class="tartan" href="/families/christian/"><img src="/variants/s7/r3g2db27k19g27dp2y3~x2/sett.png" alt="Christian" width="140"><br><strong>Christian</strong></a></li>
 <li><a class="tartan" href="/families/christie/"><img src="/variants/s5/db16r1k16w1r1~x4/sett.png" alt="Christie" width="140"><br><strong>Christie</strong></a></li>

@@ -30,6 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/">Skene (Maclan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><img src="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/sett.png" alt="Skene (Maclan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/">Skene of that Ilk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/"><img src="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/sett.png" alt="Skene of that Ilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

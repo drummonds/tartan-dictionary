@@ -2,7 +2,7 @@
 title: "Tartans — Gr"
 date: 2023-03-18
 ---
-144 tartans beginning with Gr, each with the number of setts it groups. Back to [G](/tartans/g/) or the [A–Z](/tartans/).
+145 tartans beginning with Gr, each with the number of setts it groups. Back to [G](/tartans/g/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/g/gr/grm/"><img src="/variants/s22/r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2~x2~r1606028-ri2109032/sett.png" alt="GRM" width="140"><br><strong>GRM (1)</strong></a><div class="clan-territory">GRM</div></li>
@@ -31,7 +31,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/g/gr/graham-of-montrose-4/"><img src="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/sett.png" alt="Graham of Montrose" width="140"><br><strong>Graham of Montrose (1)</strong></a><div class="clan-territory">Graham of Montrose</div></li>
 <li><a class="tartan" href="/tartans/g/gr/graham-red-dress/"><img src="/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/sett.png" alt="Graham, Red Dress" width="140"><br><strong>Graham, Red Dress (1)</strong></a><div class="clan-territory">Graham</div></li>
 <li><a class="tartan" href="/tartans/g/gr/graham-maila/"><img src="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/sett.png" alt="Graham-Maila" width="140"><br><strong>Graham-Maila (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gr/grahame-laurie-band/"><img src="/variants/s7/k8ly2dp6ly2k36db84w7/sett.png" alt="Grahame Laurie Band" width="140"><br><strong>Grahame Laurie Band (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/g/gr/grahame-laurie-band/"><img src="/variants/s7/k8ly2dp6ly2k36db84w7/sett.png" alt="Grahame Laurie Band" width="140"><br><strong>Grahame Laurie Band (1)</strong></a><div class="clan-territory">Clan Grahame</div></li>
+<li><a class="tartan" href="/tartans/g/gr/grahame-of-morphie/"><img src="/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/sett.png" alt="Grahame of Morphie" width="140"><br><strong>Grahame of Morphie (1)</strong></a><div class="clan-territory">Grahame of Morphie</div></li>
 <li><a class="tartan" href="/tartans/g/gr/grainger/"><img src="/variants/s7/db36r4db6g18db15k18w4~x2/sett.png" alt="Grainger" width="140"><br><strong>Grainger (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/g/gr/grammar-school-at-leeds/"><img src="/variants/s6/n32w4n4k24dp29k4/sett.png" alt="Grammar School at Leeds" width="140"><br><strong>Grammar School at Leeds (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/g/gr/grampian/"><img src="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/sett.png" alt="Grampian" width="140"><br><strong>Grampian (1)</strong></a><div class="clan-territory">Grampian</div></li>

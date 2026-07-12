@@ -59,7 +59,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/y6dy14db10dy58g3dy8w2/"><img src="/variants/s7/y6dy14db10dy58g3dy8w2/sett.png" alt="Kozmyk (Corporate)" width="140"><br>Kozmyk (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/"><img src="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/sett.png" alt="KPMG" width="140"><br>KPMG</a></li>
 <li><a class="tartan" href="/variants/s11/w5g2w5db5r2db5g11y2g11db5r2~x4/"><img src="/variants/s11/w5g2w5db5r2db5g11y2g11db5r2~x4/sett.png" alt="Kremlin Zoria" width="140"><br>Kremlin Zoria</a></li>
-<li><a class="tartan" href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3dp16dg6k3db6w8k2dp2~x2/"><img src="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3dp16dg6k3db6w8k2dp2~x2/sett.png" alt="Kukri" width="140"><br>Kukri</a></li>
 <li><a class="tartan" href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/"><img src="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/sett.png" alt="Kukri" width="140"><br>Kukri</a></li>
+<li><a class="tartan" href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3dp16dg6k3db6w8k2dp2~x2/"><img src="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3dp16dg6k3db6w8k2dp2~x2/sett.png" alt="Kukri" width="140"><br>Kukri</a></li>
 <li><a class="tartan" href="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/"><img src="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/sett.png" alt="Kungsholmen Snooker" width="140"><br>Kungsholmen Snooker</a></li>
 </ul>

@@ -3,7 +3,7 @@ title: "Families & clans — I"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-29 clans and families beginning with I. [Back to the A–Z](/families/).
+30 clans and families beginning with I. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/iapd/"><img src="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/sett.png" alt="IAPD" width="140"><br><strong>IAPD</strong></a></li>
@@ -18,6 +18,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/inneryne/"><img src="/variants/s7/db4k4db16k14dg14dr3dg3~x2/sett.png" alt="Inneryne" width="140"><br><strong>Inneryne</strong></a></li>
 <li><a class="tartan" href="/families/innes/"><img src="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/sett.png" alt="Innes" width="140"><br><strong>Innes</strong></a></li>
 <li><a class="tartan" href="/families/innes-of-learney/"><img src="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/sett.png" alt="Innes of Learney" width="140"><br><strong>Innes of Learney</strong></a></li>
+<li><a class="tartan" href="/families/innes-of-raemoir-and-cowie/"><img src="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/sett.png" alt="Innes of Raemoir and Cowie" width="140"><br><strong>Innes of Raemoir and Cowie</strong></a></li>
 <li><a class="tartan" href="/clan/innes/"><img src="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/sett.png" alt="Innes," width="140"><br><strong>Innes,</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/innes-of-cowie/"><img src="/variants/s60/k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6db1~x4/sett.png" alt="Innes, of Cowie" width="140"><br><strong>Innes, of Cowie</strong></a></li>
 <li><a class="tartan" href="/families/inspiration/"><img src="/variants/s5/r5db12g11n21y5~x2/sett.png" alt="Inspiration" width="140"><br><strong>Inspiration</strong></a></li>

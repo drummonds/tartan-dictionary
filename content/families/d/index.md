@@ -3,7 +3,7 @@ title: "Families & clans — D"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-111 clans and families beginning with D. [Back to the A–Z](/families/).
+115 clans and families beginning with D. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/dabney/"><img src="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/sett.png" alt="Dabney" width="140"><br><strong>Dabney</strong></a></li>
@@ -24,6 +24,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/dauphinee/"><img src="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/sett.png" alt="Dauphinee" width="140"><br><strong>Dauphinee</strong></a></li>
 <li><a class="tartan" href="/variants/s6/lb5k1w11k1r42k1~x2/"><strong>Davet</strong></a></li>
 <li><a class="tartan" href="/families/davidson/"><img src="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/sett.png" alt="Davidson" width="140"><br><strong>Davidson</strong></a></li>
+<li><a class="tartan" href="/families/davidson-of-inchmarlo/"><img src="/variants/s29/r2k8w2r22t8k2t2k2t8k12ly2dg16r22t4r22t4r22dg16ly2k12t8k2t2k2t8r22w2k2r1~x2/sett.png" alt="Davidson of Inchmarlo" width="140"><br><strong>Davidson of Inchmarlo</strong></a></li>
 <li><a class="tartan" href="/families/davidson-of-tulloch/"><img src="/variants/s5/r1db6k3g6w1/sett.png" alt="Davidson of Tulloch" width="140"><br><strong>Davidson of Tulloch</strong></a></li>
 <li><a class="tartan" href="/clan/davies/"><img src="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/sett.png" alt="Davies" width="140"><br><strong>Davies</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/davies-of-wales/"><img src="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/sett.png" alt="Davies of Wales" width="140"><br><strong>Davies of Wales</strong></a></li>
@@ -88,12 +89,15 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s6/g11w11k3y3dg36lo7~x2/"><strong>Driver</strong></a></li>
 <li><a class="tartan" href="/families/druid/"><img src="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/sett.png" alt="Druid" width="140"><br><strong>Druid</strong></a></li>
 <li><a class="tartan" href="/families/drummond/"><img src="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/sett.png" alt="Drummond" width="140"><br><strong>Drummond</strong></a></li>
+<li><a class="tartan" href="/families/drummond-of-drumtochty/"><img src="/variants/s17/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1~x4/sett.png" alt="Drummond of Drumtochty" width="140"><br><strong>Drummond of Drumtochty</strong></a></li>
 <li><a class="tartan" href="/families/drummond-of-megginch/"><img src="/variants/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18~r2109032-db0906265-lb3203246-dg1405139/sett.png" alt="Drummond of Megginch" width="140"><br><strong>Drummond of Megginch</strong></a></li>
 <li><a class="tartan" href="/families/drummond-of-perth/"><img src="/variants/s9/r36w1db3y1g16r8db3lb2w1/sett.png" alt="Drummond of Perth" width="140"><br><strong>Drummond of Perth</strong></a></li>
 <li><a class="tartan" href="/families/drummond-of-strathallan/"><img src="/variants/s82/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/sett.png" alt="Drummond of Strathallan" width="140"><br><strong>Drummond of Strathallan</strong></a></li>
 <li><a class="tartan" href="/families/dryburgh/"><img src="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/sett.png" alt="Dryburgh" width="140"><br><strong>Dryburgh</strong></a></li>
 <li><a class="tartan" href="/families/dryer/"><img src="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/sett.png" alt="Dryer" width="140"><br><strong>Dryer</strong></a></li>
 <li><a class="tartan" href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><strong>Dryfe</strong></a></li>
+<li><a class="tartan" href="/clan/duff/"><img src="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/sett.png" alt="Duff" width="140"><br><strong>Duff</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/duff-of-careston/"><img src="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/sett.png" alt="Duff of Careston" width="140"><br><strong>Duff of Careston</strong></a></li>
 <li><a class="tartan" href="/families/duffy/"><img src="/variants/s7/g8dg60w1k33g9y4g4~x2/sett.png" alt="Duffy" width="140"><br><strong>Duffy</strong></a></li>
 <li><a class="tartan" href="/families/duminiak/"><img src="/variants/s6/n47w6r24w3db5y3~x2/sett.png" alt="Duminiak" width="140"><br><strong>Duminiak</strong></a></li>
 <li><a class="tartan" href="/families/dunbar/"><img src="/variants/s6/k4r26k4w2k13y4~x2/sett.png" alt="Dunbar" width="140"><br><strong>Dunbar</strong></a></li>

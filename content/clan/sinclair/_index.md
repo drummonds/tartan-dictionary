@@ -14,5 +14,6 @@ crumbs:
 ## Families
 
 - [Sinclair](/families/sinclair/)
+- [Sinclair of Auldbar](/families/sinclair-of-auldbar/)
 - [Sinclair of Ulbster](/families/sinclair-of-ulbster/)
 

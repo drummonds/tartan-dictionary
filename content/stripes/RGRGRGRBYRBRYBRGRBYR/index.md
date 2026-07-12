@@ -30,6 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/">Munro</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/"><img src="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/">Munro of Lindertis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/"><img src="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/sett.png" alt="Munro of Lindertis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,5 +15,6 @@ crumbs:
 
 - [Innes](/families/innes/)
 - [Innes of Learney](/families/innes-of-learney/)
+- [Innes of Raemoir and Cowie](/families/innes-of-raemoir-and-cowie/)
 - [Innes, of Cowie](/families/innes-of-cowie/)
 

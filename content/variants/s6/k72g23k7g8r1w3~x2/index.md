@@ -10,7 +10,7 @@ crumbs:
 - name: "MacGregor"
   url: "/families/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-9/"
+  url: "/tartans/m/ma/macgregor-10/"
 - name: "MacGregor, Black (Personal)"
   url: "/setts/k72g23k7g8r1w3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k72g23k7g8r1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGRW](/stripes/kgkgrw/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-9/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-10/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -77,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 13656 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k64g12n6k15dy1g5lb1~x2/"><circle cx="448.8" cy="71.2" r="4" fill="#3465a4"><title>McCann of Castlecraig (Personal)</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="375.8" cy="124.8" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/variants/s5/k75g26lr2g4lo5~x2/"><circle cx="384.5" cy="115.6" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.6" cy="72.3" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="406.0" cy="180.9" r="4" fill="#3465a4"><title>Westgate Fashion Tartan</title></circle></a><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="300.5" cy="107.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s7/g12k1r1k12o9k45g9~x2/"><circle cx="359.2" cy="102.4" r="4" fill="#3465a4"><title>O'Boyle (Name)</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="342.7" cy="149.5" r="4" fill="#3465a4"><title>Childers Regimental Tartan</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="338.1" cy="147.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/"><circle cx="428.5" cy="131.8" r="4" fill="#3465a4"><title>1891 (Commemorative)</title></circle></a><circle cx="409.1" cy="93.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k64g12n6k15dy1g5lb1~x2/"><circle cx="448.7" cy="70.9" r="4" fill="#3465a4"><title>McCann of Castlecraig (Personal)</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="375.5" cy="124.1" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/variants/s5/k75g26lr2g4lo5~x2/"><circle cx="384.3" cy="114.9" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.4" cy="71.8" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="405.6" cy="179.9" r="4" fill="#3465a4"><title>Westgate Fashion Tartan</title></circle></a><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="300.3" cy="107.4" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s7/g12k1r1k12o9k45g9~x2/"><circle cx="359.0" cy="101.9" r="4" fill="#3465a4"><title>O'Boyle (Name)</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="342.4" cy="148.7" r="4" fill="#3465a4"><title>Childers Regimental Tartan</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="337.7" cy="146.3" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/"><circle cx="428.2" cy="131.3" r="4" fill="#3465a4"><title>1891 (Commemorative)</title></circle></a><circle cx="408.9" cy="92.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k72g23k7g8r1w3~x2/

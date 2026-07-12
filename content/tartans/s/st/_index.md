@@ -2,7 +2,7 @@
 title: "Tartans — St"
 date: 2023-03-18
 ---
-382 tartans beginning with St, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
+384 tartans beginning with St, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/s/st/stlth/"><img src="/variants/s7/dt4k2dt4k45n2k3n2~x2/sett.png" alt="STLTH" width="140"><br><strong>STLTH (1)</strong></a></li>
@@ -364,6 +364,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/st/stuart-of-bute/"><img src="/variants/s9/r12g6k1g2k1g1k6r24w2~x4/sett.png" alt="Stuart of Bute" width="140"><br><strong>Stuart of Bute (1)</strong></a><div class="clan-territory">Stuart of Bute</div></li>
 <li><a class="tartan" href="/tartans/s/st/stuart-of-bute-2013/"><img src="/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000/sett.png" alt="Stuart of Bute 2013" width="140"><br><strong>Stuart of Bute 2013 (1)</strong></a><div class="clan-territory">Stuart of Bute</div></li>
 <li><a class="tartan" href="/tartans/s/st/stuart-of-bute-st-colmac/"><img src="/variants/s9/ly16lb8n1lb2n1lb1n8ly34w2~x2/sett.png" alt="Stuart of Bute St Colmac" width="140"><br><strong>Stuart of Bute St Colmac (1)</strong></a><div class="clan-territory">Stuart of Bute St Colmac</div></li>
+<li><a class="tartan" href="/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo/"><img src="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo" width="140"><br><strong>Stuart-Forbes of Fettercairn and Pitsligo (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/"><img src="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo" width="140"><br><strong>Stuart-Forbes of Fettercairn and Pitsligo (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stuart-houghton/"><img src="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/sett.png" alt="Stuart-Houghton" width="140"><br><strong>Stuart-Houghton (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stuart-houghton-2/"><img src="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/sett.png" alt="Stuart-Houghton" width="140"><br><strong>Stuart-Houghton (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stuart-houghton-dress/"><img src="/variants/s16/w11db4w4db2w4n4w11o26n4w3n4w2db14dg10w16dg6~x2/sett.png" alt="Stuart-Houghton Dress" width="140"><br><strong>Stuart-Houghton Dress (1)</strong></a></li>

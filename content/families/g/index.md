@@ -3,7 +3,7 @@ title: "Families & clans — G"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-97 clans and families beginning with G. [Back to the A–Z](/families/).
+100 clans and families beginning with G. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s7/y4g18db4dr8db8r21w1~x2/"><strong>G P Bathija</strong></a></li>
@@ -60,6 +60,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/gordon-of-abergeldie/"><img src="/variants/s6/r63w4k4dp18ly4dg50~x2/sett.png" alt="Gordon of Abergeldie" width="140"><br><strong>Gordon of Abergeldie</strong></a></li>
 <li><a class="tartan" href="/families/gordon-of-esselmont/"><img src="/variants/s32/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2~db1406275/sett.png" alt="Gordon of Esselmont" width="140"><br><strong>Gordon of Esselmont</strong></a></li>
 <li><a class="tartan" href="/families/gordon-of-esslemont/"><img src="/variants/s7/y6g3y3g22k23dp23k4~x2/sett.png" alt="Gordon of Esslemont" width="140"><br><strong>Gordon of Esslemont</strong></a></li>
+<li><a class="tartan" href="/families/gordon-of-the-burn/"><img src="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/sett.png" alt="Gordon of The Burn" width="140"><br><strong>Gordon of The Burn</strong></a></li>
 <li><a class="tartan" href="/families/gordonstoun/"><img src="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/sett.png" alt="Gordonstoun" width="140"><br><strong>Gordonstoun</strong></a></li>
 <li><a class="tartan" href="/families/gorman/"><img src="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/sett.png" alt="Gorman" width="140"><br><strong>Gorman</strong></a></li>
 <li><a class="tartan" href="/families/gow/"><img src="/variants/s5/r4db4r1g4r4/sett.png" alt="Gow" width="140"><br><strong>Gow</strong></a></li>
@@ -70,6 +71,8 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/graham-of-airth/"><img src="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/sett.png" alt="Graham of Airth" width="140"><br><strong>Graham of Airth</strong></a></li>
 <li><a class="tartan" href="/families/graham-of-menteith/"><img src="/variants/s6/g8lb1g1k6db6k1~x4/sett.png" alt="Graham of Menteith" width="140"><br><strong>Graham of Menteith</strong></a></li>
 <li><a class="tartan" href="/families/graham-of-montrose/"><img src="/variants/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2~db1406275-w4000000/sett.png" alt="Graham of Montrose" width="140"><br><strong>Graham of Montrose</strong></a></li>
+<li><a class="tartan" href="/clan/grahame/"><img src="/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/sett.png" alt="Grahame" width="140"><br><strong>Grahame</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/grahame-of-morphie/"><img src="/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/sett.png" alt="Grahame of Morphie" width="140"><br><strong>Grahame of Morphie</strong></a></li>
 <li><a class="tartan" href="/families/grampian/"><img src="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/sett.png" alt="Grampian" width="140"><br><strong>Grampian</strong></a></li>
 <li><a class="tartan" href="/families/granger/"><img src="/variants/s6/b40k4b12k21b17w4~x2/sett.png" alt="Granger" width="140"><br><strong>Granger</strong></a></li>
 <li><a class="tartan" href="/families/grant/"><img src="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/sett.png" alt="Grant" width="140"><br><strong>Grant</strong></a></li>

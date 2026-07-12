@@ -30,6 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/">Ferguson</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><img src="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/">Ferguson of Woodhill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/"><img src="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/sett.png" alt="Ferguson of Woodhill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

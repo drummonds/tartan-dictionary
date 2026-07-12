@@ -2,7 +2,7 @@
 title: "Name tartans — G"
 date: 2023-03-18
 ---
-36 Name tartans beginning with G. [Back to all Name tartans](/type/name/).
+38 Name tartans beginning with G. [Back to all Name tartans](/type/name/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s7/y4g18db4dr8db8r21w1~x2/"><img src="/variants/s7/y4g18db4dr8db8r21w1~x2/sett.png" alt="G P Bathija (Shikarpur, Sindh)" width="140"><br>G P Bathija (Shikarpur, Sindh)</a></li>
@@ -23,12 +23,14 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/r3g13db13dy2dg34w3~x2/"><img src="/variants/s6/r3g13db13dy2dg34w3~x2/sett.png" alt="Glencross, Tynron (Name)" width="140"><br>Glencross, Tynron (Name)</a></li>
 <li><a class="tartan" href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><img src="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/sett.png" alt="Goldwire (2015)" width="140"><br>Goldwire (2015)</a></li>
 <li><a class="tartan" href="/variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/"><img src="/variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/sett.png" alt="Gordon" width="140"><br>Gordon</a></li>
-<li><a class="tartan" href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><img src="/variants/s7/r3dp8g20k20db17k3lg3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
+<li><a class="tartan" href="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/"><img src="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/sett.png" alt="Gordon of The Burn" width="140"><br>Gordon of The Burn</a></li>
 <li><a class="tartan" href="/variants/s7/o3dp8g20k20db17k3lb3~x2/"><img src="/variants/s7/o3dp8g20k20db17k3lb3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
+<li><a class="tartan" href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><img src="/variants/s7/r3dp8g20k20db17k3lg3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
 <li><a class="tartan" href="/variants/s5/g47dr3g6db35lo3~x2/"><img src="/variants/s5/g47dr3g6db35lo3~x2/sett.png" alt="Gracie" width="140"><br>Gracie</a></li>
 <li><a class="tartan" href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><img src="/variants/s7/db3g13lb1r3lb1db10y1~x2/sett.png" alt="Graeme Heckenberg Hunting" width="140"><br>Graeme Heckenberg Hunting</a></li>
 <li><a class="tartan" href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><img src="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/sett.png" alt="Graham" width="140"><br>Graham</a></li>
 <li><a class="tartan" href="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/"><img src="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/sett.png" alt="Graham of Airth" width="140"><br>Graham of Airth</a></li>
+<li><a class="tartan" href="/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/"><img src="/variants/s11/k2db12k12dg1t2dg16t2dg1k12db12k1~x4/sett.png" alt="Grahame of Morphie" width="140"><br>Grahame of Morphie</a></li>
 <li><a class="tartan" href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/"><img src="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/sett.png" alt="Grant" width="140"><br>Grant</a></li>
 <li><a class="tartan" href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><img src="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/sett.png" alt="Grassi (2009)" width="140"><br>Grassi (2009)</a></li>
 <li><a class="tartan" href="/variants/s10/r3n33g10r3g3r3g3r8n10r3~x2/"><img src="/variants/s10/r3n33g10r3g3r3g3r8n10r3~x2/sett.png" alt="Gray (Name)" width="140"><br>Gray (Name)</a></li>

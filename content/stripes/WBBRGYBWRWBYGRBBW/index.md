@@ -30,6 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/">Drummond</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/"><img src="/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1~x4/">Drummond of Drumtochty</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1~x4/"><img src="/variants/s17/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1~x4/sett.png" alt="Drummond of Drumtochty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

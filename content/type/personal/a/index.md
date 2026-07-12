@@ -6,12 +6,12 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/"><img src="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/sett.png" alt="A2 (Personal)" width="140"><br>A2 (Personal)</a></li>
-<li><a class="tartan" href="/variants/s5/r39db22k11y22g5~x2/"><img src="/variants/s5/r39db22k11y22g5~x2/sett.png" alt="Abbink, Ingmar (Personal)" width="140"><br>Abbink, Ingmar (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/r39lb22k11ly22g5~x2/"><img src="/variants/s5/r39lb22k11ly22g5~x2/sett.png" alt="Abbink, Ingmar (Personal)" width="140"><br>Abbink, Ingmar (Personal)</a></li>
+<li><a class="tartan" href="/variants/s5/r39db22k11y22g5~x2/"><img src="/variants/s5/r39db22k11y22g5~x2/sett.png" alt="Abbink, Ingmar (Personal)" width="140"><br>Abbink, Ingmar (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/lo1db14r28g14r1g14lo1~x2/"><img src="/variants/s7/lo1db14r28g14r1g14lo1~x2/sett.png" alt="Abernethy (Colerain USA) (Personal)" width="140"><br>Abernethy (Colerain USA) (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><img src="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/sett.png" alt="Adamson (Personal)" width="140"><br>Adamson (Personal)</a></li>
-<li><a class="tartan" href="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/"><img src="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/sett.png" alt="Aelfleda Arisaid (Personal)" width="140"><br>Aelfleda Arisaid (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/"><img src="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/sett.png" alt="Aelfleda Arisaid (Personal)" width="140"><br>Aelfleda Arisaid (Personal)</a></li>
+<li><a class="tartan" href="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/"><img src="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/sett.png" alt="Aelfleda Arisaid (Personal)" width="140"><br>Aelfleda Arisaid (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/db80k5g12k2y2g2k10~x2/"><img src="/variants/s7/db80k5g12k2y2g2k10~x2/sett.png" alt="Affara (Personal)" width="140"><br>Affara (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/"><img src="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/sett.png" alt="Aggreko Shepherd (Personal)" width="140"><br>Aggreko Shepherd (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/r30y30db5w5g5k5g3db3k3w3y3~x2/"><img src="/variants/s11/r30y30db5w5g5k5g3db3k3w3y3~x2/sett.png" alt="Aguilar Gorrondona Family (Personal)" width="140"><br>Aguilar Gorrondona Family (Personal)</a></li>
@@ -20,15 +20,15 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><img src="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/sett.png" alt="Akins Clan (Personal)" width="140"><br>Akins Clan (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><img src="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/sett.png" alt="Akins of Candler (Personal)" width="140"><br>Akins of Candler (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><img src="/variants/s8/w2r7g7k7r2g2k2w1~x5/sett.png" alt="Al Suwaidi of Abu Dhabi (Personal)" width="140"><br>Al Suwaidi of Abu Dhabi (Personal)</a></li>
-<li><a class="tartan" href="/variants/s10/k17db24g3db3w3db3r3db24k17w1~x2/"><img src="/variants/s10/k17db24g3db3w3db3r3db24k17w1~x2/sett.png" alt="Al-Fadhli (Personal)" width="140"><br>Al-Fadhli (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/"><img src="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/sett.png" alt="Al-Fadhli (Personal)" width="140"><br>Al-Fadhli (Personal)</a></li>
+<li><a class="tartan" href="/variants/s10/k17db24g3db3w3db3r3db24k17w1~x2/"><img src="/variants/s10/k17db24g3db3w3db3r3db24k17w1~x2/sett.png" alt="Al-Fadhli (Personal)" width="140"><br>Al-Fadhli (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/r2w6k12db36n12y1~x2/"><img src="/variants/s6/r2w6k12db36n12y1~x2/sett.png" alt="Alan Stone Family (Personal)" width="140"><br>Alan Stone Family (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/dr80lo2dr6dy12ly1dy1ly2t2~x2~ly2705081/"><img src="/variants/s8/dr80lo2dr6dy12ly1dy1ly2t2~x2~ly2705081/sett.png" alt="Alegre-Wood (Personal)" width="140"><br>Alegre-Wood (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><img src="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/sett.png" alt="Alexander (Personal)" width="140"><br>Alexander (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><img src="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/sett.png" alt="Alexander Hunting (Personal)" width="140"><br>Alexander Hunting (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/"><img src="/variants/s8/g5o2g2o9k9lb9db30w5~x2/sett.png" alt="Alexander of Menstry (Personal)" width="140"><br>Alexander of Menstry (Personal)</a></li>
-<li><a class="tartan" href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><img src="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/sett.png" alt="Alexander-Johnstone (Personal)" width="140"><br>Alexander-Johnstone (Personal)</a></li>
 <li><a class="tartan" href="/variants/s14/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2~x2/"><img src="/variants/s14/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2~x2/sett.png" alt="Alexander-Johnstone (Personal)" width="140"><br>Alexander-Johnstone (Personal)</a></li>
+<li><a class="tartan" href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><img src="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/sett.png" alt="Alexander-Johnstone (Personal)" width="140"><br>Alexander-Johnstone (Personal)</a></li>
 <li><a class="tartan" href="/variants/s4/k50r1db3dp1~x4/"><img src="/variants/s4/k50r1db3dp1~x4/sett.png" alt="Alich (Personal)" width="140"><br>Alich (Personal)</a></li>
 <li><a class="tartan" href="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/"><img src="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/sett.png" alt="Allen - 2012 (Personal)" width="140"><br>Allen - 2012 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/"><img src="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/sett.png" alt="Allen - Northumbrian (Personal)" width="140"><br>Allen - Northumbrian (Personal)</a></li>

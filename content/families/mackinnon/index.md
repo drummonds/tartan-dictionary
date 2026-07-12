@@ -39,4 +39,5 @@ A family of [Clan MacKinnon](/clan/mackinnon/).
 <li><a class="tartan" href="/tartans/m/ma/mackinnon-hunting-2/"><img src="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/sett.png" alt="MacKinnon Hunting" width="140"><br><strong>MacKinnon Hunting (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/mackinnon-dress-3/"><img src="/variants/s4/g9o7w7r1~x4/sett.png" alt="MacKinnon, dress" width="140"><br><strong>MacKinnon, dress (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/mackinnon-hunting-6/"><img src="/variants/s4/r1g8o8w1~x2/sett.png" alt="MacKinnon, hunting" width="140"><br><strong>MacKinnon, hunting (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/mackinnon-of-mackinnon/"><img src="/variants/s27/w2r3dg2db2r6dg16r2db4dg2r16dg8w2r4w2r4w2dg8r16dg2db4r2dg16r6db2dg2r3w1~x4/sett.png" alt="Mackinnon of Mackinnon" width="140"><br><strong>Mackinnon of Mackinnon (1)</strong></a></li>
 </ul>

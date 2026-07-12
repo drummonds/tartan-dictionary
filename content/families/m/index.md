@@ -3,7 +3,7 @@ title: "Families & clans — M"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-368 clans and families beginning with M. [Back to the A–Z](/families/).
+377 clans and families beginning with M. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><strong>M'Kleod</strong></a></li>
@@ -25,7 +25,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><strong>MacArthur-Fox Dress</strong></a></li>
 <li><a class="tartan" href="/variants/s6/dr3g30k12g1k16lo2~x2/"><strong>MacArthur-Fox Hunting</strong></a></li>
 <li><a class="tartan" href="/families/macaulay/"><img src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="MacAulay" width="140"><br><strong>MacAulay</strong></a></li>
-<li><a class="tartan" href="/families/macaulay-of-ardincaple/"><img src="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/sett.png" alt="MacAulay of Ardincaple" width="140"><br><strong>MacAulay of Ardincaple</strong></a></li>
+<li><a class="tartan" href="/families/macaulay-of-ardincaple/"><img src="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/sett.png" alt="Macaulay of Ardincaple" width="140"><br><strong>Macaulay of Ardincaple</strong></a></li>
 <li><a class="tartan" href="/families/macaulay-of-lewis/"><img src="/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png" alt="MacAulay of Lewis" width="140"><br><strong>MacAulay of Lewis</strong></a></li>
 <li><a class="tartan" href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><strong>MacAuliffe</strong></a></li>
 <li><a class="tartan" href="/families/macbain/"><img src="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/sett.png" alt="MacBain" width="140"><br><strong>MacBain</strong></a></li>
@@ -67,6 +67,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/macdonald-of-lochmaddy/"><img src="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/sett.png" alt="MacDonald of Lochmaddy" width="140"><br><strong>MacDonald of Lochmaddy</strong></a></li>
 <li><a class="tartan" href="/families/macdonald-of-pr-edward-island/"><img src="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/sett.png" alt="MacDonald of Pr Edward Island" width="140"><br><strong>MacDonald of Pr Edward Island</strong></a></li>
 <li><a class="tartan" href="/families/macdonald-of-prince-edward-island/"><img src="/variants/s24/r24db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/sett.png" alt="MacDonald of Prince Edward Island" width="140"><br><strong>MacDonald of Prince Edward Island</strong></a></li>
+<li><a class="tartan" href="/families/macdonald-of-rossie/"><img src="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/sett.png" alt="Macdonald of Rossie" width="140"><br><strong>Macdonald of Rossie</strong></a></li>
 <li><a class="tartan" href="/families/macdonald-of-sleat/"><img src="/variants/s5/g16r5g2r18k2/sett.png" alt="MacDonald of Sleat" width="140"><br><strong>MacDonald of Sleat</strong></a></li>
 <li><a class="tartan" href="/families/macdonald-of-staffa/"><img src="/variants/s54/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2~x2/sett.png" alt="MacDonald of Staffa" width="140"><br><strong>MacDonald of Staffa</strong></a></li>
 <li><a class="tartan" href="/families/macdonald-of-vallay/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/sett.png" alt="MacDonald of Vallay" width="140"><br><strong>MacDonald of Vallay</strong></a></li>
@@ -110,6 +111,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/machinery/"><img src="/variants/s14/lb6k2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/sett.png" alt="MacHinery" width="140"><br><strong>MacHinery</strong></a></li>
 <li><a class="tartan" href="/families/macinnes/"><img src="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2/sett.png" alt="MacInnes" width="140"><br><strong>MacInnes</strong></a></li>
 <li><a class="tartan" href="/families/macinroy/"><img src="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/sett.png" alt="MacInroy" width="140"><br><strong>MacInroy</strong></a></li>
+<li><a class="tartan" href="/families/macinroy-of-the-burn/"><img src="/variants/s31/r1dg17r2db2r17dg2r2dg2r17db2r2dg17r2db17r2dg2r17dg2r2dg2r17dg2r2dg17r2dg17r2db2r17dg2r1~x4/sett.png" alt="MacInroy of The Burn" width="140"><br><strong>MacInroy of The Burn</strong></a></li>
 <li><a class="tartan" href="/families/macintosh/"><img src="/variants/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/sett.png" alt="MacIntosh" width="140"><br><strong>MacIntosh</strong></a></li>
 <li><a class="tartan" href="/families/macintyre/"><img src="/variants/s7/k12g12k2g12k12db12lb3~x2/sett.png" alt="MacIntyre" width="140"><br><strong>MacIntyre</strong></a></li>
 <li><a class="tartan" href="/families/macintyre-of-glenorchy/"><img src="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/sett.png" alt="MacIntyre of Glenorchy" width="140"><br><strong>MacIntyre of Glenorchy</strong></a></li>
@@ -129,6 +131,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/mackeever/"><img src="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/sett.png" alt="MacKeever" width="140"><br><strong>MacKeever</strong></a></li>
 <li><a class="tartan" href="/families/mackellar/"><img src="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/sett.png" alt="MacKellar" width="140"><br><strong>MacKellar</strong></a></li>
 <li><a class="tartan" href="/families/mackenzie/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/sett.png" alt="MacKenzie" width="140"><br><strong>MacKenzie</strong></a></li>
+<li><a class="tartan" href="/families/mackenzie-of-woodstock/"><img src="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/sett.png" alt="Mackenzie of Woodstock" width="140"><br><strong>Mackenzie of Woodstock</strong></a></li>
 <li><a class="tartan" href="/families/mackerrell/"><img src="/variants/s12/lb34db60y3db60lb34w4lb34db60r3db60lb34w4~x2/sett.png" alt="MacKerrell" width="140"><br><strong>MacKerrell</strong></a></li>
 <li><a class="tartan" href="/families/mackerrell-of-hillhouse/"><img src="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/sett.png" alt="MacKerrell of Hillhouse" width="140"><br><strong>MacKerrell of Hillhouse</strong></a></li>
 <li><a class="tartan" href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/"><strong>Mackie</strong></a></li>
@@ -174,6 +177,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/macmillan/"><img src="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/sett.png" alt="MacMillan" width="140"><br><strong>MacMillan</strong></a></li>
 <li><a class="tartan" href="/families/macmugen/"><img src="/variants/s6/db3w16db4w3db12w2~x3/sett.png" alt="MacMugen" width="140"><br><strong>MacMugen</strong></a></li>
 <li><a class="tartan" href="/families/macnab/"><img src="/variants/s4/g15r3db11lb2~x2/sett.png" alt="MacNab" width="140"><br><strong>MacNab</strong></a></li>
+<li><a class="tartan" href="/families/macnab-of-arthurston/"><img src="/variants/s24/dg1r1dg6r6ri6r1ri6r6dg1r1dg1r1dg6r1dg1r1dg1r6ri6r1ri6r6dg6r1~x8~r1707016-ri2109032/sett.png" alt="MacNab of Arthurston" width="140"><br><strong>MacNab of Arthurston</strong></a></li>
 <li><a class="tartan" href="/families/macnappy/"><img src="/variants/s6/w36db12w1r12g16y2~x2/sett.png" alt="MacNappy" width="140"><br><strong>MacNappy</strong></a></li>
 <li><a class="tartan" href="/families/macnaughton/"><img src="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/sett.png" alt="MacNaughton" width="140"><br><strong>MacNaughton</strong></a></li>
 <li><a class="tartan" href="/families/macneil/"><img src="/variants/s7/y1k3g15k14db16r2w1~x2/sett.png" alt="MacNeil" width="140"><br><strong>MacNeil</strong></a></li>
@@ -183,6 +187,8 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/macneish/"><img src="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/sett.png" alt="MacNeish" width="140"><br><strong>MacNeish</strong></a></li>
 <li><a class="tartan" href="/families/macnicol/"><img src="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/sett.png" alt="MacNicol" width="140"><br><strong>MacNicol</strong></a></li>
 <li><a class="tartan" href="/families/macniven/"><img src="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/sett.png" alt="MacNiven" width="140"><br><strong>MacNiven</strong></a></li>
+<li><a class="tartan" href="/clan/maconachie/"><img src="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="Maconachie" width="140"><br><strong>Maconachie</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/maconachie-of-meadowbank/"><img src="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="Maconachie of Meadowbank" width="140"><br><strong>Maconachie of Meadowbank</strong></a></li>
 <li><a class="tartan" href="/families/macorrell/"><img src="/variants/s16/db36y4db10y4db36g28w3g3w3g8y6g8w3g3w3g28/sett.png" alt="MacOrrell" width="140"><br><strong>MacOrrell</strong></a></li>
 <li><a class="tartan" href="/families/macperl/"><img src="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/sett.png" alt="MacPerl" width="140"><br><strong>MacPerl</strong></a></li>
 <li><a class="tartan" href="/families/macphail/"><img src="/variants/s6/r25k7r3g13y1k2~x4/sett.png" alt="MacPhail" width="140"><br><strong>MacPhail</strong></a></li>
@@ -301,6 +307,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><strong>Memery</strong></a></li>
 <li><a class="tartan" href="/families/menzies/"><img src="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/sett.png" alt="Menzies" width="140"><br><strong>Menzies</strong></a></li>
 <li><a class="tartan" href="/families/menzies-of-culdares/"><img src="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/sett.png" alt="Menzies of Culdares" width="140"><br><strong>Menzies of Culdares</strong></a></li>
+<li><a class="tartan" href="/families/menzies-of-pitfoddels/"><img src="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/sett.png" alt="Menzies of Pitfoddels" width="140"><br><strong>Menzies of Pitfoddels</strong></a></li>
 <li><a class="tartan" href="/families/mercer/"><img src="/variants/s8/db9t2db2y1t7db2r1t4~x4/sett.png" alt="Mercer" width="140"><br><strong>Mercer</strong></a></li>
 <li><a class="tartan" href="/variants/s6/k36y5k1y1n5k12~x2/"><strong>Merola</strong></a></li>
 <li><a class="tartan" href="/families/merrilees/"><img src="/variants/s6/w23lb6w6r5k35r10~x2/sett.png" alt="Merrilees" width="140"><br><strong>Merrilees</strong></a></li>
@@ -355,6 +362,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/mullikin/"><img src="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/sett.png" alt="Mullikin" width="140"><br><strong>Mullikin</strong></a></li>
 <li><a class="tartan" href="/families/mungall/"><img src="/variants/s15/lg27g7r2k7y2k7r2g7db10r2lg9r3lg2r2db3~x2/sett.png" alt="Mungall" width="140"><br><strong>Mungall</strong></a></li>
 <li><a class="tartan" href="/families/munro/"><img src="/variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/sett.png" alt="Munro" width="140"><br><strong>Munro</strong></a></li>
+<li><a class="tartan" href="/families/munro-of-lindertis/"><img src="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/sett.png" alt="Munro of Lindertis" width="140"><br><strong>Munro of Lindertis</strong></a></li>
 <li><a class="tartan" href="/families/munster/"><img src="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/sett.png" alt="Munster" width="140"><br><strong>Munster</strong></a></li>
 <li><a class="tartan" href="/families/murdoch/"><img src="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/sett.png" alt="Murdoch" width="140"><br><strong>Murdoch</strong></a></li>
 <li><a class="tartan" href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><strong>Murison</strong></a></li>
@@ -362,6 +370,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/murray/"><img src="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/sett.png" alt="Murray" width="140"><br><strong>Murray</strong></a></li>
 <li><a class="tartan" href="/clan/murray_atholl/"><img src="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/sett.png" alt="Murray (Duke of Atholl)" width="140"><br><strong>Murray (Duke of Atholl)</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/murray-of-abercairney/"><img src="/variants/s9/lb3n1k1ri12r1g9r1n1lb3~x2~ri2209032-r2208029/sett.png" alt="Murray of Abercairney" width="140"><br><strong>Murray of Abercairney</strong></a></li>
+<li><a class="tartan" href="/families/murray-of-arthurstone/"><img src="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/sett.png" alt="Murray of Arthurstone" width="140"><br><strong>Murray of Arthurstone</strong></a></li>
 <li><a class="tartan" href="/families/murray-of-atholl/"><img src="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/sett.png" alt="Murray of Atholl" width="140"><br><strong>Murray of Atholl</strong></a></li>
 <li><a class="tartan" href="/families/murray-of-dunmore/"><img src="/variants/s21/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4~x2/sett.png" alt="Murray of Dunmore" width="140"><br><strong>Murray of Dunmore</strong></a></li>
 <li><a class="tartan" href="/families/murray-of-elibank/"><img src="/variants/s7/t64k3g14k4t4k12lo4~x2/sett.png" alt="Murray of Elibank" width="140"><br><strong>Murray of Elibank</strong></a></li>

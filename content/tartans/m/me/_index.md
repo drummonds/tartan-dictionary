@@ -2,7 +2,7 @@
 title: "Tartans — Me"
 date: 2023-03-18
 ---
-95 tartans beginning with Me, each with the number of setts it groups. Back to [M](/tartans/m/) or the [A–Z](/tartans/).
+96 tartans beginning with Me, each with the number of setts it groups. Back to [M](/tartans/m/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/m/me/me-to-you/"><img src="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/sett.png" alt="Me to You" width="140"><br><strong>Me to You (1)</strong></a></li>
@@ -73,6 +73,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/m/me/menzies-royal-blue-dress/"><img src="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/sett.png" alt="Menzies Royal Blue Dress" width="140"><br><strong>Menzies Royal Blue Dress (1)</strong></a><div class="clan-territory">Clan Menzies</div></li>
 <li><a class="tartan" href="/tartans/m/me/menzies-vs/"><img src="/variants/s12/w4r1w2r3w24dr5r3dr1r1dr1r20w2~r1908029/sett.png" alt="Menzies VS" width="140"><br><strong>Menzies VS (2)</strong></a><div class="clan-territory">Clan Menzies</div></li>
 <li><a class="tartan" href="/tartans/m/me/menzies-of-culdares/"><img src="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/sett.png" alt="Menzies of Culdares" width="140"><br><strong>Menzies of Culdares (1)</strong></a><div class="clan-territory">Menzies of Culdares</div></li>
+<li><a class="tartan" href="/tartans/m/me/menzies-of-pitfoddels/"><img src="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/sett.png" alt="Menzies of Pitfoddels" width="140"><br><strong>Menzies of Pitfoddels (1)</strong></a><div class="clan-territory">Menzies of Pitfoddels</div></li>
 <li><a class="tartan" href="/tartans/m/me/menzies-brown-2/"><img src="/variants/s8/o31w5o2w5o4w3o2w7~x2/sett.png" alt="Menzies, Brown &amp;" width="140"><br><strong>Menzies, Brown & (1)</strong></a><div class="clan-territory">Clan Menzies</div></li>
 <li><a class="tartan" href="/tartans/m/me/meoni/"><img src="/variants/s7/k1r1k18g12db18g1db1~x2/sett.png" alt="Meoni" width="140"><br><strong>Meoni (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/me/mercer/"><img src="/variants/s8/db9t2db2y1t7db2r1t4~x4/sett.png" alt="Mercer" width="140"><br><strong>Mercer (1)</strong></a><div class="clan-territory">Mercer</div></li>

@@ -3,8 +3,15 @@ title: 16 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 16
 ---
-326 setts across 317 tartans with 16 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+327 setts across 318 tartans with 16 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes16/">‹ prev</a> <a href="/stripes/stripes16/">1</a> <strong>2</strong> </nav>
+
+### RKWYWGRKRGWWKRWW
+<a class="pat" href="/stripes/rkwywgrkrgwwkrww/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKWYWGRKRGWWKRWW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [MacGlashan #3](/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/) | register-of-tartans |
 
 ### RRWGWGRRRGWWRRGW
 <a class="pat" href="/stripes/rrwgwgrrrgwwrrgw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RRWGWGRRRGWWRRGW</span></a>

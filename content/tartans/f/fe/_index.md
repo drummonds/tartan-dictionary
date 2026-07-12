@@ -2,7 +2,7 @@
 title: "Tartans — Fe"
 date: 2023-03-18
 ---
-54 tartans beginning with Fe, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
+55 tartans beginning with Fe, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/f/fe/fearns-mcintosh-millennium/"><img src="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/sett.png" alt="Fearns McIntosh Millennium" width="140"><br><strong>Fearns McIntosh Millennium (1)</strong></a></li>
@@ -33,6 +33,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fe/ferguson-of-atholl/"><img src="/variants/s7/t24k8g8r2g8k1w2~x2/sett.png" alt="Ferguson of Atholl" width="140"><br><strong>Ferguson of Atholl (1)</strong></a><div class="clan-territory">Ferguson of Atholl</div></li>
 <li><a class="tartan" href="/tartans/f/fe/ferguson-of-balquhidder/"><img src="/variants/s6/k2g12k12r1db12g2~x2/sett.png" alt="Ferguson of Balquhidder" width="140"><br><strong>Ferguson of Balquhidder (1)</strong></a><div class="clan-territory">Ferguson of Balquhidder</div></li>
 <li><a class="tartan" href="/tartans/f/fe/ferguson-of-balquhidder-2/"><img src="/variants/s6/k3db12r2k12g12k3~x2/sett.png" alt="Ferguson of Balquhidder" width="140"><br><strong>Ferguson of Balquhidder (1)</strong></a><div class="clan-territory">Ferguson of Balquhidder</div></li>
+<li><a class="tartan" href="/tartans/f/fe/ferguson-of-woodhill/"><img src="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/sett.png" alt="Ferguson of Woodhill" width="140"><br><strong>Ferguson of Woodhill (1)</strong></a><div class="clan-territory">Ferguson of Woodhill</div></li>
 <li><a class="tartan" href="/tartans/f/fe/ferguson-the-astronomer/"><img src="/variants/s7/r48w3k3g2y6g2r6~x4/sett.png" alt="Ferguson the Astronomer" width="140"><br><strong>Ferguson the Astronomer (1)</strong></a><div class="clan-territory">Clan Ferguson</div></li>
 <li><a class="tartan" href="/tartans/f/fe/ferguson-s-promise/"><img src="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri2906009-r2007025/sett.png" alt="Ferguson's Promise" width="140"><br><strong>Ferguson's Promise (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fe/ferguson-jeffrey-s/"><img src="/variants/s6/g27db12k12r9k1y2~x2/sett.png" alt="Ferguson, Jeffrey S" width="140"><br><strong>Ferguson, Jeffrey S (1)</strong></a><div class="clan-territory">Clan Ferguson</div></li>

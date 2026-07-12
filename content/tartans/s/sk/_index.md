@@ -2,7 +2,7 @@
 title: "Tartans — Sk"
 date: 2023-03-18
 ---
-22 tartans beginning with Sk, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
+23 tartans beginning with Sk, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/s/sk/skarpathiotakis-george/"><img src="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/sett.png" alt="Skarpathiotakis, George" width="140"><br><strong>Skarpathiotakis, George (1)</strong></a></li>
@@ -15,6 +15,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/sk/skene-of-cromar/"><img src="/variants/s5/db2r20g20k21r1~x2/sett.png" alt="Skene of Cromar" width="140"><br><strong>Skene of Cromar (2)</strong></a><div class="clan-territory">Skene of Cromar</div></li>
 <li><a class="tartan" href="/tartans/s/sk/skene-of-cromar-2/"><img src="/variants/s8/k4r37db37r2db37g37r37k4/sett.png" alt="Skene of Cromar" width="140"><br><strong>Skene of Cromar (1)</strong></a><div class="clan-territory">Skene of Cromar</div></li>
 <li><a class="tartan" href="/tartans/s/sk/skene-of-cromar-3/"><img src="/variants/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2~db1406275/sett.png" alt="Skene of Cromar" width="140"><br><strong>Skene of Cromar (1)</strong></a><div class="clan-territory">Skene of Cromar</div></li>
+<li><a class="tartan" href="/tartans/s/sk/skene-of-that-ilk/"><img src="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/sett.png" alt="Skene of that Ilk" width="140"><br><strong>Skene of that Ilk (1)</strong></a><div class="clan-territory">Skene of that Ilk</div></li>
 <li><a class="tartan" href="/tartans/s/sk/skibo/"><img src="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/sett.png" alt="Skibo" width="140"><br><strong>Skibo (1)</strong></a><div class="clan-territory">Skibo</div></li>
 <li><a class="tartan" href="/tartans/s/sk/skibo-2/"><img src="/variants/s5/r2dg23db11t22r2~x2/sett.png" alt="Skibo" width="140"><br><strong>Skibo (2)</strong></a><div class="clan-territory">Skibo</div></li>
 <li><a class="tartan" href="/tartans/s/sk/skinner/"><img src="/variants/s4/db1r16k16y1~x4/sett.png" alt="Skinner" width="140"><br><strong>Skinner (2)</strong></a><div class="clan-territory">Skinner</div></li>

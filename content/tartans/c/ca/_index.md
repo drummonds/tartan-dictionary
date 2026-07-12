@@ -2,7 +2,7 @@
 title: "Tartans — Ca"
 date: 2023-03-18
 ---
-306 tartans beginning with Ca, each with the number of setts it groups. Back to [C](/tartans/c/) or the [A–Z](/tartans/).
+308 tartans beginning with Ca, each with the number of setts it groups. Back to [C](/tartans/c/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/c/ca/cal-fire-local-2881/"><img src="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/sett.png" alt="CAL FIRE Local 2881" width="140"><br><strong>CAL FIRE Local 2881 (2)</strong></a></li>
@@ -121,6 +121,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/c/ca/cameron-hunting-3/"><img src="/variants/s6/dy15r5dy30t32dy4lo3~x2/sett.png" alt="Cameron Hunting" width="140"><br><strong>Cameron Hunting (2)</strong></a><div class="clan-territory">Cameron</div></li>
 <li><a class="tartan" href="/tartans/c/ca/cameron-of-erracht/"><img src="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/sett.png" alt="Cameron of Erracht" width="140"><br><strong>Cameron of Erracht (1)</strong></a><div class="clan-territory">Cameron of Erracht</div></li>
 <li><a class="tartan" href="/tartans/c/ca/cameron-of-erracht-2/"><img src="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/sett.png" alt="Cameron of Erracht" width="140"><br><strong>Cameron of Erracht (1)</strong></a><div class="clan-territory">Cameron of Erracht</div></li>
+<li><a class="tartan" href="/tartans/c/ca/cameron-of-fassifern-and-arthurston/"><img src="/variants/s21/ly2db8r3db16r1k16dg16r3dg1r1dg8r1dg1r3dg16k16r1db16r3db8ly1~x4/sett.png" alt="Cameron of Fassifern and Arthurston" width="140"><br><strong>Cameron of Fassifern and Arthurston (1)</strong></a><div class="clan-territory">Cameron of Fassifern and Arthurston</div></li>
 <li><a class="tartan" href="/tartans/c/ca/cameron-of-locheil/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil (1)</strong></a><div class="clan-territory">Cameron of Locheil</div></li>
 <li><a class="tartan" href="/tartans/c/ca/cameron-of-locheil-2/"><img src="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil (1)</strong></a><div class="clan-territory">Cameron of Locheil</div></li>
 <li><a class="tartan" href="/tartans/c/ca/cameron-of-locheil-3/"><img src="/variants/s9/r24db8r23k4w4k4r10k32r8/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil (1)</strong></a><div class="clan-territory">Cameron of Locheil</div></li>
@@ -169,6 +170,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/c/ca/campbell-of-loudoun/"><img src="/variants/s25/db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3g4r14g10r10db5r4db1~x2/sett.png" alt="Campbell of Loudoun" width="140"><br><strong>Campbell of Loudoun (1)</strong></a><div class="clan-territory">Campbell of Loudoun</div></li>
 <li><a class="tartan" href="/tartans/c/ca/campbell-of-loudoun-2/"><img src="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/sett.png" alt="Campbell of Loudoun" width="140"><br><strong>Campbell of Loudoun (2)</strong></a><div class="clan-territory">Campbell of Loudoun</div></li>
 <li><a class="tartan" href="/tartans/c/ca/campbell-of-loudoun-3/"><img src="/variants/s48/r4db5r10dg10r14dg4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3dg4r14dg10r10db5r4db1~x2/sett.png" alt="Campbell of Loudoun" width="140"><br><strong>Campbell of Loudoun (1)</strong></a><div class="clan-territory">Campbell of Loudoun</div></li>
+<li><a class="tartan" href="/tartans/c/ca/campbell-of-stracathro/"><img src="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/sett.png" alt="Campbell of Stracathro" width="140"><br><strong>Campbell of Stracathro (1)</strong></a><div class="clan-territory">Campbell of Stracathro</div></li>
 <li><a class="tartan" href="/tartans/c/ca/campbell-42nd-dress/"><img src="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/sett.png" alt="Campbell, 42nd Dress" width="140"><br><strong>Campbell, 42nd Dress (1)</strong></a><div class="clan-territory">Clan Campbell</div></li>
 <li><a class="tartan" href="/tartans/c/ca/campbell-forty-second/"><img src="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/sett.png" alt="Campbell, Forty Second" width="140"><br><strong>Campbell, Forty Second (1)</strong></a><div class="clan-territory">Clan Campbell</div></li>
 <li><a class="tartan" href="/tartans/c/ca/campbell-marquis-of-lorne/"><img src="/variants/s18/k6g4k22g3k3g32r3g3w3g3y3g32k3g3k22g4k6dp6/sett.png" alt="Campbell, Marquis of Lorne" width="140"><br><strong>Campbell, Marquis of Lorne (1)</strong></a></li>

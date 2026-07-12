@@ -14,4 +14,5 @@ crumbs:
 ## Families
 
 - [Munro](/families/munro/)
+- [Munro of Lindertis](/families/munro-of-lindertis/)
 

@@ -30,6 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/">Forbes</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><img src="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/">Stuart-Forbes of Fettercairn and Pitsligo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/"><img src="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

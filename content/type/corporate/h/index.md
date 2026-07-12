@@ -5,16 +5,16 @@ date: 2023-03-18
 125 Corporate tartans beginning with H. [Back to all Corporate tartans](/type/corporate/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/variants/s4/r10db5lb5n4~x8/"><img src="/variants/s4/r10db5lb5n4~x8/sett.png" alt="Haggis Hostels" width="140"><br>Haggis Hostels</a></li>
 <li><a class="tartan" href="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/"><img src="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/sett.png" alt="Haggis Hostels" width="140"><br>Haggis Hostels</a></li>
+<li><a class="tartan" href="/variants/s4/r10db5lb5n4~x8/"><img src="/variants/s4/r10db5lb5n4~x8/sett.png" alt="Haggis Hostels" width="140"><br>Haggis Hostels</a></li>
 <li><a class="tartan" href="/variants/s5/r26k18r7k4y4~x2/"><img src="/variants/s5/r26k18r7k4y4~x2/sett.png" alt="Haig &amp; Haig Whisky" width="140"><br>Haig & Haig Whisky</a></li>
 <li><a class="tartan" href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><img src="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/sett.png" alt="Haileybury" width="140"><br>Haileybury</a></li>
 <li><a class="tartan" href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><img src="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/sett.png" alt="Haileybury Pipe Band (Corporate)" width="140"><br>Haileybury Pipe Band (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><img src="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/sett.png" alt="Hamburg #2 (Corporate)" width="140"><br>Hamburg #2 (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2~lb3203246/"><img src="/variants/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2~lb3203246/sett.png" alt="Hamburg 2" width="140"><br>Hamburg 2</a></li>
 <li><a class="tartan" href="/variants/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/"><img src="/variants/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/sett.png" alt="Hammarby Football Club" width="140"><br>Hammarby Football Club</a></li>
-<li><a class="tartan" href="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/"><img src="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/sett.png" alt="Hampden-Sydney College" width="140"><br>Hampden-Sydney College</a></li>
 <li><a class="tartan" href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><img src="/variants/s9/r80w2r5k10r6n4r10k2n6/sett.png" alt="Hampden-Sydney College" width="140"><br>Hampden-Sydney College</a></li>
+<li><a class="tartan" href="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/"><img src="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/sett.png" alt="Hampden-Sydney College" width="140"><br>Hampden-Sydney College</a></li>
 <li><a class="tartan" href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><img src="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/sett.png" alt="Hamworthy Association" width="140"><br>Hamworthy Association</a></li>
 <li><a class="tartan" href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/"><img src="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/sett.png" alt="Harbor Club" width="140"><br>Harbor Club</a></li>
 <li><a class="tartan" href="/variants/s6/r47dg14k5y2k3dg7~x2/"><img src="/variants/s6/r47dg14k5y2k3dg7~x2/sett.png" alt="Harbor Club (Corporate)" width="140"><br>Harbor Club (Corporate)</a></li>

@@ -3,8 +3,16 @@ title: 6 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 6
 ---
-1,377 setts across 1,306 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,378 setts across 1,307 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes6/p2/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes6/p4/">4</a> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p4/">next ›</a></nav>
+
+### GGWWRK
+<a class="pat" href="/stripes/ggwwrk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">GGWWRK</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Bro-sant-Malou](/variants/s6/k3r24lb16w11y1g3~x2/) | register-of-tartans |
+| 0.09 | [Tainsh (2016)](/variants/s6/k62r9w7lb6y3g6~x2/) | register-of-tartans |
 
 ### GKBGYK
 <a class="pat" href="/stripes/gkbgyk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">GKBGYK</span></a>
@@ -373,14 +381,6 @@ weight: 6
 |---|---|---|
 | 0.07 | [Ailsa Red](/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/) | register-of-tartans |
 | 0.08 | [Ailsa, Red V2 (Dance)](/variants/s6/r8dr3r28w32dr3w4~x2/) | tartans-authority |
-
-### RBWKGR
-<a class="pat" href="/stripes/rbwkgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBWKGR</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.05 | [Sinclair (Logan)](/variants/s6/r28g16k4w1db6r28~x2/) | register-of-tartans |
-| 0.07 | [Sinclair](/variants/s6/r36t8w1k5g20r18~x4/) | logan-1831 |
 
 ### RGBGGW
 <a class="pat" href="/stripes/rgbggw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGBGGW</span></a>

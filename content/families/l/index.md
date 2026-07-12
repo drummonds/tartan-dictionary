@@ -3,7 +3,7 @@ title: "Families & clans — L"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-105 clans and families beginning with L. [Back to the A–Z](/families/).
+106 clans and families beginning with L. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/labrador/"><img src="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/sett.png" alt="Labrador" width="140"><br><strong>Labrador</strong></a></li>
@@ -65,6 +65,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><strong>Lieuwen</strong></a></li>
 <li><a class="tartan" href="/variants/s7/dg7dp3w1g2dg1o2dp1~x8/"><strong>Lindley-Highfield of Ballumbie Castle</strong></a></li>
 <li><a class="tartan" href="/families/lindsay/"><img src="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2008029/sett.png" alt="Lindsay" width="140"><br><strong>Lindsay</strong></a></li>
+<li><a class="tartan" href="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/"><strong>Lindsay Earl of Crawford</strong></a></li>
 <li><a class="tartan" href="/families/lister/"><img src="/variants/s7/dy8n29dy8y3dy8n8y3~x2/sett.png" alt="Lister" width="140"><br><strong>Lister</strong></a></li>
 <li><a class="tartan" href="/families/little/"><img src="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/sett.png" alt="Little" width="140"><br><strong>Little</strong></a></li>
 <li><a class="tartan" href="/families/little-of-morton-rig/"><img src="/variants/s10/k10w7k8w7k8b14k4b14k16y2/sett.png" alt="Little of Morton Rig" width="140"><br><strong>Little of Morton Rig</strong></a></li>

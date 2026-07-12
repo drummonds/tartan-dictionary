@@ -17,4 +17,5 @@ crumbs:
 - [Gordon of Abergeldie](/families/gordon-of-abergeldie/)
 - [Gordon of Esselmont](/families/gordon-of-esselmont/)
 - [Gordon of Esslemont](/families/gordon-of-esslemont/)
+- [Gordon of The Burn](/families/gordon-of-the-burn/)
 

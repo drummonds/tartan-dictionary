@@ -3,7 +3,7 @@ title: "Families & clans — O"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-37 clans and families beginning with O. [Back to the A–Z](/families/).
+38 clans and families beginning with O. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s7/g12k1r1k12o9k45g9~x2/"><strong>O'Boyle</strong></a></li>
@@ -26,6 +26,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/ogilvie-of-strathallan/"><img src="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/sett.png" alt="Ogilvie of Strathallan" width="140"><br><strong>Ogilvie of Strathallan</strong></a></li>
 <li><a class="tartan" href="/families/ogilvy/"><img src="/variants/s80/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2~x2/sett.png" alt="Ogilvy" width="140"><br><strong>Ogilvy</strong></a></li>
 <li><a class="tartan" href="/families/ogilvy-of-airlie/"><img src="/variants/s36/r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3~x2/sett.png" alt="Ogilvy of Airlie" width="140"><br><strong>Ogilvy of Airlie</strong></a></li>
+<li><a class="tartan" href="/families/ogilvy-of-inverquharity/"><img src="/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/sett.png" alt="Ogilvy of Inverquharity" width="140"><br><strong>Ogilvy of Inverquharity</strong></a></li>
 <li><a class="tartan" href="/families/ohio/"><img src="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/sett.png" alt="Ohio" width="140"><br><strong>Ohio</strong></a></li>
 <li><a class="tartan" href="/families/oilmens/"><img src="/variants/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~x4/sett.png" alt="Oilmens" width="140"><br><strong>Oilmens</strong></a></li>
 <li><a class="tartan" href="/families/oliphant/"><img src="/variants/s6/db4k4db24g32w1g2~x2/sett.png" alt="Oliphant" width="140"><br><strong>Oliphant</strong></a></li>

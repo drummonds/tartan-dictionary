@@ -3,7 +3,7 @@ title: 6 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 6
 ---
-1,377 setts across 1,306 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,378 setts across 1,307 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes6/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <strong>2</strong> <a href="/stripes/stripes6/p3/">3</a> <a href="/stripes/stripes6/p4/">4</a> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p3/">next ›</a></nav>
 
 ### KWGKBR
@@ -388,6 +388,15 @@ weight: 6
 | 0.03 | [Hydro-Electric (Corporate)](/variants/s6/r3k1w5k4db11r1~x4/) | tartans-authority |
 | 0.05 | [Downside (Corporate)](/variants/s6/r4n41k5w14k18r4~x2/) | tartans-authority |
 | 0.05 | [Thompson Grey Family Tartan](/variants/s6/r2n20k5w10k10r2~x2/) | house-of-tartan |
+
+### RBWKGR
+<a class="pat" href="/stripes/rbwkgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBWKGR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Sinclair (Logan)](/variants/s6/r28g16k4w1db6r28~x2/) | register-of-tartans |
+| 0.07 | [Sinclair](/variants/s6/r36t8w1k5g20r18~x4/) | logan-1831 |
+| 0.07 | [Sinclair of Auldbar](/variants/s6/r36t8w1k5dg20r18~x4/) | peter-1856 |
 
 ### RKWGKW
 <a class="pat" href="/stripes/rkwgkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKWGKW</span></a>
@@ -1046,13 +1055,5 @@ weight: 6
 |---|---|---|
 | 0.17 | [Oman, Sultanate of..](/variants/s6/dg9lb3dg6lb3dg20y2~x2/) | weddslist |
 | 0.18 | [Oman Sultanate of.. Regimental Tartan](/variants/s6/dy9lb3dy6lb3dy20y2~x2/) | house-of-tartan |
-
-### GGWWRK
-<a class="pat" href="/stripes/ggwwrk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">GGWWRK</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.09 | [Bro-sant-Malou](/variants/s6/k3r24lb16w11y1g3~x2/) | register-of-tartans |
-| 0.09 | [Tainsh (2016)](/variants/s6/k62r9w7lb6y3g6~x2/) | register-of-tartans |
 
 <nav class="pager"><a href="/stripes/stripes6/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <strong>2</strong> <a href="/stripes/stripes6/p3/">3</a> <a href="/stripes/stripes6/p4/">4</a> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p3/">next ›</a></nav>

@@ -2,7 +2,7 @@
 title: "Tartans — Li"
 date: 2023-03-18
 ---
-60 tartans beginning with Li, each with the number of setts it groups. Back to [L](/tartans/l/) or the [A–Z](/tartans/).
+61 tartans beginning with Li, each with the number of setts it groups. Back to [L](/tartans/l/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/l/li/liama-the/"><img src="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/sett.png" alt="Liama, The" width="140"><br><strong>Liama, The (1)</strong></a></li>
@@ -31,6 +31,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/l/li/lindsay-dress/"><img src="/variants/s9/g33db4g4db4g4db12w33db3w6~x2/sett.png" alt="Lindsay Dress" width="140"><br><strong>Lindsay Dress (1)</strong></a><div class="clan-territory">Lindsay</div></li>
 <li><a class="tartan" href="/tartans/l/li/lindsay-dress-2/"><img src="/variants/s9/g26r3g3r3g3r11w27r3w5~x2/sett.png" alt="Lindsay Dress" width="140"><br><strong>Lindsay Dress (1)</strong></a><div class="clan-territory">Lindsay</div></li>
 <li><a class="tartan" href="/tartans/l/li/lindsay-dress-3/"><img src="/variants/s9/w29db2w2db2w2db14r31db2r3~x2/sett.png" alt="Lindsay Dress" width="140"><br><strong>Lindsay Dress (1)</strong></a><div class="clan-territory">Lindsay</div></li>
+<li><a class="tartan" href="/tartans/l/li/lindsay-earl-of-crawford/"><img src="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/sett.png" alt="Lindsay Earl of Crawford" width="140"><br><strong>Lindsay Earl of Crawford (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/l/li/lindsay-hunting/"><img src="/variants/s6/g3k15dr8g2n8k2~x4/sett.png" alt="Lindsay Hunting" width="140"><br><strong>Lindsay Hunting (1)</strong></a><div class="clan-territory">Lindsay</div></li>
 <li><a class="tartan" href="/tartans/l/li/lindsay-mini-design/"><img src="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/sett.png" alt="Lindsay MINI Design" width="140"><br><strong>Lindsay MINI Design (1)</strong></a><div class="clan-territory">Clan Lindsay</div></li>
 <li><a class="tartan" href="/tartans/l/li/linn/"><img src="/variants/s15/w3db3r1db3r1db15r1db2g15ly1g2k20ly1k2ly2~x2/sett.png" alt="Linn" width="140"><br><strong>Linn (1)</strong></a></li>

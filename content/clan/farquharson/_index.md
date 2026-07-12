@@ -14,4 +14,5 @@ crumbs:
 ## Families
 
 - [Farquharson](/families/farquharson/)
+- [Farquharson of Baldovie](/families/farquharson-of-baldovie/)
 

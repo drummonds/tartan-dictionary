@@ -12,5 +12,5 @@ crumbs:
 ## Tartan
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/mactier-of-durris/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="MacTier of Durris" width="140"><br><strong>MacTier of Durris (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/mactier-of-durris/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="MacTier of Durris" width="140"><br><strong>MacTier of Durris (3)</strong></a></li>
 </ul>

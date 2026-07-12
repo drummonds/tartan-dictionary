@@ -28,6 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
+<tr><td><a href="/variants/s29/r10db2r1db2r72t1r2db20r4dg2r4dg84r2db2r10db2r2dg84r4dg2r4db20r2t1r72db2r2db1r5~x2/">Forsythe-Grant of Ecclesgreig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s29/r10db2r1db2r72t1r2db20r4dg2r4dg84r2db2r10db2r2dg84r4dg2r4db20r2t1r72db2r2db1r5~x2/"><img src="/variants/s29/r10db2r1db2r72t1r2db20r4dg2r4dg84r2db2r10db2r2dg84r4dg2r4db20r2t1r72db2r2db1r5~x2/sett.png" alt="Forsythe-Grant of Ecclesgreig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/">Grant</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/"><img src="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

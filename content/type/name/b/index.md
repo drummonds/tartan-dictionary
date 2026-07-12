@@ -2,7 +2,7 @@
 title: "Name tartans — B"
 date: 2023-03-18
 ---
-97 Name tartans beginning with B. [Back to all Name tartans](/type/name/).
+99 Name tartans beginning with B. [Back to all Name tartans](/type/name/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/"><img src="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/sett.png" alt="Bahrain, Royal" width="140"><br>Bahrain, Royal</a></li>
@@ -19,6 +19,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/"><img src="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/sett.png" alt="Bathija (Name)" width="140"><br>Bathija (Name)</a></li>
 <li><a class="tartan" href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><img src="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/sett.png" alt="Batten of Argyll (Baddenach)" width="140"><br>Batten of Argyll (Baddenach)</a></li>
 <li><a class="tartan" href="/variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/"><img src="/variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/sett.png" alt="Baudoux et amis picards" width="140"><br>Baudoux et amis picards</a></li>
+<li><a class="tartan" href="/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/"><img src="/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/sett.png" alt="Baxter of Balgavies" width="140"><br>Baxter of Balgavies</a></li>
 <li><a class="tartan" href="/variants/s13/r2db18lo4k5lo1k1w1k2g8r6k1r3w1~x4/"><img src="/variants/s13/r2db18lo4k5lo1k1w1k2g8r6k1r3w1~x4/sett.png" alt="Beaton (Name)" width="140"><br>Beaton (Name)</a></li>
 <li><a class="tartan" href="/variants/s14/k6t3db28lo8k10lo2k2lb2k4g16dr12k2dr6lb2~x2/"><img src="/variants/s14/k6t3db28lo8k10lo2k2lb2k4g16dr12k2dr6lb2~x2/sett.png" alt="Beatty" width="140"><br>Beatty</a></li>
 <li><a class="tartan" href="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/"><img src="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/sett.png" alt="Becker (Name)" width="140"><br>Becker (Name)</a></li>
@@ -73,6 +74,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/"><img src="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/sett.png" alt="Brewer" width="140"><br>Brewer</a></li>
 <li><a class="tartan" href="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/"><img src="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/sett.png" alt="Brigid Mhairi" width="140"><br>Brigid Mhairi</a></li>
 <li><a class="tartan" href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/"><img src="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/sett.png" alt="Broager (Name)" width="140"><br>Broager (Name)</a></li>
+<li><a class="tartan" href="/variants/s8/r48w4db4k4r12db4r1ly4~x2/"><img src="/variants/s8/r48w4db4k4r12db4r1ly4~x2/sett.png" alt="Brodie of that Ilk and The Burn" width="140"><br>Brodie of that Ilk and The Burn</a></li>
 <li><a class="tartan" href="/variants/s5/g24t2r25y2k3~x2/"><img src="/variants/s5/g24t2r25y2k3~x2/sett.png" alt="Bronte (Name)" width="140"><br>Bronte (Name)</a></li>
 <li><a class="tartan" href="/variants/s9/y2w2r2k14g20k16b2lb1b2~x2/"><img src="/variants/s9/y2w2r2k14g20k16b2lb1b2~x2/sett.png" alt="Brooke" width="140"><br>Brooke</a></li>
 <li><a class="tartan" href="/variants/s9/db1lb1db1k8g10k8r1w1y1~x2/"><img src="/variants/s9/db1lb1db1k8g10k8r1w1y1~x2/sett.png" alt="Brooke (D.C.Dalgliesh version)" width="140"><br>Brooke (D.C.Dalgliesh version)</a></li>

@@ -3,8 +3,29 @@ title: 14 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 14
 ---
-610 setts across 588 tartans with 14 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+613 setts across 591 tartans with 14 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes14/p2/">‹ prev</a> <a href="/stripes/stripes14/">1</a> <a href="/stripes/stripes14/p2/">2</a> <strong>3</strong> </nav>
+
+### WKWWYWKWYGBKBY
+<a class="pat" href="/stripes/wkwwywkwygbkby/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WKWWYWKWYGBKBY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Dundee (2003)](/variants/s14/lo35dr3k21dr3g21lo6w3k3w3lo6lb15w3k6w6~x2/) | register-of-tartans |
+
+### WRBGRGBRGRBGRW
+<a class="pat" href="/stripes/wrbgrgbrgrbgrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRBGRGBRGRBGRW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [MacKinnon 3](/variants/s14/w3r5g3dp3r14g36r3dp8g3r36g14b3r5w3~x2/) | weddslist |
+
+### WRGBRGRBGRGRRW
+<a class="pat" href="/stripes/wrgbrgrbgrgrrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRGBRGRBGRGRRW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [MacKinnon #11](/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/) | register-of-tartans |
 
 ### WRGYGBGWWWWWWW
 <a class="pat" href="/stripes/wrgygbgwwwwwww/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRGYGBGWWWWWWW</span></a>

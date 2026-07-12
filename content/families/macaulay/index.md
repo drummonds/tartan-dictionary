@@ -4,10 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan MacAulay"
+- name: "Clan Macaulay"
   url: "/clan/macaulay/"
 ---
-A family of [Clan MacAulay](/clan/macaulay/).
+A family of [Clan Macaulay](/clan/macaulay/).
 
 **Trove of Scotland:** [search “MacAulay”](https://www.trove.scot/search?page_type=Designations+Decisions&q=MacAulay&viewmode=grid)
 

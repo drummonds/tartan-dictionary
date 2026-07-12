@@ -2,7 +2,7 @@
 title: "Tartans — Mu"
 date: 2023-03-18
 ---
-79 tartans beginning with Mu, each with the number of setts it groups. Back to [M](/tartans/m/) or the [A–Z](/tartans/).
+81 tartans beginning with Mu, each with the number of setts it groups. Back to [M](/tartans/m/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/m/mu/muir/"><img src="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/sett.png" alt="Muir" width="140"><br><strong>Muir (2)</strong></a><div class="clan-territory">Muir</div></li>
@@ -29,6 +29,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/m/mu/munro-3/"><img src="/variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/sett.png" alt="Munro" width="140"><br><strong>Munro (1)</strong></a><div class="clan-territory">Munro</div></li>
 <li><a class="tartan" href="/tartans/m/mu/munro-old/"><img src="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/sett.png" alt="Munro Old" width="140"><br><strong>Munro Old (1)</strong></a><div class="clan-territory">Clan Munro</div></li>
 <li><a class="tartan" href="/tartans/m/mu/munro-vs/"><img src="/variants/s5/k18r4k18r32w3~x2/sett.png" alt="Munro VS" width="140"><br><strong>Munro VS (1)</strong></a><div class="clan-territory">Clan Munro</div></li>
+<li><a class="tartan" href="/tartans/m/mu/munro-of-lindertis/"><img src="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/sett.png" alt="Munro of Lindertis" width="140"><br><strong>Munro of Lindertis (1)</strong></a><div class="clan-territory">Munro of Lindertis</div></li>
 <li><a class="tartan" href="/tartans/m/mu/munster/"><img src="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/sett.png" alt="Munster" width="140"><br><strong>Munster (2)</strong></a><div class="clan-territory">Munster</div></li>
 <li><a class="tartan" href="/tartans/m/mu/munster-ancestry/"><img src="/variants/s8/n4db48n21db14dy3db6n1y3~x2/sett.png" alt="Munster Ancestry" width="140"><br><strong>Munster Ancestry (2)</strong></a><div class="clan-territory">Clan Munster</div></li>
 <li><a class="tartan" href="/tartans/m/mu/murdoch/"><img src="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/sett.png" alt="Murdoch" width="140"><br><strong>Murdoch (2)</strong></a><div class="clan-territory">Murdoch</div></li>
@@ -52,6 +53,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/m/mu/murray-threipland-of-fingask/"><img src="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/sett.png" alt="Murray Threipland of Fingask" width="140"><br><strong>Murray Threipland of Fingask (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/mu/murray-of-abercairney/"><img src="/variants/s9/lb3n1k1ri12r1g9r1n1lb3~x2~ri2209032-r2208029/sett.png" alt="Murray of Abercairney" width="140"><br><strong>Murray of Abercairney (1)</strong></a><div class="clan-territory">Murray of Abercairney</div></li>
 <li><a class="tartan" href="/tartans/m/mu/murray-of-abercairney-2/"><img src="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/sett.png" alt="Murray of Abercairney" width="140"><br><strong>Murray of Abercairney (1)</strong></a><div class="clan-territory">Murray of Abercairney</div></li>
+<li><a class="tartan" href="/tartans/m/mu/murray-of-arthurstone/"><img src="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/sett.png" alt="Murray of Arthurstone" width="140"><br><strong>Murray of Arthurstone (1)</strong></a><div class="clan-territory">Murray of Arthurstone</div></li>
 <li><a class="tartan" href="/tartans/m/mu/murray-of-atholl/"><img src="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/sett.png" alt="Murray of Atholl" width="140"><br><strong>Murray of Atholl (2)</strong></a><div class="clan-territory">Murray of Atholl</div></li>
 <li><a class="tartan" href="/tartans/m/mu/murray-of-atholl-2/"><img src="/variants/s13/db18o4db3o3db3o18b18r10b18o18db18o3r10~x2/sett.png" alt="Murray of Atholl" width="140"><br><strong>Murray of Atholl (1)</strong></a><div class="clan-territory">Murray of Atholl</div></li>
 <li><a class="tartan" href="/tartans/m/mu/murray-of-atholl-3/"><img src="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/sett.png" alt="Murray of Atholl" width="140"><br><strong>Murray of Atholl (1)</strong></a><div class="clan-territory">Murray of Atholl</div></li>

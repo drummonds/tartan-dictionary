@@ -32,4 +32,5 @@ crumbs:
 - [MacDonald of Sleat](/families/macdonald-of-sleat/)
 - [MacDonald of Staffa](/families/macdonald-of-staffa/)
 - [MacDonald of Vallay](/families/macdonald-of-vallay/)
+- [Macdonald of Rossie](/families/macdonald-of-rossie/)
 

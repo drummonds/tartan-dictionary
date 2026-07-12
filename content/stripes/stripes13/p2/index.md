@@ -3,8 +3,16 @@ title: 13 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 13
 ---
-836 setts across 786 tartans with 13 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+840 setts across 790 tartans with 13 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes13/">‹ prev</a> <a href="/stripes/stripes13/">1</a> <strong>2</strong> <a href="/stripes/stripes13/p3/">3</a> <a href="/stripes/stripes13/p3/">next ›</a></nav>
+
+### WRKRGKWKGKWRW
+<a class="pat" href="/stripes/wrkrgkwkgkwrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRKRGKWKGKWRW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Hay, or Stewart](/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/) | weddslist |
+| 0.07 | [Hay or Stewart](/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/) | register-of-tartans |
 
 ### WRWGWKRKWGWRW
 <a class="pat" href="/stripes/wrwgwkrkwgwrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRWGWKRKWGWRW</span></a>
@@ -778,13 +786,6 @@ weight: 13
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.05 | [Craigclowan School](/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/) | tartans-authority |
-
-### BKBKGKWKGKBKB
-<a class="pat" href="/stripes/bkbkgkwkgkbkb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">BKBKGKWKGKBKB</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.06 | [Forbes](/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/) | logan-1831 |
 
 ### BKBKGRGRGRGKG
 <a class="pat" href="/stripes/bkbkgrgrgrgkg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BKBKGRGRGRGKG</span></a>
@@ -2080,12 +2081,5 @@ weight: 13
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.06 | [Norwich No.158](/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/) | register-of-tartans |
-
-### GRBGRRWRWGRGR
-<a class="pat" href="/stripes/grbgrrwrwgrgr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRBGRRWRWGRGR</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.17 | [Parma](/variants/s13/o32dy8o1dy1lb1o1lb1oi1o1dy1n1o4dy1~x4~o2103000-oi2403057/) | register-of-tartans |
 
 <nav class="pager"><a href="/stripes/stripes13/">‹ prev</a> <a href="/stripes/stripes13/">1</a> <strong>2</strong> <a href="/stripes/stripes13/p3/">3</a> <a href="/stripes/stripes13/p3/">next ›</a></nav>

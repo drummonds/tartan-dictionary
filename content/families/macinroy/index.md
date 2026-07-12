@@ -4,8 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacInroy"
+  url: "/clan/macinroy/"
 ---
-*Single family clan, so not under clans.*
+A family of [Clan MacInroy](/clan/macinroy/).
 
 **Trove of Scotland:** [search “MacInroy”](https://www.trove.scot/search?page_type=Designations+Decisions&q=MacInroy&viewmode=grid)
 

@@ -3,7 +3,7 @@ title: 6 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 6
 ---
-1,377 setts across 1,306 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,378 setts across 1,307 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes6/p3/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p5/">next ›</a></nav>
 
 ### BRBGBG

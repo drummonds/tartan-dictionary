@@ -24,6 +24,7 @@ A lowland clan of Strathearn, the chiefly house seated at Drummond Castle. Its g
 ## Families
 
 - [Drummond](/families/drummond/)
+- [Drummond of Drumtochty](/families/drummond-of-drumtochty/)
 - [Drummond of Megginch](/families/drummond-of-megginch/) — seat: Megginch Castle
 - [Drummond of Perth](/families/drummond-of-perth/)
 - [Drummond of Strathallan](/families/drummond-of-strathallan/)

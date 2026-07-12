@@ -65,7 +65,7 @@ One full sett is **272 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **9.48** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **9.49** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">
@@ -84,8 +84,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 13656 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.5" cy="285.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.7" cy="292.5" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.6" cy="278.1" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="470.8" cy="308.6" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><circle cx="545.9" cy="283.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.3" cy="285.0" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.4" cy="292.3" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.5" cy="277.8" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="470.5" cy="308.5" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><circle cx="545.7" cy="283.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy6n2dy29n29dy2n6~x2/

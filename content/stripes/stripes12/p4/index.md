@@ -3,8 +3,22 @@ title: 12 stripes tartan setts (page 4)
 date: 2023-03-18
 weight: 12
 ---
-1,011 setts across 960 tartans with 12 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,013 setts across 962 tartans with 12 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes12/p3/">‹ prev</a> <a href="/stripes/stripes12/">1</a> <a href="/stripes/stripes12/p2/">2</a> <a href="/stripes/stripes12/p3/">3</a> <strong>4</strong> </nav>
+
+### RBKGRGBWBWBW
+<a class="pat" href="/stripes/rbkgrgbwbwbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBKGRGBWBWBW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Murray Dress Trade Tartan](/variants/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/) | house-of-tartan |
+
+### RBKGYGKYKYKY
+<a class="pat" href="/stripes/rbkgygkykyky/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RBKGYGKYKYKY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Valley Forge Pipe Band](/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/) | register-of-tartans |
 
 ### RBKYKWKGRKRW
 <a class="pat" href="/stripes/rbkykwkgrkrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBKYKWKGRKRW</span></a>

@@ -15,4 +15,5 @@ crumbs:
 
 - [Chisholm](/families/chisholm/)
 - [Chisholm of Strathglass](/families/chisholm-of-strathglass/)
+- [Chisholm of that Ilk](/families/chisholm-of-that-ilk/)
 

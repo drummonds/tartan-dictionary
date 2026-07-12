@@ -2,7 +2,7 @@
 title: "Tartans — In"
 date: 2023-03-18
 ---
-92 tartans beginning with In, each with the number of setts it groups. Back to [I](/tartans/i/) or the [A–Z](/tartans/).
+93 tartans beginning with In, each with the number of setts it groups. Back to [I](/tartans/i/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/i/in/insead/"><img src="/variants/s12/dy3dgi15dr2dgi2dr6dgi2dg6dgi2dg2dgi23g2dgi2~x2~dgi1804158-g2208144/sett.png" alt="INSEAD" width="140"><br><strong>INSEAD (1)</strong></a></li>
@@ -42,6 +42,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/i/in/innes-of-cowie-2/"><img src="/variants/s31/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1~x4/sett.png" alt="Innes of Cowie" width="140"><br><strong>Innes of Cowie (2)</strong></a><div class="clan-territory">Innes, of Cowie</div></li>
 <li><a class="tartan" href="/tartans/i/in/innes-of-learney-hunting/"><img src="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/sett.png" alt="Innes of Learney Hunting" width="140"><br><strong>Innes of Learney Hunting (1)</strong></a><div class="clan-territory">Innes of Learney</div></li>
 <li><a class="tartan" href="/tartans/i/in/innes-of-learney-hunting-2/"><img src="/variants/s16/w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18lb3~x2/sett.png" alt="Innes of Learney Hunting" width="140"><br><strong>Innes of Learney Hunting (1)</strong></a><div class="clan-territory">Innes of Learney</div></li>
+<li><a class="tartan" href="/tartans/i/in/innes-of-raemoir-and-cowie/"><img src="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/sett.png" alt="Innes of Raemoir and Cowie" width="140"><br><strong>Innes of Raemoir and Cowie (1)</strong></a><div class="clan-territory">Innes of Raemoir and Cowie</div></li>
 <li><a class="tartan" href="/tartans/i/in/innes-hunting-3/"><img src="/variants/s16/w3o3k3g15db3o3db8o3y3o18k3o3k4o3k18lb3~x2/sett.png" alt="Innes, hunting" width="140"><br><strong>Innes, hunting (1)</strong></a><div class="clan-territory">Innes</div></li>
 <li><a class="tartan" href="/tartans/i/in/inspiration/"><img src="/variants/s5/r5db12g11n21y5~x2/sett.png" alt="Inspiration" width="140"><br><strong>Inspiration (2)</strong></a><div class="clan-territory">Inspiration</div></li>
 <li><a class="tartan" href="/tartans/i/in/instakilt/"><img src="/variants/s7/r8w4r50k12r4k15g5~x2/sett.png" alt="Instakilt" width="140"><br><strong>Instakilt (1)</strong></a><div class="clan-territory">Instakilt</div></li>

@@ -14,5 +14,6 @@ crumbs:
 ## Families
 
 - [Davidson](/families/davidson/)
+- [Davidson of Inchmarlo](/families/davidson-of-inchmarlo/)
 - [Davidson of Tulloch](/families/davidson-of-tulloch/)
 

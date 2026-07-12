@@ -2,7 +2,7 @@
 title: "Tartans — Si"
 date: 2023-03-18
 ---
-49 tartans beginning with Si, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
+50 tartans beginning with Si, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/s/si/simba/"><img src="/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br><strong>SiMBA (1)</strong></a><div class="clan-territory">SiMBA</div></li>
@@ -41,6 +41,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/si/sinclair-dress-2/"><img src="/variants/s7/db4r2db31k10g4w21g2~x2/sett.png" alt="Sinclair Dress" width="140"><br><strong>Sinclair Dress (3)</strong></a><div class="clan-territory">Sinclair</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-hunting/"><img src="/variants/s7/r2db16w1k16g30r1g2~x2/sett.png" alt="Sinclair Hunting" width="140"><br><strong>Sinclair Hunting (1)</strong></a><div class="clan-territory">Sinclair</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-hunting-2/"><img src="/variants/s7/g6r2g13k6w2k16r3~x2/sett.png" alt="Sinclair Hunting" width="140"><br><strong>Sinclair Hunting (1)</strong></a><div class="clan-territory">Sinclair</div></li>
+<li><a class="tartan" href="/tartans/s/si/sinclair-of-auldbar/"><img src="/variants/s6/r36t8w1k5dg20r18~x4/sett.png" alt="Sinclair of Auldbar" width="140"><br><strong>Sinclair of Auldbar (1)</strong></a><div class="clan-territory">Sinclair of Auldbar</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-of-ulbster/"><img src="/variants/s4/t12k4g6ly1~x8/sett.png" alt="Sinclair of Ulbster" width="140"><br><strong>Sinclair of Ulbster (1)</strong></a><div class="clan-territory">Sinclair of Ulbster</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-sir-john/"><img src="/variants/s4/db16k6g8y1~x2/sett.png" alt="Sinclair, Sir John" width="140"><br><strong>Sinclair, Sir John (1)</strong></a><div class="clan-territory">Clan Sinclair</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-brown/"><img src="/variants/s8/db64k11r2k4r2k4g32ly4~x2/sett.png" alt="Sinclair-Brown" width="140"><br><strong>Sinclair-Brown (2)</strong></a></li>

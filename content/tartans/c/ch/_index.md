@@ -2,7 +2,7 @@
 title: "Tartans — Ch"
 date: 2023-03-18
 ---
-98 tartans beginning with Ch, each with the number of setts it groups. Back to [C](/tartans/c/) or the [A–Z](/tartans/).
+99 tartans beginning with Ch, each with the number of setts it groups. Back to [C](/tartans/c/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/c/ch/ch-supt-everett-and-mrs-julene-sum/"><img src="/variants/s7/r9w27k7w45lb60dg4lo5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Sum" width="140"><br><strong>Ch. Supt. Everett and Mrs Julene Sum (1)</strong></a></li>
@@ -81,6 +81,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/c/ch/chisholm-hunting-2/"><img src="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/sett.png" alt="Chisholm Hunting" width="140"><br><strong>Chisholm Hunting (1)</strong></a><div class="clan-territory">Chisholm</div></li>
 <li><a class="tartan" href="/tartans/c/ch/chisholm-vs/"><img src="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/sett.png" alt="Chisholm VS" width="140"><br><strong>Chisholm VS (1)</strong></a><div class="clan-territory">Clan Chisholm</div></li>
 <li><a class="tartan" href="/tartans/c/ch/chisholm-of-strathglass/"><img src="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/sett.png" alt="Chisholm of Strathglass" width="140"><br><strong>Chisholm of Strathglass (2)</strong></a><div class="clan-territory">Chisholm of Strathglass</div></li>
+<li><a class="tartan" href="/tartans/c/ch/chisholm-of-that-ilk/"><img src="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/sett.png" alt="Chisholm of that Ilk" width="140"><br><strong>Chisholm of that Ilk (1)</strong></a><div class="clan-territory">Chisholm of that Ilk</div></li>
 <li><a class="tartan" href="/tartans/c/ch/chisholm-christopher/"><img src="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/sett.png" alt="Chisholm, Christopher" width="140"><br><strong>Chisholm, Christopher (1)</strong></a><div class="clan-territory">Clan Chisholm</div></li>
 <li><a class="tartan" href="/tartans/c/ch/chisholm-the/"><img src="/variants/s8/r12t2w1t2r3g8r3t1~x4/sett.png" alt="Chisholm, The" width="140"><br><strong>Chisholm, The (1)</strong></a><div class="clan-territory">Clan Chisholm</div></li>
 <li><a class="tartan" href="/tartans/c/ch/chisholm-the-2/"><img src="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/sett.png" alt="Chisholm, The" width="140"><br><strong>Chisholm, The (2)</strong></a><div class="clan-territory">Clan Chisholm</div></li>

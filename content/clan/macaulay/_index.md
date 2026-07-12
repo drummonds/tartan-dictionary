@@ -1,5 +1,5 @@
 ---
-title: "Clan MacAulay"
+title: "Clan Macaulay"
 date: 2023-03-18
 crumbs:
 - name: "Home"
@@ -14,6 +14,6 @@ crumbs:
 ## Families
 
 - [MacAulay](/families/macaulay/)
-- [MacAulay of Ardincaple](/families/macaulay-of-ardincaple/)
 - [MacAulay of Lewis](/families/macaulay-of-lewis/)
+- [Macaulay of Ardincaple](/families/macaulay-of-ardincaple/)
 

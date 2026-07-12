@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r2db10k5g12w2~x2/">Davidson of Tulloch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2db10k5g12w2~x2/"><img src="/variants/s5/r2db10k5g12w2~x2/sett.png" alt="Davidson of Tulloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r1db6k3g6w1/">Davidson of Tulloch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r1db6k3g6w1/"><img src="/variants/s5/r1db6k3g6w1/sett.png" alt="Davidson of Tulloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r2db10k5g12w2~x2/">Davidson of Tulloch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r2db10k5g12w2~x2/"><img src="/variants/s5/r2db10k5g12w2~x2/sett.png" alt="Davidson of Tulloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/r1db7k7g7w1~x6/">Davidson of Tulloch (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r1db7k7g7w1~x6/"><img src="/variants/s5/r1db7k7g7w1~x6/sett.png" alt="Davidson of Tulloch (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/r2db12k7g8lb2~x4/">Forbo Nairn</a></td></tr>

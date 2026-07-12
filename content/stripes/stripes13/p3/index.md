@@ -3,8 +3,15 @@ title: 13 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 13
 ---
-836 setts across 786 tartans with 13 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+840 setts across 790 tartans with 13 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes13/p2/">‹ prev</a> <a href="/stripes/stripes13/">1</a> <a href="/stripes/stripes13/p2/">2</a> <strong>3</strong> </nav>
+
+### GRBGRRWRWGRGR
+<a class="pat" href="/stripes/grbgrrwrwgrgr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRBGRRWRWGRGR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.17 | [Parma](/variants/s13/o32dy8o1dy1lb1o1lb1oi1o1dy1n1o4dy1~x4~o2103000-oi2403057/) | register-of-tartans |
 
 ### GRBRKGKWGRKRW
 <a class="pat" href="/stripes/grbrkgkwgrkrw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GRBRKGKWGRKRW</span></a>
@@ -727,6 +734,13 @@ weight: 13
 |---|---|---|
 | 0.08 | [Alberta Caledonia (Corporate)](/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/) | tartans-authority |
 
+### RBKGRKRKRGKBR
+<a class="pat" href="/stripes/rbkgrkrkrgkbr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBKGRKRKRGKBR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Duff of Careston](/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/) | peter-1856 |
+
 ### RBKWKGKGRKRKW
 <a class="pat" href="/stripes/rbkwkgkgrkrkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBKWKGKGRKRKW</span></a>
 
@@ -887,6 +901,20 @@ weight: 13
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.09 | [Carolina, States of (District)](/variants/s13/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2~x2/) | tartans-authority |
+
+### RGRBWBRBWBRGR
+<a class="pat" href="/stripes/rgrbwbrbwbrgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGRBWBRBWBRGR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Chisholm of that Ilk](/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/) | peter-1856 |
+
+### RGRGKWKGRGRGR
+<a class="pat" href="/stripes/rgrgkwkgrgrgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGRGKWKGRGRGR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.04 | [MacGregor](/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/) | peter-1856 |
 
 ### RGRGRBKWKBGRY
 <a class="pat" href="/stripes/rgrgrbkwkbgry/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RGRGRBKWKBGRY</span></a>

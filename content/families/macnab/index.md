@@ -4,8 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacNab"
+  url: "/clan/macnab/"
 ---
-*Single family clan, so not under clans.*
+A family of [Clan MacNab](/clan/macnab/).
 
 **Trove of Scotland:** [search “MacNab”](https://www.trove.scot/search?page_type=Designations+Decisions&q=MacNab&viewmode=grid)
 

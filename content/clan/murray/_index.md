@@ -15,6 +15,7 @@ Simplified version of Murray of Atholl, with red stripe added by Lord Murray to 
 
 - [Murray](/families/murray/)
 - [Murray of Abercairney](/families/murray-of-abercairney/)
+- [Murray of Arthurstone](/families/murray-of-arthurstone/)
 - [Murray of Atholl](/families/murray-of-atholl/)
 - [Murray of Dunmore](/families/murray-of-dunmore/)
 - [Murray of Elibank](/families/murray-of-elibank/)

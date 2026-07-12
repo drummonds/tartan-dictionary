@@ -14,5 +14,5 @@ A family of [Clan Baxter](/clan/baxter/).
 ## Tartan
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/ba/baxter-of-balgavies/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/sett.png" alt="Baxter of Balgavies" width="140"><br><strong>Baxter of Balgavies (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/b/ba/baxter-of-balgavies/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/sett.png" alt="Baxter of Balgavies" width="140"><br><strong>Baxter of Balgavies (2)</strong></a></li>
 </ul>

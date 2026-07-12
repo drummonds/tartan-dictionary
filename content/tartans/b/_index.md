@@ -2,7 +2,7 @@
 title: "Tartans — B"
 date: 2023-03-18
 ---
-803 tartans beginning with B, grouped by their first two letters. [Back to the A–Z](/tartans/).
+804 tartans beginning with B, grouped by their first two letters. [Back to the A–Z](/tartans/).
 
 <ul class="family-summary">
 <li><a class="letter" href="/tartans/b/b/"><img class="letter-swatch" src="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/sett.png" alt="" width="120"><br><strong>B</strong> · 2 entries</a><div class="names"><a href="/tartans/b/b/b-q/">B & Q (1)</a> · <a href="/tartans/b/b/b-guinot-st-phane/">Béguinot, Stéphane (1)</a></div></li>
@@ -13,7 +13,7 @@ date: 2023-03-18
 <li><a class="letter" href="/tartans/b/bi/"><img class="letter-swatch" src="/variants/s9/dr6k1y1k2db2dr4o8k1r2~x4/sett.png" alt="" width="120"><br><strong>Bi</strong> · 27 entries</a><div class="names"><a href="/tartans/b/bi/bicentenary/">Bicentenary (1)</a> · <a href="/tartans/b/bi/biffy-clyro/">Biffy Clyro (2)</a> · <a href="/tartans/b/bi/big-rory/">Big Rory (1)</a> · <a href="/tartans/b/bi/">…</a></div></li>
 <li><a class="letter" href="/tartans/b/bl/"><img class="letter-swatch" src="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/sett.png" alt="" width="120"><br><strong>Bl</strong> · 99 entries</a><div class="names"><a href="/tartans/b/bl/black/">Black (1)</a> · <a href="/tartans/b/bl/black-2/">Black (3)</a> · <a href="/tartans/b/bl/black-white-golf/">Black & White Golf (1)</a> · <a href="/tartans/b/bl/">…</a></div></li>
 <li><a class="letter" href="/tartans/b/bo/"><img class="letter-swatch" src="/variants/s8/db61w4db2w7b2g3y2db16~x2/sett.png" alt="" width="120"><br><strong>Bo</strong> · 83 entries</a><div class="names"><a href="/tartans/b/bo/boat-of-garten/">Boat of Garten (1)</a> · <a href="/tartans/b/bo/boat-of-garten-2/">Boat of Garten (1)</a> · <a href="/tartans/b/bo/bob-the-builder/">Bob the Builder (1)</a> · <a href="/tartans/b/bo/">…</a></div></li>
-<li><a class="letter" href="/tartans/b/br/"><img class="letter-swatch" src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="" width="120"><br><strong>Br</strong> · 191 entries</a><div class="names"><a href="/tartans/b/br/brabender/">Brabender (1)</a> · <a href="/tartans/b/br/bracken/">Bracken (2)</a> · <a href="/tartans/b/br/bracken-2/">Bracken (1)</a> · <a href="/tartans/b/br/">…</a></div></li>
+<li><a class="letter" href="/tartans/b/br/"><img class="letter-swatch" src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="" width="120"><br><strong>Br</strong> · 192 entries</a><div class="names"><a href="/tartans/b/br/brabender/">Brabender (1)</a> · <a href="/tartans/b/br/bracken/">Bracken (2)</a> · <a href="/tartans/b/br/bracken-2/">Bracken (1)</a> · <a href="/tartans/b/br/">…</a></div></li>
 <li><a class="letter" href="/tartans/b/bu/"><img class="letter-swatch" src="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/sett.png" alt="" width="120"><br><strong>Bu</strong> · 116 entries</a><div class="names"><a href="/tartans/b/bu/buccleuch/">Buccleuch (1)</a> · <a href="/tartans/b/bu/buccleuch-2/">Buccleuch (2)</a> · <a href="/tartans/b/bu/buccleuch-check/">Buccleuch Check (1)</a> · <a href="/tartans/b/bu/">…</a></div></li>
 <li><a class="letter" href="/tartans/b/by/"><img class="letter-swatch" src="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/sett.png" alt="" width="120"><br><strong>By</strong> · 3 entries</a><div class="names"><a href="/tartans/b/by/by-storm/">By Storm (1)</a> · <a href="/tartans/b/by/by-storm-2/">By Storm (1)</a> · <a href="/tartans/b/by/byers/">Byers (1)</a></div></li>
 </ul>

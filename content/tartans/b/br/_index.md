@@ -2,7 +2,7 @@
 title: "Tartans — Br"
 date: 2023-03-18
 ---
-191 tartans beginning with Br, each with the number of setts it groups. Back to [B](/tartans/b/) or the [A–Z](/tartans/).
+192 tartans beginning with Br, each with the number of setts it groups. Back to [B](/tartans/b/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/b/br/brabender/"><img src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="Brabender" width="140"><br><strong>Brabender (1)</strong></a></li>
@@ -121,6 +121,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/b/br/brodie-hunting-2/"><img src="/variants/s7/r2k8y1k8g8db8r2~x4/sett.png" alt="Brodie Hunting" width="140"><br><strong>Brodie Hunting (2)</strong></a><div class="clan-territory">Brodie</div></li>
 <li><a class="tartan" href="/tartans/b/br/brodie-silver/"><img src="/variants/s7/r3n20y2n20o20lb20r3~x2~n1900000-o2500000/sett.png" alt="Brodie Silver" width="140"><br><strong>Brodie Silver (1)</strong></a><div class="clan-territory">Clan Brodie</div></li>
 <li><a class="tartan" href="/tartans/b/br/brodie-silver-2/"><img src="/variants/s7/r3n20k2n20o20lb20r3~x2~n1900000-o2500000/sett.png" alt="Brodie Silver" width="140"><br><strong>Brodie Silver (1)</strong></a><div class="clan-territory">Clan Brodie</div></li>
+<li><a class="tartan" href="/tartans/b/br/brodie-of-that-ilk-and-the-burn/"><img src="/variants/s8/r48w4db4k4r12db4r1ly4~x2/sett.png" alt="Brodie of that Ilk and The Burn" width="140"><br><strong>Brodie of that Ilk and The Burn (1)</strong></a><div class="clan-territory">Brodie of that Ilk and The Burn</div></li>
 <li><a class="tartan" href="/tartans/b/br/brodie-graeme/"><img src="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/sett.png" alt="Brodie, Graeme" width="140"><br><strong>Brodie, Graeme (1)</strong></a><div class="clan-territory">Clan Brodie</div></li>
 <li><a class="tartan" href="/tartans/b/br/brodie-graeme-2/"><img src="/variants/s11/o2dy2k37dy3dr2dy3r1dr4dy4k19dr1~x2~o2500000/sett.png" alt="Brodie, Graeme" width="140"><br><strong>Brodie, Graeme (1)</strong></a><div class="clan-territory">Clan Brodie</div></li>
 <li><a class="tartan" href="/tartans/b/br/brodie-silver-3/"><img src="/variants/s7/r3dg20y2dg20n20b20r3~x2/sett.png" alt="Brodie, Silver" width="140"><br><strong>Brodie, Silver (1)</strong></a><div class="clan-territory">Clan Brodie</div></li>

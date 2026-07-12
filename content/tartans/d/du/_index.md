@@ -2,7 +2,7 @@
 title: "Tartans — Du"
 date: 2023-03-18
 ---
-119 tartans beginning with Du, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
+120 tartans beginning with Du, each with the number of setts it groups. Back to [D](/tartans/d/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/d/du/du-lion/"><img src="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/sett.png" alt="Du Lion" width="140"><br><strong>Du Lion (1)</strong></a></li>
@@ -20,6 +20,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/d/du/duchess-of-york/"><img src="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/sett.png" alt="Duchess of York" width="140"><br><strong>Duchess of York (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duchess-of-york-2/"><img src="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/sett.png" alt="Duchess of York" width="140"><br><strong>Duchess of York (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duchess-of-york-3/"><img src="/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/sett.png" alt="Duchess of York" width="140"><br><strong>Duchess of York (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/du/duff-of-careston/"><img src="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/sett.png" alt="Duff of Careston" width="140"><br><strong>Duff of Careston (1)</strong></a><div class="clan-territory">Duff of Careston</div></li>
 <li><a class="tartan" href="/tartans/d/du/duffus-hose-lord/"><img src="/variants/s7/ly11r6k10ly10k10dy10r4~x2/sett.png" alt="Duffus Hose, Lord" width="140"><br><strong>Duffus Hose, Lord (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duffus-lord/"><img src="/variants/s7/y15r7k12y12k12dy12r7~x2/sett.png" alt="Duffus Lord..." width="140"><br><strong>Duffus Lord... (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/du/duffus-plaid-lord/"><img src="/variants/s10/r16lb3dr12k3dr12k3dr12ly3dr12ly3~x2/sett.png" alt="Duffus Plaid, Lord" width="140"><br><strong>Duffus Plaid, Lord (1)</strong></a></li>

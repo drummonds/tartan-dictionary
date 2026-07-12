@@ -30,6 +30,8 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/">MacKinnon</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/"><img src="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/w2r3dg2db2r6dg16r2db4dg2r16dg8w2r4w2r4w2dg8r16dg2db4r2dg16r6db2dg2r3w1~x4/">Mackinnon of Mackinnon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s27/w2r3dg2db2r6dg16r2db4dg2r16dg8w2r4w2r4w2dg8r16dg2db4r2dg16r6db2dg2r3w1~x4/"><img src="/variants/s27/w2r3dg2db2r6dg16r2db4dg2r16dg8w2r4w2r4w2dg8r16dg2db4r2dg16r6db2dg2r3w1~x4/sett.png" alt="Mackinnon of Mackinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

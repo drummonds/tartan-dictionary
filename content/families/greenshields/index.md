@@ -11,8 +11,14 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/g/gr/greenshields/"><img src="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/sett.png" alt="Greenshields" width="140"><br><strong>Greenshields (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gr/greenshields-3/"><img src="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/sett.png" alt="Greenshields" width="140"><br><strong>Greenshields (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gr/greenshields-2/"><img src="/variants/s13/k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/sett.png" alt="Greenshields" width="140"><br><strong>Greenshields (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/g/gr/greenshields/">Greenshields</a> ★</td><td>2004</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/greenshields/"><img src="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greenshields-2/">Greenshields</a></td><td>1997</td><td>1</td><td>1</td><td>10.71</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/greenshields-2/"><img src="/variants/s13/k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greenshields-3/">Greenshields</a></td><td>1997</td><td>1</td><td>1</td><td>11.05</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/greenshields-3/"><img src="g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4-rev.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

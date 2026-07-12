@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/wi/wilbers/"><img src="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/sett.png" alt="Wilbers" width="140"><br><strong>Wilbers (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wi/wilbers-2/"><img src="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/sett.png" alt="Wilbers" width="140"><br><strong>Wilbers (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/wi/wilbers/">Wilbers</a> ★</td><td>2006</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wi/wilbers/"><img src="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/sett.png" alt="Wilbers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilbers-2/">Wilbers</a></td><td>2007</td><td>1</td><td>1</td><td>2.58</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wi/wilbers-2/"><img src="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/sett.png" alt="Wilbers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

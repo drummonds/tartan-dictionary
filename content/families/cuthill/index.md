@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/c/cu/cuthill-2/"><img src="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/sett.png" alt="Cuthill" width="140"><br><strong>Cuthill (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/cu/cuthill/"><img src="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/sett.png" alt="Cuthill" width="140"><br><strong>Cuthill (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/c/cu/cuthill-2/">Cuthill</a> ★</td><td>2006</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cu/cuthill-2/"><img src="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/sett.png" alt="Cuthill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cuthill/">Cuthill</a></td><td>2006</td><td>1</td><td>1</td><td>2.68</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cu/cuthill/"><img src="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/sett.png" alt="Cuthill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

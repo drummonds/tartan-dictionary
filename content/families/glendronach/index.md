@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/g/gl/glendronach/"><img src="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/sett.png" alt="Glendronach" width="140"><br><strong>Glendronach (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gl/glendronach-2/"><img src="/variants/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2~y2405105-ly3307090/sett.png" alt="Glendronach" width="140"><br><strong>Glendronach (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/g/gl/glendronach/">Glendronach</a> ★</td><td>1989</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gl/glendronach/"><img src="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/sett.png" alt="Glendronach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glendronach-2/">Glendronach</a></td><td>—</td><td>1</td><td>1</td><td>3.90</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gl/glendronach-2/"><img src="/variants/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2~y2405105-ly3307090/sett.png" alt="Glendronach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

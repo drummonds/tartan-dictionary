@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/wa/waipu-2/"><img src="/variants/s22/g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu" width="140"><br><strong>Waipu (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wa/waipu/"><img src="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu" width="140"><br><strong>Waipu (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/wa/waipu-2/">Waipu</a> ★</td><td>2004</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/waipu-2/"><img src="/variants/s22/g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/waipu/">Waipu</a></td><td>2004</td><td>1</td><td>1</td><td>2.95</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/waipu/"><img src="g16db7r2db7k5y2dp1y2k5db16g8w1-rev.png" alt="Waipu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

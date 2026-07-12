@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/wh/whitson/"><img src="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/sett.png" alt="Whitson" width="140"><br><strong>Whitson (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/wh/whitson/">Whitson</a> ★</td><td>1981</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wh/whitson/"><img src="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/sett.png" alt="Whitson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

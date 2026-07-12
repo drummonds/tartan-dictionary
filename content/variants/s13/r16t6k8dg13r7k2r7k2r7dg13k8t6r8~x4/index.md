@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/08-duff-of-careston.png"><img src="/sources/peter-1856/entries/08-duff-of-careston.png" alt="Duff of Careston: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 78 — page-scan crop (90,1175)–(850,1292)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Duff of Careston** in 1856, on page 78 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 4 red · 3 azure · 4 black · 6½ green · 3½ red · 1 black · 3½ red · 1 black · 3½ red · 6½ green · 4 black · 3 azure · 8 red
 
 Rendered at 8 threads to the eighth-inch that is `R/32 A24 K32 G52 R28 K8 R28 K8 R28 G52 K32 A24 R/64` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 78 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n93/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

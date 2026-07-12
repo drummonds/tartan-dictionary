@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/34-robertson-scott-of-benholm.png"><img src="/sources/peter-1856/entries/34-robertson-scott-of-benholm.png" alt="MacInroy of The Burn: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 290 — page-scan crop (105,1116)–(861,1305)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the **Robertson and MacInroy Tartan** of **MacInroy of The Burn** in 1856, on page 220 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > ½ red · 1 green · 8½ red · 1 blue · 1 red · 8½ green · 1 red · 8½ green · 1 red · 1 green · 8½ red · 1 green · 1 red · 1 green · 8½ red · 1 green · 1 red · 8½ blue · 1 red · 8½ green · 1 red · 1 blue · 8½ red · 1 green · 1 red · 1 green · 8½ red · 1 blue · 1 red · 8½ green · ½ red
 
 Rendered at 8 threads to the eighth-inch that is `R/4 G8 R68 B8 R8 G68 R8 G68 R8 G8 R68 G8 R8 G8 R68 G8 R8 B68 R8 G68 R8 B8 R68 G8 R8 G8 R68 B8 R8 G68 R/4` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 220 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n235/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

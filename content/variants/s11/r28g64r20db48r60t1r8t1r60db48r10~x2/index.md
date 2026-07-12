@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/macquarrie.png"><img src="/sources/logan-1831/setts/macquarrie.png" alt="MacQuarrie: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/macquarrie.png"><img src="/sources/logan-1831/setts/macquarrie.png" alt="MacQuarrie: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II pp. 406, 407 — page-scan crop (1156,1847)–(1410,2072), (292,492)–(545,736)</figcaption>
 </figure>
 

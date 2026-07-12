@@ -13,6 +13,10 @@ A family of [Clan MacIver](/clan/maciver/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/maciver-of-strathendry-castle-dress/"><img src="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/sett.png" alt="Maciver of Strathendry Castle Dress" width="140"><br><strong>Maciver of Strathendry Castle Dress (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/maciver-of-strathendry-castle-dress/">Maciver of Strathendry Castle Dress</a> ★</td><td>2015</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maciver-of-strathendry-castle-dress/"><img src="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/sett.png" alt="Maciver of Strathendry Castle Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

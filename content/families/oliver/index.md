@@ -11,10 +11,18 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/o/ol/oliver/"><img src="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/sett.png" alt="Oliver" width="140"><br><strong>Oliver (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/o/ol/oliver-dress/"><img src="/variants/s16/g1dr1g1dr1db7dr6w7k1w7dr6db7dr1g1dr1g1w1~x4/sett.png" alt="Oliver Dress" width="140"><br><strong>Oliver Dress (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/o/ol/oliver-dress-3/"><img src="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/sett.png" alt="Oliver Dress" width="140"><br><strong>Oliver Dress (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/o/ol/oliver-dress-2/"><img src="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/sett.png" alt="Oliver Dress" width="140"><br><strong>Oliver Dress (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/o/ol/oliver-hunting/"><img src="/variants/s9/lb62g5lb3g22k3g3y3g3k6~x2~g2203152/sett.png" alt="Oliver Hunting" width="140"><br><strong>Oliver Hunting (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/o/ol/oliver/">Oliver</a> ★</td><td>1973</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ol/oliver/"><img src="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/sett.png" alt="Oliver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliver-dress-2/">Oliver Dress</a></td><td>1973</td><td>1</td><td>1</td><td>0.07</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ol/oliver-dress-2/"><img src="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/sett.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliver-dress-3/">Oliver Dress</a></td><td>~2002</td><td>2</td><td>2</td><td>7.42</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ol/oliver-dress-3/"><img src="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/sett.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliver-hunting/">Oliver Hunting</a></td><td>1973</td><td>3</td><td>3</td><td>7.64</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ol/oliver-hunting/"><img src="/variants/s9/lb62g5lb3g22k3g3y3g3k6~x2~g2203152/sett.png" alt="Oliver Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliver-dress/">Oliver Dress</a></td><td>2002</td><td>1</td><td>1</td><td>10.65</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ol/oliver-dress/"><img src="g1dr1g1dr1db7dr6w7k1w7dr6db7dr1g1dr1g1w1-rev.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/a/ai/aitken-2/"><img src="/variants/s8/y5db2k2db12k16r20k2r4~x2/sett.png" alt="Aitken" width="140"><br><strong>Aitken (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/ai/aitken/"><img src="/variants/s4/k37r20k2r4~x2/sett.png" alt="Aitken" width="140"><br><strong>Aitken (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/a/ai/aitken-2/">Aitken</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/ai/aitken-2/"><img src="/variants/s8/y5db2k2db12k16r20k2r4~x2/sett.png" alt="Aitken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/aitken/">Aitken</a></td><td>1988</td><td>1</td><td>1</td><td>8.12</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/ai/aitken/"><img src="k37r20k2r4-rev.png" alt="Aitken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

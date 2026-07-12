@@ -13,6 +13,10 @@ A family of [Clan Burnett](/clan/burnett/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/bu/burnett/"><img src="/variants/s8/r4g14ly3g14r4g3r29y4~x2/sett.png" alt="Burnett" width="140"><br><strong>Burnett (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/bu/burnett/">Burnett</a> ★</td><td>2002</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bu/burnett/"><img src="/variants/s8/r4g14ly3g14r4g3r29y4~x2/sett.png" alt="Burnett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

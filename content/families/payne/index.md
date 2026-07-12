@@ -13,6 +13,10 @@ A family of [Clan Payne](/clan/payne/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/p/pa/payne/"><img src="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33k1dbi1~x2~dbi1406275-db1204274/sett.png" alt="Payne" width="140"><br><strong>Payne (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/p/pa/payne/">Payne</a> ★</td><td>1997</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pa/payne/"><img src="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33k1dbi1~x2~dbi1406275-db1204274/sett.png" alt="Payne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

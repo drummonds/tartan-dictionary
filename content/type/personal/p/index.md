@@ -66,7 +66,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/"><img src="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/sett.png" alt="Pride, George (Personal)" width="140"><br>Pride, George (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/dr3g32ly2g2k3dt2ly2dt28lb2dt2lb3~x2/"><img src="/variants/s11/dr3g32ly2g2k3dt2ly2dt28lb2dt2lb3~x2/sett.png" alt="Pringle #2 (Personal)" width="140"><br>Pringle #2 (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><img src="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/sett.png" alt="Puffin (Personal)" width="140"><br>Puffin (Personal)</a></li>
-<li><a class="tartan" href="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/"><img src="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/sett.png" alt="Purdy, R Scott (Personal)" width="140"><br>Purdy, R Scott (Personal)</a></li>
 <li><a class="tartan" href="/variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/"><img src="/variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/sett.png" alt="Purdy, R Scott (Personal)" width="140"><br>Purdy, R Scott (Personal)</a></li>
+<li><a class="tartan" href="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/"><img src="/variants/s15/r1k1ly1k1y6g3dy7ly1y12k1r21ly1k1r1y1~x2/sett.png" alt="Purdy, R Scott (Personal)" width="140"><br>Purdy, R Scott (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/n18w2k1w4g13n40r2~x2/"><img src="/variants/s7/n18w2k1w4g13n40r2~x2/sett.png" alt="Puxty-Dunne (Personal)" width="140"><br>Puxty-Dunne (Personal)</a></li>
 </ul>

@@ -13,6 +13,10 @@ A family of [Clan Macaulay](/clan/macaulay/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macaulay-of-lewis/"><img src="/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png" alt="MacAulay of Lewis" width="140"><br><strong>MacAulay of Lewis (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/macaulay-of-lewis/">MacAulay of Lewis</a> ★</td><td>1992</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macaulay-of-lewis/"><img src="/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png" alt="MacAulay of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/p/pe/penman/"><img src="/variants/s14/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10~x2/sett.png" alt="Penman" width="140"><br><strong>Penman (3)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pe/penman-2/"><img src="/variants/s10/o38k4w4k4n10k4n10k4w2dp3~x2~o2500000-n1900000/sett.png" alt="Penman" width="140"><br><strong>Penman (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/p/pe/penman/">Penman</a> ★</td><td>1979</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pe/penman/"><img src="/variants/s14/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10~x2/sett.png" alt="Penman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/penman-2/">Penman</a></td><td>2005</td><td>1</td><td>1</td><td>8.00</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pe/penman-2/"><img src="/variants/s10/o38k4w4k4n10k4n10k4w2dp3~x2~o2500000-n1900000/sett.png" alt="Penman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

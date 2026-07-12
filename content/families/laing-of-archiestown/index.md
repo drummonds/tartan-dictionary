@@ -13,6 +13,10 @@ A family of [Clan Laing](/clan/laing/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/l/la/laing-of-archiestown/"><img src="/variants/s5/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown" width="140"><br><strong>Laing of Archiestown (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/l/la/laing-of-archiestown/">Laing of Archiestown</a> ★</td><td>1783</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/laing-of-archiestown/"><img src="/variants/s5/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

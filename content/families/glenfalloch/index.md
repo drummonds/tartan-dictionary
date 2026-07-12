@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/g/gl/glenfalloch-2/"><img src="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/sett.png" alt="Glenfalloch" width="140"><br><strong>Glenfalloch (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gl/glenfalloch/"><img src="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/sett.png" alt="Glenfalloch" width="140"><br><strong>Glenfalloch (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/g/gl/glenfalloch-2/">Glenfalloch</a> ★</td><td>1990</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gl/glenfalloch-2/"><img src="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/sett.png" alt="Glenfalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenfalloch/">Glenfalloch</a></td><td>—</td><td>1</td><td>1</td><td>4.01</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gl/glenfalloch/"><img src="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/sett.png" alt="Glenfalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

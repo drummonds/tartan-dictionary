@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/i/in/independence-2/"><img src="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/sett.png" alt="Independence" width="140"><br><strong>Independence (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/i/in/independence/"><img src="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/sett.png" alt="Independence" width="140"><br><strong>Independence (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/i/in/independence-2/">Independence</a> ★</td><td>1996</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/independence-2/"><img src="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/sett.png" alt="Independence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/independence/">Independence</a></td><td>—</td><td>1</td><td>1</td><td>2.18</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/independence/"><img src="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/sett.png" alt="Independence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

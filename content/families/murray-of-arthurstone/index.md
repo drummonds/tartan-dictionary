@@ -13,6 +13,10 @@ A family of [Clan Murray](/clan/murray/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/mu/murray-of-arthurstone/"><img src="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/sett.png" alt="Murray of Arthurstone" width="140"><br><strong>Murray of Arthurstone (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/mu/murray-of-arthurstone/">Murray of Arthurstone</a> ★</td><td>1856</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray-of-arthurstone/"><img src="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/sett.png" alt="Murray of Arthurstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/sh/shenzhen/"><img src="/variants/s20/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3~x2~lo2905070-w3600000/sett.png" alt="Shenzhen" width="140"><br><strong>Shenzhen (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sh/shenzhen-2/"><img src="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/sett.png" alt="Shenzhen" width="140"><br><strong>Shenzhen (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/sh/shenzhen/">Shenzhen</a> ★</td><td>2004</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sh/shenzhen/"><img src="/variants/s20/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3~x2~lo2905070-w3600000/sett.png" alt="Shenzhen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shenzhen-2/">Shenzhen</a></td><td>~2004</td><td>1</td><td>1</td><td>6.26</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sh/shenzhen-2/"><img src="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/sett.png" alt="Shenzhen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

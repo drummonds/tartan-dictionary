@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/bu/buncle/"><img src="/variants/s5/y9r31g12dy2lb9~x2/sett.png" alt="Buncle" width="140"><br><strong>Buncle (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/bu/buncle/">Buncle</a> ★</td><td>2010</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bu/buncle/"><img src="/variants/s5/y9r31g12dy2lb9~x2/sett.png" alt="Buncle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

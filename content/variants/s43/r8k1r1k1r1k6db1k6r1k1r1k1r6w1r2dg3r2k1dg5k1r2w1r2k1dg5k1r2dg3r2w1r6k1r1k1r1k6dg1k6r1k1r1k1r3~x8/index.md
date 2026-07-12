@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/16-innes-of-raemoir-and-cowie.png"><img src="/sources/peter-1856/entries/16-innes-of-raemoir-and-cowie.png" alt="Innes of Raemoir and Cowie: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 170 — page-scan crop (92,326)–(848,552)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Innes of Raemoir and Cowie** in 1856, on page 170 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 8 red · 1 black · 1 red · 1 black · 1 red · 6 black · 1 blue · 6 black · 1 red · 1 black · 1 red · 1 black · 6 red · 1 white · 2 red · 3 green · 2 red · 1 black · 5 green · 1 black · 2 red · 1 white · 2 red · 1 black · 5 green · 1 black · 2 red · 3 green · 2 red · 1 white · 6 red · 1 black · 1 red · 1 black · 1 red · 6 black · 1 green · 6 black · 1 red · 1 black · 1 red · 1 black · 3 red
 
 Rendered at 8 threads to the eighth-inch that is `R/64 K8 R8 K8 R8 K48 B8 K48 R8 K8 R8 K8 R48 W8 R16 G24 R16 K8 G40 K8 R16 W8 R16 K8 G40 K8 R16 G24 R16 W8 R48 K8 R8 K8 R8 K48 G8 K48 R8 K8 R8 K8 R/24` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 170 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n185/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/r/ri/rikaco/"><img src="/variants/s10/n5lb5n2r47n18o2n5g9lb7o3~x2/sett.png" alt="Rikaco" width="140"><br><strong>Rikaco (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/r/ri/rikaco/">Rikaco</a> ★</td><td>2010</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ri/rikaco/"><img src="/variants/s10/n5lb5n2r47n18o2n5g9lb7o3~x2/sett.png" alt="Rikaco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

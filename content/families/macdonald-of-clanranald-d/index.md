@@ -13,6 +13,10 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macdonald-of-clanranald-d/"><img src="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/sett.png" alt="MacDonald of Clanranald D" width="140"><br><strong>MacDonald of Clanranald D (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-d/">MacDonald of Clanranald D</a> ★</td><td>1819</td><td>2</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald-d/"><img src="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/sett.png" alt="MacDonald of Clanranald D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

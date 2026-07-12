@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/t/th/thunderlord/"><img src="/variants/s4/n62w11k4db17~x2/sett.png" alt="Thunderlord" width="140"><br><strong>Thunderlord (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/th/thunderlord-2/"><img src="/variants/s4/n62w11k4lg17~x2/sett.png" alt="Thunderlord" width="140"><br><strong>Thunderlord (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/t/th/thunderlord/">Thunderlord</a> ★</td><td>2011</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/th/thunderlord/"><img src="/variants/s4/n62w11k4db17~x2/sett.png" alt="Thunderlord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thunderlord-2/">Thunderlord</a></td><td>2011</td><td>1</td><td>1</td><td>1.40</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/th/thunderlord-2/"><img src="/variants/s4/n62w11k4lg17~x2/sett.png" alt="Thunderlord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

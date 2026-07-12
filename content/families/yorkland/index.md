@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/y/yo/yorkland-2/"><img src="/variants/s8/t36r2t4w1dy14g4y2g18~x2/sett.png" alt="Yorkland" width="140"><br><strong>Yorkland (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/y/yo/yorkland/"><img src="/variants/s8/db30r2db4w1o11g4y2g22~x2/sett.png" alt="Yorkland" width="140"><br><strong>Yorkland (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/y/yo/yorkland-2/">Yorkland</a> ★</td><td>1997</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/y/yo/yorkland-2/"><img src="/variants/s8/t36r2t4w1dy14g4y2g18~x2/sett.png" alt="Yorkland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/yorkland/">Yorkland</a></td><td>—</td><td>1</td><td>1</td><td>1.66</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/y/yo/yorkland/"><img src="db30r2db4w1o11g4y2g22-rev.png" alt="Yorkland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

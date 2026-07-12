@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/e/el/elliott-2/"><img src="/variants/s4/db16b4db3r1~x2/sett.png" alt="Elliott" width="140"><br><strong>Elliott (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/e/el/elliott/"><img src="/variants/s4/db16r4db3dp1~x2/sett.png" alt="Elliott" width="140"><br><strong>Elliott (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/e/el/elliott-2/">Elliott</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/el/elliott-2/"><img src="/variants/s4/db16b4db3r1~x2/sett.png" alt="Elliott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elliott/">Elliott</a></td><td>—</td><td>1</td><td>1</td><td>1.99</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/el/elliott/"><img src="/variants/s4/db16r4db3dp1~x2/sett.png" alt="Elliott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

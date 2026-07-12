@@ -17,6 +17,10 @@ The Drummonds of Megginch are a cadet branch of Clan Drummond seated at Megginch
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/d/dr/drummond-of-megginch/"><img src="/variants/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2~r2109032-db0906265-lb3203246-dg1405139/sett.png" alt="Drummond of Megginch" width="140"><br><strong>Drummond of Megginch (7)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/d/dr/drummond-of-megginch/">Drummond of Megginch</a> ★</td><td>1820</td><td>7</td><td>7</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-of-megginch/"><img src="/variants/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2~r2109032-db0906265-lb3203246-dg1405139/sett.png" alt="Drummond of Megginch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

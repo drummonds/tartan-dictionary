@@ -13,6 +13,10 @@ A family of [Clan Brown](/clan/brown/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/br/brown-of-the-southeast/"><img src="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/sett.png" alt="Brown of the Southeast" width="140"><br><strong>Brown of the Southeast (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/br/brown-of-the-southeast/">Brown of the Southeast</a> ★</td><td>~2009</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/brown-of-the-southeast/"><img src="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/sett.png" alt="Brown of the Southeast sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

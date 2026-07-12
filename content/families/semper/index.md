@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/se/semper/"><img src="/variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/sett.png" alt="Semper" width="140"><br><strong>Semper (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/se/semper/">Semper</a> ★</td><td>2014</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/se/semper/"><img src="/variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/sett.png" alt="Semper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

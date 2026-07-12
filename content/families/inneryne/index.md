@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/i/in/inneryne/"><img src="/variants/s7/db4k4db16k14dg14dr3dg3~x2/sett.png" alt="Inneryne" width="140"><br><strong>Inneryne (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/i/in/inneryne/">Inneryne</a> ★</td><td>2008</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/inneryne/"><img src="/variants/s7/db4k4db16k14dg14dr3dg3~x2/sett.png" alt="Inneryne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

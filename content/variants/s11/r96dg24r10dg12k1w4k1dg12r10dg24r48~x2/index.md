@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/26-maconachie-of-meadowbank.png"><img src="/sources/peter-1856/entries/26-maconachie-of-meadowbank.png" alt="Maconachie of Meadowbank: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 229–230 — page-scan crop (89,1351)–(843,1398), (108,159)–(871,260)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the **MacConachie and M'Gregor Tartan** of **Maconachie of Meadowbank** in 1856, on page 229 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 12 red · 6 green · 2½ red · 3 green · ¼ black · 1 white · ¼ black · 3 green · 2½ red · 6 green · 24 red
 
 Rendered at 8 threads to the eighth-inch that is `R/96 G48 R20 G24 K2 W8 K2 G24 R20 G48 R/192` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 229 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n244/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

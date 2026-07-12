@@ -13,6 +13,10 @@ A family of [Clan MacLaurin](/clan/maclaurin/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/maclaurin-of-brioch/"><img src="/variants/s7/db36k10g3r3g6k1y2~x2/sett.png" alt="MacLaurin of Brioch" width="140"><br><strong>MacLaurin of Brioch (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/maclaurin-of-brioch/">MacLaurin of Brioch</a> ★</td><td>1856</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclaurin-of-brioch/"><img src="/variants/s7/db36k10g3r3g6k1y2~x2/sett.png" alt="MacLaurin of Brioch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

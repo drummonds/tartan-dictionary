@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/wa/watret/"><img src="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/sett.png" alt="Watret" width="140"><br><strong>Watret (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/wa/watret/">Watret</a> ★</td><td>~1850</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/watret/"><img src="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/sett.png" alt="Watret sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

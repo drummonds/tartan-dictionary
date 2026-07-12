@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/a/au/austin/"><img src="/variants/s5/db4k4db4g9k2~x2/sett.png" alt="Austin" width="140"><br><strong>Austin (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/au/austin-2/"><img src="/variants/s5/dp3k3dp3g6r2~x2/sett.png" alt="Austin" width="140"><br><strong>Austin (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/a/au/austin/">Austin</a> ★</td><td>1811</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/au/austin/"><img src="/variants/s5/db4k4db4g9k2~x2/sett.png" alt="Austin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/austin-2/">Austin</a></td><td>1819</td><td>2</td><td>2</td><td>4.43</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/au/austin-2/"><img src="/variants/s5/dp3k3dp3g6r2~x2/sett.png" alt="Austin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

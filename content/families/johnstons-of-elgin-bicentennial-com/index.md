@@ -13,6 +13,10 @@ A family of [Clan Johnstons](/clan/johnstons/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/j/jo/johnstons-of-elgin-bicentennial-com/"><img src="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial (Com" width="140"><br><strong>Johnstons of Elgin Bicentennial (Com (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/j/jo/johnstons-of-elgin-bicentennial-com/">Johnstons of Elgin Bicentennial (Com</a> ★</td><td>1997</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/jo/johnstons-of-elgin-bicentennial-com/"><img src="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial (Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

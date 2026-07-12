@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/c/co/cowan-of-inveresk/"><img src="/variants/s8/r4g16w2k15db15k2db2y2~x2~db1406275/sett.png" alt="Cowan of Inveresk" width="140"><br><strong>Cowan of Inveresk (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/c/co/cowan-of-inveresk/">Cowan of Inveresk</a> ★</td><td>1979</td><td>2</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/cowan-of-inveresk/"><img src="/variants/s8/r4g16w2k15db15k2db2y2~x2~db1406275/sett.png" alt="Cowan of Inveresk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

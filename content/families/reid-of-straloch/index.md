@@ -13,6 +13,10 @@ A family of [Clan Reid](/clan/reid/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/r/re/reid-of-straloch/"><img src="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/sett.png" alt="Reid of Straloch" width="140"><br><strong>Reid of Straloch (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/r/re/reid-of-straloch/">Reid of Straloch</a> ★</td><td>~1972</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/reid-of-straloch/"><img src="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/sett.png" alt="Reid of Straloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -13,7 +13,12 @@ A family of [Clan Davidson](/clan/davidson/).
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/d/da/davidson-of-tulloch/"><img src="/variants/s5/r1db6k3g6w1~x4/sett.png" alt="Davidson of Tulloch" width="140"><br><strong>Davidson of Tulloch (5)</strong></a></li>
-<li><a class="tartan" href="/tartans/d/da/davidson-of-tulloch-dress/"><img src="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/sett.png" alt="Davidson of Tulloch Dress" width="140"><br><strong>Davidson of Tulloch Dress (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/d/da/davidson-of-tulloch/">Davidson of Tulloch</a> ★</td><td>1880</td><td>5</td><td>7</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/davidson-of-tulloch/"><img src="/variants/s5/r1db6k3g6w1~x4/sett.png" alt="Davidson of Tulloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/davidson-of-tulloch-dress/">Davidson of Tulloch Dress</a></td><td>1978</td><td>1</td><td>1</td><td>5.63</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/davidson-of-tulloch-dress/"><img src="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/sett.png" alt="Davidson of Tulloch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

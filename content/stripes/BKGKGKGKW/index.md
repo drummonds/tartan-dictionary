@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/">Coffield-Limesand (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><img src="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/sett.png" alt="Coffield-Limesand (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/">Coffield-Limesand (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/"><img src="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/sett.png" alt="Coffield-Limesand (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/">Coffield-Limesand (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><img src="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/sett.png" alt="Coffield-Limesand (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

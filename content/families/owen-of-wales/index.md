@@ -13,6 +13,10 @@ A family of [Clan Owen](/clan/owen/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/o/ow/owen-of-wales/"><img src="/variants/s18/g18db2g2db3g3r1g2dbi1g3dbi1g2r1g3db3g2db2g18dbi2~x2~db1003246-dbi1404245/sett.png" alt="Owen of Wales" width="140"><br><strong>Owen of Wales (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/o/ow/owen-of-wales/">Owen of Wales</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ow/owen-of-wales/"><img src="/variants/s18/g18db2g2db3g3r1g2dbi1g3dbi1g2r1g3db3g2db2g18dbi2~x2~db1003246-dbi1404245/sett.png" alt="Owen of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/c/co/connell/"><img src="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png" alt="Connell" width="140"><br><strong>Connell (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/co/connell-2/"><img src="/variants/s6/r2g2r1g12r3k1~x4/sett.png" alt="Connell" width="140"><br><strong>Connell (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/c/co/connell/">Connell</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connell/"><img src="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png" alt="Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connell-2/">Connell</a></td><td>~2002</td><td>1</td><td>1</td><td>2.86</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connell-2/"><img src="r2g2r1g12r3k1-rev.png" alt="Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/k/ki/kirkcaldy/"><img src="/variants/s6/lb23w3k10r2db45y1~x2/sett.png" alt="Kirkcaldy" width="140"><br><strong>Kirkcaldy (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/k/ki/kirkcaldy/">Kirkcaldy</a> ★</td><td>2008</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ki/kirkcaldy/"><img src="/variants/s6/lb23w3k10r2db45y1~x2/sett.png" alt="Kirkcaldy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/p/pu/purves/"><img src="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/sett.png" alt="Purves" width="140"><br><strong>Purves (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/p/pu/purves/">Purves</a> ★</td><td>2014</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pu/purves/"><img src="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/sett.png" alt="Purves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

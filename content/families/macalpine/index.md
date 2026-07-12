@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macalpine/"><img src="/variants/s14/db4g1db1g6k1g6db1g1db4w1k4g1k4y1~x4/sett.png" alt="MacAlpine" width="140"><br><strong>MacAlpine (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/ma/macalpine-2/"><img src="/variants/s14/k8y1k4g1k4w1k4g1k1g6k1g6k1g1~x4/sett.png" alt="MacAlpine" width="140"><br><strong>MacAlpine (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/macalpine/">MacAlpine</a> ★</td><td>1906</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macalpine/"><img src="/variants/s14/db4g1db1g6k1g6db1g1db4w1k4g1k4y1~x4/sett.png" alt="MacAlpine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macalpine-2/">MacAlpine</a></td><td>1908</td><td>3</td><td>3</td><td>5.22</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macalpine-2/"><img src="k8y1k4g1k4w1k4g1k1g6k1g6k1g1-rev.png" alt="MacAlpine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

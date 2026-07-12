@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/t/te/teviotdale-2/"><img src="/variants/s8/k5t3dy4ly1db13dy13g29w2~x2/sett.png" alt="Teviotdale" width="140"><br><strong>Teviotdale (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/te/teviotdale/"><img src="/variants/s13/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3~x2~db1406275-w3600000/sett.png" alt="Teviotdale" width="140"><br><strong>Teviotdale (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/t/te/teviotdale-2/">Teviotdale</a> ★</td><td>1996</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/te/teviotdale-2/"><img src="/variants/s8/k5t3dy4ly1db13dy13g29w2~x2/sett.png" alt="Teviotdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/teviotdale/">Teviotdale</a></td><td>1996</td><td>1</td><td>1</td><td>3.21</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/te/teviotdale/"><img src="k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3-rev.png" alt="Teviotdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

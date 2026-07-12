@@ -13,6 +13,10 @@ A family of [Clan Stewart](/clan/stewart/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/st/stewart-of-fingask/"><img src="/variants/s8/r72g3y2g26r14db6lb6w2/sett.png" alt="Stewart of Fingask" width="140"><br><strong>Stewart of Fingask (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/st/stewart-of-fingask/">Stewart of Fingask</a> ★</td><td>1745</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-fingask/"><img src="/variants/s8/r72g3y2g26r14db6lb6w2/sett.png" alt="Stewart of Fingask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

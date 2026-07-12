@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/v/ve/veere/"><img src="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/sett.png" alt="Veere" width="140"><br><strong>Veere (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/ve/veere-2/"><img src="/variants/s12/w4k8db2lb2db4g16y2k15db6lb2k3lb4~x2/sett.png" alt="Veere" width="140"><br><strong>Veere (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/v/ve/veere/">Veere</a> ★</td><td>1999</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/v/ve/veere/"><img src="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/sett.png" alt="Veere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/ve/veere-2/">Veere</a></td><td>—</td><td>1</td><td>1</td><td>2.23</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/v/ve/veere-2/"><img src="/variants/s12/w4k8db2lb2db4g16y2k15db6lb2k3lb4~x2/sett.png" alt="Veere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

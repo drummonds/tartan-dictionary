@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/p/pi/pille-2/"><img src="/variants/s13/r4g1w5g1r2g1w5db4t20db8y2db8y4~x2/sett.png" alt="Pille" width="140"><br><strong>Pille (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pi/pille/"><img src="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett.png" alt="Pille" width="140"><br><strong>Pille (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/p/pi/pille-2/">Pille</a> ★</td><td>2011</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pi/pille-2/"><img src="/variants/s13/r4g1w5g1r2g1w5db4t20db8y2db8y4~x2/sett.png" alt="Pille sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pille/">Pille</a></td><td>2011</td><td>1</td><td>1</td><td>1.40</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pi/pille/"><img src="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett.png" alt="Pille sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

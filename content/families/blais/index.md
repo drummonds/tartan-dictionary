@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/bl/blais/"><img src="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais" width="140"><br><strong>Blais (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/bl/blais/">Blais</a> ★</td><td>1997</td><td>3</td><td>4</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bl/blais/"><img src="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

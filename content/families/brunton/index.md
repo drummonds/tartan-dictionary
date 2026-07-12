@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/br/brunton/"><img src="/variants/s8/k7r3k27g27y3g3y3g3~x2/sett.png" alt="Brunton" width="140"><br><strong>Brunton (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/br/brunton/">Brunton</a> ★</td><td>2004</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/brunton/"><img src="/variants/s8/k7r3k27g27y3g3y3g3~x2/sett.png" alt="Brunton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

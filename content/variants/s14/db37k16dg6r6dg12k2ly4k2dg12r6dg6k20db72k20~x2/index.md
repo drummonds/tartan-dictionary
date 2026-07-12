@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/24-maclaurin-of-broich.png"><img src="/sources/peter-1856/entries/24-maclaurin-of-broich.png" alt="MacLaurin of Broich: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 225 — page-scan crop (94,1206)–(849,1323)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **MacLaurin of Broich** in 1856, on page 225 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 9¼ blue · 4 black · 1½ green · 1½ red · 3 green · ½ black · 1 yellow · ½ black · 3 green · 1½ red · 1½ green · 5 black · 18 blue · 5 black
 
 Rendered at 8 threads to the eighth-inch that is `B/74 K32 G12 R12 G24 K4 Y8 K4 G24 R12 G12 K40 B144 K/40` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 225 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n240/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

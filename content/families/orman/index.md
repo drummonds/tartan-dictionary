@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/o/or/orman-2/"><img src="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/sett.png" alt="Orman" width="140"><br><strong>Orman (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/o/or/orman/"><img src="/variants/s9/ki10k3ki3k32dg1k1dg1k2n2~x2~ki0700000-k0504259/sett.png" alt="Orman" width="140"><br><strong>Orman (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/o/or/orman-2/">Orman</a> ★</td><td>2012</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/or/orman-2/"><img src="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/sett.png" alt="Orman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orman/">Orman</a></td><td>2012</td><td>1</td><td>1</td><td>0.21</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/or/orman/"><img src="/variants/s9/ki10k3ki3k32dg1k1dg1k2n2~x2~ki0700000-k0504259/sett.png" alt="Orman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/l/la/lachance-2/"><img src="/variants/s7/n50lb50y1db27g18do9y4~x2/sett.png" alt="Lachance" width="140"><br><strong>Lachance (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/l/la/lachance/"><img src="/variants/s7/n50o50ly1db27dg18do9ly4~x2~n1900000-o2500000/sett.png" alt="Lachance" width="140"><br><strong>Lachance (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/l/la/lachance-2/">Lachance</a> ★</td><td>2012</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lachance-2/"><img src="/variants/s7/n50lb50y1db27g18do9y4~x2/sett.png" alt="Lachance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lachance/">Lachance</a></td><td>2012</td><td>1</td><td>1</td><td>1.40</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lachance/"><img src="/variants/s7/n50o50ly1db27dg18do9ly4~x2~n1900000-o2500000/sett.png" alt="Lachance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -13,6 +13,10 @@ A family of [Clan Evans](/clan/evans/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/e/ev/evans-of-wales/"><img src="/variants/s20/k3db30k2db4k2db30k36dr30k2lb2k2dr30k36db30k2db4k2db30k3r2/sett.png" alt="Evans of Wales" width="140"><br><strong>Evans of Wales (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/e/ev/evans-of-wales/">Evans of Wales</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/ev/evans-of-wales/"><img src="/variants/s20/k3db30k2db4k2db30k36dr30k2lb2k2dr30k36db30k2db4k2db30k3r2/sett.png" alt="Evans of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

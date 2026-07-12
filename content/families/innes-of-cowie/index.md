@@ -13,7 +13,12 @@ A family of [Clan Innes,](/clan/innes/).
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/i/in/innes-of-cowie/"><img src="/variants/s60/k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6db1~x4/sett.png" alt="Innes of Cowie" width="140"><br><strong>Innes of Cowie (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/i/in/innes-of-cowie-2/"><img src="/variants/s31/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1~x4/sett.png" alt="Innes of Cowie" width="140"><br><strong>Innes of Cowie (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/i/in/innes-of-cowie/">Innes of Cowie</a> ★</td><td>1856</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-of-cowie/"><img src="/variants/s60/k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6db1~x4/sett.png" alt="Innes of Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/innes-of-cowie-2/">Innes of Cowie</a></td><td>1856</td><td>2</td><td>2</td><td>4.13</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-of-cowie-2/"><img src="/variants/s31/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1~x4/sett.png" alt="Innes of Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

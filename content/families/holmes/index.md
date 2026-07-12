@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/h/ho/holmes-2/"><img src="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/sett.png" alt="Holmes" width="140"><br><strong>Holmes (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/ho/holmes/"><img src="/variants/s8/k30r3k3r3k6db32dg3db3~x2/sett.png" alt="Holmes" width="140"><br><strong>Holmes (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/h/ho/holmes-2/">Holmes</a> ★</td><td>1830</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/holmes-2/"><img src="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/sett.png" alt="Holmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holmes/">Holmes</a></td><td>1880</td><td>1</td><td>1</td><td>9.22</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/holmes/"><img src="k30r3k3r3k6db32dg3db3-rev.png" alt="Holmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

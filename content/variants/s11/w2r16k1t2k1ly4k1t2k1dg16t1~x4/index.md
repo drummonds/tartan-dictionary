@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/01-baxter-of-balgavies.png"><img src="/sources/peter-1856/entries/01-baxter-of-balgavies.png" alt="Baxter of Balgavies: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 23 — page-scan crop (93,1125)–(852,1205)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Baxter of Balgavies** in 1856, on page 23 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > ½ azure · 8 green · ½ black · 1 azure · ½ black · 2 yellow · ½ black · 1 azure · ½ black · 8 red · 1 white
 
 Rendered at 8 threads to the eighth-inch that is `A/4 G64 K4 A8 K4 Y16 K4 A8 K4 R64 W/8` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 23 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n38/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/05-chisholm-of-that-ilk.png"><img src="/sources/peter-1856/entries/05-chisholm-of-that-ilk.png" alt="Chisholm of that Ilk: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 57 — page-scan crop (103,356)–(862,472)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Chisholm of that Ilk** in 1856, on page 57 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 2½ red · 8 green · 2½ red · 2 blue · 1 white · 2 blue · 11 red · 2 blue · 1 white · 2 blue · 2½ red · 8 green · 2½ red
 
 Rendered at 8 threads to the eighth-inch that is `R/20 G64 R20 B16 W8 B16 R88 B16 W8 B16 R20 G64 R/20` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 57 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n72/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

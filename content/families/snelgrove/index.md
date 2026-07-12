@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/sn/snelgrove/"><img src="/variants/s7/k2g6do4lb1r18do5ly1~x4/sett.png" alt="Snelgrove" width="140"><br><strong>Snelgrove (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sn/snelgrove-hunting/"><img src="/variants/s7/k3r12do8ly2g36do10lb2~x2/sett.png" alt="Snelgrove Hunting" width="140"><br><strong>Snelgrove Hunting (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/sn/snelgrove/">Snelgrove</a> ★</td><td>~2008</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sn/snelgrove/"><img src="/variants/s7/k2g6do4lb1r18do5ly1~x4/sett.png" alt="Snelgrove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sn/snelgrove-hunting/">Snelgrove Hunting</a></td><td>2003</td><td>1</td><td>1</td><td>1.52</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sn/snelgrove-hunting/"><img src="k3r12do8ly2g36do10lb2-rev.png" alt="Snelgrove Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

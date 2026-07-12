@@ -32,6 +32,8 @@ David MacGregor Peter recorded the tartan of **Ramsay of Bamff** in 1856, on pag
 
 Rendered at 8 threads to the eighth-inch that is `R/128 B8 R2 K8 R24 W8 R2 W8 K8 R2 K8 W8 R2 W8 R24 K8 R2 B/8` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
+The entry as printed: [page 281 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n296/mode/1up).
+
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 
 <details class="attestations">

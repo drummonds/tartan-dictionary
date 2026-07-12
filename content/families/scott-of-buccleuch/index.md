@@ -13,6 +13,10 @@ A family of [Clan Scott](/clan/scott/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/sc/scott-of-buccleuch/"><img src="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Scott of Buccleuch" width="140"><br><strong>Scott of Buccleuch (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/sc/scott-of-buccleuch/">Scott of Buccleuch</a> ★</td><td>1908</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scott-of-buccleuch/"><img src="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Scott of Buccleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/k/ke/keith/"><img src="/variants/s8/g9t4k4t3k4t4g9k2~x4/sett.png" alt="Keith" width="140"><br><strong>Keith (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ke/keith-2/"><img src="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/sett.png" alt="Keith" width="140"><br><strong>Keith (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/k/ke/keith/">Keith</a> ★</td><td>1838</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ke/keith/"><img src="/variants/s8/g9t4k4t3k4t4g9k2~x4/sett.png" alt="Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/keith-2/">Keith</a></td><td>2003</td><td>1</td><td>1</td><td>5.56</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ke/keith-2/"><img src="t18r5t3r5t3k20g18dy4g18k20t20k6t6-rev.png" alt="Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

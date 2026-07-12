@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/ba/banff-2/"><img src="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/sett.png" alt="Banff" width="140"><br><strong>Banff (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/ba/banff/"><img src="/variants/s7/w8ly3w22n22dr3r2w4~x2/sett.png" alt="Banff" width="140"><br><strong>Banff (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/ba/banff-2/">Banff</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/banff-2/"><img src="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/sett.png" alt="Banff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/banff/">Banff</a></td><td>~2002</td><td>1</td><td>1</td><td>7.62</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/banff/"><img src="/variants/s7/w8ly3w22n22dr3r2w4~x2/sett.png" alt="Banff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

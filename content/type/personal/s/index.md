@@ -65,8 +65,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><img src="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/sett.png" alt="Solberg-Bell (Personal)" width="140"><br>Solberg-Bell (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/r155lb16k34db48r18y6r9~lb3203246-db1106275/"><img src="/variants/s7/r155lb16k34db48r18y6r9~lb3203246-db1106275/sett.png" alt="Solberg-Wormald (Personal)" width="140"><br>Solberg-Wormald (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/"><img src="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/sett.png" alt="Southwell (Personal)" width="140"><br>Southwell (Personal)</a></li>
-<li><a class="tartan" href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><img src="/variants/s7/ly4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery (Personal)" width="140"><br>Souza Nery (Personal)</a></li>
 <li><a class="tartan" href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><img src="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery (Personal)" width="140"><br>Souza Nery (Personal)</a></li>
+<li><a class="tartan" href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><img src="/variants/s7/ly4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery (Personal)" width="140"><br>Souza Nery (Personal)</a></li>
 <li><a class="tartan" href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/"><img src="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/sett.png" alt="Stanners (Personal)" width="140"><br>Stanners (Personal)</a></li>
 <li><a class="tartan" href="/variants/s5/r10dg4dr1w1lb1~x2/"><img src="/variants/s5/r10dg4dr1w1lb1~x2/sett.png" alt="Staves (Personal)" width="140"><br>Staves (Personal)</a></li>
 <li><a class="tartan" href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><img src="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/sett.png" alt="Steel (Personal)" width="140"><br>Steel (Personal)</a></li>
@@ -90,8 +90,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s16/db11n4db4w2db4n4db11dg26n4w3n4w2n14dg10db16dg6~x2/"><img src="/variants/s16/db11n4db4w2db4n4db11dg26n4w3n4w2n14dg10db16dg6~x2/sett.png" alt="Stuart-Houghton Hunting (Personal)" width="140"><br>Stuart-Houghton Hunting (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/w10k2w2k66y6r48k5r8/"><img src="/variants/s8/w10k2w2k66y6r48k5r8/sett.png" alt="Sutherland de Albergaria (Personal)" width="140"><br>Sutherland de Albergaria (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><img src="/variants/s8/w5g1w1g33y3r24g3r4~x2/sett.png" alt="Sutherland de Albergaria Dress (Personal)" width="140"><br>Sutherland de Albergaria Dress (Personal)</a></li>
-<li><a class="tartan" href="/variants/s8/n36k18n5db7n5k7r1g2~x2/"><img src="/variants/s8/n36k18n5db7n5k7r1g2~x2/sett.png" alt="Suttle (Personal)" width="140"><br>Suttle (Personal)</a></li>
 <li><a class="tartan" href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><img src="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/sett.png" alt="Suttle (Personal)" width="140"><br>Suttle (Personal)</a></li>
+<li><a class="tartan" href="/variants/s8/n36k18n5db7n5k7r1g2~x2/"><img src="/variants/s8/n36k18n5db7n5k7r1g2~x2/sett.png" alt="Suttle (Personal)" width="140"><br>Suttle (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><img src="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/sett.png" alt="Svanholm (Personal)" width="140"><br>Svanholm (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><img src="/variants/s7/k11dr11w11dr11r30k3w3~x2/sett.png" alt="Swallow (Personal)" width="140"><br>Swallow (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/k2db9k2db9k13w1k2~x4/"><img src="/variants/s7/k2db9k2db9k13w1k2~x4/sett.png" alt="Swan 2015, Brian E (Personal)" width="140"><br>Swan 2015, Brian E (Personal)</a></li>

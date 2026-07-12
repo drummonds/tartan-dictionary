@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/munro.png"><img src="/sources/logan-1831/setts/munro.png" alt="Munro: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/munro.png"><img src="/sources/logan-1831/setts/munro.png" alt="Munro: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 407 — page-scan crop (292,1082)–(545,1867)</figcaption>
 </figure>
 

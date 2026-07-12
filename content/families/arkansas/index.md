@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/a/ar/arkansas-2/"><img src="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/sett.png" alt="Arkansas" width="140"><br><strong>Arkansas (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/ar/arkansas/"><img src="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/sett.png" alt="Arkansas" width="140"><br><strong>Arkansas (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/a/ar/arkansas-2/">Arkansas</a> ★</td><td>1998</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/ar/arkansas-2/"><img src="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/sett.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arkansas/">Arkansas</a></td><td>1998</td><td>3</td><td>3</td><td>6.52</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/ar/arkansas/"><img src="dg3w1dg12r6dg3k3dg2-rev.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

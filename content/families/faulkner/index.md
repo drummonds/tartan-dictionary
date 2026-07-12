@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/f/fa/faulkner/"><img src="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/sett.png" alt="Faulkner" width="140"><br><strong>Faulkner (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/f/fa/faulkner/">Faulkner</a> ★</td><td>2009</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fa/faulkner/"><img src="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/sett.png" alt="Faulkner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

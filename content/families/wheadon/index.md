@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/wh/wheadon-2/"><img src="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/sett.png" alt="Wheadon" width="140"><br><strong>Wheadon (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wh/wheadon/"><img src="/variants/s6/db40g7y3g7db15r5~x2/sett.png" alt="Wheadon" width="140"><br><strong>Wheadon (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/wh/wheadon-2/">Wheadon</a> ★</td><td>1999</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wh/wheadon-2/"><img src="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/sett.png" alt="Wheadon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wh/wheadon/">Wheadon</a></td><td>~2002</td><td>1</td><td>1</td><td>3.15</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wh/wheadon/"><img src="/variants/s6/db40g7y3g7db15r5~x2/sett.png" alt="Wheadon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

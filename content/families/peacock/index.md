@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/p/pe/peacock-2/"><img src="/variants/s4/lb20dp3db7dy1~x4/sett.png" alt="Peacock" width="140"><br><strong>Peacock (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/p/pe/peacock/"><img src="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/sett.png" alt="Peacock" width="140"><br><strong>Peacock (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/p/pe/peacock-2/">Peacock</a> ★</td><td>2000</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pe/peacock-2/"><img src="/variants/s4/lb20dp3db7dy1~x4/sett.png" alt="Peacock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peacock/">Peacock</a></td><td>2002</td><td>1</td><td>1</td><td>11.72</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pe/peacock/"><img src="w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1-rev.png" alt="Peacock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

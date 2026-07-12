@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/d/da/daughter-of-mull/"><img src="/variants/s5/dp1lb1g1w1r1~x16/sett.png" alt="Daughter of Mull" width="140"><br><strong>Daughter of Mull (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/d/da/daughter-of-mull/">Daughter of Mull</a> ★</td><td>2016</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/daughter-of-mull/"><img src="/variants/s5/dp1lb1g1w1r1~x16/sett.png" alt="Daughter of Mull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

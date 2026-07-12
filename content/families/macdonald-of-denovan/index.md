@@ -13,7 +13,12 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macdonald-of-denovan/"><img src="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/sett.png" alt="MacDonald of Denovan" width="140"><br><strong>MacDonald of Denovan (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/ma/macdonald-of-denovan-2/"><img src="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/sett.png" alt="MacDonald of Denovan" width="140"><br><strong>MacDonald of Denovan (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/macdonald-of-denovan/">MacDonald of Denovan</a> ★</td><td>1992</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-denovan/"><img src="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/sett.png" alt="MacDonald of Denovan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-denovan-2/">MacDonald of Denovan</a></td><td>1980</td><td>1</td><td>1</td><td>3.51</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-denovan-2/"><img src="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/sett.png" alt="MacDonald of Denovan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

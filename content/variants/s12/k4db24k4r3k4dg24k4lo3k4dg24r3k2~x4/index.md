@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/36-skene-of-that-ilk.png"><img src="/sources/peter-1856/entries/36-skene-of-that-ilk.png" alt="Skene of that Ilk: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 319 — page-scan crop (85,504)–(846,620)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Skene of that Ilk** in 1856, on page 319 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 1 black · 1½ red · 12 green · 2 black · 1½ orange · 2 black · 12 green · 2 black · 1½ red · 2 black · 12 blue · 2 black
 
 Rendered at 8 threads to the eighth-inch that is `K/8 R12 G96 K16 O12 K16 G96 K16 R12 K16 B96 K/16` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 319 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n334/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

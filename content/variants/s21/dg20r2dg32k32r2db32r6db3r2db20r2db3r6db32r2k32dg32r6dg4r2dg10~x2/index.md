@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/19-macdonald-of-rossie.png"><img src="/sources/peter-1856/entries/19-macdonald-of-rossie.png" alt="Macdonald of Rossie: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 218 — page-scan crop (101,806)–(858,923)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Macdonald of Rossie** in 1856, on page 218 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 2½ green · ½ red · 1 green · 1½ red · 8 green · 8 black · ½ red · 8 blue · 1½ red · ¾ blue · ½ red · 5 blue · ½ red · ¾ blue · 1½ red · 8 blue · ½ red · 8 black · 8 green · ½ red · 5 green
 
 Rendered at 8 threads to the eighth-inch that is `G/20 R4 G8 R12 G64 K64 R4 B64 R12 B6 R4 B40 R4 B6 R12 B64 R4 K64 G64 R4 G/40` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 218 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n233/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

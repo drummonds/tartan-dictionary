@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/l/li/lister/"><img src="/variants/s7/dy8n29dy8y3dy8n8y3~x2/sett.png" alt="Lister" width="140"><br><strong>Lister (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/l/li/lister/">Lister</a> ★</td><td>2012</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/li/lister/"><img src="/variants/s7/dy8n29dy8y3dy8n8y3~x2/sett.png" alt="Lister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

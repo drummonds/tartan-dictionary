@@ -13,6 +13,10 @@ A family of [Clan Nicolson](/clan/nicolson/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/n/ni/nicolson-of-the-isles/"><img src="/variants/s7/y2r4db4lb35g5r12w2~x2/sett.png" alt="Nicolson of the Isles" width="140"><br><strong>Nicolson of the Isles (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/n/ni/nicolson-of-the-isles/">Nicolson of the Isles</a> ★</td><td>2008</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-the-isles/"><img src="/variants/s7/y2r4db4lb35g5r12w2~x2/sett.png" alt="Nicolson of the Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

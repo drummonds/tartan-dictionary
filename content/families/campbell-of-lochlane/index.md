@@ -13,6 +13,10 @@ A family of [Clan Campbell](/clan/campbell/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/c/ca/campbell-of-lochlane/"><img src="/variants/s7/k2dr1k6dr6k1dr1k1~x4/sett.png" alt="Campbell of Lochlane" width="140"><br><strong>Campbell of Lochlane (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/c/ca/campbell-of-lochlane/">Campbell of Lochlane</a> ★</td><td>1730</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/campbell-of-lochlane/"><img src="/variants/s7/k2dr1k6dr6k1dr1k1~x4/sett.png" alt="Campbell of Lochlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

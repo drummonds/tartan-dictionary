@@ -23,8 +23,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s11/r2k1db8k7g8y2g8k7db8k1t2~x4/"><img src="/variants/s11/r2k1db8k7g8y2g8k7db8k1t2~x4/sett.png" alt="Adam Smith (Corporate)" width="140"><br>Adam Smith (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s7/dp50k8g4k1g4k1g14/"><img src="/variants/s7/dp50k8g4k1g4k1g14/sett.png" alt="Ahmlaigh (Corporate)" width="140"><br>Ahmlaigh (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s15/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6~dt1102249-db1605267-t2003208/"><img src="/variants/s15/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6~dt1102249-db1605267-t2003208/sett.png" alt="AIS Group" width="140"><br>AIS Group</a></li>
-<li><a class="tartan" href="/variants/s12/w8t8w4t64db6lb6t4lb6db10t30lo2w5/"><img src="/variants/s12/w8t8w4t64db6lb6t4lb6db10t30lo2w5/sett.png" alt="Akashi" width="140"><br>Akashi</a></li>
 <li><a class="tartan" href="/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5~b2008266-db1004274/"><img src="/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5~b2008266-db1004274/sett.png" alt="Akashi" width="140"><br>Akashi</a></li>
+<li><a class="tartan" href="/variants/s12/w8t8w4t64db6lb6t4lb6db10t30lo2w5/"><img src="/variants/s12/w8t8w4t64db6lb6t4lb6db10t30lo2w5/sett.png" alt="Akashi" width="140"><br>Akashi</a></li>
 <li><a class="tartan" href="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/"><img src="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/sett.png" alt="Alabama, University of" width="140"><br>Alabama, University of</a></li>
 <li><a class="tartan" href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/"><img src="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/sett.png" alt="Alamudi (Corporate)" width="140"><br>Alamudi (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s8/db9lb27db2ly4db2lb10db2w3~x2/"><img src="/variants/s8/db9lb27db2ly4db2lb10db2w3~x2/sett.png" alt="Alaska Highlanders P &amp; D (Corporate)" width="140"><br>Alaska Highlanders P & D (Corporate)</a></li>
@@ -88,8 +88,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/r13o3r4o56n4o4~x2~o2500000-n1900000/"><img src="/variants/s6/r13o3r4o56n4o4~x2~o2500000-n1900000/sett.png" alt="Auchairne Grey" width="140"><br>Auchairne Grey</a></li>
 <li><a class="tartan" href="/variants/s6/db80r8w1r8y20db15~x2/"><img src="/variants/s6/db80r8w1r8y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army" width="140"><br>Auchtermuchty Tartan Army</a></li>
 <li><a class="tartan" href="/variants/s6/db80r7w1r7y20db15~x2/"><img src="/variants/s6/db80r7w1r7y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army (Corp)" width="140"><br>Auchtermuchty Tartan Army (Corp)</a></li>
-<li><a class="tartan" href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3dy3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
 <li><a class="tartan" href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3lo3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
+<li><a class="tartan" href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><img src="/variants/s8/k62r3k3dy3k3r3k9n5~x2/sett.png" alt="Auld Bernensis" width="140"><br>Auld Bernensis</a></li>
 <li><a class="tartan" href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><img src="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/sett.png" alt="Aurora House Check" width="140"><br>Aurora House Check</a></li>
 <li><a class="tartan" href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><img src="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/sett.png" alt="Austin College (Corporate)" width="140"><br>Austin College (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/"><img src="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/sett.png" alt="Austin College Page" width="140"><br>Austin College Page</a></li>

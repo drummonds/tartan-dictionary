@@ -13,6 +13,10 @@ A family of [Clan Nicolson](/clan/nicolson/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/n/ni/nicolson-of-tiree-coll/"><img src="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/sett.png" alt="Nicolson of Tiree &amp; Coll" width="140"><br><strong>Nicolson of Tiree & Coll (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/n/ni/nicolson-of-tiree-coll/">Nicolson of Tiree & Coll</a> ★</td><td>~2009</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-tiree-coll/"><img src="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/sett.png" alt="Nicolson of Tiree &amp; Coll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

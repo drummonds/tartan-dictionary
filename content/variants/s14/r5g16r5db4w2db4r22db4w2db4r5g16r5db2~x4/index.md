@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/chisholm.png"><img src="/sources/logan-1831/setts/chisholm.png" alt="Chisholm: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/chisholm.png"><img src="/sources/logan-1831/setts/chisholm.png" alt="Chisholm: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 402 — page-scan crop (1181,1537)–(1436,2127)</figcaption>
 </figure>
 

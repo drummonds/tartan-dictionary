@@ -11,8 +11,14 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/d/di/diaspora-2/"><img src="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/d/di/diaspora-3/"><img src="/variants/s6/b3dg1r24b16db28w3~x2/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/d/di/diaspora/"><img src="/variants/s5/lr3db28dt12dr22dg1~x2/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/d/di/diaspora-2/">Diaspora</a> ★</td><td>2000</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/di/diaspora-2/"><img src="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/sett.png" alt="Diaspora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/diaspora-3/">Diaspora</a></td><td>—</td><td>1</td><td>1</td><td>2.71</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/di/diaspora-3/"><img src="/variants/s6/b3dg1r24b16db28w3~x2/sett.png" alt="Diaspora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/diaspora/">Diaspora</a></td><td>2000</td><td>1</td><td>1</td><td>5.85</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/di/diaspora/"><img src="lr3db28dt12dr22dg1-rev.png" alt="Diaspora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

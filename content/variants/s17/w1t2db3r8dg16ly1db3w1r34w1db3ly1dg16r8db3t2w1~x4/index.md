@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/07-drummond-of-drumtochty.png"><img src="/sources/peter-1856/entries/07-drummond-of-drumtochty.png" alt="Drummond of Drumtochty: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 77 — page-scan crop (96,336)–(851,451)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Drummond of Drumtochty** in 1856, on page 77 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > ½ white · 1 azure · 1½ blue · 4 red · 8 green · ½ yellow · 1½ blue · ½ white · 17 red · ½ white · 1½ blue · ½ yellow · 8 green · 4 red · 1½ blue · 1 azure · ½ white
 
 Rendered at 8 threads to the eighth-inch that is `W/4 A8 B12 R32 G64 Y4 B12 W4 R136 W4 B12 Y4 G64 R32 B12 A8 W/4` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 77 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n92/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

@@ -11,9 +11,16 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/mi/miyuki-4/"><img src="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/sett.png" alt="Miyuki" width="140"><br><strong>Miyuki (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/mi/miyuki-3/"><img src="/variants/s10/r40w1r1db8r1w1r6w1r1db8~x2/sett.png" alt="Miyuki" width="140"><br><strong>Miyuki (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/mi/miyuki-2/"><img src="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/sett.png" alt="Miyuki" width="140"><br><strong>Miyuki (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/mi/miyuki/"><img src="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/sett.png" alt="Miyuki" width="140"><br><strong>Miyuki (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/mi/miyuki-4/">Miyuki</a> ★</td><td>1998</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/miyuki-4/"><img src="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miyuki-3/">Miyuki</a></td><td>1998</td><td>1</td><td>1</td><td>6.69</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/miyuki-3/"><img src="/variants/s10/r40w1r1db8r1w1r6w1r1db8~x2/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miyuki-2/">Miyuki</a></td><td>1998</td><td>2</td><td>2</td><td>10.16</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/miyuki-2/"><img src="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miyuki/">Miyuki</a></td><td>1998</td><td>1</td><td>1</td><td>11.79</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/miyuki/"><img src="r3ly8r3ly20dy20ly3dy8ly3-rev.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

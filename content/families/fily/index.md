@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/f/fi/fily/"><img src="/variants/s3/k20w2db1~x6/sett.png" alt="Fily" width="140"><br><strong>Fily (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/f/fi/fily/">Fily</a> ★</td><td>2010</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fi/fily/"><img src="/variants/s3/k20w2db1~x6/sett.png" alt="Fily sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

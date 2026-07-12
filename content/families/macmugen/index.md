@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macmugen/"><img src="/variants/s6/db3w16db4w3db12w2~x3/sett.png" alt="MacMugen" width="140"><br><strong>MacMugen (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/ma/macmugen-2/"><img src="/variants/s6/k3b16k4b3k12w2~x3/sett.png" alt="MacMugen" width="140"><br><strong>MacMugen (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/macmugen/">MacMugen</a> ★</td><td>1999</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macmugen/"><img src="/variants/s6/db3w16db4w3db12w2~x3/sett.png" alt="MacMugen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmugen-2/">MacMugen</a></td><td>—</td><td>1</td><td>1</td><td>1.63</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macmugen-2/"><img src="/variants/s6/k3b16k4b3k12w2~x3/sett.png" alt="MacMugen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

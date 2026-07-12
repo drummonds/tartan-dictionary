@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/k/ki/kile/"><img src="/variants/s8/db20w3db3w3db3w3k5dy10~x2/sett.png" alt="Kile" width="140"><br><strong>Kile (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ki/kile-2/"><img src="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/sett.png" alt="Kile" width="140"><br><strong>Kile (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/k/ki/kile/">Kile</a> ★</td><td>1983</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ki/kile/"><img src="/variants/s8/db20w3db3w3db3w3k5dy10~x2/sett.png" alt="Kile sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kile-2/">Kile</a></td><td>1983</td><td>1</td><td>1</td><td>1.31</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ki/kile-2/"><img src="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/sett.png" alt="Kile sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

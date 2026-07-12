@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/si/sildesalaten/"><img src="/variants/s5/r32w4db7y2lb2~x5/sett.png" alt="Sildesalaten" width="140"><br><strong>Sildesalaten (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/si/sildesalaten/">Sildesalaten</a> ★</td><td>2013</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/si/sildesalaten/"><img src="/variants/s5/r32w4db7y2lb2~x5/sett.png" alt="Sildesalaten sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

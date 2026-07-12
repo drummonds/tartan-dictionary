@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/d/du/duff-of-careston/"><img src="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/sett.png" alt="Duff of Careston" width="140"><br><strong>Duff of Careston (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/d/du/duff-of-careston/">Duff of Careston</a> ★</td><td>1856</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/du/duff-of-careston/"><img src="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/sett.png" alt="Duff of Careston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/x/xa/xain/"><img src="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/sett.png" alt="Xain" width="140"><br><strong>Xain (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/x/xa/xain/">Xain</a> ★</td><td>2009</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/x/xa/xain/"><img src="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/sett.png" alt="Xain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

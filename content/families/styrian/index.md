@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/st/styrian-2/"><img src="/variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028/sett.png" alt="Styrian" width="140"><br><strong>Styrian (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/st/styrian/"><img src="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/sett.png" alt="Styrian" width="140"><br><strong>Styrian (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/st/styrian-2/">Styrian</a> ★</td><td>2001</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/styrian-2/"><img src="/variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028/sett.png" alt="Styrian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/styrian/">Styrian</a></td><td>2001</td><td>1</td><td>1</td><td>2.82</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/styrian/"><img src="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/sett.png" alt="Styrian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

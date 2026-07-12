@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/ba/bartlam/"><img src="/variants/s24/do12n12ly2n12do12db11do2db2do2db11do12n12dr2n12do12db2do2db2do2db12do2db2do2db2~x2/sett.png" alt="Bartlam" width="140"><br><strong>Bartlam (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/ba/bartlam/">Bartlam</a> ★</td><td>2002</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/bartlam/"><img src="/variants/s24/do12n12ly2n12do12db11do2db2do2db11do12n12dr2n12do12db2do2db2do2db12do2db2do2db2~x2/sett.png" alt="Bartlam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/h/ho/hopetoun/"><img src="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/sett.png" alt="Hopetoun" width="140"><br><strong>Hopetoun (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/h/ho/hopetoun/">Hopetoun</a> ★</td><td>1984</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hopetoun/"><img src="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/sett.png" alt="Hopetoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

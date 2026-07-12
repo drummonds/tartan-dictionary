@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/l/le/lemania-2/"><img src="/variants/s8/g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259/sett.png" alt="Lemania" width="140"><br><strong>Lemania (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/l/le/lemania/"><img src="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/sett.png" alt="Lemania" width="140"><br><strong>Lemania (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/l/le/lemania-2/">Lemania</a> ★</td><td>2013</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/le/lemania-2/"><img src="/variants/s8/g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259/sett.png" alt="Lemania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lemania/">Lemania</a></td><td>2013</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/le/lemania/"><img src="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/sett.png" alt="Lemania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

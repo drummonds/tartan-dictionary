@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/k/ki/kinross-2/"><img src="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png" alt="Kinross" width="140"><br><strong>Kinross (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ki/kinross/"><img src="/variants/s28/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4~x2~lbi3200000-lb3103284/sett.png" alt="Kinross" width="140"><br><strong>Kinross (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/k/ki/kinross-2/">Kinross</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ki/kinross-2/"><img src="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png" alt="Kinross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinross/">Kinross</a></td><td>1981</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ki/kinross/"><img src="/variants/s28/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4~x2~lbi3200000-lb3103284/sett.png" alt="Kinross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

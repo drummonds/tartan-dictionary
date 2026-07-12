@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/18-macaulay-of-ardincaple.png"><img src="/sources/peter-1856/entries/18-macaulay-of-ardincaple.png" alt="Macaulay of Ardincaple: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 217 — page-scan crop (101,477)–(856,593)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Macaulay of Ardincaple** in 1856, on page 217 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 12 red · ¼ blue · 6 green · ¼ blue · 2½ red · ¼ blue · 3 green · ¼ black · 1 white · ¼ black · 3 green · ¼ blue · 2½ red · ¼ blue · 6 green · ¼ blue · 24 red
 
 Rendered at 8 threads to the eighth-inch that is `R/96 B2 G48 B2 R20 B2 G24 K2 W8 K2 G24 B2 R20 B2 G48 B2 R/192` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 217 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n232/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/we/westwater/"><img src="/variants/s3/k62b33y1~x2/sett.png" alt="Westwater" width="140"><br><strong>Westwater (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/we/westwater/">Westwater</a> ★</td><td>2012</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/westwater/"><img src="/variants/s3/k62b33y1~x2/sett.png" alt="Westwater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

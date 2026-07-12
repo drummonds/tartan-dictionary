@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/abercrombie.png"><img src="/sources/logan-1831/setts/abercrombie.png" alt="Abercrombie: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/abercrombie.png"><img src="/sources/logan-1831/setts/abercrombie.png" alt="Abercrombie: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 402 — page-scan crop (379,1151)–(634,1567)</figcaption>
 </figure>
 

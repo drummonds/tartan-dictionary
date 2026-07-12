@@ -13,6 +13,10 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macdonald-of-sleat/"><img src="/variants/s5/g16r5g2r18k2~x2/sett.png" alt="MacDonald of Sleat" width="140"><br><strong>MacDonald of Sleat (4)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/macdonald-of-sleat/">MacDonald of Sleat</a> ★</td><td>1750</td><td>4</td><td>5</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-sleat/"><img src="/variants/s5/g16r5g2r18k2~x2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/ba/ballater/"><img src="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/sett.png" alt="Ballater" width="140"><br><strong>Ballater (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/ba/ballater-2/"><img src="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/sett.png" alt="Ballater" width="140"><br><strong>Ballater (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/ba/ballater/">Ballater</a> ★</td><td>1963</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/ballater/"><img src="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/sett.png" alt="Ballater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/ballater-2/">Ballater</a></td><td>—</td><td>1</td><td>1</td><td>8.29</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/ballater-2/"><img src="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/sett.png" alt="Ballater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

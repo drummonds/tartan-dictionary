@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/mc/mcmoosie/"><img src="/variants/s3/g81r10y20~x2/sett.png" alt="McMoosie" width="140"><br><strong>McMoosie (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/mc/mcmoosie-hunting/"><img src="/variants/s5/dy46dg23t23r4y4~x2/sett.png" alt="McMoosie Hunting" width="140"><br><strong>McMoosie Hunting (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/mc/mcmoosie/">McMoosie</a> ★</td><td>2001</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mcmoosie/"><img src="/variants/s3/g81r10y20~x2/sett.png" alt="McMoosie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcmoosie-hunting/">McMoosie Hunting</a></td><td>2002</td><td>1</td><td>1</td><td>2.46</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mcmoosie-hunting/"><img src="/variants/s5/dy46dg23t23r4y4~x2/sett.png" alt="McMoosie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

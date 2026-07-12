@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/macalister.png"><img src="/sources/logan-1831/setts/macalister.png" alt="MacAlister: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/macalister.png"><img src="/sources/logan-1831/setts/macalister.png" alt="MacAlister: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 404 — page-scan crop (899,1404)–(1154,2055), (1166,481)–(1422,1127)</figcaption>
 </figure>
 

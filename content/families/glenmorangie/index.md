@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/g/gl/glenmorangie-2/"><img src="/variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/sett.png" alt="Glenmorangie" width="140"><br><strong>Glenmorangie (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/gl/glenmorangie/"><img src="/variants/s11/dy6o2dy2o4dy13k12lo13o4lo2o2lo6~x2/sett.png" alt="Glenmorangie" width="140"><br><strong>Glenmorangie (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/g/gl/glenmorangie-2/">Glenmorangie</a> ★</td><td>1999</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gl/glenmorangie-2/"><img src="/variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/sett.png" alt="Glenmorangie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenmorangie/">Glenmorangie</a></td><td>1999</td><td>1</td><td>1</td><td>5.86</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gl/glenmorangie/"><img src="/variants/s11/dy6o2dy2o4dy13k12lo13o4lo2o2lo6~x2/sett.png" alt="Glenmorangie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

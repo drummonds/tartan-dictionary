@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/j/je/jefferson-2/"><img src="/variants/s12/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7~x2~lb3200000-dp1105325-t2503227-ly3307090/sett.png" alt="Jefferson" width="140"><br><strong>Jefferson (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/j/je/jefferson/"><img src="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/sett.png" alt="Jefferson" width="140"><br><strong>Jefferson (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/j/je/jefferson-2/">Jefferson</a> ★</td><td>2004</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/je/jefferson-2/"><img src="/variants/s12/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7~x2~lb3200000-dp1105325-t2503227-ly3307090/sett.png" alt="Jefferson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/je/jefferson/">Jefferson</a></td><td>2004</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/je/jefferson/"><img src="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/sett.png" alt="Jefferson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

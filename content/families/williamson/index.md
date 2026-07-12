@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/wi/williamson/"><img src="/variants/s6/r7db20r4k18g20dp5~x2/sett.png" alt="Williamson" width="140"><br><strong>Williamson (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/wi/williamson/">Williamson</a> ★</td><td>2000</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wi/williamson/"><img src="/variants/s6/r7db20r4k18g20dp5~x2/sett.png" alt="Williamson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

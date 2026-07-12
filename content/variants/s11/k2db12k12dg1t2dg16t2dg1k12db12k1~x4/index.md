@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/15-grahame-of-morphie.png"><img src="/sources/peter-1856/entries/15-grahame-of-morphie.png" alt="Grahame of Morphie: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 141 — page-scan crop (106,624)–(862,704)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the tartan of **Grahame of Morphie** in 1856, on page 141 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > ½ black · 6 smalt · 6 black · ½ green · 1 azure · 8 green · 1 azure · ½ green · 6 black · 6 smalt · 1 black
 
 Rendered at 8 threads to the eighth-inch that is `K/4 B48 K48 G4 A8 G64 A8 G4 K48 B48 K/8` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 141 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n156/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

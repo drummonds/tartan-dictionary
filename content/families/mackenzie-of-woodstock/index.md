@@ -13,6 +13,10 @@ A family of [Clan MacKenzie](/clan/mackenzie/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/mackenzie-of-woodstock/"><img src="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/sett.png" alt="Mackenzie of Woodstock" width="140"><br><strong>Mackenzie of Woodstock (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/mackenzie-of-woodstock/">Mackenzie of Woodstock</a> ★</td><td>1856</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackenzie-of-woodstock/"><img src="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/sett.png" alt="Mackenzie of Woodstock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

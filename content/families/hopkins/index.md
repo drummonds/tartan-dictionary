@@ -11,8 +11,14 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/h/ho/hopkins/"><img src="/variants/s12/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3~x4~dbi1404245-db1204274/sett.png" alt="Hopkins" width="140"><br><strong>Hopkins (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/ho/hopkins-2/"><img src="/variants/s5/r36k18r4k7w2~x2/sett.png" alt="Hopkins" width="140"><br><strong>Hopkins (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/ho/hopkins-3/"><img src="/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/sett.png" alt="Hopkins" width="140"><br><strong>Hopkins (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/h/ho/hopkins/">Hopkins</a> ★</td><td>2000</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hopkins/"><img src="/variants/s12/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3~x4~dbi1404245-db1204274/sett.png" alt="Hopkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hopkins-3/">Hopkins</a></td><td>2002</td><td>1</td><td>1</td><td>3.15</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hopkins-3/"><img src="/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/sett.png" alt="Hopkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hopkins-2/">Hopkins</a></td><td>1998</td><td>1</td><td>1</td><td>10.96</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hopkins-2/"><img src="r36k18r4k7w2-rev.png" alt="Hopkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

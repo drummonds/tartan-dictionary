@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/">Leighton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/"><img src="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/sett.png" alt="Leighton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4~dr1305012-r1606028/">Leighton (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4~dr1305012-r1606028/"><img src="/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4~dr1305012-r1606028/sett.png" alt="Leighton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/">Leighton (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/"><img src="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/sett.png" alt="Leighton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

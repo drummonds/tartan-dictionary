@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/n/na/naysmith/"><img src="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/sett.png" alt="Naysmith" width="140"><br><strong>Naysmith (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/na/naysmith-2/"><img src="/variants/s6/r6db32k18g28k1lb2~x2/sett.png" alt="Naysmith" width="140"><br><strong>Naysmith (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/n/na/naysmith/">Naysmith</a> ★</td><td>1996</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/na/naysmith/"><img src="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/sett.png" alt="Naysmith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/naysmith-2/">Naysmith</a></td><td>~2002</td><td>1</td><td>1</td><td>5.99</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/na/naysmith-2/"><img src="/variants/s6/r6db32k18g28k1lb2~x2/sett.png" alt="Naysmith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

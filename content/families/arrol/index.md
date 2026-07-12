@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/a/ar/arrol/"><img src="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/sett.png" alt="Arrol" width="140"><br><strong>Arrol (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/ar/arrol-2/"><img src="/variants/s3/k11db2r1~x8/sett.png" alt="Arrol" width="140"><br><strong>Arrol (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/a/ar/arrol/">Arrol</a> ★</td><td>1900</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/ar/arrol/"><img src="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/sett.png" alt="Arrol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arrol-2/">Arrol</a></td><td>1900</td><td>1</td><td>1</td><td>13.99</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/ar/arrol-2/"><img src="/variants/s3/k11db2r1~x8/sett.png" alt="Arrol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

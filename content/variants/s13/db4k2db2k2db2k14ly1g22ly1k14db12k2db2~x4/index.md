@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/campbell-of-breadalbane.png"><img src="/sources/logan-1831/setts/campbell-of-breadalbane.png" alt="Campbell of Breadalbane: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/campbell-of-breadalbane.png"><img src="/sources/logan-1831/setts/campbell-of-breadalbane.png" alt="Campbell of Breadalbane: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 402 — page-scan crop (913,1814)–(1169,2238), (1181,1147)–(1436,1549)</figcaption>
 </figure>
 

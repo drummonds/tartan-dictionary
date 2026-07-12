@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/ba/barber/"><img src="/variants/s4/ly30g30r1db16~x2/sett.png" alt="Barber" width="140"><br><strong>Barber (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/ba/barber-family-2011/"><img src="/variants/s4/y30g30r1db16~x2/sett.png" alt="Barber Family 2011" width="140"><br><strong>Barber Family 2011 (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/ba/barber/">Barber</a> ★</td><td>2011</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/barber/"><img src="/variants/s4/ly30g30r1db16~x2/sett.png" alt="Barber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barber-family-2011/">Barber Family 2011</a></td><td>2011</td><td>1</td><td>1</td><td>0.16</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/barber-family-2011/"><img src="/variants/s4/y30g30r1db16~x2/sett.png" alt="Barber Family 2011 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

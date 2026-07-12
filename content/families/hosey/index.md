@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/h/ho/hosey/"><img src="/variants/s13/r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244/sett.png" alt="Hosey" width="140"><br><strong>Hosey (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/h/ho/hosey/">Hosey</a> ★</td><td>2006</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hosey/"><img src="/variants/s13/r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244/sett.png" alt="Hosey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

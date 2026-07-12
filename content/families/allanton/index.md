@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/a/al/allanton/"><img src="/variants/s6/w4lb28db7y2g16lb4~x2/sett.png" alt="Allanton" width="140"><br><strong>Allanton (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/al/allanton-dress/"><img src="/variants/s6/g4w28db14y2lb17g4~x2/sett.png" alt="Allanton Dress" width="140"><br><strong>Allanton Dress (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/a/al/allanton/">Allanton</a> ★</td><td>1980</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/al/allanton/"><img src="/variants/s6/w4lb28db7y2g16lb4~x2/sett.png" alt="Allanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allanton-dress/">Allanton Dress</a></td><td>1980</td><td>1</td><td>1</td><td>3.42</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/al/allanton-dress/"><img src="g4w28db14y2lb17g4-rev.png" alt="Allanton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

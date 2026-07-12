@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/be/berkshire/"><img src="/variants/s10/n5g3n1db8n10g5k1g5n1t2~x4/sett.png" alt="Berkshire" width="140"><br><strong>Berkshire (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/be/berkshire-2/"><img src="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/sett.png" alt="Berkshire" width="140"><br><strong>Berkshire (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/be/berkshire/">Berkshire</a> ★</td><td>1979</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/be/berkshire/"><img src="/variants/s10/n5g3n1db8n10g5k1g5n1t2~x4/sett.png" alt="Berkshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/berkshire-2/">Berkshire</a></td><td>—</td><td>1</td><td>1</td><td>2.14</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/be/berkshire-2/"><img src="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/sett.png" alt="Berkshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

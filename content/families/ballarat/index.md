@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/ba/ballarat/"><img src="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/sett.png" alt="Ballarat" width="140"><br><strong>Ballarat (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/ba/ballarat/">Ballarat</a> ★</td><td>2013</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/ballarat/"><img src="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/sett.png" alt="Ballarat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

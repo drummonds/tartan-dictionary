@@ -11,9 +11,16 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/we/wellington-4/"><img src="/variants/s6/db1r1db6k6g6w1~x2/sett.png" alt="Wellington" width="140"><br><strong>Wellington (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/we/wellington-2/"><img src="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/sett.png" alt="Wellington" width="140"><br><strong>Wellington (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/we/wellington-3/"><img src="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/sett.png" alt="Wellington" width="140"><br><strong>Wellington (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/we/wellington/"><img src="/variants/s10/dg8k9db7r2db2r2db7k9dg8t3~x2~t2503227/sett.png" alt="Wellington" width="140"><br><strong>Wellington (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/we/wellington-4/">Wellington</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/wellington-4/"><img src="/variants/s6/db1r1db6k6g6w1~x2/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellington-2/">Wellington</a></td><td>—</td><td>1</td><td>1</td><td>3.46</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/wellington-2/"><img src="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellington/">Wellington</a></td><td>1819</td><td>2</td><td>2</td><td>4.32</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/wellington/"><img src="/variants/s10/dg8k9db7r2db2r2db7k9dg8t3~x2~t2503227/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellington-3/">Wellington</a></td><td>1819</td><td>1</td><td>1</td><td>5.55</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/wellington-3/"><img src="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

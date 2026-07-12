@@ -13,6 +13,10 @@ A family of [Clan MacDonell](/clan/macdonell/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macdonell-of-glengarry-d/"><img src="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/sett.png" alt="MacDonell of Glengarry D" width="140"><br><strong>MacDonell of Glengarry D (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/macdonell-of-glengarry-d/">MacDonell of Glengarry D</a> ★</td><td>1906</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-glengarry-d/"><img src="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/sett.png" alt="MacDonell of Glengarry D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

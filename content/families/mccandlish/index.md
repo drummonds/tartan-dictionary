@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/mc/mccandlish-hunting/"><img src="/variants/s11/lb3k1dg12k1dg1k2dg1k6g12k1lo1~x4/sett.png" alt="McCandlish Hunting" width="140"><br><strong>McCandlish Hunting (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/mc/mccandlish-dress/"><img src="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/sett.png" alt="McCandlish Dress" width="140"><br><strong>McCandlish Dress (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/mc/mccandlish-hunting/">McCandlish Hunting</a> ★</td><td>1992</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mccandlish-hunting/"><img src="/variants/s11/lb3k1dg12k1dg1k2dg1k6g12k1lo1~x4/sett.png" alt="McCandlish Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccandlish-dress/">McCandlish Dress</a></td><td>1992</td><td>1</td><td>1</td><td>3.81</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mccandlish-dress/"><img src="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/sett.png" alt="McCandlish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

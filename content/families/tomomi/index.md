@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/t/to/tomomi/"><img src="/variants/s6/ly5w15r40y4g2lb2~x2/sett.png" alt="Tomomi" width="140"><br><strong>Tomomi (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/t/to/tomomi/">Tomomi</a> ★</td><td>2014</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/to/tomomi/"><img src="/variants/s6/ly5w15r40y4g2lb2~x2/sett.png" alt="Tomomi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

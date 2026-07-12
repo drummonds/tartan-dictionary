@@ -13,8 +13,14 @@ A family of [Clan Forbes](/clan/forbes/).
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/f/fo/forbes-of-druminnor/"><img src="/variants/s18/k6db3dg4r8dg13k3dg3k3dg3k3dg4db4dy3db3dy3db3dy3db3~x2/sett.png" alt="Forbes of Druminnor" width="140"><br><strong>Forbes of Druminnor (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fo/forbes-of-druminnor-2/"><img src="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/sett.png" alt="Forbes of Druminnor" width="140"><br><strong>Forbes of Druminnor (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fo/forbes-of-druminnor-3/"><img src="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/sett.png" alt="Forbes, of Druminnor" width="140"><br><strong>Forbes, of Druminnor (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/f/fo/forbes-of-druminnor/">Forbes of Druminnor</a> ★</td><td>1815</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fo/forbes-of-druminnor/"><img src="/variants/s18/k6db3dg4r8dg13k3dg3k3dg3k3dg4db4dy3db3dy3db3dy3db3~x2/sett.png" alt="Forbes of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-of-druminnor-3/">Forbes, of Druminnor</a></td><td>—</td><td>1</td><td>1</td><td>5.41</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fo/forbes-of-druminnor-3/"><img src="db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2-rev.png" alt="Forbes, of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-of-druminnor-2/">Forbes of Druminnor</a></td><td>1968</td><td>1</td><td>1</td><td>7.16</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fo/forbes-of-druminnor-2/"><img src="db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2-rev.png" alt="Forbes of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

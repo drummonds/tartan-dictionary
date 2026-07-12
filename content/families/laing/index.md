@@ -13,6 +13,10 @@ A family of [Clan Laing](/clan/laing/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/l/la/laing/"><img src="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/sett.png" alt="Laing" width="140"><br><strong>Laing (3)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/l/la/laing/">Laing</a> ★</td><td>~1765</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/laing/"><img src="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/sett.png" alt="Laing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

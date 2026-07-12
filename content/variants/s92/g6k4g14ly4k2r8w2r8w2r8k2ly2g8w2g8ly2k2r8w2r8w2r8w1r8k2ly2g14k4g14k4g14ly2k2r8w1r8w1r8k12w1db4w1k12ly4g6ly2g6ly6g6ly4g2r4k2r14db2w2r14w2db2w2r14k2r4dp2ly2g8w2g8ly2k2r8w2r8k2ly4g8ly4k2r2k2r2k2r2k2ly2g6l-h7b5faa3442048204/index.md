@@ -28,7 +28,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/ogilvie.png"><img src="/sources/logan-1831/setts/ogilvie.png" alt="Ogilvie: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/ogilvie.png"><img src="/sources/logan-1831/setts/ogilvie.png" alt="Ogilvie: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 407 — page-scan crop (557,1067)–(811,2227), (823,477)–(1076,2227), (1088,483)–(1341,728)</figcaption>
 </figure>
 

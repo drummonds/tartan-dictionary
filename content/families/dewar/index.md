@@ -11,8 +11,14 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/d/de/dewar-2/"><img src="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/sett.png" alt="Dewar" width="140"><br><strong>Dewar (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/d/de/dewar/"><img src="/variants/s6/dy1r7dy4g7dy1g1~x4/sett.png" alt="Dewar" width="140"><br><strong>Dewar (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/d/de/dewar-3/"><img src="/variants/s6/db1dy1db7dy5y7lr1~x4/sett.png" alt="Dewar" width="140"><br><strong>Dewar (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/d/de/dewar-2/">Dewar</a> ★</td><td>~1990</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/de/dewar-2/"><img src="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/sett.png" alt="Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dewar/">Dewar</a></td><td>2003</td><td>1</td><td>1</td><td>3.67</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/de/dewar/"><img src="dy1r7dy4g7dy1g1-rev.png" alt="Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dewar-3/">Dewar</a></td><td>1979</td><td>1</td><td>1</td><td>6.33</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/de/dewar-3/"><img src="db1dy1db7dy5y7lr1-rev.png" alt="Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

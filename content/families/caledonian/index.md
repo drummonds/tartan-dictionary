@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/c/ca/caledonian-2/"><img src="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/sett.png" alt="Caledonian" width="140"><br><strong>Caledonian (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/ca/caledonian/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian" width="140"><br><strong>Caledonian (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/c/ca/caledonian-2/">Caledonian</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/caledonian-2/"><img src="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian/">Caledonian</a></td><td>1819</td><td>2</td><td>3</td><td>9.83</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/caledonian/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

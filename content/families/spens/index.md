@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/sp/spens/"><img src="/variants/s9/r40w1db7w1g12r8db6lb2w1~x2/sett.png" alt="Spens" width="140"><br><strong>Spens (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/sp/spens/">Spens</a> ★</td><td>~1815</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sp/spens/"><img src="/variants/s9/r40w1db7w1g12r8db6lb2w1~x2/sett.png" alt="Spens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

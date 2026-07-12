@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/we/westfalia/"><img src="/variants/s6/dg44w18dg6w11db1r4~x2/sett.png" alt="Westfalia" width="140"><br><strong>Westfalia (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/we/westfalia-dress/"><img src="/variants/s6/w44dg18w6dg11db1r4~x2/sett.png" alt="Westfalia Dress" width="140"><br><strong>Westfalia Dress (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/we/westfalia/">Westfalia</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/westfalia/"><img src="/variants/s6/dg44w18dg6w11db1r4~x2/sett.png" alt="Westfalia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westfalia-dress/">Westfalia Dress</a></td><td>2002</td><td>1</td><td>1</td><td>1.57</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/westfalia-dress/"><img src="/variants/s6/w44dg18w6dg11db1r4~x2/sett.png" alt="Westfalia Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

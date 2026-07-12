@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/br/bryant-2/"><img src="/variants/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8dr2g4do1dp2~x2/sett.png" alt="Bryant" width="140"><br><strong>Bryant (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/br/bryant/"><img src="/variants/s6/lb3dr30k18db6g30k2~x2/sett.png" alt="Bryant" width="140"><br><strong>Bryant (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/br/bryant-2/">Bryant</a> ★</td><td>1993</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/bryant-2/"><img src="/variants/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8dr2g4do1dp2~x2/sett.png" alt="Bryant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bryant/">Bryant</a></td><td>2002</td><td>1</td><td>1</td><td>12.76</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/bryant/"><img src="lb3dr30k18db6g30k2-rev.png" alt="Bryant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

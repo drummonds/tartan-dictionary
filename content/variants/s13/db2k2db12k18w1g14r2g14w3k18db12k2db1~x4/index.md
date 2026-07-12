@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/colquhoun.png"><img src="/sources/logan-1831/setts/colquhoun.png" alt="Colquhoun: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/colquhoun.png"><img src="/sources/logan-1831/setts/colquhoun.png" alt="Colquhoun: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II pp. 402, 403 — page-scan crop (1181,2115)–(1436,2235), (276,489)–(530,930)</figcaption>
 </figure>
 

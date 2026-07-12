@@ -13,6 +13,10 @@ A family of [Clan Fraser](/clan/fraser/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/f/fr/fraser-of-castle-leathers-major-james/"><img src="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/sett.png" alt="Fraser of Castle Leathers, Major James" width="140"><br><strong>Fraser of Castle Leathers, Major James (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/f/fr/fraser-of-castle-leathers-major-james/">Fraser of Castle Leathers, Major James</a> ★</td><td>1730</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fr/fraser-of-castle-leathers-major-james/"><img src="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/sett.png" alt="Fraser of Castle Leathers, Major James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

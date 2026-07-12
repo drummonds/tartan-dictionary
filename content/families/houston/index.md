@@ -11,8 +11,14 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/h/ho/houston-2/"><img src="/variants/s12/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2~ly2705081-dy1603076/sett.png" alt="Houston" width="140"><br><strong>Houston (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/ho/houston/"><img src="/variants/s12/y2o2y12dg2y32o2y1g2y1o2y1g2~x2/sett.png" alt="Houston" width="140"><br><strong>Houston (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/ho/houston-3/"><img src="/variants/s12/g2lyi1ly2lyi1g2lyi1ly2lyi32dy2lyi12ly2lyi2~x2~lyi3307090-dy1603076/sett.png" alt="Houston" width="140"><br><strong>Houston (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/h/ho/houston-2/">Houston</a> ★</td><td>1994</td><td>2</td><td>3</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/houston-2/"><img src="/variants/s12/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2~ly2705081-dy1603076/sett.png" alt="Houston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/houston/">Houston</a></td><td>—</td><td>1</td><td>1</td><td>2.17</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/houston/"><img src="/variants/s12/y2o2y12dg2y32o2y1g2y1o2y1g2~x2/sett.png" alt="Houston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/houston-3/">Houston</a></td><td>1994</td><td>1</td><td>1</td><td>4.94</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/houston-3/"><img src="/variants/s12/g2lyi1ly2lyi1g2lyi1ly2lyi32dy2lyi12ly2lyi2~x2~lyi3307090-dy1603076/sett.png" alt="Houston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

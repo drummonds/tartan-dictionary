@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/h/ho/hogmany-2/"><img src="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/sett.png" alt="Hogmany" width="140"><br><strong>Hogmany (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/ho/hogmany/"><img src="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/sett.png" alt="Hogmany" width="140"><br><strong>Hogmany (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/h/ho/hogmany-2/">Hogmany</a> ★</td><td>1999</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hogmany-2/"><img src="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/sett.png" alt="Hogmany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hogmany/">Hogmany</a></td><td>—</td><td>1</td><td>1</td><td>3.74</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hogmany/"><img src="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/sett.png" alt="Hogmany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

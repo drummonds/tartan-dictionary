@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/c/ca/carbon-2/"><img src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/sett.png" alt="Carbon" width="140"><br><strong>Carbon (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/c/ca/carbon/"><img src="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/sett.png" alt="Carbon" width="140"><br><strong>Carbon (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/c/ca/carbon-2/">Carbon</a> ★</td><td>2012</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/carbon-2/"><img src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/sett.png" alt="Carbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carbon/">Carbon</a></td><td>2012</td><td>1</td><td>1</td><td>2.66</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/carbon/"><img src="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/sett.png" alt="Carbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

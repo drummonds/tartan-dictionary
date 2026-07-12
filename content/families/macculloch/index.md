@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macculloch/"><img src="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/sett.png" alt="MacCulloch" width="140"><br><strong>MacCulloch (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/ma/macculloch-dress/"><img src="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png" alt="MacCulloch Dress" width="140"><br><strong>MacCulloch Dress (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/ma/macculloch/">MacCulloch</a> ★</td><td>2000</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macculloch/"><img src="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/sett.png" alt="MacCulloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macculloch-dress/">MacCulloch Dress</a></td><td>2000</td><td>1</td><td>2</td><td>3.00</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macculloch-dress/"><img src="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png" alt="MacCulloch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

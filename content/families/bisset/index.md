@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/b/bi/bisset/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset" width="140"><br><strong>Bisset (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/b/bi/bisset/">Bisset</a> ★</td><td>1976</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bi/bisset/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

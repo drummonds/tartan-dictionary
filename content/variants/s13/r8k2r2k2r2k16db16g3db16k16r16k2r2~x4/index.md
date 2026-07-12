@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/maclachlan.png"><img src="/sources/logan-1831/setts/maclachlan.png" alt="MacLachlan: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/maclachlan.png"><img src="/sources/logan-1831/setts/maclachlan.png" alt="MacLachlan: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 406 — page-scan crop (358,1639)–(612,2074), (624,470)–(878,583)</figcaption>
 </figure>
 

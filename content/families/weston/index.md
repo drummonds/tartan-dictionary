@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/w/we/weston-2/"><img src="/variants/s5/dt4db4dp4k4w1~x10/sett.png" alt="Weston" width="140"><br><strong>Weston (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/we/weston/"><img src="/variants/s8/db4dp4k4w1k4dp4db4dbi4~x10~db1106275-dbi1306265/sett.png" alt="Weston" width="140"><br><strong>Weston (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/w/we/weston-2/">Weston</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/weston-2/"><img src="/variants/s5/dt4db4dp4k4w1~x10/sett.png" alt="Weston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/weston/">Weston</a></td><td>2002</td><td>1</td><td>1</td><td>3.20</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/we/weston/"><img src="/variants/s8/db4dp4k4w1k4dp4db4dbi4~x10~db1106275-dbi1306265/sett.png" alt="Weston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

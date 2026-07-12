@@ -13,7 +13,12 @@ A family of [Clan Hanna](/clan/hanna/).
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/h/ha/hanna-of-stirlingshire-2/"><img src="/variants/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1dr1~x4/sett.png" alt="Hanna of Stirlingshire" width="140"><br><strong>Hanna of Stirlingshire (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/ha/hanna-of-stirlingshire/"><img src="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/sett.png" alt="Hanna of Stirlingshire" width="140"><br><strong>Hanna of Stirlingshire (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/h/ha/hanna-of-stirlingshire-2/">Hanna of Stirlingshire</a> ★</td><td>1984</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/hanna-of-stirlingshire-2/"><img src="/variants/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1dr1~x4/sett.png" alt="Hanna of Stirlingshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hanna-of-stirlingshire/">Hanna of Stirlingshire</a></td><td>~1984</td><td>1</td><td>1</td><td>2.64</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/hanna-of-stirlingshire/"><img src="dr1k1lr2k2lr2k1lr4k1db9lo1-rev.png" alt="Hanna of Stirlingshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

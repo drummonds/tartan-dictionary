@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/r/re/renfrew-2/"><img src="/variants/s7/db6k2db18k18g18k3r2~x2/sett.png" alt="Renfrew" width="140"><br><strong>Renfrew (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/r/re/renfrew/"><img src="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/sett.png" alt="Renfrew" width="140"><br><strong>Renfrew (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/r/re/renfrew-2/">Renfrew</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/renfrew-2/"><img src="/variants/s7/db6k2db18k18g18k3r2~x2/sett.png" alt="Renfrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/renfrew/">Renfrew</a></td><td>2002</td><td>1</td><td>1</td><td>10.58</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/renfrew/"><img src="lb50db6lo2db3lb2db3y8dy8db2dy8lb2-rev.png" alt="Renfrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

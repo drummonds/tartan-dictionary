@@ -11,8 +11,14 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/st/strathtummel/"><img src="/variants/s14/db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13~x2~ki0703341-k0700000/sett.png" alt="Strathtummel" width="140"><br><strong>Strathtummel (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/st/strathtummel-2/"><img src="/variants/s14/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13~x2/sett.png" alt="Strathtummel" width="140"><br><strong>Strathtummel (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/st/strathtummel-3/"><img src="/variants/s14/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13~x2/sett.png" alt="Strathtummel" width="140"><br><strong>Strathtummel (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/st/strathtummel/">Strathtummel</a> ★</td><td>2009</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathtummel/"><img src="/variants/s14/db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13~x2~ki0703341-k0700000/sett.png" alt="Strathtummel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathtummel-2/">Strathtummel</a></td><td>2009</td><td>1</td><td>1</td><td>0.16</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathtummel-2/"><img src="/variants/s14/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13~x2/sett.png" alt="Strathtummel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathtummel-3/">Strathtummel</a></td><td>2009</td><td>1</td><td>1</td><td>2.91</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathtummel-3/"><img src="/variants/s14/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13~x2/sett.png" alt="Strathtummel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

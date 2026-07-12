@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/g/go/gorman/"><img src="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/sett.png" alt="Gorman" width="140"><br><strong>Gorman (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/g/go/gorman-2/"><img src="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/sett.png" alt="Gorman" width="140"><br><strong>Gorman (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/g/go/gorman/">Gorman</a> ★</td><td>2011</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/go/gorman/"><img src="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/sett.png" alt="Gorman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gorman-2/">Gorman</a></td><td>~2010</td><td>1</td><td>1</td><td>4.09</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/go/gorman-2/"><img src="g6n16db49lb14db2w6-rev.png" alt="Gorman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

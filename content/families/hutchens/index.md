@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/h/hu/hutchens/"><img src="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/sett.png" alt="Hutchens" width="140"><br><strong>Hutchens (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/h/hu/hutchens/">Hutchens</a> ★</td><td>2009</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hutchens/"><img src="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/sett.png" alt="Hutchens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

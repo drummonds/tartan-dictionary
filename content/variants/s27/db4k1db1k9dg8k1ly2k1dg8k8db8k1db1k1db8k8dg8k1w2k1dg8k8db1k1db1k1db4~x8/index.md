@@ -26,11 +26,18 @@ Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
 ## Provenance
 
+<figure class="logan-scan">
+<a href="/sources/peter-1856/entries/04-campbell-of-stracathro.png"><img src="/sources/peter-1856/entries/04-campbell-of-stracathro.png" alt="Campbell of Stracathro: the source's printed listing, scanned"></a>
+<figcaption>Peter, The Baronage of Angus and Mearns (1856), p. 42 — page-scan crop (102,466)–(855,656)</figcaption>
+</figure>
+
 David MacGregor Peter recorded the **Argyll Tartan** of **Campbell of Stracathro** in 1856, on page 42 of *The Baronage of Angus and Mearns* — a genealogy of the families of Angus and the Mearns whose entries carry their tartans in Logan's method: stripe depths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
 
 > 4 blue · 1 black · 1 blue · 1 black · 1 blue · 8 black · 8 green · 1 black · 2 white · 1 black · 8 green · 8 black · 8 blue · 1 black · 1 blue · 1 black · 8 blue · 8 black · 8 green · 1 black · 2 yellow · 1 black · 8 green · 8 black · 1 black · 1 blue · 1 black · 4 blue
 
 Rendered at 8 threads to the eighth-inch that is `B/32 K8 B8 K8 B8 K64 G64 K8 W16 K8 G64 K64 B64 K8 B8 K8 B64 K64 G64 K8 Y16 K8 G64 K64 K8 B8 K8 B/32` — the eighths are the captured data, and the threadcount is derived from them at that stated factor (the same display calibration as Logan 1831, whose method the book borrows). Peter named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+The entry as printed: [page 42 of the first edition, on the Internet Archive](https://archive.org/details/baronageofangusm00peteuoft/page/n57/mode/1up).
 
 See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the book, its method and every entry.
 

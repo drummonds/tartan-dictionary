@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/macnab.png"><img src="/sources/logan-1831/setts/macnab.png" alt="MacNab: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/macnab.png"><img src="/sources/logan-1831/setts/macnab.png" alt="MacNab: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 406 — page-scan crop (624,1384)–(878,2080), (890,469)–(1144,622)</figcaption>
 </figure>
 

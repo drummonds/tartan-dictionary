@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/t/to/tott/"><img src="/variants/s7/k51r21y4r12g8db4r5~x2/sett.png" alt="Totté" width="140"><br><strong>Totté (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/t/to/tott/">Totté</a> ★</td><td>2013</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/t/to/tott/"><img src="/variants/s7/k51r21y4r12g8db4r5~x2/sett.png" alt="Totté sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

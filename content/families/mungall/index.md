@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/mu/mungall-2/"><img src="/variants/s15/lg27g7r2k7y2k7r2g7db10r2lg9r3lg2r2db3~x2/sett.png" alt="Mungall" width="140"><br><strong>Mungall (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/mu/mungall/"><img src="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/sett.png" alt="Mungall" width="140"><br><strong>Mungall (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/m/mu/mungall-2/">Mungall</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/mungall-2/"><img src="/variants/s15/lg27g7r2k7y2k7r2g7db10r2lg9r3lg2r2db3~x2/sett.png" alt="Mungall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/mungall/">Mungall</a></td><td>2001</td><td>1</td><td>1</td><td>3.36</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/mungall/"><img src="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/sett.png" alt="Mungall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

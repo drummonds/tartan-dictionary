@@ -27,7 +27,7 @@ Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 ## Provenance
 
 <figure class="logan-scan">
-<a href="/sources/logan-1831/setts/drummond.png"><img src="/sources/logan-1831/setts/drummond.png" alt="Drummond: Logan's printed table listing, scanned"></a>
+<a href="/sources/logan-1831/setts/drummond.png"><img src="/sources/logan-1831/setts/drummond.png" alt="Drummond: the source's printed listing, scanned"></a>
 <figcaption>Logan, The Scottish Gaël (1831), vol. II p. 403 — page-scan crop (542,885)–(796,1584)</figcaption>
 </figure>
 

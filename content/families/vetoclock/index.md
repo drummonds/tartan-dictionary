@@ -11,6 +11,10 @@ crumbs:
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/v/ve/vetoclock/"><img src="/variants/s10/n110o3lr14w1dp10w1lr6o3dp4n2~x2~n1700000-lr2800000/sett.png" alt="Vetoclock" width="140"><br><strong>Vetoclock (2)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/v/ve/vetoclock/">Vetoclock</a> ★</td><td>2013</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/v/ve/vetoclock/"><img src="/variants/s10/n110o3lr14w1dp10w1lr6o3dp4n2~x2~n1700000-lr2800000/sett.png" alt="Vetoclock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

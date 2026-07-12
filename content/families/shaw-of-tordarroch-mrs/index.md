@@ -13,6 +13,10 @@ A family of [Clan Shaw](/clan/shaw/).
 
 ## Tartan
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/sh/shaw-of-tordarroch-mrs/"><img src="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/sett.png" alt="Shaw of Tordarroch, Mrs" width="140"><br><strong>Shaw of Tordarroch, Mrs (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/s/sh/shaw-of-tordarroch-mrs/">Shaw of Tordarroch, Mrs</a> ★</td><td>~2014</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sh/shaw-of-tordarroch-mrs/"><img src="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/sett.png" alt="Shaw of Tordarroch, Mrs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>

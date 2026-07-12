@@ -11,7 +11,12 @@ crumbs:
 
 ## Tartans
 
-<ul class="clan-grid">
-<li><a class="tartan" href="/tartans/j/je/jewish/"><img src="/variants/s11/w3dbi3w1db44o1db2o1dr4o1db5ly2~x2~dbi1409278-db1404245-o2500000/sett.png" alt="Jewish" width="140"><br><strong>Jewish (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/j/je/jewish-2/"><img src="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/sett.png" alt="Jewish" width="140"><br><strong>Jewish (1)</strong></a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
+<tbody>
+<tr><td><a href="/tartans/j/je/jewish/">Jewish</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/je/jewish/"><img src="/variants/s11/w3dbi3w1db44o1db2o1dr4o1db5ly2~x2~dbi1409278-db1404245-o2500000/sett.png" alt="Jewish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/je/jewish-2/">Jewish</a></td><td>2008</td><td>1</td><td>1</td><td>0.01</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/je/jewish-2/"><img src="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/sett.png" alt="Jewish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
